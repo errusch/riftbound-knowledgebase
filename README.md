@@ -29,13 +29,17 @@ scripts/query/kb ask "What happens when time is called?"
 scripts/query/kb card "Ava Achiever"
 scripts/query/kb meta --legend Draven
 scripts/query/kb prep --legend Draven --opponent "Kai'Sa"
+scripts/query/kb prep --legend Draven --opponent "Kai'Sa" --dry-run
+scripts/query/kb report quality
 scripts/query/kb publish --target github prep_brief.draven-vs-kaisa
 scripts/ops/kb_ops daily
 scripts/ops/kb_ops meta-update --date 2026-03-27
 scripts/ops/kb_ops vod-review m2IjrsUzXgU
+scripts/ops/kb_ops expand-prep --limit 5
 scripts/build/rebuild_indexes
 scripts/build/rebuild_graph_indexes
 scripts/validate/validate_repo
+scripts/validate/run_regression_tests
 ```
 
 ## Layout
@@ -80,7 +84,8 @@ scripts/validate/validate_repo
 - `kb ask` returns grounded local hits split by `canon`, `analysis`, and `data`.
 - `kb rule` searches official rules first and keeps derived conflicts separate.
 - `kb card` joins the full card corpus with local rulings and mentions.
-- `kb prep` writes machine-generated local prep artifacts under `analysis/` and `data/indexes/prep_briefs/`.
+- `kb prep` writes machine-generated local prep artifacts under `analysis/` and `data/indexes/prep_briefs/`, and `--dry-run` prints the full brief without mutating the repo.
+- `kb report quality` surfaces draft objects, derived-unverified buckets, and conflict topics for review.
 - `kb publish` writes downstream outbox payloads for GitHub, Notion, or Linear without changing the repo's source-of-truth policy.
 
 ## Agent Ops
@@ -88,6 +93,12 @@ scripts/validate/validate_repo
 - `scripts/ops/kb_ops daily` refreshes generated local artifacts and emits an ops summary.
 - `scripts/ops/kb_ops meta-update` writes dated meta snapshots to `data/meta/` and `analysis/meta/`.
 - `scripts/ops/kb_ops vod-review` rebuilds local VOD review artifacts from stored captions without needing YouTube access again.
+- `scripts/ops/kb_ops expand-prep` generates a small batch of high-value matchup prep briefs from the current local meta snapshot.
+
+## Verification
+
+- `scripts/validate/validate_repo` checks required artifacts, graph/index integrity, conflict detection, duplicate-repo exclusion, and prep-brief coverage.
+- `scripts/validate/run_regression_tests` runs the CLI regression suite in `tests/`.
 
 ## Current Gaps
 

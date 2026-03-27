@@ -1,0 +1,105 @@
+{
+  "id": "prep_brief.ahri-vs-kaisa",
+  "type": "prep_brief",
+  "title": "Ahri vs Kai'Sa Prep Brief",
+  "source_kind": "generated_local_prep",
+  "source_path": "generated",
+  "source_date": "2026-03-27",
+  "trust_level": "derived_unverified",
+  "status": "linked",
+  "tags": [
+    "prep-brief",
+    "Ahri",
+    "Kai'Sa"
+  ],
+  "record": {
+    "legend": "Ahri",
+    "opponent": "Kai'Sa",
+    "event": null,
+    "meta": {
+      "legend": "Ahri",
+      "competitive_decks": 3,
+      "official_lists": 0,
+      "event_count": 3,
+      "best_finish": "Top 64",
+      "latest_tier": 4
+    },
+    "canon_ruling_issues": [
+      {
+        "id": "ruling.clockwork-keeper--errata--4",
+        "title": "Clockwork Keeper (errata)",
+        "path": "data/rulings/clockwork-keeper--errata--4.json"
+      },
+      {
+        "id": "ruling.janna-savior--errata--21",
+        "title": "Janna, Savior (errata)",
+        "path": "data/rulings/janna-savior--errata--21.json"
+      }
+    ],
+    "likely_opponents": [
+      "Annie",
+      "Darius",
+      "Garen",
+      "Jinx",
+      "Kai'Sa",
+      "Lee Sin",
+      "Master Yi"
+    ],
+    "recent_lists": [
+      "Best Ahri From Bologna (Bologna Regional Qualifier, placement Top 64)",
+      "Best Ahri from Vegas (Vegas Regional Qualifier, placement #77)",
+      "Best of Ahri by Kale (Houston Regional Qualifier) (Houston Regional Qualifier, placement #98)",
+      "Blunder - Ahri, Nine-Tailed Fox (official list, placement 48)",
+      "Kale - Ahri, Nine-Tailed Fox (official list, placement 98)"
+    ],
+    "matchup_heuristics": [
+      "Ahri Deck Guide: Nine-Tailed Fox Control",
+      "Budget Riftbound Guide & Best Cheap Decks \u2013 Spiritforged",
+      "Riftbound Budget Deck Tier List \u2013 Origins",
+      "Riftbound Meta Tier List \u2013 August 29th 2025",
+      "Riftbound Meta Tier List \u2013 Origins",
+      "Riftbound Meta Tier List \u2013 Origins Global Release Week 6",
+      "Riftbound Meta Tier List \u2013 September 24th 2025",
+      "Ahri vs Kai'Sa"
+    ],
+    "unresolved_claims": [],
+    "battlefields": [
+      "Blind Obelisk",
+      "Fortified Position",
+      "Reaver's Row",
+      "Targon's Peak",
+      "Void Gate",
+      "Voidgate",
+      "Windswept Hillock"
+    ],
+    "concepts": [
+      "battlefield order",
+      "equipment",
+      "hidden",
+      "showdown",
+      "tournament preparation",
+      "value extraction"
+    ],
+    "practice_questions": [
+      "Which battlefield orders matter most for Ahri?",
+      "What lines keep Ahri efficient without overcommitting?",
+      "Which local rulings or errata change common Ahri assumptions?",
+      "What does Ahri need to respect first against Kai'Sa?",
+      "Which battlefields swing Ahri vs Kai'Sa?"
+    ],
+    "citations": [
+      "analysis.guide.ahri-deck-guide-nine-tailed-fox-control [legacy local; analysis/guides/ahri-deck-guide-nine-tailed-fox-control.md]",
+      "analysis.guide.budget-riftbound-guide-best-cheap-decks-spiritforged [legacy local; analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md]",
+      "analysis.guide.riftbound-budget-deck-tier-list-origins [legacy local; analysis/guides/riftbound-budget-deck-tier-list-origins.md]",
+      "analysis.guide.riftbound-meta-tier-list-august-29th-2025 [legacy local; analysis/guides/riftbound-meta-tier-list-august-29th-2025.md]",
+      "analysis.guide.riftbound-meta-tier-list-origins [legacy local; analysis/guides/riftbound-meta-tier-list-origins.md]",
+      "analysis.guide.riftbound-meta-tier-list-origins-global-release-week-6 [legacy local; analysis/guides/riftbound-meta-tier-list-origins-global-release-week-6.md]",
+      "analysis.guide.riftbound-meta-tier-list-september-24th-2025 [legacy local; analysis/guides/riftbound-meta-tier-list-september-24th-2025.md]",
+      "analysis.matchup.ahri-vs-kaisa [derived local; analysis/matchups/ahri-vs-kaisa.md]",
+      "analysis.matchup.annie-vs-kaisa [derived local; analysis/matchups/annie-vs-kaisa.md]",
+      "analysis.matchup.darius-vs-kaisa [derived local; analysis/matchups/darius-vs-kaisa.md]",
+      "analysis.matchup.draven-vs-kaisa [derived local; analysis/matchups/draven-vs-kaisa.md]",
+      "analysis.archetype.kaisa [derived local; analysis/archetypes/kaisa.md]"
+    ]
+  }
+}

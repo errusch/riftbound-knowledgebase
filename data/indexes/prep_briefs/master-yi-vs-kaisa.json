@@ -1,0 +1,101 @@
+{
+  "id": "prep_brief.master-yi-vs-kaisa",
+  "type": "prep_brief",
+  "title": "Master Yi vs Kai'Sa Prep Brief",
+  "source_kind": "generated_local_prep",
+  "source_path": "generated",
+  "source_date": "2026-03-27",
+  "trust_level": "derived_unverified",
+  "status": "linked",
+  "tags": [
+    "prep-brief",
+    "Master Yi",
+    "Kai'Sa"
+  ],
+  "record": {
+    "legend": "Master Yi",
+    "opponent": "Kai'Sa",
+    "event": null,
+    "meta": {
+      "legend": "Master Yi",
+      "competitive_decks": 4,
+      "official_lists": 0,
+      "event_count": 4,
+      "best_finish": "Top 16",
+      "latest_tier": 2
+    },
+    "canon_ruling_issues": [
+      {
+        "id": "ruling.clockwork-keeper--errata--4",
+        "title": "Clockwork Keeper (errata)",
+        "path": "data/rulings/clockwork-keeper--errata--4.json"
+      }
+    ],
+    "likely_opponents": [
+      "Ahri",
+      "Annie",
+      "Darius",
+      "Garen",
+      "Jinx",
+      "Kai'Sa",
+      "Lee Sin"
+    ],
+    "recent_lists": [
+      "Best Master Yi from Bologna (Bologna Regional Qualifier, placement Top 16)",
+      "Best of Master Yi Vegas (Vegas Regional Qualifier, placement Top 32)",
+      "Master Yi Rank 2 Deck National Open Shanghai (Shanghai National Open, placement Runner-Up)",
+      "Master Yi, Wuju Bladesman by Challenger TCG (Houston Regional Qualifiers Rank 2) (Houston Regional Qualifier, placement Top 4)",
+      "wojtek - Master Yi, Wuju Bladesman (official list, placement 13)",
+      "Blargh1111 - Master Yi, Wuju Bladesman (official list, placement 2)",
+      "Clyde - Master Yi, Wuju Bladesman (official list, placement 6)"
+    ],
+    "matchup_heuristics": [
+      "Budget Riftbound Guide & Best Cheap Decks \u2013 Spiritforged",
+      "Riftbound Budget Deck Tier List \u2013 Origins",
+      "Riftbound Meta Tier List \u2013 August 29th 2025",
+      "Riftbound Meta Tier List \u2013 Global Release Post Chinese Regionals",
+      "Riftbound Meta Tier List \u2013 Origins",
+      "Riftbound Meta Tier List \u2013 Origins Global Release Week 6",
+      "Kai'Sa vs Master Yi",
+      "Master Yi vs Kai'Sa"
+    ],
+    "unresolved_claims": [],
+    "battlefields": [
+      "Blind Obelisk",
+      "Fortified Position",
+      "Reaver's Row",
+      "Targon's Peak",
+      "Void Gate",
+      "Voidgate",
+      "Windswept Hillock"
+    ],
+    "concepts": [
+      "battlefield order",
+      "equipment",
+      "hidden",
+      "showdown",
+      "value extraction"
+    ],
+    "practice_questions": [
+      "Which battlefield orders matter most for Master Yi?",
+      "What lines keep Master Yi efficient without overcommitting?",
+      "Which local rulings or errata change common Master Yi assumptions?",
+      "What does Master Yi need to respect first against Kai'Sa?",
+      "Which battlefields swing Master Yi vs Kai'Sa?"
+    ],
+    "citations": [
+      "analysis.guide.budget-riftbound-guide-best-cheap-decks-spiritforged [legacy local; analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md]",
+      "analysis.guide.riftbound-budget-deck-tier-list-origins [legacy local; analysis/guides/riftbound-budget-deck-tier-list-origins.md]",
+      "analysis.guide.riftbound-meta-tier-list-august-29th-2025 [legacy local; analysis/guides/riftbound-meta-tier-list-august-29th-2025.md]",
+      "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals [legacy local; analysis/guides/riftbound-meta-tier-list-global-release-post-chinese-regionals.md]",
+      "analysis.guide.riftbound-meta-tier-list-origins [legacy local; analysis/guides/riftbound-meta-tier-list-origins.md]",
+      "analysis.guide.riftbound-meta-tier-list-origins-global-release-week-6 [legacy local; analysis/guides/riftbound-meta-tier-list-origins-global-release-week-6.md]",
+      "analysis.matchup.kaisa-vs-master-yi [derived local; analysis/matchups/kaisa-vs-master-yi.md]",
+      "analysis.matchup.master-yi-vs-kaisa [derived local; analysis/matchups/master-yi-vs-kaisa.md]",
+      "analysis.guide.staying-a-step-ahead-with-kai-sa-tempo-deck-guide-analysis [legacy local; analysis/guides/staying-a-step-ahead-with-kai-sa-tempo-deck-guide-analysis.md]",
+      "analysis.matchup.ahri-vs-kaisa [derived local; analysis/matchups/ahri-vs-kaisa.md]",
+      "analysis.matchup.annie-vs-kaisa [derived local; analysis/matchups/annie-vs-kaisa.md]",
+      "analysis.matchup.darius-vs-kaisa [derived local; analysis/matchups/darius-vs-kaisa.md]"
+    ]
+  }
+}

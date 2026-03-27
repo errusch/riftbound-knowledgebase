@@ -12,7 +12,9 @@ from typing import Any
 from scripts.lib.kb_common import ROOT, now_iso, rebuild_indexes, write_json, write_markdown
 from scripts.lib.kb_graph import (
     build_meta_snapshot_payload,
+    canonicalize_legend_name,
     load_object_index,
+    provenance_label,
     search_objects,
     short_snippet,
     write_meta_snapshot,
@@ -40,7 +42,7 @@ def normalize_legend(value: str) -> str:
     for item in legend_lookup:
         if item.get("lookup_key") == lookup:
             return item["legend"]
-    return value.strip()
+    return canonicalize_legend_name(value.strip()) or value.strip()
 
 
 def resolve_card(query: str, object_map: dict[str, Any]) -> str | None:
@@ -59,7 +61,8 @@ def resolve_card(query: str, object_map: dict[str, Any]) -> str | None:
 
 
 def format_citation(obj: Any) -> str:
-    return f"{obj.meta.get('id')} [{obj.path}]"
+    badge = provenance_label(obj.meta)
+    return f"{obj.meta.get('id')} [{badge}; {obj.path}]"
 
 
 def official_decklist_lookup() -> dict[str, dict[str, Any]]:
@@ -93,11 +96,15 @@ def latest_generated_meta() -> dict[str, Any] | None:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def quality_report() -> dict[str, Any]:
+    return load_index("quality_report", {})
+
+
 def collect_legend_sources(objects: list[Any], legend: str) -> dict[str, list[Any]]:
     query = legend
     guides = [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=20) if obj.path.startswith("analysis/guides/")]
     articles = [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=20) if obj.path.startswith(("analysis/articles/", "analysis/community/", "analysis/intel/"))]
-    videos = [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=20) if obj.path.startswith("analysis/videos/")]
+    videos = [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=20) if obj.path.startswith("analysis/videos/") and obj.meta.get("status") in {"reviewed", "linked"}]
     return {
         "guides": guides[:8],
         "articles": articles[:8],
@@ -146,25 +153,67 @@ def is_rule_query(query: str) -> bool:
     )
 
 
+def query_profile(question: str, object_map: dict[str, Any]) -> str:
+    if is_rule_query(question):
+        return "rule"
+    if resolve_card(question, object_map):
+        return "card"
+    lowered = question.lower()
+    if any(token in lowered for token in ["meta", "deck", "matchup", "vs", "opponent", "legend"]):
+        return "legend"
+    return "generic"
+
+
+def policy_search(objects: list[Any], query: str, profile: str, section: str, limit: int) -> list[Any]:
+    if profile == "rule":
+        if section == "canon":
+            return [
+                *search_objects(objects, query, types={"rule_atom"}, limit=limit),
+                *search_objects(objects, query, types={"canon_document"}, limit=max(2, limit // 2)),
+            ][:limit]
+        if section == "analysis":
+            return [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 2) if obj.path.startswith("analysis/reference/")][:limit]
+        if section == "data":
+            return search_objects(objects, query, types={"conflict_record"}, limit=limit)
+    if profile == "card":
+        if section == "canon":
+            return search_objects(objects, query, types={"ruling_record", "canon_document"}, limit=limit)
+        if section == "analysis":
+            return [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 2) if obj.path.startswith(("analysis/guides/", "analysis/videos/", "analysis/articles/"))][:limit]
+        if section == "data":
+            return search_objects(objects, query, types={"card_record", "ruling_record"}, limit=limit)
+    if profile == "legend":
+        if section == "canon":
+            return search_objects(objects, query, types={"rule_atom", "canon_document", "ruling_record"}, limit=limit)
+        if section == "analysis":
+            return [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 3) if obj.path.startswith(("analysis/guides/", "analysis/articles/", "analysis/community/", "analysis/videos/", "analysis/archetypes/", "analysis/matchups/"))][:limit]
+        if section == "data":
+            return search_objects(objects, query, types={"meta_snapshot", "competitive_record", "event_record", "taxonomy_entity"}, limit=limit)
+    if section == "canon":
+        return search_objects(objects, query, types={"canon_document", "rule_atom", "ruling_record"}, limit=limit)
+    if section == "analysis":
+        return [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 2) if obj.meta.get("status") != "draft"][:limit]
+    return search_objects(objects, query, types={"card_record", "competitive_record", "event_record", "meta_snapshot", "taxonomy_entity", "conflict_record"}, limit=limit)
+
+
+def provenance_heading(meta: dict[str, Any]) -> str:
+    return f"{provenance_label(meta)}; {meta.get('trust_level', 'unknown')}; {meta.get('status', 'unknown')}"
+
+
 def cmd_ask(args: argparse.Namespace) -> int:
     ensure_graph_ready()
-    objects, _ = load_object_index()
-    query = expand_rule_query(args.question) if is_rule_query(args.question) else args.question
-    if is_rule_query(args.question):
-        canon_hits = [
-            *search_objects(objects, query, types={"rule_atom"}, limit=5),
-            *search_objects(objects, query, types={"canon_document"}, limit=3),
-        ][:5]
-        analysis_hits = [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=8) if obj.path.startswith("analysis/reference/")][:5]
-        data_hits = search_objects(objects, query, types={"conflict_record"}, limit=5)
+    objects, object_map = load_object_index()
+    profile = query_profile(args.question, object_map)
+    query = expand_rule_query(args.question) if profile == "rule" else args.question
+    canon_hits = policy_search(objects, query, profile, "canon", 5)
+    analysis_hits = policy_search(objects, query, profile, "analysis", 5)
+    data_hits = policy_search(objects, query, profile, "data", 5)
+    if profile == "rule":
         conflicts = load_index("derived_conflicts", [])[:5]
     else:
-        canon_hits = search_objects(objects, query, scopes={"canon", "data"}, types={"canon_document", "rule_atom"}, limit=5)
-        analysis_hits = search_objects(objects, query, scopes={"analysis"}, limit=5)
-        data_hits = search_objects(objects, query, scopes={"data"}, limit=5)
         conflicts = [item for item in load_index("derived_conflicts", []) if query.lower() in json.dumps(item).lower()]
 
-    lines = [f"Question: {args.question}", ""]
+    lines = [f"Question: {args.question}", f"Profile: {profile}", ""]
     lines.extend(render_sections("Canon", canon_hits, query))
     lines.append("")
     lines.extend(render_sections("Analysis", analysis_hits, query))
@@ -210,6 +259,7 @@ def cmd_card(args: argparse.Namespace) -> int:
     vod_links = load_index("vod_links", [])
     lines = [
         f"Card: {card.meta.get('title')}",
+        f"Provenance: {provenance_heading(card.meta)}",
         f"ID: {card.object_id}",
         f"Path: {card.path}",
         f"Set: {record.get('set', {}).get('label', 'unknown')}",
@@ -277,12 +327,12 @@ def cmd_meta(args: argparse.Namespace) -> int:
         lines.append(
             f"Generated snapshot: {legend_meta['competitive_decks']} competitive decks, {legend_meta['official_lists']} official lists, {legend_meta['event_count']} events, latest tier {legend_meta['latest_tier'] or 'unknown'}"
         )
-    elif meta_tier_obj is not None:
+    if meta_tier_obj is not None:
         snapshots = (meta_tier_obj.payload or {}).get("record", {}).get("snapshots", [])
         if snapshots:
             latest = snapshots[-1]
             lines.append(f"Legacy tier snapshot: tier {latest.get('tier')} on {latest.get('snapshot_date')} from {latest.get('source')}")
-    else:
+    if legend_meta is None and meta_tier_obj is None:
         lines.append("No local meta snapshot found.")
 
     lines.extend(["", "Recent Lists"])
@@ -319,6 +369,28 @@ def build_prep_brief_payload(legend: str, opponent: str | None, event: str | Non
         for hit in opponent_hits:
             if hit not in relevant_analysis:
                 relevant_analysis.append(hit)
+    else:
+        opponent_hits = []
+
+    def analysis_priority(obj: Any) -> tuple[int, str]:
+        text = f"{obj.meta.get('title', '')} {obj.body}".lower()
+        source_kind = str(obj.meta.get("source_kind", ""))
+        legend_hit = legend.lower() in text
+        opponent_hit = opponent.lower() in text if opponent else False
+        if legend_hit and opponent_hit:
+            bucket = 0
+        elif opponent_hit:
+            bucket = 1
+        elif legend_hit:
+            bucket = 2
+        elif obj in opponent_hits:
+            bucket = 3
+        else:
+            bucket = 4
+        generated_penalty = 1 if source_kind == "generated_local_prep" else 0
+        return (bucket, generated_penalty, obj.meta.get("title", ""))
+
+    relevant_analysis = sorted(relevant_analysis, key=analysis_priority)
 
     battlefields = set()
     concepts = set()
@@ -376,7 +448,7 @@ def build_prep_brief_payload(legend: str, opponent: str | None, event: str | Non
         "source_path": "generated",
         "source_date": now_iso()[:10],
         "trust_level": "derived_unverified",
-        "status": "draft",
+        "status": "linked",
         "tags": ["prep-brief", legend, *([opponent] if opponent else [])],
         "record": {
             "legend": legend,
@@ -419,7 +491,7 @@ def write_prep_artifacts(payload: dict[str, Any]) -> tuple[Path, Path | None, Pa
         "source_path": str(archetype_path),
         "source_date": payload["source_date"],
         "trust_level": "derived_unverified",
-        "status": "draft",
+        "status": "linked",
         "tags": ["archetype", legend],
     }
     archetype_body = "\n".join(
@@ -451,7 +523,7 @@ def write_prep_artifacts(payload: dict[str, Any]) -> tuple[Path, Path | None, Pa
             "source_path": str(matchup_path),
             "source_date": payload["source_date"],
             "trust_level": "derived_unverified",
-            "status": "draft",
+            "status": "linked",
             "tags": ["matchup", legend, opponent],
         }
         matchup_body = "\n".join(
@@ -477,23 +549,45 @@ def write_prep_artifacts(payload: dict[str, Any]) -> tuple[Path, Path | None, Pa
 
 def cmd_prep(args: argparse.Namespace) -> int:
     payload = build_prep_brief_payload(args.legend, args.opponent, args.event)
-    archetype_path, matchup_path, prep_path = write_prep_artifacts(payload)
-    rebuild_indexes()
+    archetype_path = None
+    matchup_path = None
+    prep_path = None
+    if not args.dry_run:
+        archetype_path, matchup_path, prep_path = write_prep_artifacts(payload)
+        rebuild_indexes()
     lines = [
         f"Prep Brief: {payload['title']}",
-        f"- brief: {prep_path.relative_to(ROOT)}",
-        f"- archetype: {archetype_path.relative_to(ROOT)}",
     ]
-    if matchup_path:
+    if prep_path is not None and archetype_path is not None:
+        lines.append(f"- brief: {prep_path.relative_to(ROOT)}")
+        lines.append(f"- archetype: {archetype_path.relative_to(ROOT)}")
+    if matchup_path is not None:
         lines.append(f"- matchup: {matchup_path.relative_to(ROOT)}")
+    if args.dry_run:
+        lines.append("- dry_run: true")
     lines.extend(
         [
+            "",
+            "Canon/Ruling Issues",
+            *bullet_list([item["title"] for item in payload["record"]["canon_ruling_issues"]]),
             "",
             "Recent Lists",
             *bullet_list(payload["record"]["recent_lists"]),
             "",
+            "Matchup Heuristics",
+            *bullet_list(payload["record"]["matchup_heuristics"]),
+            "",
+            "Battlefield Considerations",
+            *bullet_list(payload["record"]["battlefields"]),
+            "",
+            "Unresolved Claims",
+            *bullet_list(payload["record"]["unresolved_claims"]),
+            "",
             "Practice Questions",
             *bullet_list(payload["record"]["practice_questions"]),
+            "",
+            "Citations",
+            *bullet_list(payload["record"]["citations"]),
         ]
     )
     print("\n".join(lines))
@@ -506,7 +600,15 @@ def cmd_source(args: argparse.Namespace) -> int:
     obj = object_map.get(args.object_id)
     if obj is None:
         raise SystemExit(f"Unknown local object id: {args.object_id}")
-    print(json.dumps({"meta": obj.index_entry(), "body": obj.body[:4000], "payload": obj.payload}, indent=2, ensure_ascii=True))
+    payload = {"meta": obj.index_entry(), "provenance": provenance_label(obj.meta), "body": obj.body[:4000], "payload": obj.payload}
+    print(json.dumps(payload, indent=2, ensure_ascii=True))
+    return 0
+
+
+def cmd_report_quality(args: argparse.Namespace) -> int:
+    ensure_graph_ready()
+    report = quality_report()
+    print(json.dumps(report, indent=2, ensure_ascii=True))
     return 0
 
 
@@ -623,6 +725,36 @@ def cmd_ops_daily(args: argparse.Namespace) -> int:
     return 0
 
 
+def top_legend_pairs(limit: int = 5) -> list[tuple[str, str]]:
+    snapshot = latest_generated_meta()
+    legends = snapshot.get("record", {}).get("legends", []) if snapshot else []
+    top = [item["legend"] for item in legends[: max(limit + 1, 6)]]
+    pairs: list[tuple[str, str]] = []
+    for index, legend in enumerate(top):
+        if len(pairs) >= limit:
+            break
+        for opponent in top:
+            if legend == opponent:
+                continue
+            candidate = (legend, opponent)
+            if candidate not in pairs:
+                pairs.append(candidate)
+                break
+    return pairs[:limit]
+
+
+def cmd_ops_expand_prep(args: argparse.Namespace) -> int:
+    pairs = top_legend_pairs(args.limit)
+    written = []
+    for legend, opponent in pairs:
+        payload = build_prep_brief_payload(legend, opponent, None)
+        _, _, prep_path = write_prep_artifacts(payload)
+        written.append(str(prep_path.relative_to(ROOT)))
+    rebuild_indexes()
+    print(json.dumps({"generated": written, "count": len(written)}, indent=2, ensure_ascii=True))
+    return 0
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="kb", description="Local Riftbound knowledgebase CLI")
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -647,11 +779,17 @@ def build_parser() -> argparse.ArgumentParser:
     prep_parser.add_argument("--legend", required=True)
     prep_parser.add_argument("--opponent")
     prep_parser.add_argument("--event")
+    prep_parser.add_argument("--dry-run", action="store_true")
     prep_parser.set_defaults(func=cmd_prep)
 
     source_parser = subparsers.add_parser("source", help="Dump a local object by id")
     source_parser.add_argument("object_id")
     source_parser.set_defaults(func=cmd_source)
+
+    report_parser = subparsers.add_parser("report", help="Read local quality reports")
+    report_subparsers = report_parser.add_subparsers(dest="report_command", required=True)
+    quality_parser = report_subparsers.add_parser("quality", help="Show draft, derived-unverified, and conflicted object reports")
+    quality_parser.set_defaults(func=cmd_report_quality)
 
     publish_parser = subparsers.add_parser("publish", help="Prepare a downstream publish payload for a target")
     publish_parser.add_argument("--target", choices=["github", "notion", "linear"], required=True)
@@ -672,6 +810,10 @@ def build_parser() -> argparse.ArgumentParser:
     vod_parser = ops_subparsers.add_parser("vod-review", help="Refresh a local VOD review from stored captions")
     vod_parser.add_argument("video_id")
     vod_parser.set_defaults(func=cmd_ops_vod_review)
+
+    expand_prep_parser = ops_subparsers.add_parser("expand-prep", help="Generate prep briefs for top local matchup pairs")
+    expand_prep_parser.add_argument("--limit", type=int, default=5)
+    expand_prep_parser.set_defaults(func=cmd_ops_expand_prep)
 
     return parser
 

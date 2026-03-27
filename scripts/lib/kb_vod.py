@@ -12,35 +12,52 @@ from scripts.lib.kb_common import detect_conflicts, detect_entities, extract_cla
 from scripts.lib.kb_graph import build_graph_indexes
 
 
+def _merge_fragment_pair(previous: str, current: str) -> str | None:
+    prev_words = previous.split()
+    curr_words = current.split()
+    max_overlap = min(len(prev_words), len(curr_words), 12)
+    for size in range(max_overlap, 2, -1):
+        if [word.lower() for word in prev_words[-size:]] == [word.lower() for word in curr_words[:size]]:
+            return " ".join(prev_words + curr_words[size:])
+    return None
+
+
+def merge_transcript_fragments(fragments: list[tuple[str, str]]) -> list[tuple[str, str]]:
+    merged: list[tuple[str, str]] = []
+    for timestamp, text in fragments:
+        normalized = re.sub(r"\s+", " ", text).strip()
+        if not normalized:
+            continue
+        if not merged:
+            merged.append((timestamp, normalized))
+            continue
+        prev_timestamp, prev_text = merged[-1]
+        if normalized == prev_text or normalized in prev_text:
+            continue
+        if prev_text in normalized:
+            merged[-1] = (timestamp, normalized)
+            continue
+        stitched = _merge_fragment_pair(prev_text, normalized)
+        if stitched:
+            merged[-1] = (prev_timestamp, stitched)
+            continue
+        merged.append((timestamp, normalized))
+    return merged
+
+
 def clean_vtt_with_timestamps(text: str) -> str:
     lines = text.splitlines()
-    chunks: list[str] = []
+    fragments: list[tuple[str, str]] = []
     current_timestamp = ""
     current_text: list[str] = []
-    last_normalized = ""
 
     def flush() -> None:
-        nonlocal current_text, last_normalized
+        nonlocal current_text
         if not current_text:
             return
         normalized = re.sub(r"\s+", " ", " ".join(current_text)).strip()
         if normalized:
-            if not last_normalized:
-                prefix = f"[{current_timestamp}] " if current_timestamp else ""
-                chunks.append(f"{prefix}{normalized}")
-                last_normalized = normalized
-            elif normalized == last_normalized:
-                pass
-            elif normalized in last_normalized:
-                pass
-            elif last_normalized in normalized:
-                prefix = f"[{current_timestamp}] " if current_timestamp else ""
-                chunks[-1] = f"{prefix}{normalized}"
-                last_normalized = normalized
-            else:
-                prefix = f"[{current_timestamp}] " if current_timestamp else ""
-                chunks.append(f"{prefix}{normalized}")
-                last_normalized = normalized
+            fragments.append((current_timestamp, normalized))
         current_text = []
 
     for raw_line in lines:
@@ -61,6 +78,10 @@ def clean_vtt_with_timestamps(text: str) -> str:
             if not current_text or cleaned != current_text[-1]:
                 current_text.append(cleaned)
     flush()
+    chunks = []
+    for timestamp, fragment in merge_transcript_fragments(fragments):
+        prefix = f"[{timestamp}] " if timestamp else ""
+        chunks.append(f"{prefix}{fragment}")
     return "\n\n".join(chunks).strip()
 
 
@@ -132,6 +153,9 @@ def refresh_video_artifacts(video_root: Path) -> dict[str, Any]:
     claims = extract_claims(cleaned)
     conflicts = detect_conflicts(cleaned)
     quality_flags = transcript_quality_flags(cleaned)
+    has_links = bool(entities.get("concepts") or entities.get("battlefields") or entities.get("legends"))
+    transcript_status = "linked" if has_links else "reviewed"
+    review_status = "linked" if has_links else "reviewed"
 
     transcript_meta = {
         "id": f"analysis.video_transcript.{metadata['video_id']}",
@@ -141,7 +165,7 @@ def refresh_video_artifacts(video_root: Path) -> dict[str, Any]:
         "source_path": metadata.get("source_path"),
         "source_date": metadata.get("source_date"),
         "trust_level": "conflicted" if conflicts else metadata.get("trust_level", "derived_unverified"),
-        "status": "draft",
+        "status": transcript_status,
         "tags": ["video", "transcript", metadata["video_id"]],
     }
     write_markdown(video_root / "transcript.cleaned.md", transcript_meta, cleaned or "_Transcript cleaning produced no output._")
@@ -155,12 +179,13 @@ def refresh_video_artifacts(video_root: Path) -> dict[str, Any]:
         "source_path": metadata.get("source_path"),
         "source_date": metadata.get("source_date"),
         "trust_level": "conflicted" if conflicts else metadata.get("trust_level", "derived_unverified"),
-        "status": "draft",
+        "status": review_status,
         "tags": ["video", "review", metadata["video_id"]],
     }
     write_markdown(video_root / "review.md", review_meta, review_body(metadata, cleaned, claims, entities, quality_flags, conflicts))
 
     writeable_metadata["trust_level"] = "conflicted" if conflicts else metadata.get("trust_level", "derived_unverified")
+    writeable_metadata["status"] = review_status
     metadata_path.write_text(json.dumps(writeable_metadata, indent=2, ensure_ascii=True) + "\n", encoding="utf-8")
     build_graph_indexes()
     return {

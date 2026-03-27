@@ -1,0 +1,56 @@
+{
+  "rule": {
+    "query": "What happens when time is called?",
+    "required_ids": [
+      "canon.tournament-rules-2025-10-16.408.2",
+      "canon.tournament-rules-2025-10-16.408.2.a"
+    ],
+    "conflict_ids": [
+      "conflict.analysis-reference-tournament-rules-tournament-additional-turns",
+      "conflict.analysis-reference-tournament-rules-tournament-two-point-lead"
+    ]
+  },
+  "card": {
+    "query": "Ava Achiever",
+    "card_id": "card.ogn-107-298",
+    "expected_provenance": "legacy local; derived_verified; reviewed",
+    "ruling_id": "ruling.ava-achiever--errata--1",
+    "guide_ids": [
+      "analysis.article.state-of-spiritforged",
+      "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers"
+    ]
+  },
+  "prep": {
+    "legend": "Draven",
+    "opponent": "Kai'Sa",
+    "required_sections": [
+      "Canon/Ruling Issues",
+      "Recent Lists",
+      "Matchup Heuristics",
+      "Battlefield Considerations",
+      "Practice Questions",
+      "Citations"
+    ],
+    "required_citations": [
+      "analysis.guide.kai-sa-daughter-of-the-void-guide",
+      "analysis.matchup.draven-vs-kaisa"
+    ]
+  },
+  "meta": {
+    "legend": "Draven",
+    "required_phrases": [
+      "Generated snapshot:",
+      "Legacy tier snapshot:"
+    ],
+    "required_list_fragments": [
+      "Best of Draven From Bologna",
+      "Midrange Draven wins Vegas"
+    ]
+  },
+  "source": {
+    "object_id": "card.ogn-107-298",
+    "expected_provenance": "legacy local",
+    "expected_title": "Ava Achiever",
+    "expected_source_kind": "legacy_local_knowledge_db"
+  }
+}

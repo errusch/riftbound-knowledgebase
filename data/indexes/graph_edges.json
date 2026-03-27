@@ -370,13 +370,143 @@
     "kind": "has_deck"
   },
   {
+    "source": "Ahri",
+    "target": "analysis.matchup.ahri-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Ahri",
+    "target": "analysis.matchup.annie-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Ahri",
+    "target": "analysis.matchup.darius-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Ahri",
+    "target": "analysis.matchup.draven-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Ahri",
+    "target": "analysis.matchup.kaisa-vs-master-yi",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Ahri",
+    "target": "analysis.matchup.master-yi-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Annie",
+    "target": "analysis.matchup.ahri-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Annie",
+    "target": "analysis.matchup.annie-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Annie",
+    "target": "analysis.matchup.darius-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Annie",
+    "target": "analysis.matchup.draven-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Annie",
+    "target": "analysis.matchup.master-yi-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Darius",
+    "target": "analysis.matchup.ahri-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Darius",
+    "target": "analysis.matchup.annie-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Darius",
+    "target": "analysis.matchup.darius-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Darius",
+    "target": "analysis.matchup.draven-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Darius",
+    "target": "analysis.matchup.master-yi-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Draven",
+    "target": "analysis.matchup.ahri-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Draven",
+    "target": "analysis.matchup.annie-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Draven",
+    "target": "analysis.matchup.darius-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
     "source": "Draven",
     "target": "analysis.matchup.draven-vs-kaisa",
     "kind": "has_matchup"
   },
   {
     "source": "Kai'Sa",
+    "target": "analysis.matchup.ahri-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Kai'Sa",
+    "target": "analysis.matchup.annie-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Kai'Sa",
+    "target": "analysis.matchup.darius-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Kai'Sa",
     "target": "analysis.matchup.draven-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Kai'Sa",
+    "target": "analysis.matchup.kaisa-vs-master-yi",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Kai'Sa",
+    "target": "analysis.matchup.master-yi-vs-kaisa",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Master Yi",
+    "target": "analysis.matchup.kaisa-vs-master-yi",
+    "kind": "has_matchup"
+  },
+  {
+    "source": "Master Yi",
+    "target": "analysis.matchup.master-yi-vs-kaisa",
     "kind": "has_matchup"
   },
   {
@@ -610,8 +740,118 @@
     "kind": "mentions_battlefield"
   },
   {
+    "source": "analysis.matchup.ahri-vs-kaisa",
+    "target": "taxonomy.battlefield.blind-obelisk",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.ahri-vs-kaisa",
+    "target": "taxonomy.battlefield.fortified-position",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.ahri-vs-kaisa",
+    "target": "taxonomy.battlefield.reaver-s-row",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.ahri-vs-kaisa",
+    "target": "taxonomy.battlefield.targon-s-peak",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.ahri-vs-kaisa",
+    "target": "taxonomy.battlefield.void-gate",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.ahri-vs-kaisa",
+    "target": "taxonomy.battlefield.voidgate",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.ahri-vs-kaisa",
+    "target": "taxonomy.battlefield.windswept-hillock",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.annie-vs-kaisa",
+    "target": "taxonomy.battlefield.blind-obelisk",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.annie-vs-kaisa",
+    "target": "taxonomy.battlefield.fortified-position",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.annie-vs-kaisa",
+    "target": "taxonomy.battlefield.reaver-s-row",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.annie-vs-kaisa",
+    "target": "taxonomy.battlefield.targon-s-peak",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.annie-vs-kaisa",
+    "target": "taxonomy.battlefield.void-gate",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.annie-vs-kaisa",
+    "target": "taxonomy.battlefield.voidgate",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.annie-vs-kaisa",
+    "target": "taxonomy.battlefield.windswept-hillock",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.darius-vs-kaisa",
+    "target": "taxonomy.battlefield.blind-obelisk",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.darius-vs-kaisa",
+    "target": "taxonomy.battlefield.fortified-position",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.darius-vs-kaisa",
+    "target": "taxonomy.battlefield.reaver-s-row",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.darius-vs-kaisa",
+    "target": "taxonomy.battlefield.targon-s-peak",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.darius-vs-kaisa",
+    "target": "taxonomy.battlefield.void-gate",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.darius-vs-kaisa",
+    "target": "taxonomy.battlefield.voidgate",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.darius-vs-kaisa",
+    "target": "taxonomy.battlefield.windswept-hillock",
+    "kind": "mentions_battlefield"
+  },
+  {
     "source": "analysis.matchup.draven-vs-kaisa",
     "target": "taxonomy.battlefield.blind-obelisk",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.draven-vs-kaisa",
+    "target": "taxonomy.battlefield.fortified-position",
     "kind": "mentions_battlefield"
   },
   {
@@ -636,6 +876,76 @@
   },
   {
     "source": "analysis.matchup.draven-vs-kaisa",
+    "target": "taxonomy.battlefield.windswept-hillock",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.kaisa-vs-master-yi",
+    "target": "taxonomy.battlefield.blind-obelisk",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.kaisa-vs-master-yi",
+    "target": "taxonomy.battlefield.fortified-position",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.kaisa-vs-master-yi",
+    "target": "taxonomy.battlefield.reaver-s-row",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.kaisa-vs-master-yi",
+    "target": "taxonomy.battlefield.targon-s-peak",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.kaisa-vs-master-yi",
+    "target": "taxonomy.battlefield.void-gate",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.kaisa-vs-master-yi",
+    "target": "taxonomy.battlefield.voidgate",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.kaisa-vs-master-yi",
+    "target": "taxonomy.battlefield.windswept-hillock",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.master-yi-vs-kaisa",
+    "target": "taxonomy.battlefield.blind-obelisk",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.master-yi-vs-kaisa",
+    "target": "taxonomy.battlefield.fortified-position",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.master-yi-vs-kaisa",
+    "target": "taxonomy.battlefield.reaver-s-row",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.master-yi-vs-kaisa",
+    "target": "taxonomy.battlefield.targon-s-peak",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.master-yi-vs-kaisa",
+    "target": "taxonomy.battlefield.void-gate",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.master-yi-vs-kaisa",
+    "target": "taxonomy.battlefield.voidgate",
+    "kind": "mentions_battlefield"
+  },
+  {
+    "source": "analysis.matchup.master-yi-vs-kaisa",
     "target": "taxonomy.battlefield.windswept-hillock",
     "kind": "mentions_battlefield"
   },
@@ -4941,6 +5251,26 @@
   },
   {
     "source": "analysis.video_review.m2IjrsUzXgU",
+    "target": "card.ogn-062-298",
+    "kind": "mentions_card"
+  },
+  {
+    "source": "analysis.video_review.m2IjrsUzXgU",
+    "target": "card.ogn-105-298",
+    "kind": "mentions_card"
+  },
+  {
+    "source": "analysis.video_review.m2IjrsUzXgU",
+    "target": "card.ogn-128-298",
+    "kind": "mentions_card"
+  },
+  {
+    "source": "analysis.video_review.m2IjrsUzXgU",
+    "target": "card.ogn-139-298",
+    "kind": "mentions_card"
+  },
+  {
+    "source": "analysis.video_review.m2IjrsUzXgU",
     "target": "card.ogn-285-298",
     "kind": "mentions_card"
   },
@@ -4956,7 +5286,22 @@
   },
   {
     "source": "analysis.video_review.m2IjrsUzXgU",
+    "target": "card.sfd-122-221",
+    "kind": "mentions_card"
+  },
+  {
+    "source": "analysis.video_review.m2IjrsUzXgU",
+    "target": "card.sfd-136-221",
+    "kind": "mentions_card"
+  },
+  {
+    "source": "analysis.video_review.m2IjrsUzXgU",
     "target": "card.sfd-148-221",
+    "kind": "mentions_card"
+  },
+  {
+    "source": "analysis.video_review.m2IjrsUzXgU",
+    "target": "card.sfd-186-221",
     "kind": "mentions_card"
   },
   {
@@ -5067,6 +5412,11 @@
   {
     "source": "analysis.video_review.m2IjrsUzXgU",
     "target": "ruling.draven-audacious--ruling--26",
+    "kind": "references_ruling"
+  },
+  {
+    "source": "analysis.video_review.m2IjrsUzXgU",
+    "target": "ruling.reinforce--errata--15",
     "kind": "references_ruling"
   },
   {

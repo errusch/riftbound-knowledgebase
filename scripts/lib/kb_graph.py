@@ -124,6 +124,8 @@ def markdown_objects() -> list[KBObject]:
         for path in sorted(root.rglob("*.md")):
             raw = path.read_text(encoding="utf-8")
             meta, body = parse_frontmatter(raw)
+            if not meta.get("id") or not meta.get("type") or not meta.get("title"):
+                continue
             objects.append(
                 KBObject(
                     meta=meta,
@@ -282,6 +284,40 @@ def load_object_index() -> tuple[list[KBObject], dict[str, KBObject]]:
     return objects, {obj.object_id: obj for obj in objects}
 
 
+def legend_alias_map() -> dict[str, str]:
+    mapping: dict[str, str] = {}
+    for item in load_json(ROOT / "data" / "taxonomy" / "legends.json", []):
+        if not isinstance(item, dict) or not item.get("name"):
+            continue
+        canonical = str(item["name"]).strip()
+        mapping[canonical.lower()] = canonical
+        for alias in item.get("aliases", []):
+            mapping[str(alias).strip().lower()] = canonical
+    return mapping
+
+
+def canonicalize_legend_name(value: str | None) -> str | None:
+    if not value:
+        return None
+    cleaned = str(value).strip()
+    if not cleaned:
+        return None
+    mapping = legend_alias_map()
+    return mapping.get(cleaned.lower(), cleaned)
+
+
+def provenance_label(meta: dict[str, Any]) -> str:
+    source_kind = str(meta.get("source_kind", ""))
+    trust_level = str(meta.get("trust_level", ""))
+    if trust_level == "conflicted":
+        return "conflicted"
+    if source_kind == "official_local_file" or trust_level == "official":
+        return "official local"
+    if "legacy_local_knowledge_db" in source_kind or source_kind == "legacy_local_knowledge_db":
+        return "legacy local"
+    return "derived local"
+
+
 def token_set(text: str) -> set[str]:
     return {token for token in TOKEN_RE.findall(text.lower()) if len(token) > 1 and token not in STOPWORDS}
 
@@ -380,6 +416,7 @@ def legend_lookup_entries() -> list[dict[str, Any]]:
     for item in payload:
         if not isinstance(item, dict) or not item.get("name"):
             continue
+        entries.append({"lookup_key": item["name"].lower(), "legend": item["name"]})
         for alias in item.get("aliases", []):
             entries.append(
                 {
@@ -455,7 +492,7 @@ def build_cross_references(objects: list[KBObject]) -> dict[str, Any]:
 
     official_decklists = load_json(ROOT / "data" / "indexes" / "official_decklists.json", [])
     for item in official_decklists:
-        legend = item.get("legend") or item.get("champion")
+        legend = canonicalize_legend_name(item.get("legend") or item.get("champion"))
         if legend:
             legend_to_decks[str(legend)].append(item["id"])
         event_id = item.get("event_id")
@@ -502,7 +539,7 @@ def build_cross_references(objects: list[KBObject]) -> dict[str, Any]:
         if obj.meta.get("type") == "competitive_record" and obj.path.startswith("data/decks/"):
             record = (obj.payload or {}).get("record", {})
             legend = record.get("legend", {}).get("name") if isinstance(record.get("legend"), dict) else None
-            legend = legend or record.get("legend")
+            legend = canonicalize_legend_name(legend or record.get("legend"))
             if legend:
                 legend_to_decks[str(legend)].append(obj.object_id)
                 graph_edges.append({"source": str(legend), "target": obj.object_id, "kind": "has_deck"})
@@ -513,8 +550,9 @@ def build_cross_references(objects: list[KBObject]) -> dict[str, Any]:
 
         if obj.path.startswith("analysis/matchups/"):
             for legend in entities.get("legends", []):
-                legend_to_matchups[legend].append(obj.object_id)
-                graph_edges.append({"source": legend, "target": obj.object_id, "kind": "has_matchup"})
+                canonical_legend = canonicalize_legend_name(legend) or legend
+                legend_to_matchups[canonical_legend].append(obj.object_id)
+                graph_edges.append({"source": canonical_legend, "target": obj.object_id, "kind": "has_matchup"})
 
     conflicts = load_json(ROOT / "data" / "indexes" / "derived_conflicts.json", [])
     conflicts_by_topic = group_conflicts_by_topic(conflicts)
@@ -554,12 +592,23 @@ def build_core_object_indexes(objects: list[KBObject]) -> dict[str, list[dict[st
 
 def build_meta_snapshot_payload(objects: list[KBObject], snapshot_date: str | None = None) -> dict[str, Any]:
     snapshot_date = snapshot_date or now_iso()[:10]
-    legend_stats: dict[str, dict[str, Any]] = defaultdict(lambda: {"legend": "", "competitive_decks": 0, "official_lists": 0, "event_ids": set(), "best_finish": None, "latest_tier": None})
+    legend_stats: dict[str, dict[str, Any]] = defaultdict(
+        lambda: {
+            "legend": "",
+            "competitive_decks": 0,
+            "official_lists": 0,
+            "event_ids": set(),
+            "best_finish": None,
+            "latest_tier": None,
+            "legacy_sources": set(),
+        }
+    )
 
     for obj in objects:
         if obj.meta.get("type") == "competitive_record" and obj.path.startswith("data/decks/"):
             record = (obj.payload or {}).get("record", {})
             legend = record.get("legend", {}).get("name") if isinstance(record.get("legend"), dict) else record.get("legend")
+            legend = canonicalize_legend_name(legend)
             if not legend:
                 continue
             stats = legend_stats[str(legend)]
@@ -575,7 +624,7 @@ def build_meta_snapshot_payload(objects: list[KBObject], snapshot_date: str | No
         if obj.meta.get("type") == "event_record" and obj.path.startswith("data/events/official/"):
             payload = obj.payload or {}
             for deck in payload.get("decklists", []):
-                legend = deck.get("legend")
+                legend = canonicalize_legend_name(deck.get("legend"))
                 if not legend:
                     continue
                 stats = legend_stats[str(legend)]
@@ -588,13 +637,15 @@ def build_meta_snapshot_payload(objects: list[KBObject], snapshot_date: str | No
 
         if obj.meta.get("type") == "meta_snapshot" and obj.path.startswith("data/meta-tiers/"):
             record = (obj.payload or {}).get("record", {})
-            legend = record.get("legend")
+            legend = canonicalize_legend_name(record.get("legend"))
             snapshots = record.get("snapshots", [])
             if legend and snapshots:
                 stats = legend_stats[str(legend)]
                 stats["legend"] = str(legend)
                 latest = snapshots[-1]
                 stats["latest_tier"] = latest.get("tier")
+                if latest.get("source"):
+                    stats["legacy_sources"].add(str(latest.get("source")))
 
     legends = []
     for legend, stats in sorted(legend_stats.items()):
@@ -606,6 +657,7 @@ def build_meta_snapshot_payload(objects: list[KBObject], snapshot_date: str | No
                 "event_count": len(stats["event_ids"]),
                 "best_finish": stats["best_finish"],
                 "latest_tier": stats["latest_tier"],
+                "legacy_sources": sorted(stats["legacy_sources"]),
             }
         )
 
@@ -625,6 +677,40 @@ def build_meta_snapshot_payload(objects: list[KBObject], snapshot_date: str | No
             "legends": legends,
         },
     }
+
+
+def build_quality_report(objects: list[KBObject], conflicts_by_topic: list[dict[str, Any]]) -> dict[str, Any]:
+    draft_objects = []
+    derived_unverified_by_type: dict[str, list[dict[str, Any]]] = defaultdict(list)
+
+    for obj in objects:
+        entry = {
+            "id": obj.object_id,
+            "type": obj.meta.get("type"),
+            "title": obj.meta.get("title"),
+            "path": obj.path,
+            "scope": obj.scope,
+            "trust_level": obj.meta.get("trust_level"),
+            "status": obj.meta.get("status"),
+            "provenance": provenance_label(obj.meta),
+        }
+        if obj.meta.get("status") == "draft":
+            draft_objects.append(entry)
+        if obj.meta.get("trust_level") == "derived_unverified":
+            derived_unverified_by_type[str(obj.meta.get("type", "unknown"))].append(entry)
+
+    report = {
+        "draft_objects": sorted(draft_objects, key=lambda item: (item["type"] or "", item["title"] or "")),
+        "derived_unverified_by_type": {
+            key: {
+                "count": len(items),
+                "objects": sorted(items, key=lambda item: item["title"] or "")[:50],
+            }
+            for key, items in sorted(derived_unverified_by_type.items())
+        },
+        "conflicted_by_topic": conflicts_by_topic,
+    }
+    return report
 
 
 def write_meta_snapshot(snapshot_payload: dict[str, Any]) -> tuple[Path, Path]:
@@ -690,6 +776,7 @@ def build_graph_indexes() -> dict[str, Any]:
     cards_lookup = card_lookup_entries(objects)
     legends_lookup = legend_lookup_entries()
     meta_snapshots = build_meta_snapshot_index()
+    quality_report = build_quality_report(objects, cross_refs["conflicts_by_topic"])
 
     indexes = {
         **object_indexes,
@@ -706,6 +793,7 @@ def build_graph_indexes() -> dict[str, Any]:
         "legend_lookup": legends_lookup,
         "meta_snapshots": meta_snapshots,
         "vod_links": cross_refs["vod_links"],
+        "quality_report": quality_report,
     }
 
     index_root = ROOT / "data" / "indexes"

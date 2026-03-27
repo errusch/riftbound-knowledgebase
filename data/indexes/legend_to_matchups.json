@@ -1,8 +1,42 @@
 {
+  "Ahri": [
+    "analysis.matchup.ahri-vs-kaisa",
+    "analysis.matchup.annie-vs-kaisa",
+    "analysis.matchup.darius-vs-kaisa",
+    "analysis.matchup.draven-vs-kaisa",
+    "analysis.matchup.kaisa-vs-master-yi",
+    "analysis.matchup.master-yi-vs-kaisa"
+  ],
+  "Annie": [
+    "analysis.matchup.ahri-vs-kaisa",
+    "analysis.matchup.annie-vs-kaisa",
+    "analysis.matchup.darius-vs-kaisa",
+    "analysis.matchup.draven-vs-kaisa",
+    "analysis.matchup.master-yi-vs-kaisa"
+  ],
+  "Darius": [
+    "analysis.matchup.ahri-vs-kaisa",
+    "analysis.matchup.annie-vs-kaisa",
+    "analysis.matchup.darius-vs-kaisa",
+    "analysis.matchup.draven-vs-kaisa",
+    "analysis.matchup.master-yi-vs-kaisa"
+  ],
   "Draven": [
+    "analysis.matchup.ahri-vs-kaisa",
+    "analysis.matchup.annie-vs-kaisa",
+    "analysis.matchup.darius-vs-kaisa",
     "analysis.matchup.draven-vs-kaisa"
   ],
   "Kai'Sa": [
-    "analysis.matchup.draven-vs-kaisa"
+    "analysis.matchup.ahri-vs-kaisa",
+    "analysis.matchup.annie-vs-kaisa",
+    "analysis.matchup.darius-vs-kaisa",
+    "analysis.matchup.draven-vs-kaisa",
+    "analysis.matchup.kaisa-vs-master-yi",
+    "analysis.matchup.master-yi-vs-kaisa"
+  ],
+  "Master Yi": [
+    "analysis.matchup.kaisa-vs-master-yi",
+    "analysis.matchup.master-yi-vs-kaisa"
   ]
 }

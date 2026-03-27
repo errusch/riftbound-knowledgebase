@@ -1,0 +1,102 @@
+{
+  "id": "prep_brief.annie-vs-kaisa",
+  "type": "prep_brief",
+  "title": "Annie vs Kai'Sa Prep Brief",
+  "source_kind": "generated_local_prep",
+  "source_path": "generated",
+  "source_date": "2026-03-27",
+  "trust_level": "derived_unverified",
+  "status": "linked",
+  "tags": [
+    "prep-brief",
+    "Annie",
+    "Kai'Sa"
+  ],
+  "record": {
+    "legend": "Annie",
+    "opponent": "Kai'Sa",
+    "event": null,
+    "meta": {
+      "legend": "Annie",
+      "competitive_decks": 3,
+      "official_lists": 0,
+      "event_count": 3,
+      "best_finish": "#69",
+      "latest_tier": 1
+    },
+    "canon_ruling_issues": [
+      {
+        "id": "ruling.ezreal-prodigy--ruling--31",
+        "title": "Ezreal, Prodigy (ruling)",
+        "path": "data/rulings/ezreal-prodigy--ruling--31.json"
+      }
+    ],
+    "likely_opponents": [
+      "Ahri",
+      "Darius",
+      "Garen",
+      "Jinx",
+      "Kai'Sa",
+      "Lee Sin",
+      "Master Yi"
+    ],
+    "recent_lists": [
+      "Annie, Dark Child by Shawn Dhaliwal (Houston Regional Qualifier - Rank 1 (Houston Regional Qualifier, placement Winner)",
+      "Best of Annie from bologna (Bologna Regional Qualifier, placement Top 32)",
+      "Annie by Kenkou (Vegas Regional Qualifier, placement #69)",
+      "COPE Anarqhy - Annie, Dark Child (official list, placement 27)",
+      "Dhawally - Annie, Dark Child (official list, placement 1)",
+      "NoVeggies - Annie, Dark Child (official list, placement 7)",
+      "Prymor - Annie, Dark Child (official list, placement 4)",
+      "Zent - Annie, Dark Child (official list, placement 3)"
+    ],
+    "matchup_heuristics": [
+      "Budget Riftbound Guide & Best Cheap Decks \u2013 Spiritforged",
+      "Riftbound Budget Deck Tier List \u2013 Origins",
+      "Ahri vs Kai'Sa",
+      "Annie vs Kai'Sa",
+      "Darius vs Kai'Sa",
+      "Draven vs Kai'Sa",
+      "Master Yi vs Kai'Sa",
+      "Kai'Sa, Daughter of the Void Guide"
+    ],
+    "unresolved_claims": [],
+    "battlefields": [
+      "Blind Obelisk",
+      "Fortified Position",
+      "Reaver's Row",
+      "Targon's Peak",
+      "Void Gate",
+      "Voidgate",
+      "Windswept Hillock"
+    ],
+    "concepts": [
+      "battlefield order",
+      "equipment",
+      "hidden",
+      "showdown",
+      "value extraction"
+    ],
+    "practice_questions": [
+      "Which battlefield orders matter most for Annie?",
+      "What lines keep Annie efficient without overcommitting?",
+      "Which local rulings or errata change common Annie assumptions?",
+      "What does Annie need to respect first against Kai'Sa?",
+      "Which battlefields swing Annie vs Kai'Sa?"
+    ],
+    "citations": [
+      "analysis.guide.budget-riftbound-guide-best-cheap-decks-spiritforged [legacy local; analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md]",
+      "analysis.guide.riftbound-budget-deck-tier-list-origins [legacy local; analysis/guides/riftbound-budget-deck-tier-list-origins.md]",
+      "analysis.matchup.ahri-vs-kaisa [derived local; analysis/matchups/ahri-vs-kaisa.md]",
+      "analysis.matchup.annie-vs-kaisa [derived local; analysis/matchups/annie-vs-kaisa.md]",
+      "analysis.matchup.darius-vs-kaisa [derived local; analysis/matchups/darius-vs-kaisa.md]",
+      "analysis.matchup.draven-vs-kaisa [derived local; analysis/matchups/draven-vs-kaisa.md]",
+      "analysis.matchup.master-yi-vs-kaisa [derived local; analysis/matchups/master-yi-vs-kaisa.md]",
+      "analysis.guide.kai-sa-daughter-of-the-void-guide [legacy local; analysis/guides/kai-sa-daughter-of-the-void-guide.md]",
+      "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers [legacy local; analysis/guides/kai-sa-daughter-of-the-void-deck-in-numbers.md]",
+      "analysis.guide.staying-a-step-ahead-with-kai-sa-tempo-deck-guide-analysis [legacy local; analysis/guides/staying-a-step-ahead-with-kai-sa-tempo-deck-guide-analysis.md]",
+      "analysis.archetype.kaisa [derived local; analysis/archetypes/kaisa.md]",
+      "analysis.matchup.kaisa-vs-master-yi [derived local; analysis/matchups/kaisa-vs-master-yi.md]"
+    ]
+  }
+}

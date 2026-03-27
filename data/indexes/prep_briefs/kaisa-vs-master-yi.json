@@ -1,0 +1,102 @@
+{
+  "id": "prep_brief.kaisa-vs-master-yi",
+  "type": "prep_brief",
+  "title": "Kai'Sa vs Master Yi Prep Brief",
+  "source_kind": "generated_local_prep",
+  "source_path": "generated",
+  "source_date": "2026-03-27",
+  "trust_level": "derived_unverified",
+  "status": "linked",
+  "tags": [
+    "prep-brief",
+    "Kai'Sa",
+    "Master Yi"
+  ],
+  "record": {
+    "legend": "Kai'Sa",
+    "opponent": "Master Yi",
+    "event": null,
+    "meta": {
+      "legend": "Kai'Sa",
+      "competitive_decks": 4,
+      "official_lists": 0,
+      "event_count": 4,
+      "best_finish": "Top 16",
+      "latest_tier": 1
+    },
+    "canon_ruling_issues": [
+      {
+        "id": "ruling.falling-star--errata--9",
+        "title": "Falling Star (errata)",
+        "path": "data/rulings/falling-star--errata--9.json"
+      }
+    ],
+    "likely_opponents": [
+      "Ahri",
+      "Annie",
+      "Darius",
+      "Garen",
+      "Jinx",
+      "Lee Sin",
+      "Master Yi"
+    ],
+    "recent_lists": [
+      "Best of Kai'sa from Bologna (Bologna Regional Qualifier, placement Top 16)",
+      "Kai'Sa, Daughter of the Void by Mateusz Jasi\u0144ski (best of kai'sa Houston Regional Qualifier) (Houston Regional Qualifier, placement Top 8)",
+      "Kai'sa Winning Deck Shanghai Regional Tournament (Shanghai National Open, placement Winner)",
+      "Kai'Sa by aggresia (Vegas Regional Qualifier, placement Top 16)",
+      "fisica - Kai'Sa, Daughter of the Void (official list, placement 9)",
+      "Alanzq1 - Kai'Sa, Daughter of the Void (official list, placement 5)",
+      "georgeg - Kai'Sa, Daughter of the Void (official list, placement 8)",
+      "cookie - Kai'Sa, Daughter of the Void (official list, placement 5)"
+    ],
+    "matchup_heuristics": [
+      "Budget Riftbound Guide & Best Cheap Decks \u2013 Spiritforged",
+      "Riftbound Budget Deck Tier List \u2013 Origins",
+      "Riftbound Meta Tier List \u2013 August 29th 2025",
+      "Kai'Sa vs Master Yi",
+      "Master Yi vs Kai'Sa",
+      "Hone the Art of Wuju with Master Yi Tempo \u2013 Deck Guide & Analysis",
+      "Master Yi, Wuju Bladesman Guide",
+      "Master Yi Archetype Brief"
+    ],
+    "unresolved_claims": [],
+    "battlefields": [
+      "Blind Obelisk",
+      "Fortified Position",
+      "Reaver's Row",
+      "Targon's Peak",
+      "Void Gate",
+      "Voidgate",
+      "Windswept Hillock"
+    ],
+    "concepts": [
+      "battlefield order",
+      "equipment",
+      "hidden",
+      "showdown",
+      "value extraction"
+    ],
+    "practice_questions": [
+      "Which battlefield orders matter most for Kai'Sa?",
+      "What lines keep Kai'Sa efficient without overcommitting?",
+      "Which local rulings or errata change common Kai'Sa assumptions?",
+      "What does Kai'Sa need to respect first against Master Yi?",
+      "Which battlefields swing Kai'Sa vs Master Yi?"
+    ],
+    "citations": [
+      "analysis.guide.budget-riftbound-guide-best-cheap-decks-spiritforged [legacy local; analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md]",
+      "analysis.guide.riftbound-budget-deck-tier-list-origins [legacy local; analysis/guides/riftbound-budget-deck-tier-list-origins.md]",
+      "analysis.guide.riftbound-meta-tier-list-august-29th-2025 [legacy local; analysis/guides/riftbound-meta-tier-list-august-29th-2025.md]",
+      "analysis.matchup.kaisa-vs-master-yi [derived local; analysis/matchups/kaisa-vs-master-yi.md]",
+      "analysis.matchup.master-yi-vs-kaisa [derived local; analysis/matchups/master-yi-vs-kaisa.md]",
+      "analysis.guide.hone-the-art-of-wuju-with-master-yi-tempo-deck-guide-analysis [legacy local; analysis/guides/hone-the-art-of-wuju-with-master-yi-tempo-deck-guide-analysis.md]",
+      "analysis.guide.master-yi-wuju-bladesman-guide [legacy local; analysis/guides/master-yi-wuju-bladesman-guide.md]",
+      "analysis.archetype.master-yi [derived local; analysis/archetypes/master-yi.md]",
+      "analysis.guide.ahri-deck-guide-nine-tailed-fox-control [legacy local; analysis/guides/ahri-deck-guide-nine-tailed-fox-control.md]",
+      "analysis.guide.battlefields-101-attacking-and-trading-units [legacy local; analysis/guides/battlefields-101-attacking-and-trading-units.md]",
+      "analysis.guide.kai-sa-daughter-of-the-void-guide [legacy local; analysis/guides/kai-sa-daughter-of-the-void-guide.md]",
+      "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers [legacy local; analysis/guides/kai-sa-daughter-of-the-void-deck-in-numbers.md]"
+    ]
+  }
+}

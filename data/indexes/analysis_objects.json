@@ -1,31 +1,5 @@
 [
   {
-    "id": null,
-    "type": null,
-    "title": null,
-    "source_kind": null,
-    "source_path": null,
-    "source_date": null,
-    "trust_level": null,
-    "status": null,
-    "tags": null,
-    "path": "analysis/archetypes/README.md",
-    "scope": "analysis"
-  },
-  {
-    "id": null,
-    "type": null,
-    "title": null,
-    "source_kind": null,
-    "source_path": null,
-    "source_date": null,
-    "trust_level": null,
-    "status": null,
-    "tags": null,
-    "path": "analysis/matchups/README.md",
-    "scope": "analysis"
-  },
-  {
     "id": "analysis.reference.academy-strategy",
     "type": "analysis_note",
     "title": "ACADEMY_STRATEGY.md",
@@ -60,6 +34,22 @@
     "scope": "analysis"
   },
   {
+    "id": "analysis.archetype.ahri",
+    "type": "analysis_note",
+    "title": "Ahri Archetype Brief",
+    "source_kind": "generated_local_prep",
+    "source_path": "/Users/eric/Documents/Playground/analysis/archetypes/ahri.md",
+    "source_date": "2026-03-27",
+    "trust_level": "derived_unverified",
+    "status": "linked",
+    "tags": [
+      "archetype",
+      "Ahri"
+    ],
+    "path": "analysis/archetypes/ahri.md",
+    "scope": "analysis"
+  },
+  {
     "id": "analysis.guide.ahri-deck-guide-nine-tailed-fox-control",
     "type": "analysis_note",
     "title": "Ahri Deck Guide: Nine-Tailed Fox Control",
@@ -77,6 +67,23 @@
     "scope": "analysis"
   },
   {
+    "id": "analysis.matchup.ahri-vs-kaisa",
+    "type": "analysis_note",
+    "title": "Ahri vs Kai'Sa",
+    "source_kind": "generated_local_prep",
+    "source_path": "/Users/eric/Documents/Playground/analysis/matchups/ahri-vs-kaisa.md",
+    "source_date": "2026-03-27",
+    "trust_level": "derived_unverified",
+    "status": "linked",
+    "tags": [
+      "matchup",
+      "Ahri",
+      "Kai'Sa"
+    ],
+    "path": "analysis/matchups/ahri-vs-kaisa.md",
+    "scope": "analysis"
+  },
+  {
     "id": "analysis.guide.ahri-nine-tailed-fox-guide",
     "type": "analysis_note",
     "title": "Ahri, Nine-Tailed Fox Guide",
@@ -91,6 +98,39 @@
       "riftbound.gg"
     ],
     "path": "analysis/guides/ahri-nine-tailed-fox-guide.md",
+    "scope": "analysis"
+  },
+  {
+    "id": "analysis.archetype.annie",
+    "type": "analysis_note",
+    "title": "Annie Archetype Brief",
+    "source_kind": "generated_local_prep",
+    "source_path": "/Users/eric/Documents/Playground/analysis/archetypes/annie.md",
+    "source_date": "2026-03-27",
+    "trust_level": "derived_unverified",
+    "status": "linked",
+    "tags": [
+      "archetype",
+      "Annie"
+    ],
+    "path": "analysis/archetypes/annie.md",
+    "scope": "analysis"
+  },
+  {
+    "id": "analysis.matchup.annie-vs-kaisa",
+    "type": "analysis_note",
+    "title": "Annie vs Kai'Sa",
+    "source_kind": "generated_local_prep",
+    "source_path": "/Users/eric/Documents/Playground/analysis/matchups/annie-vs-kaisa.md",
+    "source_date": "2026-03-27",
+    "trust_level": "derived_unverified",
+    "status": "linked",
+    "tags": [
+      "matchup",
+      "Annie",
+      "Kai'Sa"
+    ],
+    "path": "analysis/matchups/annie-vs-kaisa.md",
     "scope": "analysis"
   },
   {
@@ -2203,6 +2243,39 @@
     "scope": "analysis"
   },
   {
+    "id": "analysis.archetype.darius",
+    "type": "analysis_note",
+    "title": "Darius Archetype Brief",
+    "source_kind": "generated_local_prep",
+    "source_path": "/Users/eric/Documents/Playground/analysis/archetypes/darius.md",
+    "source_date": "2026-03-27",
+    "trust_level": "derived_unverified",
+    "status": "linked",
+    "tags": [
+      "archetype",
+      "Darius"
+    ],
+    "path": "analysis/archetypes/darius.md",
+    "scope": "analysis"
+  },
+  {
+    "id": "analysis.matchup.darius-vs-kaisa",
+    "type": "analysis_note",
+    "title": "Darius vs Kai'Sa",
+    "source_kind": "generated_local_prep",
+    "source_path": "/Users/eric/Documents/Playground/analysis/matchups/darius-vs-kaisa.md",
+    "source_date": "2026-03-27",
+    "trust_level": "derived_unverified",
+    "status": "linked",
+    "tags": [
+      "matchup",
+      "Darius",
+      "Kai'Sa"
+    ],
+    "path": "analysis/matchups/darius-vs-kaisa.md",
+    "scope": "analysis"
+  },
+  {
     "id": "analysis.guide.darius-hand-of-noxus-guide",
     "type": "analysis_note",
     "title": "Darius, Hand of Noxus Guide",
@@ -2278,7 +2351,7 @@
     "source_path": "/Users/eric/Documents/Playground/analysis/archetypes/draven.md",
     "source_date": "2026-03-27",
     "trust_level": "derived_unverified",
-    "status": "draft",
+    "status": "linked",
     "tags": [
       "archetype",
       "Draven"
@@ -2294,7 +2367,7 @@
     "source_path": "/Users/eric/Documents/Playground/analysis/matchups/draven-vs-kaisa.md",
     "source_date": "2026-03-27",
     "trust_level": "derived_unverified",
-    "status": "draft",
+    "status": "linked",
     "tags": [
       "matchup",
       "Draven",
@@ -2581,7 +2654,7 @@
     "source_path": "https://youtu.be/m2IjrsUzXgU",
     "source_date": "20260327",
     "trust_level": "derived_unverified",
-    "status": "draft",
+    "status": "linked",
     "tags": [
       "video",
       "NovaRiftbound",
@@ -2598,7 +2671,7 @@
     "source_path": "https://youtu.be/m2IjrsUzXgU",
     "source_date": "20260327",
     "trust_level": "derived_unverified",
-    "status": "draft",
+    "status": "linked",
     "tags": [
       "video",
       "transcript",
@@ -2724,6 +2797,39 @@
       "riftbound.gg"
     ],
     "path": "analysis/guides/jinx-loose-cannon-guide.md",
+    "scope": "analysis"
+  },
+  {
+    "id": "analysis.archetype.kaisa",
+    "type": "analysis_note",
+    "title": "Kai'Sa Archetype Brief",
+    "source_kind": "generated_local_prep",
+    "source_path": "/Users/eric/Documents/Playground/analysis/archetypes/kaisa.md",
+    "source_date": "2026-03-27",
+    "trust_level": "derived_unverified",
+    "status": "linked",
+    "tags": [
+      "archetype",
+      "Kai'Sa"
+    ],
+    "path": "analysis/archetypes/kaisa.md",
+    "scope": "analysis"
+  },
+  {
+    "id": "analysis.matchup.kaisa-vs-master-yi",
+    "type": "analysis_note",
+    "title": "Kai'Sa vs Master Yi",
+    "source_kind": "generated_local_prep",
+    "source_path": "/Users/eric/Documents/Playground/analysis/matchups/kaisa-vs-master-yi.md",
+    "source_date": "2026-03-27",
+    "trust_level": "derived_unverified",
+    "status": "linked",
+    "tags": [
+      "matchup",
+      "Kai'Sa",
+      "Master Yi"
+    ],
+    "path": "analysis/matchups/kaisa-vs-master-yi.md",
     "scope": "analysis"
   },
   {
@@ -2910,6 +3016,39 @@
       "YouTube/Website"
     ],
     "path": "analysis/creators/magicalmeta.md",
+    "scope": "analysis"
+  },
+  {
+    "id": "analysis.archetype.master-yi",
+    "type": "analysis_note",
+    "title": "Master Yi Archetype Brief",
+    "source_kind": "generated_local_prep",
+    "source_path": "/Users/eric/Documents/Playground/analysis/archetypes/master-yi.md",
+    "source_date": "2026-03-27",
+    "trust_level": "derived_unverified",
+    "status": "linked",
+    "tags": [
+      "archetype",
+      "Master Yi"
+    ],
+    "path": "analysis/archetypes/master-yi.md",
+    "scope": "analysis"
+  },
+  {
+    "id": "analysis.matchup.master-yi-vs-kaisa",
+    "type": "analysis_note",
+    "title": "Master Yi vs Kai'Sa",
+    "source_kind": "generated_local_prep",
+    "source_path": "/Users/eric/Documents/Playground/analysis/matchups/master-yi-vs-kaisa.md",
+    "source_date": "2026-03-27",
+    "trust_level": "derived_unverified",
+    "status": "linked",
+    "tags": [
+      "matchup",
+      "Master Yi",
+      "Kai'Sa"
+    ],
+    "path": "analysis/matchups/master-yi-vs-kaisa.md",
     "scope": "analysis"
   },
   {
@@ -4090,7 +4229,7 @@
     "source_path": "https://youtu.be/m2IjrsUzXgU",
     "source_date": "20260327",
     "trust_level": "derived_unverified",
-    "status": "draft",
+    "status": "linked",
     "tags": [
       "video",
       "review",

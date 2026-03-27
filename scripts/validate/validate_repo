@@ -49,6 +49,7 @@ def main() -> None:
         ROOT / "data" / "indexes" / "derived_conflicts.json",
         ROOT / "data" / "indexes" / "data_objects.json",
         ROOT / "data" / "indexes" / "graph_edges.json",
+        ROOT / "data" / "indexes" / "quality_report.json",
         ROOT / "data" / "indexes" / "card_to_rulings.json",
         ROOT / "data" / "indexes" / "card_to_guides.json",
         ROOT / "data" / "indexes" / "legend_to_decks.json",
@@ -69,6 +70,7 @@ def main() -> None:
         ROOT / "scripts" / "query" / "kb",
         ROOT / "scripts" / "ops" / "kb_ops",
         ROOT / "scripts" / "build" / "rebuild_graph_indexes",
+        ROOT / "scripts" / "validate" / "run_regression_tests",
     ]
     missing = [str(path.relative_to(ROOT)) for path in required_paths if not path.exists()]
     if missing:
@@ -115,6 +117,8 @@ def main() -> None:
             fail(f"Legacy DB import index too small for {key}: expected >= {minimum}, got {actual}")
 
     all_objects = load_json(ROOT / "data" / "indexes" / "all_objects.json", [])
+    if any(not obj.get("id") or not obj.get("type") or not obj.get("title") for obj in all_objects):
+        fail("Object index contains entries with missing id/type/title metadata.")
     duplicate_root = str(IGNORED_DUPLICATE_ROOT)
     for obj in all_objects + decks + events:
         source_path = obj.get("source_path") or ""
@@ -178,9 +182,18 @@ def main() -> None:
     if not meta_snapshots:
         fail("Generated meta snapshot index should not be empty.")
 
+    quality_report = load_json(ROOT / "data" / "indexes" / "quality_report.json", {})
+    if "draft_objects" not in quality_report or "conflicted_by_topic" not in quality_report:
+        fail("Quality report is missing draft/conflict sections.")
+
     vod_links = load_json(ROOT / "data" / "indexes" / "vod_links.json", [])
     if not any(item.get("object_id") == "analysis.video_review.m2IjrsUzXgU" for item in vod_links):
         fail("VOD links index should include the existing NovaRiftbound review.")
+
+    prep_briefs_root = ROOT / "data" / "indexes" / "prep_briefs"
+    prep_briefs = sorted(prep_briefs_root.glob("*.json"))
+    if len(prep_briefs) < 5:
+        fail("Expected at least five generated prep briefs after hardening expansion.")
 
     print("Validation passed.")
 

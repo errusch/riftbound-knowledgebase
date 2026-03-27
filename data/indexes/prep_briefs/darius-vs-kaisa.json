@@ -1,0 +1,99 @@
+{
+  "id": "prep_brief.darius-vs-kaisa",
+  "type": "prep_brief",
+  "title": "Darius vs Kai'Sa Prep Brief",
+  "source_kind": "generated_local_prep",
+  "source_path": "generated",
+  "source_date": "2026-03-27",
+  "trust_level": "derived_unverified",
+  "status": "linked",
+  "tags": [
+    "prep-brief",
+    "Darius",
+    "Kai'Sa"
+  ],
+  "record": {
+    "legend": "Darius",
+    "opponent": "Kai'Sa",
+    "event": null,
+    "meta": {
+      "legend": "Darius",
+      "competitive_decks": 3,
+      "official_lists": 0,
+      "event_count": 3,
+      "best_finish": "#116",
+      "latest_tier": 3
+    },
+    "canon_ruling_issues": [
+      {
+        "id": "ruling.deathgrip--errata--19",
+        "title": "Deathgrip (errata)",
+        "path": "data/rulings/deathgrip--errata--19.json"
+      }
+    ],
+    "likely_opponents": [
+      "Ahri",
+      "Annie",
+      "Garen",
+      "Jinx",
+      "Kai'Sa",
+      "Lee Sin",
+      "Master Yi"
+    ],
+    "recent_lists": [
+      "Best Darius From Bologna (Bologna Regional Qualifier, placement #116)",
+      "Best of Darius by Puyshpii (Houston Regional Qualifier) (Houston Regional Qualifier, placement Top 64)",
+      "Darius by carryboy denni (Vegas Regional Qualifier, placement #112)",
+      "Asefron29 - Darius, Hand of Noxus (official list, placement 116)",
+      "Puyshpii - Darius, Hand of Noxus (official list, placement 57)"
+    ],
+    "matchup_heuristics": [
+      "Budget Riftbound Guide & Best Cheap Decks \u2013 Spiritforged",
+      "Kai'Sa, Daughter of the Void: Deck in Numbers",
+      "Riftbound Budget Deck Tier List \u2013 Origins",
+      "Staying a Step Ahead with Kai'Sa Tempo \u2013 Deck Guide & Analysis",
+      "Ahri vs Kai'Sa",
+      "Annie vs Kai'Sa",
+      "Darius vs Kai'Sa",
+      "Draven vs Kai'Sa"
+    ],
+    "unresolved_claims": [],
+    "battlefields": [
+      "Blind Obelisk",
+      "Fortified Position",
+      "Reaver's Row",
+      "Targon's Peak",
+      "Void Gate",
+      "Voidgate",
+      "Windswept Hillock"
+    ],
+    "concepts": [
+      "battlefield order",
+      "equipment",
+      "hidden",
+      "showdown",
+      "value extraction"
+    ],
+    "practice_questions": [
+      "Which battlefield orders matter most for Darius?",
+      "What lines keep Darius efficient without overcommitting?",
+      "Which local rulings or errata change common Darius assumptions?",
+      "What does Darius need to respect first against Kai'Sa?",
+      "Which battlefields swing Darius vs Kai'Sa?"
+    ],
+    "citations": [
+      "analysis.guide.budget-riftbound-guide-best-cheap-decks-spiritforged [legacy local; analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md]",
+      "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers [legacy local; analysis/guides/kai-sa-daughter-of-the-void-deck-in-numbers.md]",
+      "analysis.guide.riftbound-budget-deck-tier-list-origins [legacy local; analysis/guides/riftbound-budget-deck-tier-list-origins.md]",
+      "analysis.guide.staying-a-step-ahead-with-kai-sa-tempo-deck-guide-analysis [legacy local; analysis/guides/staying-a-step-ahead-with-kai-sa-tempo-deck-guide-analysis.md]",
+      "analysis.matchup.ahri-vs-kaisa [derived local; analysis/matchups/ahri-vs-kaisa.md]",
+      "analysis.matchup.annie-vs-kaisa [derived local; analysis/matchups/annie-vs-kaisa.md]",
+      "analysis.matchup.darius-vs-kaisa [derived local; analysis/matchups/darius-vs-kaisa.md]",
+      "analysis.matchup.draven-vs-kaisa [derived local; analysis/matchups/draven-vs-kaisa.md]",
+      "analysis.matchup.master-yi-vs-kaisa [derived local; analysis/matchups/master-yi-vs-kaisa.md]",
+      "analysis.guide.kai-sa-daughter-of-the-void-guide [legacy local; analysis/guides/kai-sa-daughter-of-the-void-guide.md]",
+      "analysis.archetype.kaisa [derived local; analysis/archetypes/kaisa.md]",
+      "analysis.matchup.kaisa-vs-master-yi [derived local; analysis/matchups/kaisa-vs-master-yi.md]"
+    ]
+  }
+}
