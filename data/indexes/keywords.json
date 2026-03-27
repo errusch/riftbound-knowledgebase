@@ -1,0 +1,257 @@
+[
+  {
+    "id": "keyword.accelerate",
+    "type": "keyword_record",
+    "title": "Accelerate",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Unit Ability"
+    ],
+    "path": "data/keywords/accelerate.json"
+  },
+  {
+    "id": "keyword.action",
+    "type": "keyword_record",
+    "title": "Action",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Permissive"
+    ],
+    "path": "data/keywords/action.json"
+  },
+  {
+    "id": "keyword.assault",
+    "type": "keyword_record",
+    "title": "Assault",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Passive Ability"
+    ],
+    "path": "data/keywords/assault.json"
+  },
+  {
+    "id": "keyword.deathknell",
+    "type": "keyword_record",
+    "title": "Deathknell",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Triggered Ability"
+    ],
+    "path": "data/keywords/deathknell.json"
+  },
+  {
+    "id": "keyword.deflect",
+    "type": "keyword_record",
+    "title": "Deflect",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Passive Ability"
+    ],
+    "path": "data/keywords/deflect.json"
+  },
+  {
+    "id": "keyword.equip",
+    "type": "keyword_record",
+    "title": "Equip",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Activated Ability"
+    ],
+    "path": "data/keywords/equip.json"
+  },
+  {
+    "id": "keyword.ganking",
+    "type": "keyword_record",
+    "title": "Ganking",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Passive Ability"
+    ],
+    "path": "data/keywords/ganking.json"
+  },
+  {
+    "id": "keyword.hidden",
+    "type": "keyword_record",
+    "title": "Hidden",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Prerequisite"
+    ],
+    "path": "data/keywords/hidden.json"
+  },
+  {
+    "id": "keyword.legion",
+    "type": "keyword_record",
+    "title": "Legion",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Conditional"
+    ],
+    "path": "data/keywords/legion.json"
+  },
+  {
+    "id": "keyword.quick-draw",
+    "type": "keyword_record",
+    "title": "Quick-Draw",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Triggered + Permissive"
+    ],
+    "path": "data/keywords/quick-draw.json"
+  },
+  {
+    "id": "keyword.reaction",
+    "type": "keyword_record",
+    "title": "Reaction",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Permissive"
+    ],
+    "path": "data/keywords/reaction.json"
+  },
+  {
+    "id": "keyword.repeat",
+    "type": "keyword_record",
+    "title": "Repeat",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Optional Additional Cost"
+    ],
+    "path": "data/keywords/repeat.json"
+  },
+  {
+    "id": "keyword.shield",
+    "type": "keyword_record",
+    "title": "Shield",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Passive Ability"
+    ],
+    "path": "data/keywords/shield.json"
+  },
+  {
+    "id": "keyword.tank",
+    "type": "keyword_record",
+    "title": "Tank",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Passive Ability"
+    ],
+    "path": "data/keywords/tank.json"
+  },
+  {
+    "id": "keyword.temporary",
+    "type": "keyword_record",
+    "title": "Temporary",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Triggered Ability"
+    ],
+    "path": "data/keywords/temporary.json"
+  },
+  {
+    "id": "keyword.vision",
+    "type": "keyword_record",
+    "title": "Vision",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Triggered Ability"
+    ],
+    "path": "data/keywords/vision.json"
+  },
+  {
+    "id": "keyword.weaponmaster",
+    "type": "keyword_record",
+    "title": "Weaponmaster",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "keyword",
+      "Triggered Ability"
+    ],
+    "path": "data/keywords/weaponmaster.json"
+  }
+]

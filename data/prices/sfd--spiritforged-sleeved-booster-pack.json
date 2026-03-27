@@ -1,0 +1,41 @@
+{
+  "id": "price_history.sfd--spiritforged-sleeved-booster-pack",
+  "type": "price_record",
+  "title": "Spiritforged - Sleeved Booster Pack (SFD)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "SFD",
+    "spiritforged-sleeved-booster-pack"
+  ],
+  "record": {
+    "card_name": "Spiritforged - Sleeved Booster Pack",
+    "set_id": "SFD",
+    "latest": {
+      "card_name": "Spiritforged - Sleeved Booster Pack",
+      "set_id": "SFD",
+      "tcgplayer_id": "678766",
+      "market_price": 8.89,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-02-27"
+    },
+    "history": [
+      {
+        "card_name": "Spiritforged - Sleeved Booster Pack",
+        "set_id": "SFD",
+        "tcgplayer_id": "678766",
+        "market_price": 8.89,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

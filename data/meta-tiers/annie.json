@@ -1,0 +1,39 @@
+{
+  "id": "meta_tier.annie",
+  "type": "meta_snapshot",
+  "title": "Annie",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "meta-tier",
+    "annie"
+  ],
+  "record": {
+    "legend": "Annie",
+    "snapshots": [
+      {
+        "id": 4,
+        "legend": "Annie",
+        "tier": 1,
+        "set_context": "Spiritforged",
+        "trend": "up",
+        "snapshot_date": "2026-02-27",
+        "source": "riftbound.gg",
+        "source_url": "https://riftbound.gg/tier-list/"
+      },
+      {
+        "id": 30,
+        "legend": "Annie",
+        "tier": 1,
+        "set_context": "Origins",
+        "trend": null,
+        "snapshot_date": "2026-02-27",
+        "source": "riftbound.gg",
+        "source_url": "https://riftbound.gg/tier-list/"
+      }
+    ]
+  }
+}

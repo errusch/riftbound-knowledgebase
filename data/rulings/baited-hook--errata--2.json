@@ -1,0 +1,26 @@
+{
+  "id": "ruling.baited-hook--errata--2",
+  "type": "ruling_record",
+  "title": "Baited Hook (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "baited-hook"
+  ],
+  "record": {
+    "id": 2,
+    "card_name": "Baited Hook",
+    "ruling_type": "errata",
+    "old_text": "[1][C], [E]: Kill a friendly unit. Look at the top 5 cards of your Main Deck. You may play a unit from among them that has Might up to 1 more than the killed unit, ignoring its cost. Then recycle the rest.",
+    "new_text": "[1][C], [E]: Kill a friendly unit. Look at the top 5 cards of your Main Deck. You may banish a unit from among them that has Might up to 1 more than the killed unit and play it, ignoring its cost. Then recycle the rest.",
+    "explanation": null,
+    "source_doc": "Origins Card Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/",
+    "effective_date": "2025-11-04"
+  }
+}

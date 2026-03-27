@@ -1,0 +1,26 @@
+{
+  "id": "ruling.deathgrip--errata--19",
+  "type": "ruling_record",
+  "title": "Deathgrip (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "deathgrip"
+  ],
+  "record": {
+    "id": 19,
+    "card_name": "Deathgrip",
+    "ruling_type": "errata",
+    "old_text": "Kill a friendly unit to give +[M] equal to its Might to another friendly unit this turn. Draw 1.",
+    "new_text": "Kill a friendly unit. If you do, give +[M] equal to its Might to another friendly unit this turn. Draw 1.",
+    "explanation": "Friendly unit is a target not a cost. Draw 1 happens regardless.",
+    "source_doc": "Spiritforged FAQ",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
+    "effective_date": "2026-01-14"
+  }
+}

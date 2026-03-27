@@ -1,0 +1,31 @@
+{
+  "id": "player.clyde",
+  "type": "player_record",
+  "title": "Clyde",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "competitive-player",
+    "master-yi-wuju-bladesman"
+  ],
+  "record": {
+    "player_name": "Clyde",
+    "x_handle": "5th\u20138th",
+    "confidence": "Master Yi, Wuju Bladesman",
+    "events": "[@ClydeTCG](https://x.com/ClydeTCG)",
+    "notes": "**HIGH**",
+    "main_legend": "Master Yi, Wuju Bladesman",
+    "tournament_results": "Top 8 - Houston RQ (Dec 6-7, 2025, 1123 players)",
+    "content_creator": 0,
+    "source_urls": "https://riftbound.gg/riftbound-top-decks-houston-regional-qualifier-2025/",
+    "source_urls_list": [
+      "https://riftbound.gg/riftbound-top-decks-houston-regional-qualifier-2025/"
+    ],
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  }
+}

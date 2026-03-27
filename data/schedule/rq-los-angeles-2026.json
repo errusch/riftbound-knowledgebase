@@ -1,0 +1,27 @@
+{
+  "id": "op_schedule.rq-los-angeles-2026",
+  "type": "schedule_record",
+  "title": "RQ Los Angeles",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "op-schedule",
+    "regional_qualifier",
+    "upcoming"
+  ],
+  "record": {
+    "event_id": "rq_los_angeles_2026",
+    "event_name": "RQ Los Angeles",
+    "event_type": "regional_qualifier",
+    "location": "Los Angeles, CA",
+    "venue": "Los Angeles Convention Center",
+    "country": "US",
+    "dates": "2026-09-25 to 2026-09-27",
+    "status": "upcoming",
+    "notes": "Final RQ of 2026. On-sale Jul 20",
+    "source_url": null
+  }
+}

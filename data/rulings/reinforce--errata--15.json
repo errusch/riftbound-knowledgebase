@@ -1,0 +1,26 @@
+{
+  "id": "ruling.reinforce--errata--15",
+  "type": "ruling_record",
+  "title": "Reinforce (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "reinforce"
+  ],
+  "record": {
+    "id": 15,
+    "card_name": "Reinforce",
+    "ruling_type": "errata",
+    "old_text": null,
+    "new_text": "Look at the top 5 cards of your Main Deck. You may banish a unit from among them, then play it, reducing its cost by [5]. Recycle the remaining cards.",
+    "explanation": "Banish before playing, Origins card missed in first errata",
+    "source_doc": "Spiritforged Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+    "effective_date": "2026-01-14"
+  }
+}

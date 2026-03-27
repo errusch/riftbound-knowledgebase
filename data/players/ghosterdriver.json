@@ -1,0 +1,33 @@
+{
+  "id": "player.ghosterdriver",
+  "type": "player_record",
+  "title": "Ghosterdriver",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "competitive-player",
+    "viktor-herald-of-the-arcane"
+  ],
+  "record": {
+    "player_name": "Ghosterdriver",
+    "x_handle": "3rd\u20134th",
+    "confidence": "Viktor, Herald of the Arcane",
+    "events": "[@ghosterdriver](https://x.com/ghosterdriver)",
+    "notes": "**HIGH**",
+    "main_legend": "Viktor, Herald of the Arcane",
+    "tournament_results": "3rd-4th - Bologna RQ (Feb 21-22, 2026, 1719 players)",
+    "content_creator": 0,
+    "source_urls": "https://roadoftheking.com/rq-bologna/; https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-92200; https://x.com/ghosterdriver/status/2025716402326221005",
+    "source_urls_list": [
+      "https://roadoftheking.com/rq-bologna/",
+      "https://riftdecks.com/riftbound-metagame/deck-viktor-herald-of-the-arcane-92200",
+      "https://x.com/ghosterdriver/status/2025716402326221005"
+    ],
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  }
+}

@@ -1,0 +1,912 @@
+{
+  "id": "tournament.riftbound-remote-showdown-pop-up-cup",
+  "type": "tournament_record",
+  "title": "Riftbound Remote Showdown Pop Up Cup",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "tournament",
+    "Constructed",
+    "item"
+  ],
+  "record": {
+    "tid": "riftbound-remote-showdown-pop-up-cup",
+    "name": "Riftbound Remote Showdown Pop Up Cup",
+    "start_date": 1762621200,
+    "format": "Constructed",
+    "swiss_rounds": 3,
+    "top_cut": 0,
+    "participants": 6,
+    "city": null,
+    "state": null,
+    "location": "https://discord.gg/RZSDYSmQ",
+    "country": null
+  },
+  "rounds": [
+    {
+      "id": 648,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "round": "1",
+      "table_num": 1,
+      "player1_name": "Dadream Satterwhite",
+      "player1_id": "n3uUywhjLnV85t3iMIuZw91DoTh1",
+      "player2_name": "AliG",
+      "player2_id": "XmIa51idbPfdlRCcVzcGldHztIj1",
+      "winner": "AliG",
+      "status": "Completed"
+    },
+    {
+      "id": 649,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "round": "1",
+      "table_num": 2,
+      "player1_name": "Mehdi Tahiri",
+      "player1_id": "5LrNEd37sbOtPHfu7yyIPTa4Wjc2",
+      "player2_name": "Donovan Fletcher",
+      "player2_id": "Gp6rHqMZFrdgt0JZeI7POn9jo913",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 650,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "round": "1",
+      "table_num": 3,
+      "player1_name": "Clydefrog",
+      "player1_id": "FZRl4HG0GnYHZdIOYcni9X5jGSi2",
+      "player2_name": "Alex",
+      "player2_id": "cmXkFqn2sthKve5pfxOloePLfvD2",
+      "winner": "Alex",
+      "status": "Completed"
+    },
+    {
+      "id": 651,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "round": "2",
+      "table_num": 1,
+      "player1_name": "Alex",
+      "player1_id": "cmXkFqn2sthKve5pfxOloePLfvD2",
+      "player2_name": "Donovan Fletcher",
+      "player2_id": "Gp6rHqMZFrdgt0JZeI7POn9jo913",
+      "winner": "Donovan Fletcher",
+      "status": "Completed"
+    },
+    {
+      "id": 652,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "round": "2",
+      "table_num": 2,
+      "player1_name": "AliG",
+      "player1_id": "XmIa51idbPfdlRCcVzcGldHztIj1",
+      "player2_name": "Mehdi Tahiri",
+      "player2_id": "5LrNEd37sbOtPHfu7yyIPTa4Wjc2",
+      "winner": "AliG",
+      "status": "Completed"
+    },
+    {
+      "id": 653,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "round": "3",
+      "table_num": 1,
+      "player1_name": "AliG",
+      "player1_id": "XmIa51idbPfdlRCcVzcGldHztIj1",
+      "player2_name": "Donovan Fletcher",
+      "player2_id": "Gp6rHqMZFrdgt0JZeI7POn9jo913",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 654,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "round": "3",
+      "table_num": 2,
+      "player1_name": "Alex",
+      "player1_id": "cmXkFqn2sthKve5pfxOloePLfvD2",
+      "player2_name": "Dadream Satterwhite",
+      "player2_id": "n3uUywhjLnV85t3iMIuZw91DoTh1",
+      "winner": "Dadream Satterwhite",
+      "status": "Completed"
+    }
+  ],
+  "standings": [
+    {
+      "id": 380,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "player_name": "AliG",
+      "player_id": "XmIa51idbPfdlRCcVzcGldHztIj1",
+      "placement": 1,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Fortified Position\\n1 Void Gate\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n3 Consult the Past\\n3 Darius, Trifarian\\n2 Dr. Mundo, Expert\\n3 Falling Star\\n3 Hextech Ray\\n1 Icathian Rain\\n2 Immortal Phoenix\\n3 Kai\\'Sa, Survivor\\n3 Noxus Hopeful\\n3 Ravenbloom Student\\n3 Retreat\\n2 Seal of Rage\\n3 Shakedown\\n3 Thousand-Tailed Watcher\\n3 Void Seeker\\n\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"77b2953a-5214-4421-862d-f33d8bc4590b\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\", \"count\": 7}, \"Mind Rune\": {\"id\": \"6d4e52d9-6554-4af8-ad81-2b473b111d4e\", \"count\": 5}}, \"Battlefields\": {\"Fortified Position\": {\"id\": \"daa4b769-8b0c-4281-82a3-34beb4463709\", \"count\": 1}, \"Void Gate\": {\"id\": \"682381a3-b34c-4847-a695-fd89a64d647c\", \"count\": 1}, \"Zaun Warrens\": {\"id\": \"01a67a97-72cd-4481-8a08-9a53678373ec\", \"count\": 1}}, \"Mainboard\": {\"Consult the Past\": {\"id\": \"3f36e743-98b4-429e-858b-d17129e3b3d9\", \"count\": 3}, \"Darius, Trifarian\": {\"id\": \"483c1de6-40ff-4392-a31e-583e00743893\", \"count\": 3}, \"Dr. Mundo, Expert\": {\"id\": \"1cde9e0c-7457-471e-b9e6-dbc25240c427\", \"count\": 2}, \"Falling Star\": {\"id\": \"9739a73c-44d8-413f-a87b-f2d7efa8ddbf\", \"count\": 3}, \"Hextech Ray\": {\"id\": \"c5ed3577-29a3-4c2e-97cb-1a7ac6517d91\", \"count\": 3}, \"Icathian Rain\": {\"id\": \"aa5f34d6-d7c9-4790-8c79-18134e1b4eea\", \"count\": 1}, \"Immortal Phoenix\": {\"id\": \"12be8de4-cf79-4dcd-8f22-0cd2a2d3f7eb\", \"count\": 2}, \"Kai'Sa, Survivor\": {\"id\": \"4bf7f780-55da-4099-a91c-ca4f5b5458b2\", \"count\": 3}, \"Noxus Hopeful\": {\"id\": \"0a83a04b-02f6-4eaf-ad68-987b564547d3\", \"count\": 3}, \"Ravenbloom Student\": {\"id\": \"8295bc06-85cf-4d57-b2be-cceee8bd8f1b\", \"count\": 3}, \"Retreat\": {\"id\": \"e5b9ee62-730a-4f86-aaae-edaf51c9ba8b\", \"count\": 3}, \"Seal of Rage\": {\"id\": \"795ff375-1e55-4ef1-8bbc-1d5e70129eb9\", \"count\": 2}, \"Shakedown\": {\"id\": \"9ba18cbd-3703-4f79-b71a-75f2d35e4c79\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"6bfd727b-dfbe-472c-b7a2-dcc7036ded62\", \"count\": 3}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 3}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "77b2953a-5214-4421-862d-f33d8bc4590b",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "6d4e52d9-6554-4af8-ad81-2b473b111d4e",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Fortified Position": {
+            "id": "daa4b769-8b0c-4281-82a3-34beb4463709",
+            "count": 1
+          },
+          "Void Gate": {
+            "id": "682381a3-b34c-4847-a695-fd89a64d647c",
+            "count": 1
+          },
+          "Zaun Warrens": {
+            "id": "01a67a97-72cd-4481-8a08-9a53678373ec",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Consult the Past": {
+            "id": "3f36e743-98b4-429e-858b-d17129e3b3d9",
+            "count": 3
+          },
+          "Darius, Trifarian": {
+            "id": "483c1de6-40ff-4392-a31e-583e00743893",
+            "count": 3
+          },
+          "Dr. Mundo, Expert": {
+            "id": "1cde9e0c-7457-471e-b9e6-dbc25240c427",
+            "count": 2
+          },
+          "Falling Star": {
+            "id": "9739a73c-44d8-413f-a87b-f2d7efa8ddbf",
+            "count": 3
+          },
+          "Hextech Ray": {
+            "id": "c5ed3577-29a3-4c2e-97cb-1a7ac6517d91",
+            "count": 3
+          },
+          "Icathian Rain": {
+            "id": "aa5f34d6-d7c9-4790-8c79-18134e1b4eea",
+            "count": 1
+          },
+          "Immortal Phoenix": {
+            "id": "12be8de4-cf79-4dcd-8f22-0cd2a2d3f7eb",
+            "count": 2
+          },
+          "Kai'Sa, Survivor": {
+            "id": "4bf7f780-55da-4099-a91c-ca4f5b5458b2",
+            "count": 3
+          },
+          "Noxus Hopeful": {
+            "id": "0a83a04b-02f6-4eaf-ad68-987b564547d3",
+            "count": 3
+          },
+          "Ravenbloom Student": {
+            "id": "8295bc06-85cf-4d57-b2be-cceee8bd8f1b",
+            "count": 3
+          },
+          "Retreat": {
+            "id": "e5b9ee62-730a-4f86-aaae-edaf51c9ba8b",
+            "count": 3
+          },
+          "Seal of Rage": {
+            "id": "795ff375-1e55-4ef1-8bbc-1d5e70129eb9",
+            "count": 2
+          },
+          "Shakedown": {
+            "id": "9ba18cbd-3703-4f79-b71a-75f2d35e4c79",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "6bfd727b-dfbe-472c-b7a2-dcc7036ded62",
+            "count": 3
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 3
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Fortified Position\\n1 Void Gate\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n3 Consult the Past\\n3 Darius, Trifarian\\n2 Dr. Mundo, Expert\\n3 Falling Star\\n3 Hextech Ray\\n1 Icathian Rain\\n2 Immortal Phoenix\\n3 Kai\\'Sa, Survivor\\n3 Noxus Hopeful\\n3 Ravenbloom Student\\n3 Retreat\\n2 Seal of Rage\\n3 Shakedown\\n3 Thousand-Tailed Watcher\\n3 Void Seeker\\n\\n"
+      ]
+    },
+    {
+      "id": 381,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "player_name": "Dadream Satterwhite",
+      "player_id": "n3uUywhjLnV85t3iMIuZw91DoTh1",
+      "placement": 2,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Jinx, Loose Cannon\\n\\n~~Runes~~\\n4 Chaos Rune\\n8 Fury Rune\\n\\n~~Battlefields~~\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n2 Brazen Buccaneer\\n3 Chemtech Enforcer\\n1 Cleave\\n3 Fight or Flight\\n3 Flame Chompers\\n1 Jinx, Demolitionist\\n3 Noxus Hopeful\\n2 Pouty Poro\\n3 Ride the Wind\\n3 Scrapheap\\n3 Sneaky Deckhand\\n3 Stacked Deck\\n1 Super Mega Death Rocket!\\n3 Teemo, Scout\\n3 Traveling Merchant\\n3 Vi, Destructive\\n\\n",
+      "deck_obj": "{\"Legend\": {\"Jinx, Loose Cannon\": {\"id\": \"70ee0cd4-439a-4d00-8695-dd4c3d3aae65\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"e75bfba1-b43c-4b1c-a6ad-217b5a4f585b\", \"count\": 4}, \"Fury Rune\": {\"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\", \"count\": 8}}, \"Battlefields\": {\"Reaver's Row\": {\"id\": \"eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708\", \"count\": 1}, \"Targon's Peak\": {\"id\": \"29dea928-295d-4832-9bc1-91672389cf59\", \"count\": 1}, \"Zaun Warrens\": {\"id\": \"01a67a97-72cd-4481-8a08-9a53678373ec\", \"count\": 1}}, \"Mainboard\": {\"Brazen Buccaneer\": {\"id\": \"96cec5a8-94a7-487f-badd-a5c9297faa2f\", \"count\": 2}, \"Chemtech Enforcer\": {\"id\": \"fa083008-ad34-43b1-9e69-fccf5c4976f9\", \"count\": 3}, \"Cleave\": {\"id\": \"c092c17d-8faf-4d7f-9037-cb4fa0fa4a60\", \"count\": 1}, \"Fight or Flight\": {\"id\": \"eb2880cb-c0d2-4f2c-8491-e22f9252eac1\", \"count\": 3}, \"Flame Chompers\": {\"id\": \"8a1c2b32-fa93-4b57-ba43-82d372702c77\", \"count\": 3}, \"Jinx, Demolitionist\": {\"id\": \"5efdd571-5dd4-459b-902a-fd84f2957b9c\", \"count\": 1}, \"Noxus Hopeful\": {\"id\": \"0a83a04b-02f6-4eaf-ad68-987b564547d3\", \"count\": 3}, \"Pouty Poro\": {\"id\": \"51ef3649-41c8-41bb-98b5-adcf9d1c8fdf\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"7cda00d7-b45e-4786-83c1-995a07b0e36c\", \"count\": 3}, \"Scrapheap\": {\"id\": \"2e3d7e7e-6a5f-40ca-bc73-2351dfd66f84\", \"count\": 3}, \"Sneaky Deckhand\": {\"id\": \"2d0dbb58-493d-41b0-bb4b-52afb6dc46ec\", \"count\": 3}, \"Stacked Deck\": {\"id\": \"8521f660-88e8-44b0-a9b3-c2e286051ddc\", \"count\": 3}, \"Super Mega Death Rocket!\": {\"id\": \"a212d240-cca3-4ce7-b271-34e18fc76b68\", \"count\": 1}, \"Teemo, Scout\": {\"id\": \"9cf0f9a7-fd36-40f7-837f-56f2478a7599\", \"count\": 3}, \"Traveling Merchant\": {\"id\": \"3eee0878-9fb5-4e7d-9fc1-c990162716c6\", \"count\": 3}, \"Vi, Destructive\": {\"id\": \"4a10b30f-22fa-4e09-803b-a375e361a905\", \"count\": 3}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Jinx, Loose Cannon": {
+            "id": "70ee0cd4-439a-4d00-8695-dd4c3d3aae65",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "e75bfba1-b43c-4b1c-a6ad-217b5a4f585b",
+            "count": 4
+          },
+          "Fury Rune": {
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76",
+            "count": 8
+          }
+        },
+        "Battlefields": {
+          "Reaver's Row": {
+            "id": "eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708",
+            "count": 1
+          },
+          "Targon's Peak": {
+            "id": "29dea928-295d-4832-9bc1-91672389cf59",
+            "count": 1
+          },
+          "Zaun Warrens": {
+            "id": "01a67a97-72cd-4481-8a08-9a53678373ec",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Brazen Buccaneer": {
+            "id": "96cec5a8-94a7-487f-badd-a5c9297faa2f",
+            "count": 2
+          },
+          "Chemtech Enforcer": {
+            "id": "fa083008-ad34-43b1-9e69-fccf5c4976f9",
+            "count": 3
+          },
+          "Cleave": {
+            "id": "c092c17d-8faf-4d7f-9037-cb4fa0fa4a60",
+            "count": 1
+          },
+          "Fight or Flight": {
+            "id": "eb2880cb-c0d2-4f2c-8491-e22f9252eac1",
+            "count": 3
+          },
+          "Flame Chompers": {
+            "id": "8a1c2b32-fa93-4b57-ba43-82d372702c77",
+            "count": 3
+          },
+          "Jinx, Demolitionist": {
+            "id": "5efdd571-5dd4-459b-902a-fd84f2957b9c",
+            "count": 1
+          },
+          "Noxus Hopeful": {
+            "id": "0a83a04b-02f6-4eaf-ad68-987b564547d3",
+            "count": 3
+          },
+          "Pouty Poro": {
+            "id": "51ef3649-41c8-41bb-98b5-adcf9d1c8fdf",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "7cda00d7-b45e-4786-83c1-995a07b0e36c",
+            "count": 3
+          },
+          "Scrapheap": {
+            "id": "2e3d7e7e-6a5f-40ca-bc73-2351dfd66f84",
+            "count": 3
+          },
+          "Sneaky Deckhand": {
+            "id": "2d0dbb58-493d-41b0-bb4b-52afb6dc46ec",
+            "count": 3
+          },
+          "Stacked Deck": {
+            "id": "8521f660-88e8-44b0-a9b3-c2e286051ddc",
+            "count": 3
+          },
+          "Super Mega Death Rocket!": {
+            "id": "a212d240-cca3-4ce7-b271-34e18fc76b68",
+            "count": 1
+          },
+          "Teemo, Scout": {
+            "id": "9cf0f9a7-fd36-40f7-837f-56f2478a7599",
+            "count": 3
+          },
+          "Traveling Merchant": {
+            "id": "3eee0878-9fb5-4e7d-9fc1-c990162716c6",
+            "count": 3
+          },
+          "Vi, Destructive": {
+            "id": "4a10b30f-22fa-4e09-803b-a375e361a905",
+            "count": 3
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Jinx, Loose Cannon\\n\\n~~Runes~~\\n4 Chaos Rune\\n8 Fury Rune\\n\\n~~Battlefields~~\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n2 Brazen Buccaneer\\n3 Chemtech Enforcer\\n1 Cleave\\n3 Fight or Flight\\n3 Flame Chompers\\n1 Jinx, Demolitionist\\n3 Noxus Hopeful\\n2 Pouty Poro\\n3 Ride the Wind\\n3 Scrapheap\\n3 Sneaky Deckhand\\n3 Stacked Deck\\n1 Super Mega Death Rocket!\\n3 Teemo, Scout\\n3 Traveling Merchant\\n3 Vi, Destructive\\n\\n"
+      ]
+    },
+    {
+      "id": 382,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "player_name": "Donovan Fletcher",
+      "player_id": "Gp6rHqMZFrdgt0JZeI7POn9jo913",
+      "placement": 3,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 2,
+      "decklist": "~~Legend~~\\n1 Master Yi, Wuju Bladesman\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Aspirant\\'s Climb\\n1 Obelisk of Power\\n1 Sigil of the Storm\\n\\n~~Mainboard~~\\n3 Catalyst of Aeons\\n3 Charm\\n2 Confront\\n3 Dazzling Aurora\\n3 Deadbloom Predator\\n2 Defy\\n2 Discipline\\n3 Find Your Center\\n3 Master Yi, Honed\\n3 Meditation\\n3 Mobilize\\n2 Mountain Drake\\n1 Primal Strength\\n3 Whiteflame Protector\\n1 Wind Wall\\n3 Zhonya\\'s Hourglass\\n\\n",
+      "deck_obj": "{\"Legend\": {\"Master Yi, Wuju Bladesman\": {\"id\": \"b975c54c-20cc-45e9-a4ef-2d9f7ec10d42\", \"count\": 1}}, \"Runes\": {\"Body Rune\": {\"id\": \"8ae170ea-6d4e-4845-8fc0-6042e039ed85\", \"count\": 6}, \"Calm Rune\": {\"id\": \"457fc09c-6ab1-4c45-89a5-3b617eb62a59\", \"count\": 6}}, \"Battlefields\": {\"Aspirant's Climb\": {\"id\": \"50d27809-e25c-430b-be39-118f809c0c84\", \"count\": 1}, \"Obelisk of Power\": {\"id\": \"dc6f436f-2b42-416c-917a-7e97a2f18484\", \"count\": 1}, \"Sigil of the Storm\": {\"id\": \"5ceeecf8-8c07-4eae-aca1-e997eb9f5c96\", \"count\": 1}}, \"Mainboard\": {\"Catalyst of Aeons\": {\"id\": \"1c0cafd8-af30-496e-a680-4507dd1d7cfc\", \"count\": 3}, \"Charm\": {\"id\": \"ec1ffc1d-0df7-4665-ac03-01d58dd95501\", \"count\": 3}, \"Confront\": {\"id\": \"8cbc1e3b-3c4c-432e-a137-50b60e6fd053\", \"count\": 2}, \"Dazzling Aurora\": {\"id\": \"7301ab63-88a4-49c3-a68a-2f76c2109f1e\", \"count\": 3}, \"Deadbloom Predator\": {\"id\": \"de6aaf80-b4e8-4f16-b5e3-c155f9bf09d1\", \"count\": 3}, \"Defy\": {\"id\": \"849fdd33-61d7-4798-b19c-d8723947d099\", \"count\": 2}, \"Discipline\": {\"id\": \"9b8405ac-f6f6-4fbf-8c54-1ae27bd622b1\", \"count\": 2}, \"Find Your Center\": {\"id\": \"3392c256-14bc-462d-9ee8-a6155f1512c9\", \"count\": 3}, \"Master Yi, Honed\": {\"id\": \"47d63b3b-1654-48d3-b871-3a25530e4804\", \"count\": 3}, \"Meditation\": {\"id\": \"de9daee1-cd33-4076-a285-de867cd1172c\", \"count\": 3}, \"Mobilize\": {\"id\": \"ba3c0e35-0a12-44fd-91bd-59cdc4242a27\", \"count\": 3}, \"Mountain Drake\": {\"id\": \"11d1d144-383f-486d-af6e-463871e9eda3\", \"count\": 2}, \"Primal Strength\": {\"id\": \"0944da6b-0a91-42dd-a95a-9a9bdb3fd6ef\", \"count\": 1}, \"Whiteflame Protector\": {\"id\": \"430d0764-bacb-403d-8a28-6f725c7b3938\", \"count\": 3}, \"Wind Wall\": {\"id\": \"6445b795-2790-42e0-9419-4dd176ab6b79\", \"count\": 1}, \"Zhonya's Hourglass\": {\"id\": \"f72a1f6a-9125-4589-8d12-cef87e753f02\", \"count\": 3}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Master Yi, Wuju Bladesman": {
+            "id": "b975c54c-20cc-45e9-a4ef-2d9f7ec10d42",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Body Rune": {
+            "id": "8ae170ea-6d4e-4845-8fc0-6042e039ed85",
+            "count": 6
+          },
+          "Calm Rune": {
+            "id": "457fc09c-6ab1-4c45-89a5-3b617eb62a59",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Aspirant's Climb": {
+            "id": "50d27809-e25c-430b-be39-118f809c0c84",
+            "count": 1
+          },
+          "Obelisk of Power": {
+            "id": "dc6f436f-2b42-416c-917a-7e97a2f18484",
+            "count": 1
+          },
+          "Sigil of the Storm": {
+            "id": "5ceeecf8-8c07-4eae-aca1-e997eb9f5c96",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Catalyst of Aeons": {
+            "id": "1c0cafd8-af30-496e-a680-4507dd1d7cfc",
+            "count": 3
+          },
+          "Charm": {
+            "id": "ec1ffc1d-0df7-4665-ac03-01d58dd95501",
+            "count": 3
+          },
+          "Confront": {
+            "id": "8cbc1e3b-3c4c-432e-a137-50b60e6fd053",
+            "count": 2
+          },
+          "Dazzling Aurora": {
+            "id": "7301ab63-88a4-49c3-a68a-2f76c2109f1e",
+            "count": 3
+          },
+          "Deadbloom Predator": {
+            "id": "de6aaf80-b4e8-4f16-b5e3-c155f9bf09d1",
+            "count": 3
+          },
+          "Defy": {
+            "id": "849fdd33-61d7-4798-b19c-d8723947d099",
+            "count": 2
+          },
+          "Discipline": {
+            "id": "9b8405ac-f6f6-4fbf-8c54-1ae27bd622b1",
+            "count": 2
+          },
+          "Find Your Center": {
+            "id": "3392c256-14bc-462d-9ee8-a6155f1512c9",
+            "count": 3
+          },
+          "Master Yi, Honed": {
+            "id": "47d63b3b-1654-48d3-b871-3a25530e4804",
+            "count": 3
+          },
+          "Meditation": {
+            "id": "de9daee1-cd33-4076-a285-de867cd1172c",
+            "count": 3
+          },
+          "Mobilize": {
+            "id": "ba3c0e35-0a12-44fd-91bd-59cdc4242a27",
+            "count": 3
+          },
+          "Mountain Drake": {
+            "id": "11d1d144-383f-486d-af6e-463871e9eda3",
+            "count": 2
+          },
+          "Primal Strength": {
+            "id": "0944da6b-0a91-42dd-a95a-9a9bdb3fd6ef",
+            "count": 1
+          },
+          "Whiteflame Protector": {
+            "id": "430d0764-bacb-403d-8a28-6f725c7b3938",
+            "count": 3
+          },
+          "Wind Wall": {
+            "id": "6445b795-2790-42e0-9419-4dd176ab6b79",
+            "count": 1
+          },
+          "Zhonya's Hourglass": {
+            "id": "f72a1f6a-9125-4589-8d12-cef87e753f02",
+            "count": 3
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Master Yi, Wuju Bladesman\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Aspirant\\'s Climb\\n1 Obelisk of Power\\n1 Sigil of the Storm\\n\\n~~Mainboard~~\\n3 Catalyst of Aeons\\n3 Charm\\n2 Confront\\n3 Dazzling Aurora\\n3 Deadbloom Predator\\n2 Defy\\n2 Discipline\\n3 Find Your Center\\n3 Master Yi, Honed\\n3 Meditation\\n3 Mobilize\\n2 Mountain Drake\\n1 Primal Strength\\n3 Whiteflame Protector\\n1 Wind Wall\\n3 Zhonya\\'s Hourglass\\n\\n"
+      ]
+    },
+    {
+      "id": 383,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "player_name": "Mehdi Tahiri",
+      "player_id": "5LrNEd37sbOtPHfu7yyIPTa4Wjc2",
+      "placement": 4,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Master Yi, Wuju Bladesman\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n\\n~~Mainboard~~\\n2 Cannon Barrage\\n3 Charm\\n3 Confront\\n1 Discipline\\n2 En Garde\\n2 First Mate\\n2 Gentlemen\\'s Duel\\n2 Highlander\\n1 Lee Sin, Centered\\n2 Master Yi, Honed\\n1 Master Yi, Meditative\\n2 Meditation\\n2 Mobilize\\n1 Mountain Drake\\n3 Pit Rookie\\n2 Playful Phantom\\n2 Stalwart Poro\\n1 Stormclaw Ursine\\n1 Udyr, Wildman\\n2 Wielder of Water\\n2 Zephyr Sage\\n1 Zhonya\\'s Hourglass\\n\\n",
+      "deck_obj": "{\"Legend\": {\"Master Yi, Wuju Bladesman\": {\"id\": \"b975c54c-20cc-45e9-a4ef-2d9f7ec10d42\", \"count\": 1}}, \"Runes\": {\"Body Rune\": {\"id\": \"8ae170ea-6d4e-4845-8fc0-6042e039ed85\", \"count\": 6}, \"Calm Rune\": {\"id\": \"457fc09c-6ab1-4c45-89a5-3b617eb62a59\", \"count\": 6}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"0e5cae41-44aa-425b-96a7-0c5388d2a0ba\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708\", \"count\": 1}, \"Targon's Peak\": {\"id\": \"29dea928-295d-4832-9bc1-91672389cf59\", \"count\": 1}}, \"Mainboard\": {\"Cannon Barrage\": {\"id\": \"36e94765-0c6b-4c79-9263-ad08b1d81f8f\", \"count\": 2}, \"Charm\": {\"id\": \"ec1ffc1d-0df7-4665-ac03-01d58dd95501\", \"count\": 3}, \"Confront\": {\"id\": \"8cbc1e3b-3c4c-432e-a137-50b60e6fd053\", \"count\": 3}, \"Discipline\": {\"id\": \"9b8405ac-f6f6-4fbf-8c54-1ae27bd622b1\", \"count\": 1}, \"En Garde\": {\"id\": \"cb87e2ac-c5a9-4fbc-9b95-4b2be746f98c\", \"count\": 2}, \"First Mate\": {\"id\": \"7ed88d77-b1c6-46db-8acc-812b140e00fe\", \"count\": 2}, \"Gentlemen's Duel\": {\"id\": \"f9dcf0f7-9431-48e0-9467-fde8ec170826\", \"count\": 2}, \"Highlander\": {\"id\": \"bf508651-d57c-4053-9cc1-9fdccad63af6\", \"count\": 2}, \"Lee Sin, Centered\": {\"id\": \"2c2a0261-269a-471d-a593-5b6b4c65f164\", \"count\": 1}, \"Master Yi, Honed\": {\"id\": \"47d63b3b-1654-48d3-b871-3a25530e4804\", \"count\": 2}, \"Master Yi, Meditative\": {\"id\": \"f0d2b26e-3198-4be1-9a2a-4b6e59fb199e\", \"count\": 1}, \"Meditation\": {\"id\": \"de9daee1-cd33-4076-a285-de867cd1172c\", \"count\": 2}, \"Mobilize\": {\"id\": \"ba3c0e35-0a12-44fd-91bd-59cdc4242a27\", \"count\": 2}, \"Mountain Drake\": {\"id\": \"11d1d144-383f-486d-af6e-463871e9eda3\", \"count\": 1}, \"Pit Rookie\": {\"id\": \"6259f8a2-6e34-4261-bb73-5e9e71b517fc\", \"count\": 3}, \"Playful Phantom\": {\"id\": \"a8643537-a044-43bc-8a97-902fd255de18\", \"count\": 2}, \"Stalwart Poro\": {\"id\": \"6ddaf508-3ca2-4615-ad0e-b3e47b9e1816\", \"count\": 2}, \"Stormclaw Ursine\": {\"id\": \"5defcb4e-4b73-4fea-b8bf-f3cda7454f99\", \"count\": 1}, \"Udyr, Wildman\": {\"id\": \"2258fa2f-b4c9-4aa8-a90f-7c4e665c2661\", \"count\": 1}, \"Wielder of Water\": {\"id\": \"00fe7358-d209-4169-9661-a6796733ce41\", \"count\": 2}, \"Zephyr Sage\": {\"id\": \"9ed2fc7f-4479-4831-960f-35b3ead75cc0\", \"count\": 2}, \"Zhonya's Hourglass\": {\"id\": \"f72a1f6a-9125-4589-8d12-cef87e753f02\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Master Yi, Wuju Bladesman": {
+            "id": "b975c54c-20cc-45e9-a4ef-2d9f7ec10d42",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Body Rune": {
+            "id": "8ae170ea-6d4e-4845-8fc0-6042e039ed85",
+            "count": 6
+          },
+          "Calm Rune": {
+            "id": "457fc09c-6ab1-4c45-89a5-3b617eb62a59",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "0e5cae41-44aa-425b-96a7-0c5388d2a0ba",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708",
+            "count": 1
+          },
+          "Targon's Peak": {
+            "id": "29dea928-295d-4832-9bc1-91672389cf59",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Cannon Barrage": {
+            "id": "36e94765-0c6b-4c79-9263-ad08b1d81f8f",
+            "count": 2
+          },
+          "Charm": {
+            "id": "ec1ffc1d-0df7-4665-ac03-01d58dd95501",
+            "count": 3
+          },
+          "Confront": {
+            "id": "8cbc1e3b-3c4c-432e-a137-50b60e6fd053",
+            "count": 3
+          },
+          "Discipline": {
+            "id": "9b8405ac-f6f6-4fbf-8c54-1ae27bd622b1",
+            "count": 1
+          },
+          "En Garde": {
+            "id": "cb87e2ac-c5a9-4fbc-9b95-4b2be746f98c",
+            "count": 2
+          },
+          "First Mate": {
+            "id": "7ed88d77-b1c6-46db-8acc-812b140e00fe",
+            "count": 2
+          },
+          "Gentlemen's Duel": {
+            "id": "f9dcf0f7-9431-48e0-9467-fde8ec170826",
+            "count": 2
+          },
+          "Highlander": {
+            "id": "bf508651-d57c-4053-9cc1-9fdccad63af6",
+            "count": 2
+          },
+          "Lee Sin, Centered": {
+            "id": "2c2a0261-269a-471d-a593-5b6b4c65f164",
+            "count": 1
+          },
+          "Master Yi, Honed": {
+            "id": "47d63b3b-1654-48d3-b871-3a25530e4804",
+            "count": 2
+          },
+          "Master Yi, Meditative": {
+            "id": "f0d2b26e-3198-4be1-9a2a-4b6e59fb199e",
+            "count": 1
+          },
+          "Meditation": {
+            "id": "de9daee1-cd33-4076-a285-de867cd1172c",
+            "count": 2
+          },
+          "Mobilize": {
+            "id": "ba3c0e35-0a12-44fd-91bd-59cdc4242a27",
+            "count": 2
+          },
+          "Mountain Drake": {
+            "id": "11d1d144-383f-486d-af6e-463871e9eda3",
+            "count": 1
+          },
+          "Pit Rookie": {
+            "id": "6259f8a2-6e34-4261-bb73-5e9e71b517fc",
+            "count": 3
+          },
+          "Playful Phantom": {
+            "id": "a8643537-a044-43bc-8a97-902fd255de18",
+            "count": 2
+          },
+          "Stalwart Poro": {
+            "id": "6ddaf508-3ca2-4615-ad0e-b3e47b9e1816",
+            "count": 2
+          },
+          "Stormclaw Ursine": {
+            "id": "5defcb4e-4b73-4fea-b8bf-f3cda7454f99",
+            "count": 1
+          },
+          "Udyr, Wildman": {
+            "id": "2258fa2f-b4c9-4aa8-a90f-7c4e665c2661",
+            "count": 1
+          },
+          "Wielder of Water": {
+            "id": "00fe7358-d209-4169-9661-a6796733ce41",
+            "count": 2
+          },
+          "Zephyr Sage": {
+            "id": "9ed2fc7f-4479-4831-960f-35b3ead75cc0",
+            "count": 2
+          },
+          "Zhonya's Hourglass": {
+            "id": "f72a1f6a-9125-4589-8d12-cef87e753f02",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Master Yi, Wuju Bladesman\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n\\n~~Mainboard~~\\n2 Cannon Barrage\\n3 Charm\\n3 Confront\\n1 Discipline\\n2 En Garde\\n2 First Mate\\n2 Gentlemen\\'s Duel\\n2 Highlander\\n1 Lee Sin, Centered\\n2 Master Yi, Honed\\n1 Master Yi, Meditative\\n2 Meditation\\n2 Mobilize\\n1 Mountain Drake\\n3 Pit Rookie\\n2 Playful Phantom\\n2 Stalwart Poro\\n1 Stormclaw Ursine\\n1 Udyr, Wildman\\n2 Wielder of Water\\n2 Zephyr Sage\\n1 Zhonya\\'s Hourglass\\n\\n"
+      ]
+    },
+    {
+      "id": 384,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "player_name": "Alex",
+      "player_id": "cmXkFqn2sthKve5pfxOloePLfvD2",
+      "placement": 5,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Startipped Peak\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Annie, Fiery\\n3 Cleave\\n1 Convergent Mutation\\n3 Darius, Trifarian\\n1 Dr. Mundo, Expert\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n2 Kai\\'Sa, Survivor\\n2 Lecturing Yordle\\n2 Noxus Hopeful\\n3 Ravenbloom Student\\n3 Retreat\\n2 Smoke Screen\\n1 Stupefy\\n1 Thermo Beam\\n3 Thousand-Tailed Watcher\\n1 Time Warp\\n1 Unchecked Power\\n1 Volibear, Furious\\n1 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Convergent Mutation\\n1 Pouty Poro\\n1 Progress Day\\n2 Stupefy\\n1 Thermo Beam\\n1 Time Warp\\n1 Unchecked Power\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"77b2953a-5214-4421-862d-f33d8bc4590b\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\", \"count\": 7}, \"Mind Rune\": {\"id\": \"6d4e52d9-6554-4af8-ad81-2b473b111d4e\", \"count\": 5}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"0e5cae41-44aa-425b-96a7-0c5388d2a0ba\", \"count\": 1}, \"Startipped Peak\": {\"id\": \"abad45bb-57e1-44d1-b097-e32a17049625\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"6b923755-0161-475d-8ca7-7c739f063935\", \"count\": 1}}, \"Mainboard\": {\"Annie, Fiery\": {\"id\": \"084f0ee2-c27f-4d08-8637-9102c4970a64\", \"count\": 1}, \"Cleave\": {\"id\": \"c092c17d-8faf-4d7f-9037-cb4fa0fa4a60\", \"count\": 3}, \"Convergent Mutation\": {\"id\": \"907a4dfe-ee61-48e3-a24a-81f2e195a7f0\", \"count\": 1}, \"Darius, Trifarian\": {\"id\": \"483c1de6-40ff-4392-a31e-583e00743893\", \"count\": 3}, \"Dr. Mundo, Expert\": {\"id\": \"1cde9e0c-7457-471e-b9e6-dbc25240c427\", \"count\": 1}, \"Falling Star\": {\"id\": \"9739a73c-44d8-413f-a87b-f2d7efa8ddbf\", \"count\": 3}, \"Hextech Ray\": {\"id\": \"c5ed3577-29a3-4c2e-97cb-1a7ac6517d91\", \"count\": 3}, \"Icathian Rain\": {\"id\": \"aa5f34d6-d7c9-4790-8c79-18134e1b4eea\", \"count\": 2}, \"Kai'Sa, Survivor\": {\"id\": \"4bf7f780-55da-4099-a91c-ca4f5b5458b2\", \"count\": 2}, \"Lecturing Yordle\": {\"id\": \"156888ab-68e6-434e-9353-88b27c2af7ce\", \"count\": 2}, \"Noxus Hopeful\": {\"id\": \"0a83a04b-02f6-4eaf-ad68-987b564547d3\", \"count\": 2}, \"Ravenbloom Student\": {\"id\": \"8295bc06-85cf-4d57-b2be-cceee8bd8f1b\", \"count\": 3}, \"Retreat\": {\"id\": \"e5b9ee62-730a-4f86-aaae-edaf51c9ba8b\", \"count\": 3}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 2}, \"Stupefy\": {\"id\": \"9cb0c415-dbb4-460c-9d28-db41ae981c8e\", \"count\": 1}, \"Thermo Beam\": {\"id\": \"3a7037f8-0df0-4e7f-9ee5-7571027c2db7\", \"count\": 1}, \"Thousand-Tailed Watcher\": {\"id\": \"6bfd727b-dfbe-472c-b7a2-dcc7036ded62\", \"count\": 3}, \"Time Warp\": {\"id\": \"a81320ff-266f-4f66-aa26-1fae7b466036\", \"count\": 1}, \"Unchecked Power\": {\"id\": \"a3f7c8f3-c492-48bf-83a0-0acc61c2fbd1\", \"count\": 1}, \"Volibear, Furious\": {\"id\": \"c1a03ce4-1d5c-4ee7-bac3-e977c0cd395a\", \"count\": 1}, \"Watchful Sentry\": {\"id\": \"e89aa829-e22b-4cb8-885a-19f906963a2e\", \"count\": 1}}, \"Sideboard\": {\"Convergent Mutation\": {\"id\": \"907a4dfe-ee61-48e3-a24a-81f2e195a7f0\", \"count\": 1}, \"Pouty Poro\": {\"id\": \"51ef3649-41c8-41bb-98b5-adcf9d1c8fdf\", \"count\": 1}, \"Progress Day\": {\"id\": \"74293150-ec32-4542-91b5-2781c793df1e\", \"count\": 1}, \"Stupefy\": {\"id\": \"9cb0c415-dbb4-460c-9d28-db41ae981c8e\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"3a7037f8-0df0-4e7f-9ee5-7571027c2db7\", \"count\": 1}, \"Time Warp\": {\"id\": \"a81320ff-266f-4f66-aa26-1fae7b466036\", \"count\": 1}, \"Unchecked Power\": {\"id\": \"a3f7c8f3-c492-48bf-83a0-0acc61c2fbd1\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "77b2953a-5214-4421-862d-f33d8bc4590b",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "6d4e52d9-6554-4af8-ad81-2b473b111d4e",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "0e5cae41-44aa-425b-96a7-0c5388d2a0ba",
+            "count": 1
+          },
+          "Startipped Peak": {
+            "id": "abad45bb-57e1-44d1-b097-e32a17049625",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "6b923755-0161-475d-8ca7-7c739f063935",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Annie, Fiery": {
+            "id": "084f0ee2-c27f-4d08-8637-9102c4970a64",
+            "count": 1
+          },
+          "Cleave": {
+            "id": "c092c17d-8faf-4d7f-9037-cb4fa0fa4a60",
+            "count": 3
+          },
+          "Convergent Mutation": {
+            "id": "907a4dfe-ee61-48e3-a24a-81f2e195a7f0",
+            "count": 1
+          },
+          "Darius, Trifarian": {
+            "id": "483c1de6-40ff-4392-a31e-583e00743893",
+            "count": 3
+          },
+          "Dr. Mundo, Expert": {
+            "id": "1cde9e0c-7457-471e-b9e6-dbc25240c427",
+            "count": 1
+          },
+          "Falling Star": {
+            "id": "9739a73c-44d8-413f-a87b-f2d7efa8ddbf",
+            "count": 3
+          },
+          "Hextech Ray": {
+            "id": "c5ed3577-29a3-4c2e-97cb-1a7ac6517d91",
+            "count": 3
+          },
+          "Icathian Rain": {
+            "id": "aa5f34d6-d7c9-4790-8c79-18134e1b4eea",
+            "count": 2
+          },
+          "Kai'Sa, Survivor": {
+            "id": "4bf7f780-55da-4099-a91c-ca4f5b5458b2",
+            "count": 2
+          },
+          "Lecturing Yordle": {
+            "id": "156888ab-68e6-434e-9353-88b27c2af7ce",
+            "count": 2
+          },
+          "Noxus Hopeful": {
+            "id": "0a83a04b-02f6-4eaf-ad68-987b564547d3",
+            "count": 2
+          },
+          "Ravenbloom Student": {
+            "id": "8295bc06-85cf-4d57-b2be-cceee8bd8f1b",
+            "count": 3
+          },
+          "Retreat": {
+            "id": "e5b9ee62-730a-4f86-aaae-edaf51c9ba8b",
+            "count": 3
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 2
+          },
+          "Stupefy": {
+            "id": "9cb0c415-dbb4-460c-9d28-db41ae981c8e",
+            "count": 1
+          },
+          "Thermo Beam": {
+            "id": "3a7037f8-0df0-4e7f-9ee5-7571027c2db7",
+            "count": 1
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "6bfd727b-dfbe-472c-b7a2-dcc7036ded62",
+            "count": 3
+          },
+          "Time Warp": {
+            "id": "a81320ff-266f-4f66-aa26-1fae7b466036",
+            "count": 1
+          },
+          "Unchecked Power": {
+            "id": "a3f7c8f3-c492-48bf-83a0-0acc61c2fbd1",
+            "count": 1
+          },
+          "Volibear, Furious": {
+            "id": "c1a03ce4-1d5c-4ee7-bac3-e977c0cd395a",
+            "count": 1
+          },
+          "Watchful Sentry": {
+            "id": "e89aa829-e22b-4cb8-885a-19f906963a2e",
+            "count": 1
+          }
+        },
+        "Sideboard": {
+          "Convergent Mutation": {
+            "id": "907a4dfe-ee61-48e3-a24a-81f2e195a7f0",
+            "count": 1
+          },
+          "Pouty Poro": {
+            "id": "51ef3649-41c8-41bb-98b5-adcf9d1c8fdf",
+            "count": 1
+          },
+          "Progress Day": {
+            "id": "74293150-ec32-4542-91b5-2781c793df1e",
+            "count": 1
+          },
+          "Stupefy": {
+            "id": "9cb0c415-dbb4-460c-9d28-db41ae981c8e",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "3a7037f8-0df0-4e7f-9ee5-7571027c2db7",
+            "count": 1
+          },
+          "Time Warp": {
+            "id": "a81320ff-266f-4f66-aa26-1fae7b466036",
+            "count": 1
+          },
+          "Unchecked Power": {
+            "id": "a3f7c8f3-c492-48bf-83a0-0acc61c2fbd1",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Startipped Peak\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Annie, Fiery\\n3 Cleave\\n1 Convergent Mutation\\n3 Darius, Trifarian\\n1 Dr. Mundo, Expert\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n2 Kai\\'Sa, Survivor\\n2 Lecturing Yordle\\n2 Noxus Hopeful\\n3 Ravenbloom Student\\n3 Retreat\\n2 Smoke Screen\\n1 Stupefy\\n1 Thermo Beam\\n3 Thousand-Tailed Watcher\\n1 Time Warp\\n1 Unchecked Power\\n1 Volibear, Furious\\n1 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Convergent Mutation\\n1 Pouty Poro\\n1 Progress Day\\n2 Stupefy\\n1 Thermo Beam\\n1 Time Warp\\n1 Unchecked Power\\n"
+      ]
+    },
+    {
+      "id": 385,
+      "tid": "riftbound-remote-showdown-pop-up-cup",
+      "player_name": "Clydefrog",
+      "player_id": "FZRl4HG0GnYHZdIOYcni9X5jGSi2",
+      "placement": 6,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Lee Sin, Blind Monk\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Monastery of Hirana\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Challenge\\n3 Charm\\n3 Clockwork Keeper\\n3 Discipline\\n3 First Mate\\n2 Kinkou Monk\\n1 Lee Sin, Centered\\n2 Mask of Foresight\\n1 Mistfall\\n3 Pit Rookie\\n3 Qiyana, Victorious\\n3 Stalwart Poro\\n2 Stand United\\n2 Udyr, Wildman\\n3 Wielder of Water\\n3 Wizened Elder\\n\\n",
+      "deck_obj": "{\"Legend\": {\"Lee Sin, Blind Monk\": {\"id\": \"e2b8bbf2-fc8f-4cf6-a9d2-b2793fd7bfa3\", \"count\": 1}}, \"Runes\": {\"Body Rune\": {\"id\": \"8ae170ea-6d4e-4845-8fc0-6042e039ed85\", \"count\": 6}, \"Calm Rune\": {\"id\": \"457fc09c-6ab1-4c45-89a5-3b617eb62a59\", \"count\": 6}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"0e5cae41-44aa-425b-96a7-0c5388d2a0ba\", \"count\": 1}, \"Monastery of Hirana\": {\"id\": \"b452622d-9830-4426-b139-97241fe0720a\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"6b923755-0161-475d-8ca7-7c739f063935\", \"count\": 1}}, \"Mainboard\": {\"Challenge\": {\"id\": \"e25c4e56-4874-4817-b6ac-a272c70110c9\", \"count\": 3}, \"Charm\": {\"id\": \"ec1ffc1d-0df7-4665-ac03-01d58dd95501\", \"count\": 3}, \"Clockwork Keeper\": {\"id\": \"e9b5bebd-1a7b-436a-83ad-0bea32b99c53\", \"count\": 3}, \"Discipline\": {\"id\": \"9b8405ac-f6f6-4fbf-8c54-1ae27bd622b1\", \"count\": 3}, \"First Mate\": {\"id\": \"7ed88d77-b1c6-46db-8acc-812b140e00fe\", \"count\": 3}, \"Kinkou Monk\": {\"id\": \"53fd26ea-e45e-4450-8f1d-ea7a11263db2\", \"count\": 2}, \"Lee Sin, Centered\": {\"id\": \"2c2a0261-269a-471d-a593-5b6b4c65f164\", \"count\": 1}, \"Mask of Foresight\": {\"id\": \"39313c7e-ff28-488d-a7e5-0c9febe5c25f\", \"count\": 2}, \"Mistfall\": {\"id\": \"0963661b-b730-4851-84a6-aa7b6c3401ae\", \"count\": 1}, \"Pit Rookie\": {\"id\": \"6259f8a2-6e34-4261-bb73-5e9e71b517fc\", \"count\": 3}, \"Qiyana, Victorious\": {\"id\": \"864fa711-8b47-4ed2-902c-e8389c6e5fe7\", \"count\": 3}, \"Stalwart Poro\": {\"id\": \"6ddaf508-3ca2-4615-ad0e-b3e47b9e1816\", \"count\": 3}, \"Stand United\": {\"id\": \"a3e75e2a-2936-4400-bd42-7ee211ac8cc9\", \"count\": 2}, \"Udyr, Wildman\": {\"id\": \"2258fa2f-b4c9-4aa8-a90f-7c4e665c2661\", \"count\": 2}, \"Wielder of Water\": {\"id\": \"00fe7358-d209-4169-9661-a6796733ce41\", \"count\": 3}, \"Wizened Elder\": {\"id\": \"ce25403c-08e2-48c0-97e5-3e528fbdbb30\", \"count\": 3}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Lee Sin, Blind Monk": {
+            "id": "e2b8bbf2-fc8f-4cf6-a9d2-b2793fd7bfa3",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Body Rune": {
+            "id": "8ae170ea-6d4e-4845-8fc0-6042e039ed85",
+            "count": 6
+          },
+          "Calm Rune": {
+            "id": "457fc09c-6ab1-4c45-89a5-3b617eb62a59",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "0e5cae41-44aa-425b-96a7-0c5388d2a0ba",
+            "count": 1
+          },
+          "Monastery of Hirana": {
+            "id": "b452622d-9830-4426-b139-97241fe0720a",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "6b923755-0161-475d-8ca7-7c739f063935",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Challenge": {
+            "id": "e25c4e56-4874-4817-b6ac-a272c70110c9",
+            "count": 3
+          },
+          "Charm": {
+            "id": "ec1ffc1d-0df7-4665-ac03-01d58dd95501",
+            "count": 3
+          },
+          "Clockwork Keeper": {
+            "id": "e9b5bebd-1a7b-436a-83ad-0bea32b99c53",
+            "count": 3
+          },
+          "Discipline": {
+            "id": "9b8405ac-f6f6-4fbf-8c54-1ae27bd622b1",
+            "count": 3
+          },
+          "First Mate": {
+            "id": "7ed88d77-b1c6-46db-8acc-812b140e00fe",
+            "count": 3
+          },
+          "Kinkou Monk": {
+            "id": "53fd26ea-e45e-4450-8f1d-ea7a11263db2",
+            "count": 2
+          },
+          "Lee Sin, Centered": {
+            "id": "2c2a0261-269a-471d-a593-5b6b4c65f164",
+            "count": 1
+          },
+          "Mask of Foresight": {
+            "id": "39313c7e-ff28-488d-a7e5-0c9febe5c25f",
+            "count": 2
+          },
+          "Mistfall": {
+            "id": "0963661b-b730-4851-84a6-aa7b6c3401ae",
+            "count": 1
+          },
+          "Pit Rookie": {
+            "id": "6259f8a2-6e34-4261-bb73-5e9e71b517fc",
+            "count": 3
+          },
+          "Qiyana, Victorious": {
+            "id": "864fa711-8b47-4ed2-902c-e8389c6e5fe7",
+            "count": 3
+          },
+          "Stalwart Poro": {
+            "id": "6ddaf508-3ca2-4615-ad0e-b3e47b9e1816",
+            "count": 3
+          },
+          "Stand United": {
+            "id": "a3e75e2a-2936-4400-bd42-7ee211ac8cc9",
+            "count": 2
+          },
+          "Udyr, Wildman": {
+            "id": "2258fa2f-b4c9-4aa8-a90f-7c4e665c2661",
+            "count": 2
+          },
+          "Wielder of Water": {
+            "id": "00fe7358-d209-4169-9661-a6796733ce41",
+            "count": 3
+          },
+          "Wizened Elder": {
+            "id": "ce25403c-08e2-48c0-97e5-3e528fbdbb30",
+            "count": 3
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Lee Sin, Blind Monk\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Monastery of Hirana\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Challenge\\n3 Charm\\n3 Clockwork Keeper\\n3 Discipline\\n3 First Mate\\n2 Kinkou Monk\\n1 Lee Sin, Centered\\n2 Mask of Foresight\\n1 Mistfall\\n3 Pit Rookie\\n3 Qiyana, Victorious\\n3 Stalwart Poro\\n2 Stand United\\n2 Udyr, Wildman\\n3 Wielder of Water\\n3 Wizened Elder\\n\\n"
+      ]
+    }
+  ]
+}

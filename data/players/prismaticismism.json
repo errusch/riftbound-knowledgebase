@@ -1,0 +1,32 @@
+{
+  "id": "player.prismaticismism",
+  "type": "player_record",
+  "title": "Prismaticismism",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "competitive-player",
+    "draven-glorious-executioner-teemo-swift-scout"
+  ],
+  "record": {
+    "player_name": "Prismaticismism",
+    "x_handle": "5th\u20138th",
+    "confidence": "Draven, Glorious Executioner",
+    "events": "[@Prismaticismism](https://x.com/Prismaticismism)",
+    "notes": "**HIGH**",
+    "main_legend": "Draven, Glorious Executioner / Teemo, Swift Scout",
+    "tournament_results": "5th - Bologna RQ (Feb 21-22, 2026); 6th - SCGCon Las Vegas (Nov 23, 2025, $10k, 386 players)",
+    "content_creator": 0,
+    "source_urls": "https://roadoftheking.com/rq-bologna/; https://riftbound.gg/riftbound-scgcon-top-decks-las-vegas/",
+    "source_urls_list": [
+      "https://roadoftheking.com/rq-bologna/",
+      "https://riftbound.gg/riftbound-scgcon-top-decks-las-vegas/"
+    ],
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  }
+}

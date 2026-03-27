@@ -1,0 +1,41 @@
+{
+  "id": "price_history.ogs--spiritforged-booster-display-case",
+  "type": "price_record",
+  "title": "Spiritforged - Booster Display Case (OGS)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "OGS",
+    "spiritforged-booster-display-case"
+  ],
+  "record": {
+    "card_name": "Spiritforged - Booster Display Case",
+    "set_id": "OGS",
+    "latest": {
+      "card_name": "Spiritforged - Booster Display Case",
+      "set_id": "OGS",
+      "tcgplayer_id": "661937",
+      "market_price": 1161.09,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-02-27"
+    },
+    "history": [
+      {
+        "card_name": "Spiritforged - Booster Display Case",
+        "set_id": "OGS",
+        "tcgplayer_id": "661937",
+        "market_price": 1161.09,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

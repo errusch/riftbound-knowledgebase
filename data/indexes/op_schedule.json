@@ -1,0 +1,386 @@
+[
+  {
+    "id": "op_schedule.rq-houston-2025",
+    "type": "schedule_record",
+    "title": "RQ Houston",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "completed"
+    ],
+    "path": "data/schedule/rq-houston-2025.json"
+  },
+  {
+    "id": "op_schedule.s2-reg-fuzhou-2026",
+    "type": "schedule_record",
+    "title": "S2 Regional Open Fuzhou",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "china_regional",
+      "completed"
+    ],
+    "path": "data/schedule/s2-reg-fuzhou-2026.json"
+  },
+  {
+    "id": "op_schedule.s2-reg-chengdu-2026",
+    "type": "schedule_record",
+    "title": "S2 Regional Open Chengdu",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "china_regional",
+      "completed"
+    ],
+    "path": "data/schedule/s2-reg-chengdu-2026.json"
+  },
+  {
+    "id": "op_schedule.s2-reg-dalian-2026",
+    "type": "schedule_record",
+    "title": "S2 Regional Open Dalian",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "china_regional",
+      "completed"
+    ],
+    "path": "data/schedule/s2-reg-dalian-2026.json"
+  },
+  {
+    "id": "op_schedule.s2-reg-nanjing-2026",
+    "type": "schedule_record",
+    "title": "S2 Regional Open Nanjing",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "china_regional",
+      "completed"
+    ],
+    "path": "data/schedule/s2-reg-nanjing-2026.json"
+  },
+  {
+    "id": "op_schedule.release-spiritforged",
+    "type": "schedule_record",
+    "title": "Spiritforged English Release",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "set_release",
+      "completed"
+    ],
+    "path": "data/schedule/release-spiritforged.json"
+  },
+  {
+    "id": "op_schedule.rq-bologna-2026",
+    "type": "schedule_record",
+    "title": "RQ Bologna",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "completed"
+    ],
+    "path": "data/schedule/rq-bologna-2026.json"
+  },
+  {
+    "id": "op_schedule.rq-las-vegas-2026",
+    "type": "schedule_record",
+    "title": "RQ Las Vegas",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "upcoming"
+    ],
+    "path": "data/schedule/rq-las-vegas-2026.json"
+  },
+  {
+    "id": "op_schedule.conv-pax-east-2026",
+    "type": "schedule_record",
+    "title": "PAX East",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "convention",
+      "upcoming"
+    ],
+    "path": "data/schedule/conv-pax-east-2026.json"
+  },
+  {
+    "id": "op_schedule.conv-dreamhack-birmingham",
+    "type": "schedule_record",
+    "title": "Dreamhack Birmingham",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "convention",
+      "upcoming"
+    ],
+    "path": "data/schedule/conv-dreamhack-birmingham.json"
+  },
+  {
+    "id": "op_schedule.rq-lille-2026",
+    "type": "schedule_record",
+    "title": "RQ Lille",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "upcoming"
+    ],
+    "path": "data/schedule/rq-lille-2026.json"
+  },
+  {
+    "id": "op_schedule.rq-atlanta-2026",
+    "type": "schedule_record",
+    "title": "RQ Atlanta",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "upcoming"
+    ],
+    "path": "data/schedule/rq-atlanta-2026.json"
+  },
+  {
+    "id": "op_schedule.release-unleashed",
+    "type": "schedule_record",
+    "title": "Unleashed Release",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "set_release",
+      "upcoming"
+    ],
+    "path": "data/schedule/release-unleashed.json"
+  },
+  {
+    "id": "op_schedule.rq-sydney-2026",
+    "type": "schedule_record",
+    "title": "RQ Sydney",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "upcoming"
+    ],
+    "path": "data/schedule/rq-sydney-2026.json"
+  },
+  {
+    "id": "op_schedule.rq-vancouver-2026",
+    "type": "schedule_record",
+    "title": "RQ Vancouver",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "upcoming"
+    ],
+    "path": "data/schedule/rq-vancouver-2026.json"
+  },
+  {
+    "id": "op_schedule.rq-utrecht-2026",
+    "type": "schedule_record",
+    "title": "RQ Utrecht",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "upcoming"
+    ],
+    "path": "data/schedule/rq-utrecht-2026.json"
+  },
+  {
+    "id": "op_schedule.rq-hartford-2026",
+    "type": "schedule_record",
+    "title": "RQ Hartford",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "upcoming"
+    ],
+    "path": "data/schedule/rq-hartford-2026.json"
+  },
+  {
+    "id": "op_schedule.conv-gencon-2026",
+    "type": "schedule_record",
+    "title": "Gen Con Indy",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "convention",
+      "upcoming"
+    ],
+    "path": "data/schedule/conv-gencon-2026.json"
+  },
+  {
+    "id": "op_schedule.release-vendetta",
+    "type": "schedule_record",
+    "title": "Vendetta Release",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "set_release",
+      "upcoming"
+    ],
+    "path": "data/schedule/release-vendetta.json"
+  },
+  {
+    "id": "op_schedule.rq-barcelona-2026",
+    "type": "schedule_record",
+    "title": "RQ Barcelona",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "upcoming"
+    ],
+    "path": "data/schedule/rq-barcelona-2026.json"
+  },
+  {
+    "id": "op_schedule.rq-singapore-2026",
+    "type": "schedule_record",
+    "title": "RQ Singapore",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "upcoming"
+    ],
+    "path": "data/schedule/rq-singapore-2026.json"
+  },
+  {
+    "id": "op_schedule.rq-los-angeles-2026",
+    "type": "schedule_record",
+    "title": "RQ Los Angeles",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "regional_qualifier",
+      "upcoming"
+    ],
+    "path": "data/schedule/rq-los-angeles-2026.json"
+  },
+  {
+    "id": "op_schedule.release-radiance",
+    "type": "schedule_record",
+    "title": "Radiance Release",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "set_release",
+      "upcoming"
+    ],
+    "path": "data/schedule/release-radiance.json"
+  },
+  {
+    "id": "op_schedule.conv-pax-unplugged-2026",
+    "type": "schedule_record",
+    "title": "PAX Unplugged",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "op-schedule",
+      "convention",
+      "upcoming"
+    ],
+    "path": "data/schedule/conv-pax-unplugged-2026.json"
+  }
+]

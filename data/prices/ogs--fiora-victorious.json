@@ -1,0 +1,41 @@
+{
+  "id": "price_history.ogs--fiora-victorious",
+  "type": "price_record",
+  "title": "Fiora - Victorious (OGS)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "OGS",
+    "fiora-victorious"
+  ],
+  "record": {
+    "card_name": "Fiora - Victorious",
+    "set_id": "OGS",
+    "latest": {
+      "card_name": "Fiora - Victorious",
+      "set_id": "OGS",
+      "tcgplayer_id": "653026",
+      "market_price": 11.22,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-02-27"
+    },
+    "history": [
+      {
+        "card_name": "Fiora - Victorious",
+        "set_id": "OGS",
+        "tcgplayer_id": "653026",
+        "market_price": 11.22,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

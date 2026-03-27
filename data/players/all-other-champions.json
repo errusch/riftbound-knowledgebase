@@ -1,0 +1,27 @@
+{
+  "id": "player.all-other-champions",
+  "type": "player_record",
+  "title": "All other champions",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "competitive-player",
+    "item"
+  ],
+  "record": {
+    "player_name": "All other champions",
+    "x_handle": "Not fully confirmed",
+    "confidence": "\u2014",
+    "events": "riftmana.com had full list but was inaccessible (Cloudflare). Recommend checking riftbound.leagueoflegends.com for official announcement",
+    "notes": "",
+    "main_legend": null,
+    "tournament_results": null,
+    "content_creator": 0,
+    "source_urls": null,
+    "source_urls_list": [],
+    "quality_flags": []
+  }
+}

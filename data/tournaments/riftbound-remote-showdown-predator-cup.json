@@ -1,0 +1,1215 @@
+{
+  "id": "tournament.riftbound-remote-showdown-predator-cup",
+  "type": "tournament_record",
+  "title": "Riftbound Remote Showdown Predator Cup",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "tournament",
+    "Constructed",
+    "item"
+  ],
+  "record": {
+    "tid": "riftbound-remote-showdown-predator-cup",
+    "name": "Riftbound Remote Showdown Predator Cup",
+    "start_date": 1767456000,
+    "format": "Constructed",
+    "swiss_rounds": 3,
+    "top_cut": 0,
+    "participants": 8,
+    "city": null,
+    "state": null,
+    "location": "https://discord.gg/6qj55AaxVe",
+    "country": null
+  },
+  "rounds": [
+    {
+      "id": 4480,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "round": "1",
+      "table_num": 1,
+      "player1_name": "Blair Guillory",
+      "player1_id": "5WF8BkNhwkgUrR9FSkjqcNDTKHA2",
+      "player2_name": "Lu\u00eds Miguel Sim\u00f5es Mendes",
+      "player2_id": "l2CMa7rikTQI8eMWtEUTxRLDmoq2",
+      "winner": "Lu\u00eds Miguel Sim\u00f5es Mendes",
+      "status": "Completed"
+    },
+    {
+      "id": 4481,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "round": "1",
+      "table_num": 2,
+      "player1_name": "Sam Walden",
+      "player1_id": "QNzfYJ2mWJOZ893yYCgxzAiLQPq1",
+      "player2_name": "EpicFulls",
+      "player2_id": "NbmLLRZF8iYmtzK8PveJATU25vg2",
+      "winner": "EpicFulls",
+      "status": "Completed"
+    },
+    {
+      "id": 4482,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "round": "1",
+      "table_num": 3,
+      "player1_name": "Bradlly Keierleber ",
+      "player1_id": "Gi3kv7oDihflcp3QyPv1x8i1mlm1",
+      "player2_name": "Maxim Lukin",
+      "player2_id": "JeGA4AhLfKepgu5KpGKRh5WXod23",
+      "winner": "Maxim Lukin",
+      "status": "Completed"
+    },
+    {
+      "id": 4483,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "round": "1",
+      "table_num": 4,
+      "player1_name": "michael miller",
+      "player1_id": "QQ7jvFR6J8SdHYcTiNhRSeDDrzj1",
+      "player2_name": "Owen Wilson",
+      "player2_id": "d3PEYJwqMoON9iz1rK8FyC14b3W2",
+      "winner": "michael miller",
+      "status": "Completed"
+    },
+    {
+      "id": 4484,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "round": "2",
+      "table_num": 1,
+      "player1_name": "Maxim Lukin",
+      "player1_id": "JeGA4AhLfKepgu5KpGKRh5WXod23",
+      "player2_name": "EpicFulls",
+      "player2_id": "NbmLLRZF8iYmtzK8PveJATU25vg2",
+      "winner": "EpicFulls",
+      "status": "Completed"
+    },
+    {
+      "id": 4485,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "round": "2",
+      "table_num": 2,
+      "player1_name": "Lu\u00eds Miguel Sim\u00f5es Mendes",
+      "player1_id": "l2CMa7rikTQI8eMWtEUTxRLDmoq2",
+      "player2_name": "michael miller",
+      "player2_id": "QQ7jvFR6J8SdHYcTiNhRSeDDrzj1",
+      "winner": "michael miller",
+      "status": "Completed"
+    },
+    {
+      "id": 4486,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "round": "2",
+      "table_num": 3,
+      "player1_name": "Sam Walden",
+      "player1_id": "QNzfYJ2mWJOZ893yYCgxzAiLQPq1",
+      "player2_name": "Blair Guillory",
+      "player2_id": "5WF8BkNhwkgUrR9FSkjqcNDTKHA2",
+      "winner": "Sam Walden",
+      "status": "Completed"
+    },
+    {
+      "id": 4487,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "round": "3",
+      "table_num": 1,
+      "player1_name": "EpicFulls",
+      "player1_id": "NbmLLRZF8iYmtzK8PveJATU25vg2",
+      "player2_name": "michael miller",
+      "player2_id": "QQ7jvFR6J8SdHYcTiNhRSeDDrzj1",
+      "winner": "michael miller",
+      "status": "Completed"
+    },
+    {
+      "id": 4488,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "round": "3",
+      "table_num": 2,
+      "player1_name": "Sam Walden",
+      "player1_id": "QNzfYJ2mWJOZ893yYCgxzAiLQPq1",
+      "player2_name": "Maxim Lukin",
+      "player2_id": "JeGA4AhLfKepgu5KpGKRh5WXod23",
+      "winner": "Sam Walden",
+      "status": "Completed"
+    }
+  ],
+  "standings": [
+    {
+      "id": 1939,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "player_name": "michael miller",
+      "player_id": "QQ7jvFR6J8SdHYcTiNhRSeDDrzj1",
+      "placement": 1,
+      "wins": 3,
+      "wins_swiss": 3,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Sett, The Boss\\n\\n~~Runes~~\\n8 Body Rune\\n4 Order Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Monastery of Hirana\\n1 Windswept Hillock\\n\\n~~Mainboard~~\\n3 Arena Bar\\n3 Call to Glory\\n3 Challenge\\n3 Cithria of Cloudfield\\n1 Daring Poro\\n3 Fiora, Victorious\\n3 First Mate\\n2 Hidden Blade\\n2 Kinkou Monk\\n3 Pit Rookie\\n2 Primal Strength\\n3 Qiyana, Victorious\\n3 Sabotage\\n2 Sett, Brawler\\n1 Sett, Kingpin\\n3 Showstopper\\n\\n~~Sideboard~~\\n2 Daring Poro\\n1 Lee Sin, Centered\\n2 Salvage\\n1 Unyielding Spirit\\n2 Vengeance\\n",
+      "deck_obj": "{\"Legend\": {\"Sett, The Boss\": {\"count\": 1, \"id\": \"e827f607-e986-4c68-80b3-9b167b253e71\"}}, \"Runes\": {\"Order Rune\": {\"id\": \"0b2a3650-d38e-4e16-adde-0fb16d0f68d7\", \"count\": 4}, \"Body Rune\": {\"count\": 8, \"id\": \"8ae170ea-6d4e-4845-8fc0-6042e039ed85\"}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}, \"Sideboard\": {\"Daring Poro\": {\"id\": \"b24be216-e6db-4894-bc5b-cbe9d8050d92\", \"count\": 2}, \"Unyielding Spirit\": {\"count\": 1, \"id\": \"e3f7640d-ccd9-40c2-ba5d-c816725ba7db\"}, \"Salvage\": {\"count\": 2, \"id\": \"33b3f230-e26f-460d-8d47-4ea3ee408f1a\"}, \"Lee Sin, Centered\": {\"count\": 1, \"id\": \"2c2a0261-269a-471d-a593-5b6b4c65f164\"}, \"Vengeance\": {\"count\": 2, \"id\": \"c8ea21f0-a78d-4748-878c-72eaf60ec137\"}}, \"Mainboard\": {\"First Mate\": {\"id\": \"7ed88d77-b1c6-46db-8acc-812b140e00fe\", \"count\": 3}, \"Sabotage\": {\"count\": 3, \"id\": \"e75cd790-b820-4faa-bbc7-811acbc4a0df\"}, \"Daring Poro\": {\"count\": 1, \"id\": \"b24be216-e6db-4894-bc5b-cbe9d8050d92\"}, \"Showstopper\": {\"id\": \"af4f2dd2-1ab8-48bd-8e88-6c6734c859ff\", \"count\": 3}, \"Qiyana, Victorious\": {\"count\": 3, \"id\": \"864fa711-8b47-4ed2-902c-e8389c6e5fe7\"}, \"Fiora, Victorious\": {\"count\": 3, \"id\": \"cb3bdd7f-7586-4ee3-99df-45b8abd79721\"}, \"Kinkou Monk\": {\"count\": 2, \"id\": \"53fd26ea-e45e-4450-8f1d-ea7a11263db2\"}, \"Sett, Kingpin\": {\"id\": \"0fca7004-8f85-41b4-9f2c-6368168249cd\", \"count\": 1}, \"Pit Rookie\": {\"count\": 3, \"id\": \"6259f8a2-6e34-4261-bb73-5e9e71b517fc\"}, \"Sett, Brawler\": {\"count\": 2, \"id\": \"e5453c50-e64f-41a1-a3fb-e9ecd37f52b6\"}, \"Cithria of Cloudfield\": {\"id\": \"9010f367-2a97-468c-acd3-534b824b778d\", \"count\": 3}, \"Challenge\": {\"count\": 3, \"id\": \"e25c4e56-4874-4817-b6ac-a272c70110c9\"}, \"Primal Strength\": {\"id\": \"0944da6b-0a91-42dd-a95a-9a9bdb3fd6ef\", \"count\": 2}, \"Hidden Blade\": {\"count\": 2, \"id\": \"93dad60c-3203-4e91-9d3c-f4f239634e78\"}, \"Call to Glory\": {\"count\": 3, \"id\": \"e50f307b-d0e5-4362-b9d7-45dc921ff468\"}, \"Arena Bar\": {\"count\": 3, \"id\": \"b1e72972-b26d-4b68-a3f6-448ee422652e\"}}, \"Battlefields\": {\"Windswept Hillock\": {\"count\": 1, \"id\": \"491ad1f9-9159-4617-9620-e0156df5b1a9\"}, \"Monastery of Hirana\": {\"count\": 1, \"id\": \"b452622d-9830-4426-b139-97241fe0720a\"}, \"Grove of the God-Willow\": {\"count\": 1, \"id\": \"0e5cae41-44aa-425b-96a7-0c5388d2a0ba\"}}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Sett, The Boss": {
+            "count": 1,
+            "id": "e827f607-e986-4c68-80b3-9b167b253e71"
+          }
+        },
+        "Runes": {
+          "Order Rune": {
+            "id": "0b2a3650-d38e-4e16-adde-0fb16d0f68d7",
+            "count": 4
+          },
+          "Body Rune": {
+            "count": 8,
+            "id": "8ae170ea-6d4e-4845-8fc0-6042e039ed85"
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        },
+        "Sideboard": {
+          "Daring Poro": {
+            "id": "b24be216-e6db-4894-bc5b-cbe9d8050d92",
+            "count": 2
+          },
+          "Unyielding Spirit": {
+            "count": 1,
+            "id": "e3f7640d-ccd9-40c2-ba5d-c816725ba7db"
+          },
+          "Salvage": {
+            "count": 2,
+            "id": "33b3f230-e26f-460d-8d47-4ea3ee408f1a"
+          },
+          "Lee Sin, Centered": {
+            "count": 1,
+            "id": "2c2a0261-269a-471d-a593-5b6b4c65f164"
+          },
+          "Vengeance": {
+            "count": 2,
+            "id": "c8ea21f0-a78d-4748-878c-72eaf60ec137"
+          }
+        },
+        "Mainboard": {
+          "First Mate": {
+            "id": "7ed88d77-b1c6-46db-8acc-812b140e00fe",
+            "count": 3
+          },
+          "Sabotage": {
+            "count": 3,
+            "id": "e75cd790-b820-4faa-bbc7-811acbc4a0df"
+          },
+          "Daring Poro": {
+            "count": 1,
+            "id": "b24be216-e6db-4894-bc5b-cbe9d8050d92"
+          },
+          "Showstopper": {
+            "id": "af4f2dd2-1ab8-48bd-8e88-6c6734c859ff",
+            "count": 3
+          },
+          "Qiyana, Victorious": {
+            "count": 3,
+            "id": "864fa711-8b47-4ed2-902c-e8389c6e5fe7"
+          },
+          "Fiora, Victorious": {
+            "count": 3,
+            "id": "cb3bdd7f-7586-4ee3-99df-45b8abd79721"
+          },
+          "Kinkou Monk": {
+            "count": 2,
+            "id": "53fd26ea-e45e-4450-8f1d-ea7a11263db2"
+          },
+          "Sett, Kingpin": {
+            "id": "0fca7004-8f85-41b4-9f2c-6368168249cd",
+            "count": 1
+          },
+          "Pit Rookie": {
+            "count": 3,
+            "id": "6259f8a2-6e34-4261-bb73-5e9e71b517fc"
+          },
+          "Sett, Brawler": {
+            "count": 2,
+            "id": "e5453c50-e64f-41a1-a3fb-e9ecd37f52b6"
+          },
+          "Cithria of Cloudfield": {
+            "id": "9010f367-2a97-468c-acd3-534b824b778d",
+            "count": 3
+          },
+          "Challenge": {
+            "count": 3,
+            "id": "e25c4e56-4874-4817-b6ac-a272c70110c9"
+          },
+          "Primal Strength": {
+            "id": "0944da6b-0a91-42dd-a95a-9a9bdb3fd6ef",
+            "count": 2
+          },
+          "Hidden Blade": {
+            "count": 2,
+            "id": "93dad60c-3203-4e91-9d3c-f4f239634e78"
+          },
+          "Call to Glory": {
+            "count": 3,
+            "id": "e50f307b-d0e5-4362-b9d7-45dc921ff468"
+          },
+          "Arena Bar": {
+            "count": 3,
+            "id": "b1e72972-b26d-4b68-a3f6-448ee422652e"
+          }
+        },
+        "Battlefields": {
+          "Windswept Hillock": {
+            "count": 1,
+            "id": "491ad1f9-9159-4617-9620-e0156df5b1a9"
+          },
+          "Monastery of Hirana": {
+            "count": 1,
+            "id": "b452622d-9830-4426-b139-97241fe0720a"
+          },
+          "Grove of the God-Willow": {
+            "count": 1,
+            "id": "0e5cae41-44aa-425b-96a7-0c5388d2a0ba"
+          }
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Sett, The Boss\\n\\n~~Runes~~\\n8 Body Rune\\n4 Order Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Monastery of Hirana\\n1 Windswept Hillock\\n\\n~~Mainboard~~\\n3 Arena Bar\\n3 Call to Glory\\n3 Challenge\\n3 Cithria of Cloudfield\\n1 Daring Poro\\n3 Fiora, Victorious\\n3 First Mate\\n2 Hidden Blade\\n2 Kinkou Monk\\n3 Pit Rookie\\n2 Primal Strength\\n3 Qiyana, Victorious\\n3 Sabotage\\n2 Sett, Brawler\\n1 Sett, Kingpin\\n3 Showstopper\\n\\n~~Sideboard~~\\n2 Daring Poro\\n1 Lee Sin, Centered\\n2 Salvage\\n1 Unyielding Spirit\\n2 Vengeance\\n"
+      ]
+    },
+    {
+      "id": 1940,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "player_name": "EpicFulls",
+      "player_id": "NbmLLRZF8iYmtzK8PveJATU25vg2",
+      "placement": 2,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n2 Cleave\\n3 Darius, Trifarian\\n1 Draven, Showboat\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n2 Lecturing Yordle\\n3 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n1 Singularity\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n1 Time Warp\\n3 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n2 Mega-Mech\\n1 Progress Day\\n2 Smoke Screen\\n1 Sprite Mother\\n2 Thermo Beam\\n",
+      "deck_obj": "{\"Sideboard\": {\"Progress Day\": {\"count\": 1, \"id\": \"74293150-ec32-4542-91b5-2781c793df1e\"}, \"Mega-Mech\": {\"count\": 2, \"id\": \"220956dc-44b0-47ca-a7f0-d8e421d6864a\"}, \"Smoke Screen\": {\"count\": 2, \"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\"}, \"Thermo Beam\": {\"count\": 2, \"id\": \"3a7037f8-0df0-4e7f-9ee5-7571027c2db7\"}, \"Sprite Mother\": {\"id\": \"f66a2463-7d72-436f-8a88-c62c586c81ef\", \"count\": 1}}, \"metadata\": {\"format\": \"Constructed\", \"game\": \"Riftbound\"}, \"Runes\": {\"Mind Rune\": {\"count\": 5, \"id\": \"6d4e52d9-6554-4af8-ad81-2b473b111d4e\"}, \"Fury Rune\": {\"count\": 7, \"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\"}}, \"Battlefields\": {\"The Dreaming Tree\": {\"id\": \"6b923755-0161-475d-8ca7-7c739f063935\", \"count\": 1}, \"Targon's Peak\": {\"id\": \"29dea928-295d-4832-9bc1-91672389cf59\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708\", \"count\": 1}}, \"Mainboard\": {\"Hextech Ray\": {\"id\": \"c5ed3577-29a3-4c2e-97cb-1a7ac6517d91\", \"count\": 3}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 3}, \"Ravenbloom Student\": {\"id\": \"8295bc06-85cf-4d57-b2be-cceee8bd8f1b\", \"count\": 3}, \"Icathian Rain\": {\"count\": 2, \"id\": \"aa5f34d6-d7c9-4790-8c79-18134e1b4eea\"}, \"Draven, Showboat\": {\"count\": 1, \"id\": \"dcae5f13-08cd-484b-b719-2103d2b6bd9f\"}, \"Kai'Sa, Survivor\": {\"count\": 1, \"id\": \"4bf7f780-55da-4099-a91c-ca4f5b5458b2\"}, \"Cleave\": {\"count\": 2, \"id\": \"c092c17d-8faf-4d7f-9037-cb4fa0fa4a60\"}, \"Lecturing Yordle\": {\"count\": 2, \"id\": \"156888ab-68e6-434e-9353-88b27c2af7ce\"}, \"Singularity\": {\"count\": 1, \"id\": \"d10c0743-3a44-4750-81d9-3fb44cc22446\"}, \"Thousand-Tailed Watcher\": {\"count\": 3, \"id\": \"6bfd727b-dfbe-472c-b7a2-dcc7036ded62\"}, \"Darius, Trifarian\": {\"count\": 3, \"id\": \"483c1de6-40ff-4392-a31e-583e00743893\"}, \"Falling Star\": {\"count\": 3, \"id\": \"9739a73c-44d8-413f-a87b-f2d7efa8ddbf\"}, \"Watchful Sentry\": {\"id\": \"e89aa829-e22b-4cb8-885a-19f906963a2e\", \"count\": 3}, \"Stupefy\": {\"id\": \"9cb0c415-dbb4-460c-9d28-db41ae981c8e\", \"count\": 3}, \"Time Warp\": {\"count\": 1, \"id\": \"a81320ff-266f-4f66-aa26-1fae7b466036\"}, \"Retreat\": {\"count\": 3, \"id\": \"e5b9ee62-730a-4f86-aaae-edaf51c9ba8b\"}, \"Pouty Poro\": {\"id\": \"51ef3649-41c8-41bb-98b5-adcf9d1c8fdf\", \"count\": 3}}, \"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"count\": 1, \"id\": \"77b2953a-5214-4421-862d-f33d8bc4590b\"}}}",
+      "deck_obj_parsed": {
+        "Sideboard": {
+          "Progress Day": {
+            "count": 1,
+            "id": "74293150-ec32-4542-91b5-2781c793df1e"
+          },
+          "Mega-Mech": {
+            "count": 2,
+            "id": "220956dc-44b0-47ca-a7f0-d8e421d6864a"
+          },
+          "Smoke Screen": {
+            "count": 2,
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d"
+          },
+          "Thermo Beam": {
+            "count": 2,
+            "id": "3a7037f8-0df0-4e7f-9ee5-7571027c2db7"
+          },
+          "Sprite Mother": {
+            "id": "f66a2463-7d72-436f-8a88-c62c586c81ef",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "format": "Constructed",
+          "game": "Riftbound"
+        },
+        "Runes": {
+          "Mind Rune": {
+            "count": 5,
+            "id": "6d4e52d9-6554-4af8-ad81-2b473b111d4e"
+          },
+          "Fury Rune": {
+            "count": 7,
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76"
+          }
+        },
+        "Battlefields": {
+          "The Dreaming Tree": {
+            "id": "6b923755-0161-475d-8ca7-7c739f063935",
+            "count": 1
+          },
+          "Targon's Peak": {
+            "id": "29dea928-295d-4832-9bc1-91672389cf59",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Hextech Ray": {
+            "id": "c5ed3577-29a3-4c2e-97cb-1a7ac6517d91",
+            "count": 3
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 3
+          },
+          "Ravenbloom Student": {
+            "id": "8295bc06-85cf-4d57-b2be-cceee8bd8f1b",
+            "count": 3
+          },
+          "Icathian Rain": {
+            "count": 2,
+            "id": "aa5f34d6-d7c9-4790-8c79-18134e1b4eea"
+          },
+          "Draven, Showboat": {
+            "count": 1,
+            "id": "dcae5f13-08cd-484b-b719-2103d2b6bd9f"
+          },
+          "Kai'Sa, Survivor": {
+            "count": 1,
+            "id": "4bf7f780-55da-4099-a91c-ca4f5b5458b2"
+          },
+          "Cleave": {
+            "count": 2,
+            "id": "c092c17d-8faf-4d7f-9037-cb4fa0fa4a60"
+          },
+          "Lecturing Yordle": {
+            "count": 2,
+            "id": "156888ab-68e6-434e-9353-88b27c2af7ce"
+          },
+          "Singularity": {
+            "count": 1,
+            "id": "d10c0743-3a44-4750-81d9-3fb44cc22446"
+          },
+          "Thousand-Tailed Watcher": {
+            "count": 3,
+            "id": "6bfd727b-dfbe-472c-b7a2-dcc7036ded62"
+          },
+          "Darius, Trifarian": {
+            "count": 3,
+            "id": "483c1de6-40ff-4392-a31e-583e00743893"
+          },
+          "Falling Star": {
+            "count": 3,
+            "id": "9739a73c-44d8-413f-a87b-f2d7efa8ddbf"
+          },
+          "Watchful Sentry": {
+            "id": "e89aa829-e22b-4cb8-885a-19f906963a2e",
+            "count": 3
+          },
+          "Stupefy": {
+            "id": "9cb0c415-dbb4-460c-9d28-db41ae981c8e",
+            "count": 3
+          },
+          "Time Warp": {
+            "count": 1,
+            "id": "a81320ff-266f-4f66-aa26-1fae7b466036"
+          },
+          "Retreat": {
+            "count": 3,
+            "id": "e5b9ee62-730a-4f86-aaae-edaf51c9ba8b"
+          },
+          "Pouty Poro": {
+            "id": "51ef3649-41c8-41bb-98b5-adcf9d1c8fdf",
+            "count": 3
+          }
+        },
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "count": 1,
+            "id": "77b2953a-5214-4421-862d-f33d8bc4590b"
+          }
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n2 Cleave\\n3 Darius, Trifarian\\n1 Draven, Showboat\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n2 Lecturing Yordle\\n3 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n1 Singularity\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n1 Time Warp\\n3 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n2 Mega-Mech\\n1 Progress Day\\n2 Smoke Screen\\n1 Sprite Mother\\n2 Thermo Beam\\n"
+      ]
+    },
+    {
+      "id": 1941,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "player_name": "Lu\u00eds Miguel Sim\u00f5es Mendes",
+      "player_id": "l2CMa7rikTQI8eMWtEUTxRLDmoq2",
+      "placement": 3,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Annie, Dark Child\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 The Arena\\'s Greatest\\n1 The Dreaming Tree\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n2 Annie, Stubborn\\n3 Cleave\\n2 Darius, Trifarian\\n3 Fight or Flight\\n3 Flash\\n1 Gust\\n3 Kai\\'Sa, Survivor\\n3 Pouty Poro\\n1 Rebuke\\n3 Ride the Wind\\n3 Scrapheap\\n3 Sneaky Deckhand\\n3 Stacked Deck\\n3 Traveling Merchant\\n3 Vi, Destructive\\n2 Void Seeker\\n\\n~~Sideboard~~\\n2 Draven, Showboat\\n1 Falling Star\\n1 Gust\\n3 Noxus Hopeful\\n1 Rebuke\\n",
+      "deck_obj": "{\"Sideboard\": {\"Falling Star\": {\"count\": 1, \"id\": \"9739a73c-44d8-413f-a87b-f2d7efa8ddbf\"}, \"Gust\": {\"count\": 1, \"id\": \"c35e1ec8-00aa-49b5-b9ed-df8072802c80\"}, \"Noxus Hopeful\": {\"count\": 3, \"id\": \"0a83a04b-02f6-4eaf-ad68-987b564547d3\"}, \"Rebuke\": {\"id\": \"ee6bcfe5-a481-4f07-9c15-3fff43137919\", \"count\": 1}, \"Draven, Showboat\": {\"count\": 2, \"id\": \"dcae5f13-08cd-484b-b719-2103d2b6bd9f\"}}, \"Legend\": {\"Annie, Dark Child\": {\"count\": 1, \"id\": \"254141aa-d667-49b9-bd1c-559f6b4ee246\"}}, \"metadata\": {\"format\": \"Constructed\", \"game\": \"Riftbound\"}, \"Battlefields\": {\"The Dreaming Tree\": {\"count\": 1, \"id\": \"6b923755-0161-475d-8ca7-7c739f063935\"}, \"Zaun Warrens\": {\"id\": \"01a67a97-72cd-4481-8a08-9a53678373ec\", \"count\": 1}, \"The Arena's Greatest\": {\"count\": 1, \"id\": \"b4f5c6b7-2f79-404b-8b6d-1218d21fca4e\"}}, \"Mainboard\": {\"Traveling Merchant\": {\"count\": 3, \"id\": \"3eee0878-9fb5-4e7d-9fc1-c990162716c6\"}, \"Stacked Deck\": {\"id\": \"8521f660-88e8-44b0-a9b3-c2e286051ddc\", \"count\": 3}, \"Cleave\": {\"count\": 3, \"id\": \"c092c17d-8faf-4d7f-9037-cb4fa0fa4a60\"}, \"Pouty Poro\": {\"id\": \"51ef3649-41c8-41bb-98b5-adcf9d1c8fdf\", \"count\": 3}, \"Darius, Trifarian\": {\"count\": 2, \"id\": \"483c1de6-40ff-4392-a31e-583e00743893\"}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 2}, \"Gust\": {\"count\": 1, \"id\": \"c35e1ec8-00aa-49b5-b9ed-df8072802c80\"}, \"Flash\": {\"count\": 3, \"id\": \"7596dc74-82bc-41ac-a25f-83f4b98ffb72\"}, \"Rebuke\": {\"count\": 1, \"id\": \"ee6bcfe5-a481-4f07-9c15-3fff43137919\"}, \"Annie, Stubborn\": {\"count\": 2, \"id\": \"68b9c950-85b7-409c-b9d8-034170f26564\"}, \"Vi, Destructive\": {\"count\": 3, \"id\": \"4a10b30f-22fa-4e09-803b-a375e361a905\"}, \"Ride the Wind\": {\"count\": 3, \"id\": \"7cda00d7-b45e-4786-83c1-995a07b0e36c\"}, \"Fight or Flight\": {\"count\": 3, \"id\": \"eb2880cb-c0d2-4f2c-8491-e22f9252eac1\"}, \"Sneaky Deckhand\": {\"count\": 3, \"id\": \"2d0dbb58-493d-41b0-bb4b-52afb6dc46ec\"}, \"Scrapheap\": {\"count\": 3, \"id\": \"2e3d7e7e-6a5f-40ca-bc73-2351dfd66f84\"}, \"Kai'Sa, Survivor\": {\"count\": 3, \"id\": \"4bf7f780-55da-4099-a91c-ca4f5b5458b2\"}}, \"Runes\": {\"Chaos Rune\": {\"count\": 6, \"id\": \"e75bfba1-b43c-4b1c-a6ad-217b5a4f585b\"}, \"Fury Rune\": {\"count\": 6, \"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\"}}}",
+      "deck_obj_parsed": {
+        "Sideboard": {
+          "Falling Star": {
+            "count": 1,
+            "id": "9739a73c-44d8-413f-a87b-f2d7efa8ddbf"
+          },
+          "Gust": {
+            "count": 1,
+            "id": "c35e1ec8-00aa-49b5-b9ed-df8072802c80"
+          },
+          "Noxus Hopeful": {
+            "count": 3,
+            "id": "0a83a04b-02f6-4eaf-ad68-987b564547d3"
+          },
+          "Rebuke": {
+            "id": "ee6bcfe5-a481-4f07-9c15-3fff43137919",
+            "count": 1
+          },
+          "Draven, Showboat": {
+            "count": 2,
+            "id": "dcae5f13-08cd-484b-b719-2103d2b6bd9f"
+          }
+        },
+        "Legend": {
+          "Annie, Dark Child": {
+            "count": 1,
+            "id": "254141aa-d667-49b9-bd1c-559f6b4ee246"
+          }
+        },
+        "metadata": {
+          "format": "Constructed",
+          "game": "Riftbound"
+        },
+        "Battlefields": {
+          "The Dreaming Tree": {
+            "count": 1,
+            "id": "6b923755-0161-475d-8ca7-7c739f063935"
+          },
+          "Zaun Warrens": {
+            "id": "01a67a97-72cd-4481-8a08-9a53678373ec",
+            "count": 1
+          },
+          "The Arena's Greatest": {
+            "count": 1,
+            "id": "b4f5c6b7-2f79-404b-8b6d-1218d21fca4e"
+          }
+        },
+        "Mainboard": {
+          "Traveling Merchant": {
+            "count": 3,
+            "id": "3eee0878-9fb5-4e7d-9fc1-c990162716c6"
+          },
+          "Stacked Deck": {
+            "id": "8521f660-88e8-44b0-a9b3-c2e286051ddc",
+            "count": 3
+          },
+          "Cleave": {
+            "count": 3,
+            "id": "c092c17d-8faf-4d7f-9037-cb4fa0fa4a60"
+          },
+          "Pouty Poro": {
+            "id": "51ef3649-41c8-41bb-98b5-adcf9d1c8fdf",
+            "count": 3
+          },
+          "Darius, Trifarian": {
+            "count": 2,
+            "id": "483c1de6-40ff-4392-a31e-583e00743893"
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 2
+          },
+          "Gust": {
+            "count": 1,
+            "id": "c35e1ec8-00aa-49b5-b9ed-df8072802c80"
+          },
+          "Flash": {
+            "count": 3,
+            "id": "7596dc74-82bc-41ac-a25f-83f4b98ffb72"
+          },
+          "Rebuke": {
+            "count": 1,
+            "id": "ee6bcfe5-a481-4f07-9c15-3fff43137919"
+          },
+          "Annie, Stubborn": {
+            "count": 2,
+            "id": "68b9c950-85b7-409c-b9d8-034170f26564"
+          },
+          "Vi, Destructive": {
+            "count": 3,
+            "id": "4a10b30f-22fa-4e09-803b-a375e361a905"
+          },
+          "Ride the Wind": {
+            "count": 3,
+            "id": "7cda00d7-b45e-4786-83c1-995a07b0e36c"
+          },
+          "Fight or Flight": {
+            "count": 3,
+            "id": "eb2880cb-c0d2-4f2c-8491-e22f9252eac1"
+          },
+          "Sneaky Deckhand": {
+            "count": 3,
+            "id": "2d0dbb58-493d-41b0-bb4b-52afb6dc46ec"
+          },
+          "Scrapheap": {
+            "count": 3,
+            "id": "2e3d7e7e-6a5f-40ca-bc73-2351dfd66f84"
+          },
+          "Kai'Sa, Survivor": {
+            "count": 3,
+            "id": "4bf7f780-55da-4099-a91c-ca4f5b5458b2"
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "count": 6,
+            "id": "e75bfba1-b43c-4b1c-a6ad-217b5a4f585b"
+          },
+          "Fury Rune": {
+            "count": 6,
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76"
+          }
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Annie, Dark Child\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 The Arena\\'s Greatest\\n1 The Dreaming Tree\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n2 Annie, Stubborn\\n3 Cleave\\n2 Darius, Trifarian\\n3 Fight or Flight\\n3 Flash\\n1 Gust\\n3 Kai\\'Sa, Survivor\\n3 Pouty Poro\\n1 Rebuke\\n3 Ride the Wind\\n3 Scrapheap\\n3 Sneaky Deckhand\\n3 Stacked Deck\\n3 Traveling Merchant\\n3 Vi, Destructive\\n2 Void Seeker\\n\\n~~Sideboard~~\\n2 Draven, Showboat\\n1 Falling Star\\n1 Gust\\n3 Noxus Hopeful\\n1 Rebuke\\n"
+      ]
+    },
+    {
+      "id": 1942,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "player_name": "Sam Walden",
+      "player_id": "QNzfYJ2mWJOZ893yYCgxzAiLQPq1",
+      "placement": 4,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Teemo, Swift Scout\\n\\n~~Runes~~\\n5 Chaos Rune\\n7 Mind Rune\\n\\n~~Battlefields~~\\n1 Bandle Tree\\n1 Grove of the God-Willow\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n2 Consult the Past\\n3 Dr. Mundo, Expert\\n3 Ember Monk\\n3 Fight or Flight\\n3 Gust\\n2 Lecturing Yordle\\n3 Ravenbloom Student\\n1 Rebuke\\n3 Retreat\\n2 Ride the Wind\\n1 Singularity\\n2 Sprite Call\\n1 Sprite Mother\\n3 Stacked Deck\\n3 Stupefy\\n1 Teemo, Scout\\n1 Thousand-Tailed Watcher\\n3 Tideturner\\n\\n~~Sideboard~~\\n1 Consult the Past\\n1 Guerilla Warfare\\n1 Mega-Mech\\n1 Rebuke\\n2 Rhasa the Sunderer\\n1 Sprite Mother\\n1 Teemo, Scout\\n",
+      "deck_obj": "{\"Sideboard\": {\"Guerilla Warfare\": {\"count\": 1, \"id\": \"c121973a-5991-4ea2-b0c3-e4f095e033ac\"}, \"Rebuke\": {\"count\": 1, \"id\": \"ee6bcfe5-a481-4f07-9c15-3fff43137919\"}, \"Rhasa the Sunderer\": {\"id\": \"6b1fc7aa-ee37-4d5d-b41b-3b00f86364e0\", \"count\": 2}, \"Teemo, Scout\": {\"count\": 1, \"id\": \"9cf0f9a7-fd36-40f7-837f-56f2478a7599\"}, \"Sprite Mother\": {\"count\": 1, \"id\": \"f66a2463-7d72-436f-8a88-c62c586c81ef\"}, \"Mega-Mech\": {\"count\": 1, \"id\": \"220956dc-44b0-47ca-a7f0-d8e421d6864a\"}, \"Consult the Past\": {\"count\": 1, \"id\": \"3f36e743-98b4-429e-858b-d17129e3b3d9\"}}, \"Mainboard\": {\"Stacked Deck\": {\"count\": 3, \"id\": \"8521f660-88e8-44b0-a9b3-c2e286051ddc\"}, \"Singularity\": {\"count\": 1, \"id\": \"d10c0743-3a44-4750-81d9-3fb44cc22446\"}, \"Rebuke\": {\"count\": 1, \"id\": \"ee6bcfe5-a481-4f07-9c15-3fff43137919\"}, \"Gust\": {\"count\": 3, \"id\": \"c35e1ec8-00aa-49b5-b9ed-df8072802c80\"}, \"Fight or Flight\": {\"count\": 3, \"id\": \"eb2880cb-c0d2-4f2c-8491-e22f9252eac1\"}, \"Ride the Wind\": {\"id\": \"7cda00d7-b45e-4786-83c1-995a07b0e36c\", \"count\": 2}, \"Sprite Mother\": {\"id\": \"f66a2463-7d72-436f-8a88-c62c586c81ef\", \"count\": 1}, \"Lecturing Yordle\": {\"count\": 2, \"id\": \"156888ab-68e6-434e-9353-88b27c2af7ce\"}, \"Sprite Call\": {\"count\": 2, \"id\": \"dbaf21da-ea1a-4951-8457-689440eb45dd\"}, \"Consult the Past\": {\"count\": 2, \"id\": \"3f36e743-98b4-429e-858b-d17129e3b3d9\"}, \"Thousand-Tailed Watcher\": {\"count\": 1, \"id\": \"6bfd727b-dfbe-472c-b7a2-dcc7036ded62\"}, \"Teemo, Scout\": {\"count\": 1, \"id\": \"9cf0f9a7-fd36-40f7-837f-56f2478a7599\"}, \"Ravenbloom Student\": {\"count\": 3, \"id\": \"8295bc06-85cf-4d57-b2be-cceee8bd8f1b\"}, \"Dr. Mundo, Expert\": {\"id\": \"1cde9e0c-7457-471e-b9e6-dbc25240c427\", \"count\": 3}, \"Ember Monk\": {\"count\": 3, \"id\": \"9b50ee13-da38-4dd0-87e6-bf949028f6fd\"}, \"Stupefy\": {\"count\": 3, \"id\": \"9cb0c415-dbb4-460c-9d28-db41ae981c8e\"}, \"Tideturner\": {\"count\": 3, \"id\": \"ed43c380-28fb-43ed-a52f-7f2f29077f91\"}, \"Retreat\": {\"count\": 3, \"id\": \"e5b9ee62-730a-4f86-aaae-edaf51c9ba8b\"}}, \"Battlefields\": {\"The Dreaming Tree\": {\"count\": 1, \"id\": \"6b923755-0161-475d-8ca7-7c739f063935\"}, \"Grove of the God-Willow\": {\"id\": \"0e5cae41-44aa-425b-96a7-0c5388d2a0ba\", \"count\": 1}, \"Bandle Tree\": {\"count\": 1, \"id\": \"bc1aff9e-a227-4ab2-8f7e-5215d63e06ad\"}}, \"Legend\": {\"Teemo, Swift Scout\": {\"count\": 1, \"id\": \"00bcedde-530a-4a26-85e7-9b8c45ff6a62\"}}, \"Runes\": {\"Chaos Rune\": {\"count\": 5, \"id\": \"e75bfba1-b43c-4b1c-a6ad-217b5a4f585b\"}, \"Mind Rune\": {\"id\": \"6d4e52d9-6554-4af8-ad81-2b473b111d4e\", \"count\": 7}}, \"metadata\": {\"format\": \"Constructed\", \"game\": \"Riftbound\"}}",
+      "deck_obj_parsed": {
+        "Sideboard": {
+          "Guerilla Warfare": {
+            "count": 1,
+            "id": "c121973a-5991-4ea2-b0c3-e4f095e033ac"
+          },
+          "Rebuke": {
+            "count": 1,
+            "id": "ee6bcfe5-a481-4f07-9c15-3fff43137919"
+          },
+          "Rhasa the Sunderer": {
+            "id": "6b1fc7aa-ee37-4d5d-b41b-3b00f86364e0",
+            "count": 2
+          },
+          "Teemo, Scout": {
+            "count": 1,
+            "id": "9cf0f9a7-fd36-40f7-837f-56f2478a7599"
+          },
+          "Sprite Mother": {
+            "count": 1,
+            "id": "f66a2463-7d72-436f-8a88-c62c586c81ef"
+          },
+          "Mega-Mech": {
+            "count": 1,
+            "id": "220956dc-44b0-47ca-a7f0-d8e421d6864a"
+          },
+          "Consult the Past": {
+            "count": 1,
+            "id": "3f36e743-98b4-429e-858b-d17129e3b3d9"
+          }
+        },
+        "Mainboard": {
+          "Stacked Deck": {
+            "count": 3,
+            "id": "8521f660-88e8-44b0-a9b3-c2e286051ddc"
+          },
+          "Singularity": {
+            "count": 1,
+            "id": "d10c0743-3a44-4750-81d9-3fb44cc22446"
+          },
+          "Rebuke": {
+            "count": 1,
+            "id": "ee6bcfe5-a481-4f07-9c15-3fff43137919"
+          },
+          "Gust": {
+            "count": 3,
+            "id": "c35e1ec8-00aa-49b5-b9ed-df8072802c80"
+          },
+          "Fight or Flight": {
+            "count": 3,
+            "id": "eb2880cb-c0d2-4f2c-8491-e22f9252eac1"
+          },
+          "Ride the Wind": {
+            "id": "7cda00d7-b45e-4786-83c1-995a07b0e36c",
+            "count": 2
+          },
+          "Sprite Mother": {
+            "id": "f66a2463-7d72-436f-8a88-c62c586c81ef",
+            "count": 1
+          },
+          "Lecturing Yordle": {
+            "count": 2,
+            "id": "156888ab-68e6-434e-9353-88b27c2af7ce"
+          },
+          "Sprite Call": {
+            "count": 2,
+            "id": "dbaf21da-ea1a-4951-8457-689440eb45dd"
+          },
+          "Consult the Past": {
+            "count": 2,
+            "id": "3f36e743-98b4-429e-858b-d17129e3b3d9"
+          },
+          "Thousand-Tailed Watcher": {
+            "count": 1,
+            "id": "6bfd727b-dfbe-472c-b7a2-dcc7036ded62"
+          },
+          "Teemo, Scout": {
+            "count": 1,
+            "id": "9cf0f9a7-fd36-40f7-837f-56f2478a7599"
+          },
+          "Ravenbloom Student": {
+            "count": 3,
+            "id": "8295bc06-85cf-4d57-b2be-cceee8bd8f1b"
+          },
+          "Dr. Mundo, Expert": {
+            "id": "1cde9e0c-7457-471e-b9e6-dbc25240c427",
+            "count": 3
+          },
+          "Ember Monk": {
+            "count": 3,
+            "id": "9b50ee13-da38-4dd0-87e6-bf949028f6fd"
+          },
+          "Stupefy": {
+            "count": 3,
+            "id": "9cb0c415-dbb4-460c-9d28-db41ae981c8e"
+          },
+          "Tideturner": {
+            "count": 3,
+            "id": "ed43c380-28fb-43ed-a52f-7f2f29077f91"
+          },
+          "Retreat": {
+            "count": 3,
+            "id": "e5b9ee62-730a-4f86-aaae-edaf51c9ba8b"
+          }
+        },
+        "Battlefields": {
+          "The Dreaming Tree": {
+            "count": 1,
+            "id": "6b923755-0161-475d-8ca7-7c739f063935"
+          },
+          "Grove of the God-Willow": {
+            "id": "0e5cae41-44aa-425b-96a7-0c5388d2a0ba",
+            "count": 1
+          },
+          "Bandle Tree": {
+            "count": 1,
+            "id": "bc1aff9e-a227-4ab2-8f7e-5215d63e06ad"
+          }
+        },
+        "Legend": {
+          "Teemo, Swift Scout": {
+            "count": 1,
+            "id": "00bcedde-530a-4a26-85e7-9b8c45ff6a62"
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "count": 5,
+            "id": "e75bfba1-b43c-4b1c-a6ad-217b5a4f585b"
+          },
+          "Mind Rune": {
+            "id": "6d4e52d9-6554-4af8-ad81-2b473b111d4e",
+            "count": 7
+          }
+        },
+        "metadata": {
+          "format": "Constructed",
+          "game": "Riftbound"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Teemo, Swift Scout\\n\\n~~Runes~~\\n5 Chaos Rune\\n7 Mind Rune\\n\\n~~Battlefields~~\\n1 Bandle Tree\\n1 Grove of the God-Willow\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n2 Consult the Past\\n3 Dr. Mundo, Expert\\n3 Ember Monk\\n3 Fight or Flight\\n3 Gust\\n2 Lecturing Yordle\\n3 Ravenbloom Student\\n1 Rebuke\\n3 Retreat\\n2 Ride the Wind\\n1 Singularity\\n2 Sprite Call\\n1 Sprite Mother\\n3 Stacked Deck\\n3 Stupefy\\n1 Teemo, Scout\\n1 Thousand-Tailed Watcher\\n3 Tideturner\\n\\n~~Sideboard~~\\n1 Consult the Past\\n1 Guerilla Warfare\\n1 Mega-Mech\\n1 Rebuke\\n2 Rhasa the Sunderer\\n1 Sprite Mother\\n1 Teemo, Scout\\n"
+      ]
+    },
+    {
+      "id": 1943,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "player_name": "Maxim Lukin",
+      "player_id": "JeGA4AhLfKepgu5KpGKRh5WXod23",
+      "placement": 5,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Sett, The Boss\\n\\n~~Runes~~\\n7 Body Rune\\n5 Order Rune\\n\\n~~Battlefields~~\\n1 Aspirant\\'s Climb\\n1 Monastery of Hirana\\n1 Startipped Peak\\n\\n~~Mainboard~~\\n2 Arena Bar\\n2 Call to Glory\\n1 Carnivorous Snapvine\\n2 Catalyst of Aeons\\n2 Cithria of Cloudfield\\n3 Confront\\n1 Darius, Executioner\\n1 Deadbloom Predator\\n3 Fiora, Victorious\\n2 First Mate\\n3 Harnessed Dragon\\n2 Hidden Blade\\n1 Kinkou Monk\\n2 Lee Sin, Centered\\n3 Pit Rookie\\n2 Qiyana, Victorious\\n1 Sett, Brawler\\n3 Sett, Kingpin\\n2 Showstopper\\n2 Unyielding Spirit\\n\\n~~Sideboard~~\\n1 Call to Glory\\n1 Kinkou Monk\\n1 Miss Fortune, Captain\\n1 Primal Strength\\n2 Sabotage\\n2 Salvage\\n",
+      "deck_obj": "{\"Sideboard\": {\"Primal Strength\": {\"count\": 1, \"id\": \"0944da6b-0a91-42dd-a95a-9a9bdb3fd6ef\"}, \"Miss Fortune, Captain\": {\"count\": 1, \"id\": \"b2da4d28-9285-464d-b591-d8987fe0a7da\"}, \"Salvage\": {\"count\": 2, \"id\": \"33b3f230-e26f-460d-8d47-4ea3ee408f1a\"}, \"Kinkou Monk\": {\"count\": 1, \"id\": \"53fd26ea-e45e-4450-8f1d-ea7a11263db2\"}, \"Call to Glory\": {\"count\": 1, \"id\": \"e50f307b-d0e5-4362-b9d7-45dc921ff468\"}, \"Sabotage\": {\"count\": 2, \"id\": \"e75cd790-b820-4faa-bbc7-811acbc4a0df\"}}, \"Legend\": {\"Sett, The Boss\": {\"id\": \"e827f607-e986-4c68-80b3-9b167b253e71\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}, \"Runes\": {\"Order Rune\": {\"count\": 5, \"id\": \"0b2a3650-d38e-4e16-adde-0fb16d0f68d7\"}, \"Body Rune\": {\"id\": \"8ae170ea-6d4e-4845-8fc0-6042e039ed85\", \"count\": 7}}, \"Mainboard\": {\"Fiora, Victorious\": {\"count\": 3, \"id\": \"cb3bdd7f-7586-4ee3-99df-45b8abd79721\"}, \"Qiyana, Victorious\": {\"count\": 2, \"id\": \"864fa711-8b47-4ed2-902c-e8389c6e5fe7\"}, \"Deadbloom Predator\": {\"id\": \"de6aaf80-b4e8-4f16-b5e3-c155f9bf09d1\", \"count\": 1}, \"Hidden Blade\": {\"id\": \"93dad60c-3203-4e91-9d3c-f4f239634e78\", \"count\": 2}, \"Darius, Executioner\": {\"count\": 1, \"id\": \"7b3db516-35c9-4a33-86c4-b320dfaefaa7\"}, \"Cithria of Cloudfield\": {\"count\": 2, \"id\": \"9010f367-2a97-468c-acd3-534b824b778d\"}, \"Carnivorous Snapvine\": {\"count\": 1, \"id\": \"7c1d3c93-3b56-4ba7-9ec3-352fe13b9e02\"}, \"Confront\": {\"count\": 3, \"id\": \"8cbc1e3b-3c4c-432e-a137-50b60e6fd053\"}, \"Call to Glory\": {\"id\": \"e50f307b-d0e5-4362-b9d7-45dc921ff468\", \"count\": 2}, \"First Mate\": {\"count\": 2, \"id\": \"7ed88d77-b1c6-46db-8acc-812b140e00fe\"}, \"Sett, Brawler\": {\"count\": 1, \"id\": \"e5453c50-e64f-41a1-a3fb-e9ecd37f52b6\"}, \"Kinkou Monk\": {\"count\": 1, \"id\": \"53fd26ea-e45e-4450-8f1d-ea7a11263db2\"}, \"Catalyst of Aeons\": {\"count\": 2, \"id\": \"1c0cafd8-af30-496e-a680-4507dd1d7cfc\"}, \"Lee Sin, Centered\": {\"count\": 2, \"id\": \"2c2a0261-269a-471d-a593-5b6b4c65f164\"}, \"Sett, Kingpin\": {\"count\": 3, \"id\": \"0fca7004-8f85-41b4-9f2c-6368168249cd\"}, \"Arena Bar\": {\"count\": 2, \"id\": \"b1e72972-b26d-4b68-a3f6-448ee422652e\"}, \"Harnessed Dragon\": {\"count\": 3, \"id\": \"c46061eb-3f1e-427b-be72-4c704967c8b6\"}, \"Pit Rookie\": {\"count\": 3, \"id\": \"6259f8a2-6e34-4261-bb73-5e9e71b517fc\"}, \"Showstopper\": {\"count\": 2, \"id\": \"af4f2dd2-1ab8-48bd-8e88-6c6734c859ff\"}, \"Unyielding Spirit\": {\"count\": 2, \"id\": \"e3f7640d-ccd9-40c2-ba5d-c816725ba7db\"}}, \"Battlefields\": {\"Startipped Peak\": {\"count\": 1, \"id\": \"abad45bb-57e1-44d1-b097-e32a17049625\"}, \"Monastery of Hirana\": {\"id\": \"b452622d-9830-4426-b139-97241fe0720a\", \"count\": 1}, \"Aspirant's Climb\": {\"id\": \"50d27809-e25c-430b-be39-118f809c0c84\", \"count\": 1}}}",
+      "deck_obj_parsed": {
+        "Sideboard": {
+          "Primal Strength": {
+            "count": 1,
+            "id": "0944da6b-0a91-42dd-a95a-9a9bdb3fd6ef"
+          },
+          "Miss Fortune, Captain": {
+            "count": 1,
+            "id": "b2da4d28-9285-464d-b591-d8987fe0a7da"
+          },
+          "Salvage": {
+            "count": 2,
+            "id": "33b3f230-e26f-460d-8d47-4ea3ee408f1a"
+          },
+          "Kinkou Monk": {
+            "count": 1,
+            "id": "53fd26ea-e45e-4450-8f1d-ea7a11263db2"
+          },
+          "Call to Glory": {
+            "count": 1,
+            "id": "e50f307b-d0e5-4362-b9d7-45dc921ff468"
+          },
+          "Sabotage": {
+            "count": 2,
+            "id": "e75cd790-b820-4faa-bbc7-811acbc4a0df"
+          }
+        },
+        "Legend": {
+          "Sett, The Boss": {
+            "id": "e827f607-e986-4c68-80b3-9b167b253e71",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        },
+        "Runes": {
+          "Order Rune": {
+            "count": 5,
+            "id": "0b2a3650-d38e-4e16-adde-0fb16d0f68d7"
+          },
+          "Body Rune": {
+            "id": "8ae170ea-6d4e-4845-8fc0-6042e039ed85",
+            "count": 7
+          }
+        },
+        "Mainboard": {
+          "Fiora, Victorious": {
+            "count": 3,
+            "id": "cb3bdd7f-7586-4ee3-99df-45b8abd79721"
+          },
+          "Qiyana, Victorious": {
+            "count": 2,
+            "id": "864fa711-8b47-4ed2-902c-e8389c6e5fe7"
+          },
+          "Deadbloom Predator": {
+            "id": "de6aaf80-b4e8-4f16-b5e3-c155f9bf09d1",
+            "count": 1
+          },
+          "Hidden Blade": {
+            "id": "93dad60c-3203-4e91-9d3c-f4f239634e78",
+            "count": 2
+          },
+          "Darius, Executioner": {
+            "count": 1,
+            "id": "7b3db516-35c9-4a33-86c4-b320dfaefaa7"
+          },
+          "Cithria of Cloudfield": {
+            "count": 2,
+            "id": "9010f367-2a97-468c-acd3-534b824b778d"
+          },
+          "Carnivorous Snapvine": {
+            "count": 1,
+            "id": "7c1d3c93-3b56-4ba7-9ec3-352fe13b9e02"
+          },
+          "Confront": {
+            "count": 3,
+            "id": "8cbc1e3b-3c4c-432e-a137-50b60e6fd053"
+          },
+          "Call to Glory": {
+            "id": "e50f307b-d0e5-4362-b9d7-45dc921ff468",
+            "count": 2
+          },
+          "First Mate": {
+            "count": 2,
+            "id": "7ed88d77-b1c6-46db-8acc-812b140e00fe"
+          },
+          "Sett, Brawler": {
+            "count": 1,
+            "id": "e5453c50-e64f-41a1-a3fb-e9ecd37f52b6"
+          },
+          "Kinkou Monk": {
+            "count": 1,
+            "id": "53fd26ea-e45e-4450-8f1d-ea7a11263db2"
+          },
+          "Catalyst of Aeons": {
+            "count": 2,
+            "id": "1c0cafd8-af30-496e-a680-4507dd1d7cfc"
+          },
+          "Lee Sin, Centered": {
+            "count": 2,
+            "id": "2c2a0261-269a-471d-a593-5b6b4c65f164"
+          },
+          "Sett, Kingpin": {
+            "count": 3,
+            "id": "0fca7004-8f85-41b4-9f2c-6368168249cd"
+          },
+          "Arena Bar": {
+            "count": 2,
+            "id": "b1e72972-b26d-4b68-a3f6-448ee422652e"
+          },
+          "Harnessed Dragon": {
+            "count": 3,
+            "id": "c46061eb-3f1e-427b-be72-4c704967c8b6"
+          },
+          "Pit Rookie": {
+            "count": 3,
+            "id": "6259f8a2-6e34-4261-bb73-5e9e71b517fc"
+          },
+          "Showstopper": {
+            "count": 2,
+            "id": "af4f2dd2-1ab8-48bd-8e88-6c6734c859ff"
+          },
+          "Unyielding Spirit": {
+            "count": 2,
+            "id": "e3f7640d-ccd9-40c2-ba5d-c816725ba7db"
+          }
+        },
+        "Battlefields": {
+          "Startipped Peak": {
+            "count": 1,
+            "id": "abad45bb-57e1-44d1-b097-e32a17049625"
+          },
+          "Monastery of Hirana": {
+            "id": "b452622d-9830-4426-b139-97241fe0720a",
+            "count": 1
+          },
+          "Aspirant's Climb": {
+            "id": "50d27809-e25c-430b-be39-118f809c0c84",
+            "count": 1
+          }
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Sett, The Boss\\n\\n~~Runes~~\\n7 Body Rune\\n5 Order Rune\\n\\n~~Battlefields~~\\n1 Aspirant\\'s Climb\\n1 Monastery of Hirana\\n1 Startipped Peak\\n\\n~~Mainboard~~\\n2 Arena Bar\\n2 Call to Glory\\n1 Carnivorous Snapvine\\n2 Catalyst of Aeons\\n2 Cithria of Cloudfield\\n3 Confront\\n1 Darius, Executioner\\n1 Deadbloom Predator\\n3 Fiora, Victorious\\n2 First Mate\\n3 Harnessed Dragon\\n2 Hidden Blade\\n1 Kinkou Monk\\n2 Lee Sin, Centered\\n3 Pit Rookie\\n2 Qiyana, Victorious\\n1 Sett, Brawler\\n3 Sett, Kingpin\\n2 Showstopper\\n2 Unyielding Spirit\\n\\n~~Sideboard~~\\n1 Call to Glory\\n1 Kinkou Monk\\n1 Miss Fortune, Captain\\n1 Primal Strength\\n2 Sabotage\\n2 Salvage\\n"
+      ]
+    },
+    {
+      "id": 1944,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "player_name": "Owen Wilson",
+      "player_id": "d3PEYJwqMoON9iz1rK8FyC14b3W2",
+      "placement": 6,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Annie, Dark Child\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 The Arena\\'s Greatest\\n1 The Dreaming Tree\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n1 Annie, Stubborn\\n3 Cleave\\n3 Darius, Trifarian\\n2 Fight or Flight\\n3 Flash\\n1 Gust\\n3 Kai\\'Sa, Survivor\\n3 Pouty Poro\\n1 Rebuke\\n3 Ride the Wind\\n3 Scrapheap\\n3 Sneaky Deckhand\\n3 Stacked Deck\\n3 Traveling Merchant\\n3 Vi, Destructive\\n2 Void Seeker\\n\\n~~Sideboard~~\\n1 Fading Memories\\n1 Falling Star\\n1 Fight or Flight\\n2 Gust\\n2 Rebuke\\n1 Vayne, Hunter\\n",
+      "deck_obj": "{\"Sideboard\": {\"Gust\": {\"count\": 2, \"id\": \"c35e1ec8-00aa-49b5-b9ed-df8072802c80\"}, \"Falling Star\": {\"count\": 1, \"id\": \"9739a73c-44d8-413f-a87b-f2d7efa8ddbf\"}, \"Vayne, Hunter\": {\"count\": 1, \"id\": \"255e2e58-cc16-4e60-a55f-30a449a9f64b\"}, \"Rebuke\": {\"count\": 2, \"id\": \"ee6bcfe5-a481-4f07-9c15-3fff43137919\"}, \"Fading Memories\": {\"count\": 1, \"id\": \"6f7dc5a6-803e-4a9b-b57a-4620105dd0c2\"}, \"Fight or Flight\": {\"count\": 1, \"id\": \"eb2880cb-c0d2-4f2c-8491-e22f9252eac1\"}}, \"Runes\": {\"Fury Rune\": {\"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\", \"count\": 6}, \"Chaos Rune\": {\"count\": 6, \"id\": \"e75bfba1-b43c-4b1c-a6ad-217b5a4f585b\"}}, \"Mainboard\": {\"Stacked Deck\": {\"id\": \"8521f660-88e8-44b0-a9b3-c2e286051ddc\", \"count\": 3}, \"Traveling Merchant\": {\"count\": 3, \"id\": \"3eee0878-9fb5-4e7d-9fc1-c990162716c6\"}, \"Kai'Sa, Survivor\": {\"count\": 3, \"id\": \"4bf7f780-55da-4099-a91c-ca4f5b5458b2\"}, \"Gust\": {\"count\": 1, \"id\": \"c35e1ec8-00aa-49b5-b9ed-df8072802c80\"}, \"Flash\": {\"count\": 3, \"id\": \"7596dc74-82bc-41ac-a25f-83f4b98ffb72\"}, \"Vi, Destructive\": {\"count\": 3, \"id\": \"4a10b30f-22fa-4e09-803b-a375e361a905\"}, \"Sneaky Deckhand\": {\"id\": \"2d0dbb58-493d-41b0-bb4b-52afb6dc46ec\", \"count\": 3}, \"Scrapheap\": {\"count\": 3, \"id\": \"2e3d7e7e-6a5f-40ca-bc73-2351dfd66f84\"}, \"Cleave\": {\"id\": \"c092c17d-8faf-4d7f-9037-cb4fa0fa4a60\", \"count\": 3}, \"Darius, Trifarian\": {\"id\": \"483c1de6-40ff-4392-a31e-583e00743893\", \"count\": 3}, \"Annie, Stubborn\": {\"count\": 1, \"id\": \"68b9c950-85b7-409c-b9d8-034170f26564\"}, \"Ride the Wind\": {\"count\": 3, \"id\": \"7cda00d7-b45e-4786-83c1-995a07b0e36c\"}, \"Fight or Flight\": {\"count\": 2, \"id\": \"eb2880cb-c0d2-4f2c-8491-e22f9252eac1\"}, \"Void Seeker\": {\"count\": 2, \"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\"}, \"Rebuke\": {\"count\": 1, \"id\": \"ee6bcfe5-a481-4f07-9c15-3fff43137919\"}, \"Pouty Poro\": {\"count\": 3, \"id\": \"51ef3649-41c8-41bb-98b5-adcf9d1c8fdf\"}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}, \"Battlefields\": {\"The Dreaming Tree\": {\"count\": 1, \"id\": \"6b923755-0161-475d-8ca7-7c739f063935\"}, \"Zaun Warrens\": {\"count\": 1, \"id\": \"01a67a97-72cd-4481-8a08-9a53678373ec\"}, \"The Arena's Greatest\": {\"count\": 1, \"id\": \"b4f5c6b7-2f79-404b-8b6d-1218d21fca4e\"}}, \"Legend\": {\"Annie, Dark Child\": {\"count\": 1, \"id\": \"254141aa-d667-49b9-bd1c-559f6b4ee246\"}}}",
+      "deck_obj_parsed": {
+        "Sideboard": {
+          "Gust": {
+            "count": 2,
+            "id": "c35e1ec8-00aa-49b5-b9ed-df8072802c80"
+          },
+          "Falling Star": {
+            "count": 1,
+            "id": "9739a73c-44d8-413f-a87b-f2d7efa8ddbf"
+          },
+          "Vayne, Hunter": {
+            "count": 1,
+            "id": "255e2e58-cc16-4e60-a55f-30a449a9f64b"
+          },
+          "Rebuke": {
+            "count": 2,
+            "id": "ee6bcfe5-a481-4f07-9c15-3fff43137919"
+          },
+          "Fading Memories": {
+            "count": 1,
+            "id": "6f7dc5a6-803e-4a9b-b57a-4620105dd0c2"
+          },
+          "Fight or Flight": {
+            "count": 1,
+            "id": "eb2880cb-c0d2-4f2c-8491-e22f9252eac1"
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76",
+            "count": 6
+          },
+          "Chaos Rune": {
+            "count": 6,
+            "id": "e75bfba1-b43c-4b1c-a6ad-217b5a4f585b"
+          }
+        },
+        "Mainboard": {
+          "Stacked Deck": {
+            "id": "8521f660-88e8-44b0-a9b3-c2e286051ddc",
+            "count": 3
+          },
+          "Traveling Merchant": {
+            "count": 3,
+            "id": "3eee0878-9fb5-4e7d-9fc1-c990162716c6"
+          },
+          "Kai'Sa, Survivor": {
+            "count": 3,
+            "id": "4bf7f780-55da-4099-a91c-ca4f5b5458b2"
+          },
+          "Gust": {
+            "count": 1,
+            "id": "c35e1ec8-00aa-49b5-b9ed-df8072802c80"
+          },
+          "Flash": {
+            "count": 3,
+            "id": "7596dc74-82bc-41ac-a25f-83f4b98ffb72"
+          },
+          "Vi, Destructive": {
+            "count": 3,
+            "id": "4a10b30f-22fa-4e09-803b-a375e361a905"
+          },
+          "Sneaky Deckhand": {
+            "id": "2d0dbb58-493d-41b0-bb4b-52afb6dc46ec",
+            "count": 3
+          },
+          "Scrapheap": {
+            "count": 3,
+            "id": "2e3d7e7e-6a5f-40ca-bc73-2351dfd66f84"
+          },
+          "Cleave": {
+            "id": "c092c17d-8faf-4d7f-9037-cb4fa0fa4a60",
+            "count": 3
+          },
+          "Darius, Trifarian": {
+            "id": "483c1de6-40ff-4392-a31e-583e00743893",
+            "count": 3
+          },
+          "Annie, Stubborn": {
+            "count": 1,
+            "id": "68b9c950-85b7-409c-b9d8-034170f26564"
+          },
+          "Ride the Wind": {
+            "count": 3,
+            "id": "7cda00d7-b45e-4786-83c1-995a07b0e36c"
+          },
+          "Fight or Flight": {
+            "count": 2,
+            "id": "eb2880cb-c0d2-4f2c-8491-e22f9252eac1"
+          },
+          "Void Seeker": {
+            "count": 2,
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97"
+          },
+          "Rebuke": {
+            "count": 1,
+            "id": "ee6bcfe5-a481-4f07-9c15-3fff43137919"
+          },
+          "Pouty Poro": {
+            "count": 3,
+            "id": "51ef3649-41c8-41bb-98b5-adcf9d1c8fdf"
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        },
+        "Battlefields": {
+          "The Dreaming Tree": {
+            "count": 1,
+            "id": "6b923755-0161-475d-8ca7-7c739f063935"
+          },
+          "Zaun Warrens": {
+            "count": 1,
+            "id": "01a67a97-72cd-4481-8a08-9a53678373ec"
+          },
+          "The Arena's Greatest": {
+            "count": 1,
+            "id": "b4f5c6b7-2f79-404b-8b6d-1218d21fca4e"
+          }
+        },
+        "Legend": {
+          "Annie, Dark Child": {
+            "count": 1,
+            "id": "254141aa-d667-49b9-bd1c-559f6b4ee246"
+          }
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Annie, Dark Child\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 The Arena\\'s Greatest\\n1 The Dreaming Tree\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n1 Annie, Stubborn\\n3 Cleave\\n3 Darius, Trifarian\\n2 Fight or Flight\\n3 Flash\\n1 Gust\\n3 Kai\\'Sa, Survivor\\n3 Pouty Poro\\n1 Rebuke\\n3 Ride the Wind\\n3 Scrapheap\\n3 Sneaky Deckhand\\n3 Stacked Deck\\n3 Traveling Merchant\\n3 Vi, Destructive\\n2 Void Seeker\\n\\n~~Sideboard~~\\n1 Fading Memories\\n1 Falling Star\\n1 Fight or Flight\\n2 Gust\\n2 Rebuke\\n1 Vayne, Hunter\\n"
+      ]
+    },
+    {
+      "id": 1945,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "player_name": "Blair Guillory",
+      "player_id": "5WF8BkNhwkgUrR9FSkjqcNDTKHA2",
+      "placement": 7,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Annie, Dark Child\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 The Arena\\'s Greatest\\n1 The Dreaming Tree\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n1 Annie, Stubborn\\n3 Cleave\\n3 Darius, Trifarian\\n2 Fight or Flight\\n3 Flash\\n1 Gust\\n1 Kai\\'Sa, Survivor\\n1 Morbid Return\\n3 Pouty Poro\\n1 Rebuke\\n3 Ride the Wind\\n3 Scrapheap\\n3 Sneaky Deckhand\\n3 Stacked Deck\\n3 Traveling Merchant\\n1 Vayne, Hunter\\n3 Vi, Destructive\\n2 Void Seeker\\n\\n~~Sideboard~~\\n2 Draven, Showboat\\n1 Fading Memories\\n1 Fight or Flight\\n2 Gust\\n1 Morbid Return\\n1 Rebuke\\n",
+      "deck_obj": "{\"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}, \"Mainboard\": {\"Kai'Sa, Survivor\": {\"id\": \"4bf7f780-55da-4099-a91c-ca4f5b5458b2\", \"count\": 1}, \"Scrapheap\": {\"id\": \"2e3d7e7e-6a5f-40ca-bc73-2351dfd66f84\", \"count\": 3}, \"Traveling Merchant\": {\"count\": 3, \"id\": \"3eee0878-9fb5-4e7d-9fc1-c990162716c6\"}, \"Rebuke\": {\"count\": 1, \"id\": \"ee6bcfe5-a481-4f07-9c15-3fff43137919\"}, \"Fight or Flight\": {\"count\": 2, \"id\": \"eb2880cb-c0d2-4f2c-8491-e22f9252eac1\"}, \"Gust\": {\"count\": 1, \"id\": \"c35e1ec8-00aa-49b5-b9ed-df8072802c80\"}, \"Darius, Trifarian\": {\"count\": 3, \"id\": \"483c1de6-40ff-4392-a31e-583e00743893\"}, \"Stacked Deck\": {\"count\": 3, \"id\": \"8521f660-88e8-44b0-a9b3-c2e286051ddc\"}, \"Vi, Destructive\": {\"count\": 3, \"id\": \"4a10b30f-22fa-4e09-803b-a375e361a905\"}, \"Sneaky Deckhand\": {\"count\": 3, \"id\": \"2d0dbb58-493d-41b0-bb4b-52afb6dc46ec\"}, \"Void Seeker\": {\"count\": 2, \"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\"}, \"Vayne, Hunter\": {\"id\": \"255e2e58-cc16-4e60-a55f-30a449a9f64b\", \"count\": 1}, \"Pouty Poro\": {\"count\": 3, \"id\": \"51ef3649-41c8-41bb-98b5-adcf9d1c8fdf\"}, \"Morbid Return\": {\"count\": 1, \"id\": \"36d1893c-6019-4540-9fa6-0dd98b9fecf4\"}, \"Annie, Stubborn\": {\"id\": \"68b9c950-85b7-409c-b9d8-034170f26564\", \"count\": 1}, \"Ride the Wind\": {\"count\": 3, \"id\": \"7cda00d7-b45e-4786-83c1-995a07b0e36c\"}, \"Flash\": {\"id\": \"7596dc74-82bc-41ac-a25f-83f4b98ffb72\", \"count\": 3}, \"Cleave\": {\"count\": 3, \"id\": \"c092c17d-8faf-4d7f-9037-cb4fa0fa4a60\"}}, \"Sideboard\": {\"Draven, Showboat\": {\"count\": 2, \"id\": \"dcae5f13-08cd-484b-b719-2103d2b6bd9f\"}, \"Morbid Return\": {\"count\": 1, \"id\": \"36d1893c-6019-4540-9fa6-0dd98b9fecf4\"}, \"Fading Memories\": {\"count\": 1, \"id\": \"6f7dc5a6-803e-4a9b-b57a-4620105dd0c2\"}, \"Gust\": {\"count\": 2, \"id\": \"c35e1ec8-00aa-49b5-b9ed-df8072802c80\"}, \"Fight or Flight\": {\"count\": 1, \"id\": \"eb2880cb-c0d2-4f2c-8491-e22f9252eac1\"}, \"Rebuke\": {\"id\": \"ee6bcfe5-a481-4f07-9c15-3fff43137919\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\", \"count\": 6}, \"Chaos Rune\": {\"count\": 6, \"id\": \"e75bfba1-b43c-4b1c-a6ad-217b5a4f585b\"}}, \"Battlefields\": {\"Zaun Warrens\": {\"count\": 1, \"id\": \"01a67a97-72cd-4481-8a08-9a53678373ec\"}, \"The Dreaming Tree\": {\"id\": \"6b923755-0161-475d-8ca7-7c739f063935\", \"count\": 1}, \"The Arena's Greatest\": {\"count\": 1, \"id\": \"b4f5c6b7-2f79-404b-8b6d-1218d21fca4e\"}}, \"Legend\": {\"Annie, Dark Child\": {\"count\": 1, \"id\": \"254141aa-d667-49b9-bd1c-559f6b4ee246\"}}}",
+      "deck_obj_parsed": {
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        },
+        "Mainboard": {
+          "Kai'Sa, Survivor": {
+            "id": "4bf7f780-55da-4099-a91c-ca4f5b5458b2",
+            "count": 1
+          },
+          "Scrapheap": {
+            "id": "2e3d7e7e-6a5f-40ca-bc73-2351dfd66f84",
+            "count": 3
+          },
+          "Traveling Merchant": {
+            "count": 3,
+            "id": "3eee0878-9fb5-4e7d-9fc1-c990162716c6"
+          },
+          "Rebuke": {
+            "count": 1,
+            "id": "ee6bcfe5-a481-4f07-9c15-3fff43137919"
+          },
+          "Fight or Flight": {
+            "count": 2,
+            "id": "eb2880cb-c0d2-4f2c-8491-e22f9252eac1"
+          },
+          "Gust": {
+            "count": 1,
+            "id": "c35e1ec8-00aa-49b5-b9ed-df8072802c80"
+          },
+          "Darius, Trifarian": {
+            "count": 3,
+            "id": "483c1de6-40ff-4392-a31e-583e00743893"
+          },
+          "Stacked Deck": {
+            "count": 3,
+            "id": "8521f660-88e8-44b0-a9b3-c2e286051ddc"
+          },
+          "Vi, Destructive": {
+            "count": 3,
+            "id": "4a10b30f-22fa-4e09-803b-a375e361a905"
+          },
+          "Sneaky Deckhand": {
+            "count": 3,
+            "id": "2d0dbb58-493d-41b0-bb4b-52afb6dc46ec"
+          },
+          "Void Seeker": {
+            "count": 2,
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97"
+          },
+          "Vayne, Hunter": {
+            "id": "255e2e58-cc16-4e60-a55f-30a449a9f64b",
+            "count": 1
+          },
+          "Pouty Poro": {
+            "count": 3,
+            "id": "51ef3649-41c8-41bb-98b5-adcf9d1c8fdf"
+          },
+          "Morbid Return": {
+            "count": 1,
+            "id": "36d1893c-6019-4540-9fa6-0dd98b9fecf4"
+          },
+          "Annie, Stubborn": {
+            "id": "68b9c950-85b7-409c-b9d8-034170f26564",
+            "count": 1
+          },
+          "Ride the Wind": {
+            "count": 3,
+            "id": "7cda00d7-b45e-4786-83c1-995a07b0e36c"
+          },
+          "Flash": {
+            "id": "7596dc74-82bc-41ac-a25f-83f4b98ffb72",
+            "count": 3
+          },
+          "Cleave": {
+            "count": 3,
+            "id": "c092c17d-8faf-4d7f-9037-cb4fa0fa4a60"
+          }
+        },
+        "Sideboard": {
+          "Draven, Showboat": {
+            "count": 2,
+            "id": "dcae5f13-08cd-484b-b719-2103d2b6bd9f"
+          },
+          "Morbid Return": {
+            "count": 1,
+            "id": "36d1893c-6019-4540-9fa6-0dd98b9fecf4"
+          },
+          "Fading Memories": {
+            "count": 1,
+            "id": "6f7dc5a6-803e-4a9b-b57a-4620105dd0c2"
+          },
+          "Gust": {
+            "count": 2,
+            "id": "c35e1ec8-00aa-49b5-b9ed-df8072802c80"
+          },
+          "Fight or Flight": {
+            "count": 1,
+            "id": "eb2880cb-c0d2-4f2c-8491-e22f9252eac1"
+          },
+          "Rebuke": {
+            "id": "ee6bcfe5-a481-4f07-9c15-3fff43137919",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76",
+            "count": 6
+          },
+          "Chaos Rune": {
+            "count": 6,
+            "id": "e75bfba1-b43c-4b1c-a6ad-217b5a4f585b"
+          }
+        },
+        "Battlefields": {
+          "Zaun Warrens": {
+            "count": 1,
+            "id": "01a67a97-72cd-4481-8a08-9a53678373ec"
+          },
+          "The Dreaming Tree": {
+            "id": "6b923755-0161-475d-8ca7-7c739f063935",
+            "count": 1
+          },
+          "The Arena's Greatest": {
+            "count": 1,
+            "id": "b4f5c6b7-2f79-404b-8b6d-1218d21fca4e"
+          }
+        },
+        "Legend": {
+          "Annie, Dark Child": {
+            "count": 1,
+            "id": "254141aa-d667-49b9-bd1c-559f6b4ee246"
+          }
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Annie, Dark Child\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 The Arena\\'s Greatest\\n1 The Dreaming Tree\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n1 Annie, Stubborn\\n3 Cleave\\n3 Darius, Trifarian\\n2 Fight or Flight\\n3 Flash\\n1 Gust\\n1 Kai\\'Sa, Survivor\\n1 Morbid Return\\n3 Pouty Poro\\n1 Rebuke\\n3 Ride the Wind\\n3 Scrapheap\\n3 Sneaky Deckhand\\n3 Stacked Deck\\n3 Traveling Merchant\\n1 Vayne, Hunter\\n3 Vi, Destructive\\n2 Void Seeker\\n\\n~~Sideboard~~\\n2 Draven, Showboat\\n1 Fading Memories\\n1 Fight or Flight\\n2 Gust\\n1 Morbid Return\\n1 Rebuke\\n"
+      ]
+    },
+    {
+      "id": 1946,
+      "tid": "riftbound-remote-showdown-predator-cup",
+      "player_name": "Bradlly Keierleber ",
+      "player_id": "Gi3kv7oDihflcp3QyPv1x8i1mlm1",
+      "placement": 8,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    }
+  ]
+}

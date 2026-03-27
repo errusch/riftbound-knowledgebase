@@ -1,0 +1,32 @@
+{
+  "id": "player.krowz",
+  "type": "player_record",
+  "title": "krowz",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "competitive-player",
+    "irelia-blade-dancer"
+  ],
+  "record": {
+    "player_name": "krowz",
+    "x_handle": "3rd\u20134th",
+    "confidence": "Irelia, Blade Dancer",
+    "events": "[@krowzTCG](https://x.com/krowzTCG)",
+    "notes": "**HIGH**",
+    "main_legend": "Irelia, Blade Dancer",
+    "tournament_results": "3rd-4th - Bologna RQ (Feb 21-22, 2026, 1719 players)",
+    "content_creator": 0,
+    "source_urls": "https://roadoftheking.com/rq-bologna/; https://x.com/krowzTCG/status/2025677568754532388",
+    "source_urls_list": [
+      "https://roadoftheking.com/rq-bologna/",
+      "https://x.com/krowzTCG/status/2025677568754532388"
+    ],
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  }
+}

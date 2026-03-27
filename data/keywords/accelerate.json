@@ -1,0 +1,23 @@
+{
+  "id": "keyword.accelerate",
+  "type": "keyword_record",
+  "title": "Accelerate",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Unit Ability"
+  ],
+  "record": {
+    "keyword": "Accelerate",
+    "rule_number": "731",
+    "keyword_type": "Unit Ability",
+    "applies_to": "Units",
+    "short_description": "Pay extra to enter ready",
+    "functional_text": "As you play me, you may pay [1] and 1 Power as an additional cost. If you do, I enter ready.",
+    "notes": "Optional additional cost. Multiple instances redundant. Power must match unit domain (or [A] if no/multi domain)."
+  }
+}

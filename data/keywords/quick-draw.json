@@ -1,0 +1,23 @@
+{
+  "id": "keyword.quick-draw",
+  "type": "keyword_record",
+  "title": "Quick-Draw",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Triggered + Permissive"
+  ],
+  "record": {
+    "keyword": "Quick-Draw",
+    "rule_number": "745",
+    "keyword_type": "Triggered + Permissive",
+    "applies_to": "Gear with Equip",
+    "short_description": "Play as Reaction and auto-attach",
+    "functional_text": "[Reaction]. When you play this, attach it to a unit you control.",
+    "notes": "Grants Reaction inherently. No function on board. Multiple instances redundant."
+  }
+}

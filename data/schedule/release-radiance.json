@@ -1,0 +1,27 @@
+{
+  "id": "op_schedule.release-radiance",
+  "type": "schedule_record",
+  "title": "Radiance Release",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "op-schedule",
+    "set_release",
+    "upcoming"
+  ],
+  "record": {
+    "event_id": "release_radiance",
+    "event_name": "Radiance Release",
+    "event_type": "set_release",
+    "location": null,
+    "venue": null,
+    "country": null,
+    "dates": "2026-10-23",
+    "status": "upcoming",
+    "notes": "Set 5. Previews start Sep 21.",
+    "source_url": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "player.plus",
+  "type": "player_record",
+  "title": "Plus",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "competitive-player",
+    "item"
+  ],
+  "record": {
+    "player_name": "Plus",
+    "x_handle": "Host/caster at Runes & Rift; co-streamed Bologna RQ",
+    "confidence": "[@PlusRB_](https://x.com/PlusRB_)",
+    "events": "**HIGH**",
+    "notes": "(1) @RunesAndRift Bologna co-stream announcement tags @PlusRB_ as caster; (2) @RunesAndRift X profile bio links to \"Twitch.tv/plusrb\" \u2014 Twitch account confirmed as active Riftbound stream (Bologna Day 2 coverage); handle matches Twitch username",
+    "main_legend": null,
+    "tournament_results": null,
+    "content_creator": 1,
+    "source_urls": null,
+    "source_urls_list": [],
+    "quality_flags": []
+  }
+}

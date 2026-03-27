@@ -1,0 +1,426 @@
+{
+  "id": "official_event.s2-reg-nanjing-2026",
+  "type": "event_record",
+  "title": "Season 2 Regional: Nanjing",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "official-event",
+    "Spiritforged+Origins"
+  ],
+  "record": {
+    "event_id": "s2_reg_nanjing_2026",
+    "event_name": "Season 2 Regional: Nanjing",
+    "location": "Nanjing, China",
+    "date_start": null,
+    "date_end": null,
+    "player_count": null,
+    "format": "Spiritforged+Origins",
+    "decklist_count": 8
+  },
+  "decklists": [
+    {
+      "id": 85,
+      "event_id": "s2_reg_nanjing_2026",
+      "player_name": "Ai.EDG.\u5f20\u4f2f\u4f26",
+      "placement": 1,
+      "legend": "Annie, Dark Child",
+      "champion": "Annie, Stubborn",
+      "main_deck": "1x Annie, Stubborn\n2x Rebuke\n3x Kai'Sa, Survivor\n3x Flash\n2x Tideturner\n2x Switcheroo\n3x Cleave\n2x Fight Or Flight\n3x Ferrous Forerunner\n1x Hard Bargain\n3x Pouty Poro\n3x Draven, Vanquisher\n3x Stacked Deck\n1x Invert Timelines\n3x Sneaky Deckhand\n3x Traveling Merchant\n1x Noxus Hopeful\n1x Rengar, Pouncing",
+      "sideboard": "3x Mindsplitter\n2x Darius, Trifarian\n2x Rengar, Pouncing\n1x Factory Recall",
+      "battlefields": "1x Startipped Peak\n1x The Dreaming Tree\n1x Obelisk Of Power",
+      "runes": "7x Chaos Rune\n5x Fury Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Annie, Stubborn",
+        "2x Rebuke",
+        "3x Kai'Sa, Survivor",
+        "3x Flash",
+        "2x Tideturner",
+        "2x Switcheroo",
+        "3x Cleave",
+        "2x Fight Or Flight",
+        "3x Ferrous Forerunner",
+        "1x Hard Bargain",
+        "3x Pouty Poro",
+        "3x Draven, Vanquisher",
+        "3x Stacked Deck",
+        "1x Invert Timelines",
+        "3x Sneaky Deckhand",
+        "3x Traveling Merchant",
+        "1x Noxus Hopeful",
+        "1x Rengar, Pouncing"
+      ],
+      "sideboard_cards": [
+        "3x Mindsplitter",
+        "2x Darius, Trifarian",
+        "2x Rengar, Pouncing",
+        "1x Factory Recall"
+      ],
+      "battlefield_cards": [
+        "1x Startipped Peak",
+        "1x The Dreaming Tree",
+        "1x Obelisk Of Power"
+      ],
+      "rune_cards": [
+        "7x Chaos Rune",
+        "5x Fury Rune"
+      ]
+    },
+    {
+      "id": 86,
+      "event_id": "s2_reg_nanjing_2026",
+      "player_name": "ConTRoL",
+      "placement": 2,
+      "legend": "Azir, Emperor of the Sands",
+      "champion": "Azir, Sovereign",
+      "main_deck": "1x Azir, Sovereign\n3x Arise!\n3x Desert's Call\n2x Guards!\n2x Deathgrip\n2x Charm\n2x Defy\n3x Discipline\n2x Cull The Weak\n3x Hidden Blade\n1x Salvage\n3x Doran's Shield\n3x Brutalizer\n1x Guardian Angel\n3x Eye of the Herald\n3x B.F. Sword\n2x Sacred Shears\n1x Not So Fast",
+      "sideboard": "2x Facebreaker\n2x Wind Wall\n2x Salvage\n1x Cull The Weak\n1x Defy",
+      "battlefields": "1x Vilemaw'S Lair\n1x Trifarian War Camp\n1x Ornn's Forge",
+      "runes": "6x Calm Rune\n6x Order Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Azir, Sovereign",
+        "3x Arise!",
+        "3x Desert's Call",
+        "2x Guards!",
+        "2x Deathgrip",
+        "2x Charm",
+        "2x Defy",
+        "3x Discipline",
+        "2x Cull The Weak",
+        "3x Hidden Blade",
+        "1x Salvage",
+        "3x Doran's Shield",
+        "3x Brutalizer",
+        "1x Guardian Angel",
+        "3x Eye of the Herald",
+        "3x B.F. Sword",
+        "2x Sacred Shears",
+        "1x Not So Fast"
+      ],
+      "sideboard_cards": [
+        "2x Facebreaker",
+        "2x Wind Wall",
+        "2x Salvage",
+        "1x Cull The Weak",
+        "1x Defy"
+      ],
+      "battlefield_cards": [
+        "1x Vilemaw'S Lair",
+        "1x Trifarian War Camp",
+        "1x Ornn's Forge"
+      ],
+      "rune_cards": [
+        "6x Calm Rune",
+        "6x Order Rune"
+      ]
+    },
+    {
+      "id": 87,
+      "event_id": "s2_reg_nanjing_2026",
+      "player_name": "\u571f\u8c46",
+      "placement": 3,
+      "legend": "Draven, Glorious Executioner",
+      "champion": "Draven, Vanquisher",
+      "main_deck": "1x Draven, Vanquisher\n3x Darius, Trifarian\n3x Kai'Sa, Survivor\n1x Ferrous Forerunner\n3x Treasure Hunter\n3x Overzealous Fan\n3x Noxus Hopeful\n2x Brynhir Thundersong\n2x Mindsplitter\n2x Tideturner\n1x Blood Rush\n1x Against the Odds\n1x Switcheroo\n2x Falling Star\n2x Rebuke\n2x Ride The Wind\n2x Stacked Deck\n2x Fight Or Flight\n2x Edge of Night\n2x Spinning Axe",
+      "sideboard": "1x Ferrous Forerunner\n1x Brynhir Thundersong\n1x Against the Odds\n1x Hard Bargain\n1x Switcheroo\n1x Ride The Wind\n2x Invert Timelines",
+      "battlefields": "1x Obelisk Of Power\n1x Reaver'S Row\n1x Targon'S Peak",
+      "runes": "6x Chaos Rune\n6x Fury Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Draven, Vanquisher",
+        "3x Darius, Trifarian",
+        "3x Kai'Sa, Survivor",
+        "1x Ferrous Forerunner",
+        "3x Treasure Hunter",
+        "3x Overzealous Fan",
+        "3x Noxus Hopeful",
+        "2x Brynhir Thundersong",
+        "2x Mindsplitter",
+        "2x Tideturner",
+        "1x Blood Rush",
+        "1x Against the Odds",
+        "1x Switcheroo",
+        "2x Falling Star",
+        "2x Rebuke",
+        "2x Ride The Wind",
+        "2x Stacked Deck",
+        "2x Fight Or Flight",
+        "2x Edge of Night",
+        "2x Spinning Axe"
+      ],
+      "sideboard_cards": [
+        "1x Ferrous Forerunner",
+        "1x Brynhir Thundersong",
+        "1x Against the Odds",
+        "1x Hard Bargain",
+        "1x Switcheroo",
+        "1x Ride The Wind",
+        "2x Invert Timelines"
+      ],
+      "battlefield_cards": [
+        "1x Obelisk Of Power",
+        "1x Reaver'S Row",
+        "1x Targon'S Peak"
+      ],
+      "rune_cards": [
+        "6x Chaos Rune",
+        "6x Fury Rune"
+      ]
+    },
+    {
+      "id": 88,
+      "event_id": "s2_reg_nanjing_2026",
+      "player_name": "\u6dd8\u91d1\u5de2.Decade\uff08\u6069\u5e08\u8c37\u795e\uff09",
+      "placement": 4,
+      "legend": "Irelia, Blade Dancer",
+      "champion": "Irelia, Fervent",
+      "main_deck": "1x Irelia, Fervent\n3x Defiant Dance\n2x Draven, Audacious\n3x Stellacorn herder\n3x Sneaky Deckhand\n3x Tideturner\n2x Not So Fast\n2x Flash\n3x Charm\n2x Defy\n2x En Garde\n3x Discipline\n2x Fight Or Flight\n1x Rebuke\n2x Ride The Wind\n3x Guardian Angel\n1x Boots of Swiftness\n1x The Syren\n1x Stacked Deck",
+      "sideboard": "2x Adaptatron\n1x Hard Bargain\n1x Defy\n2x Gust\n1x Rebuke\n1x En Garde",
+      "battlefields": "1x Sunken Temple\n1x Obelisk Of Power\n1x The Dreaming Tree",
+      "runes": "6x Chaos Rune\n6x Calm Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Irelia, Fervent",
+        "3x Defiant Dance",
+        "2x Draven, Audacious",
+        "3x Stellacorn herder",
+        "3x Sneaky Deckhand",
+        "3x Tideturner",
+        "2x Not So Fast",
+        "2x Flash",
+        "3x Charm",
+        "2x Defy",
+        "2x En Garde",
+        "3x Discipline",
+        "2x Fight Or Flight",
+        "1x Rebuke",
+        "2x Ride The Wind",
+        "3x Guardian Angel",
+        "1x Boots of Swiftness",
+        "1x The Syren",
+        "1x Stacked Deck"
+      ],
+      "sideboard_cards": [
+        "2x Adaptatron",
+        "1x Hard Bargain",
+        "1x Defy",
+        "2x Gust",
+        "1x Rebuke",
+        "1x En Garde"
+      ],
+      "battlefield_cards": [
+        "1x Sunken Temple",
+        "1x Obelisk Of Power",
+        "1x The Dreaming Tree"
+      ],
+      "rune_cards": [
+        "6x Chaos Rune",
+        "6x Calm Rune"
+      ]
+    },
+    {
+      "id": 89,
+      "event_id": "s2_reg_nanjing_2026",
+      "player_name": "\u6dd8\u91d1\u5de2.Ai.ECG.\u6781\u89e6\u611f.\u4e59\u9178\u76d0",
+      "placement": 5,
+      "legend": "Draven, Glorious Executioner",
+      "champion": "Draven, Vanquisher",
+      "main_deck": "1x Draven, Vanquisher\n3x Overzealous Fan\n2x Treasure Hunter\n2x Pouty Poro\n1x Tideturner\n2x Kai'Sa, Survivor\n3x Noxus Hopeful\n3x Darius, Trifarian\n2x Brynhir Thundersong\n1x Mindsplitter\n1x Ferrous Forerunner\n2x Spinning Axe\n2x Edge of Night\n3x Stacked Deck\n2x Ride The Wind\n2x Rebuke\n2x Falling Star\n2x Fight Or Flight\n1x Hard Bargain\n1x Factory Recall\n1x Cleave\n1x Switcheroo",
+      "sideboard": "2x Ferrous Forerunner\n1x Mindsplitter\n1x Kai'Sa, Survivor\n1x Minotaur Reckoner\n1x Ride The Wind\n1x Against the Odds\n1x Thermo Beam",
+      "battlefields": "1x Obelisk Of Power\n1x Reaver'S Row\n1x Targon'S Peak",
+      "runes": "6x Chaos Rune\n6x Fury Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Draven, Vanquisher",
+        "3x Overzealous Fan",
+        "2x Treasure Hunter",
+        "2x Pouty Poro",
+        "1x Tideturner",
+        "2x Kai'Sa, Survivor",
+        "3x Noxus Hopeful",
+        "3x Darius, Trifarian",
+        "2x Brynhir Thundersong",
+        "1x Mindsplitter",
+        "1x Ferrous Forerunner",
+        "2x Spinning Axe",
+        "2x Edge of Night",
+        "3x Stacked Deck",
+        "2x Ride The Wind",
+        "2x Rebuke",
+        "2x Falling Star",
+        "2x Fight Or Flight",
+        "1x Hard Bargain",
+        "1x Factory Recall",
+        "1x Cleave",
+        "1x Switcheroo"
+      ],
+      "sideboard_cards": [
+        "2x Ferrous Forerunner",
+        "1x Mindsplitter",
+        "1x Kai'Sa, Survivor",
+        "1x Minotaur Reckoner",
+        "1x Ride The Wind",
+        "1x Against the Odds",
+        "1x Thermo Beam"
+      ],
+      "battlefield_cards": [
+        "1x Obelisk Of Power",
+        "1x Reaver'S Row",
+        "1x Targon'S Peak"
+      ],
+      "rune_cards": [
+        "6x Chaos Rune",
+        "6x Fury Rune"
+      ]
+    },
+    {
+      "id": 90,
+      "event_id": "s2_reg_nanjing_2026",
+      "player_name": "\u672a\u4e2d\u9009\u6240\u6709\u533a\u57df\u516c\u5f00\u8d5b\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u4e16\u754c\u4eba\u6c11\u5927\u56e2\u7ed3\u5df4\u52d2\u65af\u5766\u6297\u6218\u4e07\u5c81",
+      "placement": 6,
+      "legend": "Kai'Sa, Daughter of the Void",
+      "champion": "Kai'Sa, Survivor",
+      "main_deck": "1x Kai'Sa, Survivor\n3x Watchful Sentry\n3x Plundering Poro\n1x Pouty Poro\n3x Lecturing Yordle\n1x Noxus Hopeful\n3x Thousand-Tailed Watcher\n3x Retreat\n3x Stupefy\n3x Hextech Ray\n1x Bellows Breath\n3x Falling Star\n1x Get Excited!\n1x Piercing Light\n1x Rocket Barrage\n3x Progress Day\n3x Singularity\n3x Time Warp",
+      "sideboard": "1x Assembly Rig\n2x Thermo Beam\n2x Brynhir Thundersong\n2x Ferrous Forerunner\n1x Unchecked Power",
+      "battlefields": "1x Void Gate\n1x Obelisk Of Power\n1x Reaver'S Row",
+      "runes": "7x Fury Rune\n5x Mind Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Kai'Sa, Survivor",
+        "3x Watchful Sentry",
+        "3x Plundering Poro",
+        "1x Pouty Poro",
+        "3x Lecturing Yordle",
+        "1x Noxus Hopeful",
+        "3x Thousand-Tailed Watcher",
+        "3x Retreat",
+        "3x Stupefy",
+        "3x Hextech Ray",
+        "1x Bellows Breath",
+        "3x Falling Star",
+        "1x Get Excited!",
+        "1x Piercing Light",
+        "1x Rocket Barrage",
+        "3x Progress Day",
+        "3x Singularity",
+        "3x Time Warp"
+      ],
+      "sideboard_cards": [
+        "1x Assembly Rig",
+        "2x Thermo Beam",
+        "2x Brynhir Thundersong",
+        "2x Ferrous Forerunner",
+        "1x Unchecked Power"
+      ],
+      "battlefield_cards": [
+        "1x Void Gate",
+        "1x Obelisk Of Power",
+        "1x Reaver'S Row"
+      ],
+      "rune_cards": [
+        "7x Fury Rune",
+        "5x Mind Rune"
+      ]
+    },
+    {
+      "id": 91,
+      "event_id": "s2_reg_nanjing_2026",
+      "player_name": "\u6771\u839e\u9f99\u8c93",
+      "placement": 7,
+      "legend": "Draven, Glorious Executioner",
+      "champion": "Draven, Vanquisher",
+      "main_deck": "1x Draven, Vanquisher\n3x Darius, Trifarian\n3x Treasure Hunter\n3x Overzealous Fan\n2x Tideturner\n2x Brynhir Thundersong\n3x Noxus Hopeful\n2x Fight Or Flight\n2x Ride The Wind\n2x Rebuke\n3x Stacked Deck\n3x Spinning Axe\n2x Edge of Night\n2x Falling Star\n2x Switcheroo\n2x Mindsplitter\n3x Kai'Sa, Survivor",
+      "sideboard": "2x Against the Odds\n3x Ferrous Forerunner\n1x Ride The Wind\n1x Mindsplitter\n1x Brynhir Thundersong",
+      "battlefields": "1x Obelisk Of Power\n1x Targon'S Peak\n1x Reaver'S Row",
+      "runes": "6x Fury Rune\n6x Chaos Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Draven, Vanquisher",
+        "3x Darius, Trifarian",
+        "3x Treasure Hunter",
+        "3x Overzealous Fan",
+        "2x Tideturner",
+        "2x Brynhir Thundersong",
+        "3x Noxus Hopeful",
+        "2x Fight Or Flight",
+        "2x Ride The Wind",
+        "2x Rebuke",
+        "3x Stacked Deck",
+        "3x Spinning Axe",
+        "2x Edge of Night",
+        "2x Falling Star",
+        "2x Switcheroo",
+        "2x Mindsplitter",
+        "3x Kai'Sa, Survivor"
+      ],
+      "sideboard_cards": [
+        "2x Against the Odds",
+        "3x Ferrous Forerunner",
+        "1x Ride The Wind",
+        "1x Mindsplitter",
+        "1x Brynhir Thundersong"
+      ],
+      "battlefield_cards": [
+        "1x Obelisk Of Power",
+        "1x Targon'S Peak",
+        "1x Reaver'S Row"
+      ],
+      "rune_cards": [
+        "6x Fury Rune",
+        "6x Chaos Rune"
+      ]
+    },
+    {
+      "id": 92,
+      "event_id": "s2_reg_nanjing_2026",
+      "player_name": "VG.A1mer",
+      "placement": 8,
+      "legend": "Irelia, Blade Dancer",
+      "champion": "Irelia, Fervent",
+      "main_deck": "1x Irelia, Fervent\n3x Defiant Dance\n2x Draven, Audacious\n3x Stellacorn herder\n3x Sneaky Deckhand\n2x Tideturner\n3x Not So Fast\n1x Flash\n3x Charm\n2x Defy\n2x En Garde\n3x Discipline\n3x Fight Or Flight\n1x Rebuke\n3x Ride The Wind\n3x Guardian Angel\n2x The Syren",
+      "sideboard": "2x Lonely Poro\n2x Vex, Cheerless\n2x Adaptatron\n2x Rebuke",
+      "battlefields": "1x Sunken Temple\n1x Obelisk Of Power\n1x The Dreaming Tree",
+      "runes": "6x Calm Rune\n6x Chaos Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Irelia, Fervent",
+        "3x Defiant Dance",
+        "2x Draven, Audacious",
+        "3x Stellacorn herder",
+        "3x Sneaky Deckhand",
+        "2x Tideturner",
+        "3x Not So Fast",
+        "1x Flash",
+        "3x Charm",
+        "2x Defy",
+        "2x En Garde",
+        "3x Discipline",
+        "3x Fight Or Flight",
+        "1x Rebuke",
+        "3x Ride The Wind",
+        "3x Guardian Angel",
+        "2x The Syren"
+      ],
+      "sideboard_cards": [
+        "2x Lonely Poro",
+        "2x Vex, Cheerless",
+        "2x Adaptatron",
+        "2x Rebuke"
+      ],
+      "battlefield_cards": [
+        "1x Sunken Temple",
+        "1x Obelisk Of Power",
+        "1x The Dreaming Tree"
+      ],
+      "rune_cards": [
+        "6x Calm Rune",
+        "6x Chaos Rune"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "op_schedule.rq-houston-2025",
+  "type": "schedule_record",
+  "title": "RQ Houston",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "op-schedule",
+    "regional_qualifier",
+    "completed"
+  ],
+  "record": {
+    "event_id": "rq_houston_2025",
+    "event_name": "RQ Houston",
+    "event_type": "regional_qualifier",
+    "location": "Houston, TX",
+    "venue": null,
+    "country": "US",
+    "dates": "2025-12-05",
+    "status": "completed",
+    "notes": "1129 players. First RQ.",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/"
+  }
+}

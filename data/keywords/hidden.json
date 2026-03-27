@@ -1,0 +1,23 @@
+{
+  "id": "keyword.hidden",
+  "type": "keyword_record",
+  "title": "Hidden",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Prerequisite"
+  ],
+  "record": {
+    "keyword": "Hidden",
+    "rule_number": "737",
+    "keyword_type": "Prerequisite",
+    "applies_to": "Spells, Units, Gear",
+    "short_description": "Hide facedown, play later for free",
+    "functional_text": "Pay [A] to hide facedown at a battlefield you control. Next turn+, gains [Reaction] and can be played ignoring base cost.",
+    "notes": "One facedown per battlefield. Playing from Hidden restricts targets to that battlefield. Can also be played normally from hand."
+  }
+}

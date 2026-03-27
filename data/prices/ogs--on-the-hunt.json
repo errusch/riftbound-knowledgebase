@@ -1,0 +1,41 @@
+{
+  "id": "price_history.ogs--on-the-hunt",
+  "type": "price_record",
+  "title": "On the Hunt (OGS)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "OGS",
+    "on-the-hunt"
+  ],
+  "record": {
+    "card_name": "On the Hunt",
+    "set_id": "OGS",
+    "latest": {
+      "card_name": "On the Hunt",
+      "set_id": "OGS",
+      "tcgplayer_id": "666824",
+      "market_price": 2.3,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-02-27"
+    },
+    "history": [
+      {
+        "card_name": "On the Hunt",
+        "set_id": "OGS",
+        "tcgplayer_id": "666824",
+        "market_price": 2.3,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

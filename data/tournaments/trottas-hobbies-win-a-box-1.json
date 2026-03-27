@@ -1,0 +1,401 @@
+{
+  "id": "tournament.trottas-hobbies-win-a-box-1",
+  "type": "tournament_record",
+  "title": "Trotta's Hobbies Win a Box ",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "tournament",
+    "Constructed",
+    "barnegat-township"
+  ],
+  "record": {
+    "tid": "trottas-hobbies-win-a-box-1",
+    "name": "Trotta's Hobbies Win a Box ",
+    "start_date": 1766185200,
+    "format": "Constructed",
+    "swiss_rounds": 3,
+    "top_cut": 0,
+    "participants": 6,
+    "city": "Barnegat Township",
+    "state": "New Jersey",
+    "location": "323 S Main St, Barnegat, NJ 08005, USA",
+    "country": null
+  },
+  "rounds": [
+    {
+      "id": 4344,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "round": "1",
+      "table_num": 1,
+      "player1_name": "Erin P",
+      "player1_id": "SfCPlrxkhn8L0wK2YnUk",
+      "player2_name": "Jason Pene",
+      "player2_id": "quQeXUflbGR4htHiijGMX8sk3NC2",
+      "winner": "Erin P",
+      "status": "Completed"
+    },
+    {
+      "id": 4345,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "round": "1",
+      "table_num": 2,
+      "player1_name": "Nate Lamb",
+      "player1_id": "xJxSXjODmkd4yE7yba90",
+      "player2_name": "Braeden McKenzie",
+      "player2_id": "jOtGfldF0HTkRVpE2xVp3lq7phx2",
+      "winner": "Nate Lamb",
+      "status": "Completed"
+    },
+    {
+      "id": 4346,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "round": "1",
+      "table_num": 3,
+      "player1_name": "Tobias Natale",
+      "player1_id": "Y40sfyrxu1Yr5lTT4Sp1tv5rIcn2",
+      "player2_name": "Joe Pedano",
+      "player2_id": "w70KSHvtIlKzgsV3S9K7",
+      "winner": "Tobias Natale",
+      "status": "Completed"
+    },
+    {
+      "id": 4347,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "round": "2",
+      "table_num": 1,
+      "player1_name": "Erin P",
+      "player1_id": "SfCPlrxkhn8L0wK2YnUk",
+      "player2_name": "Nate Lamb",
+      "player2_id": "xJxSXjODmkd4yE7yba90",
+      "winner": "Nate Lamb",
+      "status": "Completed"
+    },
+    {
+      "id": 4348,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "round": "2",
+      "table_num": 2,
+      "player1_name": "Tobias Natale",
+      "player1_id": "Y40sfyrxu1Yr5lTT4Sp1tv5rIcn2",
+      "player2_name": "Braeden McKenzie",
+      "player2_id": "jOtGfldF0HTkRVpE2xVp3lq7phx2",
+      "winner": "Braeden McKenzie",
+      "status": "Completed"
+    },
+    {
+      "id": 4349,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "round": "2",
+      "table_num": 3,
+      "player1_name": "Joe Pedano",
+      "player1_id": "w70KSHvtIlKzgsV3S9K7",
+      "player2_name": "Jason Pene",
+      "player2_id": "quQeXUflbGR4htHiijGMX8sk3NC2",
+      "winner": "Joe Pedano",
+      "status": "Completed"
+    },
+    {
+      "id": 4350,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "round": "3",
+      "table_num": 1,
+      "player1_name": "Nate Lamb",
+      "player1_id": "xJxSXjODmkd4yE7yba90",
+      "player2_name": "Tobias Natale",
+      "player2_id": "Y40sfyrxu1Yr5lTT4Sp1tv5rIcn2",
+      "winner": "Nate Lamb",
+      "status": "Completed"
+    },
+    {
+      "id": 4351,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "round": "3",
+      "table_num": 2,
+      "player1_name": "Joe Pedano",
+      "player1_id": "w70KSHvtIlKzgsV3S9K7",
+      "player2_name": "Erin P",
+      "player2_id": "SfCPlrxkhn8L0wK2YnUk",
+      "winner": "Erin P",
+      "status": "Completed"
+    },
+    {
+      "id": 4352,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "round": "3",
+      "table_num": 3,
+      "player1_name": "Braeden McKenzie",
+      "player1_id": "jOtGfldF0HTkRVpE2xVp3lq7phx2",
+      "player2_name": "Jason Pene",
+      "player2_id": "quQeXUflbGR4htHiijGMX8sk3NC2",
+      "winner": "Braeden McKenzie",
+      "status": "Completed"
+    }
+  ],
+  "standings": [
+    {
+      "id": 1865,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "player_name": "Nate Lamb",
+      "player_id": "xJxSXjODmkd4yE7yba90",
+      "placement": 1,
+      "wins": 3,
+      "wins_swiss": 3,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 1866,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "player_name": "Braeden McKenzie",
+      "player_id": "jOtGfldF0HTkRVpE2xVp3lq7phx2",
+      "placement": 2,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 1867,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "player_name": "Erin P",
+      "player_id": "SfCPlrxkhn8L0wK2YnUk",
+      "placement": 3,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 1868,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "player_name": "Tobias Natale",
+      "player_id": "Y40sfyrxu1Yr5lTT4Sp1tv5rIcn2",
+      "placement": 4,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 1869,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "player_name": "Joe Pedano",
+      "player_id": "w70KSHvtIlKzgsV3S9K7",
+      "placement": 5,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 1870,
+      "tid": "trottas-hobbies-win-a-box-1",
+      "player_name": "Jason Pene",
+      "player_id": "quQeXUflbGR4htHiijGMX8sk3NC2",
+      "placement": 6,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Viktor, Herald of the Arcane\\n\\n~~Runes~~\\n6 Mind Rune\\n6 Order Rune\\n\\n~~Battlefields~~\\n1 Altar to Unity\\n1 The Grand Plaza\\n1 Trifarian War Camp\\n\\n~~Mainboard~~\\n1 Commander Ledros\\n2 Consult the Past\\n2 Cruel Patron\\n3 Cull the Weak\\n3 Faithful Manufactor\\n1 Falling Comet\\n2 Grand Strategem\\n3 Hidden Blade\\n2 Lecturing Yordle\\n1 Machine Evangel\\n1 Retreat\\n2 Riptide Rex\\n1 Singularity\\n1 Siphon Power\\n1 Smoke Screen\\n3 Soaring Scout\\n2 Sprite Mother\\n2 Stupefy\\n2 Vanguard Captain\\n1 Viktor, Leader\\n3 Watchful Sentry\\n1 Wraith of Echoes\\n\\n~~Sideboard~~\\n1 Blastcone Fae\\n1 Facebreaker\\n3 Ravenbloom Student\\n1 Salvage\\n1 Singularity\\n1 Smoke Screen\\n",
+      "deck_obj": "{\"Legend\": {\"Viktor, Herald of the Arcane\": {\"id\": \"a9b7f199-a31b-4f94-9b17-7cf640d5853a\", \"count\": 1}}, \"Runes\": {\"Mind Rune\": {\"id\": \"6d4e52d9-6554-4af8-ad81-2b473b111d4e\", \"count\": 6}, \"Order Rune\": {\"id\": \"0b2a3650-d38e-4e16-adde-0fb16d0f68d7\", \"count\": 6}}, \"Battlefields\": {\"Altar to Unity\": {\"id\": \"2fec17c1-6415-4770-a6f4-c232db8d8478\", \"count\": 1}, \"The Grand Plaza\": {\"id\": \"63a02a3e-241d-4dce-a32f-627176a58e07\", \"count\": 1}, \"Trifarian War Camp\": {\"id\": \"6bb2c12a-62b8-408e-bea5-0b46beee4d09\", \"count\": 1}}, \"Mainboard\": {\"Commander Ledros\": {\"id\": \"cc813f86-8ca4-4169-b426-aa53176fba2b\", \"count\": 1}, \"Consult the Past\": {\"id\": \"3f36e743-98b4-429e-858b-d17129e3b3d9\", \"count\": 2}, \"Cruel Patron\": {\"id\": \"0fd52c9f-31bc-49df-85b5-c1cf9e695dd3\", \"count\": 2}, \"Cull the Weak\": {\"id\": \"e35ad908-ef7a-4083-9d50-4e766afd995d\", \"count\": 3}, \"Faithful Manufactor\": {\"id\": \"43fff314-3f1c-4b4a-8463-9c44efd034a7\", \"count\": 3}, \"Falling Comet\": {\"id\": \"2009e19e-a80d-4f60-8515-c16df0a1b8c5\", \"count\": 1}, \"Grand Strategem\": {\"id\": \"8f3b1f55-8bcc-4c39-bec5-08ade77de675\", \"count\": 2}, \"Hidden Blade\": {\"id\": \"93dad60c-3203-4e91-9d3c-f4f239634e78\", \"count\": 3}, \"Lecturing Yordle\": {\"id\": \"156888ab-68e6-434e-9353-88b27c2af7ce\", \"count\": 2}, \"Machine Evangel\": {\"id\": \"ece576ab-3e95-4af6-801d-3744fe92c11a\", \"count\": 1}, \"Retreat\": {\"id\": \"e5b9ee62-730a-4f86-aaae-edaf51c9ba8b\", \"count\": 1}, \"Riptide Rex\": {\"id\": \"ab08309c-558e-4a03-a79c-d6c7c46d01d2\", \"count\": 2}, \"Singularity\": {\"id\": \"d10c0743-3a44-4750-81d9-3fb44cc22446\", \"count\": 1}, \"Siphon Power\": {\"id\": \"b9bb15ef-1d1f-42e5-a172-71c9afbc528d\", \"count\": 1}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 1}, \"Soaring Scout\": {\"id\": \"bd613f75-0574-4df9-955c-66c125def4e4\", \"count\": 3}, \"Sprite Mother\": {\"id\": \"f66a2463-7d72-436f-8a88-c62c586c81ef\", \"count\": 2}, \"Stupefy\": {\"id\": \"9cb0c415-dbb4-460c-9d28-db41ae981c8e\", \"count\": 2}, \"Vanguard Captain\": {\"id\": \"fbae0433-1023-4fbb-ad22-9627bcde5d2c\", \"count\": 2}, \"Viktor, Leader\": {\"id\": \"06874267-1832-407a-8fa0-4fcf11b28cae\", \"count\": 1}, \"Watchful Sentry\": {\"id\": \"e89aa829-e22b-4cb8-885a-19f906963a2e\", \"count\": 3}, \"Wraith of Echoes\": {\"id\": \"a3819071-f177-4c6f-bf59-101d5d69340a\", \"count\": 1}}, \"Sideboard\": {\"Blastcone Fae\": {\"id\": \"4cab57c7-b851-4662-81de-5c1bf2c5adae\", \"count\": 1}, \"Facebreaker\": {\"id\": \"d4a2846c-0878-4c59-b732-46a11e889693\", \"count\": 1}, \"Ravenbloom Student\": {\"id\": \"8295bc06-85cf-4d57-b2be-cceee8bd8f1b\", \"count\": 3}, \"Salvage\": {\"id\": \"33b3f230-e26f-460d-8d47-4ea3ee408f1a\", \"count\": 1}, \"Singularity\": {\"id\": \"d10c0743-3a44-4750-81d9-3fb44cc22446\", \"count\": 1}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Viktor, Herald of the Arcane": {
+            "id": "a9b7f199-a31b-4f94-9b17-7cf640d5853a",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Mind Rune": {
+            "id": "6d4e52d9-6554-4af8-ad81-2b473b111d4e",
+            "count": 6
+          },
+          "Order Rune": {
+            "id": "0b2a3650-d38e-4e16-adde-0fb16d0f68d7",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Altar to Unity": {
+            "id": "2fec17c1-6415-4770-a6f4-c232db8d8478",
+            "count": 1
+          },
+          "The Grand Plaza": {
+            "id": "63a02a3e-241d-4dce-a32f-627176a58e07",
+            "count": 1
+          },
+          "Trifarian War Camp": {
+            "id": "6bb2c12a-62b8-408e-bea5-0b46beee4d09",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Commander Ledros": {
+            "id": "cc813f86-8ca4-4169-b426-aa53176fba2b",
+            "count": 1
+          },
+          "Consult the Past": {
+            "id": "3f36e743-98b4-429e-858b-d17129e3b3d9",
+            "count": 2
+          },
+          "Cruel Patron": {
+            "id": "0fd52c9f-31bc-49df-85b5-c1cf9e695dd3",
+            "count": 2
+          },
+          "Cull the Weak": {
+            "id": "e35ad908-ef7a-4083-9d50-4e766afd995d",
+            "count": 3
+          },
+          "Faithful Manufactor": {
+            "id": "43fff314-3f1c-4b4a-8463-9c44efd034a7",
+            "count": 3
+          },
+          "Falling Comet": {
+            "id": "2009e19e-a80d-4f60-8515-c16df0a1b8c5",
+            "count": 1
+          },
+          "Grand Strategem": {
+            "id": "8f3b1f55-8bcc-4c39-bec5-08ade77de675",
+            "count": 2
+          },
+          "Hidden Blade": {
+            "id": "93dad60c-3203-4e91-9d3c-f4f239634e78",
+            "count": 3
+          },
+          "Lecturing Yordle": {
+            "id": "156888ab-68e6-434e-9353-88b27c2af7ce",
+            "count": 2
+          },
+          "Machine Evangel": {
+            "id": "ece576ab-3e95-4af6-801d-3744fe92c11a",
+            "count": 1
+          },
+          "Retreat": {
+            "id": "e5b9ee62-730a-4f86-aaae-edaf51c9ba8b",
+            "count": 1
+          },
+          "Riptide Rex": {
+            "id": "ab08309c-558e-4a03-a79c-d6c7c46d01d2",
+            "count": 2
+          },
+          "Singularity": {
+            "id": "d10c0743-3a44-4750-81d9-3fb44cc22446",
+            "count": 1
+          },
+          "Siphon Power": {
+            "id": "b9bb15ef-1d1f-42e5-a172-71c9afbc528d",
+            "count": 1
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 1
+          },
+          "Soaring Scout": {
+            "id": "bd613f75-0574-4df9-955c-66c125def4e4",
+            "count": 3
+          },
+          "Sprite Mother": {
+            "id": "f66a2463-7d72-436f-8a88-c62c586c81ef",
+            "count": 2
+          },
+          "Stupefy": {
+            "id": "9cb0c415-dbb4-460c-9d28-db41ae981c8e",
+            "count": 2
+          },
+          "Vanguard Captain": {
+            "id": "fbae0433-1023-4fbb-ad22-9627bcde5d2c",
+            "count": 2
+          },
+          "Viktor, Leader": {
+            "id": "06874267-1832-407a-8fa0-4fcf11b28cae",
+            "count": 1
+          },
+          "Watchful Sentry": {
+            "id": "e89aa829-e22b-4cb8-885a-19f906963a2e",
+            "count": 3
+          },
+          "Wraith of Echoes": {
+            "id": "a3819071-f177-4c6f-bf59-101d5d69340a",
+            "count": 1
+          }
+        },
+        "Sideboard": {
+          "Blastcone Fae": {
+            "id": "4cab57c7-b851-4662-81de-5c1bf2c5adae",
+            "count": 1
+          },
+          "Facebreaker": {
+            "id": "d4a2846c-0878-4c59-b732-46a11e889693",
+            "count": 1
+          },
+          "Ravenbloom Student": {
+            "id": "8295bc06-85cf-4d57-b2be-cceee8bd8f1b",
+            "count": 3
+          },
+          "Salvage": {
+            "id": "33b3f230-e26f-460d-8d47-4ea3ee408f1a",
+            "count": 1
+          },
+          "Singularity": {
+            "id": "d10c0743-3a44-4750-81d9-3fb44cc22446",
+            "count": 1
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Viktor, Herald of the Arcane\\n\\n~~Runes~~\\n6 Mind Rune\\n6 Order Rune\\n\\n~~Battlefields~~\\n1 Altar to Unity\\n1 The Grand Plaza\\n1 Trifarian War Camp\\n\\n~~Mainboard~~\\n1 Commander Ledros\\n2 Consult the Past\\n2 Cruel Patron\\n3 Cull the Weak\\n3 Faithful Manufactor\\n1 Falling Comet\\n2 Grand Strategem\\n3 Hidden Blade\\n2 Lecturing Yordle\\n1 Machine Evangel\\n1 Retreat\\n2 Riptide Rex\\n1 Singularity\\n1 Siphon Power\\n1 Smoke Screen\\n3 Soaring Scout\\n2 Sprite Mother\\n2 Stupefy\\n2 Vanguard Captain\\n1 Viktor, Leader\\n3 Watchful Sentry\\n1 Wraith of Echoes\\n\\n~~Sideboard~~\\n1 Blastcone Fae\\n1 Facebreaker\\n3 Ravenbloom Student\\n1 Salvage\\n1 Singularity\\n1 Smoke Screen\\n"
+      ]
+    }
+  ]
+}

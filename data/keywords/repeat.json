@@ -1,0 +1,23 @@
+{
+  "id": "keyword.repeat",
+  "type": "keyword_record",
+  "title": "Repeat",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Optional Additional Cost"
+  ],
+  "record": {
+    "keyword": "Repeat",
+    "rule_number": "746",
+    "keyword_type": "Optional Additional Cost",
+    "applies_to": "Spells",
+    "short_description": "Pay extra to execute spell twice",
+    "functional_text": "You may pay [Cost] as additional cost. If you do, execute instructions one additional time.",
+    "notes": "Choices for second execution made during Make Relevant Choices step. Can choose different targets. Each Repeat paid separately. Spell only Played once."
+  }
+}

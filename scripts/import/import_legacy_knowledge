@@ -1,0 +1,699 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import json
+import re
+import sqlite3
+import sys
+from collections import defaultdict
+from datetime import datetime, timezone
+from pathlib import Path
+
+SCRIPT_ROOT = Path(__file__).resolve().parents[2]
+if str(SCRIPT_ROOT) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_ROOT))
+
+from scripts.lib.kb_common import (
+    ROOT,
+    detect_conflicts,
+    extract_claims,
+    find_legacy_knowledge_db,
+    load_json,
+    rebuild_indexes,
+    run,
+    slugify,
+    write_json,
+    write_markdown,
+)
+
+
+def choose_db_path() -> Path:
+    candidate = find_legacy_knowledge_db("riftbound_cards")
+    if candidate is None:
+        raise SystemExit("Unable to locate a local knowledge.db containing Riftbound data.")
+    return candidate
+
+
+def source_date_for(path: Path) -> str:
+    return datetime.fromtimestamp(path.stat().st_mtime, tz=timezone.utc).isoformat().replace("+00:00", "Z")
+
+
+def safe_key(value: str | int | None, fallback: str = "item") -> str:
+    if value is None:
+        return fallback
+    cleaned = slugify(str(value))
+    return cleaned or fallback
+
+
+def parse_jsonish(raw: str | None):
+    if raw is None:
+        return None
+    text = raw.strip()
+    if not text:
+        return None
+    if text[0] not in "[{":
+        return raw
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        return raw
+
+
+def split_lines(raw: str | None) -> list[str]:
+    if raw is None:
+        return []
+    return [line.strip() for line in str(raw).splitlines() if line.strip()]
+
+
+def split_semicolons(raw: str | None) -> list[str]:
+    if raw is None:
+        return []
+    return [part.strip() for part in str(raw).split(";") if part.strip()]
+
+
+def split_commas(raw: str | None) -> list[str]:
+    if raw is None:
+        return []
+    return [part.strip() for part in str(raw).split(",") if part.strip()]
+
+
+def markdown_list(items: list[str]) -> list[str]:
+    if not items:
+        return ["- none"]
+    return [f"- {item}" for item in items]
+
+
+def analysis_meta(
+    object_id: str,
+    title: str,
+    source_kind: str,
+    source_path: str,
+    source_date: str,
+    tags: list[str],
+    conflicts: list[dict],
+) -> dict:
+    return {
+        "id": object_id,
+        "type": "analysis_note",
+        "title": title,
+        "source_kind": source_kind,
+        "source_path": source_path,
+        "source_date": source_date,
+        "trust_level": "conflicted" if conflicts else "derived_unverified",
+        "status": "reviewed",
+        "tags": tags,
+    }
+
+
+def write_analysis_note(out_path: Path, meta: dict, sections: list[str], claims_seed: str) -> dict:
+    body = "\n".join(sections)
+    write_markdown(out_path, meta, body)
+    claims = extract_claims(claims_seed)
+    claims_path = out_path.with_suffix(".claims.json")
+    write_json(claims_path, claims)
+    return {**meta, "path": str(out_path.relative_to(ROOT)), "claims_path": str(claims_path.relative_to(ROOT))}
+
+
+def merge_legends_taxonomy(conn: sqlite3.Connection) -> None:
+    existing = load_json(ROOT / "data" / "taxonomy" / "legends.json", [])
+    merged: dict[str, set[str]] = {item["name"]: set(item.get("aliases", [])) for item in existing if item.get("name")}
+
+    for row in conn.execute("SELECT card_name, full_name, champion_name FROM legend_name_mapping ORDER BY full_name ASC"):
+        full_name = row["full_name"]
+        champion_name = row["champion_name"] or full_name
+        aliases = merged.setdefault(champion_name, set())
+        aliases.update({champion_name.lower(), full_name.lower()})
+        if row["card_name"]:
+            aliases.add(str(row["card_name"]).lower())
+
+    payload = [{"name": name, "aliases": sorted(alias for alias in aliases if alias)} for name, aliases in sorted(merged.items())]
+    write_json(ROOT / "data" / "taxonomy" / "legends.json", payload)
+
+
+def merge_battlefields_taxonomy(conn: sqlite3.Connection) -> None:
+    existing = load_json(ROOT / "data" / "taxonomy" / "battlefields.json", [])
+    merged: dict[str, set[str]] = {item["name"]: set(item.get("aliases", [])) for item in existing if item.get("name")}
+
+    rows = conn.execute("SELECT name FROM riftbound_cards WHERE type = 'Battlefield' ORDER BY name ASC").fetchall()
+    for row in rows:
+        name = row["name"]
+        aliases = merged.setdefault(name, set())
+        lowered = name.lower()
+        aliases.add(lowered)
+        aliases.add(re.sub(r"[^a-z0-9]+", " ", lowered).strip())
+        aliases.add(re.sub(r"[^a-z0-9]+", "", lowered))
+
+    payload = [{"name": name, "aliases": sorted(alias for alias in aliases if alias)} for name, aliases in sorted(merged.items())]
+    write_json(ROOT / "data" / "taxonomy" / "battlefields.json", payload)
+
+
+def import_sets(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "data" / "sets"
+    index = []
+    rows = conn.execute("SELECT * FROM rb_sets ORDER BY release_date ASC, set_id ASC").fetchall()
+    for row in rows:
+        record = dict(row)
+        key = safe_key(record["set_id"])
+        payload = {
+            "id": f"set.{key}",
+            "type": "set_record",
+            "title": record["name"],
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": ["set", record["set_type"] or "unknown"],
+            "record": record,
+        }
+        out_path = out_root / f"{key}.json"
+        write_json(out_path, payload)
+        index.append({k: v for k, v in payload.items() if k != "record"} | {"path": str(out_path.relative_to(ROOT))})
+    return index
+
+
+def import_rulings(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "data" / "rulings"
+    index = []
+    rows = conn.execute("SELECT * FROM rb_rulings ORDER BY effective_date ASC, card_name ASC, id ASC").fetchall()
+    for row in rows:
+        record = dict(row)
+        key = f"{safe_key(record['card_name'])}--{safe_key(record['ruling_type'])}--{record['id']}"
+        payload = {
+            "id": f"ruling.{key}",
+            "type": "ruling_record",
+            "title": f"{record['card_name']} ({record['ruling_type']})",
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": ["ruling", record["ruling_type"] or "unknown", safe_key(record["card_name"])],
+            "record": record,
+        }
+        out_path = out_root / f"{key}.json"
+        write_json(out_path, payload)
+        index.append({k: v for k, v in payload.items() if k != "record"} | {"path": str(out_path.relative_to(ROOT))})
+    return index
+
+
+def normalize_official_decklist(record: dict) -> dict:
+    return {
+        **record,
+        "main_deck_cards": split_lines(record.get("main_deck")),
+        "sideboard_cards": split_lines(record.get("sideboard")),
+        "battlefield_cards": split_lines(record.get("battlefields")),
+        "rune_cards": split_lines(record.get("runes")),
+    }
+
+
+def import_official_events(conn: sqlite3.Connection, db_path: Path, source_date: str) -> tuple[list[dict], list[dict]]:
+    events_root = ROOT / "data" / "events" / "official"
+    event_index = []
+    deck_index = []
+
+    deck_rows = conn.execute("SELECT * FROM rb_official_decklists ORDER BY event_id ASC, placement ASC, player_name ASC").fetchall()
+    decks_by_event: dict[str, list[dict]] = defaultdict(list)
+    for row in deck_rows:
+        record = normalize_official_decklist(dict(row))
+        decks_by_event[record["event_id"]].append(record)
+        deck_index.append(
+            {
+                "id": f"official_decklist.{record['event_id']}.{safe_key(record['player_name'])}.{record['id']}",
+                "title": f"{record['player_name']} - {record['legend']}",
+                "event_id": record["event_id"],
+                "placement": record["placement"],
+                "legend": record["legend"],
+                "champion": record["champion"],
+                "deck_type": record["deck_type"],
+            }
+        )
+
+    event_rows = conn.execute("SELECT * FROM rb_official_events ORDER BY date_start ASC, event_id ASC").fetchall()
+    for row in event_rows:
+        record = dict(row)
+        payload = {
+            "id": f"official_event.{safe_key(record['event_id'])}",
+            "type": "event_record",
+            "title": record["event_name"],
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": ["official-event", record["format"] or "unknown"],
+            "record": record,
+            "decklists": decks_by_event.get(record["event_id"], []),
+        }
+        out_path = events_root / f"{safe_key(record['event_id'])}.json"
+        write_json(out_path, payload)
+        event_index.append(
+            {
+                **{k: v for k, v in payload.items() if k not in {"record", "decklists"}},
+                "path": str(out_path.relative_to(ROOT)),
+                "decklist_count_actual": len(payload["decklists"]),
+            }
+        )
+    return event_index, deck_index
+
+
+def import_precon_decks(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "data" / "decks" / "precon"
+    rows = conn.execute(
+        """
+        SELECT *
+        FROM rb_precon_decklists
+        ORDER BY deck_name ASC, legend ASC, quantity DESC, card_name ASC
+        """
+    ).fetchall()
+    grouped: dict[tuple[str, str, str, str], list[dict]] = defaultdict(list)
+    for row in rows:
+        record = dict(row)
+        grouped[(record["deck_name"], record["legend"], record["product"], record["set_id"])].append(record)
+
+    index = []
+    for (deck_name, legend, product, set_id), cards in sorted(grouped.items()):
+        key = safe_key(f"{deck_name}-{set_id}")
+        payload = {
+            "id": f"precon_deck.{key}",
+            "type": "deck_record",
+            "title": deck_name,
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": ["precon", set_id, safe_key(legend)],
+            "record": {
+                "deck_name": deck_name,
+                "legend": legend,
+                "product": product,
+                "set_id": set_id,
+                "cards": cards,
+            },
+        }
+        out_path = out_root / f"{key}.json"
+        write_json(out_path, payload)
+        index.append({k: v for k, v in payload.items() if k != "record"} | {"path": str(out_path.relative_to(ROOT)), "card_count": len(cards)})
+    return index
+
+
+def import_tournaments(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "data" / "tournaments"
+    tournament_rows = conn.execute("SELECT * FROM rb_tournaments ORDER BY start_date ASC, tid ASC").fetchall()
+    rounds_by_tid: dict[str, list[dict]] = defaultdict(list)
+    standings_by_tid: dict[str, list[dict]] = defaultdict(list)
+
+    for row in conn.execute("SELECT * FROM rb_rounds ORDER BY tid ASC, CAST(round AS INTEGER) ASC, table_num ASC, id ASC"):
+        rounds_by_tid[row["tid"]].append(dict(row))
+
+    for row in conn.execute("SELECT * FROM rb_standings ORDER BY tid ASC, placement ASC, player_name ASC"):
+        record = dict(row)
+        record["deck_obj_parsed"] = parse_jsonish(record.get("deck_obj"))
+        record["decklist_lines"] = split_lines(record.get("decklist"))
+        standings_by_tid[row["tid"]].append(record)
+
+    index = []
+    for row in tournament_rows:
+        record = dict(row)
+        key = safe_key(record["tid"])
+        payload = {
+            "id": f"tournament.{key}",
+            "type": "tournament_record",
+            "title": record["name"],
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": ["tournament", record["format"] or "unknown", safe_key(record.get("city"))],
+            "record": record,
+            "rounds": rounds_by_tid.get(record["tid"], []),
+            "standings": standings_by_tid.get(record["tid"], []),
+        }
+        out_path = out_root / f"{key}.json"
+        write_json(out_path, payload)
+        index.append(
+            {
+                **{k: v for k, v in payload.items() if k not in {"record", "rounds", "standings"}},
+                "path": str(out_path.relative_to(ROOT)),
+                "round_count": len(payload["rounds"]),
+                "standing_count": len(payload["standings"]),
+            }
+        )
+    return index
+
+
+def import_price_history(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "data" / "prices"
+    grouped: dict[tuple[str, str], list[dict]] = defaultdict(list)
+    for row in conn.execute("SELECT * FROM rb_prices ORDER BY set_id ASC, card_name ASC, date ASC"):
+        record = dict(row)
+        grouped[(record["set_id"], record["card_name"])].append(record)
+
+    index = []
+    for (set_id, card_name), history in sorted(grouped.items()):
+        key = f"{safe_key(set_id)}--{safe_key(card_name)}"
+        latest = history[-1]
+        payload = {
+            "id": f"price_history.{key}",
+            "type": "price_record",
+            "title": f"{card_name} ({set_id})",
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": ["price-history", set_id, safe_key(card_name)],
+            "record": {
+                "card_name": card_name,
+                "set_id": set_id,
+                "latest": latest,
+                "history": history,
+            },
+        }
+        out_path = out_root / f"{key}.json"
+        write_json(out_path, payload)
+        index.append(
+            {
+                **{k: v for k, v in payload.items() if k != "record"},
+                "path": str(out_path.relative_to(ROOT)),
+                "history_count": len(history),
+                "latest_date": latest["date"],
+                "market_price": latest["market_price"],
+            }
+        )
+    return index
+
+
+def import_keywords(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "data" / "keywords"
+    index = []
+    rows = conn.execute("SELECT * FROM rb_keywords ORDER BY keyword ASC").fetchall()
+    for row in rows:
+        record = dict(row)
+        key = safe_key(record["keyword"])
+        payload = {
+            "id": f"keyword.{key}",
+            "type": "keyword_record",
+            "title": record["keyword"],
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": ["keyword", record["keyword_type"] or "unknown"],
+            "record": record,
+        }
+        out_path = out_root / f"{key}.json"
+        write_json(out_path, payload)
+        index.append({k: v for k, v in payload.items() if k != "record"} | {"path": str(out_path.relative_to(ROOT))})
+    return index
+
+
+def import_meta_tiers(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "data" / "meta-tiers"
+    grouped: dict[str, list[dict]] = defaultdict(list)
+    for row in conn.execute("SELECT * FROM rb_meta_tiers ORDER BY legend ASC, snapshot_date ASC, source ASC"):
+        grouped[row["legend"]].append(dict(row))
+
+    index = []
+    for legend, snapshots in sorted(grouped.items()):
+        key = safe_key(legend)
+        payload = {
+            "id": f"meta_tier.{key}",
+            "type": "meta_snapshot",
+            "title": legend,
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_unverified",
+            "status": "reviewed",
+            "tags": ["meta-tier", key],
+            "record": {
+                "legend": legend,
+                "snapshots": snapshots,
+            },
+        }
+        out_path = out_root / f"{key}.json"
+        write_json(out_path, payload)
+        index.append(
+            {
+                **{k: v for k, v in payload.items() if k != "record"},
+                "path": str(out_path.relative_to(ROOT)),
+                "snapshot_count": len(snapshots),
+                "latest_snapshot": snapshots[-1]["snapshot_date"],
+                "latest_tier": snapshots[-1]["tier"],
+            }
+        )
+    return index
+
+
+def import_schedule(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "data" / "schedule"
+    index = []
+    rows = conn.execute("SELECT * FROM rb_op_schedule ORDER BY dates ASC, event_id ASC").fetchall()
+    for row in rows:
+        record = dict(row)
+        key = safe_key(record["event_id"])
+        payload = {
+            "id": f"op_schedule.{key}",
+            "type": "schedule_record",
+            "title": record["event_name"],
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": ["op-schedule", record["event_type"] or "unknown", record["status"] or "unknown"],
+            "record": record,
+        }
+        out_path = out_root / f"{key}.json"
+        write_json(out_path, payload)
+        index.append({k: v for k, v in payload.items() if k != "record"} | {"path": str(out_path.relative_to(ROOT))})
+    return index
+
+
+def import_players(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "data" / "players"
+    index = []
+    rows = conn.execute("SELECT * FROM rb_competitive_players ORDER BY player_name ASC").fetchall()
+    for row in rows:
+        raw = dict(row)
+        quality_flags = []
+        if raw.get("notes", "").startswith("**") and not str(raw.get("confidence", "")).startswith("**"):
+            quality_flags.append("suspect_column_mapping")
+        payload = {
+            "id": f"player.{safe_key(raw['player_name'])}",
+            "type": "player_record",
+            "title": raw["player_name"],
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_unverified",
+            "status": "reviewed",
+            "tags": ["competitive-player", safe_key(raw.get("main_legend"))],
+            "record": {
+                **raw,
+                "source_urls_list": split_semicolons(raw.get("source_urls")),
+                "quality_flags": quality_flags,
+            },
+        }
+        out_path = out_root / f"{safe_key(raw['player_name'])}.json"
+        write_json(out_path, payload)
+        index.append({k: v for k, v in payload.items() if k != "record"} | {"path": str(out_path.relative_to(ROOT)), "quality_flags": quality_flags})
+    return index
+
+
+def import_guides(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "analysis" / "guides"
+    index = []
+    rows = conn.execute("SELECT * FROM rb_guides ORDER BY title ASC").fetchall()
+    for row in rows:
+        record = dict(row)
+        text_blob = "\n".join(part for part in [record.get("summary"), record.get("key_facts")] if part)
+        conflicts = detect_conflicts(text_blob)
+        meta = analysis_meta(
+            object_id=f"analysis.guide.{safe_key(record['title'])}",
+            title=record["title"],
+            source_kind="legacy_local_knowledge_db_guide",
+            source_path=str(db_path),
+            source_date=source_date,
+            tags=["guide", safe_key(record.get("legend")), record.get("source") or "unknown"],
+            conflicts=conflicts,
+        )
+        sections = [
+            "## Summary",
+            record.get("summary") or "_No summary stored in the local database._",
+            "",
+            "## Key Facts",
+            *(split_lines(record.get("key_facts")) or ["- none stored"]),
+            "",
+            "## Source Metadata",
+            f"- URL: {record.get('url') or 'unknown'}",
+            f"- Article Type: {record.get('article_type') or 'unknown'}",
+            f"- Legend: {record.get('legend') or 'unknown'}",
+            f"- Source: {record.get('source') or 'unknown'}",
+            f"- Imported From: `{db_path}`",
+        ]
+        if conflicts:
+            sections.extend(["", "## Conflict Flags", *markdown_list([f"`{item['id']}`: {item['message']}" for item in conflicts])])
+        out_path = out_root / f"{safe_key(record['title'])}.md"
+        index.append(write_analysis_note(out_path, meta, sections, text_blob))
+    return index
+
+
+def import_creators(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "analysis" / "creators"
+    index = []
+    rows = conn.execute("SELECT * FROM rb_content_creators ORDER BY name ASC").fetchall()
+    for row in rows:
+        record = dict(row)
+        notes_seed = "\n".join(part for part in [record.get("notes"), record.get("content_type"), record.get("main_legends")] if part)
+        meta = analysis_meta(
+            object_id=f"analysis.creator.{safe_key(record['name'])}",
+            title=record["name"],
+            source_kind="legacy_local_knowledge_db_creator",
+            source_path=str(db_path),
+            source_date=source_date,
+            tags=["creator", record.get("platform") or "unknown"],
+            conflicts=[],
+        )
+        sections = [
+            "## Profile",
+            record.get("notes") or "_No profile notes stored._",
+            "",
+            "## Metadata",
+            f"- Platform: {record.get('platform') or 'unknown'}",
+            f"- URL: {record.get('url') or 'unknown'}",
+            f"- Subscriber Count: {record.get('subscriber_count') or 'unknown'}",
+            f"- Content Type: {record.get('content_type') or 'unknown'}",
+            f"- Main Legends: {record.get('main_legends') or 'unknown'}",
+            f"- Source: {record.get('source') or 'unknown'}",
+            f"- Source URL: {record.get('source_url') or 'unknown'}",
+        ]
+        out_path = out_root / f"{safe_key(record['name'])}.md"
+        index.append(write_analysis_note(out_path, meta, sections, notes_seed or record["name"]))
+    return index
+
+
+def import_community_posts(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "analysis" / "community"
+    index = []
+    rows = conn.execute("SELECT * FROM rb_community_posts ORDER BY date ASC, id ASC").fetchall()
+    for row in rows:
+        record = dict(row)
+        text_blob = "\n".join(part for part in [record.get("summary"), record.get("title")] if part)
+        meta = analysis_meta(
+            object_id=f"analysis.community.{safe_key(record['id'])}",
+            title=record["title"],
+            source_kind="legacy_local_knowledge_db_community_post",
+            source_path=str(db_path),
+            source_date=source_date,
+            tags=["community", record.get("platform") or "unknown", record.get("relevance_tag") or "unknown"],
+            conflicts=[],
+        )
+        sections = [
+            "## Summary",
+            record.get("summary") or "_No summary stored._",
+            "",
+            "## Source Metadata",
+            f"- Platform: {record.get('platform') or 'unknown'}",
+            f"- URL: {record.get('url') or 'unknown'}",
+            f"- Subreddit: {record.get('subreddit') or 'n/a'}",
+            f"- Date: {record.get('date') or 'unknown'}",
+            f"- Relevance: {record.get('relevance_tag') or 'unknown'}",
+            f"- Source: {record.get('source') or 'unknown'}",
+        ]
+        out_path = out_root / f"{safe_key(record['platform'])}--{safe_key(record['id'])}.md"
+        index.append(write_analysis_note(out_path, meta, sections, text_blob))
+    return index
+
+
+def import_bookmark_intel(conn: sqlite3.Connection, db_path: Path, source_date: str) -> list[dict]:
+    out_root = ROOT / "analysis" / "intel"
+    index = []
+    rows = conn.execute("SELECT * FROM rb_bookmark_intel ORDER BY date ASC, id ASC").fetchall()
+    for row in rows:
+        record = dict(row)
+        text_blob = "\n".join(part for part in [record.get("summary"), record.get("action_item")] if part)
+        meta = analysis_meta(
+            object_id=f"analysis.intel.bookmark.{record['id']}",
+            title=f"Bookmark Intel {record['id']}",
+            source_kind="legacy_local_knowledge_db_bookmark_intel",
+            source_path=str(db_path),
+            source_date=source_date,
+            tags=["intel", record.get("category") or "unknown", record.get("source") or "unknown"],
+            conflicts=[],
+        )
+        sections = [
+            "## Summary",
+            record.get("summary") or "_No summary stored._",
+            "",
+            "## Actionability",
+            f"- Actionable: {bool(record.get('actionable'))}",
+            f"- Action Item: {record.get('action_item') or 'none'}",
+            "",
+            "## Source Metadata",
+            f"- Author: {record.get('author') or 'unknown'}",
+            f"- Category: {record.get('category') or 'unknown'}",
+            f"- Tweet URL: {record.get('tweet_url') or 'unknown'}",
+            f"- Date: {record.get('date') or 'unknown'}",
+            f"- Source: {record.get('source') or 'unknown'}",
+        ]
+        out_path = out_root / f"bookmark-{record['id']}.md"
+        index.append(write_analysis_note(out_path, meta, sections, text_blob or str(record["id"])))
+    return index
+
+
+def main() -> None:
+    db_path = choose_db_path()
+    source_date = source_date_for(db_path)
+
+    card_import = run([str(ROOT / "scripts" / "import" / "import_local_cards")])
+    if card_import.returncode != 0:
+        raise SystemExit(card_import.stderr.strip() or card_import.stdout.strip())
+
+    with sqlite3.connect(db_path) as conn:
+        conn.row_factory = sqlite3.Row
+
+        merge_legends_taxonomy(conn)
+        merge_battlefields_taxonomy(conn)
+
+        indexes = {
+            "sets": import_sets(conn, db_path, source_date),
+            "rulings": import_rulings(conn, db_path, source_date),
+        }
+        official_events_index, official_decklists_index = import_official_events(conn, db_path, source_date)
+        indexes["official_events"] = official_events_index
+        indexes["official_decklists"] = official_decklists_index
+        indexes["precon_decks"] = import_precon_decks(conn, db_path, source_date)
+        indexes["tournaments_db"] = import_tournaments(conn, db_path, source_date)
+        indexes["prices_latest"] = import_price_history(conn, db_path, source_date)
+        indexes["keywords"] = import_keywords(conn, db_path, source_date)
+        indexes["meta_tiers"] = import_meta_tiers(conn, db_path, source_date)
+        indexes["op_schedule"] = import_schedule(conn, db_path, source_date)
+        indexes["competitive_players_db"] = import_players(conn, db_path, source_date)
+        indexes["guides"] = import_guides(conn, db_path, source_date)
+        indexes["content_creators"] = import_creators(conn, db_path, source_date)
+        indexes["community_posts"] = import_community_posts(conn, db_path, source_date)
+        indexes["bookmark_intel"] = import_bookmark_intel(conn, db_path, source_date)
+
+    for name, payload in indexes.items():
+        write_json(ROOT / "data" / "indexes" / f"{name}.json", payload)
+
+    summary = {
+        "source_path": str(db_path),
+        "source_date": source_date,
+        "counts": {name: len(payload) for name, payload in indexes.items()},
+        "taxonomy": {
+            "legends": len(load_json(ROOT / "data" / "taxonomy" / "legends.json", [])),
+            "battlefields": len(load_json(ROOT / "data" / "taxonomy" / "battlefields.json", [])),
+        },
+    }
+    write_json(ROOT / "data" / "indexes" / "legacy_db_summary.json", summary)
+    rebuild_indexes()
+
+
+if __name__ == "__main__":
+    main()

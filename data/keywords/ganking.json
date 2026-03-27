@@ -1,0 +1,23 @@
+{
+  "id": "keyword.ganking",
+  "type": "keyword_record",
+  "title": "Ganking",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Passive Ability"
+  ],
+  "record": {
+    "keyword": "Ganking",
+    "rule_number": "736",
+    "keyword_type": "Passive Ability",
+    "applies_to": "Units",
+    "short_description": "Can move battlefield to battlefield",
+    "functional_text": "I may move to a battlefield from another battlefield.",
+    "notes": "Adds option to Standard Move. No activation cost. Multiple instances redundant."
+  }
+}

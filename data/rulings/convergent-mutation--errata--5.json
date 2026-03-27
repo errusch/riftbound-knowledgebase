@@ -1,0 +1,26 @@
+{
+  "id": "ruling.convergent-mutation--errata--5",
+  "type": "ruling_record",
+  "title": "Convergent Mutation (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "convergent-mutation"
+  ],
+  "record": {
+    "id": 5,
+    "card_name": "Convergent Mutation",
+    "ruling_type": "errata",
+    "old_text": null,
+    "new_text": "Choose a friendly unit. This turn, increase its Might to the Might of another friendly unit.",
+    "explanation": "Added 'this turn'",
+    "source_doc": "Origins Card Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/",
+    "effective_date": "2025-11-04"
+  }
+}

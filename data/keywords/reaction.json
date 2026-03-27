@@ -1,0 +1,23 @@
+{
+  "id": "keyword.reaction",
+  "type": "keyword_record",
+  "title": "Reaction",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Permissive"
+  ],
+  "record": {
+    "keyword": "Reaction",
+    "rule_number": "739",
+    "keyword_type": "Permissive",
+    "applies_to": "Spells, Units, Abilities",
+    "short_description": "Can be played anytime including closed states",
+    "functional_text": "Grants all Action permissions plus: can be played/activated during Closed States on any player's turn.",
+    "notes": "Superset of Action. Does not alter function, only grants permission."
+  }
+}

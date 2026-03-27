@@ -1,0 +1,26 @@
+{
+  "id": "ruling.clockwork-keeper--errata--4",
+  "type": "ruling_record",
+  "title": "Clockwork Keeper (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "clockwork-keeper"
+  ],
+  "record": {
+    "id": 4,
+    "card_name": "Clockwork Keeper",
+    "ruling_type": "errata",
+    "old_text": "As you play me, you may pay [C] as an additional cost. If you do, draw 1.",
+    "new_text": "You may pay [C] as an additional cost to play me. When you play me, if you paid the additional cost, draw 1.",
+    "explanation": null,
+    "source_doc": "Origins Card Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/",
+    "effective_date": "2025-11-04"
+  }
+}

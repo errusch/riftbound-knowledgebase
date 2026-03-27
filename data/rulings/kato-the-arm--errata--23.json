@@ -1,0 +1,26 @@
+{
+  "id": "ruling.kato-the-arm--errata--23",
+  "type": "ruling_record",
+  "title": "Kato the Arm (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "kato-the-arm"
+  ],
+  "record": {
+    "id": 23,
+    "card_name": "Kato the Arm",
+    "ruling_type": "errata",
+    "old_text": "give a friendly unit my keywords",
+    "new_text": "give another friendly unit my keywords",
+    "explanation": "Can't throw himself",
+    "source_doc": "Spiritforged Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+    "effective_date": "2026-01-14"
+  }
+}

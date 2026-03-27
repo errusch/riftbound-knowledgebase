@@ -1,0 +1,506 @@
+[
+  {
+    "id": "meta_tier.ahri",
+    "type": "meta_snapshot",
+    "title": "Ahri",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "ahri"
+    ],
+    "path": "data/meta-tiers/ahri.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 4
+  },
+  {
+    "id": "meta_tier.annie",
+    "type": "meta_snapshot",
+    "title": "Annie",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "annie"
+    ],
+    "path": "data/meta-tiers/annie.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 1
+  },
+  {
+    "id": "meta_tier.azir",
+    "type": "meta_snapshot",
+    "title": "Azir",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "azir"
+    ],
+    "path": "data/meta-tiers/azir.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 2
+  },
+  {
+    "id": "meta_tier.darius",
+    "type": "meta_snapshot",
+    "title": "Darius",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "darius"
+    ],
+    "path": "data/meta-tiers/darius.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 3
+  },
+  {
+    "id": "meta_tier.draven",
+    "type": "meta_snapshot",
+    "title": "Draven",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "draven"
+    ],
+    "path": "data/meta-tiers/draven.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 1
+  },
+  {
+    "id": "meta_tier.ezreal",
+    "type": "meta_snapshot",
+    "title": "Ezreal",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "ezreal"
+    ],
+    "path": "data/meta-tiers/ezreal.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 1
+  },
+  {
+    "id": "meta_tier.fiora",
+    "type": "meta_snapshot",
+    "title": "Fiora",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "fiora"
+    ],
+    "path": "data/meta-tiers/fiora.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 1
+  },
+  {
+    "id": "meta_tier.garen",
+    "type": "meta_snapshot",
+    "title": "Garen",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "garen"
+    ],
+    "path": "data/meta-tiers/garen.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 4
+  },
+  {
+    "id": "meta_tier.irelia",
+    "type": "meta_snapshot",
+    "title": "Irelia",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "irelia"
+    ],
+    "path": "data/meta-tiers/irelia.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 1
+  },
+  {
+    "id": "meta_tier.jax",
+    "type": "meta_snapshot",
+    "title": "Jax",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "jax"
+    ],
+    "path": "data/meta-tiers/jax.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 3
+  },
+  {
+    "id": "meta_tier.jinx",
+    "type": "meta_snapshot",
+    "title": "Jinx",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "jinx"
+    ],
+    "path": "data/meta-tiers/jinx.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 4
+  },
+  {
+    "id": "meta_tier.kai-sa",
+    "type": "meta_snapshot",
+    "title": "Kai'Sa",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "kai-sa"
+    ],
+    "path": "data/meta-tiers/kai-sa.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 1
+  },
+  {
+    "id": "meta_tier.lee-sin",
+    "type": "meta_snapshot",
+    "title": "Lee Sin",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "lee-sin"
+    ],
+    "path": "data/meta-tiers/lee-sin.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 4
+  },
+  {
+    "id": "meta_tier.leona",
+    "type": "meta_snapshot",
+    "title": "Leona",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "leona"
+    ],
+    "path": "data/meta-tiers/leona.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 4
+  },
+  {
+    "id": "meta_tier.lucian",
+    "type": "meta_snapshot",
+    "title": "Lucian",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "lucian"
+    ],
+    "path": "data/meta-tiers/lucian.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 2
+  },
+  {
+    "id": "meta_tier.lux",
+    "type": "meta_snapshot",
+    "title": "Lux",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "lux"
+    ],
+    "path": "data/meta-tiers/lux.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 4
+  },
+  {
+    "id": "meta_tier.master-yi",
+    "type": "meta_snapshot",
+    "title": "Master Yi",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "master-yi"
+    ],
+    "path": "data/meta-tiers/master-yi.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 2
+  },
+  {
+    "id": "meta_tier.miss-fortune",
+    "type": "meta_snapshot",
+    "title": "Miss Fortune",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "miss-fortune"
+    ],
+    "path": "data/meta-tiers/miss-fortune.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 2
+  },
+  {
+    "id": "meta_tier.ornn",
+    "type": "meta_snapshot",
+    "title": "Ornn",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "ornn"
+    ],
+    "path": "data/meta-tiers/ornn.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 3
+  },
+  {
+    "id": "meta_tier.rek-sai",
+    "type": "meta_snapshot",
+    "title": "Rek'Sai",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "rek-sai"
+    ],
+    "path": "data/meta-tiers/rek-sai.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 3
+  },
+  {
+    "id": "meta_tier.renata-glasc",
+    "type": "meta_snapshot",
+    "title": "Renata Glasc",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "renata-glasc"
+    ],
+    "path": "data/meta-tiers/renata-glasc.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 4
+  },
+  {
+    "id": "meta_tier.rumble",
+    "type": "meta_snapshot",
+    "title": "Rumble",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "rumble"
+    ],
+    "path": "data/meta-tiers/rumble.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 4
+  },
+  {
+    "id": "meta_tier.sett",
+    "type": "meta_snapshot",
+    "title": "Sett",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "sett"
+    ],
+    "path": "data/meta-tiers/sett.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 2
+  },
+  {
+    "id": "meta_tier.sivir",
+    "type": "meta_snapshot",
+    "title": "Sivir",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "sivir"
+    ],
+    "path": "data/meta-tiers/sivir.json",
+    "snapshot_count": 1,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 2
+  },
+  {
+    "id": "meta_tier.teemo",
+    "type": "meta_snapshot",
+    "title": "Teemo",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "teemo"
+    ],
+    "path": "data/meta-tiers/teemo.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 2
+  },
+  {
+    "id": "meta_tier.viktor",
+    "type": "meta_snapshot",
+    "title": "Viktor",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "viktor"
+    ],
+    "path": "data/meta-tiers/viktor.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 3
+  },
+  {
+    "id": "meta_tier.volibear",
+    "type": "meta_snapshot",
+    "title": "Volibear",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "volibear"
+    ],
+    "path": "data/meta-tiers/volibear.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 4
+  },
+  {
+    "id": "meta_tier.yasuo",
+    "type": "meta_snapshot",
+    "title": "Yasuo",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "meta-tier",
+      "yasuo"
+    ],
+    "path": "data/meta-tiers/yasuo.json",
+    "snapshot_count": 2,
+    "latest_snapshot": "2026-02-27",
+    "latest_tier": 3
+  }
+]

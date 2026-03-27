@@ -1,0 +1,23 @@
+{
+  "id": "keyword.legion",
+  "type": "keyword_record",
+  "title": "Legion",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Conditional"
+  ],
+  "record": {
+    "keyword": "Legion",
+    "rule_number": "738",
+    "keyword_type": "Conditional",
+    "applies_to": "Spells, Units, Abilities",
+    "short_description": "Bonus if you played another card this turn",
+    "functional_text": "On spells/play effects: If you played another Main Deck card this turn, apply [Text]. On other abilities: If you played a Main Deck card this turn, apply [Text].",
+    "notes": "All Legion instances satisfied by one card play. Runes are not Main Deck cards."
+  }
+}

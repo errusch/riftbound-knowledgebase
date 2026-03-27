@@ -1,0 +1,23 @@
+{
+  "id": "keyword.weaponmaster",
+  "type": "keyword_record",
+  "title": "Weaponmaster",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Triggered Ability"
+  ],
+  "record": {
+    "keyword": "Weaponmaster",
+    "rule_number": "747",
+    "keyword_type": "Triggered Ability",
+    "applies_to": "Units",
+    "short_description": "Equip on play at discount",
+    "functional_text": "When you play me, choose an Equipment you control. Pay its Equip cost reduced by [A] to attach it to me.",
+    "notes": "ALWAYS OPTIONAL (reminder text correct, rules text misleading). Can choose Equipment without Equip ability. Multiple instances trigger separately."
+  }
+}

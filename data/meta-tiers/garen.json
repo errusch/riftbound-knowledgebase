@@ -1,0 +1,39 @@
+{
+  "id": "meta_tier.garen",
+  "type": "meta_snapshot",
+  "title": "Garen",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "meta-tier",
+    "garen"
+  ],
+  "record": {
+    "legend": "Garen",
+    "snapshots": [
+      {
+        "id": 28,
+        "legend": "Garen",
+        "tier": 4,
+        "set_context": "Spiritforged",
+        "trend": null,
+        "snapshot_date": "2026-02-27",
+        "source": "riftbound.gg",
+        "source_url": "https://riftbound.gg/tier-list/"
+      },
+      {
+        "id": 44,
+        "legend": "Garen",
+        "tier": 4,
+        "set_context": "Origins",
+        "trend": null,
+        "snapshot_date": "2026-02-27",
+        "source": "riftbound.gg",
+        "source_url": "https://riftbound.gg/tier-list/"
+      }
+    ]
+  }
+}

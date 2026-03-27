@@ -1,0 +1,27 @@
+{
+  "id": "op_schedule.s2-reg-nanjing-2026",
+  "type": "schedule_record",
+  "title": "S2 Regional Open Nanjing",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "op-schedule",
+    "china_regional",
+    "completed"
+  ],
+  "record": {
+    "event_id": "s2_reg_nanjing_2026",
+    "event_name": "S2 Regional Open Nanjing",
+    "event_type": "china_regional",
+    "location": "Nanjing",
+    "venue": null,
+    "country": "China",
+    "dates": "2026-02-06",
+    "status": "completed",
+    "notes": "508 players",
+    "source_url": null
+  }
+}

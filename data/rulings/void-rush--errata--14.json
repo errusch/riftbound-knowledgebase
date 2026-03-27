@@ -1,0 +1,26 @@
+{
+  "id": "ruling.void-rush--errata--14",
+  "type": "ruling_record",
+  "title": "Void Rush (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "void-rush"
+  ],
+  "record": {
+    "id": 14,
+    "card_name": "Void Rush",
+    "ruling_type": "errata",
+    "old_text": null,
+    "new_text": "Reveal the top 2 cards of your Main Deck. You may banish one, then play it, reducing its cost by [2]. Draw any you didn't banish.",
+    "explanation": "Banish before playing",
+    "source_doc": "Spiritforged Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+    "effective_date": "2026-01-14"
+  }
+}

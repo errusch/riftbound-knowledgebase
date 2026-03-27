@@ -1,0 +1,26 @@
+{
+  "id": "ruling.svellsongur--ruling--29",
+  "type": "ruling_record",
+  "title": "Svellsongur (ruling)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "ruling",
+    "svellsongur"
+  ],
+  "record": {
+    "id": 29,
+    "card_name": "Svellsongur",
+    "ruling_type": "ruling",
+    "old_text": null,
+    "new_text": null,
+    "explanation": "Only copies printed text, not gained text. 3 Svellsongur = 4 instances total, not 8. Aphelios: each copy of his ability tracks 'chosen this turn' separately.",
+    "source_doc": "Spiritforged FAQ",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
+    "effective_date": "2026-01-14"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ruling.blind-fury--errata--3",
+  "type": "ruling_record",
+  "title": "Blind Fury (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "blind-fury"
+  ],
+  "record": {
+    "id": 3,
+    "card_name": "Blind Fury",
+    "ruling_type": "errata",
+    "old_text": null,
+    "new_text": "Each opponent reveals the top card of their Main Deck. Choose one and banish it, then play it, ignoring its cost. Then recycle the rest.",
+    "explanation": "Banish before playing for bookkeeping",
+    "source_doc": "Origins Card Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/",
+    "effective_date": "2025-11-04"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "keyword.deathknell",
+  "type": "keyword_record",
+  "title": "Deathknell",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Triggered Ability"
+  ],
+  "record": {
+    "keyword": "Deathknell",
+    "rule_number": "734",
+    "keyword_type": "Triggered Ability",
+    "applies_to": "Permanents",
+    "short_description": "Effect on death",
+    "functional_text": "When I die, [Effect].",
+    "notes": "Triggers when killed and sent to trash. Does NOT trigger if death is replaced (e.g. recall). Each instance triggers separately."
+  }
+}

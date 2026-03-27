@@ -1,0 +1,31 @@
+{
+  "id": "player.zent",
+  "type": "player_record",
+  "title": "Zent",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "competitive-player",
+    "annie-dark-child"
+  ],
+  "record": {
+    "player_name": "Zent",
+    "x_handle": "3rd\u20134th",
+    "confidence": "Annie, Dark Child",
+    "events": "[@Zentinelq](https://x.com/Zentinelq)",
+    "notes": "**HIGH**",
+    "main_legend": "Annie, Dark Child",
+    "tournament_results": "Top 4 - Houston RQ (Dec 6-7, 2025, 1123 players)",
+    "content_creator": 0,
+    "source_urls": "https://riftbound.gg/riftbound-top-decks-houston-regional-qualifier-2025/",
+    "source_urls_list": [
+      "https://riftbound.gg/riftbound-top-decks-houston-regional-qualifier-2025/"
+    ],
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  }
+}

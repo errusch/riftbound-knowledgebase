@@ -1,0 +1,578 @@
+[
+  {
+    "id": "player.alanzq1",
+    "type": "player_record",
+    "title": "Alanzq1",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "ezreal-prodigal-explorer"
+    ],
+    "path": "data/players/alanzq1.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.all-other-champions",
+    "type": "player_record",
+    "title": "All other champions",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/all-other-champions.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.annie",
+    "type": "player_record",
+    "title": "Annie",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/annie.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.atroooix",
+    "type": "player_record",
+    "title": "Atroooix",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/atroooix.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.blargh1111",
+    "type": "player_record",
+    "title": "Blargh1111",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "master-yi-wuju-bladesman"
+    ],
+    "path": "data/players/blargh1111.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.champion",
+    "type": "player_record",
+    "title": "Champion",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/champion.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.clyde",
+    "type": "player_record",
+    "title": "Clyde",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "master-yi-wuju-bladesman"
+    ],
+    "path": "data/players/clyde.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.crazil",
+    "type": "player_record",
+    "title": "Crazil",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/crazil.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.dhawally",
+    "type": "player_record",
+    "title": "Dhawally",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "annie-dark-child"
+    ],
+    "path": "data/players/dhawally.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.draven",
+    "type": "player_record",
+    "title": "Draven",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/draven.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.ezreal",
+    "type": "player_record",
+    "title": "Ezreal",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/ezreal.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.ghosterdriver",
+    "type": "player_record",
+    "title": "Ghosterdriver",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "viktor-herald-of-the-arcane"
+    ],
+    "path": "data/players/ghosterdriver.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.irelia",
+    "type": "player_record",
+    "title": "Irelia",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/irelia.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.jibbsuk",
+    "type": "player_record",
+    "title": "JibbsUK",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/jibbsuk.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.kai-sa",
+    "type": "player_record",
+    "title": "Kai'Sa",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/kai-sa.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.m4rcus99",
+    "type": "player_record",
+    "title": "M4rcus99",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "draven-glorious-executioner"
+    ],
+    "path": "data/players/m4rcus99.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.marshall",
+    "type": "player_record",
+    "title": "Marshall",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/marshall.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.master-yi",
+    "type": "player_record",
+    "title": "Master Yi",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/master-yi.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.miss-fortune",
+    "type": "player_record",
+    "title": "Miss Fortune",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/miss-fortune.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.name",
+    "type": "player_record",
+    "title": "Name",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/name.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.noveggies",
+    "type": "player_record",
+    "title": "NoVeggies",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "annie-dark-child"
+    ],
+    "path": "data/players/noveggies.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.person",
+    "type": "player_record",
+    "title": "Person",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/person.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.plus",
+    "type": "player_record",
+    "title": "Plus",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/plus.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.prismaticismism",
+    "type": "player_record",
+    "title": "Prismaticismism",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "draven-glorious-executioner-teemo-swift-scout"
+    ],
+    "path": "data/players/prismaticismism.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.prymor",
+    "type": "player_record",
+    "title": "Prymor",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "annie-dark-child"
+    ],
+    "path": "data/players/prymor.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.randyyy",
+    "type": "player_record",
+    "title": "Randyyy",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "draven-glorious-executioner-irelia-kai-sa-sivir"
+    ],
+    "path": "data/players/randyyy.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.sebiqqqqqqqqqqqq",
+    "type": "player_record",
+    "title": "SEBIQQQQQQQQQQQQ",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "miss-fortune-bounty-hunter"
+    ],
+    "path": "data/players/sebiqqqqqqqqqqqq.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.savjz",
+    "type": "player_record",
+    "title": "Savjz",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "sett-the-boss"
+    ],
+    "path": "data/players/savjz.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.soul",
+    "type": "player_record",
+    "title": "SouL",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/soul.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.themanlandrft",
+    "type": "player_record",
+    "title": "TheManLandRFT",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "ezreal-prodigal-explorer"
+    ],
+    "path": "data/players/themanlandrft.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.viktor",
+    "type": "player_record",
+    "title": "Viktor",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "item"
+    ],
+    "path": "data/players/viktor.json",
+    "quality_flags": []
+  },
+  {
+    "id": "player.zent",
+    "type": "player_record",
+    "title": "Zent",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "annie-dark-child"
+    ],
+    "path": "data/players/zent.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.georgeg",
+    "type": "player_record",
+    "title": "georgeg",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "kai-sa-daughter-of-the-void"
+    ],
+    "path": "data/players/georgeg.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  },
+  {
+    "id": "player.krowz",
+    "type": "player_record",
+    "title": "krowz",
+    "source_kind": "legacy_local_knowledge_db",
+    "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "competitive-player",
+      "irelia-blade-dancer"
+    ],
+    "path": "data/players/krowz.json",
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  }
+]

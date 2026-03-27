@@ -1,0 +1,51 @@
+{
+  "id": "price_history.ogs--singularity",
+  "type": "price_record",
+  "title": "Singularity (OGS)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "OGS",
+    "singularity"
+  ],
+  "record": {
+    "card_name": "Singularity",
+    "set_id": "OGS",
+    "latest": {
+      "card_name": "Singularity",
+      "set_id": "OGS",
+      "tcgplayer_id": "652886",
+      "market_price": 2.89,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-03-01"
+    },
+    "history": [
+      {
+        "card_name": "Singularity",
+        "set_id": "OGS",
+        "tcgplayer_id": "652886",
+        "market_price": 3.18,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      },
+      {
+        "card_name": "Singularity",
+        "set_id": "OGS",
+        "tcgplayer_id": "652886",
+        "market_price": 2.89,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-03-01"
+      }
+    ]
+  }
+}

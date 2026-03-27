@@ -1,0 +1,27 @@
+{
+  "id": "op_schedule.rq-barcelona-2026",
+  "type": "schedule_record",
+  "title": "RQ Barcelona",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "op-schedule",
+    "regional_qualifier",
+    "upcoming"
+  ],
+  "record": {
+    "event_id": "rq_barcelona_2026",
+    "event_name": "RQ Barcelona",
+    "event_type": "regional_qualifier",
+    "location": "Barcelona, Spain",
+    "venue": "Fira Barcelona",
+    "country": "Spain",
+    "dates": "2026-08-21 to 2026-08-23",
+    "status": "upcoming",
+    "notes": "On-sale Jul 6",
+    "source_url": null
+  }
+}

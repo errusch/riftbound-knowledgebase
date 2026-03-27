@@ -1,0 +1,491 @@
+{
+  "id": "tournament.good-af-games-riftbound-locals",
+  "type": "tournament_record",
+  "title": "Good AF Games Riftbound Locals",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "tournament",
+    "Constructed",
+    "covington"
+  ],
+  "record": {
+    "tid": "good-af-games-riftbound-locals",
+    "name": "Good AF Games Riftbound Locals",
+    "start_date": 1763598600,
+    "format": "Constructed",
+    "swiss_rounds": 3,
+    "top_cut": 0,
+    "participants": 10,
+    "city": "Covington",
+    "state": "Louisiana",
+    "location": "2033 N Hwy 190 ste 8, Covington, LA 70433, USA",
+    "country": null
+  },
+  "rounds": [
+    {
+      "id": 872,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "1",
+      "table_num": 1,
+      "player1_name": "Brett Ray",
+      "player1_id": "Bix9MzR6spQdYwZkfgc5IXhLu9B2",
+      "player2_name": "Connor Rushing",
+      "player2_id": "ElWJ4rfqt5bPxtk0W7oJ4kAANAQ2",
+      "winner": "Brett Ray",
+      "status": "Completed"
+    },
+    {
+      "id": 873,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "1",
+      "table_num": 2,
+      "player1_name": "Christian Billingsley",
+      "player1_id": "END9ly2MEMhVGNApTkjFkezYOzZ2",
+      "player2_name": "Casey Jones",
+      "player2_id": "5F41RNBQk0h1Q1n30s3mb8LJBo92",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 874,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "1",
+      "table_num": 3,
+      "player1_name": "Luke Garbo",
+      "player1_id": "BOa9ibWzpsWqLOhGZTYwBzGup8p1",
+      "player2_name": "Zachary Bordelon",
+      "player2_id": "mTf9uBAgFjPFIcqEDDw19IdSxY72",
+      "winner": "Zachary Bordelon",
+      "status": "Completed"
+    },
+    {
+      "id": 875,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "1",
+      "table_num": 4,
+      "player1_name": "Cameron Tumminello ",
+      "player1_id": "xvIsCJaxe2byqg7YTCFFPtxZ33H3",
+      "player2_name": "Kyle colosino",
+      "player2_id": "KA1PcWczTAMJiciuGJfXZKn8Qqs1",
+      "winner": "Kyle colosino",
+      "status": "Completed"
+    },
+    {
+      "id": 876,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "1",
+      "table_num": 5,
+      "player1_name": "Tyler Witt",
+      "player1_id": "lGhOBR7pdrg4CkB9wBMvd3iy0el1",
+      "player2_name": "Steven Berberian",
+      "player2_id": "PgYDTg5Q1DZJv44M1GvyLjCyBBy1",
+      "winner": "Tyler Witt",
+      "status": "Completed"
+    },
+    {
+      "id": 877,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "2",
+      "table_num": 1,
+      "player1_name": "Tyler Witt",
+      "player1_id": "lGhOBR7pdrg4CkB9wBMvd3iy0el1",
+      "player2_name": "Kyle colosino",
+      "player2_id": "KA1PcWczTAMJiciuGJfXZKn8Qqs1",
+      "winner": "Kyle colosino",
+      "status": "Completed"
+    },
+    {
+      "id": 878,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "2",
+      "table_num": 2,
+      "player1_name": "Zachary Bordelon",
+      "player1_id": "mTf9uBAgFjPFIcqEDDw19IdSxY72",
+      "player2_name": "Brett Ray",
+      "player2_id": "Bix9MzR6spQdYwZkfgc5IXhLu9B2",
+      "winner": "Zachary Bordelon",
+      "status": "Completed"
+    },
+    {
+      "id": 879,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "2",
+      "table_num": 3,
+      "player1_name": "Casey Jones",
+      "player1_id": "5F41RNBQk0h1Q1n30s3mb8LJBo92",
+      "player2_name": "Luke Garbo",
+      "player2_id": "BOa9ibWzpsWqLOhGZTYwBzGup8p1",
+      "winner": "Casey Jones",
+      "status": "Completed"
+    },
+    {
+      "id": 880,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "2",
+      "table_num": 4,
+      "player1_name": "Christian Billingsley",
+      "player1_id": "END9ly2MEMhVGNApTkjFkezYOzZ2",
+      "player2_name": "Connor Rushing",
+      "player2_id": "ElWJ4rfqt5bPxtk0W7oJ4kAANAQ2",
+      "winner": "Connor Rushing",
+      "status": "Completed"
+    },
+    {
+      "id": 881,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "2",
+      "table_num": 5,
+      "player1_name": "Cameron Tumminello ",
+      "player1_id": "xvIsCJaxe2byqg7YTCFFPtxZ33H3",
+      "player2_name": "Steven Berberian",
+      "player2_id": "PgYDTg5Q1DZJv44M1GvyLjCyBBy1",
+      "winner": "Cameron Tumminello ",
+      "status": "Completed"
+    },
+    {
+      "id": 882,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "3",
+      "table_num": 1,
+      "player1_name": "Kyle colosino",
+      "player1_id": "KA1PcWczTAMJiciuGJfXZKn8Qqs1",
+      "player2_name": "Zachary Bordelon",
+      "player2_id": "mTf9uBAgFjPFIcqEDDw19IdSxY72",
+      "winner": "Kyle colosino",
+      "status": "Completed"
+    },
+    {
+      "id": 883,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "3",
+      "table_num": 2,
+      "player1_name": "Casey Jones",
+      "player1_id": "5F41RNBQk0h1Q1n30s3mb8LJBo92",
+      "player2_name": "Tyler Witt",
+      "player2_id": "lGhOBR7pdrg4CkB9wBMvd3iy0el1",
+      "winner": "Casey Jones",
+      "status": "Completed"
+    },
+    {
+      "id": 884,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "3",
+      "table_num": 3,
+      "player1_name": "Connor Rushing",
+      "player1_id": "ElWJ4rfqt5bPxtk0W7oJ4kAANAQ2",
+      "player2_name": "Cameron Tumminello ",
+      "player2_id": "xvIsCJaxe2byqg7YTCFFPtxZ33H3",
+      "winner": "Cameron Tumminello ",
+      "status": "Completed"
+    },
+    {
+      "id": 885,
+      "tid": "good-af-games-riftbound-locals",
+      "round": "3",
+      "table_num": 4,
+      "player1_name": "Brett Ray",
+      "player1_id": "Bix9MzR6spQdYwZkfgc5IXhLu9B2",
+      "player2_name": "Christian Billingsley",
+      "player2_id": "END9ly2MEMhVGNApTkjFkezYOzZ2",
+      "winner": "Brett Ray",
+      "status": "Completed"
+    }
+  ],
+  "standings": [
+    {
+      "id": 530,
+      "tid": "good-af-games-riftbound-locals",
+      "player_name": "Kyle colosino",
+      "player_id": "KA1PcWczTAMJiciuGJfXZKn8Qqs1",
+      "placement": 1,
+      "wins": 3,
+      "wins_swiss": 3,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 531,
+      "tid": "good-af-games-riftbound-locals",
+      "player_name": "Casey Jones",
+      "player_id": "5F41RNBQk0h1Q1n30s3mb8LJBo92",
+      "placement": 2,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 532,
+      "tid": "good-af-games-riftbound-locals",
+      "player_name": "Zachary Bordelon",
+      "player_id": "mTf9uBAgFjPFIcqEDDw19IdSxY72",
+      "placement": 3,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 533,
+      "tid": "good-af-games-riftbound-locals",
+      "player_name": "Cameron Tumminello ",
+      "player_id": "xvIsCJaxe2byqg7YTCFFPtxZ33H3",
+      "placement": 4,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 534,
+      "tid": "good-af-games-riftbound-locals",
+      "player_name": "Brett Ray",
+      "player_id": "Bix9MzR6spQdYwZkfgc5IXhLu9B2",
+      "placement": 5,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 535,
+      "tid": "good-af-games-riftbound-locals",
+      "player_name": "Tyler Witt",
+      "player_id": "lGhOBR7pdrg4CkB9wBMvd3iy0el1",
+      "placement": 6,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 536,
+      "tid": "good-af-games-riftbound-locals",
+      "player_name": "Connor Rushing",
+      "player_id": "ElWJ4rfqt5bPxtk0W7oJ4kAANAQ2",
+      "placement": 7,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Jinx, Loose Cannon\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n2 Blazing Scorcher\\n3 Brazen Buccaneer\\n2 Cemetery Attendant\\n3 Chemtech Enforcer\\n2 Fading Memories\\n3 Fight or Flight\\n3 Flame Chompers\\n2 Get Excited!\\n3 Gust\\n1 Jinx, Demolitionist\\n1 Magma Wurm\\n3 Raging Soul\\n1 Rhasa the Sunderer\\n3 Scrapheap\\n3 Traveling Merchant\\n2 Undercover Agent\\n1 Vi, Destructive\\n2 Void Seeker\\n\\n",
+      "deck_obj": "{\"Legend\": {\"Jinx, Loose Cannon\": {\"id\": \"70ee0cd4-439a-4d00-8695-dd4c3d3aae65\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"e75bfba1-b43c-4b1c-a6ad-217b5a4f585b\", \"count\": 6}, \"Fury Rune\": {\"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\", \"count\": 6}}, \"Battlefields\": {\"Reaver's Row\": {\"id\": \"eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708\", \"count\": 1}, \"Targon's Peak\": {\"id\": \"29dea928-295d-4832-9bc1-91672389cf59\", \"count\": 1}, \"Zaun Warrens\": {\"id\": \"01a67a97-72cd-4481-8a08-9a53678373ec\", \"count\": 1}}, \"Mainboard\": {\"Blazing Scorcher\": {\"id\": \"407ac0be-6101-469d-ac6e-154c21d5ee9c\", \"count\": 2}, \"Brazen Buccaneer\": {\"id\": \"96cec5a8-94a7-487f-badd-a5c9297faa2f\", \"count\": 3}, \"Cemetery Attendant\": {\"id\": \"717cbce0-db47-41e0-88fb-b40b182ee0a4\", \"count\": 2}, \"Chemtech Enforcer\": {\"id\": \"fa083008-ad34-43b1-9e69-fccf5c4976f9\", \"count\": 3}, \"Fading Memories\": {\"id\": \"6f7dc5a6-803e-4a9b-b57a-4620105dd0c2\", \"count\": 2}, \"Fight or Flight\": {\"id\": \"eb2880cb-c0d2-4f2c-8491-e22f9252eac1\", \"count\": 3}, \"Flame Chompers\": {\"id\": \"8a1c2b32-fa93-4b57-ba43-82d372702c77\", \"count\": 3}, \"Get Excited!\": {\"id\": \"0b0470b2-a7f4-4ea3-8ab3-17b71f02a7b6\", \"count\": 2}, \"Gust\": {\"id\": \"c35e1ec8-00aa-49b5-b9ed-df8072802c80\", \"count\": 3}, \"Jinx, Demolitionist\": {\"id\": \"5efdd571-5dd4-459b-902a-fd84f2957b9c\", \"count\": 1}, \"Magma Wurm\": {\"id\": \"e9e33d49-b91b-4d43-ae20-60fd56c5b731\", \"count\": 1}, \"Raging Soul\": {\"id\": \"4e1a531f-018f-4c71-9ed4-ff4dc4b145bc\", \"count\": 3}, \"Rhasa the Sunderer\": {\"id\": \"6b1fc7aa-ee37-4d5d-b41b-3b00f86364e0\", \"count\": 1}, \"Scrapheap\": {\"id\": \"2e3d7e7e-6a5f-40ca-bc73-2351dfd66f84\", \"count\": 3}, \"Traveling Merchant\": {\"id\": \"3eee0878-9fb5-4e7d-9fc1-c990162716c6\", \"count\": 3}, \"Undercover Agent\": {\"id\": \"5020bc22-56a7-451b-926e-0032e7fe6fec\", \"count\": 2}, \"Vi, Destructive\": {\"id\": \"4a10b30f-22fa-4e09-803b-a375e361a905\", \"count\": 1}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Jinx, Loose Cannon": {
+            "id": "70ee0cd4-439a-4d00-8695-dd4c3d3aae65",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "e75bfba1-b43c-4b1c-a6ad-217b5a4f585b",
+            "count": 6
+          },
+          "Fury Rune": {
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Reaver's Row": {
+            "id": "eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708",
+            "count": 1
+          },
+          "Targon's Peak": {
+            "id": "29dea928-295d-4832-9bc1-91672389cf59",
+            "count": 1
+          },
+          "Zaun Warrens": {
+            "id": "01a67a97-72cd-4481-8a08-9a53678373ec",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Blazing Scorcher": {
+            "id": "407ac0be-6101-469d-ac6e-154c21d5ee9c",
+            "count": 2
+          },
+          "Brazen Buccaneer": {
+            "id": "96cec5a8-94a7-487f-badd-a5c9297faa2f",
+            "count": 3
+          },
+          "Cemetery Attendant": {
+            "id": "717cbce0-db47-41e0-88fb-b40b182ee0a4",
+            "count": 2
+          },
+          "Chemtech Enforcer": {
+            "id": "fa083008-ad34-43b1-9e69-fccf5c4976f9",
+            "count": 3
+          },
+          "Fading Memories": {
+            "id": "6f7dc5a6-803e-4a9b-b57a-4620105dd0c2",
+            "count": 2
+          },
+          "Fight or Flight": {
+            "id": "eb2880cb-c0d2-4f2c-8491-e22f9252eac1",
+            "count": 3
+          },
+          "Flame Chompers": {
+            "id": "8a1c2b32-fa93-4b57-ba43-82d372702c77",
+            "count": 3
+          },
+          "Get Excited!": {
+            "id": "0b0470b2-a7f4-4ea3-8ab3-17b71f02a7b6",
+            "count": 2
+          },
+          "Gust": {
+            "id": "c35e1ec8-00aa-49b5-b9ed-df8072802c80",
+            "count": 3
+          },
+          "Jinx, Demolitionist": {
+            "id": "5efdd571-5dd4-459b-902a-fd84f2957b9c",
+            "count": 1
+          },
+          "Magma Wurm": {
+            "id": "e9e33d49-b91b-4d43-ae20-60fd56c5b731",
+            "count": 1
+          },
+          "Raging Soul": {
+            "id": "4e1a531f-018f-4c71-9ed4-ff4dc4b145bc",
+            "count": 3
+          },
+          "Rhasa the Sunderer": {
+            "id": "6b1fc7aa-ee37-4d5d-b41b-3b00f86364e0",
+            "count": 1
+          },
+          "Scrapheap": {
+            "id": "2e3d7e7e-6a5f-40ca-bc73-2351dfd66f84",
+            "count": 3
+          },
+          "Traveling Merchant": {
+            "id": "3eee0878-9fb5-4e7d-9fc1-c990162716c6",
+            "count": 3
+          },
+          "Undercover Agent": {
+            "id": "5020bc22-56a7-451b-926e-0032e7fe6fec",
+            "count": 2
+          },
+          "Vi, Destructive": {
+            "id": "4a10b30f-22fa-4e09-803b-a375e361a905",
+            "count": 1
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Jinx, Loose Cannon\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n2 Blazing Scorcher\\n3 Brazen Buccaneer\\n2 Cemetery Attendant\\n3 Chemtech Enforcer\\n2 Fading Memories\\n3 Fight or Flight\\n3 Flame Chompers\\n2 Get Excited!\\n3 Gust\\n1 Jinx, Demolitionist\\n1 Magma Wurm\\n3 Raging Soul\\n1 Rhasa the Sunderer\\n3 Scrapheap\\n3 Traveling Merchant\\n2 Undercover Agent\\n1 Vi, Destructive\\n2 Void Seeker\\n\\n"
+      ]
+    },
+    {
+      "id": 537,
+      "tid": "good-af-games-riftbound-locals",
+      "player_name": "Christian Billingsley",
+      "player_id": "END9ly2MEMhVGNApTkjFkezYOzZ2",
+      "placement": 8,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 538,
+      "tid": "good-af-games-riftbound-locals",
+      "player_name": "Luke Garbo",
+      "player_id": "BOa9ibWzpsWqLOhGZTYwBzGup8p1",
+      "placement": 9,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 539,
+      "tid": "good-af-games-riftbound-locals",
+      "player_name": "Steven Berberian",
+      "player_id": "PgYDTg5Q1DZJv44M1GvyLjCyBBy1",
+      "placement": 10,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    }
+  ]
+}

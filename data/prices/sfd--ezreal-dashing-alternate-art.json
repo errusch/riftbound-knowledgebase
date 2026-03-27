@@ -1,0 +1,41 @@
+{
+  "id": "price_history.sfd--ezreal-dashing-alternate-art",
+  "type": "price_record",
+  "title": "Ezreal - Dashing (Alternate Art) (SFD)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "SFD",
+    "ezreal-dashing-alternate-art"
+  ],
+  "record": {
+    "card_name": "Ezreal - Dashing (Alternate Art)",
+    "set_id": "SFD",
+    "latest": {
+      "card_name": "Ezreal - Dashing (Alternate Art)",
+      "set_id": "SFD",
+      "tcgplayer_id": "666446",
+      "market_price": 2.17,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-02-27"
+    },
+    "history": [
+      {
+        "card_name": "Ezreal - Dashing (Alternate Art)",
+        "set_id": "SFD",
+        "tcgplayer_id": "666446",
+        "market_price": 2.17,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

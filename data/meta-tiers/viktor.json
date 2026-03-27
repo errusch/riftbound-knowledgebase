@@ -1,0 +1,39 @@
+{
+  "id": "meta_tier.viktor",
+  "type": "meta_snapshot",
+  "title": "Viktor",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "meta-tier",
+    "viktor"
+  ],
+  "record": {
+    "legend": "Viktor",
+    "snapshots": [
+      {
+        "id": 10,
+        "legend": "Viktor",
+        "tier": 2,
+        "set_context": "Spiritforged",
+        "trend": null,
+        "snapshot_date": "2026-02-27",
+        "source": "riftbound.gg",
+        "source_url": "https://riftbound.gg/tier-list/"
+      },
+      {
+        "id": 35,
+        "legend": "Viktor",
+        "tier": 3,
+        "set_context": "Origins",
+        "trend": "down",
+        "snapshot_date": "2026-02-27",
+        "source": "riftbound.gg",
+        "source_url": "https://riftbound.gg/tier-list/"
+      }
+    ]
+  }
+}

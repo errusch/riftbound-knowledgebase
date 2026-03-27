@@ -1,0 +1,33 @@
+{
+  "id": "player.randyyy",
+  "type": "player_record",
+  "title": "Randyyy",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "competitive-player",
+    "draven-glorious-executioner-irelia-kai-sa-sivir"
+  ],
+  "record": {
+    "player_name": "Randyyy",
+    "x_handle": "5th\u20138th",
+    "confidence": "Draven, Glorious Executioner",
+    "events": "[@RandyyyTCG](https://x.com/RandyyyTCG)",
+    "notes": "**HIGH**",
+    "main_legend": "Draven, Glorious Executioner / Irelia / Kai'Sa / Sivir",
+    "tournament_results": "6th - Bologna RQ (Feb 21-22, 2026, 1719 players)",
+    "content_creator": 1,
+    "source_urls": "https://roadoftheking.com/rq-bologna/; https://metafy.gg/@randyyytcg; https://x.com/RandyyyTCG",
+    "source_urls_list": [
+      "https://roadoftheking.com/rq-bologna/",
+      "https://metafy.gg/@randyyytcg",
+      "https://x.com/RandyyyTCG"
+    ],
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  }
+}

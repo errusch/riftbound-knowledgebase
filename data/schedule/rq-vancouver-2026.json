@@ -1,0 +1,27 @@
+{
+  "id": "op_schedule.rq-vancouver-2026",
+  "type": "schedule_record",
+  "title": "RQ Vancouver",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "op-schedule",
+    "regional_qualifier",
+    "upcoming"
+  ],
+  "record": {
+    "event_id": "rq_vancouver_2026",
+    "event_name": "RQ Vancouver",
+    "event_type": "regional_qualifier",
+    "location": "Vancouver, BC",
+    "venue": "Vancouver Convention Centre",
+    "country": "Canada",
+    "dates": "2026-05-29 to 2026-05-31",
+    "status": "upcoming",
+    "notes": "First Canada RQ. On-sale Mar 30",
+    "source_url": null
+  }
+}

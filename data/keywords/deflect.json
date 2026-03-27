@@ -1,0 +1,23 @@
+{
+  "id": "keyword.deflect",
+  "type": "keyword_record",
+  "title": "Deflect",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Passive Ability"
+  ],
+  "record": {
+    "keyword": "Deflect",
+    "rule_number": "735",
+    "keyword_type": "Passive Ability",
+    "applies_to": "Permanents",
+    "short_description": "Opponents pay extra to target",
+    "functional_text": "Spells and abilities an opponent controls that choose me cost [Deflect Value] Power more for each time they choose me.",
+    "notes": "Mandatory additional cost. Multiple instances stack. Power can be any domain. ERRATA: now per-choice, not per-spell (Rule 735.1.c updated in Spiritforged FAQ)."
+  }
+}

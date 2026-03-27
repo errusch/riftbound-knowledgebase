@@ -1,0 +1,27 @@
+{
+  "id": "op_schedule.release-vendetta",
+  "type": "schedule_record",
+  "title": "Vendetta Release",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "op-schedule",
+    "set_release",
+    "upcoming"
+  ],
+  "record": {
+    "event_id": "release_vendetta",
+    "event_name": "Vendetta Release",
+    "event_type": "set_release",
+    "location": null,
+    "venue": null,
+    "country": null,
+    "dates": "2026-07-31",
+    "status": "upcoming",
+    "notes": "Set 4. EN+CN simultaneous. Previews start Jun 22.",
+    "source_url": null
+  }
+}

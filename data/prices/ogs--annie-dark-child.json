@@ -1,0 +1,41 @@
+{
+  "id": "price_history.ogs--annie-dark-child",
+  "type": "price_record",
+  "title": "Annie - Dark Child (OGS)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "OGS",
+    "annie-dark-child"
+  ],
+  "record": {
+    "card_name": "Annie - Dark Child",
+    "set_id": "OGS",
+    "latest": {
+      "card_name": "Annie - Dark Child",
+      "set_id": "OGS",
+      "tcgplayer_id": "680247",
+      "market_price": 48.6,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-02-27"
+    },
+    "history": [
+      {
+        "card_name": "Annie - Dark Child",
+        "set_id": "OGS",
+        "tcgplayer_id": "680247",
+        "market_price": 48.6,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

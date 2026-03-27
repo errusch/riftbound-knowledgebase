@@ -1,0 +1,26 @@
+{
+  "id": "ruling.deflect-rule-735-1-c--rules-change--11",
+  "type": "ruling_record",
+  "title": "Deflect (Rule 735.1.c) (rules_change)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "rules_change",
+    "deflect-rule-735-1-c"
+  ],
+  "record": {
+    "id": 11,
+    "card_name": "Deflect (Rule 735.1.c)",
+    "ruling_type": "rules_change",
+    "old_text": "Deflect cost paid once per spell/ability",
+    "new_text": "Deflect cost paid once per time the target is chosen",
+    "explanation": "Design team intended per-choice, not per-spell. Matters with Repeat and multi-target spells.",
+    "source_doc": "Spiritforged FAQ",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
+    "effective_date": "2026-01-14"
+  }
+}

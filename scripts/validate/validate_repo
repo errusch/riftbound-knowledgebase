@@ -21,9 +21,28 @@ def main() -> None:
         ROOT / "canon" / "tournament" / "tournament-rules-2025-10-16.md",
         ROOT / "canon" / "errata" / "card-errata-set-1-origins.md",
         ROOT / "analysis" / "reference" / "tournament-rules.md",
+        ROOT / "analysis" / "guides",
+        ROOT / "analysis" / "creators",
+        ROOT / "analysis" / "community",
+        ROOT / "analysis" / "intel",
         ROOT / "analysis" / "videos" / "m2IjrsUzXgU" / "review.md",
         ROOT / "data" / "indexes" / "canon_documents.json",
         ROOT / "data" / "indexes" / "cards_full.json",
+        ROOT / "data" / "indexes" / "legacy_db_summary.json",
+        ROOT / "data" / "indexes" / "sets.json",
+        ROOT / "data" / "indexes" / "rulings.json",
+        ROOT / "data" / "indexes" / "official_events.json",
+        ROOT / "data" / "indexes" / "official_decklists.json",
+        ROOT / "data" / "indexes" / "precon_decks.json",
+        ROOT / "data" / "indexes" / "tournaments_db.json",
+        ROOT / "data" / "indexes" / "prices_latest.json",
+        ROOT / "data" / "indexes" / "keywords.json",
+        ROOT / "data" / "indexes" / "meta_tiers.json",
+        ROOT / "data" / "indexes" / "op_schedule.json",
+        ROOT / "data" / "indexes" / "guides.json",
+        ROOT / "data" / "indexes" / "content_creators.json",
+        ROOT / "data" / "indexes" / "community_posts.json",
+        ROOT / "data" / "indexes" / "bookmark_intel.json",
         ROOT / "data" / "indexes" / "decks.json",
         ROOT / "data" / "indexes" / "events.json",
         ROOT / "data" / "indexes" / "videos.json",
@@ -52,6 +71,27 @@ def main() -> None:
     if len(cards_full) < 600:
         fail("Expected at least 600 fully imported local card records.")
 
+    legacy_summary = load_json(ROOT / "data" / "indexes" / "legacy_db_summary.json", {})
+    for key, minimum in {
+        "sets": 6,
+        "rulings": 30,
+        "official_events": 6,
+        "official_decklists": 80,
+        "precon_decks": 4,
+        "tournaments_db": 100,
+        "prices_latest": 600,
+        "keywords": 15,
+        "meta_tiers": 10,
+        "op_schedule": 20,
+        "guides": 60,
+        "content_creators": 10,
+        "community_posts": 20,
+        "bookmark_intel": 100,
+    }.items():
+        actual = legacy_summary.get("counts", {}).get(key, 0)
+        if actual < minimum:
+            fail(f"Legacy DB import index too small for {key}: expected >= {minimum}, got {actual}")
+
     all_objects = load_json(ROOT / "data" / "indexes" / "all_objects.json", [])
     duplicate_root = str(IGNORED_DUPLICATE_ROOT)
     for obj in all_objects + decks + events:
@@ -62,6 +102,10 @@ def main() -> None:
     rules_atoms = load_json(ROOT / "data" / "indexes" / "rules_atoms.json", [])
     if not any("battlefield" in atom.get("text", "").lower() for atom in rules_atoms):
         fail("Rules atom index is missing battlefield-related entries.")
+
+    battlefields = load_json(ROOT / "data" / "taxonomy" / "battlefields.json", [])
+    if len(battlefields) < 30:
+        fail("Battlefield taxonomy should contain at least 30 entries from the full local corpus.")
 
     print("Validation passed.")
 

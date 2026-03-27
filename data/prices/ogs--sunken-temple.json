@@ -1,0 +1,41 @@
+{
+  "id": "price_history.ogs--sunken-temple",
+  "type": "price_record",
+  "title": "Sunken Temple (OGS)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "OGS",
+    "sunken-temple"
+  ],
+  "record": {
+    "card_name": "Sunken Temple",
+    "set_id": "OGS",
+    "latest": {
+      "card_name": "Sunken Temple",
+      "set_id": "OGS",
+      "tcgplayer_id": "666877",
+      "market_price": 0.15,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-02-27"
+    },
+    "history": [
+      {
+        "card_name": "Sunken Temple",
+        "set_id": "OGS",
+        "tcgplayer_id": "666877",
+        "market_price": 0.15,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

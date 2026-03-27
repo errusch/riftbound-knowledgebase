@@ -1,0 +1,41 @@
+{
+  "id": "price_history.ogs--ahri-nine-tailed-fox",
+  "type": "price_record",
+  "title": "Ahri - Nine-Tailed Fox (OGS)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "OGS",
+    "ahri-nine-tailed-fox"
+  ],
+  "record": {
+    "card_name": "Ahri - Nine-Tailed Fox",
+    "set_id": "OGS",
+    "latest": {
+      "card_name": "Ahri - Nine-Tailed Fox",
+      "set_id": "OGS",
+      "tcgplayer_id": "662891",
+      "market_price": 55.49,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-02-27"
+    },
+    "history": [
+      {
+        "card_name": "Ahri - Nine-Tailed Fox",
+        "set_id": "OGS",
+        "tcgplayer_id": "662891",
+        "market_price": 55.49,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

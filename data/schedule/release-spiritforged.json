@@ -1,0 +1,27 @@
+{
+  "id": "op_schedule.release-spiritforged",
+  "type": "schedule_record",
+  "title": "Spiritforged English Release",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "op-schedule",
+    "set_release",
+    "completed"
+  ],
+  "record": {
+    "event_id": "release_spiritforged",
+    "event_name": "Spiritforged English Release",
+    "event_type": "set_release",
+    "location": null,
+    "venue": null,
+    "country": null,
+    "dates": "2026-02-13",
+    "status": "completed",
+    "notes": "Set 2",
+    "source_url": null
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "price_history.sfd--rumble-scrapper",
+  "type": "price_record",
+  "title": "Rumble - Scrapper (SFD)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "SFD",
+    "rumble-scrapper"
+  ],
+  "record": {
+    "card_name": "Rumble - Scrapper",
+    "set_id": "SFD",
+    "latest": {
+      "card_name": "Rumble - Scrapper",
+      "set_id": "SFD",
+      "tcgplayer_id": "666589",
+      "market_price": 1.76,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-02-27"
+    },
+    "history": [
+      {
+        "card_name": "Rumble - Scrapper",
+        "set_id": "SFD",
+        "tcgplayer_id": "666589",
+        "market_price": 1.76,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

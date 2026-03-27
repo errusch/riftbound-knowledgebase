@@ -1,0 +1,23 @@
+{
+  "id": "keyword.vision",
+  "type": "keyword_record",
+  "title": "Vision",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Triggered Ability"
+  ],
+  "record": {
+    "keyword": "Vision",
+    "rule_number": "743",
+    "keyword_type": "Triggered Ability",
+    "applies_to": "Permanents",
+    "short_description": "Scry on play",
+    "functional_text": "When this is played, look at the top card of your Main Deck. You may recycle it.",
+    "notes": "Multiple instances trigger separately. Each instance sees same card if nothing changes between."
+  }
+}

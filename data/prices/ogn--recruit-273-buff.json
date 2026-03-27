@@ -1,0 +1,51 @@
+{
+  "id": "price_history.ogn--recruit-273-buff",
+  "type": "price_record",
+  "title": "Recruit (273) // Buff (OGN)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "OGN",
+    "recruit-273-buff"
+  ],
+  "record": {
+    "card_name": "Recruit (273) // Buff",
+    "set_id": "OGN",
+    "latest": {
+      "card_name": "Recruit (273) // Buff",
+      "set_id": "OGN",
+      "tcgplayer_id": "660171",
+      "market_price": 0.12,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-03-01"
+    },
+    "history": [
+      {
+        "card_name": "Recruit (273) // Buff",
+        "set_id": "OGN",
+        "tcgplayer_id": "660171",
+        "market_price": 0.13,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      },
+      {
+        "card_name": "Recruit (273) // Buff",
+        "set_id": "OGN",
+        "tcgplayer_id": "660171",
+        "market_price": 0.12,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-03-01"
+      }
+    ]
+  }
+}

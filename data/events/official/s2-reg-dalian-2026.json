@@ -1,0 +1,411 @@
+{
+  "id": "official_event.s2-reg-dalian-2026",
+  "type": "event_record",
+  "title": "Season 2 Regional: Dalian",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "official-event",
+    "Spiritforged+Origins"
+  ],
+  "record": {
+    "event_id": "s2_reg_dalian_2026",
+    "event_name": "Season 2 Regional: Dalian",
+    "location": "Dalian, China",
+    "date_start": null,
+    "date_end": null,
+    "player_count": null,
+    "format": "Spiritforged+Origins",
+    "decklist_count": 8
+  },
+  "decklists": [
+    {
+      "id": 77,
+      "event_id": "s2_reg_dalian_2026",
+      "player_name": "\u5f20\u5927\u52fa",
+      "placement": 1,
+      "legend": "Kai'Sa, Daughter of the Void",
+      "champion": "Kai'Sa, Survivor",
+      "main_deck": "1x Kai'Sa, Survivor\n1x Icathian Rain\n2x Darius, Trifarian\n3x Plundering Poro\n3x Lecturing Yordle\n3x Watchful Sentry\n3x Ravenbloom Student\n3x Thousand-Tailed Watcher\n2x Piercing Light\n3x Hextech Ray\n2x Void Seeker\n3x Falling Star\n3x Stupefy\n3x Retreat\n3x Singularity\n2x Time Warp",
+      "sideboard": "2x Ferrous Forerunner\n2x Brynhir Thundersong\n1x Blood Rush\n2x Thermo Beam\n1x Progress Day",
+      "battlefields": "1x Ravenbloom Conservatory\n1x Reaver'S Row\n1x The Dreaming Tree",
+      "runes": "7x Fury Rune\n5x Mind Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Kai'Sa, Survivor",
+        "1x Icathian Rain",
+        "2x Darius, Trifarian",
+        "3x Plundering Poro",
+        "3x Lecturing Yordle",
+        "3x Watchful Sentry",
+        "3x Ravenbloom Student",
+        "3x Thousand-Tailed Watcher",
+        "2x Piercing Light",
+        "3x Hextech Ray",
+        "2x Void Seeker",
+        "3x Falling Star",
+        "3x Stupefy",
+        "3x Retreat",
+        "3x Singularity",
+        "2x Time Warp"
+      ],
+      "sideboard_cards": [
+        "2x Ferrous Forerunner",
+        "2x Brynhir Thundersong",
+        "1x Blood Rush",
+        "2x Thermo Beam",
+        "1x Progress Day"
+      ],
+      "battlefield_cards": [
+        "1x Ravenbloom Conservatory",
+        "1x Reaver'S Row",
+        "1x The Dreaming Tree"
+      ],
+      "rune_cards": [
+        "7x Fury Rune",
+        "5x Mind Rune"
+      ]
+    },
+    {
+      "id": 78,
+      "event_id": "s2_reg_dalian_2026",
+      "player_name": "TCC_\u7f8a\u773c\u7403",
+      "placement": 2,
+      "legend": "Draven, Glorious Executioner",
+      "champion": "Draven, Vanquisher",
+      "main_deck": "3x Draven, Vanquisher\n3x Darius, Trifarian\n3x Kai'Sa, Survivor\n3x Spinning Axe\n3x Ferrous Forerunner\n3x Treasure Hunter\n3x Overzealous Fan\n3x Blood Rush\n2x Hard Bargain\n3x Fight Or Flight\n2x Ride The Wind\n3x Rebuke\n1x Last Rites\n2x Tideturner\n1x Brynhir Thundersong\n2x Long Sword",
+      "sideboard": "2x Thermo Beam\n2x Flash\n1x Piercing Light\n2x Void Seeker\n1x Falling Star",
+      "battlefields": "1x Treasure Hoard\n1x Targon'S Peak\n1x Reaver'S Row",
+      "runes": "6x Fury Rune\n6x Chaos Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "3x Draven, Vanquisher",
+        "3x Darius, Trifarian",
+        "3x Kai'Sa, Survivor",
+        "3x Spinning Axe",
+        "3x Ferrous Forerunner",
+        "3x Treasure Hunter",
+        "3x Overzealous Fan",
+        "3x Blood Rush",
+        "2x Hard Bargain",
+        "3x Fight Or Flight",
+        "2x Ride The Wind",
+        "3x Rebuke",
+        "1x Last Rites",
+        "2x Tideturner",
+        "1x Brynhir Thundersong",
+        "2x Long Sword"
+      ],
+      "sideboard_cards": [
+        "2x Thermo Beam",
+        "2x Flash",
+        "1x Piercing Light",
+        "2x Void Seeker",
+        "1x Falling Star"
+      ],
+      "battlefield_cards": [
+        "1x Treasure Hoard",
+        "1x Targon'S Peak",
+        "1x Reaver'S Row"
+      ],
+      "rune_cards": [
+        "6x Fury Rune",
+        "6x Chaos Rune"
+      ]
+    },
+    {
+      "id": 79,
+      "event_id": "s2_reg_dalian_2026",
+      "player_name": "\u94c1\u5934-Karma",
+      "placement": 3,
+      "legend": "Draven, Glorious Executioner",
+      "champion": "Draven, Vanquisher",
+      "main_deck": "1x Draven, Vanquisher\n3x Overzealous Fan\n3x Legion Rearguard\n2x Tideturner\n3x Noxus Hopeful\n3x Darius, Trifarian\n2x Brynhir Thundersong\n1x Ferrous Forerunner\n2x Kai'Sa, Survivor\n2x Switcheroo\n2x Cleave\n3x Fight Or Flight\n2x Ride The Wind\n2x Rebuke\n3x Stacked Deck\n3x Spinning Axe\n1x Edge of Night\n1x Mindsplitter\n1x Against the Odds",
+      "sideboard": "1x Against the Odds\n1x Ferrous Forerunner\n1x Ride The Wind\n1x Mindsplitter\n1x Kai'Sa, Survivor\n2x Piercing Light\n1x Factory Recall",
+      "battlefields": "1x Obelisk Of Power\n1x Reaver'S Row\n1x Targon'S Peak",
+      "runes": "6x Fury Rune\n6x Chaos Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Draven, Vanquisher",
+        "3x Overzealous Fan",
+        "3x Legion Rearguard",
+        "2x Tideturner",
+        "3x Noxus Hopeful",
+        "3x Darius, Trifarian",
+        "2x Brynhir Thundersong",
+        "1x Ferrous Forerunner",
+        "2x Kai'Sa, Survivor",
+        "2x Switcheroo",
+        "2x Cleave",
+        "3x Fight Or Flight",
+        "2x Ride The Wind",
+        "2x Rebuke",
+        "3x Stacked Deck",
+        "3x Spinning Axe",
+        "1x Edge of Night",
+        "1x Mindsplitter",
+        "1x Against the Odds"
+      ],
+      "sideboard_cards": [
+        "1x Against the Odds",
+        "1x Ferrous Forerunner",
+        "1x Ride The Wind",
+        "1x Mindsplitter",
+        "1x Kai'Sa, Survivor",
+        "2x Piercing Light",
+        "1x Factory Recall"
+      ],
+      "battlefield_cards": [
+        "1x Obelisk Of Power",
+        "1x Reaver'S Row",
+        "1x Targon'S Peak"
+      ],
+      "rune_cards": [
+        "6x Fury Rune",
+        "6x Chaos Rune"
+      ]
+    },
+    {
+      "id": 80,
+      "event_id": "s2_reg_dalian_2026",
+      "player_name": "\u6dd8\u91d1\u5de2.RandyyyTCG",
+      "placement": 4,
+      "legend": "Sivir, Battle Mistress",
+      "champion": "Sivir, Mercenary",
+      "main_deck": "1x Sivir, Mercenary\n2x Fizz, Trickster\n3x Ezreal, Prodigy\n3x Traveling Merchant\n3x Rhasa The Sunderer\n2x Punch First\n3x Called Shot\n1x Challenge\n2x Confront\n2x Fight Or Flight\n1x Rebuke\n1x Ride The Wind\n3x Sabotage\n3x Stacked Deck\n1x Last Rites\n2x Scrapheap\n3x Seal of Discord\n3x Treasure Trove\n1x On the Hunt",
+      "sideboard": "1x Vex, Cheerless\n2x Hard Bargain\n1x Downwell\n2x Unyielding Spirit\n2x Cannon Barrage",
+      "battlefields": "1x Obelisk Of Power\n1x Sigil Of The Storm\n1x Zaun Warrens",
+      "runes": "7x Chaos Rune\n5x Body Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Sivir, Mercenary",
+        "2x Fizz, Trickster",
+        "3x Ezreal, Prodigy",
+        "3x Traveling Merchant",
+        "3x Rhasa The Sunderer",
+        "2x Punch First",
+        "3x Called Shot",
+        "1x Challenge",
+        "2x Confront",
+        "2x Fight Or Flight",
+        "1x Rebuke",
+        "1x Ride The Wind",
+        "3x Sabotage",
+        "3x Stacked Deck",
+        "1x Last Rites",
+        "2x Scrapheap",
+        "3x Seal of Discord",
+        "3x Treasure Trove",
+        "1x On the Hunt"
+      ],
+      "sideboard_cards": [
+        "1x Vex, Cheerless",
+        "2x Hard Bargain",
+        "1x Downwell",
+        "2x Unyielding Spirit",
+        "2x Cannon Barrage"
+      ],
+      "battlefield_cards": [
+        "1x Obelisk Of Power",
+        "1x Sigil Of The Storm",
+        "1x Zaun Warrens"
+      ],
+      "rune_cards": [
+        "7x Chaos Rune",
+        "5x Body Rune"
+      ]
+    },
+    {
+      "id": 81,
+      "event_id": "s2_reg_dalian_2026",
+      "player_name": "cookie",
+      "placement": 5,
+      "legend": "Kai'Sa, Daughter of the Void",
+      "champion": "Kai'Sa, Survivor",
+      "main_deck": "1x Kai'Sa, Survivor\n2x Darius, Trifarian\n2x Gem Jammer\n3x Forecaster\n3x Plundering Poro\n2x Noxus Hopeful\n3x Thousand-Tailed Watcher\n3x Ferrous Forerunner\n1x Piercing Light\n3x Production Surge\n3x Cleave\n3x Hextech Ray\n3x Falling Star\n1x Thermo Beam\n3x Stupefy\n1x Time Warp\n1x Unchecked Power\n2x Icathian Rain",
+      "sideboard": "2x Brynhir Thundersong\n2x Cloth Armor\n1x Time Warp\n2x Piercing Light\n1x Thermo Beam",
+      "battlefields": "1x Zaun Warrens\n1x Void Gate\n1x Reckoner'S Arena",
+      "runes": "6x Mind Rune\n6x Fury Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Kai'Sa, Survivor",
+        "2x Darius, Trifarian",
+        "2x Gem Jammer",
+        "3x Forecaster",
+        "3x Plundering Poro",
+        "2x Noxus Hopeful",
+        "3x Thousand-Tailed Watcher",
+        "3x Ferrous Forerunner",
+        "1x Piercing Light",
+        "3x Production Surge",
+        "3x Cleave",
+        "3x Hextech Ray",
+        "3x Falling Star",
+        "1x Thermo Beam",
+        "3x Stupefy",
+        "1x Time Warp",
+        "1x Unchecked Power",
+        "2x Icathian Rain"
+      ],
+      "sideboard_cards": [
+        "2x Brynhir Thundersong",
+        "2x Cloth Armor",
+        "1x Time Warp",
+        "2x Piercing Light",
+        "1x Thermo Beam"
+      ],
+      "battlefield_cards": [
+        "1x Zaun Warrens",
+        "1x Void Gate",
+        "1x Reckoner'S Arena"
+      ],
+      "rune_cards": [
+        "6x Mind Rune",
+        "6x Fury Rune"
+      ]
+    },
+    {
+      "id": 82,
+      "event_id": "s2_reg_dalian_2026",
+      "player_name": "\u661f\u8ff9\u7f18\u9633\u5149",
+      "placement": 6,
+      "legend": "Draven, Glorious Executioner",
+      "champion": "Draven, Vanquisher",
+      "main_deck": "1x Draven, Vanquisher\n3x Darius, Trifarian\n3x Kai'Sa, Survivor\n2x Vi, Destructive\n3x Overzealous Fan\n3x Treasure Hunter\n3x Noxus Hopeful\n3x Tideturner\n3x Fight Or Flight\n3x Rebuke\n3x Ride The Wind\n3x Stacked Deck\n2x Spinning Axe\n1x Cleave\n2x Mindsplitter\n2x Piercing Light",
+      "sideboard": "3x Ferrous Forerunner\n1x Spinning Axe\n2x Brynhir Thundersong\n2x Against the Odds",
+      "battlefields": "1x Obelisk Of Power\n1x Targon'S Peak\n1x Reaver'S Row",
+      "runes": "6x Chaos Rune\n6x Fury Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Draven, Vanquisher",
+        "3x Darius, Trifarian",
+        "3x Kai'Sa, Survivor",
+        "2x Vi, Destructive",
+        "3x Overzealous Fan",
+        "3x Treasure Hunter",
+        "3x Noxus Hopeful",
+        "3x Tideturner",
+        "3x Fight Or Flight",
+        "3x Rebuke",
+        "3x Ride The Wind",
+        "3x Stacked Deck",
+        "2x Spinning Axe",
+        "1x Cleave",
+        "2x Mindsplitter",
+        "2x Piercing Light"
+      ],
+      "sideboard_cards": [
+        "3x Ferrous Forerunner",
+        "1x Spinning Axe",
+        "2x Brynhir Thundersong",
+        "2x Against the Odds"
+      ],
+      "battlefield_cards": [
+        "1x Obelisk Of Power",
+        "1x Targon'S Peak",
+        "1x Reaver'S Row"
+      ],
+      "rune_cards": [
+        "6x Chaos Rune",
+        "6x Fury Rune"
+      ]
+    },
+    {
+      "id": 83,
+      "event_id": "s2_reg_dalian_2026",
+      "player_name": "\u7a7a\u6761\u5495\u54d2\u5b50",
+      "placement": 7,
+      "legend": "Irelia, Blade Dancer",
+      "champion": "Irelia, Fervent",
+      "main_deck": "1x Irelia, Fervent\n3x Defiant Dance\n3x Boots of Swiftness\n3x Ride The Wind\n3x Fight Or Flight\n3x Draven, Audacious\n3x En Garde\n3x Guardian Angel\n3x Zhonya'S Hourglass\n3x Discipline\n3x Not So Fast\n3x Stacked Deck\n3x Edge of Night\n2x Feral Strength\n1x Defy",
+      "sideboard": "2x Charm\n1x Defy\n2x Wind Wall\n1x Sterak's Gage\n1x Thwonk!\n1x Gust",
+      "battlefields": "1x The Dreaming Tree\n1x Grove Of The God-Willow\n1x Sunken Temple",
+      "runes": "7x Chaos Rune\n5x Calm Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Irelia, Fervent",
+        "3x Defiant Dance",
+        "3x Boots of Swiftness",
+        "3x Ride The Wind",
+        "3x Fight Or Flight",
+        "3x Draven, Audacious",
+        "3x En Garde",
+        "3x Guardian Angel",
+        "3x Zhonya'S Hourglass",
+        "3x Discipline",
+        "3x Not So Fast",
+        "3x Stacked Deck",
+        "3x Edge of Night",
+        "2x Feral Strength",
+        "1x Defy"
+      ],
+      "sideboard_cards": [
+        "2x Charm",
+        "1x Defy",
+        "2x Wind Wall",
+        "1x Sterak's Gage",
+        "1x Thwonk!",
+        "1x Gust"
+      ],
+      "battlefield_cards": [
+        "1x The Dreaming Tree",
+        "1x Grove Of The God-Willow",
+        "1x Sunken Temple"
+      ],
+      "rune_cards": [
+        "7x Chaos Rune",
+        "5x Calm Rune"
+      ]
+    },
+    {
+      "id": 84,
+      "event_id": "s2_reg_dalian_2026",
+      "player_name": "\u91d1\u5ca9-\u8f69\u6cfd\uff08\u6069\u5e08\u9493\u9c7c\u738b\uff09",
+      "placement": 8,
+      "legend": "Jax, Grandmaster at Arms",
+      "champion": "Jax, Unmatched",
+      "main_deck": "1x Jax, Unmatched\n3x Counter Strike\n2x Aphelios, Exalted\n2x Akshan, Mischievous\n2x Lonely Poro\n2x Sea Monkey\n3x Wizened Elder\n3x First Mate\n3x Pit Rookie\n2x Not So Fast\n2x Defy\n3x Challenge\n3x Brutalizer\n3x Guardian Angel\n3x Warmog's Armor\n3x Discipline",
+      "sideboard": "2x Thwonk!\n2x Emperor's Divide\n2x Zhonya'S Hourglass\n1x Akshan, Mischievous\n1x Defy",
+      "battlefields": "1x Sunken Temple\n1x Monastery Of Hirana\n1x The Dreaming Tree",
+      "runes": "6x Calm Rune\n6x Body Rune",
+      "deck_type": "top_8",
+      "main_deck_cards": [
+        "1x Jax, Unmatched",
+        "3x Counter Strike",
+        "2x Aphelios, Exalted",
+        "2x Akshan, Mischievous",
+        "2x Lonely Poro",
+        "2x Sea Monkey",
+        "3x Wizened Elder",
+        "3x First Mate",
+        "3x Pit Rookie",
+        "2x Not So Fast",
+        "2x Defy",
+        "3x Challenge",
+        "3x Brutalizer",
+        "3x Guardian Angel",
+        "3x Warmog's Armor",
+        "3x Discipline"
+      ],
+      "sideboard_cards": [
+        "2x Thwonk!",
+        "2x Emperor's Divide",
+        "2x Zhonya'S Hourglass",
+        "1x Akshan, Mischievous",
+        "1x Defy"
+      ],
+      "battlefield_cards": [
+        "1x Sunken Temple",
+        "1x Monastery Of Hirana",
+        "1x The Dreaming Tree"
+      ],
+      "rune_cards": [
+        "6x Calm Rune",
+        "6x Body Rune"
+      ]
+    }
+  ]
+}

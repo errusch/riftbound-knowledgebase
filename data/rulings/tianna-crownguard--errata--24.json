@@ -1,0 +1,26 @@
+{
+  "id": "ruling.tianna-crownguard--errata--24",
+  "type": "ruling_record",
+  "title": "Tianna Crownguard (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "tianna-crownguard"
+  ],
+  "record": {
+    "id": 24,
+    "card_name": "Tianna Crownguard",
+    "ruling_type": "errata",
+    "old_text": "opponents can't score points",
+    "new_text": "opponents can't gain points",
+    "explanation": "Doesn't prevent conquering/holding, only gaining points. Forgotten Monument works differently.",
+    "source_doc": "Spiritforged FAQ",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
+    "effective_date": "2026-01-14"
+  }
+}

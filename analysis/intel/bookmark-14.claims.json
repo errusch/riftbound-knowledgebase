@@ -1,0 +1,11 @@
+[
+  {
+    "excerpt": "Context bloat discovery: agent was loading 11,887 tokens of system prompt on every message; solution is to audit /context detail and trim or lazy-load heavy sections.",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "ruling.disintegrate--errata--7",
+  "type": "ruling_record",
+  "title": "Disintegrate (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "disintegrate"
+  ],
+  "record": {
+    "id": 7,
+    "card_name": "Disintegrate",
+    "ruling_type": "errata",
+    "old_text": "Deal 3 to a unit at a battlefield. If this kills it, draw 1.",
+    "new_text": "Deal 3 to a unit at a battlefield. If this kills it, do this: draw 1.",
+    "explanation": "Reflexive trigger",
+    "source_doc": "Origins Card Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/",
+    "effective_date": "2025-11-04"
+  }
+}

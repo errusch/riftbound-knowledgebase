@@ -1,0 +1,26 @@
+{
+  "id": "ruling.yone-blademaster--errata--25",
+  "type": "ruling_record",
+  "title": "Yone, Blademaster (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "yone-blademaster"
+  ],
+  "record": {
+    "id": 25,
+    "card_name": "Yone, Blademaster",
+    "ruling_type": "errata",
+    "old_text": "When I conquer an open battlefield",
+    "new_text": "When I conquer a battlefield that was uncontrolled",
+    "explanation": "Triggers off control status before conquering",
+    "source_doc": "Spiritforged Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+    "effective_date": "2026-01-14"
+  }
+}

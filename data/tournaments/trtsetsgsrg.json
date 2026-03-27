@@ -1,0 +1,728 @@
+{
+  "id": "tournament.trtsetsgsrg",
+  "type": "tournament_record",
+  "title": "trtsetsgsrg",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "tournament",
+    "Constructed",
+    "sofia"
+  ],
+  "record": {
+    "tid": "trtsetsgsrg",
+    "name": "trtsetsgsrg",
+    "start_date": 1764496800,
+    "format": "Constructed",
+    "swiss_rounds": 3,
+    "top_cut": 4,
+    "participants": 4,
+    "city": "Sofia",
+    "state": "Sofia City Province",
+    "location": "Mox Games, \u0436.\u043a. \u0425\u0438\u043f\u043e\u0434\u0440\u0443\u043c\u0430, \u0421\u043e\u0444\u0438\u044f, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "country": null
+  },
+  "rounds": [
+    {
+      "id": 1871,
+      "tid": "trtsetsgsrg",
+      "round": "Finals",
+      "table_num": 1,
+      "player1_name": "daefeafe",
+      "player1_id": "uZz3OmJqemTrZ26gKhiT",
+      "player2_name": "fafaefeafafae",
+      "player2_id": "jPIzrk0lZgmPwtllpMhe",
+      "winner": "daefeafe",
+      "status": "Completed"
+    },
+    {
+      "id": 1872,
+      "tid": "trtsetsgsrg",
+      "round": "Top 4",
+      "table_num": 1,
+      "player1_name": "daefeafe",
+      "player1_id": "uZz3OmJqemTrZ26gKhiT",
+      "player2_name": "Dadaea",
+      "player2_id": "440HJBJnedeyh9XksaAQ",
+      "winner": "daefeafe",
+      "status": "Completed"
+    },
+    {
+      "id": 1873,
+      "tid": "trtsetsgsrg",
+      "round": "Top 4",
+      "table_num": 2,
+      "player1_name": "fafaefeafafae",
+      "player1_id": "jPIzrk0lZgmPwtllpMhe",
+      "player2_name": "fafeaf",
+      "player2_id": "KVzauDc3Vu7tDKjkpU0E",
+      "winner": "fafaefeafafae",
+      "status": "Completed"
+    },
+    {
+      "id": 1865,
+      "tid": "trtsetsgsrg",
+      "round": "1",
+      "table_num": 1,
+      "player1_name": "fafaefeafafae",
+      "player1_id": "jPIzrk0lZgmPwtllpMhe",
+      "player2_name": "fafeaf",
+      "player2_id": "KVzauDc3Vu7tDKjkpU0E",
+      "winner": "fafaefeafafae",
+      "status": "Completed"
+    },
+    {
+      "id": 1866,
+      "tid": "trtsetsgsrg",
+      "round": "1",
+      "table_num": 2,
+      "player1_name": "daefeafe",
+      "player1_id": "uZz3OmJqemTrZ26gKhiT",
+      "player2_name": "Dadaea",
+      "player2_id": "440HJBJnedeyh9XksaAQ",
+      "winner": "daefeafe",
+      "status": "Completed"
+    },
+    {
+      "id": 1867,
+      "tid": "trtsetsgsrg",
+      "round": "2",
+      "table_num": 1,
+      "player1_name": "daefeafe",
+      "player1_id": "uZz3OmJqemTrZ26gKhiT",
+      "player2_name": "fafaefeafafae",
+      "player2_id": "jPIzrk0lZgmPwtllpMhe",
+      "winner": "daefeafe",
+      "status": "Completed"
+    },
+    {
+      "id": 1868,
+      "tid": "trtsetsgsrg",
+      "round": "2",
+      "table_num": 2,
+      "player1_name": "fafeaf",
+      "player1_id": "KVzauDc3Vu7tDKjkpU0E",
+      "player2_name": "Dadaea",
+      "player2_id": "440HJBJnedeyh9XksaAQ",
+      "winner": "fafeaf",
+      "status": "Completed"
+    },
+    {
+      "id": 1869,
+      "tid": "trtsetsgsrg",
+      "round": "3",
+      "table_num": 1,
+      "player1_name": "daefeafe",
+      "player1_id": "uZz3OmJqemTrZ26gKhiT",
+      "player2_name": "fafeaf",
+      "player2_id": "KVzauDc3Vu7tDKjkpU0E",
+      "winner": "daefeafe",
+      "status": "Completed"
+    },
+    {
+      "id": 1870,
+      "tid": "trtsetsgsrg",
+      "round": "3",
+      "table_num": 2,
+      "player1_name": "fafaefeafafae",
+      "player1_id": "jPIzrk0lZgmPwtllpMhe",
+      "player2_name": "Dadaea",
+      "player2_id": "440HJBJnedeyh9XksaAQ",
+      "winner": "fafaefeafafae",
+      "status": "Completed"
+    }
+  ],
+  "standings": [
+    {
+      "id": 842,
+      "tid": "trtsetsgsrg",
+      "player_name": "daefeafe",
+      "player_id": "uZz3OmJqemTrZ26gKhiT",
+      "placement": 1,
+      "wins": 5,
+      "wins_swiss": 3,
+      "wins_bracket": 2,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Cleave\\n2 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n3 Noxus Hopeful\\n1 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n2 Smoke Screen\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Progress Day\\n1 Singularity\\n1 Smoke Screen\\n2 Sprite Mother\\n2 Thermo Beam\\n1 Void Seeker\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"77b2953a-5214-4421-862d-f33d8bc4590b\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\", \"count\": 7}, \"Mind Rune\": {\"id\": \"6d4e52d9-6554-4af8-ad81-2b473b111d4e\", \"count\": 5}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"0e5cae41-44aa-425b-96a7-0c5388d2a0ba\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"6b923755-0161-475d-8ca7-7c739f063935\", \"count\": 1}}, \"Mainboard\": {\"Cleave\": {\"id\": \"c092c17d-8faf-4d7f-9037-cb4fa0fa4a60\", \"count\": 3}, \"Darius, Trifarian\": {\"id\": \"483c1de6-40ff-4392-a31e-583e00743893\", \"count\": 2}, \"Falling Star\": {\"id\": \"9739a73c-44d8-413f-a87b-f2d7efa8ddbf\", \"count\": 3}, \"Hextech Ray\": {\"id\": \"c5ed3577-29a3-4c2e-97cb-1a7ac6517d91\", \"count\": 3}, \"Icathian Rain\": {\"id\": \"aa5f34d6-d7c9-4790-8c79-18134e1b4eea\", \"count\": 2}, \"Kai'Sa, Survivor\": {\"id\": \"4bf7f780-55da-4099-a91c-ca4f5b5458b2\", \"count\": 1}, \"Lecturing Yordle\": {\"id\": \"156888ab-68e6-434e-9353-88b27c2af7ce\", \"count\": 3}, \"Noxus Hopeful\": {\"id\": \"0a83a04b-02f6-4eaf-ad68-987b564547d3\", \"count\": 3}, \"Pouty Poro\": {\"id\": \"51ef3649-41c8-41bb-98b5-adcf9d1c8fdf\", \"count\": 1}, \"Ravenbloom Student\": {\"id\": \"8295bc06-85cf-4d57-b2be-cceee8bd8f1b\", \"count\": 3}, \"Retreat\": {\"id\": \"e5b9ee62-730a-4f86-aaae-edaf51c9ba8b\", \"count\": 3}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 2}, \"Stupefy\": {\"id\": \"9cb0c415-dbb4-460c-9d28-db41ae981c8e\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"6bfd727b-dfbe-472c-b7a2-dcc7036ded62\", \"count\": 3}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 2}, \"Watchful Sentry\": {\"id\": \"e89aa829-e22b-4cb8-885a-19f906963a2e\", \"count\": 3}}, \"Sideboard\": {\"Progress Day\": {\"id\": \"74293150-ec32-4542-91b5-2781c793df1e\", \"count\": 1}, \"Singularity\": {\"id\": \"d10c0743-3a44-4750-81d9-3fb44cc22446\", \"count\": 1}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 1}, \"Sprite Mother\": {\"id\": \"f66a2463-7d72-436f-8a88-c62c586c81ef\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"3a7037f8-0df0-4e7f-9ee5-7571027c2db7\", \"count\": 2}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "77b2953a-5214-4421-862d-f33d8bc4590b",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "6d4e52d9-6554-4af8-ad81-2b473b111d4e",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "0e5cae41-44aa-425b-96a7-0c5388d2a0ba",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "6b923755-0161-475d-8ca7-7c739f063935",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Cleave": {
+            "id": "c092c17d-8faf-4d7f-9037-cb4fa0fa4a60",
+            "count": 3
+          },
+          "Darius, Trifarian": {
+            "id": "483c1de6-40ff-4392-a31e-583e00743893",
+            "count": 2
+          },
+          "Falling Star": {
+            "id": "9739a73c-44d8-413f-a87b-f2d7efa8ddbf",
+            "count": 3
+          },
+          "Hextech Ray": {
+            "id": "c5ed3577-29a3-4c2e-97cb-1a7ac6517d91",
+            "count": 3
+          },
+          "Icathian Rain": {
+            "id": "aa5f34d6-d7c9-4790-8c79-18134e1b4eea",
+            "count": 2
+          },
+          "Kai'Sa, Survivor": {
+            "id": "4bf7f780-55da-4099-a91c-ca4f5b5458b2",
+            "count": 1
+          },
+          "Lecturing Yordle": {
+            "id": "156888ab-68e6-434e-9353-88b27c2af7ce",
+            "count": 3
+          },
+          "Noxus Hopeful": {
+            "id": "0a83a04b-02f6-4eaf-ad68-987b564547d3",
+            "count": 3
+          },
+          "Pouty Poro": {
+            "id": "51ef3649-41c8-41bb-98b5-adcf9d1c8fdf",
+            "count": 1
+          },
+          "Ravenbloom Student": {
+            "id": "8295bc06-85cf-4d57-b2be-cceee8bd8f1b",
+            "count": 3
+          },
+          "Retreat": {
+            "id": "e5b9ee62-730a-4f86-aaae-edaf51c9ba8b",
+            "count": 3
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 2
+          },
+          "Stupefy": {
+            "id": "9cb0c415-dbb4-460c-9d28-db41ae981c8e",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "6bfd727b-dfbe-472c-b7a2-dcc7036ded62",
+            "count": 3
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 2
+          },
+          "Watchful Sentry": {
+            "id": "e89aa829-e22b-4cb8-885a-19f906963a2e",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Progress Day": {
+            "id": "74293150-ec32-4542-91b5-2781c793df1e",
+            "count": 1
+          },
+          "Singularity": {
+            "id": "d10c0743-3a44-4750-81d9-3fb44cc22446",
+            "count": 1
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 1
+          },
+          "Sprite Mother": {
+            "id": "f66a2463-7d72-436f-8a88-c62c586c81ef",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "3a7037f8-0df0-4e7f-9ee5-7571027c2db7",
+            "count": 2
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Cleave\\n2 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n3 Noxus Hopeful\\n1 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n2 Smoke Screen\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Progress Day\\n1 Singularity\\n1 Smoke Screen\\n2 Sprite Mother\\n2 Thermo Beam\\n1 Void Seeker\\n"
+      ]
+    },
+    {
+      "id": 843,
+      "tid": "trtsetsgsrg",
+      "player_name": "fafaefeafafae",
+      "player_id": "jPIzrk0lZgmPwtllpMhe",
+      "placement": 2,
+      "wins": 3,
+      "wins_swiss": 2,
+      "wins_bracket": 1,
+      "losses": 2,
+      "losses_swiss": 1,
+      "losses_bracket": 1,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Cleave\\n2 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n3 Noxus Hopeful\\n1 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n2 Smoke Screen\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Progress Day\\n1 Singularity\\n1 Smoke Screen\\n2 Sprite Mother\\n2 Thermo Beam\\n1 Void Seeker\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"77b2953a-5214-4421-862d-f33d8bc4590b\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\", \"count\": 7}, \"Mind Rune\": {\"id\": \"6d4e52d9-6554-4af8-ad81-2b473b111d4e\", \"count\": 5}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"0e5cae41-44aa-425b-96a7-0c5388d2a0ba\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"6b923755-0161-475d-8ca7-7c739f063935\", \"count\": 1}}, \"Mainboard\": {\"Cleave\": {\"id\": \"c092c17d-8faf-4d7f-9037-cb4fa0fa4a60\", \"count\": 3}, \"Darius, Trifarian\": {\"id\": \"483c1de6-40ff-4392-a31e-583e00743893\", \"count\": 2}, \"Falling Star\": {\"id\": \"9739a73c-44d8-413f-a87b-f2d7efa8ddbf\", \"count\": 3}, \"Hextech Ray\": {\"id\": \"c5ed3577-29a3-4c2e-97cb-1a7ac6517d91\", \"count\": 3}, \"Icathian Rain\": {\"id\": \"aa5f34d6-d7c9-4790-8c79-18134e1b4eea\", \"count\": 2}, \"Kai'Sa, Survivor\": {\"id\": \"4bf7f780-55da-4099-a91c-ca4f5b5458b2\", \"count\": 1}, \"Lecturing Yordle\": {\"id\": \"156888ab-68e6-434e-9353-88b27c2af7ce\", \"count\": 3}, \"Noxus Hopeful\": {\"id\": \"0a83a04b-02f6-4eaf-ad68-987b564547d3\", \"count\": 3}, \"Pouty Poro\": {\"id\": \"51ef3649-41c8-41bb-98b5-adcf9d1c8fdf\", \"count\": 1}, \"Ravenbloom Student\": {\"id\": \"8295bc06-85cf-4d57-b2be-cceee8bd8f1b\", \"count\": 3}, \"Retreat\": {\"id\": \"e5b9ee62-730a-4f86-aaae-edaf51c9ba8b\", \"count\": 3}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 2}, \"Stupefy\": {\"id\": \"9cb0c415-dbb4-460c-9d28-db41ae981c8e\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"6bfd727b-dfbe-472c-b7a2-dcc7036ded62\", \"count\": 3}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 2}, \"Watchful Sentry\": {\"id\": \"e89aa829-e22b-4cb8-885a-19f906963a2e\", \"count\": 3}}, \"Sideboard\": {\"Progress Day\": {\"id\": \"74293150-ec32-4542-91b5-2781c793df1e\", \"count\": 1}, \"Singularity\": {\"id\": \"d10c0743-3a44-4750-81d9-3fb44cc22446\", \"count\": 1}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 1}, \"Sprite Mother\": {\"id\": \"f66a2463-7d72-436f-8a88-c62c586c81ef\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"3a7037f8-0df0-4e7f-9ee5-7571027c2db7\", \"count\": 2}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "77b2953a-5214-4421-862d-f33d8bc4590b",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "6d4e52d9-6554-4af8-ad81-2b473b111d4e",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "0e5cae41-44aa-425b-96a7-0c5388d2a0ba",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "6b923755-0161-475d-8ca7-7c739f063935",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Cleave": {
+            "id": "c092c17d-8faf-4d7f-9037-cb4fa0fa4a60",
+            "count": 3
+          },
+          "Darius, Trifarian": {
+            "id": "483c1de6-40ff-4392-a31e-583e00743893",
+            "count": 2
+          },
+          "Falling Star": {
+            "id": "9739a73c-44d8-413f-a87b-f2d7efa8ddbf",
+            "count": 3
+          },
+          "Hextech Ray": {
+            "id": "c5ed3577-29a3-4c2e-97cb-1a7ac6517d91",
+            "count": 3
+          },
+          "Icathian Rain": {
+            "id": "aa5f34d6-d7c9-4790-8c79-18134e1b4eea",
+            "count": 2
+          },
+          "Kai'Sa, Survivor": {
+            "id": "4bf7f780-55da-4099-a91c-ca4f5b5458b2",
+            "count": 1
+          },
+          "Lecturing Yordle": {
+            "id": "156888ab-68e6-434e-9353-88b27c2af7ce",
+            "count": 3
+          },
+          "Noxus Hopeful": {
+            "id": "0a83a04b-02f6-4eaf-ad68-987b564547d3",
+            "count": 3
+          },
+          "Pouty Poro": {
+            "id": "51ef3649-41c8-41bb-98b5-adcf9d1c8fdf",
+            "count": 1
+          },
+          "Ravenbloom Student": {
+            "id": "8295bc06-85cf-4d57-b2be-cceee8bd8f1b",
+            "count": 3
+          },
+          "Retreat": {
+            "id": "e5b9ee62-730a-4f86-aaae-edaf51c9ba8b",
+            "count": 3
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 2
+          },
+          "Stupefy": {
+            "id": "9cb0c415-dbb4-460c-9d28-db41ae981c8e",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "6bfd727b-dfbe-472c-b7a2-dcc7036ded62",
+            "count": 3
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 2
+          },
+          "Watchful Sentry": {
+            "id": "e89aa829-e22b-4cb8-885a-19f906963a2e",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Progress Day": {
+            "id": "74293150-ec32-4542-91b5-2781c793df1e",
+            "count": 1
+          },
+          "Singularity": {
+            "id": "d10c0743-3a44-4750-81d9-3fb44cc22446",
+            "count": 1
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 1
+          },
+          "Sprite Mother": {
+            "id": "f66a2463-7d72-436f-8a88-c62c586c81ef",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "3a7037f8-0df0-4e7f-9ee5-7571027c2db7",
+            "count": 2
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Cleave\\n2 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n3 Noxus Hopeful\\n1 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n2 Smoke Screen\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Progress Day\\n1 Singularity\\n1 Smoke Screen\\n2 Sprite Mother\\n2 Thermo Beam\\n1 Void Seeker\\n"
+      ]
+    },
+    {
+      "id": 844,
+      "tid": "trtsetsgsrg",
+      "player_name": "fafeaf",
+      "player_id": "KVzauDc3Vu7tDKjkpU0E",
+      "placement": 3,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 2,
+      "losses_bracket": 1,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Cleave\\n2 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n3 Noxus Hopeful\\n1 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n2 Smoke Screen\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Progress Day\\n1 Singularity\\n1 Smoke Screen\\n2 Sprite Mother\\n2 Thermo Beam\\n1 Void Seeker\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"77b2953a-5214-4421-862d-f33d8bc4590b\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\", \"count\": 7}, \"Mind Rune\": {\"id\": \"6d4e52d9-6554-4af8-ad81-2b473b111d4e\", \"count\": 5}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"0e5cae41-44aa-425b-96a7-0c5388d2a0ba\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"6b923755-0161-475d-8ca7-7c739f063935\", \"count\": 1}}, \"Mainboard\": {\"Cleave\": {\"id\": \"c092c17d-8faf-4d7f-9037-cb4fa0fa4a60\", \"count\": 3}, \"Darius, Trifarian\": {\"id\": \"483c1de6-40ff-4392-a31e-583e00743893\", \"count\": 2}, \"Falling Star\": {\"id\": \"9739a73c-44d8-413f-a87b-f2d7efa8ddbf\", \"count\": 3}, \"Hextech Ray\": {\"id\": \"c5ed3577-29a3-4c2e-97cb-1a7ac6517d91\", \"count\": 3}, \"Icathian Rain\": {\"id\": \"aa5f34d6-d7c9-4790-8c79-18134e1b4eea\", \"count\": 2}, \"Kai'Sa, Survivor\": {\"id\": \"4bf7f780-55da-4099-a91c-ca4f5b5458b2\", \"count\": 1}, \"Lecturing Yordle\": {\"id\": \"156888ab-68e6-434e-9353-88b27c2af7ce\", \"count\": 3}, \"Noxus Hopeful\": {\"id\": \"0a83a04b-02f6-4eaf-ad68-987b564547d3\", \"count\": 3}, \"Pouty Poro\": {\"id\": \"51ef3649-41c8-41bb-98b5-adcf9d1c8fdf\", \"count\": 1}, \"Ravenbloom Student\": {\"id\": \"8295bc06-85cf-4d57-b2be-cceee8bd8f1b\", \"count\": 3}, \"Retreat\": {\"id\": \"e5b9ee62-730a-4f86-aaae-edaf51c9ba8b\", \"count\": 3}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 2}, \"Stupefy\": {\"id\": \"9cb0c415-dbb4-460c-9d28-db41ae981c8e\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"6bfd727b-dfbe-472c-b7a2-dcc7036ded62\", \"count\": 3}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 2}, \"Watchful Sentry\": {\"id\": \"e89aa829-e22b-4cb8-885a-19f906963a2e\", \"count\": 3}}, \"Sideboard\": {\"Progress Day\": {\"id\": \"74293150-ec32-4542-91b5-2781c793df1e\", \"count\": 1}, \"Singularity\": {\"id\": \"d10c0743-3a44-4750-81d9-3fb44cc22446\", \"count\": 1}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 1}, \"Sprite Mother\": {\"id\": \"f66a2463-7d72-436f-8a88-c62c586c81ef\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"3a7037f8-0df0-4e7f-9ee5-7571027c2db7\", \"count\": 2}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "77b2953a-5214-4421-862d-f33d8bc4590b",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "6d4e52d9-6554-4af8-ad81-2b473b111d4e",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "0e5cae41-44aa-425b-96a7-0c5388d2a0ba",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "6b923755-0161-475d-8ca7-7c739f063935",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Cleave": {
+            "id": "c092c17d-8faf-4d7f-9037-cb4fa0fa4a60",
+            "count": 3
+          },
+          "Darius, Trifarian": {
+            "id": "483c1de6-40ff-4392-a31e-583e00743893",
+            "count": 2
+          },
+          "Falling Star": {
+            "id": "9739a73c-44d8-413f-a87b-f2d7efa8ddbf",
+            "count": 3
+          },
+          "Hextech Ray": {
+            "id": "c5ed3577-29a3-4c2e-97cb-1a7ac6517d91",
+            "count": 3
+          },
+          "Icathian Rain": {
+            "id": "aa5f34d6-d7c9-4790-8c79-18134e1b4eea",
+            "count": 2
+          },
+          "Kai'Sa, Survivor": {
+            "id": "4bf7f780-55da-4099-a91c-ca4f5b5458b2",
+            "count": 1
+          },
+          "Lecturing Yordle": {
+            "id": "156888ab-68e6-434e-9353-88b27c2af7ce",
+            "count": 3
+          },
+          "Noxus Hopeful": {
+            "id": "0a83a04b-02f6-4eaf-ad68-987b564547d3",
+            "count": 3
+          },
+          "Pouty Poro": {
+            "id": "51ef3649-41c8-41bb-98b5-adcf9d1c8fdf",
+            "count": 1
+          },
+          "Ravenbloom Student": {
+            "id": "8295bc06-85cf-4d57-b2be-cceee8bd8f1b",
+            "count": 3
+          },
+          "Retreat": {
+            "id": "e5b9ee62-730a-4f86-aaae-edaf51c9ba8b",
+            "count": 3
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 2
+          },
+          "Stupefy": {
+            "id": "9cb0c415-dbb4-460c-9d28-db41ae981c8e",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "6bfd727b-dfbe-472c-b7a2-dcc7036ded62",
+            "count": 3
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 2
+          },
+          "Watchful Sentry": {
+            "id": "e89aa829-e22b-4cb8-885a-19f906963a2e",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Progress Day": {
+            "id": "74293150-ec32-4542-91b5-2781c793df1e",
+            "count": 1
+          },
+          "Singularity": {
+            "id": "d10c0743-3a44-4750-81d9-3fb44cc22446",
+            "count": 1
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 1
+          },
+          "Sprite Mother": {
+            "id": "f66a2463-7d72-436f-8a88-c62c586c81ef",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "3a7037f8-0df0-4e7f-9ee5-7571027c2db7",
+            "count": 2
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Cleave\\n2 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n3 Noxus Hopeful\\n1 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n2 Smoke Screen\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Progress Day\\n1 Singularity\\n1 Smoke Screen\\n2 Sprite Mother\\n2 Thermo Beam\\n1 Void Seeker\\n"
+      ]
+    },
+    {
+      "id": 845,
+      "tid": "trtsetsgsrg",
+      "player_name": "Dadaea",
+      "player_id": "440HJBJnedeyh9XksaAQ",
+      "placement": 4,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 4,
+      "losses_swiss": 3,
+      "losses_bracket": 1,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Cleave\\n2 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n3 Noxus Hopeful\\n1 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n2 Smoke Screen\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Progress Day\\n1 Singularity\\n1 Smoke Screen\\n2 Sprite Mother\\n2 Thermo Beam\\n1 Void Seeker\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"77b2953a-5214-4421-862d-f33d8bc4590b\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"18f353b3-da03-4650-b253-dc305c77ec76\", \"count\": 7}, \"Mind Rune\": {\"id\": \"6d4e52d9-6554-4af8-ad81-2b473b111d4e\", \"count\": 5}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"0e5cae41-44aa-425b-96a7-0c5388d2a0ba\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"6b923755-0161-475d-8ca7-7c739f063935\", \"count\": 1}}, \"Mainboard\": {\"Cleave\": {\"id\": \"c092c17d-8faf-4d7f-9037-cb4fa0fa4a60\", \"count\": 3}, \"Darius, Trifarian\": {\"id\": \"483c1de6-40ff-4392-a31e-583e00743893\", \"count\": 2}, \"Falling Star\": {\"id\": \"9739a73c-44d8-413f-a87b-f2d7efa8ddbf\", \"count\": 3}, \"Hextech Ray\": {\"id\": \"c5ed3577-29a3-4c2e-97cb-1a7ac6517d91\", \"count\": 3}, \"Icathian Rain\": {\"id\": \"aa5f34d6-d7c9-4790-8c79-18134e1b4eea\", \"count\": 2}, \"Kai'Sa, Survivor\": {\"id\": \"4bf7f780-55da-4099-a91c-ca4f5b5458b2\", \"count\": 1}, \"Lecturing Yordle\": {\"id\": \"156888ab-68e6-434e-9353-88b27c2af7ce\", \"count\": 3}, \"Noxus Hopeful\": {\"id\": \"0a83a04b-02f6-4eaf-ad68-987b564547d3\", \"count\": 3}, \"Pouty Poro\": {\"id\": \"51ef3649-41c8-41bb-98b5-adcf9d1c8fdf\", \"count\": 1}, \"Ravenbloom Student\": {\"id\": \"8295bc06-85cf-4d57-b2be-cceee8bd8f1b\", \"count\": 3}, \"Retreat\": {\"id\": \"e5b9ee62-730a-4f86-aaae-edaf51c9ba8b\", \"count\": 3}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 2}, \"Stupefy\": {\"id\": \"9cb0c415-dbb4-460c-9d28-db41ae981c8e\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"6bfd727b-dfbe-472c-b7a2-dcc7036ded62\", \"count\": 3}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 2}, \"Watchful Sentry\": {\"id\": \"e89aa829-e22b-4cb8-885a-19f906963a2e\", \"count\": 3}}, \"Sideboard\": {\"Progress Day\": {\"id\": \"74293150-ec32-4542-91b5-2781c793df1e\", \"count\": 1}, \"Singularity\": {\"id\": \"d10c0743-3a44-4750-81d9-3fb44cc22446\", \"count\": 1}, \"Smoke Screen\": {\"id\": \"abe75bb5-34ba-4991-ab42-2b61c9602f4d\", \"count\": 1}, \"Sprite Mother\": {\"id\": \"f66a2463-7d72-436f-8a88-c62c586c81ef\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"3a7037f8-0df0-4e7f-9ee5-7571027c2db7\", \"count\": 2}, \"Void Seeker\": {\"id\": \"8009818c-1121-4933-a318-bc1ad7525a97\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "77b2953a-5214-4421-862d-f33d8bc4590b",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "18f353b3-da03-4650-b253-dc305c77ec76",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "6d4e52d9-6554-4af8-ad81-2b473b111d4e",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "0e5cae41-44aa-425b-96a7-0c5388d2a0ba",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "eb6af4ce-f1b6-422e-84fd-9c9f8fe9b708",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "6b923755-0161-475d-8ca7-7c739f063935",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Cleave": {
+            "id": "c092c17d-8faf-4d7f-9037-cb4fa0fa4a60",
+            "count": 3
+          },
+          "Darius, Trifarian": {
+            "id": "483c1de6-40ff-4392-a31e-583e00743893",
+            "count": 2
+          },
+          "Falling Star": {
+            "id": "9739a73c-44d8-413f-a87b-f2d7efa8ddbf",
+            "count": 3
+          },
+          "Hextech Ray": {
+            "id": "c5ed3577-29a3-4c2e-97cb-1a7ac6517d91",
+            "count": 3
+          },
+          "Icathian Rain": {
+            "id": "aa5f34d6-d7c9-4790-8c79-18134e1b4eea",
+            "count": 2
+          },
+          "Kai'Sa, Survivor": {
+            "id": "4bf7f780-55da-4099-a91c-ca4f5b5458b2",
+            "count": 1
+          },
+          "Lecturing Yordle": {
+            "id": "156888ab-68e6-434e-9353-88b27c2af7ce",
+            "count": 3
+          },
+          "Noxus Hopeful": {
+            "id": "0a83a04b-02f6-4eaf-ad68-987b564547d3",
+            "count": 3
+          },
+          "Pouty Poro": {
+            "id": "51ef3649-41c8-41bb-98b5-adcf9d1c8fdf",
+            "count": 1
+          },
+          "Ravenbloom Student": {
+            "id": "8295bc06-85cf-4d57-b2be-cceee8bd8f1b",
+            "count": 3
+          },
+          "Retreat": {
+            "id": "e5b9ee62-730a-4f86-aaae-edaf51c9ba8b",
+            "count": 3
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 2
+          },
+          "Stupefy": {
+            "id": "9cb0c415-dbb4-460c-9d28-db41ae981c8e",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "6bfd727b-dfbe-472c-b7a2-dcc7036ded62",
+            "count": 3
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 2
+          },
+          "Watchful Sentry": {
+            "id": "e89aa829-e22b-4cb8-885a-19f906963a2e",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Progress Day": {
+            "id": "74293150-ec32-4542-91b5-2781c793df1e",
+            "count": 1
+          },
+          "Singularity": {
+            "id": "d10c0743-3a44-4750-81d9-3fb44cc22446",
+            "count": 1
+          },
+          "Smoke Screen": {
+            "id": "abe75bb5-34ba-4991-ab42-2b61c9602f4d",
+            "count": 1
+          },
+          "Sprite Mother": {
+            "id": "f66a2463-7d72-436f-8a88-c62c586c81ef",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "3a7037f8-0df0-4e7f-9ee5-7571027c2db7",
+            "count": 2
+          },
+          "Void Seeker": {
+            "id": "8009818c-1121-4933-a318-bc1ad7525a97",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Cleave\\n2 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n3 Noxus Hopeful\\n1 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n2 Smoke Screen\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Progress Day\\n1 Singularity\\n1 Smoke Screen\\n2 Sprite Mother\\n2 Thermo Beam\\n1 Void Seeker\\n"
+      ]
+    }
+  ]
+}

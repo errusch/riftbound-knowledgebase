@@ -1,0 +1,29 @@
+{
+  "id": "meta_tier.azir",
+  "type": "meta_snapshot",
+  "title": "Azir",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "meta-tier",
+    "azir"
+  ],
+  "record": {
+    "legend": "Azir",
+    "snapshots": [
+      {
+        "id": 9,
+        "legend": "Azir",
+        "tier": 2,
+        "set_context": "Spiritforged",
+        "trend": null,
+        "snapshot_date": "2026-02-27",
+        "source": "riftbound.gg",
+        "source_url": "https://riftbound.gg/tier-list/"
+      }
+    ]
+  }
+}

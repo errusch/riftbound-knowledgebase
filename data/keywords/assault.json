@@ -1,0 +1,23 @@
+{
+  "id": "keyword.assault",
+  "type": "keyword_record",
+  "title": "Assault",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Passive Ability"
+  ],
+  "record": {
+    "keyword": "Assault",
+    "rule_number": "733",
+    "keyword_type": "Passive Ability",
+    "applies_to": "Units",
+    "short_description": "Bonus Might while attacking",
+    "functional_text": "While I am an attacker, I have +X [M].",
+    "notes": "Formatted as Assault [X], default X=1. Multiple instances stack (sum values)."
+  }
+}

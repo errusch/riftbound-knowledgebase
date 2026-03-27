@@ -1,0 +1,26 @@
+{
+  "id": "ruling.edge-of-night--errata--20",
+  "type": "ruling_record",
+  "title": "Edge of Night (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "edge-of-night"
+  ],
+  "record": {
+    "id": 20,
+    "card_name": "Edge of Night",
+    "ruling_type": "errata",
+    "old_text": null,
+    "new_text": "[Hidden] When you play this from face down, attach it to a unit you control (here). [Equip] [C]",
+    "explanation": "Wording fix for recall dance",
+    "source_doc": "Spiritforged Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+    "effective_date": "2026-01-14"
+  }
+}

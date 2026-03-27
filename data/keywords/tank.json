@@ -1,0 +1,23 @@
+{
+  "id": "keyword.tank",
+  "type": "keyword_record",
+  "title": "Tank",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "keyword",
+    "Passive Ability"
+  ],
+  "record": {
+    "keyword": "Tank",
+    "rule_number": "741",
+    "keyword_type": "Passive Ability",
+    "applies_to": "Units",
+    "short_description": "Must be assigned damage first in combat",
+    "functional_text": "I must be assigned lethal damage before any other unit without Tank during combat.",
+    "notes": "Multiple Tanks: damage can be assigned to any of them. Non-Tank units invalid until all Tanks have lethal assigned."
+  }
+}

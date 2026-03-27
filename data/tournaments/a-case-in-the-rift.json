@@ -1,0 +1,2410 @@
+{
+  "id": "tournament.a-case-in-the-rift",
+  "type": "tournament_record",
+  "title": "A Case In The Rift",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "tournament",
+    "Constructed",
+    "austin"
+  ],
+  "record": {
+    "tid": "a-case-in-the-rift",
+    "name": "A Case In The Rift",
+    "start_date": 1769280600,
+    "format": "Constructed",
+    "swiss_rounds": 4,
+    "top_cut": 8,
+    "participants": 22,
+    "city": "Austin",
+    "state": "Texas",
+    "location": "3924 Woodbury Dr a, Austin, TX 78704, USA",
+    "country": null
+  },
+  "rounds": [
+    {
+      "id": 4729,
+      "tid": "a-case-in-the-rift",
+      "round": "Finals",
+      "table_num": 1,
+      "player1_name": "Michael DesJardin [BC]",
+      "player1_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "player2_name": "Zachary Bouthillette",
+      "player2_id": "TgMmYLDce0RBSt29nXHijWOK4Rh1",
+      "winner": "Michael DesJardin [BC]",
+      "status": "Completed"
+    },
+    {
+      "id": 4730,
+      "tid": "a-case-in-the-rift",
+      "round": "Top 4",
+      "table_num": 1,
+      "player1_name": "Michael DesJardin [BC]",
+      "player1_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "player2_name": "Jason Pan",
+      "player2_id": "YRGC0gMjN8hC9zk5qlnw65T3bjB3",
+      "winner": "Michael DesJardin [BC]",
+      "status": "Completed"
+    },
+    {
+      "id": 4732,
+      "tid": "a-case-in-the-rift",
+      "round": "Top 8",
+      "table_num": 1,
+      "player1_name": "Michael DesJardin [BC]",
+      "player1_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "player2_name": "Raven Robles",
+      "player2_id": "dOrKTXvVy3ZxjxfKd277utqTe7w2",
+      "winner": "Michael DesJardin [BC]",
+      "status": "Completed"
+    },
+    {
+      "id": 4731,
+      "tid": "a-case-in-the-rift",
+      "round": "Top 4",
+      "table_num": 2,
+      "player1_name": "Robert Storch",
+      "player1_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "player2_name": "Zachary Bouthillette",
+      "player2_id": "TgMmYLDce0RBSt29nXHijWOK4Rh1",
+      "winner": "Zachary Bouthillette",
+      "status": "Completed"
+    },
+    {
+      "id": 4733,
+      "tid": "a-case-in-the-rift",
+      "round": "Top 8",
+      "table_num": 2,
+      "player1_name": "Eric Liu",
+      "player1_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "player2_name": "Jason Pan",
+      "player2_id": "YRGC0gMjN8hC9zk5qlnw65T3bjB3",
+      "winner": "Jason Pan",
+      "status": "Completed"
+    },
+    {
+      "id": 4734,
+      "tid": "a-case-in-the-rift",
+      "round": "Top 8",
+      "table_num": 3,
+      "player1_name": "Zachary Bouthillette",
+      "player1_id": "TgMmYLDce0RBSt29nXHijWOK4Rh1",
+      "player2_name": "Liam",
+      "player2_id": "kXo8vRUrcFjqoLRCNHB1",
+      "winner": "Zachary Bouthillette",
+      "status": "Completed"
+    },
+    {
+      "id": 4735,
+      "tid": "a-case-in-the-rift",
+      "round": "Top 8",
+      "table_num": 4,
+      "player1_name": "Chris Holt",
+      "player1_id": "frDRTupx3NY9BOGDlbuFwXW8MDX2",
+      "player2_name": "Robert Storch",
+      "player2_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "winner": "Robert Storch",
+      "status": "Completed"
+    },
+    {
+      "id": 4699,
+      "tid": "a-case-in-the-rift",
+      "round": "1",
+      "table_num": 1,
+      "player1_name": "Eric Liu",
+      "player1_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "player2_name": "Zach Griffin B.C.",
+      "player2_id": "rXvf3p9iNkVjxdy7zIMjic7p3w33",
+      "winner": "Eric Liu",
+      "status": "Completed"
+    },
+    {
+      "id": 4700,
+      "tid": "a-case-in-the-rift",
+      "round": "1",
+      "table_num": 2,
+      "player1_name": "William Ho",
+      "player1_id": "Cuxz4tAhngZW9JbJhQkpJjU13pY2",
+      "player2_name": "Isaiah Sanford",
+      "player2_id": "isLwUbFtwrduv3ZvC6MX4a0MRyJ3",
+      "winner": "William Ho",
+      "status": "Completed"
+    },
+    {
+      "id": 4701,
+      "tid": "a-case-in-the-rift",
+      "round": "1",
+      "table_num": 3,
+      "player1_name": "Michael DesJardin [BC]",
+      "player1_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "player2_name": "Ryland Quirk",
+      "player2_id": "zV5gmIsMBLUdsXDRvccT4f5CyV42",
+      "winner": "Michael DesJardin [BC]",
+      "status": "Completed"
+    },
+    {
+      "id": 4702,
+      "tid": "a-case-in-the-rift",
+      "round": "1",
+      "table_num": 4,
+      "player1_name": "Anthony Duran",
+      "player1_id": "pAr6Zfb82Me80CpOePU1LpDzCar1",
+      "player2_name": "Liam",
+      "player2_id": "kXo8vRUrcFjqoLRCNHB1",
+      "winner": "Liam",
+      "status": "Completed"
+    },
+    {
+      "id": 4703,
+      "tid": "a-case-in-the-rift",
+      "round": "1",
+      "table_num": 5,
+      "player1_name": "Julian Eccleston",
+      "player1_id": "lTGBqtXn4EO6lRUrcgey5jMU4ww1",
+      "player2_name": "Evan Gao",
+      "player2_id": "q6yfw83yzvU2korB6fl00mcwlGN2",
+      "winner": "Julian Eccleston",
+      "status": "Completed"
+    },
+    {
+      "id": 4704,
+      "tid": "a-case-in-the-rift",
+      "round": "1",
+      "table_num": 6,
+      "player1_name": "Zachary Bouthillette",
+      "player1_id": "TgMmYLDce0RBSt29nXHijWOK4Rh1",
+      "player2_name": "Jonathan R De Leon",
+      "player2_id": "7cY5d8kVI7dADUbCKuMjKjOcNrz2",
+      "winner": "Zachary Bouthillette",
+      "status": "Completed"
+    },
+    {
+      "id": 4705,
+      "tid": "a-case-in-the-rift",
+      "round": "1",
+      "table_num": 7,
+      "player1_name": "Raven Robles",
+      "player1_id": "dOrKTXvVy3ZxjxfKd277utqTe7w2",
+      "player2_name": "Chris Holt",
+      "player2_id": "frDRTupx3NY9BOGDlbuFwXW8MDX2",
+      "winner": "Chris Holt",
+      "status": "Completed"
+    },
+    {
+      "id": 4706,
+      "tid": "a-case-in-the-rift",
+      "round": "1",
+      "table_num": 8,
+      "player1_name": "Robert Storch",
+      "player1_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "player2_name": "Jason Pan",
+      "player2_id": "YRGC0gMjN8hC9zk5qlnw65T3bjB3",
+      "winner": "Jason Pan",
+      "status": "Completed"
+    },
+    {
+      "id": 4707,
+      "tid": "a-case-in-the-rift",
+      "round": "2",
+      "table_num": 1,
+      "player1_name": "William Ho",
+      "player1_id": "Cuxz4tAhngZW9JbJhQkpJjU13pY2",
+      "player2_name": "Eric Liu",
+      "player2_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "winner": "Eric Liu",
+      "status": "Completed"
+    },
+    {
+      "id": 4708,
+      "tid": "a-case-in-the-rift",
+      "round": "2",
+      "table_num": 2,
+      "player1_name": "Zachary Bouthillette",
+      "player1_id": "TgMmYLDce0RBSt29nXHijWOK4Rh1",
+      "player2_name": "Jason Pan",
+      "player2_id": "YRGC0gMjN8hC9zk5qlnw65T3bjB3",
+      "winner": "Zachary Bouthillette",
+      "status": "Completed"
+    },
+    {
+      "id": 4709,
+      "tid": "a-case-in-the-rift",
+      "round": "2",
+      "table_num": 3,
+      "player1_name": "Julian Eccleston",
+      "player1_id": "lTGBqtXn4EO6lRUrcgey5jMU4ww1",
+      "player2_name": "Chris Holt",
+      "player2_id": "frDRTupx3NY9BOGDlbuFwXW8MDX2",
+      "winner": "Chris Holt",
+      "status": "Completed"
+    },
+    {
+      "id": 4710,
+      "tid": "a-case-in-the-rift",
+      "round": "2",
+      "table_num": 4,
+      "player1_name": "Liam",
+      "player1_id": "kXo8vRUrcFjqoLRCNHB1",
+      "player2_name": "Michael DesJardin [BC]",
+      "player2_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "winner": "Michael DesJardin [BC]",
+      "status": "Completed"
+    },
+    {
+      "id": 4711,
+      "tid": "a-case-in-the-rift",
+      "round": "2",
+      "table_num": 5,
+      "player1_name": "Anthony Duran",
+      "player1_id": "pAr6Zfb82Me80CpOePU1LpDzCar1",
+      "player2_name": "Ryland Quirk",
+      "player2_id": "zV5gmIsMBLUdsXDRvccT4f5CyV42",
+      "winner": "Ryland Quirk",
+      "status": "Completed"
+    },
+    {
+      "id": 4712,
+      "tid": "a-case-in-the-rift",
+      "round": "2",
+      "table_num": 6,
+      "player1_name": "Zach Griffin B.C.",
+      "player1_id": "rXvf3p9iNkVjxdy7zIMjic7p3w33",
+      "player2_name": "Evan Gao",
+      "player2_id": "q6yfw83yzvU2korB6fl00mcwlGN2",
+      "winner": "Evan Gao",
+      "status": "Completed"
+    },
+    {
+      "id": 4713,
+      "tid": "a-case-in-the-rift",
+      "round": "2",
+      "table_num": 7,
+      "player1_name": "Robert Storch",
+      "player1_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "player2_name": "Jonathan R De Leon",
+      "player2_id": "7cY5d8kVI7dADUbCKuMjKjOcNrz2",
+      "winner": "Robert Storch",
+      "status": "Completed"
+    },
+    {
+      "id": 4714,
+      "tid": "a-case-in-the-rift",
+      "round": "2",
+      "table_num": 8,
+      "player1_name": "Raven Robles",
+      "player1_id": "dOrKTXvVy3ZxjxfKd277utqTe7w2",
+      "player2_name": "Isaiah Sanford",
+      "player2_id": "isLwUbFtwrduv3ZvC6MX4a0MRyJ3",
+      "winner": "Raven Robles",
+      "status": "Completed"
+    },
+    {
+      "id": 4715,
+      "tid": "a-case-in-the-rift",
+      "round": "3",
+      "table_num": 1,
+      "player1_name": "Zachary Bouthillette",
+      "player1_id": "TgMmYLDce0RBSt29nXHijWOK4Rh1",
+      "player2_name": "Michael DesJardin [BC]",
+      "player2_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 4716,
+      "tid": "a-case-in-the-rift",
+      "round": "3",
+      "table_num": 2,
+      "player1_name": "Eric Liu",
+      "player1_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "player2_name": "Chris Holt",
+      "player2_id": "frDRTupx3NY9BOGDlbuFwXW8MDX2",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 4717,
+      "tid": "a-case-in-the-rift",
+      "round": "3",
+      "table_num": 3,
+      "player1_name": "Raven Robles",
+      "player1_id": "dOrKTXvVy3ZxjxfKd277utqTe7w2",
+      "player2_name": "William Ho",
+      "player2_id": "Cuxz4tAhngZW9JbJhQkpJjU13pY2",
+      "winner": "Raven Robles",
+      "status": "Completed"
+    },
+    {
+      "id": 4718,
+      "tid": "a-case-in-the-rift",
+      "round": "3",
+      "table_num": 4,
+      "player1_name": "Evan Gao",
+      "player1_id": "q6yfw83yzvU2korB6fl00mcwlGN2",
+      "player2_name": "Liam",
+      "player2_id": "kXo8vRUrcFjqoLRCNHB1",
+      "winner": "Liam",
+      "status": "Completed"
+    },
+    {
+      "id": 4719,
+      "tid": "a-case-in-the-rift",
+      "round": "3",
+      "table_num": 5,
+      "player1_name": "Ryland Quirk",
+      "player1_id": "zV5gmIsMBLUdsXDRvccT4f5CyV42",
+      "player2_name": "Robert Storch",
+      "player2_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "winner": "Robert Storch",
+      "status": "Completed"
+    },
+    {
+      "id": 4720,
+      "tid": "a-case-in-the-rift",
+      "round": "3",
+      "table_num": 6,
+      "player1_name": "Julian Eccleston",
+      "player1_id": "lTGBqtXn4EO6lRUrcgey5jMU4ww1",
+      "player2_name": "Jason Pan",
+      "player2_id": "YRGC0gMjN8hC9zk5qlnw65T3bjB3",
+      "winner": "Jason Pan",
+      "status": "Completed"
+    },
+    {
+      "id": 4721,
+      "tid": "a-case-in-the-rift",
+      "round": "3",
+      "table_num": 7,
+      "player1_name": "Zach Griffin B.C.",
+      "player1_id": "rXvf3p9iNkVjxdy7zIMjic7p3w33",
+      "player2_name": "Isaiah Sanford",
+      "player2_id": "isLwUbFtwrduv3ZvC6MX4a0MRyJ3",
+      "winner": "Zach Griffin B.C.",
+      "status": "Completed"
+    },
+    {
+      "id": 4722,
+      "tid": "a-case-in-the-rift",
+      "round": "4",
+      "table_num": 1,
+      "player1_name": "Zachary Bouthillette",
+      "player1_id": "TgMmYLDce0RBSt29nXHijWOK4Rh1",
+      "player2_name": "Eric Liu",
+      "player2_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 4723,
+      "tid": "a-case-in-the-rift",
+      "round": "4",
+      "table_num": 2,
+      "player1_name": "Michael DesJardin [BC]",
+      "player1_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "player2_name": "Chris Holt",
+      "player2_id": "frDRTupx3NY9BOGDlbuFwXW8MDX2",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 4724,
+      "tid": "a-case-in-the-rift",
+      "round": "4",
+      "table_num": 3,
+      "player1_name": "Robert Storch",
+      "player1_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "player2_name": "Liam",
+      "player2_id": "kXo8vRUrcFjqoLRCNHB1",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 4725,
+      "tid": "a-case-in-the-rift",
+      "round": "4",
+      "table_num": 4,
+      "player1_name": "Jason Pan",
+      "player1_id": "YRGC0gMjN8hC9zk5qlnw65T3bjB3",
+      "player2_name": "Raven Robles",
+      "player2_id": "dOrKTXvVy3ZxjxfKd277utqTe7w2",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 4726,
+      "tid": "a-case-in-the-rift",
+      "round": "4",
+      "table_num": 5,
+      "player1_name": "Julian Eccleston",
+      "player1_id": "lTGBqtXn4EO6lRUrcgey5jMU4ww1",
+      "player2_name": "Ryland Quirk",
+      "player2_id": "zV5gmIsMBLUdsXDRvccT4f5CyV42",
+      "winner": "Ryland Quirk",
+      "status": "Completed"
+    },
+    {
+      "id": 4727,
+      "tid": "a-case-in-the-rift",
+      "round": "4",
+      "table_num": 6,
+      "player1_name": "Evan Gao",
+      "player1_id": "q6yfw83yzvU2korB6fl00mcwlGN2",
+      "player2_name": "Anthony Duran",
+      "player2_id": "pAr6Zfb82Me80CpOePU1LpDzCar1",
+      "winner": "Anthony Duran",
+      "status": "Completed"
+    },
+    {
+      "id": 4728,
+      "tid": "a-case-in-the-rift",
+      "round": "4",
+      "table_num": 7,
+      "player1_name": "Zach Griffin B.C.",
+      "player1_id": "rXvf3p9iNkVjxdy7zIMjic7p3w33",
+      "player2_name": "William Ho",
+      "player2_id": "Cuxz4tAhngZW9JbJhQkpJjU13pY2",
+      "winner": "Zach Griffin B.C.",
+      "status": "Completed"
+    }
+  ],
+  "standings": [
+    {
+      "id": 2065,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Michael DesJardin [BC]",
+      "player_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "placement": 1,
+      "wins": 5,
+      "wins_swiss": 2,
+      "wins_bracket": 3,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 2,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 2066,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Zachary Bouthillette",
+      "player_id": "TgMmYLDce0RBSt29nXHijWOK4Rh1",
+      "placement": 2,
+      "wins": 4,
+      "wins_swiss": 2,
+      "wins_bracket": 2,
+      "losses": 1,
+      "losses_swiss": 0,
+      "losses_bracket": 1,
+      "draws": 2,
+      "decklist": "~~Legend~~\\n1 Ahri, Nine-Tailed Fox\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Mind Rune\\n\\n~~Battlefields~~\\n1 Fortified Position\\n1 Hallowed Tomb\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Ahri, Inquisitive\\n2 Blastcone Fae\\n2 Blitzcrank, Impassive\\n2 Charm\\n3 Defy\\n3 Discipline\\n1 En Garde\\n2 Falling Comet\\n2 Find Your Center\\n2 Lecturing Yordle\\n3 Ravenbloom Student\\n2 Retreat\\n2 Singularity\\n3 Stalwart Poro\\n3 Stupefy\\n1 Tasty Faefolk\\n3 Thousand-Tailed Watcher\\n1 Watchful Sentry\\n2 Zhonya\\'s Hourglass\\n\\n~~Sideboard~~\\n1 Charm\\n1 Lecturing Yordle\\n1 Mystic Reversal\\n2 Rune Prison\\n1 Time Warp\\n1 Unchecked Power\\n1 Wind Wall\\n",
+      "deck_obj": "{\"Legend\": {\"Ahri, Nine-Tailed Fox\": {\"id\": \"OGN-255\", \"count\": 1}}, \"Runes\": {\"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 6}}, \"Battlefields\": {\"Fortified Position\": {\"id\": \"OGN-279\", \"count\": 1}, \"Hallowed Tomb\": {\"id\": \"OGN-281\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}}, \"Mainboard\": {\"Ahri, Inquisitive\": {\"id\": \"OGN-119\", \"count\": 1}, \"Blastcone Fae\": {\"id\": \"OGN-097\", \"count\": 2}, \"Blitzcrank, Impassive\": {\"id\": \"OGN-067\", \"count\": 2}, \"Charm\": {\"id\": \"OGN-043\", \"count\": 2}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 3}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 1}, \"Falling Comet\": {\"id\": \"OGN-085\", \"count\": 2}, \"Find Your Center\": {\"id\": \"OGN-047\", \"count\": 2}, \"Lecturing Yordle\": {\"id\": \"OGN-087\", \"count\": 2}, \"Ravenbloom Student\": {\"id\": \"OGN-103\", \"count\": 3}, \"Retreat\": {\"id\": \"OGN-104\", \"count\": 2}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 2}, \"Stalwart Poro\": {\"id\": \"OGN-052\", \"count\": 3}, \"Stupefy\": {\"id\": \"OGN-095\", \"count\": 3}, \"Tasty Faefolk\": {\"id\": \"OGN-075\", \"count\": 1}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 3}, \"Watchful Sentry\": {\"id\": \"OGN-096\", \"count\": 1}, \"Zhonya's Hourglass\": {\"id\": \"OGN-077\", \"count\": 2}}, \"Sideboard\": {\"Charm\": {\"id\": \"OGN-043\", \"count\": 1}, \"Lecturing Yordle\": {\"id\": \"OGN-087\", \"count\": 1}, \"Mystic Reversal\": {\"id\": \"OGN-080\", \"count\": 1}, \"Rune Prison\": {\"id\": \"OGN-050\", \"count\": 2}, \"Time Warp\": {\"id\": \"OGN-122\", \"count\": 1}, \"Unchecked Power\": {\"id\": \"OGN-123\", \"count\": 1}, \"Wind Wall\": {\"id\": \"OGN-064\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Ahri, Nine-Tailed Fox": {
+            "id": "OGN-255",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Fortified Position": {
+            "id": "OGN-279",
+            "count": 1
+          },
+          "Hallowed Tomb": {
+            "id": "OGN-281",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Ahri, Inquisitive": {
+            "id": "OGN-119",
+            "count": 1
+          },
+          "Blastcone Fae": {
+            "id": "OGN-097",
+            "count": 2
+          },
+          "Blitzcrank, Impassive": {
+            "id": "OGN-067",
+            "count": 2
+          },
+          "Charm": {
+            "id": "OGN-043",
+            "count": 2
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 3
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 1
+          },
+          "Falling Comet": {
+            "id": "OGN-085",
+            "count": 2
+          },
+          "Find Your Center": {
+            "id": "OGN-047",
+            "count": 2
+          },
+          "Lecturing Yordle": {
+            "id": "OGN-087",
+            "count": 2
+          },
+          "Ravenbloom Student": {
+            "id": "OGN-103",
+            "count": 3
+          },
+          "Retreat": {
+            "id": "OGN-104",
+            "count": 2
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 2
+          },
+          "Stalwart Poro": {
+            "id": "OGN-052",
+            "count": 3
+          },
+          "Stupefy": {
+            "id": "OGN-095",
+            "count": 3
+          },
+          "Tasty Faefolk": {
+            "id": "OGN-075",
+            "count": 1
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 3
+          },
+          "Watchful Sentry": {
+            "id": "OGN-096",
+            "count": 1
+          },
+          "Zhonya's Hourglass": {
+            "id": "OGN-077",
+            "count": 2
+          }
+        },
+        "Sideboard": {
+          "Charm": {
+            "id": "OGN-043",
+            "count": 1
+          },
+          "Lecturing Yordle": {
+            "id": "OGN-087",
+            "count": 1
+          },
+          "Mystic Reversal": {
+            "id": "OGN-080",
+            "count": 1
+          },
+          "Rune Prison": {
+            "id": "OGN-050",
+            "count": 2
+          },
+          "Time Warp": {
+            "id": "OGN-122",
+            "count": 1
+          },
+          "Unchecked Power": {
+            "id": "OGN-123",
+            "count": 1
+          },
+          "Wind Wall": {
+            "id": "OGN-064",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Ahri, Nine-Tailed Fox\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Mind Rune\\n\\n~~Battlefields~~\\n1 Fortified Position\\n1 Hallowed Tomb\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Ahri, Inquisitive\\n2 Blastcone Fae\\n2 Blitzcrank, Impassive\\n2 Charm\\n3 Defy\\n3 Discipline\\n1 En Garde\\n2 Falling Comet\\n2 Find Your Center\\n2 Lecturing Yordle\\n3 Ravenbloom Student\\n2 Retreat\\n2 Singularity\\n3 Stalwart Poro\\n3 Stupefy\\n1 Tasty Faefolk\\n3 Thousand-Tailed Watcher\\n1 Watchful Sentry\\n2 Zhonya\\'s Hourglass\\n\\n~~Sideboard~~\\n1 Charm\\n1 Lecturing Yordle\\n1 Mystic Reversal\\n2 Rune Prison\\n1 Time Warp\\n1 Unchecked Power\\n1 Wind Wall\\n"
+      ]
+    },
+    {
+      "id": 2067,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Jason Pan",
+      "player_id": "YRGC0gMjN8hC9zk5qlnw65T3bjB3",
+      "placement": 3,
+      "wins": 3,
+      "wins_swiss": 2,
+      "wins_bracket": 1,
+      "losses": 2,
+      "losses_swiss": 1,
+      "losses_bracket": 1,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Master Yi, Wuju Bladesman\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Aspirant\\'s Climb\\n1 Obelisk of Power\\n1 Vilemaw\\'s Lair\\n\\n~~Mainboard~~\\n3 Catalyst of Aeons\\n3 Charm\\n3 Clockwork Keeper\\n3 Deadbloom Predator\\n3 Defy\\n3 Discipline\\n2 En Garde\\n3 Find Your Center\\n2 First Mate\\n1 Master Yi, Honed\\n1 Pit Rookie\\n1 Primal Strength\\n1 Qiyana, Victorious\\n2 Rune Prison\\n3 Sabotage\\n3 Stalwart Poro\\n2 Tasty Faefolk\\n2 Unyielding Spirit\\n3 Whiteflame Protector\\n1 Wind Wall\\n3 Zhonya\\'s Hourglass\\n\\n",
+      "deck_obj": "{\"Legend\": {\"Master Yi, Wuju Bladesman\": {\"id\": \"OGS-019\", \"count\": 1}}, \"Runes\": {\"Body Rune\": {\"id\": \"OGN-126\", \"count\": 6}, \"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}}, \"Battlefields\": {\"Aspirant's Climb\": {\"id\": \"OGN-276\", \"count\": 1}, \"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Vilemaw's Lair\": {\"id\": \"OGN-295\", \"count\": 1}}, \"Mainboard\": {\"Catalyst of Aeons\": {\"id\": \"OGN-138\", \"count\": 3}, \"Charm\": {\"id\": \"OGN-043\", \"count\": 3}, \"Clockwork Keeper\": {\"id\": \"OGN-044\", \"count\": 3}, \"Deadbloom Predator\": {\"id\": \"OGN-161\", \"count\": 3}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 3}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 2}, \"Find Your Center\": {\"id\": \"OGN-047\", \"count\": 3}, \"First Mate\": {\"id\": \"OGN-132\", \"count\": 2}, \"Master Yi, Honed\": {\"id\": \"OGS-009\", \"count\": 1}, \"Pit Rookie\": {\"id\": \"OGN-136\", \"count\": 1}, \"Primal Strength\": {\"id\": \"OGN-154\", \"count\": 1}, \"Qiyana, Victorious\": {\"id\": \"OGN-155\", \"count\": 1}, \"Rune Prison\": {\"id\": \"OGN-050\", \"count\": 2}, \"Sabotage\": {\"id\": \"OGN-156\", \"count\": 3}, \"Stalwart Poro\": {\"id\": \"OGN-052\", \"count\": 3}, \"Tasty Faefolk\": {\"id\": \"OGN-075\", \"count\": 2}, \"Unyielding Spirit\": {\"id\": \"OGN-145\", \"count\": 2}, \"Whiteflame Protector\": {\"id\": \"OGN-082\", \"count\": 3}, \"Wind Wall\": {\"id\": \"OGN-064\", \"count\": 1}, \"Zhonya's Hourglass\": {\"id\": \"OGN-077\", \"count\": 3}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Master Yi, Wuju Bladesman": {
+            "id": "OGS-019",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Body Rune": {
+            "id": "OGN-126",
+            "count": 6
+          },
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Aspirant's Climb": {
+            "id": "OGN-276",
+            "count": 1
+          },
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Vilemaw's Lair": {
+            "id": "OGN-295",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Catalyst of Aeons": {
+            "id": "OGN-138",
+            "count": 3
+          },
+          "Charm": {
+            "id": "OGN-043",
+            "count": 3
+          },
+          "Clockwork Keeper": {
+            "id": "OGN-044",
+            "count": 3
+          },
+          "Deadbloom Predator": {
+            "id": "OGN-161",
+            "count": 3
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 3
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 2
+          },
+          "Find Your Center": {
+            "id": "OGN-047",
+            "count": 3
+          },
+          "First Mate": {
+            "id": "OGN-132",
+            "count": 2
+          },
+          "Master Yi, Honed": {
+            "id": "OGS-009",
+            "count": 1
+          },
+          "Pit Rookie": {
+            "id": "OGN-136",
+            "count": 1
+          },
+          "Primal Strength": {
+            "id": "OGN-154",
+            "count": 1
+          },
+          "Qiyana, Victorious": {
+            "id": "OGN-155",
+            "count": 1
+          },
+          "Rune Prison": {
+            "id": "OGN-050",
+            "count": 2
+          },
+          "Sabotage": {
+            "id": "OGN-156",
+            "count": 3
+          },
+          "Stalwart Poro": {
+            "id": "OGN-052",
+            "count": 3
+          },
+          "Tasty Faefolk": {
+            "id": "OGN-075",
+            "count": 2
+          },
+          "Unyielding Spirit": {
+            "id": "OGN-145",
+            "count": 2
+          },
+          "Whiteflame Protector": {
+            "id": "OGN-082",
+            "count": 3
+          },
+          "Wind Wall": {
+            "id": "OGN-064",
+            "count": 1
+          },
+          "Zhonya's Hourglass": {
+            "id": "OGN-077",
+            "count": 3
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Master Yi, Wuju Bladesman\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Aspirant\\'s Climb\\n1 Obelisk of Power\\n1 Vilemaw\\'s Lair\\n\\n~~Mainboard~~\\n3 Catalyst of Aeons\\n3 Charm\\n3 Clockwork Keeper\\n3 Deadbloom Predator\\n3 Defy\\n3 Discipline\\n2 En Garde\\n3 Find Your Center\\n2 First Mate\\n1 Master Yi, Honed\\n1 Pit Rookie\\n1 Primal Strength\\n1 Qiyana, Victorious\\n2 Rune Prison\\n3 Sabotage\\n3 Stalwart Poro\\n2 Tasty Faefolk\\n2 Unyielding Spirit\\n3 Whiteflame Protector\\n1 Wind Wall\\n3 Zhonya\\'s Hourglass\\n\\n"
+      ]
+    },
+    {
+      "id": 2068,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Robert Storch",
+      "player_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "placement": 4,
+      "wins": 3,
+      "wins_swiss": 2,
+      "wins_bracket": 1,
+      "losses": 2,
+      "losses_swiss": 1,
+      "losses_bracket": 1,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Yasuo, Unforgiven\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 Targon\\'s Peak\\n1 Windswept Hillock\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n1 Charm\\n2 Clockwork Keeper\\n2 Defy\\n3 Discipline\\n3 En Garde\\n2 Fight or Flight\\n2 Gust\\n1 Mask of Foresight\\n3 Mindsplitter\\n1 Rebuke\\n2 Rhasa the Sunderer\\n2 Scrapheap\\n3 Stacked Deck\\n3 Stalwart Poro\\n2 Tideturner\\n3 Traveling Merchant\\n3 Wielder of Water\\n1 Yasuo, Remorseful\\n1 Zhonya\\'s Hourglass\\n\\n~~Sideboard~~\\n1 Defy\\n1 Gust\\n1 Mask of Foresight\\n2 Rebuke\\n1 Ride the Wind\\n1 Tideturner\\n1 Zhonya\\'s Hourglass\\n",
+      "deck_obj": "{\"Legend\": {\"Yasuo, Unforgiven\": {\"id\": \"OGN-259\", \"count\": 1}}, \"Runes\": {\"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}, \"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}}, \"Battlefields\": {\"Targon's Peak\": {\"id\": \"OGN-289\", \"count\": 1}, \"Windswept Hillock\": {\"id\": \"OGN-297\", \"count\": 1}, \"Zaun Warrens\": {\"id\": \"OGN-298\", \"count\": 1}}, \"Mainboard\": {\"Charm\": {\"id\": \"OGN-043\", \"count\": 1}, \"Clockwork Keeper\": {\"id\": \"OGN-044\", \"count\": 2}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 2}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 3}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 2}, \"Gust\": {\"id\": \"OGN-169\", \"count\": 2}, \"Mask of Foresight\": {\"id\": \"OGN-060\", \"count\": 1}, \"Mindsplitter\": {\"id\": \"OGN-192\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Rhasa the Sunderer\": {\"id\": \"OGN-195\", \"count\": 2}, \"Scrapheap\": {\"id\": \"OGN-182\", \"count\": 2}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Stalwart Poro\": {\"id\": \"OGN-052\", \"count\": 3}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 2}, \"Traveling Merchant\": {\"id\": \"OGN-185\", \"count\": 3}, \"Wielder of Water\": {\"id\": \"OGN-055\", \"count\": 3}, \"Yasuo, Remorseful\": {\"id\": \"OGN-076\", \"count\": 1}, \"Zhonya's Hourglass\": {\"id\": \"OGN-077\", \"count\": 1}}, \"Sideboard\": {\"Defy\": {\"id\": \"OGN-045\", \"count\": 1}, \"Gust\": {\"id\": \"OGN-169\", \"count\": 1}, \"Mask of Foresight\": {\"id\": \"OGN-060\", \"count\": 1}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 1}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 1}, \"Zhonya's Hourglass\": {\"id\": \"OGN-077\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Yasuo, Unforgiven": {
+            "id": "OGN-259",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          },
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Targon's Peak": {
+            "id": "OGN-289",
+            "count": 1
+          },
+          "Windswept Hillock": {
+            "id": "OGN-297",
+            "count": 1
+          },
+          "Zaun Warrens": {
+            "id": "OGN-298",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Charm": {
+            "id": "OGN-043",
+            "count": 1
+          },
+          "Clockwork Keeper": {
+            "id": "OGN-044",
+            "count": 2
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 2
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 3
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 2
+          },
+          "Gust": {
+            "id": "OGN-169",
+            "count": 2
+          },
+          "Mask of Foresight": {
+            "id": "OGN-060",
+            "count": 1
+          },
+          "Mindsplitter": {
+            "id": "OGN-192",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Rhasa the Sunderer": {
+            "id": "OGN-195",
+            "count": 2
+          },
+          "Scrapheap": {
+            "id": "OGN-182",
+            "count": 2
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Stalwart Poro": {
+            "id": "OGN-052",
+            "count": 3
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 2
+          },
+          "Traveling Merchant": {
+            "id": "OGN-185",
+            "count": 3
+          },
+          "Wielder of Water": {
+            "id": "OGN-055",
+            "count": 3
+          },
+          "Yasuo, Remorseful": {
+            "id": "OGN-076",
+            "count": 1
+          },
+          "Zhonya's Hourglass": {
+            "id": "OGN-077",
+            "count": 1
+          }
+        },
+        "Sideboard": {
+          "Defy": {
+            "id": "OGN-045",
+            "count": 1
+          },
+          "Gust": {
+            "id": "OGN-169",
+            "count": 1
+          },
+          "Mask of Foresight": {
+            "id": "OGN-060",
+            "count": 1
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 1
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 1
+          },
+          "Zhonya's Hourglass": {
+            "id": "OGN-077",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Yasuo, Unforgiven\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 Targon\\'s Peak\\n1 Windswept Hillock\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n1 Charm\\n2 Clockwork Keeper\\n2 Defy\\n3 Discipline\\n3 En Garde\\n2 Fight or Flight\\n2 Gust\\n1 Mask of Foresight\\n3 Mindsplitter\\n1 Rebuke\\n2 Rhasa the Sunderer\\n2 Scrapheap\\n3 Stacked Deck\\n3 Stalwart Poro\\n2 Tideturner\\n3 Traveling Merchant\\n3 Wielder of Water\\n1 Yasuo, Remorseful\\n1 Zhonya\\'s Hourglass\\n\\n~~Sideboard~~\\n1 Defy\\n1 Gust\\n1 Mask of Foresight\\n2 Rebuke\\n1 Ride the Wind\\n1 Tideturner\\n1 Zhonya\\'s Hourglass\\n"
+      ]
+    },
+    {
+      "id": 2069,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Chris Holt",
+      "player_id": "frDRTupx3NY9BOGDlbuFwXW8MDX2",
+      "placement": 5,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 0,
+      "losses_bracket": 1,
+      "draws": 2,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Startipped Peak\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Cleave\\n3 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Kai\\'Sa, Survivor\\n2 Lecturing Yordle\\n3 Noxus Hopeful\\n1 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Time Warp\\n3 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Icathian Rain\\n3 Smoke Screen\\n3 Thermo Beam\\n1 Unchecked Power\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"OGN-247\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 7}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 5}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"OGN-280\", \"count\": 1}, \"Startipped Peak\": {\"id\": \"OGN-288\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}}, \"Mainboard\": {\"Cleave\": {\"id\": \"OGN-004\", \"count\": 3}, \"Darius, Trifarian\": {\"id\": \"OGN-027\", \"count\": 3}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 3}, \"Hextech Ray\": {\"id\": \"OGN-009\", \"count\": 3}, \"Kai'Sa, Survivor\": {\"id\": \"OGN-039\", \"count\": 2}, \"Lecturing Yordle\": {\"id\": \"OGN-087\", \"count\": 2}, \"Noxus Hopeful\": {\"id\": \"OGN-012\", \"count\": 3}, \"Pouty Poro\": {\"id\": \"OGN-013\", \"count\": 1}, \"Ravenbloom Student\": {\"id\": \"OGN-103\", \"count\": 3}, \"Retreat\": {\"id\": \"OGN-104\", \"count\": 3}, \"Stupefy\": {\"id\": \"OGN-095\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 3}, \"Time Warp\": {\"id\": \"OGN-122\", \"count\": 2}, \"Void Seeker\": {\"id\": \"OGN-024\", \"count\": 3}, \"Watchful Sentry\": {\"id\": \"OGN-096\", \"count\": 3}}, \"Sideboard\": {\"Icathian Rain\": {\"id\": \"OGN-248\", \"count\": 1}, \"Smoke Screen\": {\"id\": \"OGN-093\", \"count\": 3}, \"Thermo Beam\": {\"id\": \"OGN-022\", \"count\": 3}, \"Unchecked Power\": {\"id\": \"OGN-123\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "OGN-247",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "OGN-280",
+            "count": 1
+          },
+          "Startipped Peak": {
+            "id": "OGN-288",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Cleave": {
+            "id": "OGN-004",
+            "count": 3
+          },
+          "Darius, Trifarian": {
+            "id": "OGN-027",
+            "count": 3
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 3
+          },
+          "Hextech Ray": {
+            "id": "OGN-009",
+            "count": 3
+          },
+          "Kai'Sa, Survivor": {
+            "id": "OGN-039",
+            "count": 2
+          },
+          "Lecturing Yordle": {
+            "id": "OGN-087",
+            "count": 2
+          },
+          "Noxus Hopeful": {
+            "id": "OGN-012",
+            "count": 3
+          },
+          "Pouty Poro": {
+            "id": "OGN-013",
+            "count": 1
+          },
+          "Ravenbloom Student": {
+            "id": "OGN-103",
+            "count": 3
+          },
+          "Retreat": {
+            "id": "OGN-104",
+            "count": 3
+          },
+          "Stupefy": {
+            "id": "OGN-095",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 3
+          },
+          "Time Warp": {
+            "id": "OGN-122",
+            "count": 2
+          },
+          "Void Seeker": {
+            "id": "OGN-024",
+            "count": 3
+          },
+          "Watchful Sentry": {
+            "id": "OGN-096",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Icathian Rain": {
+            "id": "OGN-248",
+            "count": 1
+          },
+          "Smoke Screen": {
+            "id": "OGN-093",
+            "count": 3
+          },
+          "Thermo Beam": {
+            "id": "OGN-022",
+            "count": 3
+          },
+          "Unchecked Power": {
+            "id": "OGN-123",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Startipped Peak\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Cleave\\n3 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Kai\\'Sa, Survivor\\n2 Lecturing Yordle\\n3 Noxus Hopeful\\n1 Pouty Poro\\n3 Ravenbloom Student\\n3 Retreat\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Time Warp\\n3 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Icathian Rain\\n3 Smoke Screen\\n3 Thermo Beam\\n1 Unchecked Power\\n"
+      ]
+    },
+    {
+      "id": 2070,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Eric Liu",
+      "player_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "placement": 6,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 1,
+      "losses_swiss": 0,
+      "losses_bracket": 1,
+      "draws": 2,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n2 Cleave\\n3 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n2 Lecturing Yordle\\n3 Noxus Hopeful\\n3 Pouty Poro\\n2 Ravenbloom Student\\n3 Retreat\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Time Warp\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n2 Mega-Mech\\n2 Singularity\\n2 Smoke Screen\\n2 Thermo Beam\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"OGN-247\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 7}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 5}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"OGN-280\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"OGN-285\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}}, \"Mainboard\": {\"Cleave\": {\"id\": \"OGN-004\", \"count\": 2}, \"Darius, Trifarian\": {\"id\": \"OGN-027\", \"count\": 3}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 3}, \"Hextech Ray\": {\"id\": \"OGN-009\", \"count\": 3}, \"Icathian Rain\": {\"id\": \"OGN-248\", \"count\": 2}, \"Kai'Sa, Survivor\": {\"id\": \"OGN-039\", \"count\": 1}, \"Lecturing Yordle\": {\"id\": \"OGN-087\", \"count\": 2}, \"Noxus Hopeful\": {\"id\": \"OGN-012\", \"count\": 3}, \"Pouty Poro\": {\"id\": \"OGN-013\", \"count\": 3}, \"Ravenbloom Student\": {\"id\": \"OGN-103\", \"count\": 2}, \"Retreat\": {\"id\": \"OGN-104\", \"count\": 3}, \"Stupefy\": {\"id\": \"OGN-095\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 3}, \"Time Warp\": {\"id\": \"OGN-122\", \"count\": 2}, \"Void Seeker\": {\"id\": \"OGN-024\", \"count\": 2}, \"Watchful Sentry\": {\"id\": \"OGN-096\", \"count\": 3}}, \"Sideboard\": {\"Mega-Mech\": {\"id\": \"OGN-088\", \"count\": 2}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 2}, \"Smoke Screen\": {\"id\": \"OGN-093\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"OGN-022\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "OGN-247",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "OGN-280",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "OGN-285",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Cleave": {
+            "id": "OGN-004",
+            "count": 2
+          },
+          "Darius, Trifarian": {
+            "id": "OGN-027",
+            "count": 3
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 3
+          },
+          "Hextech Ray": {
+            "id": "OGN-009",
+            "count": 3
+          },
+          "Icathian Rain": {
+            "id": "OGN-248",
+            "count": 2
+          },
+          "Kai'Sa, Survivor": {
+            "id": "OGN-039",
+            "count": 1
+          },
+          "Lecturing Yordle": {
+            "id": "OGN-087",
+            "count": 2
+          },
+          "Noxus Hopeful": {
+            "id": "OGN-012",
+            "count": 3
+          },
+          "Pouty Poro": {
+            "id": "OGN-013",
+            "count": 3
+          },
+          "Ravenbloom Student": {
+            "id": "OGN-103",
+            "count": 2
+          },
+          "Retreat": {
+            "id": "OGN-104",
+            "count": 3
+          },
+          "Stupefy": {
+            "id": "OGN-095",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 3
+          },
+          "Time Warp": {
+            "id": "OGN-122",
+            "count": 2
+          },
+          "Void Seeker": {
+            "id": "OGN-024",
+            "count": 2
+          },
+          "Watchful Sentry": {
+            "id": "OGN-096",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Mega-Mech": {
+            "id": "OGN-088",
+            "count": 2
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 2
+          },
+          "Smoke Screen": {
+            "id": "OGN-093",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "OGN-022",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Reaver\\'s Row\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n2 Cleave\\n3 Darius, Trifarian\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n2 Lecturing Yordle\\n3 Noxus Hopeful\\n3 Pouty Poro\\n2 Ravenbloom Student\\n3 Retreat\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Time Warp\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n2 Mega-Mech\\n2 Singularity\\n2 Smoke Screen\\n2 Thermo Beam\\n"
+      ]
+    },
+    {
+      "id": 2071,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Liam",
+      "player_id": "kXo8vRUrcFjqoLRCNHB1",
+      "placement": 7,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 1,
+      "losses_bracket": 1,
+      "draws": 1,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 2072,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Raven Robles",
+      "player_id": "dOrKTXvVy3ZxjxfKd277utqTe7w2",
+      "placement": 8,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 1,
+      "losses_bracket": 1,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Volibear, Relentless Storm\\n\\n~~Runes~~\\n6 Body Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 Aspirant\\'s Climb\\n1 Obelisk of Power\\n1 Sigil of the Storm\\n\\n~~Mainboard~~\\n3 Catalyst of Aeons\\n3 Dazzling Aurora\\n3 Deadbloom Predator\\n2 Disintegrate\\n3 Falling Star\\n2 Get Excited!\\n3 Kadregrin the Infernal\\n2 Miss Fortune, Captain\\n2 Mobilize\\n3 Sabotage\\n3 Sky Splitter\\n2 Stormbringer\\n3 Void Seeker\\n3 Volibear, Furious\\n3 Volibear, Imposing\\n\\n~~Sideboard~~\\n1 Get Excited!\\n3 Iron Ballista\\n2 Primal Strength\\n2 Unyielding Spirit\\n",
+      "deck_obj": "{\"Legend\": {\"Volibear, Relentless Storm\": {\"id\": \"OGN-249\", \"count\": 1}}, \"Runes\": {\"Body Rune\": {\"id\": \"OGN-126\", \"count\": 6}, \"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 6}}, \"Battlefields\": {\"Aspirant's Climb\": {\"id\": \"OGN-276\", \"count\": 1}, \"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Sigil of the Storm\": {\"id\": \"OGN-287\", \"count\": 1}}, \"Mainboard\": {\"Catalyst of Aeons\": {\"id\": \"OGN-138\", \"count\": 3}, \"Dazzling Aurora\": {\"id\": \"OGN-160\", \"count\": 3}, \"Deadbloom Predator\": {\"id\": \"OGN-161\", \"count\": 3}, \"Disintegrate\": {\"id\": \"OGN-005\", \"count\": 2}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 3}, \"Get Excited!\": {\"id\": \"OGN-008\", \"count\": 2}, \"Kadregrin the Infernal\": {\"id\": \"OGN-038\", \"count\": 3}, \"Miss Fortune, Captain\": {\"id\": \"OGN-162\", \"count\": 2}, \"Mobilize\": {\"id\": \"OGN-134\", \"count\": 2}, \"Sabotage\": {\"id\": \"OGN-156\", \"count\": 3}, \"Sky Splitter\": {\"id\": \"OGN-014\", \"count\": 3}, \"Stormbringer\": {\"id\": \"OGN-250\", \"count\": 2}, \"Void Seeker\": {\"id\": \"OGN-024\", \"count\": 3}, \"Volibear, Furious\": {\"id\": \"OGN-041\", \"count\": 3}, \"Volibear, Imposing\": {\"id\": \"OGN-158\", \"count\": 3}}, \"Sideboard\": {\"Get Excited!\": {\"id\": \"OGN-008\", \"count\": 1}, \"Iron Ballista\": {\"id\": \"OGN-017\", \"count\": 3}, \"Primal Strength\": {\"id\": \"OGN-154\", \"count\": 2}, \"Unyielding Spirit\": {\"id\": \"OGN-145\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Volibear, Relentless Storm": {
+            "id": "OGN-249",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Body Rune": {
+            "id": "OGN-126",
+            "count": 6
+          },
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Aspirant's Climb": {
+            "id": "OGN-276",
+            "count": 1
+          },
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Sigil of the Storm": {
+            "id": "OGN-287",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Catalyst of Aeons": {
+            "id": "OGN-138",
+            "count": 3
+          },
+          "Dazzling Aurora": {
+            "id": "OGN-160",
+            "count": 3
+          },
+          "Deadbloom Predator": {
+            "id": "OGN-161",
+            "count": 3
+          },
+          "Disintegrate": {
+            "id": "OGN-005",
+            "count": 2
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 3
+          },
+          "Get Excited!": {
+            "id": "OGN-008",
+            "count": 2
+          },
+          "Kadregrin the Infernal": {
+            "id": "OGN-038",
+            "count": 3
+          },
+          "Miss Fortune, Captain": {
+            "id": "OGN-162",
+            "count": 2
+          },
+          "Mobilize": {
+            "id": "OGN-134",
+            "count": 2
+          },
+          "Sabotage": {
+            "id": "OGN-156",
+            "count": 3
+          },
+          "Sky Splitter": {
+            "id": "OGN-014",
+            "count": 3
+          },
+          "Stormbringer": {
+            "id": "OGN-250",
+            "count": 2
+          },
+          "Void Seeker": {
+            "id": "OGN-024",
+            "count": 3
+          },
+          "Volibear, Furious": {
+            "id": "OGN-041",
+            "count": 3
+          },
+          "Volibear, Imposing": {
+            "id": "OGN-158",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Get Excited!": {
+            "id": "OGN-008",
+            "count": 1
+          },
+          "Iron Ballista": {
+            "id": "OGN-017",
+            "count": 3
+          },
+          "Primal Strength": {
+            "id": "OGN-154",
+            "count": 2
+          },
+          "Unyielding Spirit": {
+            "id": "OGN-145",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Volibear, Relentless Storm\\n\\n~~Runes~~\\n6 Body Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 Aspirant\\'s Climb\\n1 Obelisk of Power\\n1 Sigil of the Storm\\n\\n~~Mainboard~~\\n3 Catalyst of Aeons\\n3 Dazzling Aurora\\n3 Deadbloom Predator\\n2 Disintegrate\\n3 Falling Star\\n2 Get Excited!\\n3 Kadregrin the Infernal\\n2 Miss Fortune, Captain\\n2 Mobilize\\n3 Sabotage\\n3 Sky Splitter\\n2 Stormbringer\\n3 Void Seeker\\n3 Volibear, Furious\\n3 Volibear, Imposing\\n\\n~~Sideboard~~\\n1 Get Excited!\\n3 Iron Ballista\\n2 Primal Strength\\n2 Unyielding Spirit\\n"
+      ]
+    },
+    {
+      "id": 2073,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Ryland Quirk",
+      "player_id": "zV5gmIsMBLUdsXDRvccT4f5CyV42",
+      "placement": 9,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Yasuo, Unforgiven\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 The Dreaming Tree\\n1 Windswept Hillock\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n2 Defy\\n3 Discipline\\n3 En Garde\\n3 Fight or Flight\\n1 Gust\\n3 Mask of Foresight\\n3 Mindsplitter\\n1 Rebuke\\n2 Rhasa the Sunderer\\n1 Ride the Wind\\n2 Scrapheap\\n2 Stacked Deck\\n3 Stalwart Poro\\n2 Teemo, Scout\\n2 Tideturner\\n3 Traveling Merchant\\n3 Wielder of Water\\n1 Yasuo, Remorseful\\n\\n~~Sideboard~~\\n1 Defy\\n1 Fading Memories\\n2 Gust\\n2 Rebuke\\n1 Ride the Wind\\n1 Wind Wall\\n",
+      "deck_obj": "{\"Legend\": {\"Yasuo, Unforgiven\": {\"id\": \"OGN-259\", \"count\": 1}}, \"Runes\": {\"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}, \"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}}, \"Battlefields\": {\"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}, \"Windswept Hillock\": {\"id\": \"OGN-297\", \"count\": 1}, \"Zaun Warrens\": {\"id\": \"OGN-298\", \"count\": 1}}, \"Mainboard\": {\"Defy\": {\"id\": \"OGN-045\", \"count\": 2}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 3}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 3}, \"Gust\": {\"id\": \"OGN-169\", \"count\": 1}, \"Mask of Foresight\": {\"id\": \"OGN-060\", \"count\": 3}, \"Mindsplitter\": {\"id\": \"OGN-192\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Rhasa the Sunderer\": {\"id\": \"OGN-195\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 1}, \"Scrapheap\": {\"id\": \"OGN-182\", \"count\": 2}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 2}, \"Stalwart Poro\": {\"id\": \"OGN-052\", \"count\": 3}, \"Teemo, Scout\": {\"id\": \"OGN-197\", \"count\": 2}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 2}, \"Traveling Merchant\": {\"id\": \"OGN-185\", \"count\": 3}, \"Wielder of Water\": {\"id\": \"OGN-055\", \"count\": 3}, \"Yasuo, Remorseful\": {\"id\": \"OGN-076\", \"count\": 1}}, \"Sideboard\": {\"Defy\": {\"id\": \"OGN-045\", \"count\": 1}, \"Fading Memories\": {\"id\": \"OGN-180\", \"count\": 1}, \"Gust\": {\"id\": \"OGN-169\", \"count\": 2}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 1}, \"Wind Wall\": {\"id\": \"OGN-064\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Yasuo, Unforgiven": {
+            "id": "OGN-259",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          },
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          },
+          "Windswept Hillock": {
+            "id": "OGN-297",
+            "count": 1
+          },
+          "Zaun Warrens": {
+            "id": "OGN-298",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Defy": {
+            "id": "OGN-045",
+            "count": 2
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 3
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 3
+          },
+          "Gust": {
+            "id": "OGN-169",
+            "count": 1
+          },
+          "Mask of Foresight": {
+            "id": "OGN-060",
+            "count": 3
+          },
+          "Mindsplitter": {
+            "id": "OGN-192",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Rhasa the Sunderer": {
+            "id": "OGN-195",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 1
+          },
+          "Scrapheap": {
+            "id": "OGN-182",
+            "count": 2
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 2
+          },
+          "Stalwart Poro": {
+            "id": "OGN-052",
+            "count": 3
+          },
+          "Teemo, Scout": {
+            "id": "OGN-197",
+            "count": 2
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 2
+          },
+          "Traveling Merchant": {
+            "id": "OGN-185",
+            "count": 3
+          },
+          "Wielder of Water": {
+            "id": "OGN-055",
+            "count": 3
+          },
+          "Yasuo, Remorseful": {
+            "id": "OGN-076",
+            "count": 1
+          }
+        },
+        "Sideboard": {
+          "Defy": {
+            "id": "OGN-045",
+            "count": 1
+          },
+          "Fading Memories": {
+            "id": "OGN-180",
+            "count": 1
+          },
+          "Gust": {
+            "id": "OGN-169",
+            "count": 2
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 1
+          },
+          "Wind Wall": {
+            "id": "OGN-064",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Yasuo, Unforgiven\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 The Dreaming Tree\\n1 Windswept Hillock\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n2 Defy\\n3 Discipline\\n3 En Garde\\n3 Fight or Flight\\n1 Gust\\n3 Mask of Foresight\\n3 Mindsplitter\\n1 Rebuke\\n2 Rhasa the Sunderer\\n1 Ride the Wind\\n2 Scrapheap\\n2 Stacked Deck\\n3 Stalwart Poro\\n2 Teemo, Scout\\n2 Tideturner\\n3 Traveling Merchant\\n3 Wielder of Water\\n1 Yasuo, Remorseful\\n\\n~~Sideboard~~\\n1 Defy\\n1 Fading Memories\\n2 Gust\\n2 Rebuke\\n1 Ride the Wind\\n1 Wind Wall\\n"
+      ]
+    },
+    {
+      "id": 2074,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Anthony Duran",
+      "player_id": "pAr6Zfb82Me80CpOePU1LpDzCar1",
+      "placement": 10,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Teemo, Swift Scout\\n\\n~~Runes~~\\n4 Chaos Rune\\n8 Mind Rune\\n\\n~~Battlefields~~\\n1 Bandle Tree\\n1 The Arena\\'s Greatest\\n1 The Candlelit Sanctum\\n\\n~~Mainboard~~\\n3 Blastcone Fae\\n3 Ember Monk\\n3 Fight or Flight\\n3 Nocturne, Horrifying\\n2 Progress Day\\n3 Ravenbloom Student\\n2 Singularity\\n3 Smoke Screen\\n3 Sprite Call\\n3 Stacked Deck\\n3 Teemo, Scout\\n3 Teemo, Strategist\\n3 Thousand-Tailed Watcher\\n3 Tideturner\\n\\n",
+      "deck_obj": "{\"Legend\": {\"Teemo, Swift Scout\": {\"id\": \"OGN-263\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 4}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 8}}, \"Battlefields\": {\"Bandle Tree\": {\"id\": \"OGN-278\", \"count\": 1}, \"The Arena's Greatest\": {\"id\": \"OGN-290\", \"count\": 1}, \"The Candlelit Sanctum\": {\"id\": \"OGN-291\", \"count\": 1}}, \"Mainboard\": {\"Blastcone Fae\": {\"id\": \"OGN-097\", \"count\": 3}, \"Ember Monk\": {\"id\": \"OGN-167\", \"count\": 3}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 3}, \"Nocturne, Horrifying\": {\"id\": \"OGN-194\", \"count\": 3}, \"Progress Day\": {\"id\": \"OGN-114\", \"count\": 2}, \"Ravenbloom Student\": {\"id\": \"OGN-103\", \"count\": 3}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 2}, \"Smoke Screen\": {\"id\": \"OGN-093\", \"count\": 3}, \"Sprite Call\": {\"id\": \"OGN-094\", \"count\": 3}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Teemo, Scout\": {\"id\": \"OGN-197\", \"count\": 3}, \"Teemo, Strategist\": {\"id\": \"OGN-121\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 3}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 3}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Teemo, Swift Scout": {
+            "id": "OGN-263",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 4
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 8
+          }
+        },
+        "Battlefields": {
+          "Bandle Tree": {
+            "id": "OGN-278",
+            "count": 1
+          },
+          "The Arena's Greatest": {
+            "id": "OGN-290",
+            "count": 1
+          },
+          "The Candlelit Sanctum": {
+            "id": "OGN-291",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Blastcone Fae": {
+            "id": "OGN-097",
+            "count": 3
+          },
+          "Ember Monk": {
+            "id": "OGN-167",
+            "count": 3
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 3
+          },
+          "Nocturne, Horrifying": {
+            "id": "OGN-194",
+            "count": 3
+          },
+          "Progress Day": {
+            "id": "OGN-114",
+            "count": 2
+          },
+          "Ravenbloom Student": {
+            "id": "OGN-103",
+            "count": 3
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 2
+          },
+          "Smoke Screen": {
+            "id": "OGN-093",
+            "count": 3
+          },
+          "Sprite Call": {
+            "id": "OGN-094",
+            "count": 3
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Teemo, Scout": {
+            "id": "OGN-197",
+            "count": 3
+          },
+          "Teemo, Strategist": {
+            "id": "OGN-121",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 3
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 3
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Teemo, Swift Scout\\n\\n~~Runes~~\\n4 Chaos Rune\\n8 Mind Rune\\n\\n~~Battlefields~~\\n1 Bandle Tree\\n1 The Arena\\'s Greatest\\n1 The Candlelit Sanctum\\n\\n~~Mainboard~~\\n3 Blastcone Fae\\n3 Ember Monk\\n3 Fight or Flight\\n3 Nocturne, Horrifying\\n2 Progress Day\\n3 Ravenbloom Student\\n2 Singularity\\n3 Smoke Screen\\n3 Sprite Call\\n3 Stacked Deck\\n3 Teemo, Scout\\n3 Teemo, Strategist\\n3 Thousand-Tailed Watcher\\n3 Tideturner\\n\\n"
+      ]
+    },
+    {
+      "id": 2075,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Zach Griffin B.C.",
+      "player_id": "rXvf3p9iNkVjxdy7zIMjic7p3w33",
+      "placement": 11,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 2076,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Julian Eccleston",
+      "player_id": "lTGBqtXn4EO6lRUrcgey5jMU4ww1",
+      "placement": 12,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 2077,
+      "tid": "a-case-in-the-rift",
+      "player_name": "William Ho",
+      "player_id": "Cuxz4tAhngZW9JbJhQkpJjU13pY2",
+      "placement": 13,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Yasuo, Unforgiven\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 The Dreaming Tree\\n1 Windswept Hillock\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n1 Charm\\n2 Defy\\n3 Discipline\\n3 En Garde\\n3 Fight or Flight\\n2 Mask of Foresight\\n3 Mindsplitter\\n2 Rhasa the Sunderer\\n1 Ride the Wind\\n3 Scrapheap\\n3 Stacked Deck\\n3 Stalwart Poro\\n2 Teemo, Scout\\n2 Tideturner\\n3 Traveling Merchant\\n3 Wielder of Water\\n1 Yasuo, Remorseful\\n\\n~~Sideboard~~\\n2 Adaptatron\\n1 Flash\\n2 Rebuke\\n1 Rune Prison\\n2 Wind Wall\\n",
+      "deck_obj": "{\"Legend\": {\"Yasuo, Unforgiven\": {\"id\": \"OGN-259\", \"count\": 1}}, \"Runes\": {\"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}, \"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}}, \"Battlefields\": {\"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}, \"Windswept Hillock\": {\"id\": \"OGN-297\", \"count\": 1}, \"Zaun Warrens\": {\"id\": \"OGN-298\", \"count\": 1}}, \"Mainboard\": {\"Charm\": {\"id\": \"OGN-043\", \"count\": 1}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 2}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 3}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 3}, \"Mask of Foresight\": {\"id\": \"OGN-060\", \"count\": 2}, \"Mindsplitter\": {\"id\": \"OGN-192\", \"count\": 3}, \"Rhasa the Sunderer\": {\"id\": \"OGN-195\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 1}, \"Scrapheap\": {\"id\": \"OGN-182\", \"count\": 3}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Stalwart Poro\": {\"id\": \"OGN-052\", \"count\": 3}, \"Teemo, Scout\": {\"id\": \"OGN-197\", \"count\": 2}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 2}, \"Traveling Merchant\": {\"id\": \"OGN-185\", \"count\": 3}, \"Wielder of Water\": {\"id\": \"OGN-055\", \"count\": 3}, \"Yasuo, Remorseful\": {\"id\": \"OGN-076\", \"count\": 1}}, \"Sideboard\": {\"Adaptatron\": {\"id\": \"OGN-056\", \"count\": 2}, \"Flash\": {\"id\": \"OGS-011\", \"count\": 1}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 2}, \"Rune Prison\": {\"id\": \"OGN-050\", \"count\": 1}, \"Wind Wall\": {\"id\": \"OGN-064\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Yasuo, Unforgiven": {
+            "id": "OGN-259",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          },
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          },
+          "Windswept Hillock": {
+            "id": "OGN-297",
+            "count": 1
+          },
+          "Zaun Warrens": {
+            "id": "OGN-298",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Charm": {
+            "id": "OGN-043",
+            "count": 1
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 2
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 3
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 3
+          },
+          "Mask of Foresight": {
+            "id": "OGN-060",
+            "count": 2
+          },
+          "Mindsplitter": {
+            "id": "OGN-192",
+            "count": 3
+          },
+          "Rhasa the Sunderer": {
+            "id": "OGN-195",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 1
+          },
+          "Scrapheap": {
+            "id": "OGN-182",
+            "count": 3
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Stalwart Poro": {
+            "id": "OGN-052",
+            "count": 3
+          },
+          "Teemo, Scout": {
+            "id": "OGN-197",
+            "count": 2
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 2
+          },
+          "Traveling Merchant": {
+            "id": "OGN-185",
+            "count": 3
+          },
+          "Wielder of Water": {
+            "id": "OGN-055",
+            "count": 3
+          },
+          "Yasuo, Remorseful": {
+            "id": "OGN-076",
+            "count": 1
+          }
+        },
+        "Sideboard": {
+          "Adaptatron": {
+            "id": "OGN-056",
+            "count": 2
+          },
+          "Flash": {
+            "id": "OGS-011",
+            "count": 1
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 2
+          },
+          "Rune Prison": {
+            "id": "OGN-050",
+            "count": 1
+          },
+          "Wind Wall": {
+            "id": "OGN-064",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Yasuo, Unforgiven\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 The Dreaming Tree\\n1 Windswept Hillock\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n1 Charm\\n2 Defy\\n3 Discipline\\n3 En Garde\\n3 Fight or Flight\\n2 Mask of Foresight\\n3 Mindsplitter\\n2 Rhasa the Sunderer\\n1 Ride the Wind\\n3 Scrapheap\\n3 Stacked Deck\\n3 Stalwart Poro\\n2 Teemo, Scout\\n2 Tideturner\\n3 Traveling Merchant\\n3 Wielder of Water\\n1 Yasuo, Remorseful\\n\\n~~Sideboard~~\\n2 Adaptatron\\n1 Flash\\n2 Rebuke\\n1 Rune Prison\\n2 Wind Wall\\n"
+      ]
+    },
+    {
+      "id": 2078,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Evan Gao",
+      "player_id": "q6yfw83yzvU2korB6fl00mcwlGN2",
+      "placement": 14,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Sett, The Boss\\n\\n~~Runes~~\\n7 Body Rune\\n5 Order Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Monastery of Hirana\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Arena Bar\\n3 Call to Glory\\n3 Challenge\\n3 Cithria of Cloudfield\\n1 Confront\\n3 Fiora, Victorious\\n3 First Mate\\n3 Hidden Blade\\n2 Kinkou Monk\\n1 Lee Sin, Centered\\n3 Pit Rookie\\n2 Primal Strength\\n1 Qiyana, Victorious\\n1 Sabotage\\n3 Sett, Kingpin\\n1 Shen, Kinkou\\n3 Showstopper\\n1 Wildclaw Shaman\\n\\n~~Sideboard~~\\n1 Imperial Decree\\n1 Sabotage\\n2 Salvage\\n1 Sett, Brawler\\n2 Unyielding Spirit\\n1 Wildclaw Shaman\\n",
+      "deck_obj": "{\"Legend\": {\"Sett, The Boss\": {\"id\": \"OGN-269\", \"count\": 1}}, \"Runes\": {\"Body Rune\": {\"id\": \"OGN-126\", \"count\": 7}, \"Order Rune\": {\"id\": \"OGN-214\", \"count\": 5}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"OGN-280\", \"count\": 1}, \"Monastery of Hirana\": {\"id\": \"OGN-282\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}}, \"Mainboard\": {\"Arena Bar\": {\"id\": \"OGN-124\", \"count\": 3}, \"Call to Glory\": {\"id\": \"OGN-207\", \"count\": 3}, \"Challenge\": {\"id\": \"OGN-128\", \"count\": 3}, \"Cithria of Cloudfield\": {\"id\": \"OGN-139\", \"count\": 3}, \"Confront\": {\"id\": \"OGN-129\", \"count\": 1}, \"Fiora, Victorious\": {\"id\": \"OGN-232\", \"count\": 3}, \"First Mate\": {\"id\": \"OGN-132\", \"count\": 3}, \"Hidden Blade\": {\"id\": \"OGN-213\", \"count\": 3}, \"Kinkou Monk\": {\"id\": \"OGN-141\", \"count\": 2}, \"Lee Sin, Centered\": {\"id\": \"OGN-151\", \"count\": 1}, \"Pit Rookie\": {\"id\": \"OGN-136\", \"count\": 3}, \"Primal Strength\": {\"id\": \"OGN-154\", \"count\": 2}, \"Qiyana, Victorious\": {\"id\": \"OGN-155\", \"count\": 1}, \"Sabotage\": {\"id\": \"OGN-156\", \"count\": 1}, \"Sett, Kingpin\": {\"id\": \"OGN-240\", \"count\": 3}, \"Shen, Kinkou\": {\"id\": \"OGN-241\", \"count\": 1}, \"Showstopper\": {\"id\": \"OGN-270\", \"count\": 3}, \"Wildclaw Shaman\": {\"id\": \"OGN-147\", \"count\": 1}}, \"Sideboard\": {\"Imperial Decree\": {\"id\": \"OGN-221\", \"count\": 1}, \"Sabotage\": {\"id\": \"OGN-156\", \"count\": 1}, \"Salvage\": {\"id\": \"OGN-224\", \"count\": 2}, \"Sett, Brawler\": {\"id\": \"OGN-164\", \"count\": 1}, \"Unyielding Spirit\": {\"id\": \"OGN-145\", \"count\": 2}, \"Wildclaw Shaman\": {\"id\": \"OGN-147\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Sett, The Boss": {
+            "id": "OGN-269",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Body Rune": {
+            "id": "OGN-126",
+            "count": 7
+          },
+          "Order Rune": {
+            "id": "OGN-214",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "OGN-280",
+            "count": 1
+          },
+          "Monastery of Hirana": {
+            "id": "OGN-282",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Arena Bar": {
+            "id": "OGN-124",
+            "count": 3
+          },
+          "Call to Glory": {
+            "id": "OGN-207",
+            "count": 3
+          },
+          "Challenge": {
+            "id": "OGN-128",
+            "count": 3
+          },
+          "Cithria of Cloudfield": {
+            "id": "OGN-139",
+            "count": 3
+          },
+          "Confront": {
+            "id": "OGN-129",
+            "count": 1
+          },
+          "Fiora, Victorious": {
+            "id": "OGN-232",
+            "count": 3
+          },
+          "First Mate": {
+            "id": "OGN-132",
+            "count": 3
+          },
+          "Hidden Blade": {
+            "id": "OGN-213",
+            "count": 3
+          },
+          "Kinkou Monk": {
+            "id": "OGN-141",
+            "count": 2
+          },
+          "Lee Sin, Centered": {
+            "id": "OGN-151",
+            "count": 1
+          },
+          "Pit Rookie": {
+            "id": "OGN-136",
+            "count": 3
+          },
+          "Primal Strength": {
+            "id": "OGN-154",
+            "count": 2
+          },
+          "Qiyana, Victorious": {
+            "id": "OGN-155",
+            "count": 1
+          },
+          "Sabotage": {
+            "id": "OGN-156",
+            "count": 1
+          },
+          "Sett, Kingpin": {
+            "id": "OGN-240",
+            "count": 3
+          },
+          "Shen, Kinkou": {
+            "id": "OGN-241",
+            "count": 1
+          },
+          "Showstopper": {
+            "id": "OGN-270",
+            "count": 3
+          },
+          "Wildclaw Shaman": {
+            "id": "OGN-147",
+            "count": 1
+          }
+        },
+        "Sideboard": {
+          "Imperial Decree": {
+            "id": "OGN-221",
+            "count": 1
+          },
+          "Sabotage": {
+            "id": "OGN-156",
+            "count": 1
+          },
+          "Salvage": {
+            "id": "OGN-224",
+            "count": 2
+          },
+          "Sett, Brawler": {
+            "id": "OGN-164",
+            "count": 1
+          },
+          "Unyielding Spirit": {
+            "id": "OGN-145",
+            "count": 2
+          },
+          "Wildclaw Shaman": {
+            "id": "OGN-147",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Sett, The Boss\\n\\n~~Runes~~\\n7 Body Rune\\n5 Order Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Monastery of Hirana\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n3 Arena Bar\\n3 Call to Glory\\n3 Challenge\\n3 Cithria of Cloudfield\\n1 Confront\\n3 Fiora, Victorious\\n3 First Mate\\n3 Hidden Blade\\n2 Kinkou Monk\\n1 Lee Sin, Centered\\n3 Pit Rookie\\n2 Primal Strength\\n1 Qiyana, Victorious\\n1 Sabotage\\n3 Sett, Kingpin\\n1 Shen, Kinkou\\n3 Showstopper\\n1 Wildclaw Shaman\\n\\n~~Sideboard~~\\n1 Imperial Decree\\n1 Sabotage\\n2 Salvage\\n1 Sett, Brawler\\n2 Unyielding Spirit\\n1 Wildclaw Shaman\\n"
+      ]
+    },
+    {
+      "id": 2079,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Isaiah Sanford",
+      "player_id": "isLwUbFtwrduv3ZvC6MX4a0MRyJ3",
+      "placement": 15,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Leona, Radiant Dawn\\n\\n~~Runes~~\\n7 Calm Rune\\n5 Order Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Navori Fighting Pit\\n1 Trifarian War Camp\\n\\n~~Mainboard~~\\n2 Call to Glory\\n1 Clockwork Keeper\\n1 Daring Poro\\n3 Defy\\n3 Discipline\\n3 En Garde\\n3 Facebreaker\\n2 Find Your Center\\n2 Fiora, Victorious\\n2 Leona, Determined\\n1 Leona, Zealot\\n2 Rune Prison\\n1 Sett, Kingpin\\n1 Solari Shieldbearer\\n2 Sona, Harmonious\\n3 Stalwart Poro\\n2 Sunlit Guardian\\n2 Tasty Faefolk\\n2 Zenith Blade\\n2 Zhonya\\'s Hourglass\\n\\n~~Sideboard~~\\n1 Adaptatron\\n1 Ahri, Alluring\\n1 Blitzcrank, Impassive\\n1 Salvage\\n1 Tasty Faefolk\\n3 Wind Wall\\n",
+      "deck_obj": "{\"Legend\": {\"Leona, Radiant Dawn\": {\"id\": \"OGN-261\", \"count\": 1}}, \"Runes\": {\"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 7}, \"Order Rune\": {\"id\": \"OGN-214\", \"count\": 5}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"OGN-280\", \"count\": 1}, \"Navori Fighting Pit\": {\"id\": \"OGN-283\", \"count\": 1}, \"Trifarian War Camp\": {\"id\": \"OGN-294\", \"count\": 1}}, \"Mainboard\": {\"Call to Glory\": {\"id\": \"OGN-207\", \"count\": 2}, \"Clockwork Keeper\": {\"id\": \"OGN-044\", \"count\": 1}, \"Daring Poro\": {\"id\": \"OGN-210\", \"count\": 1}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 3}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 3}, \"Facebreaker\": {\"id\": \"OGN-220\", \"count\": 3}, \"Find Your Center\": {\"id\": \"OGN-047\", \"count\": 2}, \"Fiora, Victorious\": {\"id\": \"OGN-232\", \"count\": 2}, \"Leona, Determined\": {\"id\": \"OGN-238\", \"count\": 2}, \"Leona, Zealot\": {\"id\": \"OGN-079\", \"count\": 1}, \"Rune Prison\": {\"id\": \"OGN-050\", \"count\": 2}, \"Sett, Kingpin\": {\"id\": \"OGN-240\", \"count\": 1}, \"Solari Shieldbearer\": {\"id\": \"OGN-051\", \"count\": 1}, \"Sona, Harmonious\": {\"id\": \"OGN-073\", \"count\": 2}, \"Stalwart Poro\": {\"id\": \"OGN-052\", \"count\": 3}, \"Sunlit Guardian\": {\"id\": \"OGN-054\", \"count\": 2}, \"Tasty Faefolk\": {\"id\": \"OGN-075\", \"count\": 2}, \"Zenith Blade\": {\"id\": \"OGN-262\", \"count\": 2}, \"Zhonya's Hourglass\": {\"id\": \"OGN-077\", \"count\": 2}}, \"Sideboard\": {\"Adaptatron\": {\"id\": \"OGN-056\", \"count\": 1}, \"Ahri, Alluring\": {\"id\": \"OGN-066\", \"count\": 1}, \"Blitzcrank, Impassive\": {\"id\": \"OGN-067\", \"count\": 1}, \"Salvage\": {\"id\": \"OGN-224\", \"count\": 1}, \"Tasty Faefolk\": {\"id\": \"OGN-075\", \"count\": 1}, \"Wind Wall\": {\"id\": \"OGN-064\", \"count\": 3}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Leona, Radiant Dawn": {
+            "id": "OGN-261",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 7
+          },
+          "Order Rune": {
+            "id": "OGN-214",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "OGN-280",
+            "count": 1
+          },
+          "Navori Fighting Pit": {
+            "id": "OGN-283",
+            "count": 1
+          },
+          "Trifarian War Camp": {
+            "id": "OGN-294",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Call to Glory": {
+            "id": "OGN-207",
+            "count": 2
+          },
+          "Clockwork Keeper": {
+            "id": "OGN-044",
+            "count": 1
+          },
+          "Daring Poro": {
+            "id": "OGN-210",
+            "count": 1
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 3
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 3
+          },
+          "Facebreaker": {
+            "id": "OGN-220",
+            "count": 3
+          },
+          "Find Your Center": {
+            "id": "OGN-047",
+            "count": 2
+          },
+          "Fiora, Victorious": {
+            "id": "OGN-232",
+            "count": 2
+          },
+          "Leona, Determined": {
+            "id": "OGN-238",
+            "count": 2
+          },
+          "Leona, Zealot": {
+            "id": "OGN-079",
+            "count": 1
+          },
+          "Rune Prison": {
+            "id": "OGN-050",
+            "count": 2
+          },
+          "Sett, Kingpin": {
+            "id": "OGN-240",
+            "count": 1
+          },
+          "Solari Shieldbearer": {
+            "id": "OGN-051",
+            "count": 1
+          },
+          "Sona, Harmonious": {
+            "id": "OGN-073",
+            "count": 2
+          },
+          "Stalwart Poro": {
+            "id": "OGN-052",
+            "count": 3
+          },
+          "Sunlit Guardian": {
+            "id": "OGN-054",
+            "count": 2
+          },
+          "Tasty Faefolk": {
+            "id": "OGN-075",
+            "count": 2
+          },
+          "Zenith Blade": {
+            "id": "OGN-262",
+            "count": 2
+          },
+          "Zhonya's Hourglass": {
+            "id": "OGN-077",
+            "count": 2
+          }
+        },
+        "Sideboard": {
+          "Adaptatron": {
+            "id": "OGN-056",
+            "count": 1
+          },
+          "Ahri, Alluring": {
+            "id": "OGN-066",
+            "count": 1
+          },
+          "Blitzcrank, Impassive": {
+            "id": "OGN-067",
+            "count": 1
+          },
+          "Salvage": {
+            "id": "OGN-224",
+            "count": 1
+          },
+          "Tasty Faefolk": {
+            "id": "OGN-075",
+            "count": 1
+          },
+          "Wind Wall": {
+            "id": "OGN-064",
+            "count": 3
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Leona, Radiant Dawn\\n\\n~~Runes~~\\n7 Calm Rune\\n5 Order Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Navori Fighting Pit\\n1 Trifarian War Camp\\n\\n~~Mainboard~~\\n2 Call to Glory\\n1 Clockwork Keeper\\n1 Daring Poro\\n3 Defy\\n3 Discipline\\n3 En Garde\\n3 Facebreaker\\n2 Find Your Center\\n2 Fiora, Victorious\\n2 Leona, Determined\\n1 Leona, Zealot\\n2 Rune Prison\\n1 Sett, Kingpin\\n1 Solari Shieldbearer\\n2 Sona, Harmonious\\n3 Stalwart Poro\\n2 Sunlit Guardian\\n2 Tasty Faefolk\\n2 Zenith Blade\\n2 Zhonya\\'s Hourglass\\n\\n~~Sideboard~~\\n1 Adaptatron\\n1 Ahri, Alluring\\n1 Blitzcrank, Impassive\\n1 Salvage\\n1 Tasty Faefolk\\n3 Wind Wall\\n"
+      ]
+    },
+    {
+      "id": 2080,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Jonathan R De Leon",
+      "player_id": "7cY5d8kVI7dADUbCKuMjKjOcNrz2",
+      "placement": 16,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Darius, Hand of Noxus\\n\\n~~Runes~~\\n5 Fury Rune\\n7 Order Rune\\n\\n~~Battlefields~~\\n1 The Arena\\'s Greatest\\n1 Trifarian War Camp\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n3 Baited Hook\\n1 Call to Glory\\n1 Cleave\\n2 Cull the Weak\\n2 Daring Poro\\n3 Darius, Trifarian\\n2 Draven, Showboat\\n3 Faithful Manufactor\\n1 Falling Star\\n1 Grand Strategem\\n2 Hidden Blade\\n1 Imperial Decree\\n2 Noxian Guillotine\\n3 Noxus Hopeful\\n3 Seal of Unity\\n3 Shen, Kinkou\\n3 Spectral Matron\\n3 Trifarian Gloryseeker\\n3 Vanguard Captain\\n2 Vayne, Hunter\\n3 Vi, Destructive\\n1 Void Seeker\\n\\n",
+      "deck_obj": "{\"Legend\": {\"Darius, Hand of Noxus\": {\"id\": \"OGN-253\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 5}, \"Order Rune\": {\"id\": \"OGN-214\", \"count\": 7}}, \"Battlefields\": {\"The Arena's Greatest\": {\"id\": \"OGN-290\", \"count\": 1}, \"Trifarian War Camp\": {\"id\": \"OGN-294\", \"count\": 1}, \"Zaun Warrens\": {\"id\": \"OGN-298\", \"count\": 1}}, \"Mainboard\": {\"Baited Hook\": {\"id\": \"OGN-242\", \"count\": 3}, \"Call to Glory\": {\"id\": \"OGN-207\", \"count\": 1}, \"Cleave\": {\"id\": \"OGN-004\", \"count\": 1}, \"Cull the Weak\": {\"id\": \"OGN-209\", \"count\": 2}, \"Daring Poro\": {\"id\": \"OGN-210\", \"count\": 2}, \"Darius, Trifarian\": {\"id\": \"OGN-027\", \"count\": 3}, \"Draven, Showboat\": {\"id\": \"OGN-028\", \"count\": 2}, \"Faithful Manufactor\": {\"id\": \"OGN-211\", \"count\": 3}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 1}, \"Grand Strategem\": {\"id\": \"OGN-233\", \"count\": 1}, \"Hidden Blade\": {\"id\": \"OGN-213\", \"count\": 2}, \"Imperial Decree\": {\"id\": \"OGN-221\", \"count\": 1}, \"Noxian Guillotine\": {\"id\": \"OGN-254\", \"count\": 2}, \"Noxus Hopeful\": {\"id\": \"OGN-012\", \"count\": 3}, \"Seal of Unity\": {\"id\": \"OGN-245\", \"count\": 3}, \"Shen, Kinkou\": {\"id\": \"OGN-241\", \"count\": 3}, \"Spectral Matron\": {\"id\": \"OGN-226\", \"count\": 3}, \"Trifarian Gloryseeker\": {\"id\": \"OGN-217\", \"count\": 3}, \"Vanguard Captain\": {\"id\": \"OGN-218\", \"count\": 3}, \"Vayne, Hunter\": {\"id\": \"OGN-035\", \"count\": 2}, \"Vi, Destructive\": {\"id\": \"OGN-036\", \"count\": 3}, \"Void Seeker\": {\"id\": \"OGN-024\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Darius, Hand of Noxus": {
+            "id": "OGN-253",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 5
+          },
+          "Order Rune": {
+            "id": "OGN-214",
+            "count": 7
+          }
+        },
+        "Battlefields": {
+          "The Arena's Greatest": {
+            "id": "OGN-290",
+            "count": 1
+          },
+          "Trifarian War Camp": {
+            "id": "OGN-294",
+            "count": 1
+          },
+          "Zaun Warrens": {
+            "id": "OGN-298",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Baited Hook": {
+            "id": "OGN-242",
+            "count": 3
+          },
+          "Call to Glory": {
+            "id": "OGN-207",
+            "count": 1
+          },
+          "Cleave": {
+            "id": "OGN-004",
+            "count": 1
+          },
+          "Cull the Weak": {
+            "id": "OGN-209",
+            "count": 2
+          },
+          "Daring Poro": {
+            "id": "OGN-210",
+            "count": 2
+          },
+          "Darius, Trifarian": {
+            "id": "OGN-027",
+            "count": 3
+          },
+          "Draven, Showboat": {
+            "id": "OGN-028",
+            "count": 2
+          },
+          "Faithful Manufactor": {
+            "id": "OGN-211",
+            "count": 3
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 1
+          },
+          "Grand Strategem": {
+            "id": "OGN-233",
+            "count": 1
+          },
+          "Hidden Blade": {
+            "id": "OGN-213",
+            "count": 2
+          },
+          "Imperial Decree": {
+            "id": "OGN-221",
+            "count": 1
+          },
+          "Noxian Guillotine": {
+            "id": "OGN-254",
+            "count": 2
+          },
+          "Noxus Hopeful": {
+            "id": "OGN-012",
+            "count": 3
+          },
+          "Seal of Unity": {
+            "id": "OGN-245",
+            "count": 3
+          },
+          "Shen, Kinkou": {
+            "id": "OGN-241",
+            "count": 3
+          },
+          "Spectral Matron": {
+            "id": "OGN-226",
+            "count": 3
+          },
+          "Trifarian Gloryseeker": {
+            "id": "OGN-217",
+            "count": 3
+          },
+          "Vanguard Captain": {
+            "id": "OGN-218",
+            "count": 3
+          },
+          "Vayne, Hunter": {
+            "id": "OGN-035",
+            "count": 2
+          },
+          "Vi, Destructive": {
+            "id": "OGN-036",
+            "count": 3
+          },
+          "Void Seeker": {
+            "id": "OGN-024",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Darius, Hand of Noxus\\n\\n~~Runes~~\\n5 Fury Rune\\n7 Order Rune\\n\\n~~Battlefields~~\\n1 The Arena\\'s Greatest\\n1 Trifarian War Camp\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n3 Baited Hook\\n1 Call to Glory\\n1 Cleave\\n2 Cull the Weak\\n2 Daring Poro\\n3 Darius, Trifarian\\n2 Draven, Showboat\\n3 Faithful Manufactor\\n1 Falling Star\\n1 Grand Strategem\\n2 Hidden Blade\\n1 Imperial Decree\\n2 Noxian Guillotine\\n3 Noxus Hopeful\\n3 Seal of Unity\\n3 Shen, Kinkou\\n3 Spectral Matron\\n3 Trifarian Gloryseeker\\n3 Vanguard Captain\\n2 Vayne, Hunter\\n3 Vi, Destructive\\n1 Void Seeker\\n\\n"
+      ]
+    },
+    {
+      "id": 2081,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Cruz",
+      "player_id": "JcBpIjqfLdVlJ6sw6uFldDvBoLB2",
+      "placement": 17,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 2082,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Michael hernandez",
+      "player_id": "UjvopdtVJmfXT6AtQHf7qxNRA1j2",
+      "placement": 18,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 2083,
+      "tid": "a-case-in-the-rift",
+      "player_name": "jeff",
+      "player_id": "c0yRwuGtHBhTcuKE757yoI3pCH93",
+      "placement": 19,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 2084,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Yefri Figueroa ",
+      "player_id": "zFzv7C3Gx3gqvbdcsSFJdcnlcDy1",
+      "placement": 20,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 2085,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Andy F",
+      "player_id": "YRvr6MDUmXhKPayRktWICIlk1T13",
+      "placement": 21,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    },
+    {
+      "id": 2086,
+      "tid": "a-case-in-the-rift",
+      "player_name": "Keith Loveday",
+      "player_id": "hhg4irLzEBTc4OKtesBEBEM47Oe2",
+      "placement": 22,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 0,
+      "losses_swiss": 0,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": null,
+      "deck_obj": null,
+      "deck_obj_parsed": null,
+      "decklist_lines": []
+    }
+  ]
+}

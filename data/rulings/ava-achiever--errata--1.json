@@ -1,0 +1,26 @@
+{
+  "id": "ruling.ava-achiever--errata--1",
+  "type": "ruling_record",
+  "title": "Ava Achiever (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "ava-achiever"
+  ],
+  "record": {
+    "id": 1,
+    "card_name": "Ava Achiever",
+    "ruling_type": "errata",
+    "old_text": "When I attack, you may pay [C] to play a card with [Hidden] from your hand here, ignoring its cost.",
+    "new_text": "When I attack, you may pay [C] to play a card with [Hidden] from your hand, ignoring its cost. If it's a unit, play it here.",
+    "explanation": null,
+    "source_doc": "Origins Card Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/",
+    "effective_date": "2025-11-04"
+  }
+}

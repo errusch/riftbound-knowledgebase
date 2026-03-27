@@ -1,0 +1,26 @@
+{
+  "id": "ruling.icathian-rain--errata--10",
+  "type": "ruling_record",
+  "title": "Icathian Rain (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "icathian-rain"
+  ],
+  "record": {
+    "id": 10,
+    "card_name": "Icathian Rain",
+    "ruling_type": "errata",
+    "old_text": "Do this 6 times: Deal 2 to a unit. (You can choose different units.)",
+    "new_text": "Deal 2 to a unit (x6). (You can choose different units.)",
+    "explanation": "No longer reflexive triggers. Pick all targets up front.",
+    "source_doc": "Spiritforged FAQ/Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
+    "effective_date": "2026-01-14"
+  }
+}

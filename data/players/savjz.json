@@ -1,0 +1,33 @@
+{
+  "id": "player.savjz",
+  "type": "player_record",
+  "title": "Savjz",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "competitive-player",
+    "sett-the-boss"
+  ],
+  "record": {
+    "player_name": "Savjz",
+    "x_handle": "Top 4",
+    "confidence": "Sett, The Boss",
+    "events": "[@Savjz](https://x.com/Savjz)",
+    "notes": "**HIGH** \u2014 Cheating controversy at SCGCon; apology issued",
+    "main_legend": "Sett, The Boss",
+    "tournament_results": "Top 4 - SCGCon Las Vegas (Nov 23, 2025, $10k, 386 players)",
+    "content_creator": 1,
+    "source_urls": "https://riftbound.gg/riftbound-scgcon-top-decks-las-vegas/; https://www.thegamer.com/riftbound-vegas-cheating-scandal-savjz/; https://x.com/Savjz",
+    "source_urls_list": [
+      "https://riftbound.gg/riftbound-scgcon-top-decks-las-vegas/",
+      "https://www.thegamer.com/riftbound-vegas-cheating-scandal-savjz/",
+      "https://x.com/Savjz"
+    ],
+    "quality_flags": [
+      "suspect_column_mapping"
+    ]
+  }
+}

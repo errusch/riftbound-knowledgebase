@@ -1,0 +1,4082 @@
+{
+  "id": "tournament.spiritforgedriftbound-win-a-case",
+  "type": "tournament_record",
+  "title": "Spiritforged:Riftbound Win-A-Case",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "tournament",
+    "Constructed",
+    "waco"
+  ],
+  "record": {
+    "tid": "spiritforgedriftbound-win-a-case",
+    "name": "Spiritforged:Riftbound Win-A-Case",
+    "start_date": 1771095600,
+    "format": "Constructed",
+    "swiss_rounds": 5,
+    "top_cut": 8,
+    "participants": 22,
+    "city": "Waco",
+    "state": "Texas",
+    "location": "1603 Washington Ave, Waco, TX 76701, USA",
+    "country": null
+  },
+  "rounds": [
+    {
+      "id": 6044,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "Finals",
+      "table_num": 1,
+      "player1_name": "Eric Liu",
+      "player1_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "player2_name": "Boxes",
+      "player2_id": "7LiRDonDj8giHIvEznACjsoEdb73",
+      "winner": "Eric Liu",
+      "status": "Completed"
+    },
+    {
+      "id": 6045,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "Top 4",
+      "table_num": 1,
+      "player1_name": "Eric Liu",
+      "player1_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "player2_name": "Aaron McNeely",
+      "player2_id": "qogioiWpzFMHnQVCmmzVKSoocyq2",
+      "winner": "Eric Liu",
+      "status": "Completed"
+    },
+    {
+      "id": 6047,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "Top 8",
+      "table_num": 1,
+      "player1_name": "Eric Liu",
+      "player1_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "player2_name": "Robert Storch",
+      "player2_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "winner": "Eric Liu",
+      "status": "Completed"
+    },
+    {
+      "id": 6046,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "Top 4",
+      "table_num": 2,
+      "player1_name": "Philip Henderson",
+      "player1_id": "rEQr6iLPNAO8PKyDqy7LfG1jRWo1",
+      "player2_name": "Boxes",
+      "player2_id": "7LiRDonDj8giHIvEznACjsoEdb73",
+      "winner": "Boxes",
+      "status": "Completed"
+    },
+    {
+      "id": 6048,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "Top 8",
+      "table_num": 2,
+      "player1_name": "Aaron McNeely",
+      "player1_id": "qogioiWpzFMHnQVCmmzVKSoocyq2",
+      "player2_name": "Mitchell Mrozek",
+      "player2_id": "BmM8uM5zL9Xmj4rb5AdXTVSkdBw1",
+      "winner": "Aaron McNeely",
+      "status": "Completed"
+    },
+    {
+      "id": 6049,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "Top 8",
+      "table_num": 3,
+      "player1_name": "Boxes",
+      "player1_id": "7LiRDonDj8giHIvEznACjsoEdb73",
+      "player2_name": "DJ Eason",
+      "player2_id": "ChWJdPu2VUYBFaf6iOsh9ShuEF12",
+      "winner": "Boxes",
+      "status": "Completed"
+    },
+    {
+      "id": 6050,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "Top 8",
+      "table_num": 4,
+      "player1_name": "Philip Henderson",
+      "player1_id": "rEQr6iLPNAO8PKyDqy7LfG1jRWo1",
+      "player2_name": "Jacob Sconci",
+      "player2_id": "Pnf77B97dvXxG4Pr2wPYDoDrDkM2",
+      "winner": "Philip Henderson",
+      "status": "Completed"
+    },
+    {
+      "id": 5991,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 1,
+      "player1_name": "Philip Henderson",
+      "player1_id": "rEQr6iLPNAO8PKyDqy7LfG1jRWo1",
+      "player2_name": "Jacob Sconci",
+      "player2_id": "Pnf77B97dvXxG4Pr2wPYDoDrDkM2",
+      "winner": "Philip Henderson",
+      "status": "Completed"
+    },
+    {
+      "id": 5992,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 2,
+      "player1_name": "Aaron McNeely",
+      "player1_id": "qogioiWpzFMHnQVCmmzVKSoocyq2",
+      "player2_name": "Liam Eccleston",
+      "player2_id": "nmg7izX2vfZDSdjNRN2FDgMzhtT2",
+      "winner": "Aaron McNeely",
+      "status": "Completed"
+    },
+    {
+      "id": 5993,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 3,
+      "player1_name": "Michael DesJardin [BC]",
+      "player1_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "player2_name": "Javier Eccleston",
+      "player2_id": "eTED6LxmlfMgB5jvNvG36WKjTFN2",
+      "winner": "Javier Eccleston",
+      "status": "Completed"
+    },
+    {
+      "id": 5994,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 4,
+      "player1_name": "Thomas Wheeler",
+      "player1_id": "80XE4XoRt2hMPZ5jhYpDtOmfMIM2",
+      "player2_name": "Anthony Truong",
+      "player2_id": "JaAgD2xNpHSheZNtFVDfEkpqZgX2",
+      "winner": "Thomas Wheeler",
+      "status": "Completed"
+    },
+    {
+      "id": 5995,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 5,
+      "player1_name": "Eric Liu",
+      "player1_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "player2_name": "Isai Rodriguez",
+      "player2_id": "MgiOL5A1p4ORm3UQl5rY3uVvtrV2",
+      "winner": "Eric Liu",
+      "status": "Completed"
+    },
+    {
+      "id": 5996,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 6,
+      "player1_name": "Robert Storch",
+      "player1_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "player2_name": "Robert East",
+      "player2_id": "AOGqaCo2RRSmDMtEkMXbXSkDI7t2",
+      "winner": "Robert Storch",
+      "status": "Completed"
+    },
+    {
+      "id": 5997,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 7,
+      "player1_name": "Boxes",
+      "player1_id": "7LiRDonDj8giHIvEznACjsoEdb73",
+      "player2_name": "Justin James Gleason",
+      "player2_id": "m4KJg3L1EYRypriYVFrC02nYJ8v2",
+      "winner": "Boxes",
+      "status": "Completed"
+    },
+    {
+      "id": 5998,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 8,
+      "player1_name": "Mitchell Mrozek",
+      "player1_id": "BmM8uM5zL9Xmj4rb5AdXTVSkdBw1",
+      "player2_name": "Cinnamon",
+      "player2_id": "iwjJJ6kVPmXDKhSTbnX5v0tHdlD3",
+      "winner": "Mitchell Mrozek",
+      "status": "Completed"
+    },
+    {
+      "id": 5999,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 9,
+      "player1_name": "DJ Eason",
+      "player1_id": "ChWJdPu2VUYBFaf6iOsh9ShuEF12",
+      "player2_name": "Seth Taylor",
+      "player2_id": "xc9zYOmQpTSYbsSHApNdWKMJol12",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 6000,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 10,
+      "player1_name": "Steven ",
+      "player1_id": "hduj6qG7kwbKazcwJx1j8aVto3w2",
+      "player2_name": "Jaydee",
+      "player2_id": "YkIf5be4omhqwFJ6bP9v9SDrrKF2",
+      "winner": "Steven ",
+      "status": "Completed"
+    },
+    {
+      "id": 6001,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "1",
+      "table_num": 11,
+      "player1_name": "Anthony Duran",
+      "player1_id": "pAr6Zfb82Me80CpOePU1LpDzCar1",
+      "player2_name": "Chris Stephens ",
+      "player2_id": "mC2NstA2TRQ7Fdv18YCcBnqwlLz2",
+      "winner": "Chris Stephens ",
+      "status": "Completed"
+    },
+    {
+      "id": 6002,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 1,
+      "player1_name": "Philip Henderson",
+      "player1_id": "rEQr6iLPNAO8PKyDqy7LfG1jRWo1",
+      "player2_name": "Chris Stephens ",
+      "player2_id": "mC2NstA2TRQ7Fdv18YCcBnqwlLz2",
+      "winner": "Philip Henderson",
+      "status": "Completed"
+    },
+    {
+      "id": 6003,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 2,
+      "player1_name": "Boxes",
+      "player1_id": "7LiRDonDj8giHIvEznACjsoEdb73",
+      "player2_name": "Aaron McNeely",
+      "player2_id": "qogioiWpzFMHnQVCmmzVKSoocyq2",
+      "winner": "Aaron McNeely",
+      "status": "Completed"
+    },
+    {
+      "id": 6004,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 3,
+      "player1_name": "Mitchell Mrozek",
+      "player1_id": "BmM8uM5zL9Xmj4rb5AdXTVSkdBw1",
+      "player2_name": "Javier Eccleston",
+      "player2_id": "eTED6LxmlfMgB5jvNvG36WKjTFN2",
+      "winner": "Mitchell Mrozek",
+      "status": "Completed"
+    },
+    {
+      "id": 6005,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 4,
+      "player1_name": "Robert Storch",
+      "player1_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "player2_name": "Steven ",
+      "player2_id": "hduj6qG7kwbKazcwJx1j8aVto3w2",
+      "winner": "Robert Storch",
+      "status": "Completed"
+    },
+    {
+      "id": 6006,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 5,
+      "player1_name": "Eric Liu",
+      "player1_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "player2_name": "Thomas Wheeler",
+      "player2_id": "80XE4XoRt2hMPZ5jhYpDtOmfMIM2",
+      "winner": "Eric Liu",
+      "status": "Completed"
+    },
+    {
+      "id": 6007,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 6,
+      "player1_name": "Seth Taylor",
+      "player1_id": "xc9zYOmQpTSYbsSHApNdWKMJol12",
+      "player2_name": "Robert East",
+      "player2_id": "AOGqaCo2RRSmDMtEkMXbXSkDI7t2",
+      "winner": "Robert East",
+      "status": "Completed"
+    },
+    {
+      "id": 6008,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 7,
+      "player1_name": "DJ Eason",
+      "player1_id": "ChWJdPu2VUYBFaf6iOsh9ShuEF12",
+      "player2_name": "Isai Rodriguez",
+      "player2_id": "MgiOL5A1p4ORm3UQl5rY3uVvtrV2",
+      "winner": "Isai Rodriguez",
+      "status": "Completed"
+    },
+    {
+      "id": 6009,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 8,
+      "player1_name": "Anthony Duran",
+      "player1_id": "pAr6Zfb82Me80CpOePU1LpDzCar1",
+      "player2_name": "Cinnamon",
+      "player2_id": "iwjJJ6kVPmXDKhSTbnX5v0tHdlD3",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 6010,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 9,
+      "player1_name": "Michael DesJardin [BC]",
+      "player1_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "player2_name": "Liam Eccleston",
+      "player2_id": "nmg7izX2vfZDSdjNRN2FDgMzhtT2",
+      "winner": "Liam Eccleston",
+      "status": "Completed"
+    },
+    {
+      "id": 6011,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 10,
+      "player1_name": "Anthony Truong",
+      "player1_id": "JaAgD2xNpHSheZNtFVDfEkpqZgX2",
+      "player2_name": "Jacob Sconci",
+      "player2_id": "Pnf77B97dvXxG4Pr2wPYDoDrDkM2",
+      "winner": "Jacob Sconci",
+      "status": "Completed"
+    },
+    {
+      "id": 6012,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "2",
+      "table_num": 11,
+      "player1_name": "Justin James Gleason",
+      "player1_id": "m4KJg3L1EYRypriYVFrC02nYJ8v2",
+      "player2_name": "Jaydee",
+      "player2_id": "YkIf5be4omhqwFJ6bP9v9SDrrKF2",
+      "winner": "Jaydee",
+      "status": "Completed"
+    },
+    {
+      "id": 6013,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 1,
+      "player1_name": "Robert Storch",
+      "player1_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "player2_name": "Aaron McNeely",
+      "player2_id": "qogioiWpzFMHnQVCmmzVKSoocyq2",
+      "winner": "Aaron McNeely",
+      "status": "Completed"
+    },
+    {
+      "id": 6014,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 2,
+      "player1_name": "Philip Henderson",
+      "player1_id": "rEQr6iLPNAO8PKyDqy7LfG1jRWo1",
+      "player2_name": "Eric Liu",
+      "player2_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "winner": "Eric Liu",
+      "status": "Completed"
+    },
+    {
+      "id": 6015,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 3,
+      "player1_name": "Mitchell Mrozek",
+      "player1_id": "BmM8uM5zL9Xmj4rb5AdXTVSkdBw1",
+      "player2_name": "Isai Rodriguez",
+      "player2_id": "MgiOL5A1p4ORm3UQl5rY3uVvtrV2",
+      "winner": "Isai Rodriguez",
+      "status": "Completed"
+    },
+    {
+      "id": 6016,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 4,
+      "player1_name": "Robert East",
+      "player1_id": "AOGqaCo2RRSmDMtEkMXbXSkDI7t2",
+      "player2_name": "Javier Eccleston",
+      "player2_id": "eTED6LxmlfMgB5jvNvG36WKjTFN2",
+      "winner": "Javier Eccleston",
+      "status": "Completed"
+    },
+    {
+      "id": 6017,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 5,
+      "player1_name": "Chris Stephens ",
+      "player1_id": "mC2NstA2TRQ7Fdv18YCcBnqwlLz2",
+      "player2_name": "Liam Eccleston",
+      "player2_id": "nmg7izX2vfZDSdjNRN2FDgMzhtT2",
+      "winner": "Liam Eccleston",
+      "status": "Completed"
+    },
+    {
+      "id": 6018,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 6,
+      "player1_name": "Thomas Wheeler",
+      "player1_id": "80XE4XoRt2hMPZ5jhYpDtOmfMIM2",
+      "player2_name": "Steven ",
+      "player2_id": "hduj6qG7kwbKazcwJx1j8aVto3w2",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 6019,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 7,
+      "player1_name": "Boxes",
+      "player1_id": "7LiRDonDj8giHIvEznACjsoEdb73",
+      "player2_name": "Jaydee",
+      "player2_id": "YkIf5be4omhqwFJ6bP9v9SDrrKF2",
+      "winner": "Boxes",
+      "status": "Completed"
+    },
+    {
+      "id": 6020,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 8,
+      "player1_name": "Jacob Sconci",
+      "player1_id": "Pnf77B97dvXxG4Pr2wPYDoDrDkM2",
+      "player2_name": "Anthony Duran",
+      "player2_id": "pAr6Zfb82Me80CpOePU1LpDzCar1",
+      "winner": "Jacob Sconci",
+      "status": "Completed"
+    },
+    {
+      "id": 6021,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 9,
+      "player1_name": "Seth Taylor",
+      "player1_id": "xc9zYOmQpTSYbsSHApNdWKMJol12",
+      "player2_name": "Cinnamon",
+      "player2_id": "iwjJJ6kVPmXDKhSTbnX5v0tHdlD3",
+      "winner": "Cinnamon",
+      "status": "Completed"
+    },
+    {
+      "id": 6022,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 10,
+      "player1_name": "DJ Eason",
+      "player1_id": "ChWJdPu2VUYBFaf6iOsh9ShuEF12",
+      "player2_name": "Justin James Gleason",
+      "player2_id": "m4KJg3L1EYRypriYVFrC02nYJ8v2",
+      "winner": "DJ Eason",
+      "status": "Completed"
+    },
+    {
+      "id": 6023,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "3",
+      "table_num": 11,
+      "player1_name": "Michael DesJardin [BC]",
+      "player1_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "player2_name": "Anthony Truong",
+      "player2_id": "JaAgD2xNpHSheZNtFVDfEkpqZgX2",
+      "winner": "Michael DesJardin [BC]",
+      "status": "Completed"
+    },
+    {
+      "id": 6024,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "4",
+      "table_num": 1,
+      "player1_name": "Aaron McNeely",
+      "player1_id": "qogioiWpzFMHnQVCmmzVKSoocyq2",
+      "player2_name": "Eric Liu",
+      "player2_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "winner": "Eric Liu",
+      "status": "Completed"
+    },
+    {
+      "id": 6025,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "4",
+      "table_num": 2,
+      "player1_name": "Isai Rodriguez",
+      "player1_id": "MgiOL5A1p4ORm3UQl5rY3uVvtrV2",
+      "player2_name": "Liam Eccleston",
+      "player2_id": "nmg7izX2vfZDSdjNRN2FDgMzhtT2",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 6026,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "4",
+      "table_num": 3,
+      "player1_name": "Philip Henderson",
+      "player1_id": "rEQr6iLPNAO8PKyDqy7LfG1jRWo1",
+      "player2_name": "Robert Storch",
+      "player2_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "winner": "Philip Henderson",
+      "status": "Completed"
+    },
+    {
+      "id": 6027,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "4",
+      "table_num": 4,
+      "player1_name": "Jacob Sconci",
+      "player1_id": "Pnf77B97dvXxG4Pr2wPYDoDrDkM2",
+      "player2_name": "Mitchell Mrozek",
+      "player2_id": "BmM8uM5zL9Xmj4rb5AdXTVSkdBw1",
+      "winner": "Mitchell Mrozek",
+      "status": "Completed"
+    },
+    {
+      "id": 6028,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "4",
+      "table_num": 5,
+      "player1_name": "Javier Eccleston",
+      "player1_id": "eTED6LxmlfMgB5jvNvG36WKjTFN2",
+      "player2_name": "Boxes",
+      "player2_id": "7LiRDonDj8giHIvEznACjsoEdb73",
+      "winner": "Boxes",
+      "status": "Completed"
+    },
+    {
+      "id": 6029,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "4",
+      "table_num": 6,
+      "player1_name": "Thomas Wheeler",
+      "player1_id": "80XE4XoRt2hMPZ5jhYpDtOmfMIM2",
+      "player2_name": "Cinnamon",
+      "player2_id": "iwjJJ6kVPmXDKhSTbnX5v0tHdlD3",
+      "winner": "Thomas Wheeler",
+      "status": "Completed"
+    },
+    {
+      "id": 6030,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "4",
+      "table_num": 7,
+      "player1_name": "Steven ",
+      "player1_id": "hduj6qG7kwbKazcwJx1j8aVto3w2",
+      "player2_name": "DJ Eason",
+      "player2_id": "ChWJdPu2VUYBFaf6iOsh9ShuEF12",
+      "winner": "DJ Eason",
+      "status": "Completed"
+    },
+    {
+      "id": 6031,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "4",
+      "table_num": 8,
+      "player1_name": "Chris Stephens ",
+      "player1_id": "mC2NstA2TRQ7Fdv18YCcBnqwlLz2",
+      "player2_name": "Jaydee",
+      "player2_id": "YkIf5be4omhqwFJ6bP9v9SDrrKF2",
+      "winner": "Chris Stephens ",
+      "status": "Completed"
+    },
+    {
+      "id": 6032,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "4",
+      "table_num": 9,
+      "player1_name": "Robert East",
+      "player1_id": "AOGqaCo2RRSmDMtEkMXbXSkDI7t2",
+      "player2_name": "Michael DesJardin [BC]",
+      "player2_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "winner": "Michael DesJardin [BC]",
+      "status": "Completed"
+    },
+    {
+      "id": 6033,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "4",
+      "table_num": 10,
+      "player1_name": "Anthony Duran",
+      "player1_id": "pAr6Zfb82Me80CpOePU1LpDzCar1",
+      "player2_name": "Seth Taylor",
+      "player2_id": "xc9zYOmQpTSYbsSHApNdWKMJol12",
+      "winner": "Anthony Duran",
+      "status": "Completed"
+    },
+    {
+      "id": 6034,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "5",
+      "table_num": 1,
+      "player1_name": "Eric Liu",
+      "player1_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "player2_name": "Boxes",
+      "player2_id": "7LiRDonDj8giHIvEznACjsoEdb73",
+      "winner": "Boxes",
+      "status": "Completed"
+    },
+    {
+      "id": 6035,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "5",
+      "table_num": 2,
+      "player1_name": "Mitchell Mrozek",
+      "player1_id": "BmM8uM5zL9Xmj4rb5AdXTVSkdBw1",
+      "player2_name": "Aaron McNeely",
+      "player2_id": "qogioiWpzFMHnQVCmmzVKSoocyq2",
+      "winner": "Draw",
+      "status": "Completed"
+    },
+    {
+      "id": 6036,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "5",
+      "table_num": 3,
+      "player1_name": "Philip Henderson",
+      "player1_id": "rEQr6iLPNAO8PKyDqy7LfG1jRWo1",
+      "player2_name": "Isai Rodriguez",
+      "player2_id": "MgiOL5A1p4ORm3UQl5rY3uVvtrV2",
+      "winner": "Philip Henderson",
+      "status": "Completed"
+    },
+    {
+      "id": 6037,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "5",
+      "table_num": 4,
+      "player1_name": "DJ Eason",
+      "player1_id": "ChWJdPu2VUYBFaf6iOsh9ShuEF12",
+      "player2_name": "Thomas Wheeler",
+      "player2_id": "80XE4XoRt2hMPZ5jhYpDtOmfMIM2",
+      "winner": "DJ Eason",
+      "status": "Completed"
+    },
+    {
+      "id": 6038,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "5",
+      "table_num": 5,
+      "player1_name": "Liam Eccleston",
+      "player1_id": "nmg7izX2vfZDSdjNRN2FDgMzhtT2",
+      "player2_name": "Jacob Sconci",
+      "player2_id": "Pnf77B97dvXxG4Pr2wPYDoDrDkM2",
+      "winner": "Jacob Sconci",
+      "status": "Completed"
+    },
+    {
+      "id": 6039,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "5",
+      "table_num": 6,
+      "player1_name": "Michael DesJardin [BC]",
+      "player1_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "player2_name": "Chris Stephens ",
+      "player2_id": "mC2NstA2TRQ7Fdv18YCcBnqwlLz2",
+      "winner": "Michael DesJardin [BC]",
+      "status": "Completed"
+    },
+    {
+      "id": 6040,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "5",
+      "table_num": 7,
+      "player1_name": "Javier Eccleston",
+      "player1_id": "eTED6LxmlfMgB5jvNvG36WKjTFN2",
+      "player2_name": "Robert Storch",
+      "player2_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "winner": "Robert Storch",
+      "status": "Completed"
+    },
+    {
+      "id": 6041,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "5",
+      "table_num": 8,
+      "player1_name": "Steven ",
+      "player1_id": "hduj6qG7kwbKazcwJx1j8aVto3w2",
+      "player2_name": "Anthony Duran",
+      "player2_id": "pAr6Zfb82Me80CpOePU1LpDzCar1",
+      "winner": "Steven ",
+      "status": "Completed"
+    },
+    {
+      "id": 6042,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "5",
+      "table_num": 9,
+      "player1_name": "Cinnamon",
+      "player1_id": "iwjJJ6kVPmXDKhSTbnX5v0tHdlD3",
+      "player2_name": "Robert East",
+      "player2_id": "AOGqaCo2RRSmDMtEkMXbXSkDI7t2",
+      "winner": "Cinnamon",
+      "status": "Completed"
+    },
+    {
+      "id": 6043,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "round": "5",
+      "table_num": 10,
+      "player1_name": "Jaydee",
+      "player1_id": "YkIf5be4omhqwFJ6bP9v9SDrrKF2",
+      "player2_name": "Anthony Truong",
+      "player2_id": "JaAgD2xNpHSheZNtFVDfEkpqZgX2",
+      "winner": "Anthony Truong",
+      "status": "Completed"
+    }
+  ],
+  "standings": [
+    {
+      "id": 2606,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Eric Liu",
+      "player_id": "dm7KbuTkQZRqhW1EYRLyRygD80w2",
+      "placement": 1,
+      "wins": 7,
+      "wins_swiss": 4,
+      "wins_bracket": 3,
+      "losses": 1,
+      "losses_swiss": 1,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Jinx, Loose Cannon\\n\\n~~Runes~~\\n12 Chaos Rune\\n\\n~~Battlefields~~\\n1 The Candlelit Sanctum\\n1 Trifarian War Camp\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n3 Battering Ram\\n3 Blood Rush\\n3 Called Shot\\n3 Ezreal, Prodigy\\n1 Jinx, Rebel\\n3 Nocturne, Horrifying\\n3 Noxus Hopeful\\n3 Rebuke\\n3 Rhasa the Sunderer\\n3 Seal of Discord\\n3 Stacked Deck\\n2 Super Mega Death Rocket!\\n1 Switcheroo\\n3 Traveling Merchant\\n3 Treasure Hunter\\n\\n~~Sideboard~~\\n2 Fight or Flight\\n2 Hard Bargain\\n3 Scrapheap\\n1 Switcheroo\\n",
+      "deck_obj": "{\"Legend\": {\"Jinx, Loose Cannon\": {\"id\": \"OGN-251\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 12}}, \"Battlefields\": {\"The Candlelit Sanctum\": {\"id\": \"OGN-291\", \"count\": 1}, \"Trifarian War Camp\": {\"id\": \"OGN-294\", \"count\": 1}, \"Zaun Warrens\": {\"id\": \"OGN-298\", \"count\": 1}}, \"Mainboard\": {\"Battering Ram\": {\"id\": \"SFD-012\", \"count\": 3}, \"Blood Rush\": {\"id\": \"SFD-003\", \"count\": 3}, \"Called Shot\": {\"id\": \"SFD-122\", \"count\": 3}, \"Ezreal, Prodigy\": {\"id\": \"SFD-149\", \"count\": 3}, \"Jinx, Rebel\": {\"id\": \"OGN-202\", \"count\": 1}, \"Nocturne, Horrifying\": {\"id\": \"OGN-194\", \"count\": 3}, \"Noxus Hopeful\": {\"id\": \"OGN-012\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 3}, \"Rhasa the Sunderer\": {\"id\": \"OGN-195\", \"count\": 3}, \"Seal of Discord\": {\"id\": \"OGN-204\", \"count\": 3}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Super Mega Death Rocket!\": {\"id\": \"OGN-252\", \"count\": 2}, \"Switcheroo\": {\"id\": \"SFD-145\", \"count\": 1}, \"Traveling Merchant\": {\"id\": \"OGN-185\", \"count\": 3}, \"Treasure Hunter\": {\"id\": \"SFD-130\", \"count\": 3}}, \"Sideboard\": {\"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 2}, \"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 2}, \"Scrapheap\": {\"id\": \"OGN-182\", \"count\": 3}, \"Switcheroo\": {\"id\": \"SFD-145\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\", \"importedFrom\": \"https://piltoverarchive.com/decks/view/50f5943b-b2ee-440d-89db-1c04cf7bd64d\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Jinx, Loose Cannon": {
+            "id": "OGN-251",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 12
+          }
+        },
+        "Battlefields": {
+          "The Candlelit Sanctum": {
+            "id": "OGN-291",
+            "count": 1
+          },
+          "Trifarian War Camp": {
+            "id": "OGN-294",
+            "count": 1
+          },
+          "Zaun Warrens": {
+            "id": "OGN-298",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Battering Ram": {
+            "id": "SFD-012",
+            "count": 3
+          },
+          "Blood Rush": {
+            "id": "SFD-003",
+            "count": 3
+          },
+          "Called Shot": {
+            "id": "SFD-122",
+            "count": 3
+          },
+          "Ezreal, Prodigy": {
+            "id": "SFD-149",
+            "count": 3
+          },
+          "Jinx, Rebel": {
+            "id": "OGN-202",
+            "count": 1
+          },
+          "Nocturne, Horrifying": {
+            "id": "OGN-194",
+            "count": 3
+          },
+          "Noxus Hopeful": {
+            "id": "OGN-012",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 3
+          },
+          "Rhasa the Sunderer": {
+            "id": "OGN-195",
+            "count": 3
+          },
+          "Seal of Discord": {
+            "id": "OGN-204",
+            "count": 3
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Super Mega Death Rocket!": {
+            "id": "OGN-252",
+            "count": 2
+          },
+          "Switcheroo": {
+            "id": "SFD-145",
+            "count": 1
+          },
+          "Traveling Merchant": {
+            "id": "OGN-185",
+            "count": 3
+          },
+          "Treasure Hunter": {
+            "id": "SFD-130",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 2
+          },
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 2
+          },
+          "Scrapheap": {
+            "id": "OGN-182",
+            "count": 3
+          },
+          "Switcheroo": {
+            "id": "SFD-145",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed",
+          "importedFrom": "https://piltoverarchive.com/decks/view/50f5943b-b2ee-440d-89db-1c04cf7bd64d"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Jinx, Loose Cannon\\n\\n~~Runes~~\\n12 Chaos Rune\\n\\n~~Battlefields~~\\n1 The Candlelit Sanctum\\n1 Trifarian War Camp\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n3 Battering Ram\\n3 Blood Rush\\n3 Called Shot\\n3 Ezreal, Prodigy\\n1 Jinx, Rebel\\n3 Nocturne, Horrifying\\n3 Noxus Hopeful\\n3 Rebuke\\n3 Rhasa the Sunderer\\n3 Seal of Discord\\n3 Stacked Deck\\n2 Super Mega Death Rocket!\\n1 Switcheroo\\n3 Traveling Merchant\\n3 Treasure Hunter\\n\\n~~Sideboard~~\\n2 Fight or Flight\\n2 Hard Bargain\\n3 Scrapheap\\n1 Switcheroo\\n"
+      ]
+    },
+    {
+      "id": 2607,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Boxes",
+      "player_id": "7LiRDonDj8giHIvEznACjsoEdb73",
+      "placement": 2,
+      "wins": 6,
+      "wins_swiss": 4,
+      "wins_bracket": 2,
+      "losses": 2,
+      "losses_swiss": 1,
+      "losses_bracket": 1,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Reaver\\'s Row\\n1 Void Gate\\n\\n~~Mainboard~~\\n1 Bellows Breath\\n3 Falling Star\\n1 Get Excited!\\n3 Hextech Ray\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n1 Noxus Hopeful\\n1 Piercing Light\\n3 Plundering Poro\\n1 Pouty Poro\\n3 Progress Day\\n3 Retreat\\n1 Rocket Barrage\\n3 Singularity\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n3 Time Warp\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Assembly Rig\\n2 Brynhir Thundersong\\n2 Ferrous Forerunner\\n2 Thermo Beam\\n1 Unchecked Power\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"OGN-247\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 7}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 5}}, \"Battlefields\": {\"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"OGN-285\", \"count\": 1}, \"Void Gate\": {\"id\": \"OGN-296\", \"count\": 1}}, \"Mainboard\": {\"Bellows Breath\": {\"id\": \"SFD-080\", \"count\": 1}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 3}, \"Get Excited!\": {\"id\": \"OGN-008\", \"count\": 1}, \"Hextech Ray\": {\"id\": \"OGN-009\", \"count\": 3}, \"Kai'Sa, Survivor\": {\"id\": \"OGN-039\", \"count\": 1}, \"Lecturing Yordle\": {\"id\": \"OGN-087\", \"count\": 3}, \"Noxus Hopeful\": {\"id\": \"OGN-012\", \"count\": 1}, \"Piercing Light\": {\"id\": \"SFD-023\", \"count\": 1}, \"Plundering Poro\": {\"id\": \"SFD-069\", \"count\": 3}, \"Pouty Poro\": {\"id\": \"OGN-013\", \"count\": 1}, \"Progress Day\": {\"id\": \"OGN-114\", \"count\": 3}, \"Retreat\": {\"id\": \"OGN-104\", \"count\": 3}, \"Rocket Barrage\": {\"id\": \"SFD-077\", \"count\": 1}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 3}, \"Stupefy\": {\"id\": \"OGN-095\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 3}, \"Time Warp\": {\"id\": \"OGN-122\", \"count\": 3}, \"Watchful Sentry\": {\"id\": \"OGN-096\", \"count\": 3}}, \"Sideboard\": {\"Assembly Rig\": {\"id\": \"SFD-019\", \"count\": 1}, \"Brynhir Thundersong\": {\"id\": \"OGN-026\", \"count\": 2}, \"Ferrous Forerunner\": {\"id\": \"SFD-021\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"OGN-022\", \"count\": 2}, \"Unchecked Power\": {\"id\": \"OGN-123\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "OGN-247",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "OGN-285",
+            "count": 1
+          },
+          "Void Gate": {
+            "id": "OGN-296",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Bellows Breath": {
+            "id": "SFD-080",
+            "count": 1
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 3
+          },
+          "Get Excited!": {
+            "id": "OGN-008",
+            "count": 1
+          },
+          "Hextech Ray": {
+            "id": "OGN-009",
+            "count": 3
+          },
+          "Kai'Sa, Survivor": {
+            "id": "OGN-039",
+            "count": 1
+          },
+          "Lecturing Yordle": {
+            "id": "OGN-087",
+            "count": 3
+          },
+          "Noxus Hopeful": {
+            "id": "OGN-012",
+            "count": 1
+          },
+          "Piercing Light": {
+            "id": "SFD-023",
+            "count": 1
+          },
+          "Plundering Poro": {
+            "id": "SFD-069",
+            "count": 3
+          },
+          "Pouty Poro": {
+            "id": "OGN-013",
+            "count": 1
+          },
+          "Progress Day": {
+            "id": "OGN-114",
+            "count": 3
+          },
+          "Retreat": {
+            "id": "OGN-104",
+            "count": 3
+          },
+          "Rocket Barrage": {
+            "id": "SFD-077",
+            "count": 1
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 3
+          },
+          "Stupefy": {
+            "id": "OGN-095",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 3
+          },
+          "Time Warp": {
+            "id": "OGN-122",
+            "count": 3
+          },
+          "Watchful Sentry": {
+            "id": "OGN-096",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Assembly Rig": {
+            "id": "SFD-019",
+            "count": 1
+          },
+          "Brynhir Thundersong": {
+            "id": "OGN-026",
+            "count": 2
+          },
+          "Ferrous Forerunner": {
+            "id": "SFD-021",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "OGN-022",
+            "count": 2
+          },
+          "Unchecked Power": {
+            "id": "OGN-123",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Reaver\\'s Row\\n1 Void Gate\\n\\n~~Mainboard~~\\n1 Bellows Breath\\n3 Falling Star\\n1 Get Excited!\\n3 Hextech Ray\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n1 Noxus Hopeful\\n1 Piercing Light\\n3 Plundering Poro\\n1 Pouty Poro\\n3 Progress Day\\n3 Retreat\\n1 Rocket Barrage\\n3 Singularity\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n3 Time Warp\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n1 Assembly Rig\\n2 Brynhir Thundersong\\n2 Ferrous Forerunner\\n2 Thermo Beam\\n1 Unchecked Power\\n"
+      ]
+    },
+    {
+      "id": 2608,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Philip Henderson",
+      "player_id": "rEQr6iLPNAO8PKyDqy7LfG1jRWo1",
+      "placement": 3,
+      "wins": 5,
+      "wins_swiss": 4,
+      "wins_bracket": 1,
+      "losses": 2,
+      "losses_swiss": 1,
+      "losses_bracket": 1,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Master Yi, Wuju Bladesman\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Obelisk of Power\\n1 Vilemaw\\'s Lair\\n\\n~~Mainboard~~\\n3 Akshan, Mischievous\\n1 Carnivorous Snapvine\\n3 Charm\\n3 Defy\\n3 Discipline\\n2 En Garde\\n1 First Mate\\n3 Guardian Angel\\n3 Lonely Poro\\n2 Master Yi, Honed\\n1 Not So Fast\\n3 Punch First\\n2 Ruin Runner\\n3 Stellacorn Herder\\n2 Thwonk!\\n2 Trinity Force\\n3 Zhonya\\'s Hourglass\\n\\n~~Sideboard~~\\n1 Carnivorous Snapvine\\n2 Navori Scout\\n2 Qiyana, Victorious\\n1 Ruin Runner\\n1 Stalwart Poro\\n1 Wind Wall\\n",
+      "deck_obj": "{\"Legend\": {\"Master Yi, Wuju Bladesman\": {\"id\": \"OGS-019\", \"count\": 1}}, \"Runes\": {\"Body Rune\": {\"id\": \"OGN-126\", \"count\": 6}, \"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"OGN-280\", \"count\": 1}, \"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Vilemaw's Lair\": {\"id\": \"OGN-295\", \"count\": 1}}, \"Mainboard\": {\"Akshan, Mischievous\": {\"id\": \"SFD-109\", \"count\": 3}, \"Carnivorous Snapvine\": {\"id\": \"OGN-149\", \"count\": 1}, \"Charm\": {\"id\": \"OGN-043\", \"count\": 3}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 3}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 2}, \"First Mate\": {\"id\": \"OGN-132\", \"count\": 1}, \"Guardian Angel\": {\"id\": \"SFD-051\", \"count\": 3}, \"Lonely Poro\": {\"id\": \"SFD-036\", \"count\": 3}, \"Master Yi, Honed\": {\"id\": \"OGS-009\", \"count\": 2}, \"Not So Fast\": {\"id\": \"SFD-045\", \"count\": 1}, \"Punch First\": {\"id\": \"SFD-097\", \"count\": 3}, \"Ruin Runner\": {\"id\": \"SFD-105\", \"count\": 2}, \"Stellacorn Herder\": {\"id\": \"SFD-048\", \"count\": 3}, \"Thwonk!\": {\"id\": \"SFD-040\", \"count\": 2}, \"Trinity Force\": {\"id\": \"SFD-115\", \"count\": 2}, \"Zhonya's Hourglass\": {\"id\": \"OGN-077\", \"count\": 3}}, \"Sideboard\": {\"Carnivorous Snapvine\": {\"id\": \"OGN-149\", \"count\": 1}, \"Navori Scout\": {\"id\": \"SFD-037\", \"count\": 2}, \"Qiyana, Victorious\": {\"id\": \"OGN-155\", \"count\": 2}, \"Ruin Runner\": {\"id\": \"SFD-105\", \"count\": 1}, \"Stalwart Poro\": {\"id\": \"OGN-052\", \"count\": 1}, \"Wind Wall\": {\"id\": \"OGN-064\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Master Yi, Wuju Bladesman": {
+            "id": "OGS-019",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Body Rune": {
+            "id": "OGN-126",
+            "count": 6
+          },
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "OGN-280",
+            "count": 1
+          },
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Vilemaw's Lair": {
+            "id": "OGN-295",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Akshan, Mischievous": {
+            "id": "SFD-109",
+            "count": 3
+          },
+          "Carnivorous Snapvine": {
+            "id": "OGN-149",
+            "count": 1
+          },
+          "Charm": {
+            "id": "OGN-043",
+            "count": 3
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 3
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 2
+          },
+          "First Mate": {
+            "id": "OGN-132",
+            "count": 1
+          },
+          "Guardian Angel": {
+            "id": "SFD-051",
+            "count": 3
+          },
+          "Lonely Poro": {
+            "id": "SFD-036",
+            "count": 3
+          },
+          "Master Yi, Honed": {
+            "id": "OGS-009",
+            "count": 2
+          },
+          "Not So Fast": {
+            "id": "SFD-045",
+            "count": 1
+          },
+          "Punch First": {
+            "id": "SFD-097",
+            "count": 3
+          },
+          "Ruin Runner": {
+            "id": "SFD-105",
+            "count": 2
+          },
+          "Stellacorn Herder": {
+            "id": "SFD-048",
+            "count": 3
+          },
+          "Thwonk!": {
+            "id": "SFD-040",
+            "count": 2
+          },
+          "Trinity Force": {
+            "id": "SFD-115",
+            "count": 2
+          },
+          "Zhonya's Hourglass": {
+            "id": "OGN-077",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Carnivorous Snapvine": {
+            "id": "OGN-149",
+            "count": 1
+          },
+          "Navori Scout": {
+            "id": "SFD-037",
+            "count": 2
+          },
+          "Qiyana, Victorious": {
+            "id": "OGN-155",
+            "count": 2
+          },
+          "Ruin Runner": {
+            "id": "SFD-105",
+            "count": 1
+          },
+          "Stalwart Poro": {
+            "id": "OGN-052",
+            "count": 1
+          },
+          "Wind Wall": {
+            "id": "OGN-064",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Master Yi, Wuju Bladesman\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Obelisk of Power\\n1 Vilemaw\\'s Lair\\n\\n~~Mainboard~~\\n3 Akshan, Mischievous\\n1 Carnivorous Snapvine\\n3 Charm\\n3 Defy\\n3 Discipline\\n2 En Garde\\n1 First Mate\\n3 Guardian Angel\\n3 Lonely Poro\\n2 Master Yi, Honed\\n1 Not So Fast\\n3 Punch First\\n2 Ruin Runner\\n3 Stellacorn Herder\\n2 Thwonk!\\n2 Trinity Force\\n3 Zhonya\\'s Hourglass\\n\\n~~Sideboard~~\\n1 Carnivorous Snapvine\\n2 Navori Scout\\n2 Qiyana, Victorious\\n1 Ruin Runner\\n1 Stalwart Poro\\n1 Wind Wall\\n"
+      ]
+    },
+    {
+      "id": 2609,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Aaron McNeely",
+      "player_id": "qogioiWpzFMHnQVCmmzVKSoocyq2",
+      "placement": 4,
+      "wins": 4,
+      "wins_swiss": 3,
+      "wins_bracket": 1,
+      "losses": 2,
+      "losses_swiss": 1,
+      "losses_bracket": 1,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Reaver\\'s Row\\n1 Void Gate\\n\\n~~Mainboard~~\\n1 Bellows Breath\\n3 Falling Star\\n1 Get Excited!\\n3 Hextech Ray\\n1 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n1 Noxus Hopeful\\n2 Piercing Light\\n3 Plundering Poro\\n1 Pouty Poro\\n2 Progress Day\\n3 Retreat\\n3 Singularity\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Time Warp\\n1 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n2 Brynhir Thundersong\\n2 Ferrous Forerunner\\n2 Get Excited!\\n2 Thermo Beam\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"OGN-247\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 7}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 5}}, \"Battlefields\": {\"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"OGN-285\", \"count\": 1}, \"Void Gate\": {\"id\": \"OGN-296\", \"count\": 1}}, \"Mainboard\": {\"Bellows Breath\": {\"id\": \"SFD-080\", \"count\": 1}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 3}, \"Get Excited!\": {\"id\": \"OGN-008\", \"count\": 1}, \"Hextech Ray\": {\"id\": \"OGN-009\", \"count\": 3}, \"Icathian Rain\": {\"id\": \"OGN-248\", \"count\": 1}, \"Kai'Sa, Survivor\": {\"id\": \"OGN-039\", \"count\": 1}, \"Lecturing Yordle\": {\"id\": \"OGN-087\", \"count\": 3}, \"Noxus Hopeful\": {\"id\": \"OGN-012\", \"count\": 1}, \"Piercing Light\": {\"id\": \"SFD-023\", \"count\": 2}, \"Plundering Poro\": {\"id\": \"SFD-069\", \"count\": 3}, \"Pouty Poro\": {\"id\": \"OGN-013\", \"count\": 1}, \"Progress Day\": {\"id\": \"OGN-114\", \"count\": 2}, \"Retreat\": {\"id\": \"OGN-104\", \"count\": 3}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 3}, \"Stupefy\": {\"id\": \"OGN-095\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 3}, \"Time Warp\": {\"id\": \"OGN-122\", \"count\": 2}, \"Void Seeker\": {\"id\": \"OGN-024\", \"count\": 1}, \"Watchful Sentry\": {\"id\": \"OGN-096\", \"count\": 3}}, \"Sideboard\": {\"Brynhir Thundersong\": {\"id\": \"OGN-026\", \"count\": 2}, \"Ferrous Forerunner\": {\"id\": \"SFD-021\", \"count\": 2}, \"Get Excited!\": {\"id\": \"OGN-008\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"OGN-022\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\", \"importedFrom\": \"https://piltoverarchive.com/decks/view/c9ec2624-966f-4fdc-8337-6236ec5d30bc\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "OGN-247",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "OGN-285",
+            "count": 1
+          },
+          "Void Gate": {
+            "id": "OGN-296",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Bellows Breath": {
+            "id": "SFD-080",
+            "count": 1
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 3
+          },
+          "Get Excited!": {
+            "id": "OGN-008",
+            "count": 1
+          },
+          "Hextech Ray": {
+            "id": "OGN-009",
+            "count": 3
+          },
+          "Icathian Rain": {
+            "id": "OGN-248",
+            "count": 1
+          },
+          "Kai'Sa, Survivor": {
+            "id": "OGN-039",
+            "count": 1
+          },
+          "Lecturing Yordle": {
+            "id": "OGN-087",
+            "count": 3
+          },
+          "Noxus Hopeful": {
+            "id": "OGN-012",
+            "count": 1
+          },
+          "Piercing Light": {
+            "id": "SFD-023",
+            "count": 2
+          },
+          "Plundering Poro": {
+            "id": "SFD-069",
+            "count": 3
+          },
+          "Pouty Poro": {
+            "id": "OGN-013",
+            "count": 1
+          },
+          "Progress Day": {
+            "id": "OGN-114",
+            "count": 2
+          },
+          "Retreat": {
+            "id": "OGN-104",
+            "count": 3
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 3
+          },
+          "Stupefy": {
+            "id": "OGN-095",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 3
+          },
+          "Time Warp": {
+            "id": "OGN-122",
+            "count": 2
+          },
+          "Void Seeker": {
+            "id": "OGN-024",
+            "count": 1
+          },
+          "Watchful Sentry": {
+            "id": "OGN-096",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Brynhir Thundersong": {
+            "id": "OGN-026",
+            "count": 2
+          },
+          "Ferrous Forerunner": {
+            "id": "SFD-021",
+            "count": 2
+          },
+          "Get Excited!": {
+            "id": "OGN-008",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "OGN-022",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed",
+          "importedFrom": "https://piltoverarchive.com/decks/view/c9ec2624-966f-4fdc-8337-6236ec5d30bc"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n7 Fury Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Reaver\\'s Row\\n1 Void Gate\\n\\n~~Mainboard~~\\n1 Bellows Breath\\n3 Falling Star\\n1 Get Excited!\\n3 Hextech Ray\\n1 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n1 Noxus Hopeful\\n2 Piercing Light\\n3 Plundering Poro\\n1 Pouty Poro\\n2 Progress Day\\n3 Retreat\\n3 Singularity\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Time Warp\\n1 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n2 Brynhir Thundersong\\n2 Ferrous Forerunner\\n2 Get Excited!\\n2 Thermo Beam\\n"
+      ]
+    },
+    {
+      "id": 2610,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Mitchell Mrozek",
+      "player_id": "BmM8uM5zL9Xmj4rb5AdXTVSkdBw1",
+      "placement": 5,
+      "wins": 3,
+      "wins_swiss": 3,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 1,
+      "losses_bracket": 1,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Draven, Glorious Executioner\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n\\n~~Mainboard~~\\n1 Against the Odds\\n1 Blood Rush\\n2 Brynhir Thundersong\\n3 Darius, Trifarian\\n1 Draven, Vanquisher\\n2 Edge of Night\\n2 Falling Star\\n1 Ferrous Forerunner\\n2 Fight or Flight\\n3 Kai\\'Sa, Survivor\\n2 Mindsplitter\\n3 Noxus Hopeful\\n3 Overzealous Fan\\n2 Rebuke\\n2 Ride the Wind\\n2 Spinning Axe\\n2 Stacked Deck\\n1 Switcheroo\\n2 Tideturner\\n3 Treasure Hunter\\n\\n~~Sideboard~~\\n1 Against the Odds\\n1 Ferrous Forerunner\\n1 Hard Bargain\\n1 Ride the Wind\\n1 Spinning Axe\\n1 Switcheroo\\n",
+      "deck_obj": "{\"Legend\": {\"Draven, Glorious Executioner\": {\"id\": \"SFD-185\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}, \"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 6}}, \"Battlefields\": {\"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"OGN-285\", \"count\": 1}, \"Targon's Peak\": {\"id\": \"OGN-289\", \"count\": 1}}, \"Mainboard\": {\"Against the Odds\": {\"id\": \"SFD-001\", \"count\": 1}, \"Blood Rush\": {\"id\": \"SFD-003\", \"count\": 1}, \"Brynhir Thundersong\": {\"id\": \"OGN-026\", \"count\": 2}, \"Darius, Trifarian\": {\"id\": \"OGN-027\", \"count\": 3}, \"Draven, Vanquisher\": {\"id\": \"SFD-020\", \"count\": 1}, \"Edge of Night\": {\"id\": \"SFD-139\", \"count\": 2}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 2}, \"Ferrous Forerunner\": {\"id\": \"SFD-021\", \"count\": 1}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 2}, \"Kai'Sa, Survivor\": {\"id\": \"OGN-039\", \"count\": 3}, \"Mindsplitter\": {\"id\": \"OGN-192\", \"count\": 2}, \"Noxus Hopeful\": {\"id\": \"OGN-012\", \"count\": 3}, \"Overzealous Fan\": {\"id\": \"SFD-128\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 2}, \"Spinning Axe\": {\"id\": \"SFD-186\", \"count\": 2}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 2}, \"Switcheroo\": {\"id\": \"SFD-145\", \"count\": 1}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 2}, \"Treasure Hunter\": {\"id\": \"SFD-130\", \"count\": 3}}, \"Sideboard\": {\"Against the Odds\": {\"id\": \"SFD-001\", \"count\": 1}, \"Ferrous Forerunner\": {\"id\": \"SFD-021\", \"count\": 1}, \"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 1}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 1}, \"Spinning Axe\": {\"id\": \"SFD-186\", \"count\": 1}, \"Switcheroo\": {\"id\": \"SFD-145\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Draven, Glorious Executioner": {
+            "id": "SFD-185",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          },
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "OGN-285",
+            "count": 1
+          },
+          "Targon's Peak": {
+            "id": "OGN-289",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Against the Odds": {
+            "id": "SFD-001",
+            "count": 1
+          },
+          "Blood Rush": {
+            "id": "SFD-003",
+            "count": 1
+          },
+          "Brynhir Thundersong": {
+            "id": "OGN-026",
+            "count": 2
+          },
+          "Darius, Trifarian": {
+            "id": "OGN-027",
+            "count": 3
+          },
+          "Draven, Vanquisher": {
+            "id": "SFD-020",
+            "count": 1
+          },
+          "Edge of Night": {
+            "id": "SFD-139",
+            "count": 2
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 2
+          },
+          "Ferrous Forerunner": {
+            "id": "SFD-021",
+            "count": 1
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 2
+          },
+          "Kai'Sa, Survivor": {
+            "id": "OGN-039",
+            "count": 3
+          },
+          "Mindsplitter": {
+            "id": "OGN-192",
+            "count": 2
+          },
+          "Noxus Hopeful": {
+            "id": "OGN-012",
+            "count": 3
+          },
+          "Overzealous Fan": {
+            "id": "SFD-128",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 2
+          },
+          "Spinning Axe": {
+            "id": "SFD-186",
+            "count": 2
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 2
+          },
+          "Switcheroo": {
+            "id": "SFD-145",
+            "count": 1
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 2
+          },
+          "Treasure Hunter": {
+            "id": "SFD-130",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Against the Odds": {
+            "id": "SFD-001",
+            "count": 1
+          },
+          "Ferrous Forerunner": {
+            "id": "SFD-021",
+            "count": 1
+          },
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 1
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 1
+          },
+          "Spinning Axe": {
+            "id": "SFD-186",
+            "count": 1
+          },
+          "Switcheroo": {
+            "id": "SFD-145",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Draven, Glorious Executioner\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n\\n~~Mainboard~~\\n1 Against the Odds\\n1 Blood Rush\\n2 Brynhir Thundersong\\n3 Darius, Trifarian\\n1 Draven, Vanquisher\\n2 Edge of Night\\n2 Falling Star\\n1 Ferrous Forerunner\\n2 Fight or Flight\\n3 Kai\\'Sa, Survivor\\n2 Mindsplitter\\n3 Noxus Hopeful\\n3 Overzealous Fan\\n2 Rebuke\\n2 Ride the Wind\\n2 Spinning Axe\\n2 Stacked Deck\\n1 Switcheroo\\n2 Tideturner\\n3 Treasure Hunter\\n\\n~~Sideboard~~\\n1 Against the Odds\\n1 Ferrous Forerunner\\n1 Hard Bargain\\n1 Ride the Wind\\n1 Spinning Axe\\n1 Switcheroo\\n"
+      ]
+    },
+    {
+      "id": 2611,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "DJ Eason",
+      "player_id": "ChWJdPu2VUYBFaf6iOsh9ShuEF12",
+      "placement": 6,
+      "wins": 3,
+      "wins_swiss": 3,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 1,
+      "losses_bracket": 1,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Lucian, Purifier\\n\\n~~Runes~~\\n5 Body Rune\\n7 Fury Rune\\n\\n~~Battlefields~~\\n1 Reaver\\'s Row\\n1 The Arena\\'s Greatest\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n2 Blast Corps Cadet\\n3 Blood Rush\\n3 Cleave\\n2 Darius, Trifarian\\n2 Doran\\'s Blade\\n2 Falling Star\\n3 Gem Jammer\\n3 Hexdrinker\\n2 Long Sword\\n3 Lucian, Gunslinger\\n3 Lucian, Merciless\\n3 Relentless Pursuit\\n3 Serrated Dirk\\n2 Skyfall of Areion\\n2 Trinity Force\\n2 Warmog\\'s Armor\\n\\n~~Sideboard~~\\n2 Akshan, Mischievous\\n2 Ruin Runner\\n2 Sabotage\\n2 Unyielding Spirit\\n",
+      "deck_obj": "{\"Legend\": {\"Lucian, Purifier\": {\"id\": \"SFD-183\", \"count\": 1}}, \"Runes\": {\"Body Rune\": {\"id\": \"OGN-126\", \"count\": 5}, \"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 7}}, \"Battlefields\": {\"Reaver's Row\": {\"id\": \"OGN-285\", \"count\": 1}, \"The Arena's Greatest\": {\"id\": \"OGN-290\", \"count\": 1}, \"Zaun Warrens\": {\"id\": \"OGN-298\", \"count\": 1}}, \"Mainboard\": {\"Blast Corps Cadet\": {\"id\": \"SFD-013\", \"count\": 2}, \"Blood Rush\": {\"id\": \"SFD-003\", \"count\": 3}, \"Cleave\": {\"id\": \"OGN-004\", \"count\": 3}, \"Darius, Trifarian\": {\"id\": \"OGN-027\", \"count\": 2}, \"Doran's Blade\": {\"id\": \"SFD-095\", \"count\": 2}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 2}, \"Gem Jammer\": {\"id\": \"SFD-007\", \"count\": 3}, \"Hexdrinker\": {\"id\": \"SFD-102\", \"count\": 3}, \"Long Sword\": {\"id\": \"SFD-022\", \"count\": 2}, \"Lucian, Gunslinger\": {\"id\": \"SFD-028\", \"count\": 3}, \"Lucian, Merciless\": {\"id\": \"SFD-113\", \"count\": 3}, \"Relentless Pursuit\": {\"id\": \"SFD-184\", \"count\": 3}, \"Serrated Dirk\": {\"id\": \"SFD-009\", \"count\": 3}, \"Skyfall of Areion\": {\"id\": \"SFD-030\", \"count\": 2}, \"Trinity Force\": {\"id\": \"SFD-115\", \"count\": 2}, \"Warmog's Armor\": {\"id\": \"SFD-108\", \"count\": 2}}, \"Sideboard\": {\"Akshan, Mischievous\": {\"id\": \"SFD-109\", \"count\": 2}, \"Ruin Runner\": {\"id\": \"SFD-105\", \"count\": 2}, \"Sabotage\": {\"id\": \"OGN-156\", \"count\": 2}, \"Unyielding Spirit\": {\"id\": \"OGN-145\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\", \"importedFrom\": \"https://piltoverarchive.com/decks/view/f66b86ce-7814-47b3-b2d2-84bf16aad3c2\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Lucian, Purifier": {
+            "id": "SFD-183",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Body Rune": {
+            "id": "OGN-126",
+            "count": 5
+          },
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 7
+          }
+        },
+        "Battlefields": {
+          "Reaver's Row": {
+            "id": "OGN-285",
+            "count": 1
+          },
+          "The Arena's Greatest": {
+            "id": "OGN-290",
+            "count": 1
+          },
+          "Zaun Warrens": {
+            "id": "OGN-298",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Blast Corps Cadet": {
+            "id": "SFD-013",
+            "count": 2
+          },
+          "Blood Rush": {
+            "id": "SFD-003",
+            "count": 3
+          },
+          "Cleave": {
+            "id": "OGN-004",
+            "count": 3
+          },
+          "Darius, Trifarian": {
+            "id": "OGN-027",
+            "count": 2
+          },
+          "Doran's Blade": {
+            "id": "SFD-095",
+            "count": 2
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 2
+          },
+          "Gem Jammer": {
+            "id": "SFD-007",
+            "count": 3
+          },
+          "Hexdrinker": {
+            "id": "SFD-102",
+            "count": 3
+          },
+          "Long Sword": {
+            "id": "SFD-022",
+            "count": 2
+          },
+          "Lucian, Gunslinger": {
+            "id": "SFD-028",
+            "count": 3
+          },
+          "Lucian, Merciless": {
+            "id": "SFD-113",
+            "count": 3
+          },
+          "Relentless Pursuit": {
+            "id": "SFD-184",
+            "count": 3
+          },
+          "Serrated Dirk": {
+            "id": "SFD-009",
+            "count": 3
+          },
+          "Skyfall of Areion": {
+            "id": "SFD-030",
+            "count": 2
+          },
+          "Trinity Force": {
+            "id": "SFD-115",
+            "count": 2
+          },
+          "Warmog's Armor": {
+            "id": "SFD-108",
+            "count": 2
+          }
+        },
+        "Sideboard": {
+          "Akshan, Mischievous": {
+            "id": "SFD-109",
+            "count": 2
+          },
+          "Ruin Runner": {
+            "id": "SFD-105",
+            "count": 2
+          },
+          "Sabotage": {
+            "id": "OGN-156",
+            "count": 2
+          },
+          "Unyielding Spirit": {
+            "id": "OGN-145",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed",
+          "importedFrom": "https://piltoverarchive.com/decks/view/f66b86ce-7814-47b3-b2d2-84bf16aad3c2"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Lucian, Purifier\\n\\n~~Runes~~\\n5 Body Rune\\n7 Fury Rune\\n\\n~~Battlefields~~\\n1 Reaver\\'s Row\\n1 The Arena\\'s Greatest\\n1 Zaun Warrens\\n\\n~~Mainboard~~\\n2 Blast Corps Cadet\\n3 Blood Rush\\n3 Cleave\\n2 Darius, Trifarian\\n2 Doran\\'s Blade\\n2 Falling Star\\n3 Gem Jammer\\n3 Hexdrinker\\n2 Long Sword\\n3 Lucian, Gunslinger\\n3 Lucian, Merciless\\n3 Relentless Pursuit\\n3 Serrated Dirk\\n2 Skyfall of Areion\\n2 Trinity Force\\n2 Warmog\\'s Armor\\n\\n~~Sideboard~~\\n2 Akshan, Mischievous\\n2 Ruin Runner\\n2 Sabotage\\n2 Unyielding Spirit\\n"
+      ]
+    },
+    {
+      "id": 2612,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Jacob Sconci",
+      "player_id": "Pnf77B97dvXxG4Pr2wPYDoDrDkM2",
+      "placement": 7,
+      "wins": 3,
+      "wins_swiss": 3,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 2,
+      "losses_bracket": 1,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Ezreal, Prodigal Explorer\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Mind Rune\\n\\n~~Battlefields~~\\n1 Targon\\'s Peak\\n1 Void Gate\\n1 Windswept Hillock\\n\\n~~Mainboard~~\\n1 Arcane Shift\\n3 Bellows Breath\\n1 Boots of Swiftness\\n3 Cull\\n1 Ezreal, Prodigy\\n3 Fight or Flight\\n3 Fizz, Trickster\\n3 Frigid Touch\\n3 Pit Crew\\n2 Plundering Poro\\n3 Rebuke\\n2 Seal of Discord\\n2 Singularity\\n3 Stacked Deck\\n3 Treasure Hunter\\n1 Unchecked Power\\n3 Wages of Pain\\n\\n~~Sideboard~~\\n3 Hard Bargain\\n2 Retreat\\n1 Singularity\\n2 Thousand-Tailed Watcher\\n",
+      "deck_obj": "{\"Legend\": {\"Ezreal, Prodigal Explorer\": {\"id\": \"SFD-199\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 6}}, \"Battlefields\": {\"Targon's Peak\": {\"id\": \"OGN-289\", \"count\": 1}, \"Void Gate\": {\"id\": \"OGN-296\", \"count\": 1}, \"Windswept Hillock\": {\"id\": \"OGN-297\", \"count\": 1}}, \"Mainboard\": {\"Arcane Shift\": {\"id\": \"SFD-200\", \"count\": 1}, \"Bellows Breath\": {\"id\": \"SFD-080\", \"count\": 3}, \"Boots of Swiftness\": {\"id\": \"SFD-133\", \"count\": 1}, \"Cull\": {\"id\": \"SFD-134\", \"count\": 3}, \"Ezreal, Prodigy\": {\"id\": \"SFD-149\", \"count\": 1}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 3}, \"Fizz, Trickster\": {\"id\": \"SFD-140\", \"count\": 3}, \"Frigid Touch\": {\"id\": \"SFD-066\", \"count\": 3}, \"Pit Crew\": {\"id\": \"OGN-091\", \"count\": 3}, \"Plundering Poro\": {\"id\": \"SFD-069\", \"count\": 2}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 3}, \"Seal of Discord\": {\"id\": \"OGN-204\", \"count\": 2}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 2}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Treasure Hunter\": {\"id\": \"SFD-130\", \"count\": 3}, \"Unchecked Power\": {\"id\": \"OGN-123\", \"count\": 1}, \"Wages of Pain\": {\"id\": \"SFD-070\", \"count\": 3}}, \"Sideboard\": {\"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 3}, \"Retreat\": {\"id\": \"OGN-104\", \"count\": 2}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 1}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\", \"importedFrom\": \"https://piltoverarchive.com/decks/view/fbfa5f53-f518-4809-a832-d047dbf4bcdd\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Ezreal, Prodigal Explorer": {
+            "id": "SFD-199",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Targon's Peak": {
+            "id": "OGN-289",
+            "count": 1
+          },
+          "Void Gate": {
+            "id": "OGN-296",
+            "count": 1
+          },
+          "Windswept Hillock": {
+            "id": "OGN-297",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Arcane Shift": {
+            "id": "SFD-200",
+            "count": 1
+          },
+          "Bellows Breath": {
+            "id": "SFD-080",
+            "count": 3
+          },
+          "Boots of Swiftness": {
+            "id": "SFD-133",
+            "count": 1
+          },
+          "Cull": {
+            "id": "SFD-134",
+            "count": 3
+          },
+          "Ezreal, Prodigy": {
+            "id": "SFD-149",
+            "count": 1
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 3
+          },
+          "Fizz, Trickster": {
+            "id": "SFD-140",
+            "count": 3
+          },
+          "Frigid Touch": {
+            "id": "SFD-066",
+            "count": 3
+          },
+          "Pit Crew": {
+            "id": "OGN-091",
+            "count": 3
+          },
+          "Plundering Poro": {
+            "id": "SFD-069",
+            "count": 2
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 3
+          },
+          "Seal of Discord": {
+            "id": "OGN-204",
+            "count": 2
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 2
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Treasure Hunter": {
+            "id": "SFD-130",
+            "count": 3
+          },
+          "Unchecked Power": {
+            "id": "OGN-123",
+            "count": 1
+          },
+          "Wages of Pain": {
+            "id": "SFD-070",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 3
+          },
+          "Retreat": {
+            "id": "OGN-104",
+            "count": 2
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 1
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed",
+          "importedFrom": "https://piltoverarchive.com/decks/view/fbfa5f53-f518-4809-a832-d047dbf4bcdd"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Ezreal, Prodigal Explorer\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Mind Rune\\n\\n~~Battlefields~~\\n1 Targon\\'s Peak\\n1 Void Gate\\n1 Windswept Hillock\\n\\n~~Mainboard~~\\n1 Arcane Shift\\n3 Bellows Breath\\n1 Boots of Swiftness\\n3 Cull\\n1 Ezreal, Prodigy\\n3 Fight or Flight\\n3 Fizz, Trickster\\n3 Frigid Touch\\n3 Pit Crew\\n2 Plundering Poro\\n3 Rebuke\\n2 Seal of Discord\\n2 Singularity\\n3 Stacked Deck\\n3 Treasure Hunter\\n1 Unchecked Power\\n3 Wages of Pain\\n\\n~~Sideboard~~\\n3 Hard Bargain\\n2 Retreat\\n1 Singularity\\n2 Thousand-Tailed Watcher\\n"
+      ]
+    },
+    {
+      "id": 2613,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Robert Storch",
+      "player_id": "SNpd06FNhdQ4Uq0UEf7Vnrj0vr53",
+      "placement": 8,
+      "wins": 3,
+      "wins_swiss": 3,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 2,
+      "losses_bracket": 1,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n6 Fury Rune\\n6 Mind Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Reaver\\'s Row\\n1 Void Gate\\n\\n~~Mainboard~~\\n1 Bellows Breath\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n3 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n3 Legion Rearguard\\n3 Piercing Light\\n1 Progress Day\\n2 Retreat\\n3 Singularity\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Time Warp\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n2 Brynhir Thundersong\\n2 Ferrous Forerunner\\n2 Rocket Barrage\\n2 Thermo Beam\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"OGN-247\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 6}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 6}}, \"Battlefields\": {\"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"OGN-285\", \"count\": 1}, \"Void Gate\": {\"id\": \"OGN-296\", \"count\": 1}}, \"Mainboard\": {\"Bellows Breath\": {\"id\": \"SFD-080\", \"count\": 1}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 3}, \"Hextech Ray\": {\"id\": \"OGN-009\", \"count\": 3}, \"Icathian Rain\": {\"id\": \"OGN-248\", \"count\": 2}, \"Kai'Sa, Survivor\": {\"id\": \"OGN-039\", \"count\": 3}, \"Lecturing Yordle\": {\"id\": \"OGN-087\", \"count\": 3}, \"Legion Rearguard\": {\"id\": \"OGN-010\", \"count\": 3}, \"Piercing Light\": {\"id\": \"SFD-023\", \"count\": 3}, \"Progress Day\": {\"id\": \"OGN-114\", \"count\": 1}, \"Retreat\": {\"id\": \"OGN-104\", \"count\": 2}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 3}, \"Stupefy\": {\"id\": \"OGN-095\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 3}, \"Time Warp\": {\"id\": \"OGN-122\", \"count\": 2}, \"Void Seeker\": {\"id\": \"OGN-024\", \"count\": 2}, \"Watchful Sentry\": {\"id\": \"OGN-096\", \"count\": 3}}, \"Sideboard\": {\"Brynhir Thundersong\": {\"id\": \"OGN-026\", \"count\": 2}, \"Ferrous Forerunner\": {\"id\": \"SFD-021\", \"count\": 2}, \"Rocket Barrage\": {\"id\": \"SFD-077\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"OGN-022\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\", \"importedFrom\": \"https://piltoverarchive.com/decks/view/29527d5d-ab2a-4076-86da-9076483052cb\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "OGN-247",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 6
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "OGN-285",
+            "count": 1
+          },
+          "Void Gate": {
+            "id": "OGN-296",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Bellows Breath": {
+            "id": "SFD-080",
+            "count": 1
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 3
+          },
+          "Hextech Ray": {
+            "id": "OGN-009",
+            "count": 3
+          },
+          "Icathian Rain": {
+            "id": "OGN-248",
+            "count": 2
+          },
+          "Kai'Sa, Survivor": {
+            "id": "OGN-039",
+            "count": 3
+          },
+          "Lecturing Yordle": {
+            "id": "OGN-087",
+            "count": 3
+          },
+          "Legion Rearguard": {
+            "id": "OGN-010",
+            "count": 3
+          },
+          "Piercing Light": {
+            "id": "SFD-023",
+            "count": 3
+          },
+          "Progress Day": {
+            "id": "OGN-114",
+            "count": 1
+          },
+          "Retreat": {
+            "id": "OGN-104",
+            "count": 2
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 3
+          },
+          "Stupefy": {
+            "id": "OGN-095",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 3
+          },
+          "Time Warp": {
+            "id": "OGN-122",
+            "count": 2
+          },
+          "Void Seeker": {
+            "id": "OGN-024",
+            "count": 2
+          },
+          "Watchful Sentry": {
+            "id": "OGN-096",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Brynhir Thundersong": {
+            "id": "OGN-026",
+            "count": 2
+          },
+          "Ferrous Forerunner": {
+            "id": "SFD-021",
+            "count": 2
+          },
+          "Rocket Barrage": {
+            "id": "SFD-077",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "OGN-022",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed",
+          "importedFrom": "https://piltoverarchive.com/decks/view/29527d5d-ab2a-4076-86da-9076483052cb"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n6 Fury Rune\\n6 Mind Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Reaver\\'s Row\\n1 Void Gate\\n\\n~~Mainboard~~\\n1 Bellows Breath\\n3 Falling Star\\n3 Hextech Ray\\n2 Icathian Rain\\n3 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n3 Legion Rearguard\\n3 Piercing Light\\n1 Progress Day\\n2 Retreat\\n3 Singularity\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Time Warp\\n2 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n2 Brynhir Thundersong\\n2 Ferrous Forerunner\\n2 Rocket Barrage\\n2 Thermo Beam\\n"
+      ]
+    },
+    {
+      "id": 2614,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Michael DesJardin [BC]",
+      "player_id": "67sft9Zr1Kcgw8mgCnWBbGn9sR92",
+      "placement": 9,
+      "wins": 3,
+      "wins_swiss": 3,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Sivir, Battle Mistress\\n\\n~~Runes~~\\n6 Body Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 Aspirant\\'s Climb\\n1 Obelisk of Power\\n1 Sigil of the Storm\\n\\n~~Mainboard~~\\n2 Boots of Swiftness\\n3 Called Shot\\n3 Catalyst of Aeons\\n3 Challenge\\n3 Dazzling Aurora\\n2 Deadbloom Predator\\n3 Gust\\n3 Last Rites\\n3 Mindsplitter\\n3 Mobilize\\n3 Punch First\\n1 Rebuke\\n1 Sabotage\\n1 Sivir, Mercenary\\n3 Stacked Deck\\n3 Treasure Trove\\n\\n~~Sideboard~~\\n2 Fading Memories\\n2 Rebuke\\n2 Sabotage\\n2 Unyielding Spirit\\n",
+      "deck_obj": "{\"Legend\": {\"Sivir, Battle Mistress\": {\"id\": \"SFD-203\", \"count\": 1}}, \"Runes\": {\"Body Rune\": {\"id\": \"OGN-126\", \"count\": 6}, \"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}}, \"Battlefields\": {\"Aspirant's Climb\": {\"id\": \"OGN-276\", \"count\": 1}, \"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Sigil of the Storm\": {\"id\": \"OGN-287\", \"count\": 1}}, \"Mainboard\": {\"Boots of Swiftness\": {\"id\": \"SFD-133\", \"count\": 2}, \"Called Shot\": {\"id\": \"SFD-122\", \"count\": 3}, \"Catalyst of Aeons\": {\"id\": \"OGN-138\", \"count\": 3}, \"Challenge\": {\"id\": \"OGN-128\", \"count\": 3}, \"Dazzling Aurora\": {\"id\": \"OGN-160\", \"count\": 3}, \"Deadbloom Predator\": {\"id\": \"OGN-161\", \"count\": 2}, \"Gust\": {\"id\": \"OGN-169\", \"count\": 3}, \"Last Rites\": {\"id\": \"SFD-150\", \"count\": 3}, \"Mindsplitter\": {\"id\": \"OGN-192\", \"count\": 3}, \"Mobilize\": {\"id\": \"OGN-134\", \"count\": 3}, \"Punch First\": {\"id\": \"SFD-097\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Sabotage\": {\"id\": \"OGN-156\", \"count\": 1}, \"Sivir, Mercenary\": {\"id\": \"SFD-143\", \"count\": 1}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Treasure Trove\": {\"id\": \"OGN-186\", \"count\": 3}}, \"Sideboard\": {\"Fading Memories\": {\"id\": \"OGN-180\", \"count\": 2}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 2}, \"Sabotage\": {\"id\": \"OGN-156\", \"count\": 2}, \"Unyielding Spirit\": {\"id\": \"OGN-145\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\", \"importedFrom\": \"https://piltoverarchive.com/decks/view/07caf61c-78b1-49b4-bddc-7370307c6aed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Sivir, Battle Mistress": {
+            "id": "SFD-203",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Body Rune": {
+            "id": "OGN-126",
+            "count": 6
+          },
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Aspirant's Climb": {
+            "id": "OGN-276",
+            "count": 1
+          },
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Sigil of the Storm": {
+            "id": "OGN-287",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Boots of Swiftness": {
+            "id": "SFD-133",
+            "count": 2
+          },
+          "Called Shot": {
+            "id": "SFD-122",
+            "count": 3
+          },
+          "Catalyst of Aeons": {
+            "id": "OGN-138",
+            "count": 3
+          },
+          "Challenge": {
+            "id": "OGN-128",
+            "count": 3
+          },
+          "Dazzling Aurora": {
+            "id": "OGN-160",
+            "count": 3
+          },
+          "Deadbloom Predator": {
+            "id": "OGN-161",
+            "count": 2
+          },
+          "Gust": {
+            "id": "OGN-169",
+            "count": 3
+          },
+          "Last Rites": {
+            "id": "SFD-150",
+            "count": 3
+          },
+          "Mindsplitter": {
+            "id": "OGN-192",
+            "count": 3
+          },
+          "Mobilize": {
+            "id": "OGN-134",
+            "count": 3
+          },
+          "Punch First": {
+            "id": "SFD-097",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Sabotage": {
+            "id": "OGN-156",
+            "count": 1
+          },
+          "Sivir, Mercenary": {
+            "id": "SFD-143",
+            "count": 1
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Treasure Trove": {
+            "id": "OGN-186",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Fading Memories": {
+            "id": "OGN-180",
+            "count": 2
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 2
+          },
+          "Sabotage": {
+            "id": "OGN-156",
+            "count": 2
+          },
+          "Unyielding Spirit": {
+            "id": "OGN-145",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed",
+          "importedFrom": "https://piltoverarchive.com/decks/view/07caf61c-78b1-49b4-bddc-7370307c6aed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Sivir, Battle Mistress\\n\\n~~Runes~~\\n6 Body Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 Aspirant\\'s Climb\\n1 Obelisk of Power\\n1 Sigil of the Storm\\n\\n~~Mainboard~~\\n2 Boots of Swiftness\\n3 Called Shot\\n3 Catalyst of Aeons\\n3 Challenge\\n3 Dazzling Aurora\\n2 Deadbloom Predator\\n3 Gust\\n3 Last Rites\\n3 Mindsplitter\\n3 Mobilize\\n3 Punch First\\n1 Rebuke\\n1 Sabotage\\n1 Sivir, Mercenary\\n3 Stacked Deck\\n3 Treasure Trove\\n\\n~~Sideboard~~\\n2 Fading Memories\\n2 Rebuke\\n2 Sabotage\\n2 Unyielding Spirit\\n"
+      ]
+    },
+    {
+      "id": 2615,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Isai Rodriguez",
+      "player_id": "MgiOL5A1p4ORm3UQl5rY3uVvtrV2",
+      "placement": 10,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Ezreal, Prodigal Explorer\\n\\n~~Runes~~\\n7 Chaos Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Marai Spire\\n1 Sigil of the Storm\\n1 Void Gate\\n\\n~~Mainboard~~\\n2 Arcane Shift\\n2 Bellows Breath\\n3 Called Shot\\n2 Card Sharp\\n1 Ezreal, Prodigy\\n1 Fight or Flight\\n2 Fizz, Trickster\\n2 Frigid Touch\\n1 Mindsplitter\\n1 Morbid Return\\n1 Orb of Regret\\n3 Ravenbloom Student\\n1 Rebuke\\n2 Retreat\\n2 Rhasa the Sunderer\\n3 Seal of Discord\\n1 Singularity\\n3 Stacked Deck\\n3 Stupefy\\n1 Thousand-Tailed Watcher\\n3 Wages of Pain\\n\\n~~Sideboard~~\\n2 Beast Below\\n1 Downwell\\n2 Factory Recall\\n1 Hard Bargain\\n1 Rebuke\\n1 Thousand-Tailed Watcher\\n",
+      "deck_obj": "{\"Legend\": {\"Ezreal, Prodigal Explorer\": {\"id\": \"SFD-199\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 7}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 5}}, \"Battlefields\": {\"Marai Spire\": {\"id\": \"SFD-211\", \"count\": 1}, \"Sigil of the Storm\": {\"id\": \"OGN-287\", \"count\": 1}, \"Void Gate\": {\"id\": \"OGN-296\", \"count\": 1}}, \"Mainboard\": {\"Arcane Shift\": {\"id\": \"SFD-200\", \"count\": 2}, \"Bellows Breath\": {\"id\": \"SFD-080\", \"count\": 2}, \"Called Shot\": {\"id\": \"SFD-122\", \"count\": 3}, \"Card Sharp\": {\"id\": \"SFD-081\", \"count\": 2}, \"Ezreal, Prodigy\": {\"id\": \"SFD-149\", \"count\": 1}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 1}, \"Fizz, Trickster\": {\"id\": \"SFD-140\", \"count\": 2}, \"Frigid Touch\": {\"id\": \"SFD-066\", \"count\": 2}, \"Mindsplitter\": {\"id\": \"OGN-192\", \"count\": 1}, \"Morbid Return\": {\"id\": \"OGN-170\", \"count\": 1}, \"Orb of Regret\": {\"id\": \"OGN-090\", \"count\": 1}, \"Ravenbloom Student\": {\"id\": \"OGN-103\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Retreat\": {\"id\": \"OGN-104\", \"count\": 2}, \"Rhasa the Sunderer\": {\"id\": \"OGN-195\", \"count\": 2}, \"Seal of Discord\": {\"id\": \"OGN-204\", \"count\": 3}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 1}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Stupefy\": {\"id\": \"OGN-095\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 1}, \"Wages of Pain\": {\"id\": \"SFD-070\", \"count\": 3}}, \"Sideboard\": {\"Beast Below\": {\"id\": \"SFD-132\", \"count\": 2}, \"Downwell\": {\"id\": \"SFD-147\", \"count\": 1}, \"Factory Recall\": {\"id\": \"SFD-135\", \"count\": 2}, \"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 1}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Ezreal, Prodigal Explorer": {
+            "id": "SFD-199",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Marai Spire": {
+            "id": "SFD-211",
+            "count": 1
+          },
+          "Sigil of the Storm": {
+            "id": "OGN-287",
+            "count": 1
+          },
+          "Void Gate": {
+            "id": "OGN-296",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Arcane Shift": {
+            "id": "SFD-200",
+            "count": 2
+          },
+          "Bellows Breath": {
+            "id": "SFD-080",
+            "count": 2
+          },
+          "Called Shot": {
+            "id": "SFD-122",
+            "count": 3
+          },
+          "Card Sharp": {
+            "id": "SFD-081",
+            "count": 2
+          },
+          "Ezreal, Prodigy": {
+            "id": "SFD-149",
+            "count": 1
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 1
+          },
+          "Fizz, Trickster": {
+            "id": "SFD-140",
+            "count": 2
+          },
+          "Frigid Touch": {
+            "id": "SFD-066",
+            "count": 2
+          },
+          "Mindsplitter": {
+            "id": "OGN-192",
+            "count": 1
+          },
+          "Morbid Return": {
+            "id": "OGN-170",
+            "count": 1
+          },
+          "Orb of Regret": {
+            "id": "OGN-090",
+            "count": 1
+          },
+          "Ravenbloom Student": {
+            "id": "OGN-103",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Retreat": {
+            "id": "OGN-104",
+            "count": 2
+          },
+          "Rhasa the Sunderer": {
+            "id": "OGN-195",
+            "count": 2
+          },
+          "Seal of Discord": {
+            "id": "OGN-204",
+            "count": 3
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 1
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Stupefy": {
+            "id": "OGN-095",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 1
+          },
+          "Wages of Pain": {
+            "id": "SFD-070",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Beast Below": {
+            "id": "SFD-132",
+            "count": 2
+          },
+          "Downwell": {
+            "id": "SFD-147",
+            "count": 1
+          },
+          "Factory Recall": {
+            "id": "SFD-135",
+            "count": 2
+          },
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 1
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Ezreal, Prodigal Explorer\\n\\n~~Runes~~\\n7 Chaos Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Marai Spire\\n1 Sigil of the Storm\\n1 Void Gate\\n\\n~~Mainboard~~\\n2 Arcane Shift\\n2 Bellows Breath\\n3 Called Shot\\n2 Card Sharp\\n1 Ezreal, Prodigy\\n1 Fight or Flight\\n2 Fizz, Trickster\\n2 Frigid Touch\\n1 Mindsplitter\\n1 Morbid Return\\n1 Orb of Regret\\n3 Ravenbloom Student\\n1 Rebuke\\n2 Retreat\\n2 Rhasa the Sunderer\\n3 Seal of Discord\\n1 Singularity\\n3 Stacked Deck\\n3 Stupefy\\n1 Thousand-Tailed Watcher\\n3 Wages of Pain\\n\\n~~Sideboard~~\\n2 Beast Below\\n1 Downwell\\n2 Factory Recall\\n1 Hard Bargain\\n1 Rebuke\\n1 Thousand-Tailed Watcher\\n"
+      ]
+    },
+    {
+      "id": 2616,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Thomas Wheeler",
+      "player_id": "80XE4XoRt2hMPZ5jhYpDtOmfMIM2",
+      "placement": 11,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Annie, Dark Child\\n\\n~~Runes~~\\n7 Chaos Rune\\n5 Fury Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Startipped Peak\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Annie, Stubborn\\n1 Brynhir Thundersong\\n3 Cleave\\n1 Darius, Trifarian\\n2 Draven, Vanquisher\\n3 Ferrous Forerunner\\n2 Fight or Flight\\n3 Flash\\n2 Hard Bargain\\n2 Invert Timelines\\n3 Kai\\'Sa, Survivor\\n2 Pouty Poro\\n2 Rebuke\\n3 Sneaky Deckhand\\n2 Stacked Deck\\n2 Switcheroo\\n3 Tideturner\\n3 Treasure Hunter\\n\\n~~Sideboard~~\\n1 Brynhir Thundersong\\n1 Darius, Trifarian\\n1 Draven, Vanquisher\\n3 Mindsplitter\\n2 Noxus Hopeful\\n",
+      "deck_obj": "{\"Legend\": {\"Annie, Dark Child\": {\"id\": \"OGS-017\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 7}, \"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 5}}, \"Battlefields\": {\"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Startipped Peak\": {\"id\": \"OGN-288\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}}, \"Mainboard\": {\"Annie, Stubborn\": {\"id\": \"OGS-010\", \"count\": 1}, \"Brynhir Thundersong\": {\"id\": \"OGN-026\", \"count\": 1}, \"Cleave\": {\"id\": \"OGN-004\", \"count\": 3}, \"Darius, Trifarian\": {\"id\": \"OGN-027\", \"count\": 1}, \"Draven, Vanquisher\": {\"id\": \"SFD-020\", \"count\": 2}, \"Ferrous Forerunner\": {\"id\": \"SFD-021\", \"count\": 3}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 2}, \"Flash\": {\"id\": \"OGS-011\", \"count\": 3}, \"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 2}, \"Invert Timelines\": {\"id\": \"OGN-201\", \"count\": 2}, \"Kai'Sa, Survivor\": {\"id\": \"OGN-039\", \"count\": 3}, \"Pouty Poro\": {\"id\": \"OGN-013\", \"count\": 2}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 2}, \"Sneaky Deckhand\": {\"id\": \"OGN-176\", \"count\": 3}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 2}, \"Switcheroo\": {\"id\": \"SFD-145\", \"count\": 2}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 3}, \"Treasure Hunter\": {\"id\": \"SFD-130\", \"count\": 3}}, \"Sideboard\": {\"Brynhir Thundersong\": {\"id\": \"OGN-026\", \"count\": 1}, \"Darius, Trifarian\": {\"id\": \"OGN-027\", \"count\": 1}, \"Draven, Vanquisher\": {\"id\": \"SFD-020\", \"count\": 1}, \"Mindsplitter\": {\"id\": \"OGN-192\", \"count\": 3}, \"Noxus Hopeful\": {\"id\": \"OGN-012\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Annie, Dark Child": {
+            "id": "OGS-017",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 7
+          },
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Startipped Peak": {
+            "id": "OGN-288",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Annie, Stubborn": {
+            "id": "OGS-010",
+            "count": 1
+          },
+          "Brynhir Thundersong": {
+            "id": "OGN-026",
+            "count": 1
+          },
+          "Cleave": {
+            "id": "OGN-004",
+            "count": 3
+          },
+          "Darius, Trifarian": {
+            "id": "OGN-027",
+            "count": 1
+          },
+          "Draven, Vanquisher": {
+            "id": "SFD-020",
+            "count": 2
+          },
+          "Ferrous Forerunner": {
+            "id": "SFD-021",
+            "count": 3
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 2
+          },
+          "Flash": {
+            "id": "OGS-011",
+            "count": 3
+          },
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 2
+          },
+          "Invert Timelines": {
+            "id": "OGN-201",
+            "count": 2
+          },
+          "Kai'Sa, Survivor": {
+            "id": "OGN-039",
+            "count": 3
+          },
+          "Pouty Poro": {
+            "id": "OGN-013",
+            "count": 2
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 2
+          },
+          "Sneaky Deckhand": {
+            "id": "OGN-176",
+            "count": 3
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 2
+          },
+          "Switcheroo": {
+            "id": "SFD-145",
+            "count": 2
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 3
+          },
+          "Treasure Hunter": {
+            "id": "SFD-130",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Brynhir Thundersong": {
+            "id": "OGN-026",
+            "count": 1
+          },
+          "Darius, Trifarian": {
+            "id": "OGN-027",
+            "count": 1
+          },
+          "Draven, Vanquisher": {
+            "id": "SFD-020",
+            "count": 1
+          },
+          "Mindsplitter": {
+            "id": "OGN-192",
+            "count": 3
+          },
+          "Noxus Hopeful": {
+            "id": "OGN-012",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Annie, Dark Child\\n\\n~~Runes~~\\n7 Chaos Rune\\n5 Fury Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Startipped Peak\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Annie, Stubborn\\n1 Brynhir Thundersong\\n3 Cleave\\n1 Darius, Trifarian\\n2 Draven, Vanquisher\\n3 Ferrous Forerunner\\n2 Fight or Flight\\n3 Flash\\n2 Hard Bargain\\n2 Invert Timelines\\n3 Kai\\'Sa, Survivor\\n2 Pouty Poro\\n2 Rebuke\\n3 Sneaky Deckhand\\n2 Stacked Deck\\n2 Switcheroo\\n3 Tideturner\\n3 Treasure Hunter\\n\\n~~Sideboard~~\\n1 Brynhir Thundersong\\n1 Darius, Trifarian\\n1 Draven, Vanquisher\\n3 Mindsplitter\\n2 Noxus Hopeful\\n"
+      ]
+    },
+    {
+      "id": 2617,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Liam Eccleston",
+      "player_id": "nmg7izX2vfZDSdjNRN2FDgMzhtT2",
+      "placement": 12,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Annie, Dark Child\\n\\n~~Runes~~\\n7 Chaos Rune\\n5 Fury Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Startipped Peak\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Annie, Stubborn\\n3 Cleave\\n3 Draven, Vanquisher\\n3 Ferrous Forerunner\\n2 Fight or Flight\\n2 Flash\\n1 Hard Bargain\\n1 Invert Timelines\\n3 Kai\\'Sa, Survivor\\n1 Noxus Hopeful\\n3 Pouty Poro\\n3 Rebuke\\n1 Rengar, Pouncing\\n3 Sneaky Deckhand\\n3 Stacked Deck\\n2 Switcheroo\\n2 Tideturner\\n3 Traveling Merchant\\n\\n~~Sideboard~~\\n2 Darius, Trifarian\\n1 Factory Recall\\n3 Mindsplitter\\n2 Rengar, Pouncing\\n",
+      "deck_obj": "{\"Legend\": {\"Annie, Dark Child\": {\"id\": \"OGS-017\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 7}, \"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 5}}, \"Battlefields\": {\"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Startipped Peak\": {\"id\": \"OGN-288\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}}, \"Mainboard\": {\"Annie, Stubborn\": {\"id\": \"OGS-010\", \"count\": 1}, \"Cleave\": {\"id\": \"OGN-004\", \"count\": 3}, \"Draven, Vanquisher\": {\"id\": \"SFD-020\", \"count\": 3}, \"Ferrous Forerunner\": {\"id\": \"SFD-021\", \"count\": 3}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 2}, \"Flash\": {\"id\": \"OGS-011\", \"count\": 2}, \"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 1}, \"Invert Timelines\": {\"id\": \"OGN-201\", \"count\": 1}, \"Kai'Sa, Survivor\": {\"id\": \"OGN-039\", \"count\": 3}, \"Noxus Hopeful\": {\"id\": \"OGN-012\", \"count\": 1}, \"Pouty Poro\": {\"id\": \"OGN-013\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 3}, \"Rengar, Pouncing\": {\"id\": \"SFD-025\", \"count\": 1}, \"Sneaky Deckhand\": {\"id\": \"OGN-176\", \"count\": 3}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Switcheroo\": {\"id\": \"SFD-145\", \"count\": 2}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 2}, \"Traveling Merchant\": {\"id\": \"OGN-185\", \"count\": 3}}, \"Sideboard\": {\"Darius, Trifarian\": {\"id\": \"OGN-027\", \"count\": 2}, \"Factory Recall\": {\"id\": \"SFD-135\", \"count\": 1}, \"Mindsplitter\": {\"id\": \"OGN-192\", \"count\": 3}, \"Rengar, Pouncing\": {\"id\": \"SFD-025\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Annie, Dark Child": {
+            "id": "OGS-017",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 7
+          },
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Startipped Peak": {
+            "id": "OGN-288",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Annie, Stubborn": {
+            "id": "OGS-010",
+            "count": 1
+          },
+          "Cleave": {
+            "id": "OGN-004",
+            "count": 3
+          },
+          "Draven, Vanquisher": {
+            "id": "SFD-020",
+            "count": 3
+          },
+          "Ferrous Forerunner": {
+            "id": "SFD-021",
+            "count": 3
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 2
+          },
+          "Flash": {
+            "id": "OGS-011",
+            "count": 2
+          },
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 1
+          },
+          "Invert Timelines": {
+            "id": "OGN-201",
+            "count": 1
+          },
+          "Kai'Sa, Survivor": {
+            "id": "OGN-039",
+            "count": 3
+          },
+          "Noxus Hopeful": {
+            "id": "OGN-012",
+            "count": 1
+          },
+          "Pouty Poro": {
+            "id": "OGN-013",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 3
+          },
+          "Rengar, Pouncing": {
+            "id": "SFD-025",
+            "count": 1
+          },
+          "Sneaky Deckhand": {
+            "id": "OGN-176",
+            "count": 3
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Switcheroo": {
+            "id": "SFD-145",
+            "count": 2
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 2
+          },
+          "Traveling Merchant": {
+            "id": "OGN-185",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Darius, Trifarian": {
+            "id": "OGN-027",
+            "count": 2
+          },
+          "Factory Recall": {
+            "id": "SFD-135",
+            "count": 1
+          },
+          "Mindsplitter": {
+            "id": "OGN-192",
+            "count": 3
+          },
+          "Rengar, Pouncing": {
+            "id": "SFD-025",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Annie, Dark Child\\n\\n~~Runes~~\\n7 Chaos Rune\\n5 Fury Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Startipped Peak\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Annie, Stubborn\\n3 Cleave\\n3 Draven, Vanquisher\\n3 Ferrous Forerunner\\n2 Fight or Flight\\n2 Flash\\n1 Hard Bargain\\n1 Invert Timelines\\n3 Kai\\'Sa, Survivor\\n1 Noxus Hopeful\\n3 Pouty Poro\\n3 Rebuke\\n1 Rengar, Pouncing\\n3 Sneaky Deckhand\\n3 Stacked Deck\\n2 Switcheroo\\n2 Tideturner\\n3 Traveling Merchant\\n\\n~~Sideboard~~\\n2 Darius, Trifarian\\n1 Factory Recall\\n3 Mindsplitter\\n2 Rengar, Pouncing\\n"
+      ]
+    },
+    {
+      "id": 2618,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Steven ",
+      "player_id": "hduj6qG7kwbKazcwJx1j8aVto3w2",
+      "placement": 13,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Irelia, Blade Dancer\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Sunken Temple\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Boots of Swiftness\\n3 Charm\\n3 Defiant Dance\\n3 Defy\\n3 Discipline\\n2 Draven, Audacious\\n3 En Garde\\n2 Fight or Flight\\n2 Flash\\n3 Guardian Angel\\n1 Irelia, Fervent\\n2 Not So Fast\\n1 Rebuke\\n2 Ride the Wind\\n3 Stellacorn Herder\\n1 The Syren\\n3 Tideturner\\n2 Zhonya\\'s Hourglass\\n\\n~~Sideboard~~\\n2 Adaptatron\\n1 Hard Bargain\\n1 Not So Fast\\n1 Rebuke\\n3 Sneaky Deckhand\\n",
+      "deck_obj": "{\"Legend\": {\"Irelia, Blade Dancer\": {\"id\": \"SFD-195\", \"count\": 1}}, \"Runes\": {\"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}, \"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}}, \"Battlefields\": {\"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Sunken Temple\": {\"id\": \"SFD-218\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}}, \"Mainboard\": {\"Boots of Swiftness\": {\"id\": \"SFD-133\", \"count\": 1}, \"Charm\": {\"id\": \"OGN-043\", \"count\": 3}, \"Defiant Dance\": {\"id\": \"SFD-196\", \"count\": 3}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 3}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"Draven, Audacious\": {\"id\": \"SFD-148\", \"count\": 2}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 3}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 2}, \"Flash\": {\"id\": \"OGS-011\", \"count\": 2}, \"Guardian Angel\": {\"id\": \"SFD-051\", \"count\": 3}, \"Irelia, Fervent\": {\"id\": \"SFD-057\", \"count\": 1}, \"Not So Fast\": {\"id\": \"SFD-045\", \"count\": 2}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 2}, \"Stellacorn Herder\": {\"id\": \"SFD-048\", \"count\": 3}, \"The Syren\": {\"id\": \"OGN-184\", \"count\": 1}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 3}, \"Zhonya's Hourglass\": {\"id\": \"OGN-077\", \"count\": 2}}, \"Sideboard\": {\"Adaptatron\": {\"id\": \"OGN-056\", \"count\": 2}, \"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 1}, \"Not So Fast\": {\"id\": \"SFD-045\", \"count\": 1}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Sneaky Deckhand\": {\"id\": \"OGN-176\", \"count\": 3}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\", \"importedFrom\": \"https://piltoverarchive.com/decks/view/fc9998c9-c8ec-47f5-90fa-2e962fcf4857\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Irelia, Blade Dancer": {
+            "id": "SFD-195",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          },
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Sunken Temple": {
+            "id": "SFD-218",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Boots of Swiftness": {
+            "id": "SFD-133",
+            "count": 1
+          },
+          "Charm": {
+            "id": "OGN-043",
+            "count": 3
+          },
+          "Defiant Dance": {
+            "id": "SFD-196",
+            "count": 3
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 3
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "Draven, Audacious": {
+            "id": "SFD-148",
+            "count": 2
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 3
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 2
+          },
+          "Flash": {
+            "id": "OGS-011",
+            "count": 2
+          },
+          "Guardian Angel": {
+            "id": "SFD-051",
+            "count": 3
+          },
+          "Irelia, Fervent": {
+            "id": "SFD-057",
+            "count": 1
+          },
+          "Not So Fast": {
+            "id": "SFD-045",
+            "count": 2
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 2
+          },
+          "Stellacorn Herder": {
+            "id": "SFD-048",
+            "count": 3
+          },
+          "The Syren": {
+            "id": "OGN-184",
+            "count": 1
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 3
+          },
+          "Zhonya's Hourglass": {
+            "id": "OGN-077",
+            "count": 2
+          }
+        },
+        "Sideboard": {
+          "Adaptatron": {
+            "id": "OGN-056",
+            "count": 2
+          },
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 1
+          },
+          "Not So Fast": {
+            "id": "SFD-045",
+            "count": 1
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Sneaky Deckhand": {
+            "id": "OGN-176",
+            "count": 3
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed",
+          "importedFrom": "https://piltoverarchive.com/decks/view/fc9998c9-c8ec-47f5-90fa-2e962fcf4857"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Irelia, Blade Dancer\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Sunken Temple\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Boots of Swiftness\\n3 Charm\\n3 Defiant Dance\\n3 Defy\\n3 Discipline\\n2 Draven, Audacious\\n3 En Garde\\n2 Fight or Flight\\n2 Flash\\n3 Guardian Angel\\n1 Irelia, Fervent\\n2 Not So Fast\\n1 Rebuke\\n2 Ride the Wind\\n3 Stellacorn Herder\\n1 The Syren\\n3 Tideturner\\n2 Zhonya\\'s Hourglass\\n\\n~~Sideboard~~\\n2 Adaptatron\\n1 Hard Bargain\\n1 Not So Fast\\n1 Rebuke\\n3 Sneaky Deckhand\\n"
+      ]
+    },
+    {
+      "id": 2619,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Cinnamon",
+      "player_id": "iwjJJ6kVPmXDKhSTbnX5v0tHdlD3",
+      "placement": 14,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 2,
+      "losses_swiss": 2,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Irelia, Blade Dancer\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Sunken Temple\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Boots of Swiftness\\n2 Charm\\n2 Defiant Dance\\n2 Defy\\n3 Discipline\\n2 Draven, Audacious\\n2 En Garde\\n2 Fight or Flight\\n1 Flash\\n3 Guardian Angel\\n1 Hard Bargain\\n1 Irelia, Fervent\\n3 Not So Fast\\n1 Rebuke\\n3 Ride the Wind\\n2 Seal of Focus\\n2 Sneaky Deckhand\\n3 Stellacorn Herder\\n1 The Syren\\n3 Tideturner\\n\\n~~Sideboard~~\\n2 Adaptatron\\n1 Factory Recall\\n1 Heart of Dark Ice\\n1 Rebuke\\n1 Stacked Deck\\n1 Yasuo, Windrider\\n",
+      "deck_obj": "{\"Legend\": {\"Irelia, Blade Dancer\": {\"id\": \"SFD-195\", \"count\": 1}}, \"Runes\": {\"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}, \"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}}, \"Battlefields\": {\"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Sunken Temple\": {\"id\": \"SFD-218\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}}, \"Mainboard\": {\"Boots of Swiftness\": {\"id\": \"SFD-133\", \"count\": 1}, \"Charm\": {\"id\": \"OGN-043\", \"count\": 2}, \"Defiant Dance\": {\"id\": \"SFD-196\", \"count\": 2}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 2}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"Draven, Audacious\": {\"id\": \"SFD-148\", \"count\": 2}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 2}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 2}, \"Flash\": {\"id\": \"OGS-011\", \"count\": 1}, \"Guardian Angel\": {\"id\": \"SFD-051\", \"count\": 3}, \"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 1}, \"Irelia, Fervent\": {\"id\": \"SFD-057\", \"count\": 1}, \"Not So Fast\": {\"id\": \"SFD-045\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 3}, \"Seal of Focus\": {\"id\": \"OGN-081\", \"count\": 2}, \"Sneaky Deckhand\": {\"id\": \"OGN-176\", \"count\": 2}, \"Stellacorn Herder\": {\"id\": \"SFD-048\", \"count\": 3}, \"The Syren\": {\"id\": \"OGN-184\", \"count\": 1}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 3}}, \"Sideboard\": {\"Adaptatron\": {\"id\": \"OGN-056\", \"count\": 2}, \"Factory Recall\": {\"id\": \"SFD-135\", \"count\": 1}, \"Heart of Dark Ice\": {\"id\": \"SFD-052\", \"count\": 1}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 1}, \"Yasuo, Windrider\": {\"id\": \"OGN-205\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\", \"importedFrom\": \"https://piltoverarchive.com/decks/view/769ac709-1ac9-4f48-aa81-9d5ef412f408\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Irelia, Blade Dancer": {
+            "id": "SFD-195",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          },
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Sunken Temple": {
+            "id": "SFD-218",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Boots of Swiftness": {
+            "id": "SFD-133",
+            "count": 1
+          },
+          "Charm": {
+            "id": "OGN-043",
+            "count": 2
+          },
+          "Defiant Dance": {
+            "id": "SFD-196",
+            "count": 2
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 2
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "Draven, Audacious": {
+            "id": "SFD-148",
+            "count": 2
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 2
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 2
+          },
+          "Flash": {
+            "id": "OGS-011",
+            "count": 1
+          },
+          "Guardian Angel": {
+            "id": "SFD-051",
+            "count": 3
+          },
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 1
+          },
+          "Irelia, Fervent": {
+            "id": "SFD-057",
+            "count": 1
+          },
+          "Not So Fast": {
+            "id": "SFD-045",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 3
+          },
+          "Seal of Focus": {
+            "id": "OGN-081",
+            "count": 2
+          },
+          "Sneaky Deckhand": {
+            "id": "OGN-176",
+            "count": 2
+          },
+          "Stellacorn Herder": {
+            "id": "SFD-048",
+            "count": 3
+          },
+          "The Syren": {
+            "id": "OGN-184",
+            "count": 1
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Adaptatron": {
+            "id": "OGN-056",
+            "count": 2
+          },
+          "Factory Recall": {
+            "id": "SFD-135",
+            "count": 1
+          },
+          "Heart of Dark Ice": {
+            "id": "SFD-052",
+            "count": 1
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 1
+          },
+          "Yasuo, Windrider": {
+            "id": "OGN-205",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed",
+          "importedFrom": "https://piltoverarchive.com/decks/view/769ac709-1ac9-4f48-aa81-9d5ef412f408"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Irelia, Blade Dancer\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Sunken Temple\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n1 Boots of Swiftness\\n2 Charm\\n2 Defiant Dance\\n2 Defy\\n3 Discipline\\n2 Draven, Audacious\\n2 En Garde\\n2 Fight or Flight\\n1 Flash\\n3 Guardian Angel\\n1 Hard Bargain\\n1 Irelia, Fervent\\n3 Not So Fast\\n1 Rebuke\\n3 Ride the Wind\\n2 Seal of Focus\\n2 Sneaky Deckhand\\n3 Stellacorn Herder\\n1 The Syren\\n3 Tideturner\\n\\n~~Sideboard~~\\n2 Adaptatron\\n1 Factory Recall\\n1 Heart of Dark Ice\\n1 Rebuke\\n1 Stacked Deck\\n1 Yasuo, Windrider\\n"
+      ]
+    },
+    {
+      "id": 2620,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Javier Eccleston",
+      "player_id": "eTED6LxmlfMgB5jvNvG36WKjTFN2",
+      "placement": 15,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Yasuo, Unforgiven\\n\\n~~Runes~~\\n8 Calm Rune\\n4 Chaos Rune\\n\\n~~Battlefields~~\\n1 Power Nexus\\n1 Reaver\\'s Row\\n1 The Candlelit Sanctum\\n\\n~~Mainboard~~\\n3 Called Shot\\n1 Defy\\n3 Discipline\\n3 Ezreal, Prodigy\\n2 Fight or Flight\\n2 Irelia, Fervent\\n3 Nocturne, Horrifying\\n1 Rebuke\\n3 Rhasa the Sunderer\\n1 Ride the Wind\\n3 Seal of Discord\\n3 Stacked Deck\\n3 Stellacorn Herder\\n2 Switcheroo\\n1 Tideturner\\n2 Traveling Merchant\\n3 Treasure Hunter\\n1 Yasuo, Remorseful\\n\\n~~Sideboard~~\\n2 Adaptatron\\n1 Defy\\n1 Fight or Flight\\n1 Last Rites\\n1 Not So Fast\\n1 Rebuke\\n1 Wind Wall\\n",
+      "deck_obj": "{\"Legend\": {\"Yasuo, Unforgiven\": {\"id\": \"OGN-259\", \"count\": 1}}, \"Runes\": {\"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 8}, \"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 4}}, \"Battlefields\": {\"Power Nexus\": {\"id\": \"SFD-214\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"OGN-285\", \"count\": 1}, \"The Candlelit Sanctum\": {\"id\": \"OGN-291\", \"count\": 1}}, \"Mainboard\": {\"Called Shot\": {\"id\": \"SFD-122\", \"count\": 3}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 1}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"Ezreal, Prodigy\": {\"id\": \"SFD-149\", \"count\": 3}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 2}, \"Irelia, Fervent\": {\"id\": \"SFD-057\", \"count\": 2}, \"Nocturne, Horrifying\": {\"id\": \"OGN-194\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Rhasa the Sunderer\": {\"id\": \"OGN-195\", \"count\": 3}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 1}, \"Seal of Discord\": {\"id\": \"OGN-204\", \"count\": 3}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Stellacorn Herder\": {\"id\": \"SFD-048\", \"count\": 3}, \"Switcheroo\": {\"id\": \"SFD-145\", \"count\": 2}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 1}, \"Traveling Merchant\": {\"id\": \"OGN-185\", \"count\": 2}, \"Treasure Hunter\": {\"id\": \"SFD-130\", \"count\": 3}, \"Yasuo, Remorseful\": {\"id\": \"OGN-076\", \"count\": 1}}, \"Sideboard\": {\"Adaptatron\": {\"id\": \"OGN-056\", \"count\": 2}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 1}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 1}, \"Last Rites\": {\"id\": \"SFD-150\", \"count\": 1}, \"Not So Fast\": {\"id\": \"SFD-045\", \"count\": 1}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 1}, \"Wind Wall\": {\"id\": \"OGN-064\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Yasuo, Unforgiven": {
+            "id": "OGN-259",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 8
+          },
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 4
+          }
+        },
+        "Battlefields": {
+          "Power Nexus": {
+            "id": "SFD-214",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "OGN-285",
+            "count": 1
+          },
+          "The Candlelit Sanctum": {
+            "id": "OGN-291",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Called Shot": {
+            "id": "SFD-122",
+            "count": 3
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 1
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "Ezreal, Prodigy": {
+            "id": "SFD-149",
+            "count": 3
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 2
+          },
+          "Irelia, Fervent": {
+            "id": "SFD-057",
+            "count": 2
+          },
+          "Nocturne, Horrifying": {
+            "id": "OGN-194",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Rhasa the Sunderer": {
+            "id": "OGN-195",
+            "count": 3
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 1
+          },
+          "Seal of Discord": {
+            "id": "OGN-204",
+            "count": 3
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Stellacorn Herder": {
+            "id": "SFD-048",
+            "count": 3
+          },
+          "Switcheroo": {
+            "id": "SFD-145",
+            "count": 2
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 1
+          },
+          "Traveling Merchant": {
+            "id": "OGN-185",
+            "count": 2
+          },
+          "Treasure Hunter": {
+            "id": "SFD-130",
+            "count": 3
+          },
+          "Yasuo, Remorseful": {
+            "id": "OGN-076",
+            "count": 1
+          }
+        },
+        "Sideboard": {
+          "Adaptatron": {
+            "id": "OGN-056",
+            "count": 2
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 1
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 1
+          },
+          "Last Rites": {
+            "id": "SFD-150",
+            "count": 1
+          },
+          "Not So Fast": {
+            "id": "SFD-045",
+            "count": 1
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 1
+          },
+          "Wind Wall": {
+            "id": "OGN-064",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Yasuo, Unforgiven\\n\\n~~Runes~~\\n8 Calm Rune\\n4 Chaos Rune\\n\\n~~Battlefields~~\\n1 Power Nexus\\n1 Reaver\\'s Row\\n1 The Candlelit Sanctum\\n\\n~~Mainboard~~\\n3 Called Shot\\n1 Defy\\n3 Discipline\\n3 Ezreal, Prodigy\\n2 Fight or Flight\\n2 Irelia, Fervent\\n3 Nocturne, Horrifying\\n1 Rebuke\\n3 Rhasa the Sunderer\\n1 Ride the Wind\\n3 Seal of Discord\\n3 Stacked Deck\\n3 Stellacorn Herder\\n2 Switcheroo\\n1 Tideturner\\n2 Traveling Merchant\\n3 Treasure Hunter\\n1 Yasuo, Remorseful\\n\\n~~Sideboard~~\\n2 Adaptatron\\n1 Defy\\n1 Fight or Flight\\n1 Last Rites\\n1 Not So Fast\\n1 Rebuke\\n1 Wind Wall\\n"
+      ]
+    },
+    {
+      "id": 2621,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Chris Stephens ",
+      "player_id": "mC2NstA2TRQ7Fdv18YCcBnqwlLz2",
+      "placement": 16,
+      "wins": 2,
+      "wins_swiss": 2,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Draven, Glorious Executioner\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n\\n~~Mainboard~~\\n1 Blood Rush\\n1 Brynhir Thundersong\\n3 Darius, Trifarian\\n1 Draven, Vanquisher\\n1 Edge of Night\\n1 Falling Star\\n3 Fight or Flight\\n3 Kai\\'Sa, Survivor\\n1 Long Sword\\n2 Mindsplitter\\n3 Noxus Hopeful\\n3 Overzealous Fan\\n2 Rebuke\\n2 Ride the Wind\\n3 Spinning Axe\\n3 Stacked Deck\\n2 Switcheroo\\n2 Tideturner\\n3 Treasure Hunter\\n\\n~~Sideboard~~\\n2 Against the Odds\\n1 Brynhir Thundersong\\n1 Falling Star\\n2 Hard Bargain\\n1 Ride the Wind\\n1 Thermo Beam\\n",
+      "deck_obj": "{\"Legend\": {\"Draven, Glorious Executioner\": {\"id\": \"SFD-185\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}, \"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 6}}, \"Battlefields\": {\"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Reaver's Row\": {\"id\": \"OGN-285\", \"count\": 1}, \"Targon's Peak\": {\"id\": \"OGN-289\", \"count\": 1}}, \"Mainboard\": {\"Blood Rush\": {\"id\": \"SFD-003\", \"count\": 1}, \"Brynhir Thundersong\": {\"id\": \"OGN-026\", \"count\": 1}, \"Darius, Trifarian\": {\"id\": \"OGN-027\", \"count\": 3}, \"Draven, Vanquisher\": {\"id\": \"SFD-020\", \"count\": 1}, \"Edge of Night\": {\"id\": \"SFD-139\", \"count\": 1}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 1}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 3}, \"Kai'Sa, Survivor\": {\"id\": \"OGN-039\", \"count\": 3}, \"Long Sword\": {\"id\": \"SFD-022\", \"count\": 1}, \"Mindsplitter\": {\"id\": \"OGN-192\", \"count\": 2}, \"Noxus Hopeful\": {\"id\": \"OGN-012\", \"count\": 3}, \"Overzealous Fan\": {\"id\": \"SFD-128\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 2}, \"Spinning Axe\": {\"id\": \"SFD-186\", \"count\": 3}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Switcheroo\": {\"id\": \"SFD-145\", \"count\": 2}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 2}, \"Treasure Hunter\": {\"id\": \"SFD-130\", \"count\": 3}}, \"Sideboard\": {\"Against the Odds\": {\"id\": \"SFD-001\", \"count\": 2}, \"Brynhir Thundersong\": {\"id\": \"OGN-026\", \"count\": 1}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 1}, \"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 1}, \"Thermo Beam\": {\"id\": \"OGN-022\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\", \"importedFrom\": \"https://piltoverarchive.com/decks/view/7eca3140-b2cf-4692-b206-83b3159b3d7f\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Draven, Glorious Executioner": {
+            "id": "SFD-185",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          },
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Reaver's Row": {
+            "id": "OGN-285",
+            "count": 1
+          },
+          "Targon's Peak": {
+            "id": "OGN-289",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Blood Rush": {
+            "id": "SFD-003",
+            "count": 1
+          },
+          "Brynhir Thundersong": {
+            "id": "OGN-026",
+            "count": 1
+          },
+          "Darius, Trifarian": {
+            "id": "OGN-027",
+            "count": 3
+          },
+          "Draven, Vanquisher": {
+            "id": "SFD-020",
+            "count": 1
+          },
+          "Edge of Night": {
+            "id": "SFD-139",
+            "count": 1
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 1
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 3
+          },
+          "Kai'Sa, Survivor": {
+            "id": "OGN-039",
+            "count": 3
+          },
+          "Long Sword": {
+            "id": "SFD-022",
+            "count": 1
+          },
+          "Mindsplitter": {
+            "id": "OGN-192",
+            "count": 2
+          },
+          "Noxus Hopeful": {
+            "id": "OGN-012",
+            "count": 3
+          },
+          "Overzealous Fan": {
+            "id": "SFD-128",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 2
+          },
+          "Spinning Axe": {
+            "id": "SFD-186",
+            "count": 3
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Switcheroo": {
+            "id": "SFD-145",
+            "count": 2
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 2
+          },
+          "Treasure Hunter": {
+            "id": "SFD-130",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Against the Odds": {
+            "id": "SFD-001",
+            "count": 2
+          },
+          "Brynhir Thundersong": {
+            "id": "OGN-026",
+            "count": 1
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 1
+          },
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 1
+          },
+          "Thermo Beam": {
+            "id": "OGN-022",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed",
+          "importedFrom": "https://piltoverarchive.com/decks/view/7eca3140-b2cf-4692-b206-83b3159b3d7f"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Draven, Glorious Executioner\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Reaver\\'s Row\\n1 Targon\\'s Peak\\n\\n~~Mainboard~~\\n1 Blood Rush\\n1 Brynhir Thundersong\\n3 Darius, Trifarian\\n1 Draven, Vanquisher\\n1 Edge of Night\\n1 Falling Star\\n3 Fight or Flight\\n3 Kai\\'Sa, Survivor\\n1 Long Sword\\n2 Mindsplitter\\n3 Noxus Hopeful\\n3 Overzealous Fan\\n2 Rebuke\\n2 Ride the Wind\\n3 Spinning Axe\\n3 Stacked Deck\\n2 Switcheroo\\n2 Tideturner\\n3 Treasure Hunter\\n\\n~~Sideboard~~\\n2 Against the Odds\\n1 Brynhir Thundersong\\n1 Falling Star\\n2 Hard Bargain\\n1 Ride the Wind\\n1 Thermo Beam\\n"
+      ]
+    },
+    {
+      "id": 2622,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Anthony Truong",
+      "player_id": "JaAgD2xNpHSheZNtFVDfEkpqZgX2",
+      "placement": 17,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Ahri, Nine-Tailed Fox\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Marai Spire\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n2 Ahri, Inquisitive\\n2 Blitzcrank, Impassive\\n2 Card Sharp\\n2 Charm\\n2 Cloth Armor\\n2 Defy\\n3 Discipline\\n1 Emperor\\'s Divide\\n2 Fox-Fire\\n1 Janna, Savior\\n3 Lonely Poro\\n2 Not So Fast\\n3 Plundering Poro\\n1 Premonition\\n2 Seal of Insight\\n2 Sona, Harmonious\\n2 Stupefy\\n3 Thousand-Tailed Watcher\\n1 Wind Wall\\n2 World Atlas\\n\\n~~Sideboard~~\\n3 Feral Strength\\n1 Kai\\'Sa, Evolutionary\\n2 Rocket Barrage\\n2 Thwonk!\\n",
+      "deck_obj": "{\"Legend\": {\"Ahri, Nine-Tailed Fox\": {\"id\": \"OGN-255\", \"count\": 1}}, \"Runes\": {\"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 6}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"OGN-280\", \"count\": 1}, \"Marai Spire\": {\"id\": \"SFD-211\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}}, \"Mainboard\": {\"Ahri, Inquisitive\": {\"id\": \"OGN-119\", \"count\": 2}, \"Blitzcrank, Impassive\": {\"id\": \"OGN-067\", \"count\": 2}, \"Card Sharp\": {\"id\": \"SFD-081\", \"count\": 2}, \"Charm\": {\"id\": \"OGN-043\", \"count\": 2}, \"Cloth Armor\": {\"id\": \"SFD-064\", \"count\": 2}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 2}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"Emperor's Divide\": {\"id\": \"SFD-043\", \"count\": 1}, \"Fox-Fire\": {\"id\": \"OGN-256\", \"count\": 2}, \"Janna, Savior\": {\"id\": \"SFD-053\", \"count\": 1}, \"Lonely Poro\": {\"id\": \"SFD-036\", \"count\": 3}, \"Not So Fast\": {\"id\": \"SFD-045\", \"count\": 2}, \"Plundering Poro\": {\"id\": \"SFD-069\", \"count\": 3}, \"Premonition\": {\"id\": \"SFD-087\", \"count\": 1}, \"Seal of Insight\": {\"id\": \"OGN-120\", \"count\": 2}, \"Sona, Harmonious\": {\"id\": \"OGN-073\", \"count\": 2}, \"Stupefy\": {\"id\": \"OGN-095\", \"count\": 2}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 3}, \"Wind Wall\": {\"id\": \"OGN-064\", \"count\": 1}, \"World Atlas\": {\"id\": \"SFD-086\", \"count\": 2}}, \"Sideboard\": {\"Feral Strength\": {\"id\": \"SFD-034\", \"count\": 3}, \"Kai'Sa, Evolutionary\": {\"id\": \"OGN-112\", \"count\": 1}, \"Rocket Barrage\": {\"id\": \"SFD-077\", \"count\": 2}, \"Thwonk!\": {\"id\": \"SFD-040\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Ahri, Nine-Tailed Fox": {
+            "id": "OGN-255",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "OGN-280",
+            "count": 1
+          },
+          "Marai Spire": {
+            "id": "SFD-211",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Ahri, Inquisitive": {
+            "id": "OGN-119",
+            "count": 2
+          },
+          "Blitzcrank, Impassive": {
+            "id": "OGN-067",
+            "count": 2
+          },
+          "Card Sharp": {
+            "id": "SFD-081",
+            "count": 2
+          },
+          "Charm": {
+            "id": "OGN-043",
+            "count": 2
+          },
+          "Cloth Armor": {
+            "id": "SFD-064",
+            "count": 2
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 2
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "Emperor's Divide": {
+            "id": "SFD-043",
+            "count": 1
+          },
+          "Fox-Fire": {
+            "id": "OGN-256",
+            "count": 2
+          },
+          "Janna, Savior": {
+            "id": "SFD-053",
+            "count": 1
+          },
+          "Lonely Poro": {
+            "id": "SFD-036",
+            "count": 3
+          },
+          "Not So Fast": {
+            "id": "SFD-045",
+            "count": 2
+          },
+          "Plundering Poro": {
+            "id": "SFD-069",
+            "count": 3
+          },
+          "Premonition": {
+            "id": "SFD-087",
+            "count": 1
+          },
+          "Seal of Insight": {
+            "id": "OGN-120",
+            "count": 2
+          },
+          "Sona, Harmonious": {
+            "id": "OGN-073",
+            "count": 2
+          },
+          "Stupefy": {
+            "id": "OGN-095",
+            "count": 2
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 3
+          },
+          "Wind Wall": {
+            "id": "OGN-064",
+            "count": 1
+          },
+          "World Atlas": {
+            "id": "SFD-086",
+            "count": 2
+          }
+        },
+        "Sideboard": {
+          "Feral Strength": {
+            "id": "SFD-034",
+            "count": 3
+          },
+          "Kai'Sa, Evolutionary": {
+            "id": "OGN-112",
+            "count": 1
+          },
+          "Rocket Barrage": {
+            "id": "SFD-077",
+            "count": 2
+          },
+          "Thwonk!": {
+            "id": "SFD-040",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Ahri, Nine-Tailed Fox\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Mind Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Marai Spire\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n2 Ahri, Inquisitive\\n2 Blitzcrank, Impassive\\n2 Card Sharp\\n2 Charm\\n2 Cloth Armor\\n2 Defy\\n3 Discipline\\n1 Emperor\\'s Divide\\n2 Fox-Fire\\n1 Janna, Savior\\n3 Lonely Poro\\n2 Not So Fast\\n3 Plundering Poro\\n1 Premonition\\n2 Seal of Insight\\n2 Sona, Harmonious\\n2 Stupefy\\n3 Thousand-Tailed Watcher\\n1 Wind Wall\\n2 World Atlas\\n\\n~~Sideboard~~\\n3 Feral Strength\\n1 Kai\\'Sa, Evolutionary\\n2 Rocket Barrage\\n2 Thwonk!\\n"
+      ]
+    },
+    {
+      "id": 2623,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Anthony Duran",
+      "player_id": "pAr6Zfb82Me80CpOePU1LpDzCar1",
+      "placement": 18,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Jinx, Loose Cannon\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 Bandle Tree\\n1 Ornn\\'s Forge\\n1 Treasure Hoard\\n\\n~~Mainboard~~\\n2 Black Market Broker\\n3 Edge of Night\\n3 Fight or Flight\\n2 Hard Bargain\\n3 Immortal Phoenix\\n1 Jinx, Demolitionist\\n2 Last Rites\\n3 Long Sword\\n3 Loyal Pup\\n3 Rek\\'Sai, Breacher\\n2 Seal of Discord\\n2 Seal of Rage\\n2 Super Mega Death Rocket!\\n3 Switcheroo\\n3 Teemo, Scout\\n3 Tideturner\\n\\n~~Sideboard~~\\n2 Dunebreaker\\n2 Flash\\n2 Rengar, Pouncing\\n2 Thermo Beam\\n",
+      "deck_obj": "{\"Legend\": {\"Jinx, Loose Cannon\": {\"id\": \"OGN-251\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}, \"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 6}}, \"Battlefields\": {\"Bandle Tree\": {\"id\": \"OGN-278\", \"count\": 1}, \"Ornn's Forge\": {\"id\": \"SFD-213\", \"count\": 1}, \"Treasure Hoard\": {\"id\": \"SFD-220\", \"count\": 1}}, \"Mainboard\": {\"Black Market Broker\": {\"id\": \"SFD-121\", \"count\": 2}, \"Edge of Night\": {\"id\": \"SFD-139\", \"count\": 3}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 3}, \"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 2}, \"Immortal Phoenix\": {\"id\": \"OGN-037\", \"count\": 3}, \"Jinx, Demolitionist\": {\"id\": \"OGN-030\", \"count\": 1}, \"Last Rites\": {\"id\": \"SFD-150\", \"count\": 2}, \"Long Sword\": {\"id\": \"SFD-022\", \"count\": 3}, \"Loyal Pup\": {\"id\": \"SFD-126\", \"count\": 3}, \"Rek'Sai, Breacher\": {\"id\": \"SFD-029\", \"count\": 3}, \"Seal of Discord\": {\"id\": \"OGN-204\", \"count\": 2}, \"Seal of Rage\": {\"id\": \"OGN-040\", \"count\": 2}, \"Super Mega Death Rocket!\": {\"id\": \"OGN-252\", \"count\": 2}, \"Switcheroo\": {\"id\": \"SFD-145\", \"count\": 3}, \"Teemo, Scout\": {\"id\": \"OGN-197\", \"count\": 3}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 3}}, \"Sideboard\": {\"Dunebreaker\": {\"id\": \"SFD-027\", \"count\": 2}, \"Flash\": {\"id\": \"OGS-011\", \"count\": 2}, \"Rengar, Pouncing\": {\"id\": \"SFD-025\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"OGN-022\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Jinx, Loose Cannon": {
+            "id": "OGN-251",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          },
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Bandle Tree": {
+            "id": "OGN-278",
+            "count": 1
+          },
+          "Ornn's Forge": {
+            "id": "SFD-213",
+            "count": 1
+          },
+          "Treasure Hoard": {
+            "id": "SFD-220",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Black Market Broker": {
+            "id": "SFD-121",
+            "count": 2
+          },
+          "Edge of Night": {
+            "id": "SFD-139",
+            "count": 3
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 3
+          },
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 2
+          },
+          "Immortal Phoenix": {
+            "id": "OGN-037",
+            "count": 3
+          },
+          "Jinx, Demolitionist": {
+            "id": "OGN-030",
+            "count": 1
+          },
+          "Last Rites": {
+            "id": "SFD-150",
+            "count": 2
+          },
+          "Long Sword": {
+            "id": "SFD-022",
+            "count": 3
+          },
+          "Loyal Pup": {
+            "id": "SFD-126",
+            "count": 3
+          },
+          "Rek'Sai, Breacher": {
+            "id": "SFD-029",
+            "count": 3
+          },
+          "Seal of Discord": {
+            "id": "OGN-204",
+            "count": 2
+          },
+          "Seal of Rage": {
+            "id": "OGN-040",
+            "count": 2
+          },
+          "Super Mega Death Rocket!": {
+            "id": "OGN-252",
+            "count": 2
+          },
+          "Switcheroo": {
+            "id": "SFD-145",
+            "count": 3
+          },
+          "Teemo, Scout": {
+            "id": "OGN-197",
+            "count": 3
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Dunebreaker": {
+            "id": "SFD-027",
+            "count": 2
+          },
+          "Flash": {
+            "id": "OGS-011",
+            "count": 2
+          },
+          "Rengar, Pouncing": {
+            "id": "SFD-025",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "OGN-022",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Jinx, Loose Cannon\\n\\n~~Runes~~\\n6 Chaos Rune\\n6 Fury Rune\\n\\n~~Battlefields~~\\n1 Bandle Tree\\n1 Ornn\\'s Forge\\n1 Treasure Hoard\\n\\n~~Mainboard~~\\n2 Black Market Broker\\n3 Edge of Night\\n3 Fight or Flight\\n2 Hard Bargain\\n3 Immortal Phoenix\\n1 Jinx, Demolitionist\\n2 Last Rites\\n3 Long Sword\\n3 Loyal Pup\\n3 Rek\\'Sai, Breacher\\n2 Seal of Discord\\n2 Seal of Rage\\n2 Super Mega Death Rocket!\\n3 Switcheroo\\n3 Teemo, Scout\\n3 Tideturner\\n\\n~~Sideboard~~\\n2 Dunebreaker\\n2 Flash\\n2 Rengar, Pouncing\\n2 Thermo Beam\\n"
+      ]
+    },
+    {
+      "id": 2624,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Seth Taylor",
+      "player_id": "xc9zYOmQpTSYbsSHApNdWKMJol12",
+      "placement": 19,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 1,
+      "decklist": "~~Legend~~\\n1 Irelia, Blade Dancer\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Sunken Temple\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n2 Adaptatron\\n2 Charm\\n3 Defiant Dance\\n3 Defy\\n3 Discipline\\n2 Draven, Audacious\\n2 En Garde\\n3 Fight or Flight\\n2 Flash\\n3 Guardian Angel\\n1 Heart of Dark Ice\\n3 Irelia, Fervent\\n2 Lonely Poro\\n3 Not So Fast\\n2 Rebuke\\n3 Ride the Wind\\n3 Sneaky Deckhand\\n2 Stellacorn Herder\\n1 The Syren\\n3 Tideturner\\n1 Yasuo, Windrider\\n\\n",
+      "deck_obj": "{\"Legend\": {\"Irelia, Blade Dancer\": {\"id\": \"SFD-195\", \"count\": 1}}, \"Runes\": {\"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}, \"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 6}}, \"Battlefields\": {\"Obelisk of Power\": {\"id\": \"OGN-284\", \"count\": 1}, \"Sunken Temple\": {\"id\": \"SFD-218\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}}, \"Mainboard\": {\"Adaptatron\": {\"id\": \"OGN-056\", \"count\": 2}, \"Charm\": {\"id\": \"OGN-043\", \"count\": 2}, \"Defiant Dance\": {\"id\": \"SFD-196\", \"count\": 3}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 3}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 3}, \"Draven, Audacious\": {\"id\": \"SFD-148\", \"count\": 2}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 2}, \"Fight or Flight\": {\"id\": \"OGN-168\", \"count\": 3}, \"Flash\": {\"id\": \"OGS-011\", \"count\": 2}, \"Guardian Angel\": {\"id\": \"SFD-051\", \"count\": 3}, \"Heart of Dark Ice\": {\"id\": \"SFD-052\", \"count\": 1}, \"Irelia, Fervent\": {\"id\": \"SFD-057\", \"count\": 3}, \"Lonely Poro\": {\"id\": \"SFD-036\", \"count\": 2}, \"Not So Fast\": {\"id\": \"SFD-045\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 3}, \"Sneaky Deckhand\": {\"id\": \"OGN-176\", \"count\": 3}, \"Stellacorn Herder\": {\"id\": \"SFD-048\", \"count\": 2}, \"The Syren\": {\"id\": \"OGN-184\", \"count\": 1}, \"Tideturner\": {\"id\": \"OGN-199\", \"count\": 3}, \"Yasuo, Windrider\": {\"id\": \"OGN-205\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Irelia, Blade Dancer": {
+            "id": "SFD-195",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          },
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Obelisk of Power": {
+            "id": "OGN-284",
+            "count": 1
+          },
+          "Sunken Temple": {
+            "id": "SFD-218",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Adaptatron": {
+            "id": "OGN-056",
+            "count": 2
+          },
+          "Charm": {
+            "id": "OGN-043",
+            "count": 2
+          },
+          "Defiant Dance": {
+            "id": "SFD-196",
+            "count": 3
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 3
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 3
+          },
+          "Draven, Audacious": {
+            "id": "SFD-148",
+            "count": 2
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 2
+          },
+          "Fight or Flight": {
+            "id": "OGN-168",
+            "count": 3
+          },
+          "Flash": {
+            "id": "OGS-011",
+            "count": 2
+          },
+          "Guardian Angel": {
+            "id": "SFD-051",
+            "count": 3
+          },
+          "Heart of Dark Ice": {
+            "id": "SFD-052",
+            "count": 1
+          },
+          "Irelia, Fervent": {
+            "id": "SFD-057",
+            "count": 3
+          },
+          "Lonely Poro": {
+            "id": "SFD-036",
+            "count": 2
+          },
+          "Not So Fast": {
+            "id": "SFD-045",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 3
+          },
+          "Sneaky Deckhand": {
+            "id": "OGN-176",
+            "count": 3
+          },
+          "Stellacorn Herder": {
+            "id": "SFD-048",
+            "count": 2
+          },
+          "The Syren": {
+            "id": "OGN-184",
+            "count": 1
+          },
+          "Tideturner": {
+            "id": "OGN-199",
+            "count": 3
+          },
+          "Yasuo, Windrider": {
+            "id": "OGN-205",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Irelia, Blade Dancer\\n\\n~~Runes~~\\n6 Calm Rune\\n6 Chaos Rune\\n\\n~~Battlefields~~\\n1 Obelisk of Power\\n1 Sunken Temple\\n1 The Dreaming Tree\\n\\n~~Mainboard~~\\n2 Adaptatron\\n2 Charm\\n3 Defiant Dance\\n3 Defy\\n3 Discipline\\n2 Draven, Audacious\\n2 En Garde\\n3 Fight or Flight\\n2 Flash\\n3 Guardian Angel\\n1 Heart of Dark Ice\\n3 Irelia, Fervent\\n2 Lonely Poro\\n3 Not So Fast\\n2 Rebuke\\n3 Ride the Wind\\n3 Sneaky Deckhand\\n2 Stellacorn Herder\\n1 The Syren\\n3 Tideturner\\n1 Yasuo, Windrider\\n\\n"
+      ]
+    },
+    {
+      "id": 2625,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Jaydee",
+      "player_id": "YkIf5be4omhqwFJ6bP9v9SDrrKF2",
+      "placement": 20,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 4,
+      "losses_swiss": 4,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Master Yi, Wuju Bladesman\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Ravenbloom Conservatory\\n1 Vilemaw\\'s Lair\\n\\n~~Mainboard~~\\n2 Charm\\n1 Deadbloom Predator\\n2 Defy\\n2 Discipline\\n2 En Garde\\n3 Find Your Center\\n2 Guardian Angel\\n1 Irelia, Fervent\\n2 Janna, Savior\\n3 Lonely Poro\\n1 Master Yi, Honed\\n2 Not So Fast\\n2 Punch First\\n2 Qiyana, Victorious\\n3 Ruin Runner\\n2 Sea Monkey\\n2 Stalwart Poro\\n2 Thwonk!\\n3 Trinity Force\\n1 Whiteflame Protector\\n\\n~~Sideboard~~\\n2 Akshan, Mischievous\\n2 Deadbloom Predator\\n1 Disarming Rake\\n2 Marching Orders\\n1 Whiteflame Protector\\n",
+      "deck_obj": "{\"Legend\": {\"Master Yi, Wuju Bladesman\": {\"id\": \"OGS-019\", \"count\": 1}}, \"Runes\": {\"Body Rune\": {\"id\": \"OGN-126\", \"count\": 6}, \"Calm Rune\": {\"id\": \"OGN-042\", \"count\": 6}}, \"Battlefields\": {\"Grove of the God-Willow\": {\"id\": \"OGN-280\", \"count\": 1}, \"Ravenbloom Conservatory\": {\"id\": \"SFD-215\", \"count\": 1}, \"Vilemaw's Lair\": {\"id\": \"OGN-295\", \"count\": 1}}, \"Mainboard\": {\"Charm\": {\"id\": \"OGN-043\", \"count\": 2}, \"Deadbloom Predator\": {\"id\": \"OGN-161\", \"count\": 1}, \"Defy\": {\"id\": \"OGN-045\", \"count\": 2}, \"Discipline\": {\"id\": \"OGN-058\", \"count\": 2}, \"En Garde\": {\"id\": \"OGN-046\", \"count\": 2}, \"Find Your Center\": {\"id\": \"OGN-047\", \"count\": 3}, \"Guardian Angel\": {\"id\": \"SFD-051\", \"count\": 2}, \"Irelia, Fervent\": {\"id\": \"SFD-057\", \"count\": 1}, \"Janna, Savior\": {\"id\": \"SFD-053\", \"count\": 2}, \"Lonely Poro\": {\"id\": \"SFD-036\", \"count\": 3}, \"Master Yi, Honed\": {\"id\": \"OGS-009\", \"count\": 1}, \"Not So Fast\": {\"id\": \"SFD-045\", \"count\": 2}, \"Punch First\": {\"id\": \"SFD-097\", \"count\": 2}, \"Qiyana, Victorious\": {\"id\": \"OGN-155\", \"count\": 2}, \"Ruin Runner\": {\"id\": \"SFD-105\", \"count\": 3}, \"Sea Monkey\": {\"id\": \"SFD-098\", \"count\": 2}, \"Stalwart Poro\": {\"id\": \"OGN-052\", \"count\": 2}, \"Thwonk!\": {\"id\": \"SFD-040\", \"count\": 2}, \"Trinity Force\": {\"id\": \"SFD-115\", \"count\": 3}, \"Whiteflame Protector\": {\"id\": \"OGN-082\", \"count\": 1}}, \"Sideboard\": {\"Akshan, Mischievous\": {\"id\": \"SFD-109\", \"count\": 2}, \"Deadbloom Predator\": {\"id\": \"OGN-161\", \"count\": 2}, \"Disarming Rake\": {\"id\": \"SFD-032\", \"count\": 1}, \"Marching Orders\": {\"id\": \"SFD-114\", \"count\": 2}, \"Whiteflame Protector\": {\"id\": \"OGN-082\", \"count\": 1}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Master Yi, Wuju Bladesman": {
+            "id": "OGS-019",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Body Rune": {
+            "id": "OGN-126",
+            "count": 6
+          },
+          "Calm Rune": {
+            "id": "OGN-042",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Grove of the God-Willow": {
+            "id": "OGN-280",
+            "count": 1
+          },
+          "Ravenbloom Conservatory": {
+            "id": "SFD-215",
+            "count": 1
+          },
+          "Vilemaw's Lair": {
+            "id": "OGN-295",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Charm": {
+            "id": "OGN-043",
+            "count": 2
+          },
+          "Deadbloom Predator": {
+            "id": "OGN-161",
+            "count": 1
+          },
+          "Defy": {
+            "id": "OGN-045",
+            "count": 2
+          },
+          "Discipline": {
+            "id": "OGN-058",
+            "count": 2
+          },
+          "En Garde": {
+            "id": "OGN-046",
+            "count": 2
+          },
+          "Find Your Center": {
+            "id": "OGN-047",
+            "count": 3
+          },
+          "Guardian Angel": {
+            "id": "SFD-051",
+            "count": 2
+          },
+          "Irelia, Fervent": {
+            "id": "SFD-057",
+            "count": 1
+          },
+          "Janna, Savior": {
+            "id": "SFD-053",
+            "count": 2
+          },
+          "Lonely Poro": {
+            "id": "SFD-036",
+            "count": 3
+          },
+          "Master Yi, Honed": {
+            "id": "OGS-009",
+            "count": 1
+          },
+          "Not So Fast": {
+            "id": "SFD-045",
+            "count": 2
+          },
+          "Punch First": {
+            "id": "SFD-097",
+            "count": 2
+          },
+          "Qiyana, Victorious": {
+            "id": "OGN-155",
+            "count": 2
+          },
+          "Ruin Runner": {
+            "id": "SFD-105",
+            "count": 3
+          },
+          "Sea Monkey": {
+            "id": "SFD-098",
+            "count": 2
+          },
+          "Stalwart Poro": {
+            "id": "OGN-052",
+            "count": 2
+          },
+          "Thwonk!": {
+            "id": "SFD-040",
+            "count": 2
+          },
+          "Trinity Force": {
+            "id": "SFD-115",
+            "count": 3
+          },
+          "Whiteflame Protector": {
+            "id": "OGN-082",
+            "count": 1
+          }
+        },
+        "Sideboard": {
+          "Akshan, Mischievous": {
+            "id": "SFD-109",
+            "count": 2
+          },
+          "Deadbloom Predator": {
+            "id": "OGN-161",
+            "count": 2
+          },
+          "Disarming Rake": {
+            "id": "SFD-032",
+            "count": 1
+          },
+          "Marching Orders": {
+            "id": "SFD-114",
+            "count": 2
+          },
+          "Whiteflame Protector": {
+            "id": "OGN-082",
+            "count": 1
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Master Yi, Wuju Bladesman\\n\\n~~Runes~~\\n6 Body Rune\\n6 Calm Rune\\n\\n~~Battlefields~~\\n1 Grove of the God-Willow\\n1 Ravenbloom Conservatory\\n1 Vilemaw\\'s Lair\\n\\n~~Mainboard~~\\n2 Charm\\n1 Deadbloom Predator\\n2 Defy\\n2 Discipline\\n2 En Garde\\n3 Find Your Center\\n2 Guardian Angel\\n1 Irelia, Fervent\\n2 Janna, Savior\\n3 Lonely Poro\\n1 Master Yi, Honed\\n2 Not So Fast\\n2 Punch First\\n2 Qiyana, Victorious\\n3 Ruin Runner\\n2 Sea Monkey\\n2 Stalwart Poro\\n2 Thwonk!\\n3 Trinity Force\\n1 Whiteflame Protector\\n\\n~~Sideboard~~\\n2 Akshan, Mischievous\\n2 Deadbloom Predator\\n1 Disarming Rake\\n2 Marching Orders\\n1 Whiteflame Protector\\n"
+      ]
+    },
+    {
+      "id": 2626,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Robert East",
+      "player_id": "AOGqaCo2RRSmDMtEkMXbXSkDI7t2",
+      "placement": 21,
+      "wins": 1,
+      "wins_swiss": 1,
+      "wins_bracket": 0,
+      "losses": 4,
+      "losses_swiss": 4,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n6 Fury Rune\\n6 Mind Rune\\n\\n~~Battlefields~~\\n1 Ravenbloom Conservatory\\n1 The Dreaming Tree\\n1 Void Gate\\n\\n~~Mainboard~~\\n1 Bellows Breath\\n1 Blood Rush\\n2 Draven, Vanquisher\\n3 Falling Star\\n2 Hextech Ray\\n1 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n2 Piercing Light\\n3 Plundering Poro\\n1 Premonition\\n3 Ravenbloom Student\\n2 Rengar, Pouncing\\n2 Retreat\\n1 Rocket Barrage\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Time Warp\\n1 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n2 Angle Shot\\n1 Ferrous Forerunner\\n1 Premonition\\n2 Smoke Screen\\n2 Thermo Beam\\n",
+      "deck_obj": "{\"Legend\": {\"Kai'Sa, Daughter of the Void\": {\"id\": \"OGN-247\", \"count\": 1}}, \"Runes\": {\"Fury Rune\": {\"id\": \"OGN-007\", \"count\": 6}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 6}}, \"Battlefields\": {\"Ravenbloom Conservatory\": {\"id\": \"SFD-215\", \"count\": 1}, \"The Dreaming Tree\": {\"id\": \"OGN-292\", \"count\": 1}, \"Void Gate\": {\"id\": \"OGN-296\", \"count\": 1}}, \"Mainboard\": {\"Bellows Breath\": {\"id\": \"SFD-080\", \"count\": 1}, \"Blood Rush\": {\"id\": \"SFD-003\", \"count\": 1}, \"Draven, Vanquisher\": {\"id\": \"SFD-020\", \"count\": 2}, \"Falling Star\": {\"id\": \"OGN-029\", \"count\": 3}, \"Hextech Ray\": {\"id\": \"OGN-009\", \"count\": 2}, \"Icathian Rain\": {\"id\": \"OGN-248\", \"count\": 1}, \"Kai'Sa, Survivor\": {\"id\": \"OGN-039\", \"count\": 1}, \"Lecturing Yordle\": {\"id\": \"OGN-087\", \"count\": 3}, \"Piercing Light\": {\"id\": \"SFD-023\", \"count\": 2}, \"Plundering Poro\": {\"id\": \"SFD-069\", \"count\": 3}, \"Premonition\": {\"id\": \"SFD-087\", \"count\": 1}, \"Ravenbloom Student\": {\"id\": \"OGN-103\", \"count\": 3}, \"Rengar, Pouncing\": {\"id\": \"SFD-025\", \"count\": 2}, \"Retreat\": {\"id\": \"OGN-104\", \"count\": 2}, \"Rocket Barrage\": {\"id\": \"SFD-077\", \"count\": 1}, \"Stupefy\": {\"id\": \"OGN-095\", \"count\": 3}, \"Thousand-Tailed Watcher\": {\"id\": \"OGN-116\", \"count\": 3}, \"Time Warp\": {\"id\": \"OGN-122\", \"count\": 2}, \"Void Seeker\": {\"id\": \"OGN-024\", \"count\": 1}, \"Watchful Sentry\": {\"id\": \"OGN-096\", \"count\": 3}}, \"Sideboard\": {\"Angle Shot\": {\"id\": \"SFD-011\", \"count\": 2}, \"Ferrous Forerunner\": {\"id\": \"SFD-021\", \"count\": 1}, \"Premonition\": {\"id\": \"SFD-087\", \"count\": 1}, \"Smoke Screen\": {\"id\": \"OGN-093\", \"count\": 2}, \"Thermo Beam\": {\"id\": \"OGN-022\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\", \"importedFrom\": \"https://piltoverarchive.com/decks/view/ef78cdcf-d79e-4172-ac2a-05e62e8a0a11\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Kai'Sa, Daughter of the Void": {
+            "id": "OGN-247",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Fury Rune": {
+            "id": "OGN-007",
+            "count": 6
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 6
+          }
+        },
+        "Battlefields": {
+          "Ravenbloom Conservatory": {
+            "id": "SFD-215",
+            "count": 1
+          },
+          "The Dreaming Tree": {
+            "id": "OGN-292",
+            "count": 1
+          },
+          "Void Gate": {
+            "id": "OGN-296",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Bellows Breath": {
+            "id": "SFD-080",
+            "count": 1
+          },
+          "Blood Rush": {
+            "id": "SFD-003",
+            "count": 1
+          },
+          "Draven, Vanquisher": {
+            "id": "SFD-020",
+            "count": 2
+          },
+          "Falling Star": {
+            "id": "OGN-029",
+            "count": 3
+          },
+          "Hextech Ray": {
+            "id": "OGN-009",
+            "count": 2
+          },
+          "Icathian Rain": {
+            "id": "OGN-248",
+            "count": 1
+          },
+          "Kai'Sa, Survivor": {
+            "id": "OGN-039",
+            "count": 1
+          },
+          "Lecturing Yordle": {
+            "id": "OGN-087",
+            "count": 3
+          },
+          "Piercing Light": {
+            "id": "SFD-023",
+            "count": 2
+          },
+          "Plundering Poro": {
+            "id": "SFD-069",
+            "count": 3
+          },
+          "Premonition": {
+            "id": "SFD-087",
+            "count": 1
+          },
+          "Ravenbloom Student": {
+            "id": "OGN-103",
+            "count": 3
+          },
+          "Rengar, Pouncing": {
+            "id": "SFD-025",
+            "count": 2
+          },
+          "Retreat": {
+            "id": "OGN-104",
+            "count": 2
+          },
+          "Rocket Barrage": {
+            "id": "SFD-077",
+            "count": 1
+          },
+          "Stupefy": {
+            "id": "OGN-095",
+            "count": 3
+          },
+          "Thousand-Tailed Watcher": {
+            "id": "OGN-116",
+            "count": 3
+          },
+          "Time Warp": {
+            "id": "OGN-122",
+            "count": 2
+          },
+          "Void Seeker": {
+            "id": "OGN-024",
+            "count": 1
+          },
+          "Watchful Sentry": {
+            "id": "OGN-096",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Angle Shot": {
+            "id": "SFD-011",
+            "count": 2
+          },
+          "Ferrous Forerunner": {
+            "id": "SFD-021",
+            "count": 1
+          },
+          "Premonition": {
+            "id": "SFD-087",
+            "count": 1
+          },
+          "Smoke Screen": {
+            "id": "OGN-093",
+            "count": 2
+          },
+          "Thermo Beam": {
+            "id": "OGN-022",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed",
+          "importedFrom": "https://piltoverarchive.com/decks/view/ef78cdcf-d79e-4172-ac2a-05e62e8a0a11"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Kai\\'Sa, Daughter of the Void\\n\\n~~Runes~~\\n6 Fury Rune\\n6 Mind Rune\\n\\n~~Battlefields~~\\n1 Ravenbloom Conservatory\\n1 The Dreaming Tree\\n1 Void Gate\\n\\n~~Mainboard~~\\n1 Bellows Breath\\n1 Blood Rush\\n2 Draven, Vanquisher\\n3 Falling Star\\n2 Hextech Ray\\n1 Icathian Rain\\n1 Kai\\'Sa, Survivor\\n3 Lecturing Yordle\\n2 Piercing Light\\n3 Plundering Poro\\n1 Premonition\\n3 Ravenbloom Student\\n2 Rengar, Pouncing\\n2 Retreat\\n1 Rocket Barrage\\n3 Stupefy\\n3 Thousand-Tailed Watcher\\n2 Time Warp\\n1 Void Seeker\\n3 Watchful Sentry\\n\\n~~Sideboard~~\\n2 Angle Shot\\n1 Ferrous Forerunner\\n1 Premonition\\n2 Smoke Screen\\n2 Thermo Beam\\n"
+      ]
+    },
+    {
+      "id": 2627,
+      "tid": "spiritforgedriftbound-win-a-case",
+      "player_name": "Justin James Gleason",
+      "player_id": "m4KJg3L1EYRypriYVFrC02nYJ8v2",
+      "placement": 22,
+      "wins": 0,
+      "wins_swiss": 0,
+      "wins_bracket": 0,
+      "losses": 3,
+      "losses_swiss": 3,
+      "losses_bracket": 0,
+      "draws": 0,
+      "decklist": "~~Legend~~\\n1 Ezreal, Prodigal Explorer\\n\\n~~Runes~~\\n7 Chaos Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Marai Spire\\n1 Ravenbloom Conservatory\\n1 Treasure Hoard\\n\\n~~Mainboard~~\\n1 Arcane Shift\\n2 Bellows Breath\\n1 Boots of Swiftness\\n3 Called Shot\\n3 Card Sharp\\n3 Cull\\n2 Edge of Night\\n1 Ezreal, Prodigy\\n2 Frigid Touch\\n1 Hard Bargain\\n2 Mindsplitter\\n2 Ornn, Forge God\\n3 Pit Crew\\n2 Rebuke\\n1 Ride the Wind\\n1 Singularity\\n3 Stacked Deck\\n3 Stupefy\\n1 Unchecked Power\\n3 Wages of Pain\\n\\n~~Sideboard~~\\n1 Fizz, Trickster\\n2 Pickpocket\\n1 Ride the Wind\\n1 Rocket Barrage\\n1 Singularity\\n2 Switcheroo\\n",
+      "deck_obj": "{\"Legend\": {\"Ezreal, Prodigal Explorer\": {\"id\": \"SFD-199\", \"count\": 1}}, \"Runes\": {\"Chaos Rune\": {\"id\": \"OGN-166\", \"count\": 7}, \"Mind Rune\": {\"id\": \"OGN-089\", \"count\": 5}}, \"Battlefields\": {\"Marai Spire\": {\"id\": \"SFD-211\", \"count\": 1}, \"Ravenbloom Conservatory\": {\"id\": \"SFD-215\", \"count\": 1}, \"Treasure Hoard\": {\"id\": \"SFD-220\", \"count\": 1}}, \"Mainboard\": {\"Arcane Shift\": {\"id\": \"SFD-200\", \"count\": 1}, \"Bellows Breath\": {\"id\": \"SFD-080\", \"count\": 2}, \"Boots of Swiftness\": {\"id\": \"SFD-133\", \"count\": 1}, \"Called Shot\": {\"id\": \"SFD-122\", \"count\": 3}, \"Card Sharp\": {\"id\": \"SFD-081\", \"count\": 3}, \"Cull\": {\"id\": \"SFD-134\", \"count\": 3}, \"Edge of Night\": {\"id\": \"SFD-139\", \"count\": 2}, \"Ezreal, Prodigy\": {\"id\": \"SFD-149\", \"count\": 1}, \"Frigid Touch\": {\"id\": \"SFD-066\", \"count\": 2}, \"Hard Bargain\": {\"id\": \"SFD-136\", \"count\": 1}, \"Mindsplitter\": {\"id\": \"OGN-192\", \"count\": 2}, \"Ornn, Forge God\": {\"id\": \"SFD-085\", \"count\": 2}, \"Pit Crew\": {\"id\": \"OGN-091\", \"count\": 3}, \"Rebuke\": {\"id\": \"OGN-172\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 1}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 1}, \"Stacked Deck\": {\"id\": \"OGN-183\", \"count\": 3}, \"Stupefy\": {\"id\": \"OGN-095\", \"count\": 3}, \"Unchecked Power\": {\"id\": \"OGN-123\", \"count\": 1}, \"Wages of Pain\": {\"id\": \"SFD-070\", \"count\": 3}}, \"Sideboard\": {\"Fizz, Trickster\": {\"id\": \"SFD-140\", \"count\": 1}, \"Pickpocket\": {\"id\": \"SFD-074\", \"count\": 2}, \"Ride the Wind\": {\"id\": \"OGN-173\", \"count\": 1}, \"Rocket Barrage\": {\"id\": \"SFD-077\", \"count\": 1}, \"Singularity\": {\"id\": \"OGN-105\", \"count\": 1}, \"Switcheroo\": {\"id\": \"SFD-145\", \"count\": 2}}, \"metadata\": {\"game\": \"Riftbound\", \"format\": \"Constructed\"}}",
+      "deck_obj_parsed": {
+        "Legend": {
+          "Ezreal, Prodigal Explorer": {
+            "id": "SFD-199",
+            "count": 1
+          }
+        },
+        "Runes": {
+          "Chaos Rune": {
+            "id": "OGN-166",
+            "count": 7
+          },
+          "Mind Rune": {
+            "id": "OGN-089",
+            "count": 5
+          }
+        },
+        "Battlefields": {
+          "Marai Spire": {
+            "id": "SFD-211",
+            "count": 1
+          },
+          "Ravenbloom Conservatory": {
+            "id": "SFD-215",
+            "count": 1
+          },
+          "Treasure Hoard": {
+            "id": "SFD-220",
+            "count": 1
+          }
+        },
+        "Mainboard": {
+          "Arcane Shift": {
+            "id": "SFD-200",
+            "count": 1
+          },
+          "Bellows Breath": {
+            "id": "SFD-080",
+            "count": 2
+          },
+          "Boots of Swiftness": {
+            "id": "SFD-133",
+            "count": 1
+          },
+          "Called Shot": {
+            "id": "SFD-122",
+            "count": 3
+          },
+          "Card Sharp": {
+            "id": "SFD-081",
+            "count": 3
+          },
+          "Cull": {
+            "id": "SFD-134",
+            "count": 3
+          },
+          "Edge of Night": {
+            "id": "SFD-139",
+            "count": 2
+          },
+          "Ezreal, Prodigy": {
+            "id": "SFD-149",
+            "count": 1
+          },
+          "Frigid Touch": {
+            "id": "SFD-066",
+            "count": 2
+          },
+          "Hard Bargain": {
+            "id": "SFD-136",
+            "count": 1
+          },
+          "Mindsplitter": {
+            "id": "OGN-192",
+            "count": 2
+          },
+          "Ornn, Forge God": {
+            "id": "SFD-085",
+            "count": 2
+          },
+          "Pit Crew": {
+            "id": "OGN-091",
+            "count": 3
+          },
+          "Rebuke": {
+            "id": "OGN-172",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 1
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 1
+          },
+          "Stacked Deck": {
+            "id": "OGN-183",
+            "count": 3
+          },
+          "Stupefy": {
+            "id": "OGN-095",
+            "count": 3
+          },
+          "Unchecked Power": {
+            "id": "OGN-123",
+            "count": 1
+          },
+          "Wages of Pain": {
+            "id": "SFD-070",
+            "count": 3
+          }
+        },
+        "Sideboard": {
+          "Fizz, Trickster": {
+            "id": "SFD-140",
+            "count": 1
+          },
+          "Pickpocket": {
+            "id": "SFD-074",
+            "count": 2
+          },
+          "Ride the Wind": {
+            "id": "OGN-173",
+            "count": 1
+          },
+          "Rocket Barrage": {
+            "id": "SFD-077",
+            "count": 1
+          },
+          "Singularity": {
+            "id": "OGN-105",
+            "count": 1
+          },
+          "Switcheroo": {
+            "id": "SFD-145",
+            "count": 2
+          }
+        },
+        "metadata": {
+          "game": "Riftbound",
+          "format": "Constructed"
+        }
+      },
+      "decklist_lines": [
+        "~~Legend~~\\n1 Ezreal, Prodigal Explorer\\n\\n~~Runes~~\\n7 Chaos Rune\\n5 Mind Rune\\n\\n~~Battlefields~~\\n1 Marai Spire\\n1 Ravenbloom Conservatory\\n1 Treasure Hoard\\n\\n~~Mainboard~~\\n1 Arcane Shift\\n2 Bellows Breath\\n1 Boots of Swiftness\\n3 Called Shot\\n3 Card Sharp\\n3 Cull\\n2 Edge of Night\\n1 Ezreal, Prodigy\\n2 Frigid Touch\\n1 Hard Bargain\\n2 Mindsplitter\\n2 Ornn, Forge God\\n3 Pit Crew\\n2 Rebuke\\n1 Ride the Wind\\n1 Singularity\\n3 Stacked Deck\\n3 Stupefy\\n1 Unchecked Power\\n3 Wages of Pain\\n\\n~~Sideboard~~\\n1 Fizz, Trickster\\n2 Pickpocket\\n1 Ride the Wind\\n1 Rocket Barrage\\n1 Singularity\\n2 Switcheroo\\n"
+      ]
+    }
+  ]
+}

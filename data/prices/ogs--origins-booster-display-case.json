@@ -1,0 +1,41 @@
+{
+  "id": "price_history.ogs--origins-booster-display-case",
+  "type": "price_record",
+  "title": "Origins - Booster Display Case (OGS)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "OGS",
+    "origins-booster-display-case"
+  ],
+  "record": {
+    "card_name": "Origins - Booster Display Case",
+    "set_id": "OGS",
+    "latest": {
+      "card_name": "Origins - Booster Display Case",
+      "set_id": "OGS",
+      "tcgplayer_id": "635369",
+      "market_price": 1538.08,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-02-27"
+    },
+    "history": [
+      {
+        "card_name": "Origins - Booster Display Case",
+        "set_id": "OGS",
+        "tcgplayer_id": "635369",
+        "market_price": 1538.08,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      }
+    ]
+  }
+}

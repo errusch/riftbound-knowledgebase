@@ -1,0 +1,51 @@
+{
+  "id": "price_history.sfd--ferrous-forerunner",
+  "type": "price_record",
+  "title": "Ferrous Forerunner (SFD)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "price-history",
+    "SFD",
+    "ferrous-forerunner"
+  ],
+  "record": {
+    "card_name": "Ferrous Forerunner",
+    "set_id": "SFD",
+    "latest": {
+      "card_name": "Ferrous Forerunner",
+      "set_id": "SFD",
+      "tcgplayer_id": "666364",
+      "market_price": 1.08,
+      "low_price": null,
+      "mid_price": null,
+      "high_price": null,
+      "date": "2026-03-01"
+    },
+    "history": [
+      {
+        "card_name": "Ferrous Forerunner",
+        "set_id": "SFD",
+        "tcgplayer_id": "666364",
+        "market_price": 1.07,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-02-27"
+      },
+      {
+        "card_name": "Ferrous Forerunner",
+        "set_id": "SFD",
+        "tcgplayer_id": "666364",
+        "market_price": 1.08,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null,
+        "date": "2026-03-01"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ruling.janna-savior--errata--21",
+  "type": "ruling_record",
+  "title": "Janna, Savior (errata)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "ruling",
+    "errata",
+    "janna-savior"
+  ],
+  "record": {
+    "id": 21,
+    "card_name": "Janna, Savior",
+    "ruling_type": "errata",
+    "old_text": "heal your units here, then move an enemy unit from here to its base.",
+    "new_text": "heal your units here, then move up to one enemy unit from here to its base.",
+    "explanation": "Can heal without enemy present",
+    "source_doc": "Spiritforged Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+    "effective_date": "2026-01-14"
+  }
+}
