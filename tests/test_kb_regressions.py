@@ -88,6 +88,8 @@ class KBRegressionTests(unittest.TestCase):
         for fragment in fixture["required_list_fragments"]:
             self.assertIn(fragment, output)
         self.assertIn("Supporting Sources", output)
+        for object_id in fixture["required_supporting_ids"]:
+            self.assertIn(object_id, output)
 
     def test_source_query_returns_provenance_payload(self) -> None:
         fixture = GOLDEN["source"]
@@ -127,18 +129,69 @@ class KBRegressionTests(unittest.TestCase):
         self.assertIn("tournament", topics)
         self.assertIn("active_review_queue", report)
         self.assertIn("quarantined_objects", report)
+        verified_guides = report.get("verified_guides", {})
+        verified_ids = {item["id"] for item in verified_guides.get("objects", [])}
+        self.assertGreaterEqual(verified_guides.get("count", 0), 8)
+        self.assertIn("analysis.guide.draven-glorious-executioner-guide", verified_ids)
+        self.assertIn("analysis.guide.kai-sa-daughter-of-the-void-guide", verified_ids)
+        active_review_ids = {
+            item["id"]
+            for items in report.get("active_review_queue", {}).values()
+            for item in items.get("objects", [])
+        }
+        self.assertNotIn("analysis.guide.draven-glorious-executioner-guide", active_review_ids)
+        self.assertNotIn("analysis.guide.kai-sa-daughter-of-the-void-guide", active_review_ids)
 
     def test_trust_policy_promotes_and_quarantines_expected_objects(self) -> None:
         objects = {item["id"]: item for item in load_json(ROOT / "data" / "indexes" / "all_objects.json", [])}
         self.assertEqual("derived_verified", objects["analysis.reference.core-rules"]["trust_level"])
         self.assertEqual("derived_verified", objects["analysis.reference.mechanics"]["trust_level"])
+        for guide_id in [
+            "analysis.guide.deckbuilding-101-building-your-first-riftbound-deck",
+            "analysis.guide.domain-101-understanding-the-six-domains-of-riftbound",
+            "analysis.guide.battlefields-101-attacking-and-trading-units",
+            "analysis.guide.movement-101-advanced-movement-ganking-and-combos",
+            "analysis.guide.draven-glorious-executioner-guide",
+            "analysis.guide.kai-sa-daughter-of-the-void-guide",
+            "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers",
+            "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals",
+        ]:
+            self.assertEqual("derived_verified", objects[guide_id]["trust_level"])
         player_tags = set(objects["player.draven"].get("tags", []))
         self.assertTrue({"quarantined", "non-authoritative", "low-confidence"}.issubset(player_tags))
+        self.assertEqual("conflicted", objects["analysis.reference.tournament-rules"]["trust_level"])
 
     def test_definition_query_prefers_game_reference_over_product_docs(self) -> None:
         output = run_kb("ask", "What does [M] mean in Riftbound?")
         self.assertIn("analysis.reference.mechanics", output)
         self.assertNotIn("analysis.reference.app-flow", output)
+
+    def test_hidden_definition_prefers_promoted_fundamentals(self) -> None:
+        fixture = GOLDEN["definitions"]["hidden"]
+        output = run_kb("ask", fixture["query"])
+        for object_id in fixture["required_analysis_ids"]:
+            self.assertIn(object_id, output)
+        self.assertNotIn("analysis.reference.app-flow", output)
+
+    def test_ganking_definition_prefers_verified_movement_guide(self) -> None:
+        fixture = GOLDEN["definitions"]["ganking"]
+        output = run_kb("ask", fixture["query"])
+        for object_id in fixture["required_analysis_ids"]:
+            self.assertIn(object_id, output)
+        self.assertNotIn("analysis.reference.app-flow", output)
+
+    def test_prep_query_prefers_verified_legend_guides(self) -> None:
+        output = run_kb("prep", "--legend", "Draven", "--opponent", "Kai'Sa", "--dry-run")
+        self.assertIn("analysis.guide.draven-glorious-executioner-guide", output)
+        self.assertIn("analysis.guide.kai-sa-daughter-of-the-void-guide", output)
+
+    def test_meta_query_prefers_verified_kaisa_sources(self) -> None:
+        output = run_kb("meta", "--legend", "Kai'Sa")
+        self.assertIn("analysis.guide.kai-sa-daughter-of-the-void-guide", output)
+        self.assertTrue(
+            "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers" in output
+            or "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals" in output
+        )
 
     def test_indexes_do_not_reference_ignored_duplicate_repo(self) -> None:
         duplicate_root = str(IGNORED_DUPLICATE_ROOT)

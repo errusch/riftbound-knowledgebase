@@ -32,6 +32,7 @@
       "Citations"
     ],
     "required_citations": [
+      "analysis.guide.draven-glorious-executioner-guide",
       "analysis.guide.kai-sa-daughter-of-the-void-guide",
       "analysis.matchup.draven-vs-kaisa"
     ]
@@ -45,7 +46,26 @@
     "required_list_fragments": [
       "Best of Draven From Bologna",
       "Midrange Draven wins Vegas"
+    ],
+    "required_supporting_ids": [
+      "analysis.guide.kai-sa-daughter-of-the-void-guide",
+      "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers"
     ]
+  },
+  "definitions": {
+    "hidden": {
+      "query": "What does Hidden mean in Riftbound?",
+      "required_analysis_ids": [
+        "analysis.guide.battlefields-101-attacking-and-trading-units",
+        "analysis.reference.mechanics"
+      ]
+    },
+    "ganking": {
+      "query": "How does Ganking work?",
+      "required_analysis_ids": [
+        "analysis.guide.movement-101-advanced-movement-ganking-and-combos"
+      ]
+    }
   },
   "source": {
     "object_id": "card.ogn-107-298",

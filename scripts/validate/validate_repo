@@ -16,6 +16,17 @@ def fail(message: str) -> None:
 
 
 def main() -> None:
+    verified_guide_expectations = {
+        "analysis.guide.deckbuilding-101-building-your-first-riftbound-deck": {"verified-guide", "game-reference"},
+        "analysis.guide.domain-101-understanding-the-six-domains-of-riftbound": {"verified-guide", "game-reference"},
+        "analysis.guide.battlefields-101-attacking-and-trading-units": {"verified-guide", "game-reference"},
+        "analysis.guide.movement-101-advanced-movement-ganking-and-combos": {"verified-guide", "game-reference"},
+        "analysis.guide.draven-glorious-executioner-guide": {"verified-guide", "legend-reference"},
+        "analysis.guide.kai-sa-daughter-of-the-void-guide": {"verified-guide", "legend-reference"},
+        "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers": {"verified-guide", "legend-reference"},
+        "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals": {"verified-guide", "meta-reference"},
+    }
+
     required_paths = [
         ROOT / "canon" / "rules" / "core-rules-v1-2.md",
         ROOT / "canon" / "tournament" / "tournament-rules-2025-10-16.md",
@@ -192,10 +203,22 @@ def main() -> None:
         if object_map.get(promoted_id, {}).get("trust_level") != "derived_verified":
             fail(f"Expected promoted trust level for {promoted_id}.")
 
+    for guide_id, required_tags in verified_guide_expectations.items():
+        guide = object_map.get(guide_id, {})
+        if guide.get("trust_level") != "derived_verified":
+            fail(f"Expected verified guide trust level for {guide_id}.")
+        guide_tags = set(guide.get("tags", []) or [])
+        if not required_tags.issubset(guide_tags):
+            fail(f"Expected verified guide tags for {guide_id}: missing {sorted(required_tags - guide_tags)}")
+
     player_draven = object_map.get("player.draven", {})
     player_tags = set(player_draven.get("tags", []) or [])
     if not {"quarantined", "non-authoritative", "low-confidence"}.issubset(player_tags):
         fail("Expected player records to be quarantined and marked non-authoritative.")
+
+    conflicted_tournament_rules = object_map.get("analysis.reference.tournament-rules", {})
+    if conflicted_tournament_rules.get("trust_level") != "conflicted":
+        fail("Expected derived tournament rules summary to remain conflicted.")
 
     vod_links = load_json(ROOT / "data" / "indexes" / "vod_links.json", [])
     if not any(item.get("object_id") == "analysis.video_review.m2IjrsUzXgU" for item in vod_links):
@@ -205,6 +228,27 @@ def main() -> None:
     prep_briefs = sorted(prep_briefs_root.glob("*.json"))
     if len(prep_briefs) < 5:
         fail("Expected at least five generated prep briefs after hardening expansion.")
+
+    trust_policy = load_json(ROOT / "data" / "taxonomy" / "trust_policy.json", {})
+    manifest_ids = {item.get("id") for item in trust_policy.get("verification_manifest", [])}
+    if not set(verified_guide_expectations).issubset(manifest_ids):
+        fail("Trust policy verification manifest is missing one or more promoted guides.")
+
+    verified_guides = quality_report.get("verified_guides", {})
+    verified_objects = verified_guides.get("objects", [])
+    verified_ids = {item.get("id") for item in verified_objects}
+    if verified_guides.get("count", 0) < len(verified_guide_expectations):
+        fail("Quality report should expose at least the full verified guide pack count.")
+    if not set(verified_guide_expectations).issubset(verified_ids):
+        fail("Quality report verified guide section is missing one or more promoted guides.")
+
+    active_review_ids = {
+        item["id"]
+        for items in quality_report.get("active_review_queue", {}).values()
+        for item in items.get("objects", [])
+    }
+    if active_review_ids.intersection(verified_guide_expectations):
+        fail("Promoted verified guides should not remain in the active review queue.")
 
     print("Validation passed.")
 

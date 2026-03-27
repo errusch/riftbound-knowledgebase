@@ -18,7 +18,7 @@
   ],
   "derived_unverified_by_type": {
     "analysis_note": {
-      "count": 246,
+      "count": 238,
       "objects": [
         {
           "id": "analysis.reference.academy-strategy",
@@ -169,21 +169,6 @@
           "tags": [
             "azir",
             "guide",
-            "riftbound.gg"
-          ]
-        },
-        {
-          "id": "analysis.guide.battlefields-101-attacking-and-trading-units",
-          "type": "analysis_note",
-          "title": "Battlefields 101: Attacking and Trading Units",
-          "path": "analysis/guides/battlefields-101-attacking-and-trading-units.md",
-          "scope": "analysis",
-          "trust_level": "derived_unverified",
-          "status": "reviewed",
-          "provenance": "legacy local",
-          "tags": [
-            "guide",
-            "item",
             "riftbound.gg"
           ]
         },
@@ -843,6 +828,23 @@
             "intel",
             "non-authoritative",
             "tech",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.31",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 31",
+          "path": "analysis/intel/bookmark-31.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
             "x_bookmarks"
           ]
         }
@@ -1912,7 +1914,7 @@
   },
   "active_review_queue": {
     "analysis_note": {
-      "count": 118,
+      "count": 110,
       "objects": [
         {
           "id": "analysis.archetype.ahri",
@@ -2029,21 +2031,6 @@
           "tags": [
             "azir",
             "guide",
-            "riftbound.gg"
-          ]
-        },
-        {
-          "id": "analysis.guide.battlefields-101-attacking-and-trading-units",
-          "type": "analysis_note",
-          "title": "Battlefields 101: Attacking and Trading Units",
-          "path": "analysis/guides/battlefields-101-attacking-and-trading-units.md",
-          "scope": "analysis",
-          "trust_level": "derived_unverified",
-          "status": "reviewed",
-          "provenance": "legacy local",
-          "tags": [
-            "guide",
-            "item",
             "riftbound.gg"
           ]
         },
@@ -2198,21 +2185,6 @@
           ]
         },
         {
-          "id": "analysis.guide.deckbuilding-101-building-your-first-riftbound-deck",
-          "type": "analysis_note",
-          "title": "Deckbuilding 101: Building Your First Riftbound Deck",
-          "path": "analysis/guides/deckbuilding-101-building-your-first-riftbound-deck.md",
-          "scope": "analysis",
-          "trust_level": "derived_unverified",
-          "status": "reviewed",
-          "provenance": "legacy local",
-          "tags": [
-            "guide",
-            "item",
-            "riftbound.gg"
-          ]
-        },
-        {
           "id": "analysis.community.rtcg-events",
           "type": "analysis_note",
           "title": "Details of Upcoming Riftbound Events Just Released",
@@ -2225,21 +2197,6 @@
             "community",
             "meta",
             "reddit"
-          ]
-        },
-        {
-          "id": "analysis.guide.domain-101-understanding-the-six-domains-of-riftbound",
-          "type": "analysis_note",
-          "title": "Domain 101: Understanding The Six Domains of Riftbound",
-          "path": "analysis/guides/domain-101-understanding-the-six-domains-of-riftbound.md",
-          "scope": "analysis",
-          "trust_level": "derived_unverified",
-          "status": "reviewed",
-          "provenance": "legacy local",
-          "tags": [
-            "guide",
-            "item",
-            "riftbound.gg"
           ]
         },
         {
@@ -2269,21 +2226,6 @@
             "Draven",
             "Kai'Sa",
             "matchup"
-          ]
-        },
-        {
-          "id": "analysis.guide.draven-glorious-executioner-guide",
-          "type": "analysis_note",
-          "title": "Draven, Glorious Executioner Guide",
-          "path": "analysis/guides/draven-glorious-executioner-guide.md",
-          "scope": "analysis",
-          "trust_level": "derived_unverified",
-          "status": "reviewed",
-          "provenance": "legacy local",
-          "tags": [
-            "draven",
-            "guide",
-            "riftbound.gg"
           ]
         },
         {
@@ -2629,32 +2571,92 @@
           ]
         },
         {
-          "id": "analysis.guide.kai-sa-daughter-of-the-void-guide",
+          "id": "analysis.community.tcg-q13rcb",
           "type": "analysis_note",
-          "title": "Kai'Sa, Daughter of the Void Guide",
-          "path": "analysis/guides/kai-sa-daughter-of-the-void-guide.md",
+          "title": "League player curious about Riftbound \u2014 how serious is it as a TCG?",
+          "path": "analysis/community/reddit--tcg-q13rcb.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "discussion",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.guide.lee-sin-blind-monk-guide",
+          "type": "analysis_note",
+          "title": "Lee Sin, Blind Monk Guide",
+          "path": "analysis/guides/lee-sin-blind-monk-guide.md",
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
           "provenance": "legacy local",
           "tags": [
             "guide",
-            "kai-sa",
+            "lee-sin",
             "riftbound.gg"
           ]
         },
         {
-          "id": "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers",
+          "id": "analysis.guide.leona-radiant-dawn-guide",
           "type": "analysis_note",
-          "title": "Kai'Sa, Daughter of the Void: Deck in Numbers",
-          "path": "analysis/guides/kai-sa-daughter-of-the-void-deck-in-numbers.md",
+          "title": "Leona, Radiant Dawn Guide",
+          "path": "analysis/guides/leona-radiant-dawn-guide.md",
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
           "provenance": "legacy local",
           "tags": [
             "guide",
-            "kai-sa",
+            "leona",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.community.1rfvhcp",
+          "type": "analysis_note",
+          "title": "Lottery box was juiced",
+          "path": "analysis/community/reddit--1rfvhcp.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "content",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.guide.lucian-purifier-guide",
+          "type": "analysis_note",
+          "title": "Lucian, Purifier Guide",
+          "path": "analysis/guides/lucian-purifier-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "lucian",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.guide.lux-lady-of-luminosity-starter-guide",
+          "type": "analysis_note",
+          "title": "Lux, Lady of Luminosity Starter Guide",
+          "path": "analysis/guides/lux-lady-of-luminosity-starter-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "lux",
             "riftbound.gg"
           ]
         }
@@ -4581,6 +4583,147 @@
       ]
     }
   ],
+  "verified_guides": {
+    "count": 8,
+    "objects": [
+      {
+        "id": "analysis.guide.battlefields-101-attacking-and-trading-units",
+        "type": "analysis_note",
+        "title": "Battlefields 101: Attacking and Trading Units",
+        "path": "analysis/guides/battlefields-101-attacking-and-trading-units.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "game-reference",
+          "guide",
+          "item",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
+      {
+        "id": "analysis.guide.deckbuilding-101-building-your-first-riftbound-deck",
+        "type": "analysis_note",
+        "title": "Deckbuilding 101: Building Your First Riftbound Deck",
+        "path": "analysis/guides/deckbuilding-101-building-your-first-riftbound-deck.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "game-reference",
+          "guide",
+          "item",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
+      {
+        "id": "analysis.guide.domain-101-understanding-the-six-domains-of-riftbound",
+        "type": "analysis_note",
+        "title": "Domain 101: Understanding The Six Domains of Riftbound",
+        "path": "analysis/guides/domain-101-understanding-the-six-domains-of-riftbound.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "game-reference",
+          "guide",
+          "item",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
+      {
+        "id": "analysis.guide.draven-glorious-executioner-guide",
+        "type": "analysis_note",
+        "title": "Draven, Glorious Executioner Guide",
+        "path": "analysis/guides/draven-glorious-executioner-guide.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "draven",
+          "guide",
+          "legend-reference",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
+      {
+        "id": "analysis.guide.kai-sa-daughter-of-the-void-guide",
+        "type": "analysis_note",
+        "title": "Kai'Sa, Daughter of the Void Guide",
+        "path": "analysis/guides/kai-sa-daughter-of-the-void-guide.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "guide",
+          "kai-sa",
+          "legend-reference",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
+      {
+        "id": "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers",
+        "type": "analysis_note",
+        "title": "Kai'Sa, Daughter of the Void: Deck in Numbers",
+        "path": "analysis/guides/kai-sa-daughter-of-the-void-deck-in-numbers.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "guide",
+          "kai-sa",
+          "legend-reference",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
+      {
+        "id": "analysis.guide.movement-101-advanced-movement-ganking-and-combos",
+        "type": "analysis_note",
+        "title": "Movement 101: Advanced Movement, Ganking, and Combos",
+        "path": "analysis/guides/movement-101-advanced-movement-ganking-and-combos.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "game-reference",
+          "guide",
+          "item",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
+      {
+        "id": "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals",
+        "type": "analysis_note",
+        "title": "Riftbound Meta Tier List \u2013 Global Release Post Chinese Regionals",
+        "path": "analysis/guides/riftbound-meta-tier-list-global-release-post-chinese-regionals.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "draven-kai-sa-master-yi-ornn-leona-yasuo",
+          "guide",
+          "meta-reference",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      }
+    ]
+  },
   "conflicted_by_topic": [
     {
       "topic": "tournament",

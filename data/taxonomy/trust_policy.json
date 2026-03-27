@@ -17,6 +17,144 @@
         "verified-summary",
         "game-reference"
       ]
+    },
+    {
+      "id": "analysis.guide.deckbuilding-101-building-your-first-riftbound-deck",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "game-reference"
+      ]
+    },
+    {
+      "id": "analysis.guide.domain-101-understanding-the-six-domains-of-riftbound",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "game-reference"
+      ]
+    },
+    {
+      "id": "analysis.guide.battlefields-101-attacking-and-trading-units",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "game-reference"
+      ]
+    },
+    {
+      "id": "analysis.guide.movement-101-advanced-movement-ganking-and-combos",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "game-reference"
+      ]
+    },
+    {
+      "id": "analysis.guide.draven-glorious-executioner-guide",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "legend-reference"
+      ]
+    },
+    {
+      "id": "analysis.guide.kai-sa-daughter-of-the-void-guide",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "legend-reference"
+      ]
+    },
+    {
+      "id": "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "legend-reference"
+      ]
+    },
+    {
+      "id": "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "meta-reference"
+      ]
+    }
+  ],
+  "verification_manifest": [
+    {
+      "id": "analysis.guide.deckbuilding-101-building-your-first-riftbound-deck",
+      "evidence": [
+        "canon/rules-aligned",
+        "no known conflict hits",
+        "corroborated by local core-rules and starter-guide deck construction rules"
+      ]
+    },
+    {
+      "id": "analysis.guide.domain-101-understanding-the-six-domains-of-riftbound",
+      "evidence": [
+        "canon/rules-aligned",
+        "no known conflict hits",
+        "corroborated by local domain identity rules and mechanics summaries"
+      ]
+    },
+    {
+      "id": "analysis.guide.battlefields-101-attacking-and-trading-units",
+      "evidence": [
+        "canon/rules-aligned",
+        "no known conflict hits",
+        "corroborated by battlefield rules atoms and local battlefield taxonomy"
+      ]
+    },
+    {
+      "id": "analysis.guide.movement-101-advanced-movement-ganking-and-combos",
+      "evidence": [
+        "canon/rules-aligned",
+        "no known conflict hits",
+        "corroborated by movement-related canon and local mechanics summary"
+      ]
+    },
+    {
+      "id": "analysis.guide.draven-glorious-executioner-guide",
+      "evidence": [
+        "canon/rules-aligned",
+        "no known conflict hits",
+        "corroborated by local prep artifacts, deck records, and event results"
+      ]
+    },
+    {
+      "id": "analysis.guide.kai-sa-daughter-of-the-void-guide",
+      "evidence": [
+        "canon/rules-aligned",
+        "no known conflict hits",
+        "corroborated by local prep artifacts, deck records, and related analysis"
+      ]
+    },
+    {
+      "id": "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers",
+      "evidence": [
+        "canon/rules-aligned",
+        "no known conflict hits",
+        "corroborated by local decklists, battlefields, and current meta outputs"
+      ]
+    },
+    {
+      "id": "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals",
+      "evidence": [
+        "canon/rules-aligned at high level",
+        "no known conflict hits",
+        "corroborated by local meta snapshots, event bundles, and repeated prep usage"
+      ]
     }
   ],
   "tag_overrides": [

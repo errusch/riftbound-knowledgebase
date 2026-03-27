@@ -391,6 +391,16 @@ def score_object(obj: KBObject, query: str) -> int:
     if normalized_query and normalized_query in haystack:
         score += 15
     tags = set(obj.meta.get("tags", []) or [])
+    if "verified-guide" in tags:
+        score += 14
+    if "game-reference" in tags:
+        score += 18
+    if "legend-reference" in tags:
+        score += 10
+    if "meta-reference" in tags:
+        score += 8
+    if "verified-summary" in tags:
+        score += 12
     if "non-authoritative" in tags:
         score -= 12
     if "quarantined" in tags:
@@ -736,6 +746,7 @@ def build_quality_report(objects: list[KBObject], conflicts_by_topic: list[dict[
     active_review_queue: dict[str, list[dict[str, Any]]] = defaultdict(list)
     archival_unverified_by_type: dict[str, list[dict[str, Any]]] = defaultdict(list)
     quarantined_objects = []
+    verified_guides = []
 
     for obj in objects:
         entry = {
@@ -749,11 +760,13 @@ def build_quality_report(objects: list[KBObject], conflicts_by_topic: list[dict[
             "provenance": provenance_label(obj.meta),
             "tags": obj.meta.get("tags", []),
         }
+        tags = set(obj.meta.get("tags", []) or [])
+        if obj.meta.get("trust_level") == "derived_verified" and "verified-guide" in tags:
+            verified_guides.append(entry)
         if obj.meta.get("status") == "draft":
             draft_objects.append(entry)
         if obj.meta.get("trust_level") == "derived_unverified":
             derived_unverified_by_type[str(obj.meta.get("type", "unknown"))].append(entry)
-            tags = set(obj.meta.get("tags", []) or [])
             if "quarantined" in tags:
                 quarantined_objects.append(entry)
             elif "archival-unverified" in tags or "non-authoritative" in tags:
@@ -785,6 +798,10 @@ def build_quality_report(objects: list[KBObject], conflicts_by_topic: list[dict[
             for key, items in sorted(archival_unverified_by_type.items())
         },
         "quarantined_objects": sorted(quarantined_objects, key=lambda item: (item["type"] or "", item["title"] or ""))[:100],
+        "verified_guides": {
+            "count": len(verified_guides),
+            "objects": sorted(verified_guides, key=lambda item: item["title"] or ""),
+        },
         "conflicted_by_topic": conflicts_by_topic,
     }
     return report

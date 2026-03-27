@@ -103,6 +103,12 @@ def quality_report() -> dict[str, Any]:
 
 def collect_legend_sources(objects: list[Any], legend: str) -> dict[str, list[Any]]:
     query = legend
+    def source_rank(obj: Any) -> tuple[int, int, str]:
+        tags = set(obj.meta.get("tags", []) or [])
+        verified_rank = 0 if "verified-guide" in tags else 1
+        meta_rank = 0 if "legend-reference" in tags or "meta-reference" in tags else 1
+        return (verified_rank, meta_rank, obj.meta.get("title", ""))
+
     guides = [
         obj
         for obj in search_objects(objects, query, scopes={"analysis"}, limit=20)
@@ -122,7 +128,7 @@ def collect_legend_sources(objects: list[Any], legend: str) -> dict[str, list[An
         and "non-authoritative" not in set(obj.meta.get("tags", []) or [])
     ]
     return {
-        "guides": guides[:8],
+        "guides": sorted(guides, key=source_rank)[:8],
         "articles": articles[:8],
         "videos": videos[:8],
     }
@@ -171,16 +177,30 @@ def is_rule_query(query: str) -> bool:
 
 def is_definition_query(query: str) -> bool:
     lowered = query.lower()
-    return any(token in lowered for token in ["what does", "what is", "means", "mean in riftbound", "define", "keyword"]) and any(
-        marker in lowered for marker in ["[m]", "[a]", "[c]", "might", "power", "energy", "hidden", "showdown", "banish", "recycle"]
+    return any(token in lowered for token in ["what does", "what is", "means", "mean in riftbound", "define", "keyword", "how does"]) and any(
+        marker in lowered
+        for marker in [
+            "[m]",
+            "[a]",
+            "[c]",
+            "might",
+            "power",
+            "energy",
+            "hidden",
+            "showdown",
+            "banish",
+            "recycle",
+            "ganking",
+            "movement",
+        ]
     )
 
 
 def query_profile(question: str, object_map: dict[str, Any]) -> str:
-    if is_rule_query(question):
-        return "rule"
     if is_definition_query(question):
         return "definition"
+    if is_rule_query(question):
+        return "rule"
     if resolve_card(question, object_map):
         return "card"
     lowered = question.lower()
@@ -257,6 +277,22 @@ def policy_search(objects: list[Any], query: str, profile: str, section: str, li
     return authoritative(search_objects(objects, query, types={"card_record", "competitive_record", "event_record", "meta_snapshot", "taxonomy_entity", "conflict_record", "player_record"}, limit=limit * 2))[:limit]
 
 
+def definition_focus_query(question: str) -> str:
+    lowered = question.lower()
+    marker_map = {
+        "[m]": "might",
+        "[a]": "agility",
+        "[c]": "cost",
+    }
+    for marker, replacement in marker_map.items():
+        if marker in lowered:
+            return replacement
+    for keyword in ["ganking", "hidden", "showdown", "banish", "recycle", "movement", "might", "power", "energy"]:
+        if keyword in lowered:
+            return keyword
+    return question
+
+
 def provenance_heading(meta: dict[str, Any]) -> str:
     return f"{provenance_label(meta)}; {meta.get('trust_level', 'unknown')}; {meta.get('status', 'unknown')}"
 
@@ -265,7 +301,12 @@ def cmd_ask(args: argparse.Namespace) -> int:
     ensure_graph_ready()
     objects, object_map = load_object_index()
     profile = query_profile(args.question, object_map)
-    query = expand_rule_query(args.question) if profile == "rule" else args.question
+    if profile == "rule":
+        query = expand_rule_query(args.question)
+    elif profile == "definition":
+        query = definition_focus_query(args.question)
+    else:
+        query = args.question
     canon_hits = policy_search(objects, query, profile, "canon", 5)
     analysis_hits = policy_search(objects, query, profile, "analysis", 5)
     data_hits = policy_search(objects, query, profile, "data", 5)
@@ -405,7 +446,12 @@ def cmd_meta(args: argparse.Namespace) -> int:
 
     lines.extend(["", "Supporting Sources"])
     for label, hits in sources.items():
+        if not hits:
+            lines.append(f"- {label}: 0 local sources")
+            continue
         lines.append(f"- {label}: {len(hits)} local sources")
+        for obj in hits[:3]:
+            lines.append(f"  {obj.meta.get('title')} [{format_citation(obj)}]")
     print("\n".join(lines))
     return 0
 
@@ -436,6 +482,7 @@ def build_prep_brief_payload(legend: str, opponent: str | None, event: str | Non
     def analysis_priority(obj: Any) -> tuple[int, str]:
         text = f"{obj.meta.get('title', '')} {obj.body}".lower()
         source_kind = str(obj.meta.get("source_kind", ""))
+        tags = set(obj.meta.get("tags", []) or [])
         legend_hit = legend.lower() in text
         opponent_hit = opponent.lower() in text if opponent else False
         if legend_hit and opponent_hit:
@@ -449,7 +496,8 @@ def build_prep_brief_payload(legend: str, opponent: str | None, event: str | Non
         else:
             bucket = 4
         generated_penalty = 1 if source_kind == "generated_local_prep" else 0
-        return (bucket, generated_penalty, obj.meta.get("title", ""))
+        verified_penalty = 0 if "verified-guide" in tags else 1
+        return (bucket, verified_penalty, generated_penalty, obj.meta.get("title", ""))
 
     relevant_analysis = sorted(relevant_analysis, key=analysis_priority)
 
