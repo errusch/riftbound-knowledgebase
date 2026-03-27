@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-296",
+  "type": "card_snapshot",
+  "title": "Void Gate",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ezreal-from-bologna-l4o06.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-296",
+    "name": "Void Gate",
+    "riftbound_id": "OGN-296",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "Spells and abilities deal 1 Bonus Damage to units here. (Each instance of damage the spell deals to a unit here is increased by 1.)",
+      "plain": "Spells and abilities deal 1 Bonus Damage to units here. (Each instance of damage the spell deals to a unit here is increased by 1.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-296.webp"
+    },
+    "slug": "ogn-296-void-gate"
+  }
+}

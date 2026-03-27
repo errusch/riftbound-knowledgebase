@@ -1,0 +1,42 @@
+{
+  "id": "card_snapshot.OGN-258",
+  "type": "card_snapshot",
+  "title": "Dragon's Rage",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/lee-sin-blind-monk-deck-by-jeff-jones-best-of-lee-sin-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-258",
+    "name": "Dragon's Rage",
+    "riftbound_id": "OGN-258",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Calm",
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "Move an enemy unit. Then do this: Choose another enemy unit at its destination. They deal damage equal to their Mights to each other.",
+      "plain": "Move an enemy unit. Then do this: Choose another enemy unit at its destination. They deal damage equal to their Mights to each other."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-258.webp"
+    },
+    "slug": "ogn-258-dragons-rage"
+  }
+}

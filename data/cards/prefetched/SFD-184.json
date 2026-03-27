@@ -1,0 +1,42 @@
+{
+  "id": "card_snapshot.SFD-184",
+  "type": "card_snapshot",
+  "title": "Relentless Pursuit",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-lucian-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-184",
+    "name": "Relentless Pursuit",
+    "riftbound_id": "SFD-184",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Fury",
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit. You may attach an Equipment with the same controller to it. This turn, that unit has &quot;When I conquer, you may move me to my base.&quot;",
+      "plain": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit. You may attach an Equipment with the same controller to it. This turn, that unit has &quot;When I conquer, you may move me to my base.&quot;"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-184.webp"
+    },
+    "slug": "sfd-184-relentless-pursuit"
+  }
+}

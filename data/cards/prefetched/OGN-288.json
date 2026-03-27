@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-288",
+  "type": "card_snapshot",
+  "title": "Startipped Peak",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/kaisa-winning-deck-shanghai-regional-tournament.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-288",
+    "name": "Startipped Peak",
+    "riftbound_id": "OGN-288",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you hold here, you may channel 1 rune exhausted.",
+      "plain": "When you hold here, you may channel 1 rune exhausted."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-288.webp"
+    },
+    "slug": "ogn-288-startipped-peak"
+  }
+}

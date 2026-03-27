@@ -1,0 +1,1591 @@
+{
+  "id": "event.vegas-regional-qualifier",
+  "type": "competitive_record",
+  "title": "Vegas Regional Qualifier",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/events/vegas-regional-qualifier.json",
+  "source_date": "2026-03-01",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "event",
+    "North America",
+    "regional_qualifier"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "vegas-regional-qualifier",
+    "name": "Vegas Regional Qualifier",
+    "region": "North America",
+    "eventDate": "2026-03-01",
+    "eventType": "regional_qualifier",
+    "coverageType": "best_of_legend_plus_top_cut",
+    "primarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "Vegas\u2019 Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+      "publishedAt": "2026-03-04T17:00:00.000Z",
+      "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+      "priority": 1
+    },
+    "sources": [
+      {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "Vegas\u2019 Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+        "publishedAt": "2026-03-04T17:00:00.000Z",
+        "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+        "priority": 1
+      },
+      {
+        "kind": "community",
+        "role": "stats_summary",
+        "label": "Vegas Regional Qualifier summary page",
+        "url": "https://riftbound.gg/vegas-regional-qualifier/",
+        "publishedAt": null,
+        "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+        "priority": 2
+      }
+    ],
+    "articleSlug": "vegas-regional-qualifier",
+    "sourceUrls": [
+      "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+      "https://riftbound.gg/vegas-regional-qualifier/"
+    ],
+    "summaryStats": {
+      "legendRowCount": 28,
+      "embeddedDeckCount": 28,
+      "uniqueDeckCount": 28
+    },
+    "notes": [
+      "Source page does not expose a best-deck embed for every legend row.",
+      "Source article exposes 17 embedded best-of-legend decks across 28 legend rows; some legend rows do not include a linked list.",
+      "Official Riot recap includes inline decklists for Best-Of decks and Top 8 finishers.",
+      "Official Riot recap parsed and used as the primary source for event coverage and decklists."
+    ],
+    "legends": [
+      {
+        "legendSlug": "garen",
+        "legendName": "Garen",
+        "section": "Other Legends",
+        "topFinishText": "#362",
+        "totalPicksPct": 0.6,
+        "totalPicksCount": 8,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": null,
+        "conversionCount": 0,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 51.9,
+        "matchCount": 56,
+        "bestDeckSlugs": [
+          "best-of-garen-vegas"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 5-3",
+          "Total Picks: 0.6% - 8 Decks",
+          "Conversion Rate into Day 2 : 0 Decks",
+          "Win Rate without Mirror matches : 51.9% over 56 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-garen-vegas",
+            "title": "Best of Garen Vegas",
+            "legendSlug": "garen",
+            "legendName": "Garen",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#362",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-garen-vegas",
+            "views": 7576,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "lee-sin",
+        "legendName": "Lee Sin",
+        "section": "Other Legends",
+        "topFinishText": "#324",
+        "totalPicksPct": 1.3,
+        "totalPicksCount": 18,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": null,
+        "conversionCount": 0,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 41,
+        "matchCount": 101,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-lee-sin-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 5-3",
+          "Total Picks: 1.3% - 18 Decks",
+          "Conversion Rate into Day 2 : 0 Decks",
+          "Win Rate without Mirror matches : 41% over 101 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-lee-sin-official-best-of",
+            "title": "Lee Sin by Silverman",
+            "legendSlug": "lee-sin",
+            "legendName": "Lee Sin",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#324",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "rumble",
+        "legendName": "Rumble",
+        "section": "Other Legends",
+        "topFinishText": "#268",
+        "totalPicksPct": 2.5,
+        "totalPicksCount": 35,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": null,
+        "conversionCount": 0,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 41.6,
+        "matchCount": 182,
+        "bestDeckSlugs": [
+          "best-of-rumble-vegas"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 5-2-1",
+          "Total Picks: 2.5% - 35 Decks",
+          "Conversion Rate into Day 2 : 0 Decks",
+          "Win Rate without Mirror matches : 41.6% over 182 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-rumble-vegas",
+            "title": "Best of Rumble Vegas",
+            "legendSlug": "rumble",
+            "legendName": "Rumble",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#268",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-rumble-vegas",
+            "views": 8102,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "leona",
+        "legendName": "Leona",
+        "section": "Other Legends",
+        "topFinishText": "#263",
+        "totalPicksPct": 2.5,
+        "totalPicksCount": 35,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": null,
+        "conversionCount": 0,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 40.2,
+        "matchCount": 177,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-leona-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 5-2-1",
+          "Total Picks: 2.5% - 35 Decks",
+          "Conversion Rate into Day 2 : 0 Decks",
+          "Win Rate without Mirror matches : 40.2% over 177 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-leona-official-best-of",
+            "title": "Leona by Lafinte",
+            "legendSlug": "leona",
+            "legendName": "Leona",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#263",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "renata-glasc",
+        "legendName": "Renata Glasc",
+        "section": "Other Legends",
+        "topFinishText": "#218",
+        "totalPicksPct": 3,
+        "totalPicksCount": 42,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 0.4,
+        "conversionCount": 1,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 31.6,
+        "matchCount": 192,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-renata-glasc-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 6-3-1",
+          "Total Picks: 3% - 42 Decks",
+          "Conversion Rate into Day 2 : 2.4% - 1 Decks",
+          "Win Rate without Mirror matches : 31.6% over 192 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-renata-glasc-official-best-of",
+            "title": "Renata Glasc by Ryujin Shin",
+            "legendSlug": "renata-glasc",
+            "legendName": "Renata Glasc",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#218",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "yasuo",
+        "legendName": "Yasuo",
+        "section": "Other Legends",
+        "topFinishText": "#178",
+        "totalPicksPct": 2.5,
+        "totalPicksCount": 36,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 0.4,
+        "conversionCount": 1,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 38.3,
+        "matchCount": 203,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-yasuo-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 7-6",
+          "Total Picks: 2.5% - 36 Decks",
+          "Conversion Rate into Day 2 : 2.9 % - 1 Decks",
+          "Win Rate without Mirror matches : 38.3% over 203 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-yasuo-official-best-of",
+            "title": "Yasuo by GentleGiant",
+            "legendSlug": "yasuo",
+            "legendName": "Yasuo",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#178",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "miss-fortune",
+        "legendName": "Miss Fortune",
+        "section": "Other Legends",
+        "topFinishText": "#134",
+        "totalPicksPct": 2.8,
+        "totalPicksCount": 40,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 0.9,
+        "conversionCount": 2,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 37.8,
+        "matchCount": 198,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-miss-fortune-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 8-5",
+          "Total Picks: 2.8% - 40 Decks",
+          "Conversion Rate into Day 2 : 5% - 2 Decks",
+          "Win Rate without Mirror matches : 37.8% over 198 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-miss-fortune-official-best-of",
+            "title": "Miss Fortune by sly",
+            "legendSlug": "miss-fortune",
+            "legendName": "Miss Fortune",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#134",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "sett",
+        "legendName": "Sett",
+        "section": "Other Legends",
+        "topFinishText": "#117",
+        "totalPicksPct": 1.6,
+        "totalPicksCount": 22,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.7,
+        "conversionCount": 4,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 55.2,
+        "matchCount": 165,
+        "bestDeckSlugs": [
+          "best-sett-from-vegas"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 9-4",
+          "Total Picks: 1.6% - 22 Decks",
+          "Conversion Rate into Day 2 : 18% - 4 Decks",
+          "Win Rate without Mirror matches : 55.2% over 165 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-sett-from-vegas",
+            "title": "Best Sett From Vegas",
+            "legendSlug": "sett",
+            "legendName": "Sett",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#117",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-sett-from-vegas",
+            "views": 7321,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "darius",
+        "legendName": "Darius",
+        "section": "Other Legends",
+        "topFinishText": "#112",
+        "totalPicksPct": 1.3,
+        "totalPicksCount": 19,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 0.9,
+        "conversionCount": 2,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 54.5,
+        "matchCount": 138,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-darius-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 9-4",
+          "Total Picks: 1.3% - 19 Decks",
+          "Conversion Rate into Day 2 : 10.5% - 2 Decks",
+          "Win Rate without Mirror matches : 54.5% over 138 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-darius-official-best-of",
+            "title": "Darius by carryboy denni",
+            "legendSlug": "darius",
+            "legendName": "Darius",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#112",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "volibear",
+        "legendName": "Volibear",
+        "section": "Other Legends",
+        "topFinishText": "#87",
+        "totalPicksPct": 1.1,
+        "totalPicksCount": 15,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 0.9,
+        "conversionCount": 2,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 46.6,
+        "matchCount": 92,
+        "bestDeckSlugs": [
+          "best-of-volibear-vegas"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 9-4",
+          "Total Picks: 1.1% - 15 Decks",
+          "Conversion Rate into Day 2 : 12.5% - 2 Decks",
+          "Win Rate without Mirror matches : 46.6% over 92 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-volibear-vegas",
+            "title": "Best of Volibear Vegas",
+            "legendSlug": "volibear",
+            "legendName": "Volibear",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#87",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-volibear-vegas",
+            "views": 7596,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "ahri",
+        "legendName": "Ahri",
+        "section": "Other Legends",
+        "topFinishText": "#77",
+        "totalPicksPct": 3,
+        "totalPicksCount": 42,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.7,
+        "conversionCount": 4,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 46.8,
+        "matchCount": 223,
+        "bestDeckSlugs": [
+          "best-ahri-from-vegas"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 9-4",
+          "Total Picks: 3% - 42 Decks",
+          "Conversion Rate into Day 2 : 9.5% - 4 Decks",
+          "Win Rate without Mirror matches : 46.8% over 223 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-ahri-from-vegas",
+            "title": "Best Ahri from Vegas",
+            "legendSlug": "ahri",
+            "legendName": "Ahri",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#77",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ahri-from-vegas",
+            "views": 7246,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "fiora",
+        "legendName": "Fiora",
+        "section": "Other Legends",
+        "topFinishText": "#70",
+        "totalPicksPct": 3.5,
+        "totalPicksCount": 50,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.3,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 42.7,
+        "matchCount": 258,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-fiora-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 9-3-1",
+          "Total Picks: 3.5% - 50 Decks",
+          "Conversion Rate into Day 2 : 6% - 3 Decks",
+          "Win Rate without Mirror matches : 42.7% over 258 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-fiora-official-best-of",
+            "title": "Fiora by his depression",
+            "legendSlug": "fiora",
+            "legendName": "Fiora",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#70",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "annie",
+        "legendName": "Annie",
+        "section": "Other Legends",
+        "topFinishText": "#69",
+        "totalPicksPct": 2.2,
+        "totalPicksCount": 31,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.3,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 48,
+        "matchCount": 204,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-annie-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 9-3-1",
+          "Total Picks: 2.2% - 31 Decks",
+          "Conversion Rate into Day 2 : 9.7% - 3 Decks",
+          "Win Rate without Mirror matches : 48% over 204 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-annie-official-best-of",
+            "title": "Annie by Kenkou",
+            "legendSlug": "annie",
+            "legendName": "Annie",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#69",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "lux",
+        "legendName": "Lux",
+        "section": "Other Legends",
+        "topFinishText": "#67",
+        "totalPicksPct": 3.2,
+        "totalPicksCount": 45,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.3,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 43.4,
+        "matchCount": 227,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-lux-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 9-3-1",
+          "Total Picks: 3.2% - 45 Decks",
+          "Conversion Rate into Day 2 : 6.7% - 3 Decks",
+          "Win Rate without Mirror matches : 43.4% over 227 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-lux-official-best-of",
+            "title": "Lux by Vekx3r",
+            "legendSlug": "lux",
+            "legendName": "Lux",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "#67",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "teemo",
+        "legendName": "Teemo",
+        "section": "Other Legends",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 2.3,
+        "totalPicksCount": 32,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.3,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 44.7,
+        "matchCount": 181,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-teemo-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 9-3-1",
+          "Total Picks: 2.3% - 32 Decks",
+          "Conversion Rate into Day 2 : 9.4% - 3 Decks",
+          "Win Rate without Mirror matches : 44.7% over 181 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-teemo-official-best-of",
+            "title": "Teemo by FLY T1 LS",
+            "legendSlug": "teemo",
+            "legendName": "Teemo",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "lucian",
+        "legendName": "Lucian",
+        "section": "Other Legends",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 3.6,
+        "totalPicksCount": 51,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 3.4,
+        "conversionCount": 8,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 49.2,
+        "matchCount": 313,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-lucian-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 10-3",
+          "Total Picks: 3.6% - 51 Decks",
+          "Conversion Rate into Day 2 : 15.7% - 8 Decks",
+          "Win Rate without Mirror matches : 49.2% over 313 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-lucian-official-best-of",
+            "title": "Lucian by DaemonXGG",
+            "legendSlug": "lucian",
+            "legendName": "Lucian",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "ornn",
+        "legendName": "Ornn",
+        "section": "Other Legends",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 3.7,
+        "totalPicksCount": 52,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.3,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 44,
+        "matchCount": 291,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-ornn-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player:",
+          "Total Picks: 3.7 % - 52 Decks",
+          "Conversion Rate into Day 2 : 5.8% - 3 Decks",
+          "Win Rate without Mirror matches : 44% over 291 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-ornn-official-best-of",
+            "title": "Ornn by lunasky",
+            "legendSlug": "ornn",
+            "legendName": "Ornn",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "reksai",
+        "legendName": "Rek'Sai",
+        "section": "Other Legends",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 3.1,
+        "totalPicksCount": 44,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 5.1,
+        "conversionCount": 12,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 51.5,
+        "matchCount": 298,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-reksai-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 10-3",
+          "Total Picks: 3.1% - 44 Decks",
+          "Conversion Rate into Day 2 : 27.3% - 12 Decks",
+          "Win Rate without Mirror matches : 51.5% over 298 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-reksai-official-best-of",
+            "title": "Rek'Sai by Vouz",
+            "legendSlug": "reksai",
+            "legendName": "Rek'Sai",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "jinx",
+        "legendName": "Jinx",
+        "section": "Other Legends",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 2.3,
+        "totalPicksCount": 33,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 0.9,
+        "conversionCount": 2,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 40.6,
+        "matchCount": 165,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-jinx-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 10-3",
+          "Total Picks: 2.3% - 33 Decks",
+          "Conversion Rate into Day 2 : 6.1% - 2 Decks",
+          "Win Rate without Mirror matches : 40.6% over 165 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-jinx-official-best-of",
+            "title": "Jinx by Eric",
+            "legendSlug": "jinx",
+            "legendName": "Jinx",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "master-yi",
+        "legendName": "Master Yi",
+        "section": "Other Legends",
+        "topFinishText": "Top 32",
+        "totalPicksPct": 2.2,
+        "totalPicksCount": 31,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 3.4,
+        "conversionCount": 8,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 54.3,
+        "matchCount": 210,
+        "bestDeckSlugs": [
+          "best-of-master-yi-vegas"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 10-3",
+          "Total Picks: 2.2% - 31 Decks",
+          "Conversion Rate into Day 2 : 25.8% - 8 Decks",
+          "Win Rate without Mirror matches : 54.3% over 210 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-master-yi-vegas",
+            "title": "Best of Master Yi Vegas",
+            "legendSlug": "master-yi",
+            "legendName": "Master Yi",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 32",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-master-yi-vegas",
+            "views": 7756,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "viktor",
+        "legendName": "Viktor",
+        "section": "Other Legends",
+        "topFinishText": "Top 32",
+        "totalPicksPct": 4.7,
+        "totalPicksCount": 67,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 5.1,
+        "conversionCount": 12,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 50.3,
+        "matchCount": 384,
+        "bestDeckSlugs": [
+          "best-of-viktor-from-vegas"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 10-2-1",
+          "Total Picks: 4.7% - 67 Decks",
+          "Conversion Rate into Day 2 : 17.9% - 12 Decks",
+          "Win Rate without Mirror matches : 50.3% over 384 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-viktor-from-vegas",
+            "title": "Best of Viktor From Vegas",
+            "legendSlug": "viktor",
+            "legendName": "Viktor",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 32",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-viktor-from-vegas",
+            "views": 7769,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "azir",
+        "legendName": "Azir",
+        "section": "Other Legends",
+        "topFinishText": "Top 16",
+        "totalPicksPct": 3.6,
+        "totalPicksCount": 51,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 3.8,
+        "conversionCount": 9,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 48.6,
+        "matchCount": 294,
+        "bestDeckSlugs": [
+          "best-azir-from-vegas"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 11-2",
+          "Total Picks: 3.6% - 51 Decks",
+          "Conversion Rate into Day 2 : 17.6% - 9 Decks",
+          "Win Rate without Mirror matches : 48.6% over 294 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-azir-from-vegas",
+            "title": "Best Azir From Vegas",
+            "legendSlug": "azir",
+            "legendName": "Azir",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 16",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-azir-from-vegas",
+            "views": 7256,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "kaisa",
+        "legendName": "Kai'Sa",
+        "section": "Other Legends",
+        "topFinishText": "Top 16",
+        "totalPicksPct": 6.9,
+        "totalPicksCount": 97,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 8.9,
+        "conversionCount": 21,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 49.9,
+        "matchCount": 569,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-kaisa-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 11-2",
+          "Total Picks: 6.9% - 97 Decks",
+          "Conversion Rate into Day 2 : 21.6% - 21 Decks",
+          "Win Rate without Mirror matches : 49.9% over 569 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-kaisa-official-best-of",
+            "title": "Kai'Sa by aggresia",
+            "legendSlug": "kaisa",
+            "legendName": "Kai'Sa",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 16",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "sivir",
+        "legendName": "Sivir",
+        "section": "Other Legends",
+        "topFinishText": "Top 16",
+        "totalPicksPct": 3.9,
+        "totalPicksCount": 55,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 2.1,
+        "conversionCount": 5,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 47.6,
+        "matchCount": 274,
+        "bestDeckSlugs": [
+          "vegas-regional-qualifier-sivir-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 11-2",
+          "Total Picks: 3.7% - 55 Decks",
+          "Conversion Rate into Day 2 : 9.1% - 5 Decks",
+          "Win Rate without Mirror matches : 47.6% over 274 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "vegas-regional-qualifier-sivir-official-best-of",
+            "title": "Sivir by NoVeggies",
+            "legendSlug": "sivir",
+            "legendName": "Sivir",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 16",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 5
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "ezreal",
+        "legendName": "Ezreal",
+        "section": "Top 8 Legends",
+        "topFinishText": "Top 8",
+        "totalPicksPct": 5.2,
+        "totalPicksCount": 74,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 4.7,
+        "conversionCount": 11,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 49.2,
+        "matchCount": 417,
+        "bestDeckSlugs": [
+          "best-ezreal-from-vegas-t8"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 8",
+          "Total Picks: 5.2% - 74 Decks",
+          "Conversion Rate into Day 2 : 14.9% - 11 Decks",
+          "Win Rate without Mirror matches : 49.2% over 417 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-ezreal-from-vegas-t8",
+            "title": "Best Ezreal From Vegas (T8)",
+            "legendSlug": "ezreal",
+            "legendName": "Ezreal",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 8",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ezreal-from-vegas-t8",
+            "views": 13828,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "jax",
+        "legendName": "Jax",
+        "section": "Top 8 Legends",
+        "topFinishText": "Top 8",
+        "totalPicksPct": 3.1,
+        "totalPicksCount": 44,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.3,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 43.9,
+        "matchCount": 249,
+        "bestDeckSlugs": [
+          "best-jax-from-vegas-top-8"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 8",
+          "Total Picks: 3.1% - 44 Decks",
+          "Conversion Rate into Day 2 : 6.8% - 3 Decks",
+          "Win Rate without Mirror matches : 43.9% over 249 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-jax-from-vegas-top-8",
+            "title": "Best Jax from Vegas (Top 8)",
+            "legendSlug": "jax",
+            "legendName": "Jax",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 8",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-jax-from-vegas-top-8",
+            "views": 13057,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "irelia",
+        "legendName": "Irelia",
+        "section": "Top 8 Legends",
+        "topFinishText": "Top 8",
+        "totalPicksPct": 9.3,
+        "totalPicksCount": 132,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 14,
+        "conversionCount": 33,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 54.8,
+        "matchCount": 805,
+        "bestDeckSlugs": [
+          "best-irelia-from-vegas"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player:",
+          "Total Picks: 9.3% - 132 Decks",
+          "Conversion Rate into Day 2 : 25% - 33 Decks",
+          "Win Rate without Mirror matches : 54.8% over 805 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-irelia-from-vegas",
+            "title": "Best Irelia from Vegas",
+            "legendSlug": "irelia",
+            "legendName": "Irelia",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Top 8",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-irelia-from-vegas",
+            "views": 16446,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "draven",
+        "legendName": "Draven",
+        "section": "Top 8 Legends",
+        "topFinishText": "Winner",
+        "totalPicksPct": 15.2,
+        "totalPicksCount": 216,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 34,
+        "conversionCount": 80,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 64.3,
+        "matchCount": 1244,
+        "bestDeckSlugs": [
+          "midrange-draven-wins-vegas"
+        ],
+        "trustedSecondaryDeckSlugs": [
+          "miracle-draven-runner-up-in-vegas",
+          "top-4-miracle-draven-in-vegas",
+          "midrange-draven-top-4-vegas",
+          "miracle-draven-top-8-vegas"
+        ],
+        "rawStats": [
+          "Top Ranked Player: Winner",
+          "Total Picks: 15.2% - 216 Decks",
+          "Conversion Rate into Day 2 : 37% - 80 Decks",
+          "Win Rate without Mirror matches : 64.3% over 1244 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "midrange-draven-wins-vegas",
+            "title": "Midrange Draven wins Vegas",
+            "legendSlug": "draven",
+            "legendName": "Draven",
+            "eventSlug": "vegas-regional-qualifier",
+            "placementText": "Winner",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=midrange-draven-wins-vegas",
+            "views": 15726,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      }
+    ],
+    "decks": [
+      {
+        "slug": "best-ahri-from-vegas",
+        "title": "Best Ahri from Vegas",
+        "legendSlug": "ahri",
+        "legendName": "Ahri",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#77",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ahri-from-vegas",
+        "views": 7246,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-azir-from-vegas",
+        "title": "Best Azir From Vegas",
+        "legendSlug": "azir",
+        "legendName": "Azir",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 16",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-azir-from-vegas",
+        "views": 7256,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-ezreal-from-vegas-t8",
+        "title": "Best Ezreal From Vegas (T8)",
+        "legendSlug": "ezreal",
+        "legendName": "Ezreal",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 8",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ezreal-from-vegas-t8",
+        "views": 13828,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-irelia-from-vegas",
+        "title": "Best Irelia from Vegas",
+        "legendSlug": "irelia",
+        "legendName": "Irelia",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 8",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-irelia-from-vegas",
+        "views": 16446,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-jax-from-vegas-top-8",
+        "title": "Best Jax from Vegas (Top 8)",
+        "legendSlug": "jax",
+        "legendName": "Jax",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 8",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-jax-from-vegas-top-8",
+        "views": 13057,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-garen-vegas",
+        "title": "Best of Garen Vegas",
+        "legendSlug": "garen",
+        "legendName": "Garen",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#362",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-garen-vegas",
+        "views": 7576,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-master-yi-vegas",
+        "title": "Best of Master Yi Vegas",
+        "legendSlug": "master-yi",
+        "legendName": "Master Yi",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 32",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-master-yi-vegas",
+        "views": 7756,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-rumble-vegas",
+        "title": "Best of Rumble Vegas",
+        "legendSlug": "rumble",
+        "legendName": "Rumble",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#268",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-rumble-vegas",
+        "views": 8102,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-viktor-from-vegas",
+        "title": "Best of Viktor From Vegas",
+        "legendSlug": "viktor",
+        "legendName": "Viktor",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 32",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-viktor-from-vegas",
+        "views": 7769,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-volibear-vegas",
+        "title": "Best of Volibear Vegas",
+        "legendSlug": "volibear",
+        "legendName": "Volibear",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#87",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-volibear-vegas",
+        "views": 7596,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-sett-from-vegas",
+        "title": "Best Sett From Vegas",
+        "legendSlug": "sett",
+        "legendName": "Sett",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#117",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-sett-from-vegas",
+        "views": 7321,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "midrange-draven-wins-vegas",
+        "title": "Midrange Draven wins Vegas",
+        "legendSlug": "draven",
+        "legendName": "Draven",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Winner",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=midrange-draven-wins-vegas",
+        "views": 15726,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-annie-official-best-of",
+        "title": "Annie by Kenkou",
+        "legendSlug": "annie",
+        "legendName": "Annie",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#69",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-darius-official-best-of",
+        "title": "Darius by carryboy denni",
+        "legendSlug": "darius",
+        "legendName": "Darius",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#112",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-fiora-official-best-of",
+        "title": "Fiora by his depression",
+        "legendSlug": "fiora",
+        "legendName": "Fiora",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#70",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-jinx-official-best-of",
+        "title": "Jinx by Eric",
+        "legendSlug": "jinx",
+        "legendName": "Jinx",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-kaisa-official-best-of",
+        "title": "Kai'Sa by aggresia",
+        "legendSlug": "kaisa",
+        "legendName": "Kai'Sa",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 16",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-lee-sin-official-best-of",
+        "title": "Lee Sin by Silverman",
+        "legendSlug": "lee-sin",
+        "legendName": "Lee Sin",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#324",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-leona-official-best-of",
+        "title": "Leona by Lafinte",
+        "legendSlug": "leona",
+        "legendName": "Leona",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#263",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-lucian-official-best-of",
+        "title": "Lucian by DaemonXGG",
+        "legendSlug": "lucian",
+        "legendName": "Lucian",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-lux-official-best-of",
+        "title": "Lux by Vekx3r",
+        "legendSlug": "lux",
+        "legendName": "Lux",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#67",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-miss-fortune-official-best-of",
+        "title": "Miss Fortune by sly",
+        "legendSlug": "miss-fortune",
+        "legendName": "Miss Fortune",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#134",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-ornn-official-best-of",
+        "title": "Ornn by lunasky",
+        "legendSlug": "ornn",
+        "legendName": "Ornn",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-reksai-official-best-of",
+        "title": "Rek'Sai by Vouz",
+        "legendSlug": "reksai",
+        "legendName": "Rek'Sai",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-renata-glasc-official-best-of",
+        "title": "Renata Glasc by Ryujin Shin",
+        "legendSlug": "renata-glasc",
+        "legendName": "Renata Glasc",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#218",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-sivir-official-best-of",
+        "title": "Sivir by NoVeggies",
+        "legendSlug": "sivir",
+        "legendName": "Sivir",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 16",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 5
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-teemo-official-best-of",
+        "title": "Teemo by FLY T1 LS",
+        "legendSlug": "teemo",
+        "legendName": "Teemo",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "vegas-regional-qualifier-yasuo-official-best-of",
+        "title": "Yasuo by GentleGiant",
+        "legendSlug": "yasuo",
+        "legendName": "Yasuo",
+        "eventSlug": "vegas-regional-qualifier",
+        "placementText": "#178",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      }
+    ]
+  }
+}

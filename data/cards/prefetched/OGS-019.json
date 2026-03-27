@@ -1,0 +1,42 @@
+{
+  "id": "card_snapshot.OGS-019",
+  "type": "card_snapshot",
+  "title": "Master Yi - Wuju Bladesman - Starter",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/master-yi-rank-2-deck-national-open-shanghai.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGS-019",
+    "name": "Master Yi - Wuju Bladesman - Starter",
+    "riftbound_id": "OGS-019",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Calm",
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "While a friendly unit defends alone, it gets +2 :rb_might:.",
+      "plain": "While a friendly unit defends alone, it gets +2 :rb_might:."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGS-019.webp"
+    },
+    "slug": "ogs-019-master-yi-wuju-bladesman"
+  }
+}

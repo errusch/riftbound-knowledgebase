@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-116",
+  "type": "card_snapshot",
+  "title": "Thousand-Tailed Watcher",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ahri-from-bologna-ngb9v.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-116",
+    "name": "Thousand-Tailed Watcher",
+    "riftbound_id": "OGN-116",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 7,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_mind: as an additional cost to have me enter ready.)\nWhen you play me, give enemy units -3 :rb_might: this turn, to a minimum of 1 :rb_might:.",
+      "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_mind: as an additional cost to have me enter ready.)\nWhen you play me, give enemy units -3 :rb_might: this turn, to a minimum of 1 :rb_might:."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-116.webp"
+    },
+    "slug": "ogn-116-thousand-tailed-watcher"
+  }
+}

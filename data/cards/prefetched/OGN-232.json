@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-232",
+  "type": "card_snapshot",
+  "title": "Fiora - Victorious",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-fiora-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-232",
+    "name": "Fiora - Victorious",
+    "riftbound_id": "OGN-232",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "While I'm [Mighty], I have [Deflect], [Ganking], and [Shield]. (I'm Mighty while I have 5+ :rb_might:.)",
+      "plain": "While I'm [Mighty], I have [Deflect], [Ganking], and [Shield]. (I'm Mighty while I have 5+ :rb_might:.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-232.webp"
+    },
+    "slug": "ogn-232-fiora-victorious"
+  }
+}

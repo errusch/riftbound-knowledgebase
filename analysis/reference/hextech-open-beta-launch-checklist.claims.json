@@ -1,0 +1,38 @@
+[
+  {
+    "excerpt": "This is the operator checklist for turning the Hextech Open beta landing page into a live signup funnel that can handle real interest without breaking.",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "- `RESEND_API_KEY` - `TOURNAMENT_SIGNUP_AUDIENCE_ID` **or** `RESEND_AUDIENCE_ID` - `TOURNAMENT_SIGNUP_NOTIFY_EMAIL` *(recommended)*",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "Why these matter: - Without `RESEND_API_KEY` plus an audience id, production signup requests return `503` by design.",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "For each signup: 1. Check timezone overlap and rough event-slot fit. 2. Check whether the buy-in expectation matches the planned prize support. 3. Confirm whether the player looks like a good fit for the beta event. 4. F",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  }
+]

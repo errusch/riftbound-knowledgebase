@@ -1,0 +1,186 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import json
+import re
+import subprocess
+import sys
+import tempfile
+from pathlib import Path
+
+SCRIPT_ROOT = Path(__file__).resolve().parents[2]
+if str(SCRIPT_ROOT) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_ROOT))
+
+from scripts.lib.kb_common import ROOT, detect_conflicts, detect_entities, extract_claims, now_iso, rebuild_indexes, require_command, write_json, write_markdown
+
+
+DEFAULT_BROWSER = "brave"
+
+
+def run_yt_dlp(args: list[str]) -> subprocess.CompletedProcess[str]:
+    return subprocess.run(["yt-dlp", *args], text=True, capture_output=True, check=False)
+
+
+def clean_vtt(text: str) -> str:
+    blocks = []
+    for line in text.splitlines():
+        if "-->" in line or line.startswith(("WEBVTT", "Kind:", "Language:")):
+            continue
+        if not line.strip():
+            continue
+        line = re.sub(r"<\d{2}:\d{2}:\d{2}\.\d{3}>", "", line)
+        line = re.sub(r"</?c>", "", line)
+        line = re.sub(r"<[^>]+>", "", line)
+        blocks.append(line.strip())
+    deduped = []
+    for line in blocks:
+        if not deduped or line != deduped[-1]:
+            deduped.append(line)
+    joined = re.sub(r"\s+", " ", " ".join(deduped)).strip()
+    return joined
+
+
+def review_body(metadata: dict, cleaned: str, claims: list[dict], entities: dict[str, list[str]], transcript_quality: list[str], conflicts: list[dict]) -> str:
+    summary = cleaned[:800].strip()
+    body = [
+        "## Summary",
+        summary if summary else "_Transcript cleaning did not produce readable prose._",
+        "",
+        "## Key Claims",
+    ]
+    if claims:
+        body.extend(f"- {claim['excerpt']}" for claim in claims[:10])
+    else:
+        body.append("- _No high-signal claims were extracted automatically._")
+    body.extend(
+        [
+            "",
+            "## Detected Entities",
+            f"- Concepts: {', '.join(entities['concepts']) or 'none detected'}",
+            f"- Battlefields: {', '.join(entities['battlefields']) or 'none detected'}",
+            f"- Legends: {', '.join(entities['legends']) or 'none detected'}",
+            "",
+            "## Transcript Quality",
+            *[f"- {item}" for item in transcript_quality],
+        ]
+    )
+    if conflicts:
+        body.extend(["", "## Conflict Flags", *[f"- `{item['id']}`: {item['message']}" for item in conflicts]])
+    body.extend(
+        [
+            "",
+            "## Source Metadata",
+            f"- Title: {metadata.get('title', 'unknown')}",
+            f"- Channel: {metadata.get('channel', 'unknown')}",
+            f"- Published: {metadata.get('upload_date', 'unknown')}",
+            f"- Duration: {metadata.get('duration_string', 'unknown')}",
+            f"- URL: {metadata.get('webpage_url') or metadata.get('original_url')}",
+        ]
+    )
+    return "\n".join(body)
+
+
+def main() -> None:
+    if len(sys.argv) != 2:
+        raise SystemExit("Usage: scripts/import/import_vod <youtube-url>")
+
+    require_command("yt-dlp")
+    url = sys.argv[1]
+    tmpdir = Path(tempfile.mkdtemp(prefix="riftbound-vod-"))
+
+    info_result = run_yt_dlp(["--cookies-from-browser", DEFAULT_BROWSER, "--dump-single-json", "--skip-download", url])
+    if info_result.returncode != 0:
+        raise SystemExit(info_result.stderr.strip() or info_result.stdout.strip())
+    metadata = json.loads(info_result.stdout)
+    video_id = metadata["id"]
+
+    subs_result = run_yt_dlp(
+        [
+            "--cookies-from-browser",
+            DEFAULT_BROWSER,
+            "--write-auto-subs",
+            "--sub-langs",
+            "en-orig",
+            "--sub-format",
+            "vtt",
+            "--skip-download",
+            "-o",
+            "%(id)s.%(ext)s",
+            "-P",
+            str(tmpdir),
+            url,
+        ]
+    )
+    if subs_result.returncode != 0:
+        raise SystemExit(subs_result.stderr.strip() or subs_result.stdout.strip())
+
+    raw_caption_path = tmpdir / f"{video_id}.en-orig.vtt"
+    if not raw_caption_path.exists():
+        raise SystemExit(f"Expected caption file was not created: {raw_caption_path}")
+
+    raw_vtt = raw_caption_path.read_text(encoding="utf-8")
+    cleaned = clean_vtt(raw_vtt)
+    entities = detect_entities(cleaned)
+    claims = extract_claims(cleaned)
+    conflicts = detect_conflicts(cleaned)
+    quality_flags = [
+        "Transcript source is YouTube auto-captions (`en-orig`).",
+        "Import depends on `yt-dlp` plus browser cookies from Brave.",
+    ]
+    if " Riff founders" in cleaned or "rift founders" in cleaned.lower():
+        quality_flags.append("Auto-caption noise detected in opening lines.")
+
+    out_root = ROOT / "analysis" / "videos" / video_id
+    out_root.mkdir(parents=True, exist_ok=True)
+
+    meta_payload = {
+        "id": f"analysis.video.{video_id}",
+        "type": "analysis_note",
+        "title": metadata.get("title", video_id),
+        "source_kind": "youtube_vod_auto_caption",
+        "source_path": url,
+        "source_date": metadata.get("upload_date", "unknown"),
+        "trust_level": "derived_unverified" if not conflicts else "conflicted",
+        "status": "draft",
+        "tags": ["video", metadata.get("channel", "unknown"), video_id],
+        "video_id": video_id,
+        "channel": metadata.get("channel"),
+        "uploader": metadata.get("uploader"),
+        "duration_string": metadata.get("duration_string"),
+        "webpage_url": metadata.get("webpage_url") or url,
+        "transcript_type": "auto_caption_en_orig",
+        "imported_at": now_iso(),
+    }
+    write_json(out_root / "metadata.json", meta_payload)
+    (out_root / "captions.raw.vtt").write_text(raw_vtt, encoding="utf-8")
+    transcript_meta = {
+        "id": f"analysis.video_transcript.{video_id}",
+        "type": "analysis_note",
+        "title": f"{metadata.get('title', video_id)} Transcript",
+        "source_kind": "youtube_vod_auto_caption",
+        "source_path": url,
+        "source_date": metadata.get("upload_date", "unknown"),
+        "trust_level": meta_payload["trust_level"],
+        "status": "draft",
+        "tags": ["video", "transcript", video_id],
+    }
+    write_markdown(out_root / "transcript.cleaned.md", transcript_meta, cleaned or "_Transcript cleaning produced no output._")
+    write_json(out_root / "claims.json", claims)
+    review_meta = {
+        "id": f"analysis.video_review.{video_id}",
+        "type": "analysis_note",
+        "title": f"{metadata.get('title', video_id)} Review",
+        "source_kind": "youtube_vod_review",
+        "source_path": url,
+        "source_date": metadata.get("upload_date", "unknown"),
+        "trust_level": meta_payload["trust_level"],
+        "status": "draft",
+        "tags": ["video", "review", video_id],
+    }
+    write_markdown(out_root / "review.md", review_meta, review_body(metadata, cleaned, claims, entities, quality_flags, conflicts))
+    rebuild_indexes()
+
+
+if __name__ == "__main__":
+    main()

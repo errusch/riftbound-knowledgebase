@@ -1,0 +1,42 @@
+{
+  "id": "card_snapshot.SFD-202",
+  "type": "card_snapshot",
+  "title": "Hostile Takeover",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/bologna-regional-qualifier-renata-glasc-official-best-of.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-202",
+    "name": "Hostile Takeover",
+    "riftbound_id": "SFD-202",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Mind",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nTake control of an enemy unit at a battlefield. Ready it. (Start a combat if other enemies are there. Otherwise, conquer.)\nLose control of that unit and recall it at end of turn. (Send it to base. This isn't a move.)",
+      "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nTake control of an enemy unit at a battlefield. Ready it. (Start a combat if other enemies are there. Otherwise, conquer.)\nLose control of that unit and recall it at end of turn. (Send it to base. This isn't a move.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-202.webp"
+    },
+    "slug": "sfd-202-hostile-takeover"
+  }
+}

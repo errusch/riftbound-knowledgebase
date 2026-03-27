@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-220",
+  "type": "card_snapshot",
+  "title": "Treasure Hoard",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-viktor-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-220",
+    "name": "Treasure Hoard",
+    "riftbound_id": "SFD-220",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer here, you may pay :rb_energy_1: to play a Gold gear token exhausted.",
+      "plain": "When you conquer here, you may pay :rb_energy_1: to play a Gold gear token exhausted."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-220.webp"
+    },
+    "slug": "sfd-220-treasure-hoard"
+  }
+}

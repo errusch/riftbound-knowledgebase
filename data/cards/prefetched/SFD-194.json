@@ -1,0 +1,42 @@
+{
+  "id": "card_snapshot.SFD-194",
+  "type": "card_snapshot",
+  "title": "Counter Strike",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-jax-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-194",
+    "name": "Counter Strike",
+    "riftbound_id": "SFD-194",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Calm",
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nChoose a unit. The next time that unit would be dealt damage this turn, prevent it. Draw 1.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nChoose a unit. The next time that unit would be dealt damage this turn, prevent it. Draw 1."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-194.webp"
+    },
+    "slug": "sfd-194-counter-strike"
+  }
+}

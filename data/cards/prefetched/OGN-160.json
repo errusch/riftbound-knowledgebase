@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-160",
+  "type": "card_snapshot",
+  "title": "Dazzling Aurora",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-mf-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-160",
+    "name": "Dazzling Aurora",
+    "riftbound_id": "OGN-160",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 9,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "At the end of your turn, reveal cards from the top of your Main Deck until you reveal a unit and banish it. Play it, ignoring its cost, and recycle the rest.",
+      "plain": "At the end of your turn, reveal cards from the top of your Main Deck until you reveal a unit and banish it. Play it, ignoring its cost, and recycle the rest."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-160.webp"
+    },
+    "slug": "ogn-160-dazzling-aurora"
+  }
+}

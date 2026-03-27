@@ -1,0 +1,92 @@
+[
+  {
+    "excerpt": "The Hextech Analytics price monitoring system tracks market price changes for Riftbound cards and generates actionable alerts for traders and collectors.",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "``` \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u2502 fetch-prices.mjs \u2502 Fetches current prices from TCGPlayer \u2502 (run: daily cron) \u2502 \u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518 \u2502 \u251c\u2500 BEFORE FETCH: Rotate prices.json \u2192 prices-previous.json \u2514\u2500 AFTER FETCH: Save new prices \u2192 prices.json",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u2502 price-alerts.mjs \u2502 Compares current vs previous prices \u2502 (run: after fetch) \u2502 \u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518 \u2502 \u2514\u2500 OUTPUT: price-alerts.json (market movers summary)",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u2502 PriceMovers UI \u2502 React component displays alerts \u2502 (Next.js page) \u2502 \u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518 ```",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "**Structure:** ```json { \"lastUpdated\": \"2024-02-10T12:00:00Z\", \"cards\": { \"123456\": { \"name\": \"Arcane Bolt\", \"set\": \"foundations\", \"rarity\": \"rare\", \"normal\": { \"marketPrice\": 18.15, \"listedMedianPrice\": 17.99, \"buylistMarketPrice\": 12.50 }, \"foil\": { ...",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "**Structure:** ```json { \"generated\": \"2024-02-10T12:05:00Z\", \"comparisonPeriod\": { \"current\": \"2024-02-10T12:00:00Z\", \"previous\": \"2024-02-09T12:00:00Z\" }, \"alerts\": { \"topGainers\": [...], // Top 10 price increases \"topLosers\": [...], // Top 10 price decreases \"extremeMovers\": [",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "**Usage:** ```bash # Full fetch (all cards) node scripts/fetch-prices.mjs",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "**What it does:** 1. **Rotates prices** (copies `prices.json` \u2192 `prices-previous.json`) 2. Fetches all cards from Riftcodex API 3. Filters cards with TCGPlayer IDs 4. Fetches price data from TCGPlayer (with retry logic)",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "**Rate Limiting:** - Exponential backoff: 1s \u2192 30s max - Max retries: 5 per card - Batch size: 10 concurrent requests - 500ms delay between batches",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "**Output:** - `public/data/prices.json` - Full price dataset - `price-fetch-failures.json` - Log of failed fetches (if any)",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  }
+]

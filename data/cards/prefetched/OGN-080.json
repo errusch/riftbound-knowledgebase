@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-080",
+  "type": "card_snapshot",
+  "title": "Mystic Reversal",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-ahri-by-kale-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-080",
+    "name": "Mystic Reversal",
+    "riftbound_id": "OGN-080",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGain control of a spell. You may make new choices for it.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGain control of a spell. You may make new choices for it."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-080.webp"
+    },
+    "slug": "ogn-080-mystic-reversal"
+  }
+}

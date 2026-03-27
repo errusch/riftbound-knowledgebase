@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-082",
+  "type": "card_snapshot",
+  "title": "Whiteflame Protector",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-master-yi-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-082",
+    "name": "Whiteflame Protector",
+    "riftbound_id": "OGN-082",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 8,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, give a unit +8 :rb_might: this turn.",
+      "plain": "When you play me, give a unit +8 :rb_might: this turn."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-082.webp"
+    },
+    "slug": "ogn-082-whiteflame-protector"
+  }
+}

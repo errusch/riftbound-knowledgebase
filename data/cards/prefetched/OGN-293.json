@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-293",
+  "type": "card_snapshot",
+  "title": "The Grand Plaza",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/lux-by-ryan-best-of-lux-houston-regional-qualifiers.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-293",
+    "name": "The Grand Plaza",
+    "riftbound_id": "OGN-293",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you hold here, if you have 7+ units here, you win the game.",
+      "plain": "When you hold here, if you have 7+ units here, you win the game."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-293.webp"
+    },
+    "slug": "ogn-293-the-grand-plaza"
+  }
+}

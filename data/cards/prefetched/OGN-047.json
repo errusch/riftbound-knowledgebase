@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-047",
+  "type": "card_snapshot",
+  "title": "Find Your Center",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-master-yi-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-047",
+    "name": "Find Your Center",
+    "riftbound_id": "OGN-047",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)\nIf an opponent's score is within 3 points of the Victory Score, this costs :rb_energy_2: less.\nDraw 1 and channel 1 rune exhausted.",
+      "plain": "[Action] (Play on your turn or in showdowns.)\nIf an opponent's score is within 3 points of the Victory Score, this costs :rb_energy_2: less.\nDraw 1 and channel 1 rune exhausted."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-047.webp"
+    },
+    "slug": "ogn-047-find-your-center"
+  }
+}

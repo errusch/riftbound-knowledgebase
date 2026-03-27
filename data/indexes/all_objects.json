@@ -1,0 +1,509 @@
+[
+  {
+    "id": "canon.errata-set-1-origins",
+    "type": "canon_document",
+    "title": "Card Errata (Set 1 Origins)",
+    "source_kind": "official_local_file",
+    "source_path": "/Users/eric/claude-workspace/riftbound/rule-documents/[Official] Riftbound Rules - Card Errata (Set 1 Origins).txt",
+    "source_date": "unknown",
+    "trust_level": "official",
+    "status": "draft",
+    "tags": [
+      "errata",
+      "origins",
+      "official"
+    ],
+    "path": "canon/errata/card-errata-set-1-origins.md"
+  },
+  {
+    "id": "canon.core-rules-v1-2",
+    "type": "canon_document",
+    "title": "Riftbound Core Rules v1.2",
+    "source_kind": "official_local_file",
+    "source_path": "/Users/eric/claude-workspace/riftbound/rule-documents/[Official Document] Riftbound Rules - Core Rules (v1.2 - 2025-12-01).txt",
+    "source_date": "2025-12-01",
+    "trust_level": "official",
+    "status": "reviewed",
+    "tags": [
+      "rules",
+      "core",
+      "official"
+    ],
+    "path": "canon/rules/core-rules-v1-2.md"
+  },
+  {
+    "id": "canon.how-to-play-ogn-starter-guide",
+    "type": "canon_document",
+    "title": "How to Play (OGN Starter Guide)",
+    "source_kind": "official_local_file",
+    "source_path": "/Users/eric/claude-workspace/riftbound/rule-documents/[Official Document] How to Play (OGN Starter Guide).txt",
+    "source_date": "unknown",
+    "trust_level": "official",
+    "status": "reviewed",
+    "tags": [
+      "rules",
+      "starter-guide",
+      "official"
+    ],
+    "path": "canon/rules/how-to-play-ogn-starter-guide.md"
+  },
+  {
+    "id": "canon.tournament-rules-2025-10-16",
+    "type": "canon_document",
+    "title": "Riftbound Tournament Rules (2025-10-16)",
+    "source_kind": "official_local_file",
+    "source_path": "/Users/eric/claude-workspace/riftbound/rule-documents/tournament-rules.txt",
+    "source_date": "2025-10-16",
+    "trust_level": "official",
+    "status": "reviewed",
+    "tags": [
+      "rules",
+      "tournament",
+      "official"
+    ],
+    "path": "canon/tournament/tournament-rules-2025-10-16.md"
+  },
+  {
+    "path": "analysis/archetypes/README.md"
+  },
+  {
+    "id": "analysis.article.community-deck-vault",
+    "type": "analysis_note",
+    "title": "Community Deck Vault",
+    "source_kind": "local_strategy_article",
+    "source_path": "/Users/eric/hextech-analytics/content/articles/community-deck-vault.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "article",
+      "derived",
+      "strategy",
+      "community-deck-vault"
+    ],
+    "path": "analysis/articles/community-deck-vault.md"
+  },
+  {
+    "id": "analysis.article.spiritforged-budget-guide",
+    "type": "analysis_note",
+    "title": "The Complete Spiritforged Budget Deck Guide: Champion Decks to Competitive Play",
+    "source_kind": "local_strategy_article",
+    "source_path": "/Users/eric/hextech-analytics/content/articles/spiritforged-budget-guide.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "article",
+      "derived",
+      "strategy",
+      "spiritforged-budget-guide"
+    ],
+    "path": "analysis/articles/spiritforged-budget-guide.md"
+  },
+  {
+    "id": "analysis.article.spiritforged-sealed-101",
+    "type": "analysis_note",
+    "title": "Spiritforged Sealed 101: Your Pre-Rift Survival Guide",
+    "source_kind": "local_strategy_article",
+    "source_path": "/Users/eric/hextech-analytics/content/articles/spiritforged-sealed-101.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "article",
+      "derived",
+      "strategy",
+      "spiritforged-sealed-101"
+    ],
+    "path": "analysis/articles/spiritforged-sealed-101.md"
+  },
+  {
+    "id": "analysis.article.spiritforged-week-0-meta",
+    "type": "analysis_note",
+    "title": "Spiritforged Week 0 Meta Report: What Works When Nobody Knows Anything",
+    "source_kind": "local_strategy_article",
+    "source_path": "/Users/eric/hextech-analytics/content/articles/spiritforged-week-0-meta.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "article",
+      "derived",
+      "strategy",
+      "spiritforged-week-0-meta"
+    ],
+    "path": "analysis/articles/spiritforged-week-0-meta.md"
+  },
+  {
+    "id": "analysis.article.state-of-spiritforged",
+    "type": "analysis_note",
+    "title": "State of Spiritforged: What Competitive Players Need to Know",
+    "source_kind": "local_strategy_article",
+    "source_path": "/Users/eric/hextech-analytics/content/articles/state-of-spiritforged.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "article",
+      "derived",
+      "strategy",
+      "state-of-spiritforged"
+    ],
+    "path": "analysis/articles/state-of-spiritforged.md"
+  },
+  {
+    "path": "analysis/matchups/README.md"
+  },
+  {
+    "id": "analysis.reference.academy-strategy",
+    "type": "analysis_note",
+    "title": "ACADEMY_STRATEGY.md",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/ACADEMY_STRATEGY.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "academy-strategy"
+    ],
+    "path": "analysis/reference/academy-strategy.md"
+  },
+  {
+    "id": "analysis.reference.app-flow",
+    "type": "analysis_note",
+    "title": "APP_FLOW.md - Hextech Analytics",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/APP_FLOW.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "app-flow"
+    ],
+    "path": "analysis/reference/app-flow.md"
+  },
+  {
+    "id": "analysis.reference.batch-fetch-usage",
+    "type": "analysis_note",
+    "title": "Split-Batch Price Fetch - Usage Guide",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/BATCH-FETCH-USAGE.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "batch-fetch-usage"
+    ],
+    "path": "analysis/reference/batch-fetch-usage.md"
+  },
+  {
+    "id": "analysis.reference.core-rules",
+    "type": "analysis_note",
+    "title": "Riftbound Technical Manual: Core Rules v1.2 (Verified)",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/CORE_RULES.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "core-rules"
+    ],
+    "path": "analysis/reference/core-rules.md"
+  },
+  {
+    "id": "analysis.reference.design-system",
+    "type": "analysis_note",
+    "title": "DESIGN_SYSTEM.md - Hextech Analytics",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/DESIGN_SYSTEM.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "design-system"
+    ],
+    "path": "analysis/reference/design-system.md"
+  },
+  {
+    "id": "analysis.reference.frontend-guidelines",
+    "type": "analysis_note",
+    "title": "FRONTEND_GUIDELINES.md - Hextech Analytics",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/FRONTEND_GUIDELINES.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "frontend-guidelines"
+    ],
+    "path": "analysis/reference/frontend-guidelines.md"
+  },
+  {
+    "id": "analysis.reference.hextech-open-beta-launch-checklist",
+    "type": "analysis_note",
+    "title": "Hextech Open Beta Launch Checklist",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/HEXTECH_OPEN_BETA_LAUNCH_CHECKLIST.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "hextech-open-beta-launch-checklist"
+    ],
+    "path": "analysis/reference/hextech-open-beta-launch-checklist.md"
+  },
+  {
+    "id": "analysis.reference.legend-page-template",
+    "type": "analysis_note",
+    "title": "Legend Page Template Reference",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/LEGEND-PAGE-TEMPLATE.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "legend-page-template"
+    ],
+    "path": "analysis/reference/legend-page-template.md"
+  },
+  {
+    "id": "analysis.reference.lessons",
+    "type": "analysis_note",
+    "title": "LESSONS.md - Hextech Analytics",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/LESSONS.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "lessons"
+    ],
+    "path": "analysis/reference/lessons.md"
+  },
+  {
+    "id": "analysis.reference.manual-signup-workflow",
+    "type": "analysis_note",
+    "title": "Hextech Custom Tournament: Operator Workflow",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/MANUAL_SIGNUP_WORKFLOW.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "manual-signup-workflow"
+    ],
+    "path": "analysis/reference/manual-signup-workflow.md"
+  },
+  {
+    "id": "analysis.reference.mechanics",
+    "type": "analysis_note",
+    "title": "Core Terms & Symbology",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/MECHANICS.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "mechanics"
+    ],
+    "path": "analysis/reference/mechanics.md"
+  },
+  {
+    "id": "analysis.reference.optimization",
+    "type": "analysis_note",
+    "title": "OPTIMIZATION.md - Performance & Token Discipline",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/OPTIMIZATION.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "optimization"
+    ],
+    "path": "analysis/reference/optimization.md"
+  },
+  {
+    "id": "analysis.reference.prd",
+    "type": "analysis_note",
+    "title": "PRD.md - Hextech Analytics",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/PRD.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "prd"
+    ],
+    "path": "analysis/reference/prd.md"
+  },
+  {
+    "id": "analysis.reference.price-alerts-quickstart",
+    "type": "analysis_note",
+    "title": "Price Alerts Quick Start",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/PRICE-ALERTS-QUICKSTART.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "price-alerts-quickstart"
+    ],
+    "path": "analysis/reference/price-alerts-quickstart.md"
+  },
+  {
+    "id": "analysis.reference.price-monitoring-system",
+    "type": "analysis_note",
+    "title": "Price Monitoring System",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/PRICE-MONITORING-SYSTEM.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "price-monitoring-system"
+    ],
+    "path": "analysis/reference/price-monitoring-system.md"
+  },
+  {
+    "id": "analysis.reference.price-movers-component",
+    "type": "analysis_note",
+    "title": "Price Movers Component - Design Spec",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/PRICE-MOVERS-COMPONENT.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "price-movers-component"
+    ],
+    "path": "analysis/reference/price-movers-component.md"
+  },
+  {
+    "id": "analysis.reference.rules",
+    "type": "analysis_note",
+    "title": "Riftbound Technical Manual",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/RULES.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "rules"
+    ],
+    "path": "analysis/reference/rules.md"
+  },
+  {
+    "id": "analysis.reference.set-strategy",
+    "type": "analysis_note",
+    "title": "SET_STRATEGY.md",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/SET_STRATEGY.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "set-strategy"
+    ],
+    "path": "analysis/reference/set-strategy.md"
+  },
+  {
+    "id": "analysis.reference.tech-stack",
+    "type": "analysis_note",
+    "title": "TECH_STACK.md - Hextech Analytics",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/TECH_STACK.md",
+    "source_date": "unknown",
+    "trust_level": "derived_unverified",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "tech-stack"
+    ],
+    "path": "analysis/reference/tech-stack.md"
+  },
+  {
+    "id": "analysis.reference.tournament-rules",
+    "type": "analysis_note",
+    "title": "Riftbound Technical Manual: Tournament Regulations (January 2026 Update)",
+    "source_kind": "local_derived_doc",
+    "source_path": "/Users/eric/hextech-analytics/docs/TOURNAMENT_RULES.md",
+    "source_date": "unknown",
+    "trust_level": "conflicted",
+    "status": "reviewed",
+    "tags": [
+      "hextech-doc",
+      "derived",
+      "tournament-rules"
+    ],
+    "path": "analysis/reference/tournament-rules.md"
+  },
+  {
+    "id": "analysis.video_review.m2IjrsUzXgU",
+    "type": "analysis_note",
+    "title": "How to Get Better at Riftbound Review",
+    "source_kind": "youtube_vod_review",
+    "source_path": "https://youtu.be/m2IjrsUzXgU",
+    "source_date": "20260327",
+    "trust_level": "derived_unverified",
+    "status": "draft",
+    "tags": [
+      "video",
+      "review",
+      "m2IjrsUzXgU"
+    ],
+    "path": "analysis/videos/m2IjrsUzXgU/review.md"
+  },
+  {
+    "id": "analysis.video_transcript.m2IjrsUzXgU",
+    "type": "analysis_note",
+    "title": "How to Get Better at Riftbound Transcript",
+    "source_kind": "youtube_vod_auto_caption",
+    "source_path": "https://youtu.be/m2IjrsUzXgU",
+    "source_date": "20260327",
+    "trust_level": "derived_unverified",
+    "status": "draft",
+    "tags": [
+      "video",
+      "transcript",
+      "m2IjrsUzXgU"
+    ],
+    "path": "analysis/videos/m2IjrsUzXgU/transcript.cleaned.md"
+  }
+]

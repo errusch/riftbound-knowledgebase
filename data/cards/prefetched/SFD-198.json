@@ -1,0 +1,42 @@
+{
+  "id": "card_snapshot.SFD-198",
+  "type": "card_snapshot",
+  "title": "Arise!",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-azir-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-198",
+    "name": "Arise!",
+    "riftbound_id": "SFD-198",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 6,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Calm",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "Play a 2 :rb_might: Sand Soldier unit token for each Equipment you control. Then do this: Ready up to two of them.",
+      "plain": "Play a 2 :rb_might: Sand Soldier unit token for each Equipment you control. Then do this: Ready up to two of them."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-198.webp"
+    },
+    "slug": "sfd-198-arise"
+  }
+}

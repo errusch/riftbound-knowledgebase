@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-241",
+  "type": "card_snapshot",
+  "title": "Shen - Kinkou",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-darius-by-puyshpii-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-241",
+    "name": "Shen - Kinkou",
+    "riftbound_id": "OGN-241",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n[Shield 2] (+2 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n[Shield 2] (+2 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-241.webp"
+    },
+    "slug": "ogn-241-shen-kinkou"
+  }
+}

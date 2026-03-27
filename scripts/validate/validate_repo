@@ -1,0 +1,65 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+from pathlib import Path
+import sys
+
+SCRIPT_ROOT = Path(__file__).resolve().parents[2]
+if str(SCRIPT_ROOT) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_ROOT))
+
+from scripts.lib.kb_common import IGNORED_DUPLICATE_ROOT, ROOT, load_json
+
+
+def fail(message: str) -> None:
+    raise SystemExit(message)
+
+
+def main() -> None:
+    required_paths = [
+        ROOT / "canon" / "rules" / "core-rules-v1-2.md",
+        ROOT / "canon" / "tournament" / "tournament-rules-2025-10-16.md",
+        ROOT / "canon" / "errata" / "card-errata-set-1-origins.md",
+        ROOT / "analysis" / "reference" / "tournament-rules.md",
+        ROOT / "analysis" / "videos" / "m2IjrsUzXgU" / "review.md",
+        ROOT / "data" / "indexes" / "canon_documents.json",
+        ROOT / "data" / "indexes" / "decks.json",
+        ROOT / "data" / "indexes" / "events.json",
+        ROOT / "data" / "indexes" / "videos.json",
+        ROOT / "data" / "indexes" / "derived_conflicts.json",
+    ]
+    missing = [str(path.relative_to(ROOT)) for path in required_paths if not path.exists()]
+    if missing:
+        fail(f"Missing expected artifacts: {', '.join(missing)}")
+
+    canon_documents = load_json(ROOT / "data" / "indexes" / "canon_documents.json", [])
+    if len(canon_documents) < 4:
+        fail("Expected at least four imported canon documents.")
+
+    conflicts = load_json(ROOT / "data" / "indexes" / "derived_conflicts.json", [])
+    conflict_ids = {item["id"] for item in conflicts}
+    for required_conflict in {"tournament.additional_turns", "tournament.two_point_lead"}:
+        if required_conflict not in conflict_ids:
+            fail(f"Expected conflict rule not triggered: {required_conflict}")
+
+    decks = load_json(ROOT / "data" / "indexes" / "decks.json", [])
+    events = load_json(ROOT / "data" / "indexes" / "events.json", [])
+    if not decks or not events:
+        fail("Competitive deck or event indexes are empty.")
+
+    all_objects = load_json(ROOT / "data" / "indexes" / "all_objects.json", [])
+    duplicate_root = str(IGNORED_DUPLICATE_ROOT)
+    for obj in all_objects + decks + events:
+        source_path = obj.get("source_path", "")
+        if duplicate_root in source_path:
+            fail(f"Unexpected duplicate-repo import detected: {source_path}")
+
+    rules_atoms = load_json(ROOT / "data" / "indexes" / "rules_atoms.json", [])
+    if not any("battlefield" in atom.get("text", "").lower() for atom in rules_atoms):
+        fail("Rules atom index is missing battlefield-related entries.")
+
+    print("Validation passed.")
+
+
+if __name__ == "__main__":
+    main()

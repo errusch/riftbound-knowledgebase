@@ -1,0 +1,857 @@
+{
+  "id": "event.houston-regional-qualifier",
+  "type": "competitive_record",
+  "title": "Houston Regional Qualifier",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/events/houston-regional-qualifier.json",
+  "source_date": "2025-12-07",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "event",
+    "North America",
+    "regional_qualifier"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "houston-regional-qualifier",
+    "name": "Houston Regional Qualifier",
+    "region": "North America",
+    "eventDate": "2025-12-07",
+    "eventType": "regional_qualifier",
+    "coverageType": "best_of_champion_plus_top_cut",
+    "primarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+      "priority": 1
+    },
+    "sources": [
+      {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+        "publishedAt": "2025-12-11T16:00:00.000Z",
+        "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+        "priority": 1
+      },
+      {
+        "kind": "community",
+        "role": "stats_summary",
+        "label": "Houston Regional Qualifier summary page",
+        "url": "https://riftbound.gg/houston-regional-qualifier-top-decks-for-every-champion/",
+        "publishedAt": null,
+        "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+        "priority": 2
+      }
+    ],
+    "articleSlug": null,
+    "sourceUrls": [
+      "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "https://riftbound.gg/houston-regional-qualifier-top-decks-for-every-champion/"
+    ],
+    "summaryStats": {
+      "legendRowCount": 16,
+      "embeddedDeckCount": 16,
+      "uniqueDeckCount": 16
+    },
+    "notes": [
+      "Source article is a partial best-champion page with 16 top-placing legend lists, not full every-legend coverage.",
+      "Official Riot recap includes all 16 Best Of decks and Top 8 finishers as inline lists.",
+      "Official Riot recap parsed and used as the primary source for event coverage and decklists."
+    ],
+    "legends": [
+      {
+        "legendSlug": "leona",
+        "legendName": "Leona",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "#234",
+        "totalPicksPct": 2.8,
+        "totalPicksCount": 31,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "leona-radiant-dawn-deck-by-frodan-best-of-leona-houston-regional-qualifiers"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "leona-radiant-dawn-deck-by-frodan-best-of-leona-houston-regional-qualifiers",
+            "title": "Leona - Radiant Dawn Deck by Frodan (Best of Leona Houston Regional Qualifiers)",
+            "legendSlug": "leona",
+            "legendName": "Leona",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "#234",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=leona-radiant-dawn-deck-by-frodan-best-of-leona-houston-regional-qualifiers",
+            "views": 16107,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "lux",
+        "legendName": "Lux",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "#167",
+        "totalPicksPct": 1.9,
+        "totalPicksCount": 21,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "lux-by-ryan-best-of-lux-houston-regional-qualifiers"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "lux-by-ryan-best-of-lux-houston-regional-qualifiers",
+            "title": "Lux by Ryan (Best of Lux Houston Regional Qualifiers)",
+            "legendSlug": "lux",
+            "legendName": "Lux",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "#167",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=lux-by-ryan-best-of-lux-houston-regional-qualifiers",
+            "views": 16122,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "garen",
+        "legendName": "Garen",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "#156",
+        "totalPicksPct": 1.2,
+        "totalPicksCount": 13,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "garen-might-of-demacia-by-tee-thebeau-best-of-garen-houston-regional-qualifiers"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "garen-might-of-demacia-by-tee-thebeau-best-of-garen-houston-regional-qualifiers",
+            "title": "Garen - Might of Demacia by Tee Thebeau (Best of Garen Houston Regional Qualifiers)",
+            "legendSlug": "garen",
+            "legendName": "Garen",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "#156",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=garen-might-of-demacia-by-tee-thebeau-best-of-garen-houston-regional-qualifiers",
+            "views": 15767,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "jinx",
+        "legendName": "Jinx",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "#130",
+        "totalPicksPct": 2.1,
+        "totalPicksCount": 24,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers",
+            "title": "Jinx - Loose Cannon Deck by Eric Liu (Best of Jinx Houston Regional Qualifiers)",
+            "legendSlug": "jinx",
+            "legendName": "Jinx",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "#130",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers",
+            "views": 16573,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "sett",
+        "legendName": "Sett",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "#102",
+        "totalPicksPct": 5,
+        "totalPicksCount": 56,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "best-of-sett-by-boiwaffle-houston-regional-qualifier"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "best-of-sett-by-boiwaffle-houston-regional-qualifier",
+            "title": "Best of Sett By BoiWaffle (Houston Regional Qualifier)",
+            "legendSlug": "sett",
+            "legendName": "Sett",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "#102",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-sett-by-boiwaffle-houston-regional-qualifier",
+            "views": 11789,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "ahri",
+        "legendName": "Ahri",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "#98",
+        "totalPicksPct": 5.6,
+        "totalPicksCount": 63,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "best-of-ahri-by-kale-houston-regional-qualifier"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "best-of-ahri-by-kale-houston-regional-qualifier",
+            "title": "Best of Ahri by Kale (Houston Regional Qualifier)",
+            "legendSlug": "ahri",
+            "legendName": "Ahri",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "#98",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-ahri-by-kale-houston-regional-qualifier",
+            "views": 11802,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "darius",
+        "legendName": "Darius",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 2,
+        "totalPicksCount": 23,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.6,
+        "conversionCount": 1,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "best-of-darius-by-puyshpii-houston-regional-qualifier"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "best-of-darius-by-puyshpii-houston-regional-qualifier",
+            "title": "Best of Darius by Puyshpii (Houston Regional Qualifier)",
+            "legendSlug": "darius",
+            "legendName": "Darius",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-darius-by-puyshpii-houston-regional-qualifier",
+            "views": 11577,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "viktor",
+        "legendName": "Viktor",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 3.8,
+        "totalPicksCount": 43,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.6,
+        "conversionCount": 1,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier",
+            "title": "Viktor - Herald of the Arcane Deck by Cody (Best of Viktor Houston Regional Qualifier)",
+            "legendSlug": "viktor",
+            "legendName": "Viktor",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier",
+            "views": 15933,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "lee-sin",
+        "legendName": "Lee Sin",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 1.9,
+        "totalPicksCount": 21,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.6,
+        "conversionCount": 1,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "lee-sin-blind-monk-deck-by-jeff-jones-best-of-lee-sin-houston-regional-qualifier"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "lee-sin-blind-monk-deck-by-jeff-jones-best-of-lee-sin-houston-regional-qualifier",
+            "title": "Lee Sin - Blind Monk Deck by Jeff Jones (Best of Lee Sin Houston Regional Qualifier)",
+            "legendSlug": "lee-sin",
+            "legendName": "Lee Sin",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=lee-sin-blind-monk-deck-by-jeff-jones-best-of-lee-sin-houston-regional-qualifier",
+            "views": 16608,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "yasuo",
+        "legendName": "Yasuo",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 2.2,
+        "totalPicksCount": 25,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.6,
+        "conversionCount": 1,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier",
+            "title": "Yasuo - Unforgiven Deck by Ghael Winds (Best of Yasuo Houston Regional Qualifier)",
+            "legendSlug": "yasuo",
+            "legendName": "Yasuo",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier",
+            "views": 16132,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "volibear",
+        "legendName": "Volibear",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 1.8,
+        "totalPicksCount": 20,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1.6,
+        "conversionCount": 1,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "volibear-relentless-storm-deck-by-malakx-houston-regional-qualifier"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "volibear-relentless-storm-deck-by-malakx-houston-regional-qualifier",
+            "title": "Volibear - Relentless Storm Deck by Malakx (Houston Regional Qualifier)",
+            "legendSlug": "volibear",
+            "legendName": "Volibear",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=volibear-relentless-storm-deck-by-malakx-houston-regional-qualifier",
+            "views": 11595,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "teemo",
+        "legendName": "Teemo",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "Top 64",
+        "totalPicksPct": 5.7,
+        "totalPicksCount": 64,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 4.7,
+        "conversionCount": 3,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "best-of-teemo-by-gorica-houston-regional-qualifiers"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "best-of-teemo-by-gorica-houston-regional-qualifiers",
+            "title": "Best of Teemo by Gorica (Houston Regional Qualifiers)",
+            "legendSlug": "teemo",
+            "legendName": "Teemo",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-teemo-by-gorica-houston-regional-qualifiers",
+            "views": 16385,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "miss-fortune",
+        "legendName": "Miss Fortune",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "Top 16",
+        "totalPicksPct": 5.3,
+        "totalPicksCount": 59,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 10.9,
+        "conversionCount": 7,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "best-of-miss-fortune-by-trinityjohn-houston-regional-qualifier"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "best-of-miss-fortune-by-trinityjohn-houston-regional-qualifier",
+            "title": "Best of Miss Fortune by TrinityJohn (Houston Regional Qualifier)",
+            "legendSlug": "miss-fortune",
+            "legendName": "Miss Fortune",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "Top 16",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-miss-fortune-by-trinityjohn-houston-regional-qualifier",
+            "views": 11803,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "kaisa",
+        "legendName": "Kai'Sa",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "Top 8",
+        "totalPicksPct": 33.1,
+        "totalPicksCount": 372,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 42.2,
+        "conversionCount": 27,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "kaisa-daughter-of-the-void-by-mateusz-jasinski-best-of-kaisa-houston-regional-qualifier-sxrqd"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "kaisa-daughter-of-the-void-by-mateusz-jasinski-best-of-kaisa-houston-regional-qualifier-sxrqd",
+            "title": "Kai'Sa, Daughter of the Void by Mateusz Jasi\u0144ski (best of kai'sa Houston Regional Qualifier)",
+            "legendSlug": "kaisa",
+            "legendName": "Kai'Sa",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "Top 8",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=kaisa-daughter-of-the-void-by-mateusz-jasinski-best-of-kaisa-houston-regional-qualifier-sxrqd",
+            "views": 20393,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "master-yi",
+        "legendName": "Master Yi",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "Top 4",
+        "totalPicksPct": 14.8,
+        "totalPicksCount": 166,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 17.2,
+        "conversionCount": 11,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2",
+            "title": "Master Yi, Wuju Bladesman by Challenger TCG (Houston Regional Qualifiers Rank 2)",
+            "legendSlug": "master-yi",
+            "legendName": "Master Yi",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "Top 4",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2",
+            "views": 21194,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "annie",
+        "legendName": "Annie",
+        "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier",
+        "topFinishText": "Winner",
+        "totalPicksPct": 10.9,
+        "totalPicksCount": 122,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 17.2,
+        "conversionCount": 11,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1",
+            "title": "Annie, Dark Child by Shawn Dhaliwal (Houston Regional Qualifier - Rank 1",
+            "legendSlug": "annie",
+            "legendName": "Annie",
+            "eventSlug": "houston-regional-qualifier",
+            "placementText": "Winner",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1",
+            "views": 21286,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      }
+    ],
+    "decks": [
+      {
+        "slug": "annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1",
+        "title": "Annie, Dark Child by Shawn Dhaliwal (Houston Regional Qualifier - Rank 1",
+        "legendSlug": "annie",
+        "legendName": "Annie",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "Winner",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1",
+        "views": 21286,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-ahri-by-kale-houston-regional-qualifier",
+        "title": "Best of Ahri by Kale (Houston Regional Qualifier)",
+        "legendSlug": "ahri",
+        "legendName": "Ahri",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "#98",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-ahri-by-kale-houston-regional-qualifier",
+        "views": 11802,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-darius-by-puyshpii-houston-regional-qualifier",
+        "title": "Best of Darius by Puyshpii (Houston Regional Qualifier)",
+        "legendSlug": "darius",
+        "legendName": "Darius",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-darius-by-puyshpii-houston-regional-qualifier",
+        "views": 11577,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-miss-fortune-by-trinityjohn-houston-regional-qualifier",
+        "title": "Best of Miss Fortune by TrinityJohn (Houston Regional Qualifier)",
+        "legendSlug": "miss-fortune",
+        "legendName": "Miss Fortune",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "Top 16",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-miss-fortune-by-trinityjohn-houston-regional-qualifier",
+        "views": 11803,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-sett-by-boiwaffle-houston-regional-qualifier",
+        "title": "Best of Sett By BoiWaffle (Houston Regional Qualifier)",
+        "legendSlug": "sett",
+        "legendName": "Sett",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "#102",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-sett-by-boiwaffle-houston-regional-qualifier",
+        "views": 11789,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-teemo-by-gorica-houston-regional-qualifiers",
+        "title": "Best of Teemo by Gorica (Houston Regional Qualifiers)",
+        "legendSlug": "teemo",
+        "legendName": "Teemo",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-teemo-by-gorica-houston-regional-qualifiers",
+        "views": 16385,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "garen-might-of-demacia-by-tee-thebeau-best-of-garen-houston-regional-qualifiers",
+        "title": "Garen - Might of Demacia by Tee Thebeau (Best of Garen Houston Regional Qualifiers)",
+        "legendSlug": "garen",
+        "legendName": "Garen",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "#156",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=garen-might-of-demacia-by-tee-thebeau-best-of-garen-houston-regional-qualifiers",
+        "views": 15767,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers",
+        "title": "Jinx - Loose Cannon Deck by Eric Liu (Best of Jinx Houston Regional Qualifiers)",
+        "legendSlug": "jinx",
+        "legendName": "Jinx",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "#130",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers",
+        "views": 16573,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "kaisa-daughter-of-the-void-by-mateusz-jasinski-best-of-kaisa-houston-regional-qualifier-sxrqd",
+        "title": "Kai'Sa, Daughter of the Void by Mateusz Jasi\u0144ski (best of kai'sa Houston Regional Qualifier)",
+        "legendSlug": "kaisa",
+        "legendName": "Kai'Sa",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "Top 8",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=kaisa-daughter-of-the-void-by-mateusz-jasinski-best-of-kaisa-houston-regional-qualifier-sxrqd",
+        "views": 20393,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "lee-sin-blind-monk-deck-by-jeff-jones-best-of-lee-sin-houston-regional-qualifier",
+        "title": "Lee Sin - Blind Monk Deck by Jeff Jones (Best of Lee Sin Houston Regional Qualifier)",
+        "legendSlug": "lee-sin",
+        "legendName": "Lee Sin",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=lee-sin-blind-monk-deck-by-jeff-jones-best-of-lee-sin-houston-regional-qualifier",
+        "views": 16608,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "leona-radiant-dawn-deck-by-frodan-best-of-leona-houston-regional-qualifiers",
+        "title": "Leona - Radiant Dawn Deck by Frodan (Best of Leona Houston Regional Qualifiers)",
+        "legendSlug": "leona",
+        "legendName": "Leona",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "#234",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=leona-radiant-dawn-deck-by-frodan-best-of-leona-houston-regional-qualifiers",
+        "views": 16107,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "lux-by-ryan-best-of-lux-houston-regional-qualifiers",
+        "title": "Lux by Ryan (Best of Lux Houston Regional Qualifiers)",
+        "legendSlug": "lux",
+        "legendName": "Lux",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "#167",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=lux-by-ryan-best-of-lux-houston-regional-qualifiers",
+        "views": 16122,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2",
+        "title": "Master Yi, Wuju Bladesman by Challenger TCG (Houston Regional Qualifiers Rank 2)",
+        "legendSlug": "master-yi",
+        "legendName": "Master Yi",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "Top 4",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2",
+        "views": 21194,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier",
+        "title": "Viktor - Herald of the Arcane Deck by Cody (Best of Viktor Houston Regional Qualifier)",
+        "legendSlug": "viktor",
+        "legendName": "Viktor",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier",
+        "views": 15933,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "volibear-relentless-storm-deck-by-malakx-houston-regional-qualifier",
+        "title": "Volibear - Relentless Storm Deck by Malakx (Houston Regional Qualifier)",
+        "legendSlug": "volibear",
+        "legendName": "Volibear",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=volibear-relentless-storm-deck-by-malakx-houston-regional-qualifier",
+        "views": 11595,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier",
+        "title": "Yasuo - Unforgiven Deck by Ghael Winds (Best of Yasuo Houston Regional Qualifier)",
+        "legendSlug": "yasuo",
+        "legendName": "Yasuo",
+        "eventSlug": "houston-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier",
+        "views": 16132,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      }
+    ]
+  }
+}

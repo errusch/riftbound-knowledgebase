@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-217",
+  "type": "card_snapshot",
+  "title": "Seat of Power",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-fiora-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-217",
+    "name": "Seat of Power",
+    "riftbound_id": "SFD-217",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer here, draw 1 for each other battlefield you or allies control.",
+      "plain": "When you conquer here, draw 1 for each other battlefield you or allies control."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-217.webp"
+    },
+    "slug": "sfd-217-seat-of-power"
+  }
+}

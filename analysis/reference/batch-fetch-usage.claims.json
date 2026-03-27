@@ -1,0 +1,92 @@
+[
+  {
+    "excerpt": "The price fetch system now supports split-batch mode to avoid TCGPlayer API rate limits.",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "The system automatically rotates `prices.json` \u2192 `prices-previous.json` for price comparison:",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "- **Batch 1**: \u2705 Rotates (creates backup) - **Batch 2**: \u274c Skips rotation (batch 1 already did it) - **Full run**: \u2705 Rotates",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "1. Reads `prices-batch1.json` and `prices-batch2.json` 2. Merges card data (batch 2 overwrites batch 1 if overlap) 3. Uses the latest timestamp 4. Recalculates statistics for the merged dataset 5. Writes to `prices.json`",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "**Requirements:** - Both batch files must exist - Will exit with error if either is missing",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "```bash # Batch 1 at 6:00 AM CT 0 6 * * * cd /path/to/hextech-analytics && node scripts/fetch-prices.mjs --batch 1",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "```bash # Test batch 1 (first 10 cards in TEST_MODE) TEST_MODE=true node scripts/fetch-prices.mjs --batch 1 --batch-size 10",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "Batch mode creates separate failure logs: - `price-fetch-failures-batch1.json` (batch 1 failures) - `price-fetch-failures-batch2.json` (batch 2 failures) - `price-fetch-failures.json` (full run failures)",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "Each log includes: - Timestamp - Batch number (if applicable) - Total failed count - Array of failed cards with error messages",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "```bash # Clean up old test data rm -f public/data/prices-batch*.json",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-116",
+  "type": "card_snapshot",
+  "title": "Yone - Blademaster",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-volibear-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-116",
+    "name": "Yone - Blademaster",
+    "riftbound_id": "SFD-116",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nWhen I conquer a battlefield that was uncontrolled, deal damage equal to my Might to an enemy unit in a base.",
+      "plain": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nWhen I conquer a battlefield that was uncontrolled, deal damage equal to my Might to an enemy unit in a base."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-116.webp"
+    },
+    "slug": "sfd-116-yone-blademaster"
+  }
+}

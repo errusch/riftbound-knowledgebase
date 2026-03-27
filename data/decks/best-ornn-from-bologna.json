@@ -1,0 +1,1520 @@
+{
+  "id": "deck.best-ornn-from-bologna",
+  "type": "competitive_record",
+  "title": "Best Ornn From bologna",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ornn-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "deck",
+    "Ornn",
+    "Spiritforged"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "best-ornn-from-bologna",
+    "title": "Best Ornn From bologna",
+    "event": {
+      "slug": "bologna-regional-qualifier",
+      "name": "Bologna Regional Qualifier",
+      "region": "Europe",
+      "eventDate": "2026-02-22",
+      "eventType": "regional_qualifier",
+      "coverageType": "best_of_legend_plus_top_cut",
+      "primarySource": {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "The Best Decks out of Bologna",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/the-best-decks-out-of-bologna/",
+        "publishedAt": "2026-02-25T17:00:00.000Z",
+        "description": "RQ Bologna saw all 28 Legends battle to supremacy, here\u2019s the Best-Of decks and the Top 8!",
+        "priority": 1
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "role": "event_recap",
+          "label": "The Best Decks out of Bologna",
+          "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/the-best-decks-out-of-bologna/",
+          "publishedAt": "2026-02-25T17:00:00.000Z",
+          "description": "RQ Bologna saw all 28 Legends battle to supremacy, here\u2019s the Best-Of decks and the Top 8!",
+          "priority": 1
+        },
+        {
+          "kind": "community",
+          "role": "stats_summary",
+          "label": "Bologna Regional Qualifier summary page",
+          "url": "https://riftbound.gg/bologna-regional-qualifier/",
+          "publishedAt": null,
+          "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+          "priority": 2
+        }
+      ],
+      "articleSlug": "bologna-regional-qualifier"
+    },
+    "legend": {
+      "slug": "ornn",
+      "name": "Ornn",
+      "section": null
+    },
+    "placementText": "#490",
+    "playerName": "Ghostfunk",
+    "eventPrimarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "The Best Decks out of Bologna",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/the-best-decks-out-of-bologna/",
+      "publishedAt": "2026-02-25T17:00:00.000Z",
+      "description": "RQ Bologna saw all 28 Legends battle to supremacy, here\u2019s the Best-Of decks and the Top 8!",
+      "priority": 1
+    },
+    "decklistSource": {
+      "kind": "official",
+      "role": "decklist",
+      "label": "Ornn official best-of decklist",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/the-best-decks-out-of-bologna/",
+      "publishedAt": "2026-02-25T17:00:00.000Z",
+      "description": "Decklist parsed directly from the official Riot/Riftbound event recap.",
+      "priority": 1
+    },
+    "secondaryDeckSources": [
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Ornn Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/best-ornn-from-bologna/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 2
+      }
+    ],
+    "sourceUrl": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/the-best-decks-out-of-bologna/",
+    "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ornn-from-bologna",
+    "format": "Spiritforged",
+    "views": 7586,
+    "cardCounts": {
+      "mainboard": 54,
+      "sideboard": 8
+    },
+    "mainboard": [
+      {
+        "cardCode": "SFD-050",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-050",
+          "name": "Azir - Ascendant",
+          "slug": "sfd-050-azir-ascendant",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-050.webp",
+          "effect": ":rb_rune_calm:: [Action] \u2014 Choose a unit you control. Move me to its location and it to my original location. If it's equipped, you may attach one of its Equipment to me. Use only once per turn."
+        }
+      },
+      {
+        "cardCode": "OGN-091",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-091",
+          "name": "Pit Crew",
+          "slug": "ogn-091-pit-crew",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-091.webp",
+          "effect": "When you play a gear, ready me."
+        }
+      },
+      {
+        "cardCode": "SFD-060",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-060",
+          "name": "Tianna Crownguard",
+          "slug": "sfd-060-tianna-crownguard",
+          "cost": 7,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-060.webp",
+          "effect": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)\nWhile I'm at a battlefield, opponents can't gain points."
+        }
+      },
+      {
+        "cardCode": "OGN-083",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-083",
+          "name": "Consult the Past",
+          "slug": "ogn-083-consult-the-past",
+          "cost": 4,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-083.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Reaction] (Play any time, even before spells and abilities resolve.)\nDraw 2."
+        }
+      },
+      {
+        "cardCode": "OGN-045",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-045",
+          "name": "Defy",
+          "slug": "ogn-045-defy",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-045.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:."
+        }
+      },
+      {
+        "cardCode": "SFD-043",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-043",
+          "name": "Emperor's Divide",
+          "slug": "sfd-043-emperors-divide",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-043.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove any number of friendly units at a battlefield to their base."
+        }
+      },
+      {
+        "cardCode": "OGN-048",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-048",
+          "name": "Meditation",
+          "slug": "ogn-048-meditation",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-048.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nAs an additional cost to play this, you may exhaust a friendly unit. If you do, draw 2. Otherwise, draw 1."
+        }
+      },
+      {
+        "cardCode": "SFD-045",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-045",
+          "name": "Not So Fast",
+          "slug": "sfd-045-not-so-fast",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-045.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter an enemy spell or ability that chooses a friendly unit or gear."
+        }
+      },
+      {
+        "cardCode": "OGN-064",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-064",
+          "name": "Wind Wall",
+          "slug": "ogn-064-wind-wall",
+          "cost": 3,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-064.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell."
+        }
+      },
+      {
+        "cardCode": "SFD-033",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-033",
+          "name": "Doran's Shield",
+          "slug": "sfd-033-dorans-shield",
+          "cost": 1,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-033.webp",
+          "effect": "[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)"
+        }
+      },
+      {
+        "cardCode": "SFD-051",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-051",
+          "name": "Guardian Angel",
+          "slug": "sfd-051-guardian-angel",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-051.webp",
+          "effect": "[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)"
+        }
+      },
+      {
+        "cardCode": "SFD-046",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-046",
+          "name": "Poro Snax",
+          "slug": "sfd-046-poro-snax",
+          "cost": 1,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-046.webp",
+          "effect": "When you play this, draw 1.\n:rb_energy_1::rb_rune_calm:, :rb_exhaust:, Kill this: Draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-081",
+        "quantity": 2,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "OGN-081",
+          "name": "Seal of Focus",
+          "slug": "ogn-081-seal-of-focus",
+          "cost": null,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-081.webp",
+          "effect": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_calm:. (Abilities that add resources can't be reacted to.)"
+        }
+      },
+      {
+        "cardCode": "SFD-192",
+        "quantity": 1,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-192",
+          "name": "Shurelya's Requiem",
+          "slug": "sfd-192-shurelyas-requiem",
+          "cost": 4,
+          "type": "Gear",
+          "supertype": "Signature",
+          "domains": [
+            "Calm",
+            "Mind"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-192.webp",
+          "effect": "[Unique] (Your deck can have only 1 card with this name.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)\nWhen you play this, ready your units."
+        }
+      },
+      {
+        "cardCode": "SFD-059",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-059",
+          "name": "Svellsongur",
+          "slug": "sfd-059-svellsongur",
+          "cost": 3,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-059.webp",
+          "effect": "[Equip] :rb_energy_1::rb_rune_calm: (:rb_energy_1::rb_rune_calm:: Attach this to a unit you control.)\nAs this is attached to a unit, copy that unit's text to this Equipment's effect text for as long as this is attached to it."
+        }
+      },
+      {
+        "cardCode": "SFD-086",
+        "quantity": 2,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-086",
+          "name": "World Atlas",
+          "slug": "sfd-086-world-atlas",
+          "cost": 3,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-086.webp",
+          "effect": "[Equip] :rb_rune_mind: (:rb_rune_mind:: Attach this to a unit you control.)"
+        }
+      },
+      {
+        "cardCode": "OGN-077",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "OGN-077",
+          "name": "Zhonya's Hourglass",
+          "slug": "ogn-077-zhonyas-hourglass",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-077.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)"
+        }
+      },
+      {
+        "cardCode": "OGN-042",
+        "quantity": 8,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-042",
+          "name": "Calm Rune",
+          "slug": "ogn-042-calm-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-042.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-089",
+        "quantity": 4,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-089",
+          "name": "Mind Rune",
+          "slug": "ogn-089-mind-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-089.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-276",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-276",
+          "name": "Aspirant's Climb",
+          "slug": "ogn-276-aspirants-climb",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-276.webp",
+          "effect": "Increase the points needed to win the game by 1."
+        }
+      },
+      {
+        "cardCode": "OGN-284",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-284",
+          "name": "Obelisk of Power",
+          "slug": "ogn-284-obelisk-of-power",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp",
+          "effect": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        }
+      },
+      {
+        "cardCode": "SFD-219",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "SFD-219",
+          "name": "The Papertree",
+          "slug": "sfd-219-the-papertree",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-219.webp",
+          "effect": "When you hold here, each player channels 1 rune exhausted."
+        }
+      }
+    ],
+    "sideboard": [
+      {
+        "cardCode": "OGN-043",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-043",
+          "name": "Charm",
+          "slug": "ogn-043-charm",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-043.webp",
+          "effect": "Move an enemy unit."
+        }
+      },
+      {
+        "cardCode": "OGN-045",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-045",
+          "name": "Defy",
+          "slug": "ogn-045-defy",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-045.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:."
+        }
+      },
+      {
+        "cardCode": "SFD-043",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-043",
+          "name": "Emperor's Divide",
+          "slug": "sfd-043-emperors-divide",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-043.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove any number of friendly units at a battlefield to their base."
+        }
+      },
+      {
+        "cardCode": "SFD-035",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-035",
+          "name": "Guardian of the Passage",
+          "slug": "sfd-035-guardian-of-the-passage",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-035.webp",
+          "effect": "When I hold, you may return a unit or gear from your trash to your hand."
+        }
+      },
+      {
+        "cardCode": "SFD-085",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-085",
+          "name": "Ornn - Forge God",
+          "slug": "sfd-085-ornn-forge-god",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-085.webp",
+          "effect": "[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)\n[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nI have +1 :rb_might: for each friendly gear."
+        }
+      },
+      {
+        "cardCode": "OGN-064",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-064",
+          "name": "Wind Wall",
+          "slug": "ogn-064-wind-wall",
+          "cost": 3,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-064.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell."
+        }
+      }
+    ],
+    "deckDisplay": {
+      "name": "Best Ornn From bologna",
+      "player": "Ghostfunk",
+      "event": "Bologna Regional Qualifier",
+      "date": "2026-02-22",
+      "legend": "Ornn",
+      "cards": [
+        {
+          "cardId": "SFD-050",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-091",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-060",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-083",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-045",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-043",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-048",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-045",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-064",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-033",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "SFD-051",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "SFD-046",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-081",
+          "quantity": 2,
+          "section": "gear"
+        },
+        {
+          "cardId": "SFD-192",
+          "quantity": 1,
+          "section": "gear"
+        },
+        {
+          "cardId": "SFD-059",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "SFD-086",
+          "quantity": 2,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-077",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-042",
+          "quantity": 8,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-089",
+          "quantity": 4,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-276",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-284",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "SFD-219",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-043",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-045",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "SFD-043",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "SFD-035",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "SFD-085",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-064",
+          "quantity": 2,
+          "section": "sideboard"
+        }
+      ]
+    },
+    "prefetchedCardData": [
+      {
+        "id": "SFD-050",
+        "name": "Azir - Ascendant",
+        "riftbound_id": "SFD-050",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": ":rb_rune_calm:: [Action] \u2014 Choose a unit you control. Move me to its location and it to my original location. If it's equipped, you may attach one of its Equipment to me. Use only once per turn.",
+          "plain": ":rb_rune_calm:: [Action] \u2014 Choose a unit you control. Move me to its location and it to my original location. If it's equipped, you may attach one of its Equipment to me. Use only once per turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-050.webp"
+        },
+        "slug": "sfd-050-azir-ascendant"
+      },
+      {
+        "id": "OGN-091",
+        "name": "Pit Crew",
+        "riftbound_id": "OGN-091",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "When you play a gear, ready me.",
+          "plain": "When you play a gear, ready me."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-091.webp"
+        },
+        "slug": "ogn-091-pit-crew"
+      },
+      {
+        "id": "SFD-060",
+        "name": "Tianna Crownguard",
+        "riftbound_id": "SFD-060",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 7,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)\nWhile I'm at a battlefield, opponents can't gain points.",
+          "plain": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)\nWhile I'm at a battlefield, opponents can't gain points."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-060.webp"
+        },
+        "slug": "sfd-060-tianna-crownguard"
+      },
+      {
+        "id": "OGN-083",
+        "name": "Consult the Past",
+        "riftbound_id": "OGN-083",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Reaction] (Play any time, even before spells and abilities resolve.)\nDraw 2.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Reaction] (Play any time, even before spells and abilities resolve.)\nDraw 2."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-083.webp"
+        },
+        "slug": "ogn-083-consult-the-past"
+      },
+      {
+        "id": "OGN-045",
+        "name": "Defy",
+        "riftbound_id": "OGN-045",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-045.webp"
+        },
+        "slug": "ogn-045-defy"
+      },
+      {
+        "id": "SFD-043",
+        "name": "Emperor's Divide",
+        "riftbound_id": "SFD-043",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove any number of friendly units at a battlefield to their base.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove any number of friendly units at a battlefield to their base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-043.webp"
+        },
+        "slug": "sfd-043-emperors-divide"
+      },
+      {
+        "id": "OGN-048",
+        "name": "Meditation",
+        "riftbound_id": "OGN-048",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nAs an additional cost to play this, you may exhaust a friendly unit. If you do, draw 2. Otherwise, draw 1.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nAs an additional cost to play this, you may exhaust a friendly unit. If you do, draw 2. Otherwise, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-048.webp"
+        },
+        "slug": "ogn-048-meditation"
+      },
+      {
+        "id": "SFD-045",
+        "name": "Not So Fast",
+        "riftbound_id": "SFD-045",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter an enemy spell or ability that chooses a friendly unit or gear.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter an enemy spell or ability that chooses a friendly unit or gear."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-045.webp"
+        },
+        "slug": "sfd-045-not-so-fast"
+      },
+      {
+        "id": "OGN-064",
+        "name": "Wind Wall",
+        "riftbound_id": "OGN-064",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-064.webp"
+        },
+        "slug": "ogn-064-wind-wall"
+      },
+      {
+        "id": "SFD-033",
+        "name": "Doran's Shield",
+        "riftbound_id": "SFD-033",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)",
+          "plain": "[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-033.webp"
+        },
+        "slug": "sfd-033-dorans-shield"
+      },
+      {
+        "id": "SFD-051",
+        "name": "Guardian Angel",
+        "riftbound_id": "SFD-051",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)",
+          "plain": "[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-051.webp"
+        },
+        "slug": "sfd-051-guardian-angel"
+      },
+      {
+        "id": "SFD-046",
+        "name": "Poro Snax",
+        "riftbound_id": "SFD-046",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "When you play this, draw 1.\n:rb_energy_1::rb_rune_calm:, :rb_exhaust:, Kill this: Draw 1.",
+          "plain": "When you play this, draw 1.\n:rb_energy_1::rb_rune_calm:, :rb_exhaust:, Kill this: Draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-046.webp"
+        },
+        "slug": "sfd-046-poro-snax"
+      },
+      {
+        "id": "OGN-081",
+        "name": "Seal of Focus",
+        "riftbound_id": "OGN-081",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_calm:. (Abilities that add resources can't be reacted to.)",
+          "plain": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_calm:. (Abilities that add resources can't be reacted to.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-081.webp"
+        },
+        "slug": "ogn-081-seal-of-focus"
+      },
+      {
+        "id": "SFD-192",
+        "name": "Shurelya's Requiem",
+        "riftbound_id": "SFD-192",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": "Signature",
+          "rarity": "Epic",
+          "domain": [
+            "Calm",
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Unique] (Your deck can have only 1 card with this name.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)\nWhen you play this, ready your units.",
+          "plain": "[Unique] (Your deck can have only 1 card with this name.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)\nWhen you play this, ready your units."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-192.webp"
+        },
+        "slug": "sfd-192-shurelyas-requiem"
+      },
+      {
+        "id": "SFD-059",
+        "name": "Svellsongur",
+        "riftbound_id": "SFD-059",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Equip] :rb_energy_1::rb_rune_calm: (:rb_energy_1::rb_rune_calm:: Attach this to a unit you control.)\nAs this is attached to a unit, copy that unit's text to this Equipment's effect text for as long as this is attached to it.",
+          "plain": "[Equip] :rb_energy_1::rb_rune_calm: (:rb_energy_1::rb_rune_calm:: Attach this to a unit you control.)\nAs this is attached to a unit, copy that unit's text to this Equipment's effect text for as long as this is attached to it."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-059.webp"
+        },
+        "slug": "sfd-059-svellsongur"
+      },
+      {
+        "id": "SFD-086",
+        "name": "World Atlas",
+        "riftbound_id": "SFD-086",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Equip] :rb_rune_mind: (:rb_rune_mind:: Attach this to a unit you control.)",
+          "plain": "[Equip] :rb_rune_mind: (:rb_rune_mind:: Attach this to a unit you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-086.webp"
+        },
+        "slug": "sfd-086-world-atlas"
+      },
+      {
+        "id": "OGN-077",
+        "name": "Zhonya's Hourglass",
+        "riftbound_id": "OGN-077",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-077.webp"
+        },
+        "slug": "ogn-077-zhonyas-hourglass"
+      },
+      {
+        "id": "OGN-042",
+        "name": "Calm Rune",
+        "riftbound_id": "OGN-042",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-042.webp"
+        },
+        "slug": "ogn-042-calm-rune"
+      },
+      {
+        "id": "OGN-089",
+        "name": "Mind Rune",
+        "riftbound_id": "OGN-089",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-089.webp"
+        },
+        "slug": "ogn-089-mind-rune"
+      },
+      {
+        "id": "OGN-276",
+        "name": "Aspirant's Climb",
+        "riftbound_id": "OGN-276",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Increase the points needed to win the game by 1.",
+          "plain": "Increase the points needed to win the game by 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-276.webp"
+        },
+        "slug": "ogn-276-aspirants-climb"
+      },
+      {
+        "id": "OGN-284",
+        "name": "Obelisk of Power",
+        "riftbound_id": "OGN-284",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "At the start of each player's first Beginning Phase, that player channels 1 rune.",
+          "plain": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp"
+        },
+        "slug": "ogn-284-obelisk-of-power"
+      },
+      {
+        "id": "SFD-219",
+        "name": "The Papertree",
+        "riftbound_id": "SFD-219",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When you hold here, each player channels 1 rune exhausted.",
+          "plain": "When you hold here, each player channels 1 rune exhausted."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-219.webp"
+        },
+        "slug": "sfd-219-the-papertree"
+      },
+      {
+        "id": "OGN-043",
+        "name": "Charm",
+        "riftbound_id": "OGN-043",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "Move an enemy unit.",
+          "plain": "Move an enemy unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-043.webp"
+        },
+        "slug": "ogn-043-charm"
+      },
+      {
+        "id": "SFD-035",
+        "name": "Guardian of the Passage",
+        "riftbound_id": "SFD-035",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "When I hold, you may return a unit or gear from your trash to your hand.",
+          "plain": "When I hold, you may return a unit or gear from your trash to your hand."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-035.webp"
+        },
+        "slug": "sfd-035-guardian-of-the-passage"
+      },
+      {
+        "id": "SFD-085",
+        "name": "Ornn - Forge God",
+        "riftbound_id": "SFD-085",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)\n[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nI have +1 :rb_might: for each friendly gear.",
+          "plain": "[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)\n[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nI have +1 :rb_might: for each friendly gear."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-085.webp"
+        },
+        "slug": "sfd-085-ornn-forge-god"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-162",
+  "type": "card_snapshot",
+  "title": "Blood Money",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/bologna-regional-qualifier-renata-glasc-official-best-of.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-162",
+    "name": "Blood Money",
+    "riftbound_id": "SFD-162",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield with 2 :rb_might: or less. If it was an enemy unit, play a Gold gear token exhausted. If it was a friendly unit, play two Gold gear tokens exhausted.",
+      "plain": "[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield with 2 :rb_might: or less. If it was an enemy unit, play a Gold gear token exhausted. If it was a friendly unit, play two Gold gear tokens exhausted."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-162.webp"
+    },
+    "slug": "sfd-162-blood-money"
+  }
+}

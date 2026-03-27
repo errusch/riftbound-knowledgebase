@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tournament.additional_turns",
+    "title": "Tournament additional turns mismatch",
+    "canonical_value": "5 additional turns",
+    "message": "Derived source conflicts with local official tournament rules, which specify five additional turns after the active player finishes their turn.",
+    "patterns": [
+      "\\b3 additional turns\\b"
+    ]
+  },
+  {
+    "id": "tournament.two_point_lead",
+    "title": "Tournament win-by-two mismatch",
+    "canonical_value": "highest score after additional turns",
+    "message": "Derived source conflicts with local official tournament rules, which determine the winner by score after additional turns rather than a two-point lead.",
+    "patterns": [
+      "\\b2-point lead\\b",
+      "\\b2 point lead\\b"
+    ]
+  }
+]
+

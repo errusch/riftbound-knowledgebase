@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-021",
+  "type": "card_snapshot",
+  "title": "Ferrous Forerunner",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-lucian-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-021",
+    "name": "Ferrous Forerunner",
+    "riftbound_id": "SFD-021",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 6,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)",
+      "plain": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-021.webp"
+    },
+    "slug": "sfd-021-ferrous-forerunner"
+  }
+}

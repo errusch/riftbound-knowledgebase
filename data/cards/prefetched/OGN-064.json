@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-064",
+  "type": "card_snapshot",
+  "title": "Wind Wall",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ahri-from-bologna-ngb9v.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-064",
+    "name": "Wind Wall",
+    "riftbound_id": "OGN-064",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-064.webp"
+    },
+    "slug": "ogn-064-wind-wall"
+  }
+}

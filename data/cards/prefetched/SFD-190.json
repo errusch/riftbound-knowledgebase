@@ -1,0 +1,42 @@
+{
+  "id": "card_snapshot.SFD-190",
+  "type": "card_snapshot",
+  "title": "Forgefire Cape",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/vegas-regional-qualifier-ornn-official-best-of.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-190",
+    "name": "Forgefire Cape",
+    "riftbound_id": "SFD-190",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Calm",
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Unique] (Your deck can have only 1 card with this name.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)",
+      "plain": "[Unique] (Your deck can have only 1 card with this name.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-190.webp"
+    },
+    "slug": "sfd-190-forgefire-cape"
+  }
+}

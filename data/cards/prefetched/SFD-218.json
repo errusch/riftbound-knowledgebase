@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-218",
+  "type": "card_snapshot",
+  "title": "Sunken Temple",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-fiora-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-218",
+    "name": "Sunken Temple",
+    "riftbound_id": "SFD-218",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer here with one or more [Mighty] units, you may pay :rb_energy_1: to draw 1. (A unit is Mighty while it has 5+ :rb_might:.)",
+      "plain": "When you conquer here with one or more [Mighty] units, you may pay :rb_energy_1: to draw 1. (A unit is Mighty while it has 5+ :rb_might:.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-218.webp"
+    },
+    "slug": "sfd-218-sunken-temple"
+  }
+}

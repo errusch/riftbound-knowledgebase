@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-109",
+  "type": "card_snapshot",
+  "title": "Dr. Mundo - Expert",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ezreal-from-bologna-l4o06.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-109",
+    "name": "Dr. Mundo - Expert",
+    "riftbound_id": "OGN-109",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 8,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "My Might is increased by the number of cards in your trash.\nAt the start of your Beginning Phase, recycle 3 from your trash.",
+      "plain": "My Might is increased by the number of cards in your trash.\nAt the start of your Beginning Phase, recycle 3 from your trash."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-109.webp"
+    },
+    "slug": "ogn-109-dr-mundo-expert"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-147",
+  "type": "card_snapshot",
+  "title": "Downwell",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ezreal-from-bologna-l4o06.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-147",
+    "name": "Downwell",
+    "riftbound_id": "SFD-147",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 8,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "Return all units and gear to their owners' hands.",
+      "plain": "Return all units and gear to their owners' hands."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-147.webp"
+    },
+    "slug": "sfd-147-downwell"
+  }
+}

@@ -1,0 +1,147 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+from pathlib import Path
+import sys
+
+SCRIPT_ROOT = Path(__file__).resolve().parents[2]
+if str(SCRIPT_ROOT) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_ROOT))
+
+from scripts.lib.kb_common import (
+    RAW_SOURCE_ROOT,
+    ROOT,
+    canonical_tags,
+    copy_file,
+    guess_date_from_text,
+    now_iso,
+    parse_numbered_atoms,
+    rebuild_indexes,
+    write_json,
+    write_markdown,
+)
+
+
+OFFICIAL_DOCS = [
+    {
+        "id": "canon.core-rules-v1-2",
+        "title": "Riftbound Core Rules v1.2",
+        "source_txt": RAW_SOURCE_ROOT / "rule-documents" / "[Official Document] Riftbound Rules - Core Rules (v1.2 - 2025-12-01).txt",
+        "source_files": [
+            RAW_SOURCE_ROOT / "rule-documents" / "[Official Document] Riftbound Rules - Core Rules (v1.2 - 2025-12-01).pdf",
+            RAW_SOURCE_ROOT / "rule-documents" / "[Official Document] Riftbound Rules - Core Rules (v1.2 - 2025-12-01).txt",
+        ],
+        "out": ROOT / "canon" / "rules" / "core-rules-v1-2.md",
+        "tags": canonical_tags("rules", "core", "official"),
+    },
+    {
+        "id": "canon.how-to-play-ogn-starter-guide",
+        "title": "How to Play (OGN Starter Guide)",
+        "source_txt": RAW_SOURCE_ROOT / "rule-documents" / "[Official Document] How to Play (OGN Starter Guide).txt",
+        "source_files": [
+            RAW_SOURCE_ROOT / "rule-documents" / "[Official Document] How to Play (OGN Starter Guide).pdf",
+            RAW_SOURCE_ROOT / "rule-documents" / "[Official Document] How to Play (OGN Starter Guide).txt",
+        ],
+        "out": ROOT / "canon" / "rules" / "how-to-play-ogn-starter-guide.md",
+        "tags": canonical_tags("rules", "starter-guide", "official"),
+    },
+    {
+        "id": "canon.tournament-rules-2025-10-16",
+        "title": "Riftbound Tournament Rules (2025-10-16)",
+        "source_txt": RAW_SOURCE_ROOT / "rule-documents" / "tournament-rules.txt",
+        "source_files": [
+            RAW_SOURCE_ROOT / "rule-documents" / "[Official] Riftbound Rules - Tournament Rules (2025-10-16).docx",
+            RAW_SOURCE_ROOT / "rule-documents" / "tournament-rules.txt",
+        ],
+        "out": ROOT / "canon" / "tournament" / "tournament-rules-2025-10-16.md",
+        "tags": canonical_tags("rules", "tournament", "official"),
+    },
+    {
+        "id": "canon.errata-set-1-origins",
+        "title": "Card Errata (Set 1 Origins)",
+        "source_txt": RAW_SOURCE_ROOT / "rule-documents" / "[Official] Riftbound Rules - Card Errata (Set 1 Origins).txt",
+        "source_files": [
+            RAW_SOURCE_ROOT / "rule-documents" / "Errata Documents" / "[Official] Riftbound Rules - Card Errata (Set 1 Origins).pdf",
+            RAW_SOURCE_ROOT / "rule-documents" / "[Official] Riftbound Rules - Card Errata (Set 1 Origins).txt",
+        ],
+        "out": ROOT / "canon" / "errata" / "card-errata-set-1-origins.md",
+        "tags": canonical_tags("errata", "origins", "official"),
+    },
+]
+
+
+def main() -> None:
+    document_index = []
+    all_atoms = []
+    asset_root = ROOT / "assets" / "official" / "rule-documents"
+
+    for spec in OFFICIAL_DOCS:
+        raw_text = ""
+        extraction_status = "missing"
+        if spec["source_txt"].exists():
+            raw_text = spec["source_txt"].read_text(encoding="utf-8")
+            extraction_status = "ok" if raw_text.strip() else "empty_text_file"
+
+        source_files = []
+        for file_path in spec["source_files"]:
+            if file_path.exists():
+                dest = asset_root / file_path.name
+                copy_file(file_path, dest)
+                source_files.append(str(dest.relative_to(ROOT)))
+
+        source_date = guess_date_from_text(spec["title"]) or guess_date_from_text(raw_text) or "unknown"
+        meta = {
+            "id": spec["id"],
+            "type": "canon_document",
+            "title": spec["title"],
+            "source_kind": "official_local_file",
+            "source_path": str(spec["source_txt"]),
+            "source_date": source_date,
+            "trust_level": "official",
+            "status": "reviewed" if extraction_status == "ok" else "draft",
+            "tags": spec["tags"],
+        }
+
+        notes = [
+            "## Import Notes",
+            f"- Imported at: `{now_iso()}`",
+            f"- Extraction status: `{extraction_status}`",
+        ]
+        if extraction_status != "ok":
+            notes.append("- The local text artifact is incomplete. Use the copied source files in `assets/official/rule-documents/` for manual review.")
+        notes.extend(
+            [
+                "",
+                "## Source Files",
+                *[f"- `{path}`" for path in source_files],
+                "",
+                "## Normalized Text",
+                raw_text.strip() if raw_text.strip() else "_No extracted text was available in the local `.txt` artifact._",
+            ]
+        )
+        write_markdown(spec["out"], meta, "\n".join(notes))
+
+        atoms = parse_numbered_atoms(raw_text, spec["id"])
+        for atom in atoms:
+            atom["document"] = spec["id"]
+            atom["source_path"] = str(spec["out"].relative_to(ROOT))
+            atom["trust_level"] = "official"
+        all_atoms.extend(atoms)
+
+        document_index.append(
+            {
+                **meta,
+                "path": str(spec["out"].relative_to(ROOT)),
+                "source_files": source_files,
+                "extraction_status": extraction_status,
+                "atom_count": len(atoms),
+            }
+        )
+
+    write_json(ROOT / "data" / "indexes" / "canon_documents.json", document_index)
+    write_json(ROOT / "data" / "indexes" / "rules_atoms.json", all_atoms)
+    rebuild_indexes()
+
+
+if __name__ == "__main__":
+    main()

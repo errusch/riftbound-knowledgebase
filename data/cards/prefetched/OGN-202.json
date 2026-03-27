@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-202",
+  "type": "card_snapshot",
+  "title": "Jinx - Rebel",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-202",
+    "name": "Jinx - Rebel",
+    "riftbound_id": "OGN-202",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Epic",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you discard one or more cards, ready me and give me +1 :rb_might: this turn.",
+      "plain": "When you discard one or more cards, ready me and give me +1 :rb_might: this turn."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-202.webp"
+    },
+    "slug": "ogn-202-jinx-rebel"
+  }
+}

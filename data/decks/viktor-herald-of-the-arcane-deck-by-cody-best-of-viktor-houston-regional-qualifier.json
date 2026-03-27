@@ -1,0 +1,1443 @@
+{
+  "id": "deck.viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier",
+  "type": "competitive_record",
+  "title": "Viktor - Herald of the Arcane Deck by Cody (Best of Viktor Houston Regional Qualifier)",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "deck",
+    "Viktor",
+    "Origins"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier",
+    "title": "Viktor - Herald of the Arcane Deck by Cody (Best of Viktor Houston Regional Qualifier)",
+    "event": {
+      "slug": "houston-regional-qualifier",
+      "name": "Houston Regional Qualifier",
+      "region": "North America",
+      "eventDate": "2025-12-07",
+      "eventType": "regional_qualifier",
+      "coverageType": "best_of_champion_plus_top_cut",
+      "primarySource": {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+        "publishedAt": "2025-12-11T16:00:00.000Z",
+        "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+        "priority": 1
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "role": "event_recap",
+          "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+          "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+          "publishedAt": "2025-12-11T16:00:00.000Z",
+          "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+          "priority": 1
+        },
+        {
+          "kind": "community",
+          "role": "stats_summary",
+          "label": "Houston Regional Qualifier summary page",
+          "url": "https://riftbound.gg/houston-regional-qualifier-top-decks-for-every-champion/",
+          "publishedAt": null,
+          "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+          "priority": 2
+        }
+      ],
+      "articleSlug": null
+    },
+    "legend": {
+      "slug": "viktor",
+      "name": "Viktor",
+      "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier"
+    },
+    "placementText": "Top 64",
+    "playerName": "Gambit01",
+    "eventPrimarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+      "priority": 1
+    },
+    "decklistSource": {
+      "kind": "official",
+      "role": "decklist",
+      "label": "Viktor official best-of decklist",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "Decklist parsed directly from the official Riot/Riftbound event recap.",
+      "priority": 1
+    },
+    "secondaryDeckSources": [
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Viktor Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 2
+      }
+    ],
+    "sourceUrl": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+    "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier",
+    "format": "Origins",
+    "views": 15933,
+    "cardCounts": {
+      "mainboard": 54,
+      "sideboard": 8
+    },
+    "mainboard": [
+      {
+        "cardCode": "OGN-210",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-210",
+          "name": "Daring Poro",
+          "slug": "ogn-210-daring-poro",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-210.webp",
+          "effect": "[Assault] (+1 :rb_might: while I'm an attacker.)"
+        }
+      },
+      {
+        "cardCode": "OGN-211",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-211",
+          "name": "Faithful Manufactor",
+          "slug": "ogn-211-faithful-manufactor",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-211.webp",
+          "effect": "When you play me, play a 1 :rb_might: Recruit unit token here."
+        }
+      },
+      {
+        "cardCode": "OGN-087",
+        "quantity": 1,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-087",
+          "name": "Lecturing Yordle",
+          "slug": "ogn-087-lecturing-yordle",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-087.webp",
+          "effect": "[Tank] (I must be assigned combat damage first.)\nWhen you play me, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-239",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-239",
+          "name": "Machine Evangel",
+          "slug": "ogn-239-machine-evangel",
+          "cost": 5,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-239.webp",
+          "effect": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "OGN-222",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-222",
+          "name": "Noxian Drummer",
+          "slug": "ogn-222-noxian-drummer",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-222.webp",
+          "effect": "When I move to a battlefield, play a 1 :rb_might: Recruit unit token here. (It is also at the battlefield.)"
+        }
+      },
+      {
+        "cardCode": "OGN-103",
+        "quantity": 1,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-103",
+          "name": "Ravenbloom Student",
+          "slug": "ogn-103-ravenbloom-student",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-103.webp",
+          "effect": "When you play a spell, give me +1 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-092",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-092",
+          "name": "Riptide Rex",
+          "slug": "ogn-092-riptide-rex",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-092.webp",
+          "effect": "When you play me, deal 6 to an enemy unit at a battlefield."
+        }
+      },
+      {
+        "cardCode": "OGN-106",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-106",
+          "name": "Sprite Mother",
+          "slug": "ogn-106-sprite-mother",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-106.webp",
+          "effect": "When you play me, play a ready 3 :rb_might: Sprite unit token with [Temporary] here. (Kill it at the start of its controller's Beginning Phase, before scoring.)"
+        }
+      },
+      {
+        "cardCode": "OGN-116",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-116",
+          "name": "Thousand-Tailed Watcher",
+          "slug": "ogn-116-thousand-tailed-watcher",
+          "cost": 7,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-116.webp",
+          "effect": "[Accelerate] (You may pay :rb_energy_1::rb_rune_mind: as an additional cost to have me enter ready.)\nWhen you play me, give enemy units -3 :rb_might: this turn, to a minimum of 1 :rb_might:."
+        }
+      },
+      {
+        "cardCode": "OGS-016",
+        "quantity": 1,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGS-016",
+          "name": "Vanguard Attendant",
+          "slug": "ogs-016-vanguard-attendant",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Proving Grounds",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGS-016.webp",
+          "effect": "I enter ready."
+        }
+      },
+      {
+        "cardCode": "OGN-207",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-207",
+          "name": "Call to Glory",
+          "slug": "ogn-207-call-to-glory",
+          "cost": 3,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-207.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nAs you play this, you may spend a buff as an additional cost. If you do, ignore this spell's cost.\nGive a unit +3 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-209",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-209",
+          "name": "Cull the Weak",
+          "slug": "ogn-209-cull-the-weak",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-209.webp",
+          "effect": "Each player kills one of their units."
+        }
+      },
+      {
+        "cardCode": "OGN-213",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-213",
+          "name": "Hidden Blade",
+          "slug": "ogn-213-hidden-blade",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-213.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield. Its controller draws 2."
+        }
+      },
+      {
+        "cardCode": "OGN-105",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-105",
+          "name": "Singularity",
+          "slug": "ogn-105-singularity",
+          "cost": 6,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-105.webp",
+          "effect": "Deal 6 to each of up to two units."
+        }
+      },
+      {
+        "cardCode": "OGN-095",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-095",
+          "name": "Stupefy",
+          "slug": "ogn-095-stupefy",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-095.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit -1 :rb_might: this turn, to a minimum of 1 :rb_might:. Draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-089",
+        "quantity": 7,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-089",
+          "name": "Mind Rune",
+          "slug": "ogn-089-mind-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-089.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-214",
+        "quantity": 5,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-214",
+          "name": "Order Rune",
+          "slug": "ogn-214-order-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-214.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-284",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-284",
+          "name": "Obelisk of Power",
+          "slug": "ogn-284-obelisk-of-power",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp",
+          "effect": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        }
+      },
+      {
+        "cardCode": "OGN-294",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-294",
+          "name": "Trifarian War Camp",
+          "slug": "ogn-294-trifarian-war-camp",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-294.webp",
+          "effect": "Units here have +1 :rb_might:. (This includes attackers.)"
+        }
+      },
+      {
+        "cardCode": "OGN-295",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-295",
+          "name": "Vilemaw's Lair",
+          "slug": "ogn-295-vilemaws-lair",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-295.webp",
+          "effect": "Units can't move from here to base."
+        }
+      }
+    ],
+    "sideboard": [
+      {
+        "cardCode": "OGN-208",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-208",
+          "name": "Cruel Patron",
+          "slug": "ogn-208-cruel-patron",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-208.webp",
+          "effect": "As an additional cost to play me, kill a friendly unit."
+        }
+      },
+      {
+        "cardCode": "OGN-233",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-233",
+          "name": "Grand Strategem",
+          "slug": "ogn-233-grand-strategem",
+          "cost": 6,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-233.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nGive friendly units +5 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-221",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-221",
+          "name": "Imperial Decree",
+          "slug": "ogn-221-imperial-decree",
+          "cost": 5,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-221.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nWhen any unit takes damage this turn, kill it."
+        }
+      },
+      {
+        "cardCode": "OGN-224",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-224",
+          "name": "Salvage",
+          "slug": "ogn-224-salvage",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-224.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nYou may kill up to one gear. Draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-093",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-093",
+          "name": "Smoke Screen",
+          "slug": "ogn-093-smoke-screen",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-093.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit -4 :rb_might: this turn, to a minimum of 1 :rb_might:."
+        }
+      }
+    ],
+    "deckDisplay": {
+      "name": "Viktor - Herald of the Arcane Deck by Cody (Best of Viktor Houston Regional Qualifier)",
+      "player": "Gambit01",
+      "event": "Houston Regional Qualifier",
+      "date": "2025-12-07",
+      "legend": "Viktor",
+      "cards": [
+        {
+          "cardId": "OGN-210",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-211",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-087",
+          "quantity": 1,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-239",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-222",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-103",
+          "quantity": 1,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-092",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-106",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-116",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGS-016",
+          "quantity": 1,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-207",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-209",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-213",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-105",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-095",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-089",
+          "quantity": 7,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-214",
+          "quantity": 5,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-284",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-294",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-295",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-208",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-233",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-221",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-224",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-093",
+          "quantity": 1,
+          "section": "sideboard"
+        }
+      ]
+    },
+    "prefetchedCardData": [
+      {
+        "id": "OGN-210",
+        "name": "Daring Poro",
+        "riftbound_id": "OGN-210",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Assault] (+1 :rb_might: while I'm an attacker.)",
+          "plain": "[Assault] (+1 :rb_might: while I'm an attacker.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-210.webp"
+        },
+        "slug": "ogn-210-daring-poro"
+      },
+      {
+        "id": "OGN-211",
+        "name": "Faithful Manufactor",
+        "riftbound_id": "OGN-211",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, play a 1 :rb_might: Recruit unit token here.",
+          "plain": "When you play me, play a 1 :rb_might: Recruit unit token here."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-211.webp"
+        },
+        "slug": "ogn-211-faithful-manufactor"
+      },
+      {
+        "id": "OGN-087",
+        "name": "Lecturing Yordle",
+        "riftbound_id": "OGN-087",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Tank] (I must be assigned combat damage first.)\nWhen you play me, draw 1.",
+          "plain": "[Tank] (I must be assigned combat damage first.)\nWhen you play me, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-087.webp"
+        },
+        "slug": "ogn-087-lecturing-yordle"
+      },
+      {
+        "id": "OGN-239",
+        "name": "Machine Evangel",
+        "riftbound_id": "OGN-239",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 5,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)",
+          "plain": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-239.webp"
+        },
+        "slug": "ogn-239-machine-evangel"
+      },
+      {
+        "id": "OGN-222",
+        "name": "Noxian Drummer",
+        "riftbound_id": "OGN-222",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "When I move to a battlefield, play a 1 :rb_might: Recruit unit token here. (It is also at the battlefield.)",
+          "plain": "When I move to a battlefield, play a 1 :rb_might: Recruit unit token here. (It is also at the battlefield.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-222.webp"
+        },
+        "slug": "ogn-222-noxian-drummer"
+      },
+      {
+        "id": "OGN-103",
+        "name": "Ravenbloom Student",
+        "riftbound_id": "OGN-103",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "When you play a spell, give me +1 :rb_might: this turn.",
+          "plain": "When you play a spell, give me +1 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-103.webp"
+        },
+        "slug": "ogn-103-ravenbloom-student"
+      },
+      {
+        "id": "OGN-092",
+        "name": "Riptide Rex",
+        "riftbound_id": "OGN-092",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, deal 6 to an enemy unit at a battlefield.",
+          "plain": "When you play me, deal 6 to an enemy unit at a battlefield."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-092.webp"
+        },
+        "slug": "ogn-092-riptide-rex"
+      },
+      {
+        "id": "OGN-106",
+        "name": "Sprite Mother",
+        "riftbound_id": "OGN-106",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, play a ready 3 :rb_might: Sprite unit token with [Temporary] here. (Kill it at the start of its controller's Beginning Phase, before scoring.)",
+          "plain": "When you play me, play a ready 3 :rb_might: Sprite unit token with [Temporary] here. (Kill it at the start of its controller's Beginning Phase, before scoring.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-106.webp"
+        },
+        "slug": "ogn-106-sprite-mother"
+      },
+      {
+        "id": "OGN-116",
+        "name": "Thousand-Tailed Watcher",
+        "riftbound_id": "OGN-116",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 7,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_mind: as an additional cost to have me enter ready.)\nWhen you play me, give enemy units -3 :rb_might: this turn, to a minimum of 1 :rb_might:.",
+          "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_mind: as an additional cost to have me enter ready.)\nWhen you play me, give enemy units -3 :rb_might: this turn, to a minimum of 1 :rb_might:."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-116.webp"
+        },
+        "slug": "ogn-116-thousand-tailed-watcher"
+      },
+      {
+        "id": "OGS-016",
+        "name": "Vanguard Attendant",
+        "riftbound_id": "OGS-016",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "I enter ready.",
+          "plain": "I enter ready."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGS-016.webp"
+        },
+        "slug": "ogs-016-vanguard-attendant"
+      },
+      {
+        "id": "OGN-207",
+        "name": "Call to Glory",
+        "riftbound_id": "OGN-207",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nAs you play this, you may spend a buff as an additional cost. If you do, ignore this spell's cost.\nGive a unit +3 :rb_might: this turn.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nAs you play this, you may spend a buff as an additional cost. If you do, ignore this spell's cost.\nGive a unit +3 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-207.webp"
+        },
+        "slug": "ogn-207-call-to-glory"
+      },
+      {
+        "id": "OGN-209",
+        "name": "Cull the Weak",
+        "riftbound_id": "OGN-209",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "Each player kills one of their units.",
+          "plain": "Each player kills one of their units."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-209.webp"
+        },
+        "slug": "ogn-209-cull-the-weak"
+      },
+      {
+        "id": "OGN-213",
+        "name": "Hidden Blade",
+        "riftbound_id": "OGN-213",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield. Its controller draws 2.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield. Its controller draws 2."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-213.webp"
+        },
+        "slug": "ogn-213-hidden-blade"
+      },
+      {
+        "id": "OGN-105",
+        "name": "Singularity",
+        "riftbound_id": "OGN-105",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "Deal 6 to each of up to two units.",
+          "plain": "Deal 6 to each of up to two units."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-105.webp"
+        },
+        "slug": "ogn-105-singularity"
+      },
+      {
+        "id": "OGN-095",
+        "name": "Stupefy",
+        "riftbound_id": "OGN-095",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit -1 :rb_might: this turn, to a minimum of 1 :rb_might:. Draw 1.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit -1 :rb_might: this turn, to a minimum of 1 :rb_might:. Draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-095.webp"
+        },
+        "slug": "ogn-095-stupefy"
+      },
+      {
+        "id": "OGN-089",
+        "name": "Mind Rune",
+        "riftbound_id": "OGN-089",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-089.webp"
+        },
+        "slug": "ogn-089-mind-rune"
+      },
+      {
+        "id": "OGN-214",
+        "name": "Order Rune",
+        "riftbound_id": "OGN-214",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-214.webp"
+        },
+        "slug": "ogn-214-order-rune"
+      },
+      {
+        "id": "OGN-284",
+        "name": "Obelisk of Power",
+        "riftbound_id": "OGN-284",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "At the start of each player's first Beginning Phase, that player channels 1 rune.",
+          "plain": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp"
+        },
+        "slug": "ogn-284-obelisk-of-power"
+      },
+      {
+        "id": "OGN-294",
+        "name": "Trifarian War Camp",
+        "riftbound_id": "OGN-294",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Units here have +1 :rb_might:. (This includes attackers.)",
+          "plain": "Units here have +1 :rb_might:. (This includes attackers.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-294.webp"
+        },
+        "slug": "ogn-294-trifarian-war-camp"
+      },
+      {
+        "id": "OGN-295",
+        "name": "Vilemaw's Lair",
+        "riftbound_id": "OGN-295",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Units can't move from here to base.",
+          "plain": "Units can't move from here to base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-295.webp"
+        },
+        "slug": "ogn-295-vilemaws-lair"
+      },
+      {
+        "id": "OGN-208",
+        "name": "Cruel Patron",
+        "riftbound_id": "OGN-208",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "As an additional cost to play me, kill a friendly unit.",
+          "plain": "As an additional cost to play me, kill a friendly unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-208.webp"
+        },
+        "slug": "ogn-208-cruel-patron"
+      },
+      {
+        "id": "OGN-233",
+        "name": "Grand Strategem",
+        "riftbound_id": "OGN-233",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nGive friendly units +5 :rb_might: this turn.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nGive friendly units +5 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-233.webp"
+        },
+        "slug": "ogn-233-grand-strategem"
+      },
+      {
+        "id": "OGN-221",
+        "name": "Imperial Decree",
+        "riftbound_id": "OGN-221",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 5,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nWhen any unit takes damage this turn, kill it.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nWhen any unit takes damage this turn, kill it."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-221.webp"
+        },
+        "slug": "ogn-221-imperial-decree"
+      },
+      {
+        "id": "OGN-224",
+        "name": "Salvage",
+        "riftbound_id": "OGN-224",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nYou may kill up to one gear. Draw 1.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nYou may kill up to one gear. Draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-224.webp"
+        },
+        "slug": "ogn-224-salvage"
+      },
+      {
+        "id": "OGN-093",
+        "name": "Smoke Screen",
+        "riftbound_id": "OGN-093",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit -4 :rb_might: this turn, to a minimum of 1 :rb_might:.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit -4 :rb_might: this turn, to a minimum of 1 :rb_might:."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-093.webp"
+        },
+        "slug": "ogn-093-smoke-screen"
+      }
+    ]
+  }
+}

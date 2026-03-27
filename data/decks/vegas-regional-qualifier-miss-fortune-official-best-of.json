@@ -1,0 +1,1485 @@
+{
+  "id": "deck.vegas-regional-qualifier-miss-fortune-official-best-of",
+  "type": "competitive_record",
+  "title": "Miss Fortune by sly",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/vegas-regional-qualifier-miss-fortune-official-best-of.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "deck",
+    "Miss Fortune",
+    "Spiritforged"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "vegas-regional-qualifier-miss-fortune-official-best-of",
+    "title": "Miss Fortune by sly",
+    "event": {
+      "slug": "vegas-regional-qualifier",
+      "name": "Vegas Regional Qualifier",
+      "region": "North America",
+      "eventDate": "2026-03-01",
+      "eventType": "regional_qualifier",
+      "coverageType": "best_of_legend_plus_top_cut",
+      "primarySource": {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "Vegas\u2019 Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+        "publishedAt": "2026-03-04T17:00:00.000Z",
+        "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+        "priority": 1
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "role": "event_recap",
+          "label": "Vegas\u2019 Top Decks",
+          "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+          "publishedAt": "2026-03-04T17:00:00.000Z",
+          "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+          "priority": 1
+        },
+        {
+          "kind": "community",
+          "role": "stats_summary",
+          "label": "Vegas Regional Qualifier summary page",
+          "url": "https://riftbound.gg/vegas-regional-qualifier/",
+          "publishedAt": null,
+          "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+          "priority": 2
+        }
+      ],
+      "articleSlug": "vegas-regional-qualifier"
+    },
+    "legend": {
+      "slug": "miss-fortune",
+      "name": "Miss Fortune",
+      "section": "Other Legends"
+    },
+    "placementText": "#134",
+    "playerName": "sly",
+    "eventPrimarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "Vegas\u2019 Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+      "publishedAt": "2026-03-04T17:00:00.000Z",
+      "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+      "priority": 1
+    },
+    "decklistSource": {
+      "kind": "official",
+      "role": "decklist",
+      "label": "Miss Fortune official best-of decklist",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+      "publishedAt": "2026-03-04T17:00:00.000Z",
+      "description": "Decklist parsed directly from the official Riot/Riftbound event recap.",
+      "priority": 1
+    },
+    "secondaryDeckSources": [],
+    "sourceUrl": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+    "previewImageUrl": null,
+    "format": "Spiritforged",
+    "views": 0,
+    "cardCounts": {
+      "mainboard": 54,
+      "sideboard": 8
+    },
+    "mainboard": [
+      {
+        "cardCode": "OGN-192",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-192",
+          "name": "Mindsplitter",
+          "slug": "ogn-192-mindsplitter",
+          "cost": 7,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-192.webp",
+          "effect": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card."
+        }
+      },
+      {
+        "cardCode": "OGN-158",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-158",
+          "name": "Volibear - Imposing",
+          "slug": "ogn-158-volibear-imposing",
+          "cost": 12,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-158.webp",
+          "effect": "[Shield 3] (+3 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nWhen an opponent moves to a battlefield other than mine, draw 1. (Bases are not battlefield.)"
+        }
+      },
+      {
+        "cardCode": "OGN-268",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-268",
+          "name": "Bullet Time",
+          "slug": "ogn-268-bullet-time",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": "Signature",
+          "domains": [
+            "Body",
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-268.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nPay any amount of :rb_rune_rainbow: to deal that much damage to all enemy units at a battlefield."
+        }
+      },
+      {
+        "cardCode": "SFD-122",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-122",
+          "name": "Called Shot",
+          "slug": "sfd-122-called-shot",
+          "cost": null,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-122.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_rune_chaos: (You may pay the additional cost to repeat this spell's effect.)\nLook at the top 2 cards of your Main Deck. Draw one and recycle the other."
+        }
+      },
+      {
+        "cardCode": "OGN-138",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-138",
+          "name": "Catalyst of Aeons",
+          "slug": "ogn-138-catalyst-of-aeons",
+          "cost": 4,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-138.webp",
+          "effect": "Channel 2 runes exhausted. If you couldn't channel 2 runes this way, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-128",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-128",
+          "name": "Challenge",
+          "slug": "ogn-128-challenge",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-128.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other."
+        }
+      },
+      {
+        "cardCode": "OGN-168",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-168",
+          "name": "Fight or Flight",
+          "slug": "ogn-168-fight-or-flight",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-168.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base."
+        }
+      },
+      {
+        "cardCode": "OGN-169",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-169",
+          "name": "Gust",
+          "slug": "ogn-169-gust",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-169.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nReturn a unit at a battlefield with 3 :rb_might: or less to its owner's hand."
+        }
+      },
+      {
+        "cardCode": "SFD-136",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-136",
+          "name": "Hard Bargain",
+          "slug": "sfd-136-hard-bargain",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-136.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\n[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)\nCounter a spell unless its controller pays :rb_energy_2:."
+        }
+      },
+      {
+        "cardCode": "OGN-201",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-201",
+          "name": "Invert Timelines",
+          "slug": "ogn-201-invert-timelines",
+          "cost": 3,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-201.webp",
+          "effect": "Each player discards their hand, then draws 4."
+        }
+      },
+      {
+        "cardCode": "OGN-134",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-134",
+          "name": "Mobilize",
+          "slug": "ogn-134-mobilize",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-134.webp",
+          "effect": "Channel 1 rune exhausted. If you can't, draw 1."
+        }
+      },
+      {
+        "cardCode": "SFD-097",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-097",
+          "name": "Punch First",
+          "slug": "sfd-097-punch-first",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-097.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nGive a unit +5 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-156",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-156",
+          "name": "Sabotage",
+          "slug": "ogn-156-sabotage",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-156.webp",
+          "effect": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card."
+        }
+      },
+      {
+        "cardCode": "OGN-183",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-183",
+          "name": "Stacked Deck",
+          "slug": "ogn-183-stacked-deck",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-183.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest."
+        }
+      },
+      {
+        "cardCode": "OGN-160",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "OGN-160",
+          "name": "Dazzling Aurora",
+          "slug": "ogn-160-dazzling-aurora",
+          "cost": 9,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-160.webp",
+          "effect": "At the end of your turn, reveal cards from the top of your Main Deck until you reveal a unit and banish it. Play it, ignoring its cost, and recycle the rest."
+        }
+      },
+      {
+        "cardCode": "SFD-150",
+        "quantity": 2,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-150",
+          "name": "Last Rites",
+          "slug": "sfd-150-last-rites",
+          "cost": 3,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-150.webp",
+          "effect": "[Equip] \u2014 :rb_rune_chaos:, Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)"
+        }
+      },
+      {
+        "cardCode": "OGN-126",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-126",
+          "name": "Body Rune",
+          "slug": "ogn-126-body-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-126.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-166",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-166",
+          "name": "Chaos Rune",
+          "slug": "ogn-166-chaos-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-166.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-276",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-276",
+          "name": "Aspirant's Climb",
+          "slug": "ogn-276-aspirants-climb",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-276.webp",
+          "effect": "Increase the points needed to win the game by 1."
+        }
+      },
+      {
+        "cardCode": "OGN-284",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-284",
+          "name": "Obelisk of Power",
+          "slug": "ogn-284-obelisk-of-power",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp",
+          "effect": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        }
+      },
+      {
+        "cardCode": "OGN-287",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-287",
+          "name": "Sigil of the Storm",
+          "slug": "ogn-287-sigil-of-the-storm",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-287.webp",
+          "effect": "When you conquer here, you must recycle one of your runes. (This doesn\u2019t choose anything.)"
+        }
+      }
+    ],
+    "sideboard": [
+      {
+        "cardCode": "SFD-135",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-135",
+          "name": "Factory Recall",
+          "slug": "sfd-135-factory-recall",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-135.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nReturn a gear to its owner's hand."
+        }
+      },
+      {
+        "cardCode": "OGN-180",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-180",
+          "name": "Fading Memories",
+          "slug": "ogn-180-fading-memories",
+          "cost": 4,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-180.webp",
+          "effect": "Give a unit at a battlefield or a gear [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)"
+        }
+      },
+      {
+        "cardCode": "OGN-169",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-169",
+          "name": "Gust",
+          "slug": "ogn-169-gust",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-169.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nReturn a unit at a battlefield with 3 :rb_might: or less to its owner's hand."
+        }
+      },
+      {
+        "cardCode": "OGN-201",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-201",
+          "name": "Invert Timelines",
+          "slug": "ogn-201-invert-timelines",
+          "cost": 3,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-201.webp",
+          "effect": "Each player discards their hand, then draws 4."
+        }
+      },
+      {
+        "cardCode": "OGN-193",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-193",
+          "name": "Miss Fortune - Buccaneer",
+          "slug": "ogn-193-miss-fortune-buccaneer",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-193.webp",
+          "effect": "You may play me to an open battlefield.\nFriendly units may be played to open battlefields."
+        }
+      },
+      {
+        "cardCode": "OGN-145",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-145",
+          "name": "Unyielding Spirit",
+          "slug": "ogn-145-unyielding-spirit",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-145.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nPrevent all spell and ability damage this turn."
+        }
+      }
+    ],
+    "deckDisplay": {
+      "name": "Miss Fortune by sly",
+      "player": "sly",
+      "event": "Vegas Regional Qualifier",
+      "date": "2026-03-01",
+      "legend": "Miss Fortune",
+      "cards": [
+        {
+          "cardId": "OGN-192",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-158",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-268",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-122",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-138",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-128",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-168",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-169",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-136",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-201",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-134",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-097",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-156",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-183",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-160",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "SFD-150",
+          "quantity": 2,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-126",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-166",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-276",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-284",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-287",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "SFD-135",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-180",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-169",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-201",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-193",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-145",
+          "quantity": 2,
+          "section": "sideboard"
+        }
+      ]
+    },
+    "prefetchedCardData": [
+      {
+        "id": "OGN-192",
+        "name": "Mindsplitter",
+        "riftbound_id": "OGN-192",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 7,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card.",
+          "plain": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-192.webp"
+        },
+        "slug": "ogn-192-mindsplitter"
+      },
+      {
+        "id": "OGN-158",
+        "name": "Volibear - Imposing",
+        "riftbound_id": "OGN-158",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 12,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Shield 3] (+3 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nWhen an opponent moves to a battlefield other than mine, draw 1. (Bases are not battlefield.)",
+          "plain": "[Shield 3] (+3 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nWhen an opponent moves to a battlefield other than mine, draw 1. (Bases are not battlefield.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-158.webp"
+        },
+        "slug": "ogn-158-volibear-imposing"
+      },
+      {
+        "id": "OGN-268",
+        "name": "Bullet Time",
+        "riftbound_id": "OGN-268",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": "Signature",
+          "rarity": "Epic",
+          "domain": [
+            "Body",
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nPay any amount of :rb_rune_rainbow: to deal that much damage to all enemy units at a battlefield.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nPay any amount of :rb_rune_rainbow: to deal that much damage to all enemy units at a battlefield."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-268.webp"
+        },
+        "slug": "ogn-268-bullet-time"
+      },
+      {
+        "id": "SFD-122",
+        "name": "Called Shot",
+        "riftbound_id": "SFD-122",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_rune_chaos: (You may pay the additional cost to repeat this spell's effect.)\nLook at the top 2 cards of your Main Deck. Draw one and recycle the other.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_rune_chaos: (You may pay the additional cost to repeat this spell's effect.)\nLook at the top 2 cards of your Main Deck. Draw one and recycle the other."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-122.webp"
+        },
+        "slug": "sfd-122-called-shot"
+      },
+      {
+        "id": "OGN-138",
+        "name": "Catalyst of Aeons",
+        "riftbound_id": "OGN-138",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "Channel 2 runes exhausted. If you couldn't channel 2 runes this way, draw 1.",
+          "plain": "Channel 2 runes exhausted. If you couldn't channel 2 runes this way, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-138.webp"
+        },
+        "slug": "ogn-138-catalyst-of-aeons"
+      },
+      {
+        "id": "OGN-128",
+        "name": "Challenge",
+        "riftbound_id": "OGN-128",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-128.webp"
+        },
+        "slug": "ogn-128-challenge"
+      },
+      {
+        "id": "OGN-168",
+        "name": "Fight or Flight",
+        "riftbound_id": "OGN-168",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-168.webp"
+        },
+        "slug": "ogn-168-fight-or-flight"
+      },
+      {
+        "id": "OGN-169",
+        "name": "Gust",
+        "riftbound_id": "OGN-169",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nReturn a unit at a battlefield with 3 :rb_might: or less to its owner's hand.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nReturn a unit at a battlefield with 3 :rb_might: or less to its owner's hand."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-169.webp"
+        },
+        "slug": "ogn-169-gust"
+      },
+      {
+        "id": "SFD-136",
+        "name": "Hard Bargain",
+        "riftbound_id": "SFD-136",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\n[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)\nCounter a spell unless its controller pays :rb_energy_2:.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\n[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)\nCounter a spell unless its controller pays :rb_energy_2:."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-136.webp"
+        },
+        "slug": "sfd-136-hard-bargain"
+      },
+      {
+        "id": "OGN-201",
+        "name": "Invert Timelines",
+        "riftbound_id": "OGN-201",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "Each player discards their hand, then draws 4.",
+          "plain": "Each player discards their hand, then draws 4."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-201.webp"
+        },
+        "slug": "ogn-201-invert-timelines"
+      },
+      {
+        "id": "OGN-134",
+        "name": "Mobilize",
+        "riftbound_id": "OGN-134",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "Channel 1 rune exhausted. If you can't, draw 1.",
+          "plain": "Channel 1 rune exhausted. If you can't, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-134.webp"
+        },
+        "slug": "ogn-134-mobilize"
+      },
+      {
+        "id": "SFD-097",
+        "name": "Punch First",
+        "riftbound_id": "SFD-097",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nGive a unit +5 :rb_might: this turn.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nGive a unit +5 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-097.webp"
+        },
+        "slug": "sfd-097-punch-first"
+      },
+      {
+        "id": "OGN-156",
+        "name": "Sabotage",
+        "riftbound_id": "OGN-156",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card.",
+          "plain": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-156.webp"
+        },
+        "slug": "ogn-156-sabotage"
+      },
+      {
+        "id": "OGN-183",
+        "name": "Stacked Deck",
+        "riftbound_id": "OGN-183",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-183.webp"
+        },
+        "slug": "ogn-183-stacked-deck"
+      },
+      {
+        "id": "OGN-160",
+        "name": "Dazzling Aurora",
+        "riftbound_id": "OGN-160",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 9,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "At the end of your turn, reveal cards from the top of your Main Deck until you reveal a unit and banish it. Play it, ignoring its cost, and recycle the rest.",
+          "plain": "At the end of your turn, reveal cards from the top of your Main Deck until you reveal a unit and banish it. Play it, ignoring its cost, and recycle the rest."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-160.webp"
+        },
+        "slug": "ogn-160-dazzling-aurora"
+      },
+      {
+        "id": "SFD-150",
+        "name": "Last Rites",
+        "riftbound_id": "SFD-150",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Equip] \u2014 :rb_rune_chaos:, Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)",
+          "plain": "[Equip] \u2014 :rb_rune_chaos:, Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-150.webp"
+        },
+        "slug": "sfd-150-last-rites"
+      },
+      {
+        "id": "OGN-126",
+        "name": "Body Rune",
+        "riftbound_id": "OGN-126",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-126.webp"
+        },
+        "slug": "ogn-126-body-rune"
+      },
+      {
+        "id": "OGN-166",
+        "name": "Chaos Rune",
+        "riftbound_id": "OGN-166",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-166.webp"
+        },
+        "slug": "ogn-166-chaos-rune"
+      },
+      {
+        "id": "OGN-276",
+        "name": "Aspirant's Climb",
+        "riftbound_id": "OGN-276",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Increase the points needed to win the game by 1.",
+          "plain": "Increase the points needed to win the game by 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-276.webp"
+        },
+        "slug": "ogn-276-aspirants-climb"
+      },
+      {
+        "id": "OGN-284",
+        "name": "Obelisk of Power",
+        "riftbound_id": "OGN-284",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "At the start of each player's first Beginning Phase, that player channels 1 rune.",
+          "plain": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp"
+        },
+        "slug": "ogn-284-obelisk-of-power"
+      },
+      {
+        "id": "OGN-287",
+        "name": "Sigil of the Storm",
+        "riftbound_id": "OGN-287",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When you conquer here, you must recycle one of your runes. (This doesn\u2019t choose anything.)",
+          "plain": "When you conquer here, you must recycle one of your runes. (This doesn\u2019t choose anything.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-287.webp"
+        },
+        "slug": "ogn-287-sigil-of-the-storm"
+      },
+      {
+        "id": "SFD-135",
+        "name": "Factory Recall",
+        "riftbound_id": "SFD-135",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nReturn a gear to its owner's hand.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nReturn a gear to its owner's hand."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-135.webp"
+        },
+        "slug": "sfd-135-factory-recall"
+      },
+      {
+        "id": "OGN-180",
+        "name": "Fading Memories",
+        "riftbound_id": "OGN-180",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "Give a unit at a battlefield or a gear [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)",
+          "plain": "Give a unit at a battlefield or a gear [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-180.webp"
+        },
+        "slug": "ogn-180-fading-memories"
+      },
+      {
+        "id": "OGN-193",
+        "name": "Miss Fortune - Buccaneer",
+        "riftbound_id": "OGN-193",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "You may play me to an open battlefield.\nFriendly units may be played to open battlefields.",
+          "plain": "You may play me to an open battlefield.\nFriendly units may be played to open battlefields."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-193.webp"
+        },
+        "slug": "ogn-193-miss-fortune-buccaneer"
+      },
+      {
+        "id": "OGN-145",
+        "name": "Unyielding Spirit",
+        "riftbound_id": "OGN-145",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nPrevent all spell and ability damage this turn.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nPrevent all spell and ability damage this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-145.webp"
+        },
+        "slug": "ogn-145-unyielding-spirit"
+      }
+    ]
+  }
+}

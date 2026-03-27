@@ -1,0 +1,42 @@
+{
+  "id": "card_snapshot.SFD-192",
+  "type": "card_snapshot",
+  "title": "Shurelya's Requiem",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ornn-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-192",
+    "name": "Shurelya's Requiem",
+    "riftbound_id": "SFD-192",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Calm",
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Unique] (Your deck can have only 1 card with this name.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)\nWhen you play this, ready your units.",
+      "plain": "[Unique] (Your deck can have only 1 card with this name.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)\nWhen you play this, ready your units."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-192.webp"
+    },
+    "slug": "sfd-192-shurelyas-requiem"
+  }
+}

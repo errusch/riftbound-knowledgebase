@@ -1,0 +1,42 @@
+{
+  "id": "card_snapshot.OGN-262",
+  "type": "card_snapshot",
+  "title": "Zenith Blade",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-leona-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-262",
+    "name": "Zenith Blade",
+    "riftbound_id": "OGN-262",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Calm",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)\nStun an enemy unit at a battlefield. You may move a friendly unit to that enemy unit's battlefield. (A stunned unit doesn't deal combat damage this turn.)",
+      "plain": "[Action] (Play on your turn or in showdowns.)\nStun an enemy unit at a battlefield. You may move a friendly unit to that enemy unit's battlefield. (A stunned unit doesn't deal combat damage this turn.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-262.webp"
+    },
+    "slug": "ogn-262-zenith-blade"
+  }
+}

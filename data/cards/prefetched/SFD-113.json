@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-113",
+  "type": "card_snapshot",
+  "title": "Lucian - Merciless",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-fiora-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-113",
+    "name": "Lucian - Merciless",
+    "riftbound_id": "SFD-113",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nThe first time I conquer each turn, ready me.",
+      "plain": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nThe first time I conquer each turn, ready me."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-113.webp"
+    },
+    "slug": "sfd-113-lucian-merciless"
+  }
+}

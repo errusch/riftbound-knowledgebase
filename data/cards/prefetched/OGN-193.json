@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-193",
+  "type": "card_snapshot",
+  "title": "Miss Fortune - Buccaneer",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-mf-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-193",
+    "name": "Miss Fortune - Buccaneer",
+    "riftbound_id": "OGN-193",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "You may play me to an open battlefield.\nFriendly units may be played to open battlefields.",
+      "plain": "You may play me to an open battlefield.\nFriendly units may be played to open battlefields."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-193.webp"
+    },
+    "slug": "ogn-193-miss-fortune-buccaneer"
+  }
+}

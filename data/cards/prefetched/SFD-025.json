@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-025",
+  "type": "card_snapshot",
+  "title": "Rengar - Pouncing",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-annie-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-025",
+    "name": "Rengar - Pouncing",
+    "riftbound_id": "SFD-025",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n[Assault 2] (+2 :rb_might: while I'm an attacker.)\nI can be played to a battlefield you're attacking.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n[Assault 2] (+2 :rb_might: while I'm an attacker.)\nI can be played to a battlefield you're attacking."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-025.webp"
+    },
+    "slug": "sfd-025-rengar-pouncing"
+  }
+}

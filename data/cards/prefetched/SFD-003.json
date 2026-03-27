@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-003",
+  "type": "card_snapshot",
+  "title": "Blood Rush",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-reksai-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-003",
+    "name": "Blood Rush",
+    "riftbound_id": "SFD-003",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_energy_1: (You may pay the additional cost to repeat this spell's effect.)\nGive a unit [Assault 2] this turn. (+2 :rb_might: while it's an attacker.)",
+      "plain": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_energy_1: (You may pay the additional cost to repeat this spell's effect.)\nGive a unit [Assault 2] this turn. (+2 :rb_might: while it's an attacker.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-003.webp"
+    },
+    "slug": "sfd-003-blood-rush"
+  }
+}

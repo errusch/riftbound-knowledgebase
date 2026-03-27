@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-017",
+  "type": "card_snapshot",
+  "title": "Iron Ballista",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/volibear-relentless-storm-deck-by-malakx-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-017",
+    "name": "Iron Ballista",
+    "riftbound_id": "OGN-017",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "This enters exhausted.\n:rb_exhaust:: Deal 2 to a unit at a battlefield.",
+      "plain": "This enters exhausted.\n:rb_exhaust:: Deal 2 to a unit at a battlefield."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-017.webp"
+    },
+    "slug": "ogn-017-iron-ballista"
+  }
+}

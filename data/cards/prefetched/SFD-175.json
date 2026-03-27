@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-175",
+  "type": "card_snapshot",
+  "title": "Undertitan",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-reksai-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-175",
+    "name": "Undertitan",
+    "riftbound_id": "SFD-175",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 6,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, give your other units +2 :rb_might: this turn.\nAs I'm revealed from your deck, [Add] :rb_energy_2:.",
+      "plain": "When you play me, give your other units +2 :rb_might: this turn.\nAs I'm revealed from your deck, [Add] :rb_energy_2:."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-175.webp"
+    },
+    "slug": "sfd-175-undertitan"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-021",
+  "type": "card_snapshot",
+  "title": "Sun Disc",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-reksai-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-021",
+    "name": "Sun Disc",
+    "riftbound_id": "OGN-021",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: [Legion] \u2014 The next unit you play this turn enters ready. (Get the effect if you've played another card this turn.)",
+      "plain": ":rb_exhaust:: [Legion] \u2014 The next unit you play this turn enters ready. (Get the effect if you've played another card this turn.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-021.webp"
+    },
+    "slug": "ogn-021-sun-disc"
+  }
+}

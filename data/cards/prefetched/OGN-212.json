@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-212",
+  "type": "card_snapshot",
+  "title": "Forge of the Future",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-darius-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-212",
+    "name": "Forge of the Future",
+    "riftbound_id": "OGN-212",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you play this, play a 1 :rb_might: Recruit unit token at your base.\nKill this: Recycle up to 4 cards from trashes.",
+      "plain": "When you play this, play a 1 :rb_might: Recruit unit token at your base.\nKill this: Recycle up to 4 cards from trashes."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-212.webp"
+    },
+    "slug": "ogn-212-forge-of-the-future"
+  }
+}

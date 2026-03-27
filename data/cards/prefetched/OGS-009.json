@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGS-009",
+  "type": "card_snapshot",
+  "title": "Master Yi - Honed",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/master-yi-rank-2-deck-national-open-shanghai.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGS-009",
+    "name": "Master Yi - Honed",
+    "riftbound_id": "OGS-009",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 7,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Epic",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Ganking] (I can move from battlefield to battlefield.)\nI enter ready.",
+      "plain": "[Ganking] (I can move from battlefield to battlefield.)\nI enter ready."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGS-009.webp"
+    },
+    "slug": "ogs-009-master-yi-honed"
+  }
+}

@@ -1,0 +1,1540 @@
+{
+  "id": "deck.yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier",
+  "type": "competitive_record",
+  "title": "Yasuo - Unforgiven Deck by Ghael Winds (Best of Yasuo Houston Regional Qualifier)",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "deck",
+    "Yasuo",
+    "Origins"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier",
+    "title": "Yasuo - Unforgiven Deck by Ghael Winds (Best of Yasuo Houston Regional Qualifier)",
+    "event": {
+      "slug": "houston-regional-qualifier",
+      "name": "Houston Regional Qualifier",
+      "region": "North America",
+      "eventDate": "2025-12-07",
+      "eventType": "regional_qualifier",
+      "coverageType": "best_of_champion_plus_top_cut",
+      "primarySource": {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+        "publishedAt": "2025-12-11T16:00:00.000Z",
+        "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+        "priority": 1
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "role": "event_recap",
+          "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+          "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+          "publishedAt": "2025-12-11T16:00:00.000Z",
+          "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+          "priority": 1
+        },
+        {
+          "kind": "community",
+          "role": "stats_summary",
+          "label": "Houston Regional Qualifier summary page",
+          "url": "https://riftbound.gg/houston-regional-qualifier-top-decks-for-every-champion/",
+          "publishedAt": null,
+          "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+          "priority": 2
+        }
+      ],
+      "articleSlug": null
+    },
+    "legend": {
+      "slug": "yasuo",
+      "name": "Yasuo",
+      "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier"
+    },
+    "placementText": "Top 64",
+    "playerName": "Ghael Winds",
+    "eventPrimarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+      "priority": 1
+    },
+    "decklistSource": {
+      "kind": "official",
+      "role": "decklist",
+      "label": "Yasuo official best-of decklist",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "Decklist parsed directly from the official Riot/Riftbound event recap.",
+      "priority": 1
+    },
+    "secondaryDeckSources": [
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Yasuo Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 2
+      }
+    ],
+    "sourceUrl": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+    "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier",
+    "format": "Origins",
+    "views": 16132,
+    "cardCounts": {
+      "mainboard": 54,
+      "sideboard": 8
+    },
+    "mainboard": [
+      {
+        "cardCode": "OGN-044",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-044",
+          "name": "Clockwork Keeper",
+          "slug": "ogn-044-clockwork-keeper",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-044.webp",
+          "effect": "You may pay :rb_rune_calm: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-192",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-192",
+          "name": "Mindsplitter",
+          "slug": "ogn-192-mindsplitter",
+          "cost": 7,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-192.webp",
+          "effect": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card."
+        }
+      },
+      {
+        "cardCode": "OGN-195",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-195",
+          "name": "Rhasa the Sunderer",
+          "slug": "ogn-195-rhasa-the-sunderer",
+          "cost": 10,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-195.webp",
+          "effect": "I cost :rb_energy_1: less for each card in your trash."
+        }
+      },
+      {
+        "cardCode": "OGN-052",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-052",
+          "name": "Stalwart Poro",
+          "slug": "ogn-052-stalwart-poro",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-052.webp",
+          "effect": "[Shield] (+1 :rb_might: while I'm a defender.)"
+        }
+      },
+      {
+        "cardCode": "OGN-199",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-199",
+          "name": "Tideturner",
+          "slug": "ogn-199-tideturner",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-199.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nWhen you play me, you may choose a unit you control at another location. Move me to its location and it to my original location."
+        }
+      },
+      {
+        "cardCode": "OGN-185",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-185",
+          "name": "Traveling Merchant",
+          "slug": "ogn-185-traveling-merchant",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-185.webp",
+          "effect": "When I move, discard 1, then draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-055",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-055",
+          "name": "Wielder of Water",
+          "slug": "ogn-055-wielder-of-water",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-055.webp",
+          "effect": "While I'm attacking or defending alone, I have +2 :rb_might:."
+        }
+      },
+      {
+        "cardCode": "OGN-043",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-043",
+          "name": "Charm",
+          "slug": "ogn-043-charm",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-043.webp",
+          "effect": "Move an enemy unit."
+        }
+      },
+      {
+        "cardCode": "OGN-045",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-045",
+          "name": "Defy",
+          "slug": "ogn-045-defy",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-045.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:."
+        }
+      },
+      {
+        "cardCode": "OGN-058",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-058",
+          "name": "Discipline",
+          "slug": "ogn-058-discipline",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-058.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit +2 :rb_might: this turn. Draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-046",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-046",
+          "name": "En Garde",
+          "slug": "ogn-046-en-garde",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-046.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a friendly unit +1 :rb_might: this turn, then an additional +1 :rb_might: this turn if it is the only unit you control there."
+        }
+      },
+      {
+        "cardCode": "OGN-168",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-168",
+          "name": "Fight or Flight",
+          "slug": "ogn-168-fight-or-flight",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-168.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base."
+        }
+      },
+      {
+        "cardCode": "OGN-169",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-169",
+          "name": "Gust",
+          "slug": "ogn-169-gust",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-169.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nReturn a unit at a battlefield with 3 :rb_might: or less to its owner's hand."
+        }
+      },
+      {
+        "cardCode": "OGN-172",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-172",
+          "name": "Rebuke",
+          "slug": "ogn-172-rebuke",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-172.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nReturn a unit at a battlefield to its owner's hand."
+        }
+      },
+      {
+        "cardCode": "OGN-183",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-183",
+          "name": "Stacked Deck",
+          "slug": "ogn-183-stacked-deck",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-183.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest."
+        }
+      },
+      {
+        "cardCode": "OGN-060",
+        "quantity": 1,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "OGN-060",
+          "name": "Mask of Foresight",
+          "slug": "ogn-060-mask-of-foresight",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-060.webp",
+          "effect": "When a friendly unit attacks or defends alone, give it +1 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-182",
+        "quantity": 2,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "OGN-182",
+          "name": "Scrapheap",
+          "slug": "ogn-182-scrapheap",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-182.webp",
+          "effect": "When this is played, discarded, or killed, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-077",
+        "quantity": 1,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "OGN-077",
+          "name": "Zhonya's Hourglass",
+          "slug": "ogn-077-zhonyas-hourglass",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-077.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)"
+        }
+      },
+      {
+        "cardCode": "OGN-042",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-042",
+          "name": "Calm Rune",
+          "slug": "ogn-042-calm-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-042.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-166",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-166",
+          "name": "Chaos Rune",
+          "slug": "ogn-166-chaos-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-166.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-289",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-289",
+          "name": "Targon's Peak",
+          "slug": "ogn-289-targons-peak",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-289.webp",
+          "effect": "When you conquer here, ready up to 2 runes at the end of this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-297",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-297",
+          "name": "Windswept Hillock",
+          "slug": "ogn-297-windswept-hillock",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-297.webp",
+          "effect": "Units here have [Ganking]. (They can move from battlefield to battlefield.)"
+        }
+      },
+      {
+        "cardCode": "OGN-298",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-298",
+          "name": "Zaun Warrens",
+          "slug": "ogn-298-zaun-warrens",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-298.webp",
+          "effect": "When you conquer here, discard 1, then draw 1."
+        }
+      }
+    ],
+    "sideboard": [
+      {
+        "cardCode": "OGN-045",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-045",
+          "name": "Defy",
+          "slug": "ogn-045-defy",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-045.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:."
+        }
+      },
+      {
+        "cardCode": "OGN-169",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-169",
+          "name": "Gust",
+          "slug": "ogn-169-gust",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-169.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nReturn a unit at a battlefield with 3 :rb_might: or less to its owner's hand."
+        }
+      },
+      {
+        "cardCode": "OGN-060",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-060",
+          "name": "Mask of Foresight",
+          "slug": "ogn-060-mask-of-foresight",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-060.webp",
+          "effect": "When a friendly unit attacks or defends alone, give it +1 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-172",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-172",
+          "name": "Rebuke",
+          "slug": "ogn-172-rebuke",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-172.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nReturn a unit at a battlefield to its owner's hand."
+        }
+      },
+      {
+        "cardCode": "OGN-173",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-173",
+          "name": "Ride the Wind",
+          "slug": "ogn-173-ride-the-wind",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-173.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit and ready it."
+        }
+      },
+      {
+        "cardCode": "OGN-199",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-199",
+          "name": "Tideturner",
+          "slug": "ogn-199-tideturner",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-199.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nWhen you play me, you may choose a unit you control at another location. Move me to its location and it to my original location."
+        }
+      },
+      {
+        "cardCode": "OGN-077",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-077",
+          "name": "Zhonya's Hourglass",
+          "slug": "ogn-077-zhonyas-hourglass",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-077.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)"
+        }
+      }
+    ],
+    "deckDisplay": {
+      "name": "Yasuo - Unforgiven Deck by Ghael Winds (Best of Yasuo Houston Regional Qualifier)",
+      "player": "Ghael Winds",
+      "event": "Houston Regional Qualifier",
+      "date": "2025-12-07",
+      "legend": "Yasuo",
+      "cards": [
+        {
+          "cardId": "OGN-044",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-192",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-195",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-052",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-199",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-185",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-055",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-043",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-045",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-058",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-046",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-168",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-169",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-172",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-183",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-060",
+          "quantity": 1,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-182",
+          "quantity": 2,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-077",
+          "quantity": 1,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-042",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-166",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-289",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-297",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-298",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-045",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-169",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-060",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-172",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-173",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-199",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-077",
+          "quantity": 1,
+          "section": "sideboard"
+        }
+      ]
+    },
+    "prefetchedCardData": [
+      {
+        "id": "OGN-044",
+        "name": "Clockwork Keeper",
+        "riftbound_id": "OGN-044",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "You may pay :rb_rune_calm: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, draw 1.",
+          "plain": "You may pay :rb_rune_calm: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-044.webp"
+        },
+        "slug": "ogn-044-clockwork-keeper"
+      },
+      {
+        "id": "OGN-192",
+        "name": "Mindsplitter",
+        "riftbound_id": "OGN-192",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 7,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card.",
+          "plain": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-192.webp"
+        },
+        "slug": "ogn-192-mindsplitter"
+      },
+      {
+        "id": "OGN-195",
+        "name": "Rhasa the Sunderer",
+        "riftbound_id": "OGN-195",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 10,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "I cost :rb_energy_1: less for each card in your trash.",
+          "plain": "I cost :rb_energy_1: less for each card in your trash."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-195.webp"
+        },
+        "slug": "ogn-195-rhasa-the-sunderer"
+      },
+      {
+        "id": "OGN-052",
+        "name": "Stalwart Poro",
+        "riftbound_id": "OGN-052",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Shield] (+1 :rb_might: while I'm a defender.)",
+          "plain": "[Shield] (+1 :rb_might: while I'm a defender.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-052.webp"
+        },
+        "slug": "ogn-052-stalwart-poro"
+      },
+      {
+        "id": "OGN-199",
+        "name": "Tideturner",
+        "riftbound_id": "OGN-199",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nWhen you play me, you may choose a unit you control at another location. Move me to its location and it to my original location.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nWhen you play me, you may choose a unit you control at another location. Move me to its location and it to my original location."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-199.webp"
+        },
+        "slug": "ogn-199-tideturner"
+      },
+      {
+        "id": "OGN-185",
+        "name": "Traveling Merchant",
+        "riftbound_id": "OGN-185",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "When I move, discard 1, then draw 1.",
+          "plain": "When I move, discard 1, then draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-185.webp"
+        },
+        "slug": "ogn-185-traveling-merchant"
+      },
+      {
+        "id": "OGN-055",
+        "name": "Wielder of Water",
+        "riftbound_id": "OGN-055",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "While I'm attacking or defending alone, I have +2 :rb_might:.",
+          "plain": "While I'm attacking or defending alone, I have +2 :rb_might:."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-055.webp"
+        },
+        "slug": "ogn-055-wielder-of-water"
+      },
+      {
+        "id": "OGN-043",
+        "name": "Charm",
+        "riftbound_id": "OGN-043",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "Move an enemy unit.",
+          "plain": "Move an enemy unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-043.webp"
+        },
+        "slug": "ogn-043-charm"
+      },
+      {
+        "id": "OGN-045",
+        "name": "Defy",
+        "riftbound_id": "OGN-045",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-045.webp"
+        },
+        "slug": "ogn-045-defy"
+      },
+      {
+        "id": "OGN-058",
+        "name": "Discipline",
+        "riftbound_id": "OGN-058",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit +2 :rb_might: this turn. Draw 1.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit +2 :rb_might: this turn. Draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-058.webp"
+        },
+        "slug": "ogn-058-discipline"
+      },
+      {
+        "id": "OGN-046",
+        "name": "En Garde",
+        "riftbound_id": "OGN-046",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a friendly unit +1 :rb_might: this turn, then an additional +1 :rb_might: this turn if it is the only unit you control there.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a friendly unit +1 :rb_might: this turn, then an additional +1 :rb_might: this turn if it is the only unit you control there."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-046.webp"
+        },
+        "slug": "ogn-046-en-garde"
+      },
+      {
+        "id": "OGN-168",
+        "name": "Fight or Flight",
+        "riftbound_id": "OGN-168",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-168.webp"
+        },
+        "slug": "ogn-168-fight-or-flight"
+      },
+      {
+        "id": "OGN-169",
+        "name": "Gust",
+        "riftbound_id": "OGN-169",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nReturn a unit at a battlefield with 3 :rb_might: or less to its owner's hand.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nReturn a unit at a battlefield with 3 :rb_might: or less to its owner's hand."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-169.webp"
+        },
+        "slug": "ogn-169-gust"
+      },
+      {
+        "id": "OGN-172",
+        "name": "Rebuke",
+        "riftbound_id": "OGN-172",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nReturn a unit at a battlefield to its owner's hand.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nReturn a unit at a battlefield to its owner's hand."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-172.webp"
+        },
+        "slug": "ogn-172-rebuke"
+      },
+      {
+        "id": "OGN-183",
+        "name": "Stacked Deck",
+        "riftbound_id": "OGN-183",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-183.webp"
+        },
+        "slug": "ogn-183-stacked-deck"
+      },
+      {
+        "id": "OGN-060",
+        "name": "Mask of Foresight",
+        "riftbound_id": "OGN-060",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "When a friendly unit attacks or defends alone, give it +1 :rb_might: this turn.",
+          "plain": "When a friendly unit attacks or defends alone, give it +1 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-060.webp"
+        },
+        "slug": "ogn-060-mask-of-foresight"
+      },
+      {
+        "id": "OGN-182",
+        "name": "Scrapheap",
+        "riftbound_id": "OGN-182",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "When this is played, discarded, or killed, draw 1.",
+          "plain": "When this is played, discarded, or killed, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-182.webp"
+        },
+        "slug": "ogn-182-scrapheap"
+      },
+      {
+        "id": "OGN-077",
+        "name": "Zhonya's Hourglass",
+        "riftbound_id": "OGN-077",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-077.webp"
+        },
+        "slug": "ogn-077-zhonyas-hourglass"
+      },
+      {
+        "id": "OGN-042",
+        "name": "Calm Rune",
+        "riftbound_id": "OGN-042",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-042.webp"
+        },
+        "slug": "ogn-042-calm-rune"
+      },
+      {
+        "id": "OGN-166",
+        "name": "Chaos Rune",
+        "riftbound_id": "OGN-166",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-166.webp"
+        },
+        "slug": "ogn-166-chaos-rune"
+      },
+      {
+        "id": "OGN-289",
+        "name": "Targon's Peak",
+        "riftbound_id": "OGN-289",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When you conquer here, ready up to 2 runes at the end of this turn.",
+          "plain": "When you conquer here, ready up to 2 runes at the end of this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-289.webp"
+        },
+        "slug": "ogn-289-targons-peak"
+      },
+      {
+        "id": "OGN-297",
+        "name": "Windswept Hillock",
+        "riftbound_id": "OGN-297",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Units here have [Ganking]. (They can move from battlefield to battlefield.)",
+          "plain": "Units here have [Ganking]. (They can move from battlefield to battlefield.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-297.webp"
+        },
+        "slug": "ogn-297-windswept-hillock"
+      },
+      {
+        "id": "OGN-298",
+        "name": "Zaun Warrens",
+        "riftbound_id": "OGN-298",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When you conquer here, discard 1, then draw 1.",
+          "plain": "When you conquer here, discard 1, then draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-298.webp"
+        },
+        "slug": "ogn-298-zaun-warrens"
+      },
+      {
+        "id": "OGN-173",
+        "name": "Ride the Wind",
+        "riftbound_id": "OGN-173",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit and ready it.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit and ready it."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-173.webp"
+        },
+        "slug": "ogn-173-ride-the-wind"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1587 @@
+{
+  "id": "event.bologna-regional-qualifier",
+  "type": "competitive_record",
+  "title": "Bologna Regional Qualifier",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/events/bologna-regional-qualifier.json",
+  "source_date": "2026-02-22",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "event",
+    "Europe",
+    "regional_qualifier"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "bologna-regional-qualifier",
+    "name": "Bologna Regional Qualifier",
+    "region": "Europe",
+    "eventDate": "2026-02-22",
+    "eventType": "regional_qualifier",
+    "coverageType": "best_of_legend_plus_top_cut",
+    "primarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "The Best Decks out of Bologna",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/the-best-decks-out-of-bologna/",
+      "publishedAt": "2026-02-25T17:00:00.000Z",
+      "description": "RQ Bologna saw all 28 Legends battle to supremacy, here\u2019s the Best-Of decks and the Top 8!",
+      "priority": 1
+    },
+    "sources": [
+      {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "The Best Decks out of Bologna",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/the-best-decks-out-of-bologna/",
+        "publishedAt": "2026-02-25T17:00:00.000Z",
+        "description": "RQ Bologna saw all 28 Legends battle to supremacy, here\u2019s the Best-Of decks and the Top 8!",
+        "priority": 1
+      },
+      {
+        "kind": "community",
+        "role": "stats_summary",
+        "label": "Bologna Regional Qualifier summary page",
+        "url": "https://riftbound.gg/bologna-regional-qualifier/",
+        "publishedAt": null,
+        "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+        "priority": 2
+      }
+    ],
+    "articleSlug": "bologna-regional-qualifier",
+    "sourceUrls": [
+      "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/the-best-decks-out-of-bologna/",
+      "https://riftbound.gg/bologna-regional-qualifier/"
+    ],
+    "summaryStats": {
+      "legendRowCount": 28,
+      "embeddedDeckCount": 28,
+      "uniqueDeckCount": 28
+    },
+    "notes": [
+      "Source page does not expose a best-deck embed for every legend row.",
+      "Source article exposes 27 embedded best-of-legend decks for 28 legend rows; one legend row has no linked list.",
+      "Official Riot recap parsed and used as the primary source for event coverage and decklists."
+    ],
+    "legends": [
+      {
+        "legendSlug": "ornn",
+        "legendName": "Ornn",
+        "section": null,
+        "topFinishText": "#490",
+        "totalPicksPct": 2,
+        "totalPicksCount": 33,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 30,
+        "matchCount": 215,
+        "bestDeckSlugs": [
+          "best-ornn-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player:",
+          "Total Picks: 2% - 33 Decks",
+          "Conversion Rate into Day 2 : None",
+          "Win Rate without Mirror matches : 30% over 215 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-ornn-from-bologna",
+            "title": "Best Ornn From bologna",
+            "legendSlug": "ornn",
+            "legendName": "Ornn",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#490",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ornn-from-bologna",
+            "views": 7586,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "garen",
+        "legendName": "Garen",
+        "section": null,
+        "topFinishText": "#403",
+        "totalPicksPct": 1,
+        "totalPicksCount": 15,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 40.5,
+        "matchCount": 44,
+        "bestDeckSlugs": [
+          "best-of-garen-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player:",
+          "Total Picks: 1% - 15 Decks",
+          "Conversion Rate into Day 2 : None",
+          "Win Rate without Mirror matches : 40.5% over 44 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-garen-from-bologna",
+            "title": "Best of Garen From Bologna",
+            "legendSlug": "garen",
+            "legendName": "Garen",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#403",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-garen-from-bologna",
+            "views": 7432,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "leona",
+        "legendName": "Leona",
+        "section": null,
+        "topFinishText": "#320",
+        "totalPicksPct": 1,
+        "totalPicksCount": 20,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 37.5,
+        "matchCount": 132,
+        "bestDeckSlugs": [
+          "best-leona-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: 512",
+          "Total Picks: 1% - 20 Decks",
+          "Conversion Rate into Day 2 : None",
+          "Win Rate without Mirror matches : 37.5% over 132 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-leona-from-bologna",
+            "title": "Best Leona from Bologna",
+            "legendSlug": "leona",
+            "legendName": "Leona",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#320",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-leona-from-bologna",
+            "views": 7852,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "renata-glasc",
+        "legendName": "Renata Glasc",
+        "section": null,
+        "topFinishText": "#183",
+        "totalPicksPct": 2,
+        "totalPicksCount": 26,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 4,
+        "conversionCount": 1,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 44.4,
+        "matchCount": 186,
+        "bestDeckSlugs": [
+          "bologna-regional-qualifier-renata-glasc-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 256",
+          "Total Picks: 2% - 26 Decks",
+          "Conversion Rate into Day 2 : 4% - 1 Decks",
+          "Win Rate without Mirror matches : 44.4% over 186 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "bologna-regional-qualifier-renata-glasc-official-best-of",
+            "title": "Renata Glasc by JustSR",
+            "legendSlug": "renata-glasc",
+            "legendName": "Renata Glasc",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#183",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "lee-sin",
+        "legendName": "Lee Sin",
+        "section": null,
+        "topFinishText": "#162",
+        "totalPicksPct": 1,
+        "totalPicksCount": 19,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 2,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 47.4,
+        "matchCount": 140,
+        "bestDeckSlugs": [
+          "best-lee-sin-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 256",
+          "Total Picks: 1% - 19 Decks",
+          "Conversion Rate into Day 2 : 11% - 2 Decks",
+          "Win Rate without Mirror matches : 47.4% over 140 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-lee-sin-from-bologna",
+            "title": "Best Lee Sin From Bologna",
+            "legendSlug": "lee-sin",
+            "legendName": "Lee Sin",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#162",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-lee-sin-from-bologna",
+            "views": 7579,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "darius",
+        "legendName": "Darius",
+        "section": null,
+        "topFinishText": "#116",
+        "totalPicksPct": 2,
+        "totalPicksCount": 23,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 2,
+        "conversionCount": 4,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 54.6,
+        "matchCount": 189,
+        "bestDeckSlugs": [
+          "best-darius-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 128",
+          "Total Picks: 2% - 23 Decks",
+          "Conversion Rate into Day 2 : 17% - 4 Decks",
+          "Win Rate without Mirror matches : 54.6% over 189 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-darius-from-bologna",
+            "title": "Best Darius From Bologna",
+            "legendSlug": "darius",
+            "legendName": "Darius",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#116",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-darius-from-bologna",
+            "views": 13977,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "lux",
+        "legendName": "Lux",
+        "section": null,
+        "topFinishText": "#104",
+        "totalPicksPct": 2,
+        "totalPicksCount": 34,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 2,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 44.5,
+        "matchCount": 238,
+        "bestDeckSlugs": [
+          "best-lux-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 128",
+          "Total Picks: 2% - 34 Decks",
+          "Conversion Rate into Day 2 : 6% - 2 Decks",
+          "Win Rate without Mirror matches : 44.5% over 238 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-lux-from-bologna",
+            "title": "Best Lux From Bologna",
+            "legendSlug": "lux",
+            "legendName": "Lux",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#104",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-lux-from-bologna",
+            "views": 7359,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "reksai",
+        "legendName": "Rek'Sai",
+        "section": null,
+        "topFinishText": "#98",
+        "totalPicksPct": 3,
+        "totalPicksCount": 51,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 48.9,
+        "matchCount": 350,
+        "bestDeckSlugs": [
+          "best-reksai-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 128",
+          "Total Picks: 3% - 51 Decks",
+          "Conversion Rate into Day 2 : 6% - 3 Decks",
+          "Win Rate without Mirror matches : 48.9% over 350 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-reksai-from-bologna",
+            "title": "Best Rek'Sai from Bologna",
+            "legendSlug": "reksai",
+            "legendName": "Rek'Sai",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#98",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-reksai-from-bologna",
+            "views": 7774,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "sett",
+        "legendName": "Sett",
+        "section": null,
+        "topFinishText": "#96",
+        "totalPicksPct": 2,
+        "totalPicksCount": 29,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 45.8,
+        "matchCount": 207,
+        "bestDeckSlugs": [
+          "bologna-regional-qualifier-sett-official-best-of"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 128",
+          "Total Picks: 2% - 29 Decks",
+          "Conversion Rate into Day 2 : 10% - 3 Decks",
+          "Win Rate without Mirror matches : 45.8% over 207 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "bologna-regional-qualifier-sett-official-best-of",
+            "title": "Sett by NLV Tomino",
+            "legendSlug": "sett",
+            "legendName": "Sett",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#96",
+            "previewImageUrl": null,
+            "views": 0,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "rumble",
+        "legendName": "Rumble",
+        "section": null,
+        "topFinishText": "#93",
+        "totalPicksPct": 2,
+        "totalPicksCount": 25,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 2,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 45.3,
+        "matchCount": 156,
+        "bestDeckSlugs": [
+          "best-rumble-from-bologna-ehdrt"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 128",
+          "Total Picks: 2% - 25 Decks",
+          "Conversion Rate into Day 2 : 4% - 1 Decks",
+          "Win Rate without Mirror matches : 45.3% over 156 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-rumble-from-bologna-ehdrt",
+            "title": "Best Rumble From Bologna",
+            "legendSlug": "rumble",
+            "legendName": "Rumble",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#93",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-rumble-from-bologna-ehdrt",
+            "views": 18504,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "yasuo",
+        "legendName": "Yasuo",
+        "section": null,
+        "topFinishText": "#92",
+        "totalPicksPct": 3,
+        "totalPicksCount": 39,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 3,
+        "conversionCount": 1,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 44.8,
+        "matchCount": 281,
+        "bestDeckSlugs": [
+          "best-yasuo-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 128",
+          "Total Picks: 3% - 39 Decks",
+          "Conversion Rate into Day 2 : 3% - 1 Decks",
+          "Win Rate without Mirror matches : 44.8% over 281 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-yasuo-from-bologna",
+            "title": "Best Yasuo From Bologna",
+            "legendSlug": "yasuo",
+            "legendName": "Yasuo",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#92",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-yasuo-from-bologna",
+            "views": 16473,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "teemo",
+        "legendName": "Teemo",
+        "section": null,
+        "topFinishText": "#71",
+        "totalPicksPct": 2,
+        "totalPicksCount": 27,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 2,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 40.1,
+        "matchCount": 188,
+        "bestDeckSlugs": [
+          "best-teemo-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 128",
+          "Total Picks: 2% - 27 Decks",
+          "Conversion Rate into Day 2 : 7% - 2 Decks",
+          "Win Rate without Mirror matches : 40.1% over 188 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-teemo-from-bologna",
+            "title": "Best Teemo From Bologna",
+            "legendSlug": "teemo",
+            "legendName": "Teemo",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "#71",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-teemo-from-bologna",
+            "views": 14642,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "fiora",
+        "legendName": "Fiora",
+        "section": null,
+        "topFinishText": "Top 64",
+        "totalPicksPct": 3,
+        "totalPicksCount": 47,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 2,
+        "conversionCount": 4,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 46.4,
+        "matchCount": 309,
+        "bestDeckSlugs": [
+          "best-fiora-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 64",
+          "Total Picks: 3% - 47 Decks",
+          "Conversion Rate into Day 2 : 8.5% - 4 Decks",
+          "Win Rate without Mirror matches : 46.4% over 309 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-fiora-from-bologna",
+            "title": "Best Fiora From Bologna",
+            "legendSlug": "fiora",
+            "legendName": "Fiora",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-fiora-from-bologna",
+            "views": 14071,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "azir",
+        "legendName": "Azir",
+        "section": null,
+        "topFinishText": "Top 64",
+        "totalPicksPct": 3,
+        "totalPicksCount": 48,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 2,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 52.9,
+        "matchCount": 326,
+        "bestDeckSlugs": [
+          "best-azir-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 64",
+          "Total Picks: 3% - 48 Decks",
+          "Conversion Rate into Day 2 : 4% - 2 Decks",
+          "Win Rate without Mirror matches : 52.9% over 326 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-azir-from-bologna",
+            "title": "Best Azir from Bologna",
+            "legendSlug": "azir",
+            "legendName": "Azir",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-azir-from-bologna",
+            "views": 7345,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "ahri",
+        "legendName": "Ahri",
+        "section": null,
+        "topFinishText": "Top 64",
+        "totalPicksPct": 4,
+        "totalPicksCount": 54,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 3,
+        "conversionCount": 8,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 50.9,
+        "matchCount": 358,
+        "bestDeckSlugs": [
+          "best-ahri-from-bologna-ngb9v"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 64",
+          "Total Picks: 4% - 54 Decks",
+          "Conversion Rate into Day 2 : 15% - 8 Decks",
+          "Win Rate without Mirror matches : 50.9% over 358 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-ahri-from-bologna-ngb9v",
+            "title": "Best Ahri From Bologna",
+            "legendSlug": "ahri",
+            "legendName": "Ahri",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ahri-from-bologna-ngb9v",
+            "views": 6222,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "jinx",
+        "legendName": "Jinx",
+        "section": null,
+        "topFinishText": "Top 64",
+        "totalPicksPct": 3,
+        "totalPicksCount": 47,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 3,
+        "conversionCount": 8,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 47.8,
+        "matchCount": 335,
+        "bestDeckSlugs": [
+          "best-of-jinx-from-bologna-split"
+        ],
+        "trustedSecondaryDeckSlugs": [
+          "best-jinx-from-bologna-split"
+        ],
+        "rawStats": [
+          "Top Ranked Player: Top 64",
+          "Total Picks: 3% - 47 Decks",
+          "Conversion Rate into Day 2 : 17% - 8 Decks",
+          "Win Rate without Mirror matches : 47.8% over 335 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-jinx-from-bologna-split",
+            "title": "Best of Jinx From Bologna (Split)",
+            "legendSlug": "jinx",
+            "legendName": "Jinx",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-jinx-from-bologna-split",
+            "views": 17149,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "jax",
+        "legendName": "Jax",
+        "section": null,
+        "topFinishText": "Top 64",
+        "totalPicksPct": 2,
+        "totalPicksCount": 34,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 2,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 45.8,
+        "matchCount": 247,
+        "bestDeckSlugs": [
+          "best-jax-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 32",
+          "Total Picks: 2% - 34 Decks",
+          "Conversion Rate into Day 2 : 6% - 2 Decks",
+          "Win Rate without Mirror matches : 45.8% over 247 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-jax-from-bologna",
+            "title": "Best Jax from Bologna",
+            "legendSlug": "jax",
+            "legendName": "Jax",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 64",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-jax-from-bologna",
+            "views": 11627,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "volibear",
+        "legendName": "Volibear",
+        "section": null,
+        "topFinishText": "Top 32",
+        "totalPicksPct": 2,
+        "totalPicksCount": 27,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 44.1,
+        "matchCount": 183,
+        "bestDeckSlugs": [
+          "best-volibear-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 32",
+          "Total Picks: 2% - 28 Decks",
+          "Conversion Rate into Day 2 : 11% - 3 Decks",
+          "Win Rate without Mirror matches : 44.1% over 183 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-volibear-from-bologna",
+            "title": "Best Volibear from Bologna",
+            "legendSlug": "volibear",
+            "legendName": "Volibear",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 32",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-volibear-from-bologna",
+            "views": 14300,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "annie",
+        "legendName": "Annie",
+        "section": null,
+        "topFinishText": "Top 32",
+        "totalPicksPct": 5,
+        "totalPicksCount": 67,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 4,
+        "conversionCount": 11,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 49.8,
+        "matchCount": 451,
+        "bestDeckSlugs": [
+          "best-of-annie-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 16",
+          "Total Picks: 5% - 67 Decks",
+          "Conversion Rate into Day 2 : 16% - 11 Decks",
+          "Win Rate without Mirror matches : 49.8% over 451 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-annie-from-bologna",
+            "title": "Best of Annie from bologna",
+            "legendSlug": "annie",
+            "legendName": "Annie",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 32",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-annie-from-bologna",
+            "views": 7757,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "lucian",
+        "legendName": "Lucian",
+        "section": null,
+        "topFinishText": "Top 32",
+        "totalPicksPct": 3,
+        "totalPicksCount": 41,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 2,
+        "conversionCount": 5,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 45.3,
+        "matchCount": 305,
+        "bestDeckSlugs": [
+          "best-lucian-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 32",
+          "Total Picks: 3% - 41 Decks",
+          "Conversion Rate into Day 2 : 12% - 5 Decks",
+          "Win Rate without Mirror matches : 45.3% over 305 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-lucian-from-bologna",
+            "title": "Best Lucian from Bologna",
+            "legendSlug": "lucian",
+            "legendName": "Lucian",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 32",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-lucian-from-bologna",
+            "views": 14323,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "master-yi",
+        "legendName": "Master Yi",
+        "section": null,
+        "topFinishText": "Top 16",
+        "totalPicksPct": 2,
+        "totalPicksCount": 28,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 51.8,
+        "matchCount": 205,
+        "bestDeckSlugs": [
+          "best-master-yi-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 16",
+          "Total Picks: 2% - 28 Decks",
+          "Conversion Rate into Day 2 : 11% - 3 Decks",
+          "Win Rate without Mirror matches : 51.8% over 205 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-master-yi-from-bologna",
+            "title": "Best Master Yi from Bologna",
+            "legendSlug": "master-yi",
+            "legendName": "Master Yi",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 16",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-master-yi-from-bologna",
+            "views": 18535,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "sivir",
+        "legendName": "Sivir",
+        "section": null,
+        "topFinishText": "Top 16",
+        "totalPicksPct": 4,
+        "totalPicksCount": 53,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 4,
+        "conversionCount": 10,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 49.4,
+        "matchCount": 360,
+        "bestDeckSlugs": [
+          "best-sivir-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 16",
+          "Total Picks: 4% - 53 Decks",
+          "Conversion Rate into Day 2 : 19% - 10 Decks",
+          "Win Rate without Mirror matches : 49.4% over 360 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-sivir-from-bologna",
+            "title": "Best Sivir From Bologna",
+            "legendSlug": "sivir",
+            "legendName": "Sivir",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 16",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-sivir-from-bologna",
+            "views": 17068,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "kaisa",
+        "legendName": "Kai'Sa",
+        "section": null,
+        "topFinishText": "Top 16",
+        "totalPicksPct": 11,
+        "totalPicksCount": 165,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 13,
+        "conversionCount": 31,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 50.4,
+        "matchCount": 1049,
+        "bestDeckSlugs": [
+          "best-of-kaisa-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 16",
+          "Total Picks: 11% - 165 Decks",
+          "Conversion Rate into Day 2 : 19% - 31 Decks",
+          "Win Rate without Mirror matches : 50.4% over 1049 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-kaisa-from-bologna",
+            "title": "Best of Kai'sa from Bologna",
+            "legendSlug": "kaisa",
+            "legendName": "Kai'Sa",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 16",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-kaisa-from-bologna",
+            "views": 7599,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "draven",
+        "legendName": "Draven",
+        "section": null,
+        "topFinishText": "Top 8",
+        "totalPicksPct": 15,
+        "totalPicksCount": 219,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 34,
+        "conversionCount": 83,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 60.8,
+        "matchCount": 1415,
+        "bestDeckSlugs": [
+          "best-of-draven-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 8",
+          "Total Picks: 15% - 219 Decks",
+          "Conversion Rate into Day 2 : 38% - 83 Decks",
+          "Win Rate without Mirror matches : 60.8% over 1415 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-draven-from-bologna",
+            "title": "Best of Draven From Bologna",
+            "legendSlug": "draven",
+            "legendName": "Draven",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 8",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-draven-from-bologna",
+            "views": 11458,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "viktor",
+        "legendName": "Viktor",
+        "section": null,
+        "topFinishText": "Top 4",
+        "totalPicksPct": 4,
+        "totalPicksCount": 54,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 2,
+        "conversionCount": 6,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 49.1,
+        "matchCount": 354,
+        "bestDeckSlugs": [
+          "best-of-viktor-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 4",
+          "Total Picks: 4% - 54 Decks",
+          "Conversion Rate into Day 2 : 11% - 4 Decks",
+          "Win Rate without Mirror matches : 49.1% over 354 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-of-viktor-from-bologna",
+            "title": "Best of Viktor From Bologna",
+            "legendSlug": "viktor",
+            "legendName": "Viktor",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 4",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-viktor-from-bologna",
+            "views": 17242,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "irelia",
+        "legendName": "Irelia",
+        "section": null,
+        "topFinishText": "Top 4",
+        "totalPicksPct": 9,
+        "totalPicksCount": 129,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 13,
+        "conversionCount": 33,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 53.4,
+        "matchCount": 880,
+        "bestDeckSlugs": [
+          "best-irelia-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Top 4",
+          "Total Picks: 9% - 129 Decks",
+          "Conversion Rate into Day 2 : 26% - 33 Decks",
+          "Win Rate without Mirror matches : 53.4% over 880 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-irelia-from-bologna",
+            "title": "Best Irelia from Bologna",
+            "legendSlug": "irelia",
+            "legendName": "Irelia",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Top 4",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-irelia-from-bologna",
+            "views": 24082,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "miss-fortune",
+        "legendName": "Miss Fortune",
+        "section": null,
+        "topFinishText": "Runner-Up",
+        "totalPicksPct": 2,
+        "totalPicksCount": 35,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 1,
+        "conversionCount": 3,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 39.9,
+        "matchCount": 238,
+        "bestDeckSlugs": [
+          "best-mf-from-bologna"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Finalist",
+          "Total Picks: 2% - 35 Decks",
+          "Conversion Rate into Day 2 : 9% - 3 Decks",
+          "Win Rate without Mirror matches : 39.9% over 238 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-mf-from-bologna",
+            "title": "Best MF From Bologna",
+            "legendSlug": "miss-fortune",
+            "legendName": "Miss Fortune",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Runner-Up",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-mf-from-bologna",
+            "views": 17146,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "ezreal",
+        "legendName": "Ezreal",
+        "section": null,
+        "topFinishText": "Winner",
+        "totalPicksPct": 5,
+        "totalPicksCount": 77,
+        "conversionLabel": "Conversion Rate into Day 2",
+        "conversionPct": 6,
+        "conversionCount": 14,
+        "winRateLabel": "Win Rate without Mirror matches",
+        "winRatePct": 52.4,
+        "matchCount": 519,
+        "bestDeckSlugs": [
+          "best-ezreal-from-bologna-l4o06"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [
+          "Top Ranked Player: Winner",
+          "Total Picks: 5% - 77 Decks",
+          "Conversion Rate into Day 2 : 18% - 14 Decks",
+          "Win Rate without Mirror matches : 52.4% over 519 matches"
+        ],
+        "bestDecks": [
+          {
+            "slug": "best-ezreal-from-bologna-l4o06",
+            "title": "best Ezreal From Bologna",
+            "legendSlug": "ezreal",
+            "legendName": "Ezreal",
+            "eventSlug": "bologna-regional-qualifier",
+            "placementText": "Winner",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ezreal-from-bologna-l4o06",
+            "views": 22287,
+            "cardCounts": {
+              "mainboard": 54,
+              "sideboard": 8
+            }
+          }
+        ]
+      }
+    ],
+    "decks": [
+      {
+        "slug": "best-ahri-from-bologna-ngb9v",
+        "title": "Best Ahri From Bologna",
+        "legendSlug": "ahri",
+        "legendName": "Ahri",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ahri-from-bologna-ngb9v",
+        "views": 6222,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-azir-from-bologna",
+        "title": "Best Azir from Bologna",
+        "legendSlug": "azir",
+        "legendName": "Azir",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-azir-from-bologna",
+        "views": 7345,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-darius-from-bologna",
+        "title": "Best Darius From Bologna",
+        "legendSlug": "darius",
+        "legendName": "Darius",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#116",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-darius-from-bologna",
+        "views": 13977,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-ezreal-from-bologna-l4o06",
+        "title": "best Ezreal From Bologna",
+        "legendSlug": "ezreal",
+        "legendName": "Ezreal",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Winner",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ezreal-from-bologna-l4o06",
+        "views": 22287,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-fiora-from-bologna",
+        "title": "Best Fiora From Bologna",
+        "legendSlug": "fiora",
+        "legendName": "Fiora",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-fiora-from-bologna",
+        "views": 14071,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-irelia-from-bologna",
+        "title": "Best Irelia from Bologna",
+        "legendSlug": "irelia",
+        "legendName": "Irelia",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 4",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-irelia-from-bologna",
+        "views": 24082,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-jax-from-bologna",
+        "title": "Best Jax from Bologna",
+        "legendSlug": "jax",
+        "legendName": "Jax",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-jax-from-bologna",
+        "views": 11627,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-lee-sin-from-bologna",
+        "title": "Best Lee Sin From Bologna",
+        "legendSlug": "lee-sin",
+        "legendName": "Lee Sin",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#162",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-lee-sin-from-bologna",
+        "views": 7579,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-leona-from-bologna",
+        "title": "Best Leona from Bologna",
+        "legendSlug": "leona",
+        "legendName": "Leona",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#320",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-leona-from-bologna",
+        "views": 7852,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-lucian-from-bologna",
+        "title": "Best Lucian from Bologna",
+        "legendSlug": "lucian",
+        "legendName": "Lucian",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 32",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-lucian-from-bologna",
+        "views": 14323,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-lux-from-bologna",
+        "title": "Best Lux From Bologna",
+        "legendSlug": "lux",
+        "legendName": "Lux",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#104",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-lux-from-bologna",
+        "views": 7359,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-master-yi-from-bologna",
+        "title": "Best Master Yi from Bologna",
+        "legendSlug": "master-yi",
+        "legendName": "Master Yi",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 16",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-master-yi-from-bologna",
+        "views": 18535,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-mf-from-bologna",
+        "title": "Best MF From Bologna",
+        "legendSlug": "miss-fortune",
+        "legendName": "Miss Fortune",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Runner-Up",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-mf-from-bologna",
+        "views": 17146,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-annie-from-bologna",
+        "title": "Best of Annie from bologna",
+        "legendSlug": "annie",
+        "legendName": "Annie",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 32",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-annie-from-bologna",
+        "views": 7757,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-draven-from-bologna",
+        "title": "Best of Draven From Bologna",
+        "legendSlug": "draven",
+        "legendName": "Draven",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 8",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-draven-from-bologna",
+        "views": 11458,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-garen-from-bologna",
+        "title": "Best of Garen From Bologna",
+        "legendSlug": "garen",
+        "legendName": "Garen",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#403",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-garen-from-bologna",
+        "views": 7432,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-jinx-from-bologna-split",
+        "title": "Best of Jinx From Bologna (Split)",
+        "legendSlug": "jinx",
+        "legendName": "Jinx",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 64",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-jinx-from-bologna-split",
+        "views": 17149,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-kaisa-from-bologna",
+        "title": "Best of Kai'sa from Bologna",
+        "legendSlug": "kaisa",
+        "legendName": "Kai'Sa",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 16",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-kaisa-from-bologna",
+        "views": 7599,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-of-viktor-from-bologna",
+        "title": "Best of Viktor From Bologna",
+        "legendSlug": "viktor",
+        "legendName": "Viktor",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 4",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-of-viktor-from-bologna",
+        "views": 17242,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-ornn-from-bologna",
+        "title": "Best Ornn From bologna",
+        "legendSlug": "ornn",
+        "legendName": "Ornn",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#490",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-ornn-from-bologna",
+        "views": 7586,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-reksai-from-bologna",
+        "title": "Best Rek'Sai from Bologna",
+        "legendSlug": "reksai",
+        "legendName": "Rek'Sai",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#98",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-reksai-from-bologna",
+        "views": 7774,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-rumble-from-bologna-ehdrt",
+        "title": "Best Rumble From Bologna",
+        "legendSlug": "rumble",
+        "legendName": "Rumble",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#93",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-rumble-from-bologna-ehdrt",
+        "views": 18504,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-sivir-from-bologna",
+        "title": "Best Sivir From Bologna",
+        "legendSlug": "sivir",
+        "legendName": "Sivir",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 16",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-sivir-from-bologna",
+        "views": 17068,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-teemo-from-bologna",
+        "title": "Best Teemo From Bologna",
+        "legendSlug": "teemo",
+        "legendName": "Teemo",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#71",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-teemo-from-bologna",
+        "views": 14642,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-volibear-from-bologna",
+        "title": "Best Volibear from Bologna",
+        "legendSlug": "volibear",
+        "legendName": "Volibear",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "Top 32",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-volibear-from-bologna",
+        "views": 14300,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "best-yasuo-from-bologna",
+        "title": "Best Yasuo From Bologna",
+        "legendSlug": "yasuo",
+        "legendName": "Yasuo",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#92",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=best-yasuo-from-bologna",
+        "views": 16473,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "bologna-regional-qualifier-renata-glasc-official-best-of",
+        "title": "Renata Glasc by JustSR",
+        "legendSlug": "renata-glasc",
+        "legendName": "Renata Glasc",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#183",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "bologna-regional-qualifier-sett-official-best-of",
+        "title": "Sett by NLV Tomino",
+        "legendSlug": "sett",
+        "legendName": "Sett",
+        "eventSlug": "bologna-regional-qualifier",
+        "placementText": "#96",
+        "previewImageUrl": null,
+        "views": 0,
+        "cardCounts": {
+          "mainboard": 54,
+          "sideboard": 8
+        }
+      }
+    ]
+  }
+}

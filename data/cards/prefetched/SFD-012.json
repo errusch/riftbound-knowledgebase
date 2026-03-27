@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-012",
+  "type": "card_snapshot",
+  "title": "Battering Ram",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-draven-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-012",
+    "name": "Battering Ram",
+    "riftbound_id": "SFD-012",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "I cost :rb_energy_1: less for each card you've played this turn, to a minimum of :rb_energy_1:.",
+      "plain": "I cost :rb_energy_1: less for each card you've played this turn, to a minimum of :rb_energy_1:."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-012.webp"
+    },
+    "slug": "sfd-012-battering-ram"
+  }
+}

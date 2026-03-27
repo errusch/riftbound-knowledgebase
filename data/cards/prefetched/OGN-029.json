@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-029",
+  "type": "card_snapshot",
+  "title": "Falling Star",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-darius-by-puyshpii-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-029",
+    "name": "Falling Star",
+    "riftbound_id": "OGN-029",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "Deal 3 to a unit.\nDeal 3 to a unit.",
+      "plain": "Deal 3 to a unit.\nDeal 3 to a unit."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-029.webp"
+    },
+    "slug": "ogn-029-falling-star"
+  }
+}

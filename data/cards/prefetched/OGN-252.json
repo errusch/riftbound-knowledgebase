@@ -1,0 +1,42 @@
+{
+  "id": "card_snapshot.OGN-252",
+  "type": "card_snapshot",
+  "title": "Super Mega Death Rocket!",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-jinx-from-bologna-split.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-252",
+    "name": "Super Mega Death Rocket!",
+    "riftbound_id": "OGN-252",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Fury",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "Deal 5 to a unit.\nWhen you conquer, you may discard 1 to return this from your trash to your hand.",
+      "plain": "Deal 5 to a unit.\nWhen you conquer, you may discard 1 to return this from your trash to your hand."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-252.webp"
+    },
+    "slug": "ogn-252-super-mega-death-rocket"
+  }
+}

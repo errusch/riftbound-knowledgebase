@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-056",
+  "type": "card_snapshot",
+  "title": "Sterak's Gage",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ahri-from-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-056",
+    "name": "Sterak's Gage",
+    "riftbound_id": "SFD-056",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)",
+      "plain": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-056.webp"
+    },
+    "slug": "sfd-056-steraks-gage"
+  }
+}

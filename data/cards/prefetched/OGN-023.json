@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-023",
+  "type": "card_snapshot",
+  "title": "Unlicensed Armory",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-023",
+    "name": "Unlicensed Armory",
+    "riftbound_id": "OGN-023",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it would die this turn, you may pay :rb_rune_fury: to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)",
+      "plain": "Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it would die this turn, you may pay :rb_rune_fury: to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-023.webp"
+    },
+    "slug": "ogn-023-unlicensed-armory"
+  }
+}

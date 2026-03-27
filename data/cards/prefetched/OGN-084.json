@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-084",
+  "type": "card_snapshot",
+  "title": "Eager Apprentice",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ahri-from-bologna-ngb9v.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-084",
+    "name": "Eager Apprentice",
+    "riftbound_id": "OGN-084",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "While I'm at a battlefield, the Energy costs for spells you play is reduced by :rb_energy_1:, to a minimum of :rb_energy_1:.",
+      "plain": "While I'm at a battlefield, the Energy costs for spells you play is reduced by :rb_energy_1:, to a minimum of :rb_energy_1:."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-084.webp"
+    },
+    "slug": "ogn-084-eager-apprentice"
+  }
+}

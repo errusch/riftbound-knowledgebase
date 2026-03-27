@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-239",
+  "type": "card_snapshot",
+  "title": "Machine Evangel",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/lux-by-ryan-best-of-lux-houston-regional-qualifiers.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-239",
+    "name": "Machine Evangel",
+    "riftbound_id": "OGN-239",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)",
+      "plain": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-239.webp"
+    },
+    "slug": "ogn-239-machine-evangel"
+  }
+}

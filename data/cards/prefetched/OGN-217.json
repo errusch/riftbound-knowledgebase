@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-217",
+  "type": "card_snapshot",
+  "title": "Trifarian Gloryseeker",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-darius-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-217",
+    "name": "Trifarian Gloryseeker",
+    "riftbound_id": "OGN-217",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Legion] \u2014 When you play me, buff me. (If I don't have a buff, I get a +1 :rb_might: buff. Get the effect if you've played another card this turn.)",
+      "plain": "[Legion] \u2014 When you play me, buff me. (If I don't have a buff, I get a +1 :rb_might: buff. Get the effect if you've played another card this turn.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-217.webp"
+    },
+    "slug": "ogn-217-trifarian-gloryseeker"
+  }
+}

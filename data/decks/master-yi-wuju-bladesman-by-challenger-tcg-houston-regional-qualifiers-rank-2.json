@@ -1,0 +1,1440 @@
+{
+  "id": "deck.master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2",
+  "type": "competitive_record",
+  "title": "Master Yi, Wuju Bladesman by Challenger TCG (Houston Regional Qualifiers Rank 2)",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "deck",
+    "Master Yi",
+    "Origins"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2",
+    "title": "Master Yi, Wuju Bladesman by Challenger TCG (Houston Regional Qualifiers Rank 2)",
+    "event": {
+      "slug": "houston-regional-qualifier",
+      "name": "Houston Regional Qualifier",
+      "region": "North America",
+      "eventDate": "2025-12-07",
+      "eventType": "regional_qualifier",
+      "coverageType": "best_of_champion_plus_top_cut",
+      "primarySource": {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+        "publishedAt": "2025-12-11T16:00:00.000Z",
+        "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+        "priority": 1
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "role": "event_recap",
+          "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+          "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+          "publishedAt": "2025-12-11T16:00:00.000Z",
+          "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+          "priority": 1
+        },
+        {
+          "kind": "community",
+          "role": "stats_summary",
+          "label": "Houston Regional Qualifier summary page",
+          "url": "https://riftbound.gg/houston-regional-qualifier-top-decks-for-every-champion/",
+          "publishedAt": null,
+          "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+          "priority": 2
+        }
+      ],
+      "articleSlug": null
+    },
+    "legend": {
+      "slug": "master-yi",
+      "name": "Master Yi",
+      "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier"
+    },
+    "placementText": "Top 4",
+    "playerName": "Blargh1111",
+    "eventPrimarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+      "priority": 1
+    },
+    "decklistSource": {
+      "kind": "official",
+      "role": "decklist",
+      "label": "Master Yi official best-of decklist",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "Decklist parsed directly from the official Riot/Riftbound event recap.",
+      "priority": 1
+    },
+    "secondaryDeckSources": [
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Master Yi Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 2
+      }
+    ],
+    "sourceUrl": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+    "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2",
+    "format": "Origins",
+    "views": 21194,
+    "cardCounts": {
+      "mainboard": 54,
+      "sideboard": 8
+    },
+    "mainboard": [
+      {
+        "cardCode": "OGN-161",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-161",
+          "name": "Deadbloom Predator",
+          "slug": "ogn-161-deadbloom-predator",
+          "cost": 8,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-161.webp",
+          "effect": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)\nYou may play me to an occupied enemy battlefield."
+        }
+      },
+      {
+        "cardCode": "OGN-142",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-142",
+          "name": "Mountain Drake",
+          "slug": "ogn-142-mountain-drake",
+          "cost": 9,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-142.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-075",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-075",
+          "name": "Tasty Faefolk",
+          "slug": "ogn-075-tasty-faefolk",
+          "cost": 7,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-075.webp",
+          "effect": "[Accelerate] (You may pay :rb_energy_1::rb_rune_calm: as an additional cost to have me enter ready.)\n[Deathknell] \u2014 Channel 2 runes exhausted and draw 1. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "OGN-158",
+        "quantity": 1,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-158",
+          "name": "Volibear - Imposing",
+          "slug": "ogn-158-volibear-imposing",
+          "cost": 12,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-158.webp",
+          "effect": "[Shield 3] (+3 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nWhen an opponent moves to a battlefield other than mine, draw 1. (Bases are not battlefield.)"
+        }
+      },
+      {
+        "cardCode": "OGN-082",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-082",
+          "name": "Whiteflame Protector",
+          "slug": "ogn-082-whiteflame-protector",
+          "cost": 8,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-082.webp",
+          "effect": "When you play me, give a unit +8 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-138",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-138",
+          "name": "Catalyst of Aeons",
+          "slug": "ogn-138-catalyst-of-aeons",
+          "cost": 4,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-138.webp",
+          "effect": "Channel 2 runes exhausted. If you couldn't channel 2 runes this way, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-128",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-128",
+          "name": "Challenge",
+          "slug": "ogn-128-challenge",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-128.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other."
+        }
+      },
+      {
+        "cardCode": "OGN-043",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-043",
+          "name": "Charm",
+          "slug": "ogn-043-charm",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-043.webp",
+          "effect": "Move an enemy unit."
+        }
+      },
+      {
+        "cardCode": "OGN-045",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-045",
+          "name": "Defy",
+          "slug": "ogn-045-defy",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-045.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:."
+        }
+      },
+      {
+        "cardCode": "OGN-058",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-058",
+          "name": "Discipline",
+          "slug": "ogn-058-discipline",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-058.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit +2 :rb_might: this turn. Draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-047",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-047",
+          "name": "Find Your Center",
+          "slug": "ogn-047-find-your-center",
+          "cost": 3,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-047.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nIf an opponent's score is within 3 points of the Victory Score, this costs :rb_energy_2: less.\nDraw 1 and channel 1 rune exhausted."
+        }
+      },
+      {
+        "cardCode": "OGN-134",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-134",
+          "name": "Mobilize",
+          "slug": "ogn-134-mobilize",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-134.webp",
+          "effect": "Channel 1 rune exhausted. If you can't, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-050",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-050",
+          "name": "Rune Prison",
+          "slug": "ogn-050-rune-prison",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-050.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nStun a unit. (It doesn't deal combat damage this turn.)"
+        }
+      },
+      {
+        "cardCode": "OGN-156",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-156",
+          "name": "Sabotage",
+          "slug": "ogn-156-sabotage",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-156.webp",
+          "effect": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card."
+        }
+      },
+      {
+        "cardCode": "OGN-064",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-064",
+          "name": "Wind Wall",
+          "slug": "ogn-064-wind-wall",
+          "cost": 3,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-064.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell."
+        }
+      },
+      {
+        "cardCode": "OGN-160",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "OGN-160",
+          "name": "Dazzling Aurora",
+          "slug": "ogn-160-dazzling-aurora",
+          "cost": 9,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-160.webp",
+          "effect": "At the end of your turn, reveal cards from the top of your Main Deck until you reveal a unit and banish it. Play it, ignoring its cost, and recycle the rest."
+        }
+      },
+      {
+        "cardCode": "OGN-077",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "OGN-077",
+          "name": "Zhonya's Hourglass",
+          "slug": "ogn-077-zhonyas-hourglass",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-077.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)"
+        }
+      },
+      {
+        "cardCode": "OGN-126",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-126",
+          "name": "Body Rune",
+          "slug": "ogn-126-body-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-126.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-042",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-042",
+          "name": "Calm Rune",
+          "slug": "ogn-042-calm-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-042.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-276",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-276",
+          "name": "Aspirant's Climb",
+          "slug": "ogn-276-aspirants-climb",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-276.webp",
+          "effect": "Increase the points needed to win the game by 1."
+        }
+      },
+      {
+        "cardCode": "OGN-284",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-284",
+          "name": "Obelisk of Power",
+          "slug": "ogn-284-obelisk-of-power",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp",
+          "effect": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        }
+      },
+      {
+        "cardCode": "OGN-295",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-295",
+          "name": "Vilemaw's Lair",
+          "slug": "ogn-295-vilemaws-lair",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-295.webp",
+          "effect": "Units can't move from here to base."
+        }
+      }
+    ],
+    "sideboard": [
+      {
+        "cardCode": "OGN-044",
+        "quantity": 3,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-044",
+          "name": "Clockwork Keeper",
+          "slug": "ogn-044-clockwork-keeper",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-044.webp",
+          "effect": "You may pay :rb_rune_calm: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-156",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-156",
+          "name": "Sabotage",
+          "slug": "ogn-156-sabotage",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-156.webp",
+          "effect": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card."
+        }
+      },
+      {
+        "cardCode": "OGN-052",
+        "quantity": 3,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-052",
+          "name": "Stalwart Poro",
+          "slug": "ogn-052-stalwart-poro",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-052.webp",
+          "effect": "[Shield] (+1 :rb_might: while I'm a defender.)"
+        }
+      },
+      {
+        "cardCode": "OGN-064",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-064",
+          "name": "Wind Wall",
+          "slug": "ogn-064-wind-wall",
+          "cost": 3,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Calm"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-064.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell."
+        }
+      }
+    ],
+    "deckDisplay": {
+      "name": "Master Yi, Wuju Bladesman by Challenger TCG (Houston Regional Qualifiers Rank 2)",
+      "player": "Blargh1111",
+      "event": "Houston Regional Qualifier",
+      "date": "2025-12-07",
+      "legend": "Master Yi",
+      "cards": [
+        {
+          "cardId": "OGN-161",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-142",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-075",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-158",
+          "quantity": 1,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-082",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-138",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-128",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-043",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-045",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-058",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-047",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-134",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-050",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-156",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-064",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-160",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-077",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-126",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-042",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-276",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-284",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-295",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-044",
+          "quantity": 3,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-156",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-052",
+          "quantity": 3,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-064",
+          "quantity": 1,
+          "section": "sideboard"
+        }
+      ]
+    },
+    "prefetchedCardData": [
+      {
+        "id": "OGN-161",
+        "name": "Deadbloom Predator",
+        "riftbound_id": "OGN-161",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 8,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)\nYou may play me to an occupied enemy battlefield.",
+          "plain": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)\nYou may play me to an occupied enemy battlefield."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-161.webp"
+        },
+        "slug": "ogn-161-deadbloom-predator"
+      },
+      {
+        "id": "OGN-142",
+        "name": "Mountain Drake",
+        "riftbound_id": "OGN-142",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 9,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-142.webp"
+        },
+        "slug": "ogn-142-mountain-drake"
+      },
+      {
+        "id": "OGN-075",
+        "name": "Tasty Faefolk",
+        "riftbound_id": "OGN-075",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 7,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_calm: as an additional cost to have me enter ready.)\n[Deathknell] \u2014 Channel 2 runes exhausted and draw 1. (When I die, get the effect.)",
+          "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_calm: as an additional cost to have me enter ready.)\n[Deathknell] \u2014 Channel 2 runes exhausted and draw 1. (When I die, get the effect.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-075.webp"
+        },
+        "slug": "ogn-075-tasty-faefolk"
+      },
+      {
+        "id": "OGN-158",
+        "name": "Volibear - Imposing",
+        "riftbound_id": "OGN-158",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 12,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Shield 3] (+3 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nWhen an opponent moves to a battlefield other than mine, draw 1. (Bases are not battlefield.)",
+          "plain": "[Shield 3] (+3 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nWhen an opponent moves to a battlefield other than mine, draw 1. (Bases are not battlefield.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-158.webp"
+        },
+        "slug": "ogn-158-volibear-imposing"
+      },
+      {
+        "id": "OGN-082",
+        "name": "Whiteflame Protector",
+        "riftbound_id": "OGN-082",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 8,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, give a unit +8 :rb_might: this turn.",
+          "plain": "When you play me, give a unit +8 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-082.webp"
+        },
+        "slug": "ogn-082-whiteflame-protector"
+      },
+      {
+        "id": "OGN-138",
+        "name": "Catalyst of Aeons",
+        "riftbound_id": "OGN-138",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "Channel 2 runes exhausted. If you couldn't channel 2 runes this way, draw 1.",
+          "plain": "Channel 2 runes exhausted. If you couldn't channel 2 runes this way, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-138.webp"
+        },
+        "slug": "ogn-138-catalyst-of-aeons"
+      },
+      {
+        "id": "OGN-128",
+        "name": "Challenge",
+        "riftbound_id": "OGN-128",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-128.webp"
+        },
+        "slug": "ogn-128-challenge"
+      },
+      {
+        "id": "OGN-043",
+        "name": "Charm",
+        "riftbound_id": "OGN-043",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "Move an enemy unit.",
+          "plain": "Move an enemy unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-043.webp"
+        },
+        "slug": "ogn-043-charm"
+      },
+      {
+        "id": "OGN-045",
+        "name": "Defy",
+        "riftbound_id": "OGN-045",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-045.webp"
+        },
+        "slug": "ogn-045-defy"
+      },
+      {
+        "id": "OGN-058",
+        "name": "Discipline",
+        "riftbound_id": "OGN-058",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit +2 :rb_might: this turn. Draw 1.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit +2 :rb_might: this turn. Draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-058.webp"
+        },
+        "slug": "ogn-058-discipline"
+      },
+      {
+        "id": "OGN-047",
+        "name": "Find Your Center",
+        "riftbound_id": "OGN-047",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nIf an opponent's score is within 3 points of the Victory Score, this costs :rb_energy_2: less.\nDraw 1 and channel 1 rune exhausted.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nIf an opponent's score is within 3 points of the Victory Score, this costs :rb_energy_2: less.\nDraw 1 and channel 1 rune exhausted."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-047.webp"
+        },
+        "slug": "ogn-047-find-your-center"
+      },
+      {
+        "id": "OGN-134",
+        "name": "Mobilize",
+        "riftbound_id": "OGN-134",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "Channel 1 rune exhausted. If you can't, draw 1.",
+          "plain": "Channel 1 rune exhausted. If you can't, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-134.webp"
+        },
+        "slug": "ogn-134-mobilize"
+      },
+      {
+        "id": "OGN-050",
+        "name": "Rune Prison",
+        "riftbound_id": "OGN-050",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nStun a unit. (It doesn't deal combat damage this turn.)",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nStun a unit. (It doesn't deal combat damage this turn.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-050.webp"
+        },
+        "slug": "ogn-050-rune-prison"
+      },
+      {
+        "id": "OGN-156",
+        "name": "Sabotage",
+        "riftbound_id": "OGN-156",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card.",
+          "plain": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-156.webp"
+        },
+        "slug": "ogn-156-sabotage"
+      },
+      {
+        "id": "OGN-064",
+        "name": "Wind Wall",
+        "riftbound_id": "OGN-064",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-064.webp"
+        },
+        "slug": "ogn-064-wind-wall"
+      },
+      {
+        "id": "OGN-160",
+        "name": "Dazzling Aurora",
+        "riftbound_id": "OGN-160",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 9,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "At the end of your turn, reveal cards from the top of your Main Deck until you reveal a unit and banish it. Play it, ignoring its cost, and recycle the rest.",
+          "plain": "At the end of your turn, reveal cards from the top of your Main Deck until you reveal a unit and banish it. Play it, ignoring its cost, and recycle the rest."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-160.webp"
+        },
+        "slug": "ogn-160-dazzling-aurora"
+      },
+      {
+        "id": "OGN-077",
+        "name": "Zhonya's Hourglass",
+        "riftbound_id": "OGN-077",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nIf a friendly unit would die, kill this instead. Heal that unit, exhaust it, and recall it. (Send it to base. This isn't a move.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-077.webp"
+        },
+        "slug": "ogn-077-zhonyas-hourglass"
+      },
+      {
+        "id": "OGN-126",
+        "name": "Body Rune",
+        "riftbound_id": "OGN-126",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-126.webp"
+        },
+        "slug": "ogn-126-body-rune"
+      },
+      {
+        "id": "OGN-042",
+        "name": "Calm Rune",
+        "riftbound_id": "OGN-042",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-042.webp"
+        },
+        "slug": "ogn-042-calm-rune"
+      },
+      {
+        "id": "OGN-276",
+        "name": "Aspirant's Climb",
+        "riftbound_id": "OGN-276",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Increase the points needed to win the game by 1.",
+          "plain": "Increase the points needed to win the game by 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-276.webp"
+        },
+        "slug": "ogn-276-aspirants-climb"
+      },
+      {
+        "id": "OGN-284",
+        "name": "Obelisk of Power",
+        "riftbound_id": "OGN-284",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "At the start of each player's first Beginning Phase, that player channels 1 rune.",
+          "plain": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp"
+        },
+        "slug": "ogn-284-obelisk-of-power"
+      },
+      {
+        "id": "OGN-295",
+        "name": "Vilemaw's Lair",
+        "riftbound_id": "OGN-295",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Units can't move from here to base.",
+          "plain": "Units can't move from here to base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-295.webp"
+        },
+        "slug": "ogn-295-vilemaws-lair"
+      },
+      {
+        "id": "OGN-044",
+        "name": "Clockwork Keeper",
+        "riftbound_id": "OGN-044",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "You may pay :rb_rune_calm: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, draw 1.",
+          "plain": "You may pay :rb_rune_calm: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-044.webp"
+        },
+        "slug": "ogn-044-clockwork-keeper"
+      },
+      {
+        "id": "OGN-052",
+        "name": "Stalwart Poro",
+        "riftbound_id": "OGN-052",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Calm"
+          ]
+        },
+        "text": {
+          "rich": "[Shield] (+1 :rb_might: while I'm a defender.)",
+          "plain": "[Shield] (+1 :rb_might: while I'm a defender.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-052.webp"
+        },
+        "slug": "ogn-052-stalwart-poro"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-096",
+  "type": "card_snapshot",
+  "title": "Watchful Sentry",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-ahri-by-kale-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-096",
+    "name": "Watchful Sentry",
+    "riftbound_id": "OGN-096",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Deathknell] \u2014 Draw 1. (When I die, get the effect.)",
+      "plain": "[Deathknell] \u2014 Draw 1. (When I die, get the effect.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-096.webp"
+    },
+    "slug": "ogn-096-watchful-sentry"
+  }
+}

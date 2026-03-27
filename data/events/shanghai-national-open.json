@@ -1,0 +1,160 @@
+{
+  "id": "event.shanghai-national-open",
+  "type": "competitive_record",
+  "title": "Shanghai National Open",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/events/shanghai-national-open.json",
+  "source_date": "2025-10-31",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "event",
+    "China",
+    "national_open"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "shanghai-national-open",
+    "name": "Shanghai National Open",
+    "region": "China",
+    "eventDate": "2025-10-31",
+    "eventType": "national_open",
+    "coverageType": "top_8_only",
+    "primarySource": {
+      "kind": "community",
+      "role": "stats_summary",
+      "label": "Shanghai National Open summary page",
+      "url": "https://riftbound.gg/riftbound-top-decks-tournament/",
+      "publishedAt": null,
+      "description": "Community summary page used as the event source because no official Riot recap is attached yet.",
+      "priority": 1
+    },
+    "sources": [
+      {
+        "kind": "community",
+        "role": "stats_summary",
+        "label": "Shanghai National Open summary page",
+        "url": "https://riftbound.gg/riftbound-top-decks-tournament/",
+        "publishedAt": null,
+        "description": "Community summary page used as the event source because no official Riot recap is attached yet.",
+        "priority": 1
+      }
+    ],
+    "articleSlug": null,
+    "sourceUrls": [
+      "https://riftbound.gg/riftbound-top-decks-tournament/"
+    ],
+    "summaryStats": {
+      "legendRowCount": 2,
+      "embeddedDeckCount": 2,
+      "uniqueDeckCount": 2
+    },
+    "notes": [
+      "Source article is a Top 8 national deck breakdown, not a full best-of-legend page.",
+      "No official English recap article was located on Riftbound news during this import pass."
+    ],
+    "legends": [
+      {
+        "legendSlug": "kaisa",
+        "legendName": "Kai'Sa",
+        "section": null,
+        "topFinishText": "Winner",
+        "totalPicksPct": null,
+        "totalPicksCount": null,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "kaisa-winning-deck-shanghai-regional-tournament"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "kaisa-winning-deck-shanghai-regional-tournament",
+            "title": "Kai'sa Winning Deck Shanghai Regional Tournament",
+            "legendSlug": "kaisa",
+            "legendName": "Kai'Sa",
+            "eventSlug": "shanghai-national-open",
+            "placementText": "Winner",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=kaisa-winning-deck-shanghai-regional-tournament",
+            "views": 16346,
+            "cardCounts": {
+              "mainboard": 64,
+              "sideboard": 8
+            }
+          }
+        ]
+      },
+      {
+        "legendSlug": "master-yi",
+        "legendName": "Master Yi",
+        "section": null,
+        "topFinishText": "Runner-Up",
+        "totalPicksPct": null,
+        "totalPicksCount": null,
+        "conversionLabel": null,
+        "conversionPct": null,
+        "conversionCount": null,
+        "winRateLabel": null,
+        "winRatePct": null,
+        "matchCount": null,
+        "bestDeckSlugs": [
+          "master-yi-rank-2-deck-national-open-shanghai"
+        ],
+        "trustedSecondaryDeckSlugs": [],
+        "rawStats": [],
+        "bestDecks": [
+          {
+            "slug": "master-yi-rank-2-deck-national-open-shanghai",
+            "title": "Master Yi Rank 2 Deck National Open Shanghai",
+            "legendSlug": "master-yi",
+            "legendName": "Master Yi",
+            "eventSlug": "shanghai-national-open",
+            "placementText": "Runner-Up",
+            "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=master-yi-rank-2-deck-national-open-shanghai",
+            "views": 16282,
+            "cardCounts": {
+              "mainboard": 60,
+              "sideboard": 8
+            }
+          }
+        ]
+      }
+    ],
+    "decks": [
+      {
+        "slug": "kaisa-winning-deck-shanghai-regional-tournament",
+        "title": "Kai'sa Winning Deck Shanghai Regional Tournament",
+        "legendSlug": "kaisa",
+        "legendName": "Kai'Sa",
+        "eventSlug": "shanghai-national-open",
+        "placementText": "Winner",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=kaisa-winning-deck-shanghai-regional-tournament",
+        "views": 16346,
+        "cardCounts": {
+          "mainboard": 64,
+          "sideboard": 8
+        }
+      },
+      {
+        "slug": "master-yi-rank-2-deck-national-open-shanghai",
+        "title": "Master Yi Rank 2 Deck National Open Shanghai",
+        "legendSlug": "master-yi",
+        "legendName": "Master Yi",
+        "eventSlug": "shanghai-national-open",
+        "placementText": "Runner-Up",
+        "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=master-yi-rank-2-deck-national-open-shanghai",
+        "views": 16282,
+        "cardCounts": {
+          "mainboard": 60,
+          "sideboard": 8
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1533 @@
+{
+  "id": "deck.vegas-regional-qualifier-darius-official-best-of",
+  "type": "competitive_record",
+  "title": "Darius by carryboy denni",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/vegas-regional-qualifier-darius-official-best-of.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "deck",
+    "Darius",
+    "Spiritforged"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "vegas-regional-qualifier-darius-official-best-of",
+    "title": "Darius by carryboy denni",
+    "event": {
+      "slug": "vegas-regional-qualifier",
+      "name": "Vegas Regional Qualifier",
+      "region": "North America",
+      "eventDate": "2026-03-01",
+      "eventType": "regional_qualifier",
+      "coverageType": "best_of_legend_plus_top_cut",
+      "primarySource": {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "Vegas\u2019 Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+        "publishedAt": "2026-03-04T17:00:00.000Z",
+        "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+        "priority": 1
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "role": "event_recap",
+          "label": "Vegas\u2019 Top Decks",
+          "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+          "publishedAt": "2026-03-04T17:00:00.000Z",
+          "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+          "priority": 1
+        },
+        {
+          "kind": "community",
+          "role": "stats_summary",
+          "label": "Vegas Regional Qualifier summary page",
+          "url": "https://riftbound.gg/vegas-regional-qualifier/",
+          "publishedAt": null,
+          "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+          "priority": 2
+        }
+      ],
+      "articleSlug": "vegas-regional-qualifier"
+    },
+    "legend": {
+      "slug": "darius",
+      "name": "Darius",
+      "section": "Other Legends"
+    },
+    "placementText": "#112",
+    "playerName": "carryboy denni",
+    "eventPrimarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "Vegas\u2019 Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+      "publishedAt": "2026-03-04T17:00:00.000Z",
+      "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+      "priority": 1
+    },
+    "decklistSource": {
+      "kind": "official",
+      "role": "decklist",
+      "label": "Darius official best-of decklist",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+      "publishedAt": "2026-03-04T17:00:00.000Z",
+      "description": "Decklist parsed directly from the official Riot/Riftbound event recap.",
+      "priority": 1
+    },
+    "secondaryDeckSources": [],
+    "sourceUrl": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+    "previewImageUrl": null,
+    "format": "Spiritforged",
+    "views": 0,
+    "cardCounts": {
+      "mainboard": 54,
+      "sideboard": 8
+    },
+    "mainboard": [
+      {
+        "cardCode": "OGN-026",
+        "quantity": 1,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-026",
+          "name": "Brynhir Thundersong",
+          "slug": "ogn-026-brynhir-thundersong",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-026.webp",
+          "effect": "When you play me, opponents can't play cards this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-210",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-210",
+          "name": "Daring Poro",
+          "slug": "ogn-210-daring-poro",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-210.webp",
+          "effect": "[Assault] (+1 :rb_might: while I'm an attacker.)"
+        }
+      },
+      {
+        "cardCode": "SFD-020",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-020",
+          "name": "Draven - Vanquisher",
+          "slug": "sfd-020-draven-vanquisher",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-020.webp",
+          "effect": "When I win a combat, play a Gold gear token exhausted.\nWhen I attack or defend, you may pay :rb_rune_fury:. If you do, give me +2 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "SFD-021",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-021",
+          "name": "Ferrous Forerunner",
+          "slug": "sfd-021-ferrous-forerunner",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-021.webp",
+          "effect": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "SFD-155",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-155",
+          "name": "Honest Broker",
+          "slug": "sfd-155-honest-broker",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-155.webp",
+          "effect": "[Deathknell] \u2014 Play a Gold gear token exhausted. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "OGN-039",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-039",
+          "name": "Kai'Sa - Survivor",
+          "slug": "ogn-039-kaisa-survivor",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-039.webp",
+          "effect": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-012",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-012",
+          "name": "Noxus Hopeful",
+          "slug": "ogn-012-noxus-hopeful",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-012.webp",
+          "effect": "[Legion] \u2014 I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)"
+        }
+      },
+      {
+        "cardCode": "SFD-029",
+        "quantity": 1,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-029",
+          "name": "Rek'Sai - Breacher",
+          "slug": "sfd-029-reksai-breacher",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-029.webp",
+          "effect": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\n[Assault] (+1 :rb_might: while I'm an attacker.)\nFriendly units played from anywhere other than a player's hand have [Accelerate]."
+        }
+      },
+      {
+        "cardCode": "SFD-025",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-025",
+          "name": "Rengar - Pouncing",
+          "slug": "sfd-025-rengar-pouncing",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-025.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n[Assault 2] (+2 :rb_might: while I'm an attacker.)\nI can be played to a battlefield you're attacking."
+        }
+      },
+      {
+        "cardCode": "OGN-216",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-216",
+          "name": "Soaring Scout",
+          "slug": "ogn-216-soaring-scout",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-216.webp",
+          "effect": "[Deathknell] \u2014 Channel 1 rune exhausted. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "SFD-003",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-003",
+          "name": "Blood Rush",
+          "slug": "sfd-003-blood-rush",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-003.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_energy_1: (You may pay the additional cost to repeat this spell's effect.)\nGive a unit [Assault 2] this turn. (+2 :rb_might: while it's an attacker.)"
+        }
+      },
+      {
+        "cardCode": "OGN-004",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-004",
+          "name": "Cleave",
+          "slug": "ogn-004-cleave",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-004.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nGive a unit [Assault 3] this turn. (+3 :rb_might: while it's an attacker.)"
+        }
+      },
+      {
+        "cardCode": "OGN-209",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-209",
+          "name": "Cull the Weak",
+          "slug": "ogn-209-cull-the-weak",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-209.webp",
+          "effect": "Each player kills one of their units."
+        }
+      },
+      {
+        "cardCode": "SFD-163",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-163",
+          "name": "Deathgrip",
+          "slug": "sfd-163-deathgrip",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-163.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nKill a friendly unit. If you do, give +:rb_might: equal to its Might to another friendly unit this turn.\nDraw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-029",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-029",
+          "name": "Falling Star",
+          "slug": "ogn-029-falling-star",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-029.webp",
+          "effect": "Deal 3 to a unit.\nDeal 3 to a unit."
+        }
+      },
+      {
+        "cardCode": "OGN-213",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-213",
+          "name": "Hidden Blade",
+          "slug": "ogn-213-hidden-blade",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-213.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield. Its controller draws 2."
+        }
+      },
+      {
+        "cardCode": "OGN-224",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-224",
+          "name": "Salvage",
+          "slug": "ogn-224-salvage",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-224.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nYou may kill up to one gear. Draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-229",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-229",
+          "name": "Vengeance",
+          "slug": "ogn-229-vengeance",
+          "cost": 4,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-229.webp",
+          "effect": "Kill a unit."
+        }
+      },
+      {
+        "cardCode": "OGN-007",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-007",
+          "name": "Fury Rune",
+          "slug": "ogn-007-fury-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-007.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-214",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-214",
+          "name": "Order Rune",
+          "slug": "ogn-214-order-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-214.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "SFD-217",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "SFD-217",
+          "name": "Seat of Power",
+          "slug": "sfd-217-seat-of-power",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-217.webp",
+          "effect": "When you conquer here, draw 1 for each other battlefield you or allies control."
+        }
+      },
+      {
+        "cardCode": "OGN-292",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-292",
+          "name": "The Dreaming Tree",
+          "slug": "ogn-292-the-dreaming-tree",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-292.webp",
+          "effect": "When a player chooses a friendly unit here with a spell for the first time each turn, they draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-295",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-295",
+          "name": "Vilemaw's Lair",
+          "slug": "ogn-295-vilemaws-lair",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-295.webp",
+          "effect": "Units can't move from here to base."
+        }
+      }
+    ],
+    "sideboard": [
+      {
+        "cardCode": "OGN-026",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-026",
+          "name": "Brynhir Thundersong",
+          "slug": "ogn-026-brynhir-thundersong",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-026.webp",
+          "effect": "When you play me, opponents can't play cards this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-209",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-209",
+          "name": "Cull the Weak",
+          "slug": "ogn-209-cull-the-weak",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-209.webp",
+          "effect": "Each player kills one of their units."
+        }
+      },
+      {
+        "cardCode": "SFD-021",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-021",
+          "name": "Ferrous Forerunner",
+          "slug": "sfd-021-ferrous-forerunner",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-021.webp",
+          "effect": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "OGN-233",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-233",
+          "name": "Grand Strategem",
+          "slug": "ogn-233-grand-strategem",
+          "cost": 6,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-233.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nGive friendly units +5 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "SFD-023",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-023",
+          "name": "Piercing Light",
+          "slug": "sfd-023-piercing-light",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-023.webp",
+          "effect": "[Repeat] :rb_energy_2::rb_rune_fury: (You may pay the additional cost to repeat this spell's effect.)\nDeal 2 to a unit at a battlefield, then deal 2 to up to one other unit."
+        }
+      },
+      {
+        "cardCode": "OGN-224",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-224",
+          "name": "Salvage",
+          "slug": "ogn-224-salvage",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-224.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nYou may kill up to one gear. Draw 1."
+        }
+      }
+    ],
+    "deckDisplay": {
+      "name": "Darius by carryboy denni",
+      "player": "carryboy denni",
+      "event": "Vegas Regional Qualifier",
+      "date": "2026-03-01",
+      "legend": "Darius",
+      "cards": [
+        {
+          "cardId": "OGN-026",
+          "quantity": 1,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-210",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-020",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-021",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-155",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-039",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-012",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-029",
+          "quantity": 1,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-025",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-216",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-003",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-004",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-209",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-163",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-029",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-213",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-224",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-229",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-007",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-214",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "SFD-217",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-292",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-295",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-026",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-209",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "SFD-021",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-233",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "SFD-023",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-224",
+          "quantity": 2,
+          "section": "sideboard"
+        }
+      ]
+    },
+    "prefetchedCardData": [
+      {
+        "id": "OGN-026",
+        "name": "Brynhir Thundersong",
+        "riftbound_id": "OGN-026",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, opponents can't play cards this turn.",
+          "plain": "When you play me, opponents can't play cards this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-026.webp"
+        },
+        "slug": "ogn-026-brynhir-thundersong"
+      },
+      {
+        "id": "OGN-210",
+        "name": "Daring Poro",
+        "riftbound_id": "OGN-210",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Assault] (+1 :rb_might: while I'm an attacker.)",
+          "plain": "[Assault] (+1 :rb_might: while I'm an attacker.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-210.webp"
+        },
+        "slug": "ogn-210-daring-poro"
+      },
+      {
+        "id": "SFD-020",
+        "name": "Draven - Vanquisher",
+        "riftbound_id": "SFD-020",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "When I win a combat, play a Gold gear token exhausted.\nWhen I attack or defend, you may pay :rb_rune_fury:. If you do, give me +2 :rb_might: this turn.",
+          "plain": "When I win a combat, play a Gold gear token exhausted.\nWhen I attack or defend, you may pay :rb_rune_fury:. If you do, give me +2 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-020.webp"
+        },
+        "slug": "sfd-020-draven-vanquisher"
+      },
+      {
+        "id": "SFD-021",
+        "name": "Ferrous Forerunner",
+        "riftbound_id": "SFD-021",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)",
+          "plain": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-021.webp"
+        },
+        "slug": "sfd-021-ferrous-forerunner"
+      },
+      {
+        "id": "SFD-155",
+        "name": "Honest Broker",
+        "riftbound_id": "SFD-155",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Deathknell] \u2014 Play a Gold gear token exhausted. (When I die, get the effect.)",
+          "plain": "[Deathknell] \u2014 Play a Gold gear token exhausted. (When I die, get the effect.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-155.webp"
+        },
+        "slug": "sfd-155-honest-broker"
+      },
+      {
+        "id": "OGN-039",
+        "name": "Kai'Sa - Survivor",
+        "riftbound_id": "OGN-039",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Epic",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1.",
+          "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-039.webp"
+        },
+        "slug": "ogn-039-kaisa-survivor"
+      },
+      {
+        "id": "OGN-012",
+        "name": "Noxus Hopeful",
+        "riftbound_id": "OGN-012",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Legion] \u2014 I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)",
+          "plain": "[Legion] \u2014 I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-012.webp"
+        },
+        "slug": "ogn-012-noxus-hopeful"
+      },
+      {
+        "id": "SFD-029",
+        "name": "Rek'Sai - Breacher",
+        "riftbound_id": "SFD-029",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Epic",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\n[Assault] (+1 :rb_might: while I'm an attacker.)\nFriendly units played from anywhere other than a player's hand have [Accelerate].",
+          "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\n[Assault] (+1 :rb_might: while I'm an attacker.)\nFriendly units played from anywhere other than a player's hand have [Accelerate]."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-029.webp"
+        },
+        "slug": "sfd-029-reksai-breacher"
+      },
+      {
+        "id": "SFD-025",
+        "name": "Rengar - Pouncing",
+        "riftbound_id": "SFD-025",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n[Assault 2] (+2 :rb_might: while I'm an attacker.)\nI can be played to a battlefield you're attacking.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n[Assault 2] (+2 :rb_might: while I'm an attacker.)\nI can be played to a battlefield you're attacking."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-025.webp"
+        },
+        "slug": "sfd-025-rengar-pouncing"
+      },
+      {
+        "id": "OGN-216",
+        "name": "Soaring Scout",
+        "riftbound_id": "OGN-216",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Deathknell] \u2014 Channel 1 rune exhausted. (When I die, get the effect.)",
+          "plain": "[Deathknell] \u2014 Channel 1 rune exhausted. (When I die, get the effect.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-216.webp"
+        },
+        "slug": "ogn-216-soaring-scout"
+      },
+      {
+        "id": "SFD-003",
+        "name": "Blood Rush",
+        "riftbound_id": "SFD-003",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_energy_1: (You may pay the additional cost to repeat this spell's effect.)\nGive a unit [Assault 2] this turn. (+2 :rb_might: while it's an attacker.)",
+          "plain": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_energy_1: (You may pay the additional cost to repeat this spell's effect.)\nGive a unit [Assault 2] this turn. (+2 :rb_might: while it's an attacker.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-003.webp"
+        },
+        "slug": "sfd-003-blood-rush"
+      },
+      {
+        "id": "OGN-004",
+        "name": "Cleave",
+        "riftbound_id": "OGN-004",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nGive a unit [Assault 3] this turn. (+3 :rb_might: while it's an attacker.)",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nGive a unit [Assault 3] this turn. (+3 :rb_might: while it's an attacker.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-004.webp"
+        },
+        "slug": "ogn-004-cleave"
+      },
+      {
+        "id": "OGN-209",
+        "name": "Cull the Weak",
+        "riftbound_id": "OGN-209",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "Each player kills one of their units.",
+          "plain": "Each player kills one of their units."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-209.webp"
+        },
+        "slug": "ogn-209-cull-the-weak"
+      },
+      {
+        "id": "SFD-163",
+        "name": "Deathgrip",
+        "riftbound_id": "SFD-163",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nKill a friendly unit. If you do, give +:rb_might: equal to its Might to another friendly unit this turn.\nDraw 1.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nKill a friendly unit. If you do, give +:rb_might: equal to its Might to another friendly unit this turn.\nDraw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-163.webp"
+        },
+        "slug": "sfd-163-deathgrip"
+      },
+      {
+        "id": "OGN-029",
+        "name": "Falling Star",
+        "riftbound_id": "OGN-029",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "Deal 3 to a unit.\nDeal 3 to a unit.",
+          "plain": "Deal 3 to a unit.\nDeal 3 to a unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-029.webp"
+        },
+        "slug": "ogn-029-falling-star"
+      },
+      {
+        "id": "OGN-213",
+        "name": "Hidden Blade",
+        "riftbound_id": "OGN-213",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield. Its controller draws 2.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield. Its controller draws 2."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-213.webp"
+        },
+        "slug": "ogn-213-hidden-blade"
+      },
+      {
+        "id": "OGN-224",
+        "name": "Salvage",
+        "riftbound_id": "OGN-224",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nYou may kill up to one gear. Draw 1.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nYou may kill up to one gear. Draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-224.webp"
+        },
+        "slug": "ogn-224-salvage"
+      },
+      {
+        "id": "OGN-229",
+        "name": "Vengeance",
+        "riftbound_id": "OGN-229",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "Kill a unit.",
+          "plain": "Kill a unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-229.webp"
+        },
+        "slug": "ogn-229-vengeance"
+      },
+      {
+        "id": "OGN-007",
+        "name": "Fury Rune",
+        "riftbound_id": "OGN-007",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-007.webp"
+        },
+        "slug": "ogn-007-fury-rune"
+      },
+      {
+        "id": "OGN-214",
+        "name": "Order Rune",
+        "riftbound_id": "OGN-214",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-214.webp"
+        },
+        "slug": "ogn-214-order-rune"
+      },
+      {
+        "id": "SFD-217",
+        "name": "Seat of Power",
+        "riftbound_id": "SFD-217",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When you conquer here, draw 1 for each other battlefield you or allies control.",
+          "plain": "When you conquer here, draw 1 for each other battlefield you or allies control."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-217.webp"
+        },
+        "slug": "sfd-217-seat-of-power"
+      },
+      {
+        "id": "OGN-292",
+        "name": "The Dreaming Tree",
+        "riftbound_id": "OGN-292",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When a player chooses a friendly unit here with a spell for the first time each turn, they draw 1.",
+          "plain": "When a player chooses a friendly unit here with a spell for the first time each turn, they draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-292.webp"
+        },
+        "slug": "ogn-292-the-dreaming-tree"
+      },
+      {
+        "id": "OGN-295",
+        "name": "Vilemaw's Lair",
+        "riftbound_id": "OGN-295",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Units can't move from here to base.",
+          "plain": "Units can't move from here to base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-295.webp"
+        },
+        "slug": "ogn-295-vilemaws-lair"
+      },
+      {
+        "id": "OGN-233",
+        "name": "Grand Strategem",
+        "riftbound_id": "OGN-233",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nGive friendly units +5 :rb_might: this turn.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nGive friendly units +5 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-233.webp"
+        },
+        "slug": "ogn-233-grand-strategem"
+      },
+      {
+        "id": "SFD-023",
+        "name": "Piercing Light",
+        "riftbound_id": "SFD-023",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Repeat] :rb_energy_2::rb_rune_fury: (You may pay the additional cost to repeat this spell's effect.)\nDeal 2 to a unit at a battlefield, then deal 2 to up to one other unit.",
+          "plain": "[Repeat] :rb_energy_2::rb_rune_fury: (You may pay the additional cost to repeat this spell's effect.)\nDeal 2 to a unit at a battlefield, then deal 2 to up to one other unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-023.webp"
+        },
+        "slug": "sfd-023-piercing-light"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+"""Riftbound knowledgebase helper library."""
+

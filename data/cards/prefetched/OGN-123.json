@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-123",
+  "type": "card_snapshot",
+  "title": "Unchecked Power",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ahri-from-bologna-ngb9v.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-123",
+    "name": "Unchecked Power",
+    "riftbound_id": "OGN-123",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 7,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "Exhaust all friendly units, then deal 12 to ALL units at battlefields.",
+      "plain": "Exhaust all friendly units, then deal 12 to ALL units at battlefields."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-123.webp"
+    },
+    "slug": "ogn-123-unchecked-power"
+  }
+}

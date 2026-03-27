@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-240",
+  "type": "card_snapshot",
+  "title": "Sett - Kingpin",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-sett-by-boiwaffle-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-240",
+    "name": "Sett - Kingpin",
+    "riftbound_id": "OGN-240",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Tank] (I must be assigned combat damage first.)\nI get +1 :rb_might: for each buffed friendly unit at my battlefield.",
+      "plain": "[Tank] (I must be assigned combat damage first.)\nI get +1 :rb_might: for each buffed friendly unit at my battlefield."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-240.webp"
+    },
+    "slug": "ogn-240-sett-kingpin"
+  }
+}

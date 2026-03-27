@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-050",
+  "type": "card_snapshot",
+  "title": "Azir - Ascendant",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ahri-from-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-050",
+    "name": "Azir - Ascendant",
+    "riftbound_id": "SFD-050",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 6,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": ":rb_rune_calm:: [Action] \u2014 Choose a unit you control. Move me to its location and it to my original location. If it's equipped, you may attach one of its Equipment to me. Use only once per turn.",
+      "plain": ":rb_rune_calm:: [Action] \u2014 Choose a unit you control. Move me to its location and it to my original location. If it's equipped, you may attach one of its Equipment to me. Use only once per turn."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-050.webp"
+    },
+    "slug": "sfd-050-azir-ascendant"
+  }
+}

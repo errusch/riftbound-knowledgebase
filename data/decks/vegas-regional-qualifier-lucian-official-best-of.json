@@ -1,0 +1,1404 @@
+{
+  "id": "deck.vegas-regional-qualifier-lucian-official-best-of",
+  "type": "competitive_record",
+  "title": "Lucian by DaemonXGG",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/vegas-regional-qualifier-lucian-official-best-of.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "deck",
+    "Lucian",
+    "Spiritforged"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "vegas-regional-qualifier-lucian-official-best-of",
+    "title": "Lucian by DaemonXGG",
+    "event": {
+      "slug": "vegas-regional-qualifier",
+      "name": "Vegas Regional Qualifier",
+      "region": "North America",
+      "eventDate": "2026-03-01",
+      "eventType": "regional_qualifier",
+      "coverageType": "best_of_legend_plus_top_cut",
+      "primarySource": {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "Vegas\u2019 Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+        "publishedAt": "2026-03-04T17:00:00.000Z",
+        "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+        "priority": 1
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "role": "event_recap",
+          "label": "Vegas\u2019 Top Decks",
+          "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+          "publishedAt": "2026-03-04T17:00:00.000Z",
+          "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+          "priority": 1
+        },
+        {
+          "kind": "community",
+          "role": "stats_summary",
+          "label": "Vegas Regional Qualifier summary page",
+          "url": "https://riftbound.gg/vegas-regional-qualifier/",
+          "publishedAt": null,
+          "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+          "priority": 2
+        }
+      ],
+      "articleSlug": "vegas-regional-qualifier"
+    },
+    "legend": {
+      "slug": "lucian",
+      "name": "Lucian",
+      "section": "Other Legends"
+    },
+    "placementText": "Top 64",
+    "playerName": "DaemonXGG",
+    "eventPrimarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "Vegas\u2019 Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+      "publishedAt": "2026-03-04T17:00:00.000Z",
+      "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+      "priority": 1
+    },
+    "decklistSource": {
+      "kind": "official",
+      "role": "decklist",
+      "label": "Lucian official best-of decklist",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+      "publishedAt": "2026-03-04T17:00:00.000Z",
+      "description": "Decklist parsed directly from the official Riot/Riftbound event recap.",
+      "priority": 1
+    },
+    "secondaryDeckSources": [],
+    "sourceUrl": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+    "previewImageUrl": null,
+    "format": "Spiritforged",
+    "views": 0,
+    "cardCounts": {
+      "mainboard": 54,
+      "sideboard": 8
+    },
+    "mainboard": [
+      {
+        "cardCode": "SFD-109",
+        "quantity": 1,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-109",
+          "name": "Akshan - Mischievous",
+          "slug": "sfd-109-akshan-mischievous",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Body"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-109.webp",
+          "effect": "[Weaponmaster]\nYou may pay :rb_rune_body::rb_rune_body: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, move an enemy gear to your base. You control it until I leave the board. If it's an Equipment, attach it to me."
+        }
+      },
+      {
+        "cardCode": "OGN-026",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-026",
+          "name": "Brynhir Thundersong",
+          "slug": "ogn-026-brynhir-thundersong",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-026.webp",
+          "effect": "When you play me, opponents can't play cards this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-132",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-132",
+          "name": "First Mate",
+          "slug": "ogn-132-first-mate",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-132.webp",
+          "effect": "When you play me, ready another unit."
+        }
+      },
+      {
+        "cardCode": "OGN-039",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-039",
+          "name": "Kai'Sa - Survivor",
+          "slug": "ogn-039-kaisa-survivor",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-039.webp",
+          "effect": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1."
+        }
+      },
+      {
+        "cardCode": "SFD-113",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-113",
+          "name": "Lucian - Merciless",
+          "slug": "sfd-113-lucian-merciless",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Body"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-113.webp",
+          "effect": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nThe first time I conquer each turn, ready me."
+        }
+      },
+      {
+        "cardCode": "SFD-105",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-105",
+          "name": "Ruin Runner",
+          "slug": "sfd-105-ruin-runner",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-105.webp",
+          "effect": "I can't be chosen by enemy spells and abilities."
+        }
+      },
+      {
+        "cardCode": "OGN-128",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-128",
+          "name": "Challenge",
+          "slug": "ogn-128-challenge",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-128.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other."
+        }
+      },
+      {
+        "cardCode": "SFD-023",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-023",
+          "name": "Piercing Light",
+          "slug": "sfd-023-piercing-light",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-023.webp",
+          "effect": "[Repeat] :rb_energy_2::rb_rune_fury: (You may pay the additional cost to repeat this spell's effect.)\nDeal 2 to a unit at a battlefield, then deal 2 to up to one other unit."
+        }
+      },
+      {
+        "cardCode": "SFD-097",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-097",
+          "name": "Punch First",
+          "slug": "sfd-097-punch-first",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-097.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nGive a unit +5 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "SFD-184",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-184",
+          "name": "Relentless Pursuit",
+          "slug": "sfd-184-relentless-pursuit",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": "Signature",
+          "domains": [
+            "Fury",
+            "Body"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-184.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit. You may attach an Equipment with the same controller to it. This turn, that unit has &quot;When I conquer, you may move me to my base.&quot;"
+        }
+      },
+      {
+        "cardCode": "OGN-156",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-156",
+          "name": "Sabotage",
+          "slug": "ogn-156-sabotage",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-156.webp",
+          "effect": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card."
+        }
+      },
+      {
+        "cardCode": "SFD-118",
+        "quantity": 2,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-118",
+          "name": "Boneshiver",
+          "slug": "sfd-118-boneshiver",
+          "cost": 3,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-118.webp",
+          "effect": "[Equip] :rb_energy_1::rb_rune_body: (:rb_energy_1::rb_rune_body:: Attach this to a unit you control.)"
+        }
+      },
+      {
+        "cardCode": "SFD-095",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-095",
+          "name": "Doran's Blade",
+          "slug": "sfd-095-dorans-blade",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-095.webp",
+          "effect": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)"
+        }
+      },
+      {
+        "cardCode": "SFD-022",
+        "quantity": 2,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-022",
+          "name": "Long Sword",
+          "slug": "sfd-022-long-sword",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-022.webp",
+          "effect": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_fury: (:rb_rune_fury:: Attach this to a unit you control.)"
+        }
+      },
+      {
+        "cardCode": "SFD-030",
+        "quantity": 2,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-030",
+          "name": "Skyfall of Areion",
+          "slug": "sfd-030-skyfall-of-areion",
+          "cost": 3,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-030.webp",
+          "effect": "[Equip] :rb_energy_1::rb_rune_fury: (:rb_energy_1::rb_rune_fury:: Attach this to a unit you control.)"
+        }
+      },
+      {
+        "cardCode": "SFD-115",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-115",
+          "name": "Trinity Force",
+          "slug": "sfd-115-trinity-force",
+          "cost": 4,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-115.webp",
+          "effect": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)"
+        }
+      },
+      {
+        "cardCode": "OGN-126",
+        "quantity": 7,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-126",
+          "name": "Body Rune",
+          "slug": "ogn-126-body-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-126.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-007",
+        "quantity": 5,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-007",
+          "name": "Fury Rune",
+          "slug": "ogn-007-fury-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-007.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "SFD-208",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "SFD-208",
+          "name": "Forge of the Fluft",
+          "slug": "sfd-208-forge-of-the-fluft",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-208.webp",
+          "effect": "While you control this battlefield, friendly legends have &quot;:rb_exhaust:: Attach an Equipment you control to a unit you control.&quot;"
+        }
+      },
+      {
+        "cardCode": "OGN-284",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-284",
+          "name": "Obelisk of Power",
+          "slug": "ogn-284-obelisk-of-power",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp",
+          "effect": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        }
+      },
+      {
+        "cardCode": "SFD-218",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "SFD-218",
+          "name": "Sunken Temple",
+          "slug": "sfd-218-sunken-temple",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-218.webp",
+          "effect": "When you conquer here with one or more [Mighty] units, you may pay :rb_energy_1: to draw 1. (A unit is Mighty while it has 5+ :rb_might:.)"
+        }
+      }
+    ],
+    "sideboard": [
+      {
+        "cardCode": "SFD-109",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-109",
+          "name": "Akshan - Mischievous",
+          "slug": "sfd-109-akshan-mischievous",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Body"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-109.webp",
+          "effect": "[Weaponmaster]\nYou may pay :rb_rune_body::rb_rune_body: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, move an enemy gear to your base. You control it until I leave the board. If it's an Equipment, attach it to me."
+        }
+      },
+      {
+        "cardCode": "SFD-011",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-011",
+          "name": "Angle Shot",
+          "slug": "sfd-011-angle-shot",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-011.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\nChoose a unit and an Equipment with the same controller. Attach that Equipment to that unit or detach that Equipment from that unit. Draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-026",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-026",
+          "name": "Brynhir Thundersong",
+          "slug": "ogn-026-brynhir-thundersong",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-026.webp",
+          "effect": "When you play me, opponents can't play cards this turn."
+        }
+      },
+      {
+        "cardCode": "SFD-021",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-021",
+          "name": "Ferrous Forerunner",
+          "slug": "sfd-021-ferrous-forerunner",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-021.webp",
+          "effect": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "OGN-156",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-156",
+          "name": "Sabotage",
+          "slug": "ogn-156-sabotage",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Body"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-156.webp",
+          "effect": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card."
+        }
+      }
+    ],
+    "deckDisplay": {
+      "name": "Lucian by DaemonXGG",
+      "player": "DaemonXGG",
+      "event": "Vegas Regional Qualifier",
+      "date": "2026-03-01",
+      "legend": "Lucian",
+      "cards": [
+        {
+          "cardId": "SFD-109",
+          "quantity": 1,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-026",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-132",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-039",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-113",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-105",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-128",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-023",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-097",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-184",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-156",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-118",
+          "quantity": 2,
+          "section": "gear"
+        },
+        {
+          "cardId": "SFD-095",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "SFD-022",
+          "quantity": 2,
+          "section": "gear"
+        },
+        {
+          "cardId": "SFD-030",
+          "quantity": 2,
+          "section": "gear"
+        },
+        {
+          "cardId": "SFD-115",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-126",
+          "quantity": 7,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-007",
+          "quantity": 5,
+          "section": "rune"
+        },
+        {
+          "cardId": "SFD-208",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-284",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "SFD-218",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "SFD-109",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "SFD-011",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-026",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "SFD-021",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-156",
+          "quantity": 2,
+          "section": "sideboard"
+        }
+      ]
+    },
+    "prefetchedCardData": [
+      {
+        "id": "SFD-109",
+        "name": "Akshan - Mischievous",
+        "riftbound_id": "SFD-109",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Weaponmaster]\nYou may pay :rb_rune_body::rb_rune_body: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, move an enemy gear to your base. You control it until I leave the board. If it's an Equipment, attach it to me.",
+          "plain": "[Weaponmaster]\nYou may pay :rb_rune_body::rb_rune_body: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, move an enemy gear to your base. You control it until I leave the board. If it's an Equipment, attach it to me."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-109.webp"
+        },
+        "slug": "sfd-109-akshan-mischievous"
+      },
+      {
+        "id": "OGN-026",
+        "name": "Brynhir Thundersong",
+        "riftbound_id": "OGN-026",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, opponents can't play cards this turn.",
+          "plain": "When you play me, opponents can't play cards this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-026.webp"
+        },
+        "slug": "ogn-026-brynhir-thundersong"
+      },
+      {
+        "id": "OGN-132",
+        "name": "First Mate",
+        "riftbound_id": "OGN-132",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, ready another unit.",
+          "plain": "When you play me, ready another unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-132.webp"
+        },
+        "slug": "ogn-132-first-mate"
+      },
+      {
+        "id": "OGN-039",
+        "name": "Kai'Sa - Survivor",
+        "riftbound_id": "OGN-039",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Epic",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1.",
+          "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-039.webp"
+        },
+        "slug": "ogn-039-kaisa-survivor"
+      },
+      {
+        "id": "SFD-113",
+        "name": "Lucian - Merciless",
+        "riftbound_id": "SFD-113",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nThe first time I conquer each turn, ready me.",
+          "plain": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nThe first time I conquer each turn, ready me."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-113.webp"
+        },
+        "slug": "sfd-113-lucian-merciless"
+      },
+      {
+        "id": "SFD-105",
+        "name": "Ruin Runner",
+        "riftbound_id": "SFD-105",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "I can't be chosen by enemy spells and abilities.",
+          "plain": "I can't be chosen by enemy spells and abilities."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-105.webp"
+        },
+        "slug": "sfd-105-ruin-runner"
+      },
+      {
+        "id": "OGN-128",
+        "name": "Challenge",
+        "riftbound_id": "OGN-128",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nChoose a friendly unit and an enemy unit. They deal damage equal to their Mights to each other."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-128.webp"
+        },
+        "slug": "ogn-128-challenge"
+      },
+      {
+        "id": "SFD-023",
+        "name": "Piercing Light",
+        "riftbound_id": "SFD-023",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Repeat] :rb_energy_2::rb_rune_fury: (You may pay the additional cost to repeat this spell's effect.)\nDeal 2 to a unit at a battlefield, then deal 2 to up to one other unit.",
+          "plain": "[Repeat] :rb_energy_2::rb_rune_fury: (You may pay the additional cost to repeat this spell's effect.)\nDeal 2 to a unit at a battlefield, then deal 2 to up to one other unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-023.webp"
+        },
+        "slug": "sfd-023-piercing-light"
+      },
+      {
+        "id": "SFD-097",
+        "name": "Punch First",
+        "riftbound_id": "SFD-097",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nGive a unit +5 :rb_might: this turn.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nGive a unit +5 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-097.webp"
+        },
+        "slug": "sfd-097-punch-first"
+      },
+      {
+        "id": "SFD-184",
+        "name": "Relentless Pursuit",
+        "riftbound_id": "SFD-184",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": "Signature",
+          "rarity": "Epic",
+          "domain": [
+            "Fury",
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit. You may attach an Equipment with the same controller to it. This turn, that unit has &quot;When I conquer, you may move me to my base.&quot;",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit. You may attach an Equipment with the same controller to it. This turn, that unit has &quot;When I conquer, you may move me to my base.&quot;"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-184.webp"
+        },
+        "slug": "sfd-184-relentless-pursuit"
+      },
+      {
+        "id": "OGN-156",
+        "name": "Sabotage",
+        "riftbound_id": "OGN-156",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card.",
+          "plain": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-156.webp"
+        },
+        "slug": "ogn-156-sabotage"
+      },
+      {
+        "id": "SFD-118",
+        "name": "Boneshiver",
+        "riftbound_id": "SFD-118",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Equip] :rb_energy_1::rb_rune_body: (:rb_energy_1::rb_rune_body:: Attach this to a unit you control.)",
+          "plain": "[Equip] :rb_energy_1::rb_rune_body: (:rb_energy_1::rb_rune_body:: Attach this to a unit you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-118.webp"
+        },
+        "slug": "sfd-118-boneshiver"
+      },
+      {
+        "id": "SFD-095",
+        "name": "Doran's Blade",
+        "riftbound_id": "SFD-095",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)",
+          "plain": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-095.webp"
+        },
+        "slug": "sfd-095-dorans-blade"
+      },
+      {
+        "id": "SFD-022",
+        "name": "Long Sword",
+        "riftbound_id": "SFD-022",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_fury: (:rb_rune_fury:: Attach this to a unit you control.)",
+          "plain": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_fury: (:rb_rune_fury:: Attach this to a unit you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-022.webp"
+        },
+        "slug": "sfd-022-long-sword"
+      },
+      {
+        "id": "SFD-030",
+        "name": "Skyfall of Areion",
+        "riftbound_id": "SFD-030",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Equip] :rb_energy_1::rb_rune_fury: (:rb_energy_1::rb_rune_fury:: Attach this to a unit you control.)",
+          "plain": "[Equip] :rb_energy_1::rb_rune_fury: (:rb_energy_1::rb_rune_fury:: Attach this to a unit you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-030.webp"
+        },
+        "slug": "sfd-030-skyfall-of-areion"
+      },
+      {
+        "id": "SFD-115",
+        "name": "Trinity Force",
+        "riftbound_id": "SFD-115",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)",
+          "plain": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-115.webp"
+        },
+        "slug": "sfd-115-trinity-force"
+      },
+      {
+        "id": "OGN-126",
+        "name": "Body Rune",
+        "riftbound_id": "OGN-126",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Body"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-126.webp"
+        },
+        "slug": "ogn-126-body-rune"
+      },
+      {
+        "id": "OGN-007",
+        "name": "Fury Rune",
+        "riftbound_id": "OGN-007",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-007.webp"
+        },
+        "slug": "ogn-007-fury-rune"
+      },
+      {
+        "id": "SFD-208",
+        "name": "Forge of the Fluft",
+        "riftbound_id": "SFD-208",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "While you control this battlefield, friendly legends have &quot;:rb_exhaust:: Attach an Equipment you control to a unit you control.&quot;",
+          "plain": "While you control this battlefield, friendly legends have &quot;:rb_exhaust:: Attach an Equipment you control to a unit you control.&quot;"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-208.webp"
+        },
+        "slug": "sfd-208-forge-of-the-fluft"
+      },
+      {
+        "id": "OGN-284",
+        "name": "Obelisk of Power",
+        "riftbound_id": "OGN-284",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "At the start of each player's first Beginning Phase, that player channels 1 rune.",
+          "plain": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp"
+        },
+        "slug": "ogn-284-obelisk-of-power"
+      },
+      {
+        "id": "SFD-218",
+        "name": "Sunken Temple",
+        "riftbound_id": "SFD-218",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When you conquer here with one or more [Mighty] units, you may pay :rb_energy_1: to draw 1. (A unit is Mighty while it has 5+ :rb_might:.)",
+          "plain": "When you conquer here with one or more [Mighty] units, you may pay :rb_energy_1: to draw 1. (A unit is Mighty while it has 5+ :rb_might:.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-218.webp"
+        },
+        "slug": "sfd-218-sunken-temple"
+      },
+      {
+        "id": "SFD-011",
+        "name": "Angle Shot",
+        "riftbound_id": "SFD-011",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nChoose a unit and an Equipment with the same controller. Attach that Equipment to that unit or detach that Equipment from that unit. Draw 1.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nChoose a unit and an Equipment with the same controller. Attach that Equipment to that unit or detach that Equipment from that unit. Draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-011.webp"
+        },
+        "slug": "sfd-011-angle-shot"
+      },
+      {
+        "id": "SFD-021",
+        "name": "Ferrous Forerunner",
+        "riftbound_id": "SFD-021",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)",
+          "plain": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-021.webp"
+        },
+        "slug": "sfd-021-ferrous-forerunner"
+      }
+    ]
+  }
+}

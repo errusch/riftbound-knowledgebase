@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-222",
+  "type": "card_snapshot",
+  "title": "Noxian Drummer",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/lux-by-ryan-best-of-lux-houston-regional-qualifiers.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-222",
+    "name": "Noxian Drummer",
+    "riftbound_id": "OGN-222",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When I move to a battlefield, play a 1 :rb_might: Recruit unit token here. (It is also at the battlefield.)",
+      "plain": "When I move to a battlefield, play a 1 :rb_might: Recruit unit token here. (It is also at the battlefield.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-222.webp"
+    },
+    "slug": "ogn-222-noxian-drummer"
+  }
+}

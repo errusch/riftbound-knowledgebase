@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-071",
+  "type": "card_snapshot",
+  "title": "Breakneck Mech",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-rumble-from-bologna-ehdrt.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-071",
+    "name": "Breakneck Mech",
+    "riftbound_id": "SFD-071",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 8,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "Your Mechs have [Deflect] and [Ganking]. (Opponents must pay :rb_rune_rainbow: to choose us with a spell or ability. We can move from battlefield to battlefield.)\nI enter ready if you control another Mech.",
+      "plain": "Your Mechs have [Deflect] and [Ganking]. (Opponents must pay :rb_rune_rainbow: to choose us with a spell or ability. We can move from battlefield to battlefield.)\nI enter ready if you control another Mech."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-071.webp"
+    },
+    "slug": "sfd-071-breakneck-mech"
+  }
+}

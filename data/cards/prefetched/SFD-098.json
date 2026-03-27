@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-098",
+  "type": "card_snapshot",
+  "title": "Sea Monkey",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-sett-from-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-098",
+    "name": "Sea Monkey",
+    "riftbound_id": "SFD-098",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "You may pay :rb_energy_1: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, buff me. (Give me a +1 :rb_might: buff if I don't already have one.)",
+      "plain": "You may pay :rb_energy_1: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, buff me. (Give me a +1 :rb_might: buff if I don't already have one.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-098.webp"
+    },
+    "slug": "sfd-098-sea-monkey"
+  }
+}

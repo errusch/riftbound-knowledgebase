@@ -1,0 +1,49 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+from pathlib import Path
+import sys
+
+SCRIPT_ROOT = Path(__file__).resolve().parents[2]
+if str(SCRIPT_ROOT) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_ROOT))
+
+from scripts.lib.kb_common import ROOT, load_json, parse_markdown_file, write_json
+
+
+def main() -> None:
+    all_objects = []
+    canon_objects = []
+    analysis_objects = []
+
+    for root_name in ("canon", "analysis"):
+        root = ROOT / root_name
+        for path in sorted(root.rglob("*.md")):
+            parsed = parse_markdown_file(path)
+            entry = {**parsed["meta"], "path": parsed["path"]}
+            all_objects.append(entry)
+            if root_name == "canon":
+                canon_objects.append(entry)
+            else:
+                analysis_objects.append(entry)
+
+    video_index = []
+    for video_dir in sorted((ROOT / "analysis" / "videos").glob("*")):
+        metadata_path = video_dir / "metadata.json"
+        if metadata_path.exists():
+            metadata = load_json(metadata_path, {})
+            metadata["path"] = str(metadata_path.relative_to(ROOT))
+            video_index.append(metadata)
+
+    indexes = {
+        "all_objects": all_objects,
+        "canon_objects": canon_objects,
+        "analysis_objects": analysis_objects,
+        "videos": video_index,
+    }
+    for name, payload in indexes.items():
+        write_json(ROOT / "data" / "indexes" / f"{name}.json", payload)
+
+
+if __name__ == "__main__":
+    main()

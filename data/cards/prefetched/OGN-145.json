@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-145",
+  "type": "card_snapshot",
+  "title": "Unyielding Spirit",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-fiora-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-145",
+    "name": "Unyielding Spirit",
+    "riftbound_id": "OGN-145",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nPrevent all spell and ability damage this turn.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nPrevent all spell and ability damage this turn."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-145.webp"
+    },
+    "slug": "ogn-145-unyielding-spirit"
+  }
+}

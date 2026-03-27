@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-282",
+  "type": "card_snapshot",
+  "title": "Monastery of Hirana",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-darius-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-282",
+    "name": "Monastery of Hirana",
+    "riftbound_id": "OGN-282",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer here, you may spend a buff to draw 1.",
+      "plain": "When you conquer here, you may spend a buff to draw 1."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-282.webp"
+    },
+    "slug": "ogn-282-monastery-of-hirana"
+  }
+}

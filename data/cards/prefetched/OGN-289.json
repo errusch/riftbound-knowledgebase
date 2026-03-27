@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-289",
+  "type": "card_snapshot",
+  "title": "Targon's Peak",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-rumble-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-289",
+    "name": "Targon's Peak",
+    "riftbound_id": "OGN-289",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer here, ready up to 2 runes at the end of this turn.",
+      "plain": "When you conquer here, ready up to 2 runes at the end of this turn."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-289.webp"
+    },
+    "slug": "ogn-289-targons-peak"
+  }
+}

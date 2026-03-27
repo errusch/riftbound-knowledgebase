@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-085",
+  "type": "card_snapshot",
+  "title": "Falling Comet",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-lux-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-085",
+    "name": "Falling Comet",
+    "riftbound_id": "OGN-085",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)\nDeal 6 to a unit at a battlefield.",
+      "plain": "[Action] (Play on your turn or in showdowns.)\nDeal 6 to a unit at a battlefield."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-085.webp"
+    },
+    "slug": "ogn-085-falling-comet"
+  }
+}

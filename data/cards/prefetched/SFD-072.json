@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-072",
+  "type": "card_snapshot",
+  "title": "Dropboarder",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-teemo-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-072",
+    "name": "Dropboarder",
+    "riftbound_id": "SFD-072",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, if you control two or more gear, ready me.",
+      "plain": "When you play me, if you control two or more gear, ready me."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-072.webp"
+    },
+    "slug": "sfd-072-dropboarder"
+  }
+}

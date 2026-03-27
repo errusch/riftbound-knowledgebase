@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-148",
+  "type": "card_snapshot",
+  "title": "Anivia - Primal",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-sivir-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-148",
+    "name": "Anivia - Primal",
+    "riftbound_id": "OGN-148",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 7,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When I attack, deal 3 to all enemy units here.",
+      "plain": "When I attack, deal 3 to all enemy units here."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-148.webp"
+    },
+    "slug": "ogn-148-anivia-primal"
+  }
+}

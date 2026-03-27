@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-124",
+  "type": "card_snapshot",
+  "title": "Arena Bar",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-sett-by-boiwaffle-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-124",
+    "name": "Arena Bar",
+    "riftbound_id": "OGN-124",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: Buff an exhausted friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
+      "plain": ":rb_exhaust:: Buff an exhausted friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-124.webp"
+    },
+    "slug": "ogn-124-arena-bar"
+  }
+}

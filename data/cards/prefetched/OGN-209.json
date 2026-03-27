@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-209",
+  "type": "card_snapshot",
+  "title": "Cull the Weak",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-azir-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-209",
+    "name": "Cull the Weak",
+    "riftbound_id": "OGN-209",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "Each player kills one of their units.",
+      "plain": "Each player kills one of their units."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-209.webp"
+    },
+    "slug": "ogn-209-cull-the-weak"
+  }
+}

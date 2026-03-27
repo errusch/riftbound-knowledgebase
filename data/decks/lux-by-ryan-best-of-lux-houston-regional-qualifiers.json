@@ -1,0 +1,1442 @@
+{
+  "id": "deck.lux-by-ryan-best-of-lux-houston-regional-qualifiers",
+  "type": "competitive_record",
+  "title": "Lux by Ryan (Best of Lux Houston Regional Qualifiers)",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/lux-by-ryan-best-of-lux-houston-regional-qualifiers.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "deck",
+    "Lux",
+    "Origins"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "lux-by-ryan-best-of-lux-houston-regional-qualifiers",
+    "title": "Lux by Ryan (Best of Lux Houston Regional Qualifiers)",
+    "event": {
+      "slug": "houston-regional-qualifier",
+      "name": "Houston Regional Qualifier",
+      "region": "North America",
+      "eventDate": "2025-12-07",
+      "eventType": "regional_qualifier",
+      "coverageType": "best_of_champion_plus_top_cut",
+      "primarySource": {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+        "publishedAt": "2025-12-11T16:00:00.000Z",
+        "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+        "priority": 1
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "role": "event_recap",
+          "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+          "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+          "publishedAt": "2025-12-11T16:00:00.000Z",
+          "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+          "priority": 1
+        },
+        {
+          "kind": "community",
+          "role": "stats_summary",
+          "label": "Houston Regional Qualifier summary page",
+          "url": "https://riftbound.gg/houston-regional-qualifier-top-decks-for-every-champion/",
+          "publishedAt": null,
+          "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+          "priority": 2
+        }
+      ],
+      "articleSlug": null
+    },
+    "legend": {
+      "slug": "lux",
+      "name": "Lux",
+      "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier"
+    },
+    "placementText": "#167",
+    "playerName": "ryanempire",
+    "eventPrimarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+      "priority": 1
+    },
+    "decklistSource": {
+      "kind": "official",
+      "role": "decklist",
+      "label": "Lux official best-of decklist",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "Decklist parsed directly from the official Riot/Riftbound event recap.",
+      "priority": 1
+    },
+    "secondaryDeckSources": [
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Lux Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/lux-by-ryan-best-of-lux-houston-regional-qualifiers/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 2
+      }
+    ],
+    "sourceUrl": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+    "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=lux-by-ryan-best-of-lux-houston-regional-qualifiers",
+    "format": "Origins",
+    "views": 16122,
+    "cardCounts": {
+      "mainboard": 54,
+      "sideboard": 8
+    },
+    "mainboard": [
+      {
+        "cardCode": "OGN-210",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-210",
+          "name": "Daring Poro",
+          "slug": "ogn-210-daring-poro",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-210.webp",
+          "effect": "[Assault] (+1 :rb_might: while I'm an attacker.)"
+        }
+      },
+      {
+        "cardCode": "OGN-211",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-211",
+          "name": "Faithful Manufactor",
+          "slug": "ogn-211-faithful-manufactor",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-211.webp",
+          "effect": "When you play me, play a 1 :rb_might: Recruit unit token here."
+        }
+      },
+      {
+        "cardCode": "OGN-234",
+        "quantity": 1,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-234",
+          "name": "Harnessed Dragon",
+          "slug": "ogn-234-harnessed-dragon",
+          "cost": 8,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-234.webp",
+          "effect": "When you play me, kill an enemy unit."
+        }
+      },
+      {
+        "cardCode": "OGN-239",
+        "quantity": 1,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-239",
+          "name": "Machine Evangel",
+          "slug": "ogn-239-machine-evangel",
+          "cost": 5,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-239.webp",
+          "effect": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "OGN-222",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-222",
+          "name": "Noxian Drummer",
+          "slug": "ogn-222-noxian-drummer",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-222.webp",
+          "effect": "When I move to a battlefield, play a 1 :rb_might: Recruit unit token here. (It is also at the battlefield.)"
+        }
+      },
+      {
+        "cardCode": "OGN-216",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-216",
+          "name": "Soaring Scout",
+          "slug": "ogn-216-soaring-scout",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-216.webp",
+          "effect": "[Deathknell] \u2014 Channel 1 rune exhausted. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "OGN-096",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-096",
+          "name": "Watchful Sentry",
+          "slug": "ogn-096-watchful-sentry",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-096.webp",
+          "effect": "[Deathknell] \u2014 Draw 1. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "OGS-012",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGS-012",
+          "name": "Blast of Power",
+          "slug": "ogs-012-blast-of-power",
+          "cost": 6,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Proving Grounds",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGS-012.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield."
+        }
+      },
+      {
+        "cardCode": "OGN-083",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-083",
+          "name": "Consult the Past",
+          "slug": "ogn-083-consult-the-past",
+          "cost": 4,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-083.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Reaction] (Play any time, even before spells and abilities resolve.)\nDraw 2."
+        }
+      },
+      {
+        "cardCode": "OGN-209",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-209",
+          "name": "Cull the Weak",
+          "slug": "ogn-209-cull-the-weak",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-209.webp",
+          "effect": "Each player kills one of their units."
+        }
+      },
+      {
+        "cardCode": "OGN-085",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-085",
+          "name": "Falling Comet",
+          "slug": "ogn-085-falling-comet",
+          "cost": 5,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-085.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nDeal 6 to a unit at a battlefield."
+        }
+      },
+      {
+        "cardCode": "OGS-022",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGS-022",
+          "name": "Final Spark",
+          "slug": "ogs-022-final-spark",
+          "cost": 8,
+          "type": "Spell",
+          "supertype": "Signature",
+          "domains": [
+            "Mind",
+            "Order"
+          ],
+          "setName": "Proving Grounds",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGS-022.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nDeal 8 to a unit."
+        }
+      },
+      {
+        "cardCode": "OGN-213",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-213",
+          "name": "Hidden Blade",
+          "slug": "ogn-213-hidden-blade",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-213.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield. Its controller draws 2."
+        }
+      },
+      {
+        "cardCode": "OGS-015",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGS-015",
+          "name": "Recruit the Vanguard",
+          "slug": "ogs-015-recruit-the-vanguard",
+          "cost": 6,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Proving Grounds",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGS-015.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nPlay four 1 :rb_might: Recruit unit tokens. (They can be played to your base or to battlefields you control.)"
+        }
+      },
+      {
+        "cardCode": "OGN-105",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-105",
+          "name": "Singularity",
+          "slug": "ogn-105-singularity",
+          "cost": 6,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-105.webp",
+          "effect": "Deal 6 to each of up to two units."
+        }
+      },
+      {
+        "cardCode": "OGN-122",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-122",
+          "name": "Time Warp",
+          "slug": "ogn-122-time-warp",
+          "cost": 10,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-122.webp",
+          "effect": "Take a turn after this one. Banish this."
+        }
+      },
+      {
+        "cardCode": "OGN-123",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-123",
+          "name": "Unchecked Power",
+          "slug": "ogn-123-unchecked-power",
+          "cost": 7,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-123.webp",
+          "effect": "Exhaust all friendly units, then deal 12 to ALL units at battlefields."
+        }
+      },
+      {
+        "cardCode": "OGN-089",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-089",
+          "name": "Mind Rune",
+          "slug": "ogn-089-mind-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Mind"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-089.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-214",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-214",
+          "name": "Order Rune",
+          "slug": "ogn-214-order-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-214.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-276",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-276",
+          "name": "Aspirant's Climb",
+          "slug": "ogn-276-aspirants-climb",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-276.webp",
+          "effect": "Increase the points needed to win the game by 1."
+        }
+      },
+      {
+        "cardCode": "OGN-293",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-293",
+          "name": "The Grand Plaza",
+          "slug": "ogn-293-the-grand-plaza",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-293.webp",
+          "effect": "When you hold here, if you have 7+ units here, you win the game."
+        }
+      },
+      {
+        "cardCode": "OGN-295",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-295",
+          "name": "Vilemaw's Lair",
+          "slug": "ogn-295-vilemaws-lair",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-295.webp",
+          "effect": "Units can't move from here to base."
+        }
+      }
+    ],
+    "sideboard": [
+      {
+        "cardCode": "OGN-221",
+        "quantity": 3,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-221",
+          "name": "Imperial Decree",
+          "slug": "ogn-221-imperial-decree",
+          "cost": 5,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-221.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nWhen any unit takes damage this turn, kill it."
+        }
+      },
+      {
+        "cardCode": "OGN-239",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-239",
+          "name": "Machine Evangel",
+          "slug": "ogn-239-machine-evangel",
+          "cost": 5,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-239.webp",
+          "effect": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "OGS-015",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGS-015",
+          "name": "Recruit the Vanguard",
+          "slug": "ogs-015-recruit-the-vanguard",
+          "cost": 6,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Proving Grounds",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGS-015.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nPlay four 1 :rb_might: Recruit unit tokens. (They can be played to your base or to battlefields you control.)"
+        }
+      },
+      {
+        "cardCode": "OGN-224",
+        "quantity": 3,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-224",
+          "name": "Salvage",
+          "slug": "ogn-224-salvage",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Order"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-224.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nYou may kill up to one gear. Draw 1."
+        }
+      }
+    ],
+    "deckDisplay": {
+      "name": "Lux by Ryan (Best of Lux Houston Regional Qualifiers)",
+      "player": "ryanempire",
+      "event": "Houston Regional Qualifier",
+      "date": "2025-12-07",
+      "legend": "Lux",
+      "cards": [
+        {
+          "cardId": "OGN-210",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-211",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-234",
+          "quantity": 1,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-239",
+          "quantity": 1,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-222",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-216",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-096",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGS-012",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-083",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-209",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-085",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGS-022",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-213",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGS-015",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-105",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-122",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-123",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-089",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-214",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-276",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-293",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-295",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-221",
+          "quantity": 3,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-239",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGS-015",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-224",
+          "quantity": 3,
+          "section": "sideboard"
+        }
+      ]
+    },
+    "prefetchedCardData": [
+      {
+        "id": "OGN-210",
+        "name": "Daring Poro",
+        "riftbound_id": "OGN-210",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Assault] (+1 :rb_might: while I'm an attacker.)",
+          "plain": "[Assault] (+1 :rb_might: while I'm an attacker.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-210.webp"
+        },
+        "slug": "ogn-210-daring-poro"
+      },
+      {
+        "id": "OGN-211",
+        "name": "Faithful Manufactor",
+        "riftbound_id": "OGN-211",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, play a 1 :rb_might: Recruit unit token here.",
+          "plain": "When you play me, play a 1 :rb_might: Recruit unit token here."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-211.webp"
+        },
+        "slug": "ogn-211-faithful-manufactor"
+      },
+      {
+        "id": "OGN-234",
+        "name": "Harnessed Dragon",
+        "riftbound_id": "OGN-234",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 8,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, kill an enemy unit.",
+          "plain": "When you play me, kill an enemy unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-234.webp"
+        },
+        "slug": "ogn-234-harnessed-dragon"
+      },
+      {
+        "id": "OGN-239",
+        "name": "Machine Evangel",
+        "riftbound_id": "OGN-239",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 5,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)",
+          "plain": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-239.webp"
+        },
+        "slug": "ogn-239-machine-evangel"
+      },
+      {
+        "id": "OGN-222",
+        "name": "Noxian Drummer",
+        "riftbound_id": "OGN-222",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "When I move to a battlefield, play a 1 :rb_might: Recruit unit token here. (It is also at the battlefield.)",
+          "plain": "When I move to a battlefield, play a 1 :rb_might: Recruit unit token here. (It is also at the battlefield.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-222.webp"
+        },
+        "slug": "ogn-222-noxian-drummer"
+      },
+      {
+        "id": "OGN-216",
+        "name": "Soaring Scout",
+        "riftbound_id": "OGN-216",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Deathknell] \u2014 Channel 1 rune exhausted. (When I die, get the effect.)",
+          "plain": "[Deathknell] \u2014 Channel 1 rune exhausted. (When I die, get the effect.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-216.webp"
+        },
+        "slug": "ogn-216-soaring-scout"
+      },
+      {
+        "id": "OGN-096",
+        "name": "Watchful Sentry",
+        "riftbound_id": "OGN-096",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Deathknell] \u2014 Draw 1. (When I die, get the effect.)",
+          "plain": "[Deathknell] \u2014 Draw 1. (When I die, get the effect.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-096.webp"
+        },
+        "slug": "ogn-096-watchful-sentry"
+      },
+      {
+        "id": "OGS-012",
+        "name": "Blast of Power",
+        "riftbound_id": "OGS-012",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGS-012.webp"
+        },
+        "slug": "ogs-012-blast-of-power"
+      },
+      {
+        "id": "OGN-083",
+        "name": "Consult the Past",
+        "riftbound_id": "OGN-083",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Reaction] (Play any time, even before spells and abilities resolve.)\nDraw 2.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Reaction] (Play any time, even before spells and abilities resolve.)\nDraw 2."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-083.webp"
+        },
+        "slug": "ogn-083-consult-the-past"
+      },
+      {
+        "id": "OGN-209",
+        "name": "Cull the Weak",
+        "riftbound_id": "OGN-209",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "Each player kills one of their units.",
+          "plain": "Each player kills one of their units."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-209.webp"
+        },
+        "slug": "ogn-209-cull-the-weak"
+      },
+      {
+        "id": "OGN-085",
+        "name": "Falling Comet",
+        "riftbound_id": "OGN-085",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 5,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nDeal 6 to a unit at a battlefield.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nDeal 6 to a unit at a battlefield."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-085.webp"
+        },
+        "slug": "ogn-085-falling-comet"
+      },
+      {
+        "id": "OGS-022",
+        "name": "Final Spark",
+        "riftbound_id": "OGS-022",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 8,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": "Signature",
+          "rarity": "Epic",
+          "domain": [
+            "Mind",
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nDeal 8 to a unit.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nDeal 8 to a unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGS-022.webp"
+        },
+        "slug": "ogs-022-final-spark"
+      },
+      {
+        "id": "OGN-213",
+        "name": "Hidden Blade",
+        "riftbound_id": "OGN-213",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield. Its controller draws 2.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield. Its controller draws 2."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-213.webp"
+        },
+        "slug": "ogn-213-hidden-blade"
+      },
+      {
+        "id": "OGS-015",
+        "name": "Recruit the Vanguard",
+        "riftbound_id": "OGS-015",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nPlay four 1 :rb_might: Recruit unit tokens. (They can be played to your base or to battlefields you control.)",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nPlay four 1 :rb_might: Recruit unit tokens. (They can be played to your base or to battlefields you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGS-015.webp"
+        },
+        "slug": "ogs-015-recruit-the-vanguard"
+      },
+      {
+        "id": "OGN-105",
+        "name": "Singularity",
+        "riftbound_id": "OGN-105",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "Deal 6 to each of up to two units.",
+          "plain": "Deal 6 to each of up to two units."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-105.webp"
+        },
+        "slug": "ogn-105-singularity"
+      },
+      {
+        "id": "OGN-122",
+        "name": "Time Warp",
+        "riftbound_id": "OGN-122",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 10,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "Take a turn after this one. Banish this.",
+          "plain": "Take a turn after this one. Banish this."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-122.webp"
+        },
+        "slug": "ogn-122-time-warp"
+      },
+      {
+        "id": "OGN-123",
+        "name": "Unchecked Power",
+        "riftbound_id": "OGN-123",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 7,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "Exhaust all friendly units, then deal 12 to ALL units at battlefields.",
+          "plain": "Exhaust all friendly units, then deal 12 to ALL units at battlefields."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-123.webp"
+        },
+        "slug": "ogn-123-unchecked-power"
+      },
+      {
+        "id": "OGN-089",
+        "name": "Mind Rune",
+        "riftbound_id": "OGN-089",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Mind"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-089.webp"
+        },
+        "slug": "ogn-089-mind-rune"
+      },
+      {
+        "id": "OGN-214",
+        "name": "Order Rune",
+        "riftbound_id": "OGN-214",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-214.webp"
+        },
+        "slug": "ogn-214-order-rune"
+      },
+      {
+        "id": "OGN-276",
+        "name": "Aspirant's Climb",
+        "riftbound_id": "OGN-276",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Increase the points needed to win the game by 1.",
+          "plain": "Increase the points needed to win the game by 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-276.webp"
+        },
+        "slug": "ogn-276-aspirants-climb"
+      },
+      {
+        "id": "OGN-293",
+        "name": "The Grand Plaza",
+        "riftbound_id": "OGN-293",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When you hold here, if you have 7+ units here, you win the game.",
+          "plain": "When you hold here, if you have 7+ units here, you win the game."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-293.webp"
+        },
+        "slug": "ogn-293-the-grand-plaza"
+      },
+      {
+        "id": "OGN-295",
+        "name": "Vilemaw's Lair",
+        "riftbound_id": "OGN-295",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Units can't move from here to base.",
+          "plain": "Units can't move from here to base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-295.webp"
+        },
+        "slug": "ogn-295-vilemaws-lair"
+      },
+      {
+        "id": "OGN-221",
+        "name": "Imperial Decree",
+        "riftbound_id": "OGN-221",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 5,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nWhen any unit takes damage this turn, kill it.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nWhen any unit takes damage this turn, kill it."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-221.webp"
+        },
+        "slug": "ogn-221-imperial-decree"
+      },
+      {
+        "id": "OGN-224",
+        "name": "Salvage",
+        "riftbound_id": "OGN-224",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Order"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nYou may kill up to one gear. Draw 1.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nYou may kill up to one gear. Draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-224.webp"
+        },
+        "slug": "ogn-224-salvage"
+      }
+    ]
+  }
+}

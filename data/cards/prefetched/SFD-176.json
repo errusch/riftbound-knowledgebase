@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-176",
+  "type": "card_snapshot",
+  "title": "Xin Zhao - Vigilant",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-viktor-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-176",
+    "name": "Xin Zhao - Vigilant",
+    "riftbound_id": "SFD-176",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Tank] (I must be assigned combat damage first.)\nI enter ready if you have two or more other units in your base.",
+      "plain": "[Tank] (I must be assigned combat damage first.)\nI enter ready if you have two or more other units in your base."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-176.webp"
+    },
+    "slug": "sfd-176-xin-zhao-vigilant"
+  }
+}

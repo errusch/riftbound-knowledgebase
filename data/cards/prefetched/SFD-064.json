@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-064",
+  "type": "card_snapshot",
+  "title": "Cloth Armor",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ahri-from-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-064",
+    "name": "Cloth Armor",
+    "riftbound_id": "SFD-064",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_mind: (:rb_rune_mind:: Attach this to a unit you control.)",
+      "plain": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_mind: (:rb_rune_mind:: Attach this to a unit you control.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-064.webp"
+    },
+    "slug": "sfd-064-cloth-armor"
+  }
+}

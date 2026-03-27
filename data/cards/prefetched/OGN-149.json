@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-149",
+  "type": "card_snapshot",
+  "title": "Carnivorous Snapvine",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-volibear-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-149",
+    "name": "Carnivorous Snapvine",
+    "riftbound_id": "OGN-149",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, choose an enemy unit at a battlefield. We deal damage equal to our Mights to each other.",
+      "plain": "When you play me, choose an enemy unit at a battlefield. We deal damage equal to our Mights to each other."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-149.webp"
+    },
+    "slug": "ogn-149-carnivorous-snapvine"
+  }
+}

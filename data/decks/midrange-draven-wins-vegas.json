@@ -1,0 +1,1503 @@
+{
+  "id": "deck.midrange-draven-wins-vegas",
+  "type": "competitive_record",
+  "title": "Midrange Draven wins Vegas",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/midrange-draven-wins-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "deck",
+    "Draven",
+    "Spiritforged"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "midrange-draven-wins-vegas",
+    "title": "Midrange Draven wins Vegas",
+    "event": {
+      "slug": "vegas-regional-qualifier",
+      "name": "Vegas Regional Qualifier",
+      "region": "North America",
+      "eventDate": "2026-03-01",
+      "eventType": "regional_qualifier",
+      "coverageType": "best_of_legend_plus_top_cut",
+      "primarySource": {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "Vegas\u2019 Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+        "publishedAt": "2026-03-04T17:00:00.000Z",
+        "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+        "priority": 1
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "role": "event_recap",
+          "label": "Vegas\u2019 Top Decks",
+          "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+          "publishedAt": "2026-03-04T17:00:00.000Z",
+          "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+          "priority": 1
+        },
+        {
+          "kind": "community",
+          "role": "stats_summary",
+          "label": "Vegas Regional Qualifier summary page",
+          "url": "https://riftbound.gg/vegas-regional-qualifier/",
+          "publishedAt": null,
+          "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+          "priority": 2
+        }
+      ],
+      "articleSlug": "vegas-regional-qualifier"
+    },
+    "legend": {
+      "slug": "draven",
+      "name": "Draven",
+      "section": "Top 8 Legends"
+    },
+    "placementText": "Winner",
+    "playerName": "SAMDSHERMAN",
+    "eventPrimarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "Vegas\u2019 Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+      "publishedAt": "2026-03-04T17:00:00.000Z",
+      "description": "RQ Vegas\u2019 1600 players yielded some new looks at the best decks in Riftbound.",
+      "priority": 1
+    },
+    "decklistSource": {
+      "kind": "official",
+      "role": "decklist",
+      "label": "Draven official best-of decklist",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+      "publishedAt": "2026-03-04T17:00:00.000Z",
+      "description": "Decklist parsed directly from the official Riot/Riftbound event recap.",
+      "priority": 1
+    },
+    "secondaryDeckSources": [
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Draven Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/midrange-draven-wins-vegas/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 2
+      },
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Draven Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/miracle-draven-runner-up-in-vegas/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 3
+      },
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Draven Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/top-4-miracle-draven-in-vegas/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 4
+      },
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Draven Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/midrange-draven-top-4-vegas/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 5
+      },
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Draven Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/miracle-draven-top-8-vegas/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 6
+      }
+    ],
+    "sourceUrl": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks/",
+    "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=midrange-draven-wins-vegas",
+    "format": "Spiritforged",
+    "views": 15726,
+    "cardCounts": {
+      "mainboard": 54,
+      "sideboard": 8
+    },
+    "mainboard": [
+      {
+        "cardCode": "OGN-026",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-026",
+          "name": "Brynhir Thundersong",
+          "slug": "ogn-026-brynhir-thundersong",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-026.webp",
+          "effect": "When you play me, opponents can't play cards this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-027",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-027",
+          "name": "Darius - Trifarian",
+          "slug": "ogn-027-darius-trifarian",
+          "cost": 5,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-027.webp",
+          "effect": "When you play your second card in a turn, give me +2 :rb_might: this turn and ready me."
+        }
+      },
+      {
+        "cardCode": "SFD-021",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-021",
+          "name": "Ferrous Forerunner",
+          "slug": "sfd-021-ferrous-forerunner",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-021.webp",
+          "effect": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)"
+        }
+      },
+      {
+        "cardCode": "OGN-039",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-039",
+          "name": "Kai'Sa - Survivor",
+          "slug": "ogn-039-kaisa-survivor",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-039.webp",
+          "effect": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-012",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-012",
+          "name": "Noxus Hopeful",
+          "slug": "ogn-012-noxus-hopeful",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-012.webp",
+          "effect": "[Legion] \u2014 I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)"
+        }
+      },
+      {
+        "cardCode": "SFD-128",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-128",
+          "name": "Overzealous Fan",
+          "slug": "sfd-128-overzealous-fan",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-128.webp",
+          "effect": "When I defend, you may kill me to move an attacking unit to its base."
+        }
+      },
+      {
+        "cardCode": "OGN-199",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-199",
+          "name": "Tideturner",
+          "slug": "ogn-199-tideturner",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-199.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nWhen you play me, you may choose a unit you control at another location. Move me to its location and it to my original location."
+        }
+      },
+      {
+        "cardCode": "SFD-130",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "SFD-130",
+          "name": "Treasure Hunter",
+          "slug": "sfd-130-treasure-hunter",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-130.webp",
+          "effect": "When I move, play a Gold gear token exhausted."
+        }
+      },
+      {
+        "cardCode": "OGN-029",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-029",
+          "name": "Falling Star",
+          "slug": "ogn-029-falling-star",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-029.webp",
+          "effect": "Deal 3 to a unit.\nDeal 3 to a unit."
+        }
+      },
+      {
+        "cardCode": "OGN-168",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-168",
+          "name": "Fight or Flight",
+          "slug": "ogn-168-fight-or-flight",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-168.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base."
+        }
+      },
+      {
+        "cardCode": "SFD-136",
+        "quantity": 1,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "SFD-136",
+          "name": "Hard Bargain",
+          "slug": "sfd-136-hard-bargain",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-136.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\n[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)\nCounter a spell unless its controller pays :rb_energy_2:."
+        }
+      },
+      {
+        "cardCode": "OGN-172",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-172",
+          "name": "Rebuke",
+          "slug": "ogn-172-rebuke",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-172.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nReturn a unit at a battlefield to its owner's hand."
+        }
+      },
+      {
+        "cardCode": "OGN-173",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-173",
+          "name": "Ride the Wind",
+          "slug": "ogn-173-ride-the-wind",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-173.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit and ready it."
+        }
+      },
+      {
+        "cardCode": "OGN-183",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-183",
+          "name": "Stacked Deck",
+          "slug": "ogn-183-stacked-deck",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-183.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest."
+        }
+      },
+      {
+        "cardCode": "SFD-186",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "SFD-186",
+          "name": "Spinning Axe",
+          "slug": "sfd-186-spinning-axe",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": "Signature",
+          "domains": [
+            "Fury",
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-186.webp",
+          "effect": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)\n[Temporary] (If this is unattached, kill it at the start of its controller's Beginning Phase, before scoring.)"
+        }
+      },
+      {
+        "cardCode": "OGN-166",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-166",
+          "name": "Chaos Rune",
+          "slug": "ogn-166-chaos-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-166.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-007",
+        "quantity": 6,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-007",
+          "name": "Fury Rune",
+          "slug": "ogn-007-fury-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-007.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-284",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-284",
+          "name": "Obelisk of Power",
+          "slug": "ogn-284-obelisk-of-power",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp",
+          "effect": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        }
+      },
+      {
+        "cardCode": "OGN-285",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-285",
+          "name": "Reaver's Row",
+          "slug": "ogn-285-reavers-row",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-285.webp",
+          "effect": "When you defend here, you may move a friendly unit here to base."
+        }
+      },
+      {
+        "cardCode": "OGN-289",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-289",
+          "name": "Targon's Peak",
+          "slug": "ogn-289-targons-peak",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-289.webp",
+          "effect": "When you conquer here, ready up to 2 runes at the end of this turn."
+        }
+      }
+    ],
+    "sideboard": [
+      {
+        "cardCode": "OGN-026",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-026",
+          "name": "Brynhir Thundersong",
+          "slug": "ogn-026-brynhir-thundersong",
+          "cost": 6,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-026.webp",
+          "effect": "When you play me, opponents can't play cards this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-029",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-029",
+          "name": "Falling Star",
+          "slug": "ogn-029-falling-star",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-029.webp",
+          "effect": "Deal 3 to a unit.\nDeal 3 to a unit."
+        }
+      },
+      {
+        "cardCode": "SFD-136",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-136",
+          "name": "Hard Bargain",
+          "slug": "sfd-136-hard-bargain",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-136.webp",
+          "effect": "[Reaction] (Play any time, even before spells and abilities resolve.)\n[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)\nCounter a spell unless its controller pays :rb_energy_2:."
+        }
+      },
+      {
+        "cardCode": "SFD-150",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-150",
+          "name": "Last Rites",
+          "slug": "sfd-150-last-rites",
+          "cost": 3,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-150.webp",
+          "effect": "[Equip] \u2014 :rb_rune_chaos:, Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)"
+        }
+      },
+      {
+        "cardCode": "OGN-192",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-192",
+          "name": "Mindsplitter",
+          "slug": "ogn-192-mindsplitter",
+          "cost": 7,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-192.webp",
+          "effect": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card."
+        }
+      },
+      {
+        "cardCode": "SFD-145",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "SFD-145",
+          "name": "Switcheroo",
+          "slug": "sfd-145-switcheroo",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Spiritforged",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/SFD-145.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nSwap the Might of two units at the same battlefield this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-022",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-022",
+          "name": "Thermo Beam",
+          "slug": "ogn-022-thermo-beam",
+          "cost": 5,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-022.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nKill all gear."
+        }
+      }
+    ],
+    "deckDisplay": {
+      "name": "Midrange Draven wins Vegas",
+      "player": "SAMDSHERMAN",
+      "event": "Vegas Regional Qualifier",
+      "date": "2026-03-01",
+      "legend": "Draven",
+      "cards": [
+        {
+          "cardId": "OGN-026",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-027",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-021",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-039",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-012",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-128",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-199",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "SFD-130",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-029",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-168",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-136",
+          "quantity": 1,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-172",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-173",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-183",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "SFD-186",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-166",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-007",
+          "quantity": 6,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-284",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-285",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-289",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-026",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-029",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "SFD-136",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "SFD-150",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-192",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "SFD-145",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-022",
+          "quantity": 1,
+          "section": "sideboard"
+        }
+      ]
+    },
+    "prefetchedCardData": [
+      {
+        "id": "OGN-026",
+        "name": "Brynhir Thundersong",
+        "riftbound_id": "OGN-026",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, opponents can't play cards this turn.",
+          "plain": "When you play me, opponents can't play cards this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-026.webp"
+        },
+        "slug": "ogn-026-brynhir-thundersong"
+      },
+      {
+        "id": "OGN-027",
+        "name": "Darius - Trifarian",
+        "riftbound_id": "OGN-027",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 5,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "When you play your second card in a turn, give me +2 :rb_might: this turn and ready me.",
+          "plain": "When you play your second card in a turn, give me +2 :rb_might: this turn and ready me."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-027.webp"
+        },
+        "slug": "ogn-027-darius-trifarian"
+      },
+      {
+        "id": "SFD-021",
+        "name": "Ferrous Forerunner",
+        "riftbound_id": "SFD-021",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 6,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)",
+          "plain": "[Deathknell] \u2014 Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-021.webp"
+        },
+        "slug": "sfd-021-ferrous-forerunner"
+      },
+      {
+        "id": "OGN-039",
+        "name": "Kai'Sa - Survivor",
+        "riftbound_id": "OGN-039",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Epic",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1.",
+          "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-039.webp"
+        },
+        "slug": "ogn-039-kaisa-survivor"
+      },
+      {
+        "id": "OGN-012",
+        "name": "Noxus Hopeful",
+        "riftbound_id": "OGN-012",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Legion] \u2014 I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)",
+          "plain": "[Legion] \u2014 I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-012.webp"
+        },
+        "slug": "ogn-012-noxus-hopeful"
+      },
+      {
+        "id": "SFD-128",
+        "name": "Overzealous Fan",
+        "riftbound_id": "SFD-128",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "When I defend, you may kill me to move an attacking unit to its base.",
+          "plain": "When I defend, you may kill me to move an attacking unit to its base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-128.webp"
+        },
+        "slug": "sfd-128-overzealous-fan"
+      },
+      {
+        "id": "OGN-199",
+        "name": "Tideturner",
+        "riftbound_id": "OGN-199",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nWhen you play me, you may choose a unit you control at another location. Move me to its location and it to my original location.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nWhen you play me, you may choose a unit you control at another location. Move me to its location and it to my original location."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-199.webp"
+        },
+        "slug": "ogn-199-tideturner"
+      },
+      {
+        "id": "SFD-130",
+        "name": "Treasure Hunter",
+        "riftbound_id": "SFD-130",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "When I move, play a Gold gear token exhausted.",
+          "plain": "When I move, play a Gold gear token exhausted."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-130.webp"
+        },
+        "slug": "sfd-130-treasure-hunter"
+      },
+      {
+        "id": "OGN-029",
+        "name": "Falling Star",
+        "riftbound_id": "OGN-029",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "Deal 3 to a unit.\nDeal 3 to a unit.",
+          "plain": "Deal 3 to a unit.\nDeal 3 to a unit."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-029.webp"
+        },
+        "slug": "ogn-029-falling-star"
+      },
+      {
+        "id": "OGN-168",
+        "name": "Fight or Flight",
+        "riftbound_id": "OGN-168",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-168.webp"
+        },
+        "slug": "ogn-168-fight-or-flight"
+      },
+      {
+        "id": "SFD-136",
+        "name": "Hard Bargain",
+        "riftbound_id": "SFD-136",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\n[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)\nCounter a spell unless its controller pays :rb_energy_2:.",
+          "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\n[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)\nCounter a spell unless its controller pays :rb_energy_2:."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-136.webp"
+        },
+        "slug": "sfd-136-hard-bargain"
+      },
+      {
+        "id": "OGN-172",
+        "name": "Rebuke",
+        "riftbound_id": "OGN-172",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nReturn a unit at a battlefield to its owner's hand.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nReturn a unit at a battlefield to its owner's hand."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-172.webp"
+        },
+        "slug": "ogn-172-rebuke"
+      },
+      {
+        "id": "OGN-173",
+        "name": "Ride the Wind",
+        "riftbound_id": "OGN-173",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit and ready it.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit and ready it."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-173.webp"
+        },
+        "slug": "ogn-173-ride-the-wind"
+      },
+      {
+        "id": "OGN-183",
+        "name": "Stacked Deck",
+        "riftbound_id": "OGN-183",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-183.webp"
+        },
+        "slug": "ogn-183-stacked-deck"
+      },
+      {
+        "id": "SFD-186",
+        "name": "Spinning Axe",
+        "riftbound_id": "SFD-186",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": "Signature",
+          "rarity": "Epic",
+          "domain": [
+            "Fury",
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)\n[Temporary] (If this is unattached, kill it at the start of its controller's Beginning Phase, before scoring.)",
+          "plain": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)\n[Temporary] (If this is unattached, kill it at the start of its controller's Beginning Phase, before scoring.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-186.webp"
+        },
+        "slug": "sfd-186-spinning-axe"
+      },
+      {
+        "id": "OGN-166",
+        "name": "Chaos Rune",
+        "riftbound_id": "OGN-166",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-166.webp"
+        },
+        "slug": "ogn-166-chaos-rune"
+      },
+      {
+        "id": "OGN-007",
+        "name": "Fury Rune",
+        "riftbound_id": "OGN-007",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-007.webp"
+        },
+        "slug": "ogn-007-fury-rune"
+      },
+      {
+        "id": "OGN-284",
+        "name": "Obelisk of Power",
+        "riftbound_id": "OGN-284",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "At the start of each player's first Beginning Phase, that player channels 1 rune.",
+          "plain": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-284.webp"
+        },
+        "slug": "ogn-284-obelisk-of-power"
+      },
+      {
+        "id": "OGN-285",
+        "name": "Reaver's Row",
+        "riftbound_id": "OGN-285",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When you defend here, you may move a friendly unit here to base.",
+          "plain": "When you defend here, you may move a friendly unit here to base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-285.webp"
+        },
+        "slug": "ogn-285-reavers-row"
+      },
+      {
+        "id": "OGN-289",
+        "name": "Targon's Peak",
+        "riftbound_id": "OGN-289",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When you conquer here, ready up to 2 runes at the end of this turn.",
+          "plain": "When you conquer here, ready up to 2 runes at the end of this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-289.webp"
+        },
+        "slug": "ogn-289-targons-peak"
+      },
+      {
+        "id": "SFD-150",
+        "name": "Last Rites",
+        "riftbound_id": "SFD-150",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Epic",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Equip] \u2014 :rb_rune_chaos:, Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)",
+          "plain": "[Equip] \u2014 :rb_rune_chaos:, Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-150.webp"
+        },
+        "slug": "sfd-150-last-rites"
+      },
+      {
+        "id": "OGN-192",
+        "name": "Mindsplitter",
+        "riftbound_id": "OGN-192",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 7,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card.",
+          "plain": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-192.webp"
+        },
+        "slug": "ogn-192-mindsplitter"
+      },
+      {
+        "id": "SFD-145",
+        "name": "Switcheroo",
+        "riftbound_id": "SFD-145",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Rare",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nSwap the Might of two units at the same battlefield this turn.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nSwap the Might of two units at the same battlefield this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-145.webp"
+        },
+        "slug": "sfd-145-switcheroo"
+      },
+      {
+        "id": "OGN-022",
+        "name": "Thermo Beam",
+        "riftbound_id": "OGN-022",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 5,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nKill all gear.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nKill all gear."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-022.webp"
+        },
+        "slug": "ogn-022-thermo-beam"
+      }
+    ]
+  }
+}

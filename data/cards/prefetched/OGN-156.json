@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-156",
+  "type": "card_snapshot",
+  "title": "Sabotage",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-fiora-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-156",
+    "name": "Sabotage",
+    "riftbound_id": "OGN-156",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card.",
+      "plain": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-156.webp"
+    },
+    "slug": "ogn-156-sabotage"
+  }
+}

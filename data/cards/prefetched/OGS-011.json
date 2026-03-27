@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGS-011",
+  "type": "card_snapshot",
+  "title": "Flash",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGS-011",
+    "name": "Flash",
+    "riftbound_id": "OGS-011",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)\nMove up to 2 friendly units to base.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)\nMove up to 2 friendly units to base."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGS-011.webp"
+    },
+    "slug": "ogs-011-flash"
+  }
+}

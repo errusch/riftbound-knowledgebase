@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-105",
+  "type": "card_snapshot",
+  "title": "Singularity",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ahri-from-bologna-ngb9v.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-105",
+    "name": "Singularity",
+    "riftbound_id": "OGN-105",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 6,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "Deal 6 to each of up to two units.",
+      "plain": "Deal 6 to each of up to two units."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-105.webp"
+    },
+    "slug": "ogn-105-singularity"
+  }
+}

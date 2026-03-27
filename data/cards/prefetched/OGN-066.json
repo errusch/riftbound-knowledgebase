@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-066",
+  "type": "card_snapshot",
+  "title": "Ahri - Alluring",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ahri-from-bologna-ngb9v.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-066",
+    "name": "Ahri - Alluring",
+    "riftbound_id": "OGN-066",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "When I hold, you score 1 point.",
+      "plain": "When I hold, you score 1 point."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-066.webp"
+    },
+    "slug": "ogn-066-ahri-alluring"
+  }
+}

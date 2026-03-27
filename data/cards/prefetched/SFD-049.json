@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-049",
+  "type": "card_snapshot",
+  "title": "Aphelios - Exalted",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-jax-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-049",
+    "name": "Aphelios - Exalted",
+    "riftbound_id": "SFD-049",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "When you attach an Equipment to me, choose one that hasn't been chosen this turn \u2014Ready 2 runes.Channel 1 rune exhausted.Buff a friendly unit.",
+      "plain": "When you attach an Equipment to me, choose one that hasn't been chosen this turn \u2014Ready 2 runes.Channel 1 rune exhausted.Buff a friendly unit."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-049.webp"
+    },
+    "slug": "sfd-049-aphelios-exalted"
+  }
+}

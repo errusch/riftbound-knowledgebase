@@ -1,0 +1,92 @@
+[
+  {
+    "excerpt": "A real-time market tracker showing the biggest price movements in the Riftbound card market.",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "``` \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u2502 \ud83d\udd25 Market Movers Last updated: X\u2502 \u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524 \u2502 \u2502 \u2502 \ud83d\udcc8 Top Gainers \u2502 \u2502 \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510 \u2502 \u2502 \u2502 1.",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "**Structure:** ```json { \"generated\": \"2024-02-10T12:00:00Z\", \"alerts\": { \"topGainers\": [ { \"name\": \"Arcane Bolt\", \"set\": \"foundations\", \"rarity\": \"rare\", \"tcgplayerId\": \"123456\", \"previousPrice\": 12.50, \"currentPrice\": 18.15, \"percentChange\": 45.2, \"priceDiff\": 5.65 } ], \"topLos",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "- **Gainers:** Green gradient (light to dark based on % change) - `+10-25%`: `#10b981` (emerald-500) - `+25-50%`: `#059669` (emerald-600) - `+50%+`: `#047857` (emerald-700)",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "- **Losers:** Red gradient (light to dark based on % change) - `-10-25%`: `#ef4444` (red-500) - `-25-50%`: `#dc2626` (red-600) - `-50%+`: `#b91c1c` (red-700)",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "- **Card Name:** Font size 18px, weight 600 (semibold) - **Set/Rarity:** Font size 14px, weight 400, muted color - **Prices:** Font size 14px, weight 500, monospace - **Percentage:** Font size 20px, weight 700 (bold), colored",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "- **Hover:** Card row highlights with subtle background color + shadow - **Click:** Navigate to `/cards/{tcgplayerId}` - **Mobile:** Tap to navigate, swipe to scroll within lists",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "```typescript interface PriceMoversProps { maxGainers?: number; // Default: 5 maxLosers?: number; // Default: 5 showPriceDiff?: boolean; // Default: true showLastUpdated?: boolean; // Default: true compact?: boolean; // Compact mode for dashboard widgets } ```",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "1. **Filters** - Filter by set - Filter by rarity - Filter by price range",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "2. **Time Range Selector** - Last 24 hours - Last 7 days - Last 30 days",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  }
+]

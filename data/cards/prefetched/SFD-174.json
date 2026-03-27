@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-174",
+  "type": "card_snapshot",
+  "title": "Trove Golem",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/bologna-regional-qualifier-renata-glasc-official-best-of.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-174",
+    "name": "Trove Golem",
+    "riftbound_id": "SFD-174",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 8,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, play four Gold gear tokens exhausted.",
+      "plain": "When you play me, play four Gold gear tokens exhausted."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-174.webp"
+    },
+    "slug": "sfd-174-trove-golem"
+  }
+}

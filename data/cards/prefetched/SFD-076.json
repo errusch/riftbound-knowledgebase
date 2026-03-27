@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-076",
+  "type": "card_snapshot",
+  "title": "Production Surge",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-rumble-from-bologna-ehdrt.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-076",
+    "name": "Production Surge",
+    "riftbound_id": "SFD-076",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "This costs :rb_energy_2: less if you control a Mech.\nPlay a 3 :rb_might: Mech unit token to your base.\nDraw 1.",
+      "plain": "This costs :rb_energy_2: less if you control a Mech.\nPlay a 3 :rb_might: Mech unit token to your base.\nDraw 1."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-076.webp"
+    },
+    "slug": "sfd-076-production-surge"
+  }
+}

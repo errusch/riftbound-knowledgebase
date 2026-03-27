@@ -1,0 +1,1362 @@
+{
+  "id": "deck.jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers",
+  "type": "competitive_record",
+  "title": "Jinx - Loose Cannon Deck by Eric Liu (Best of Jinx Houston Regional Qualifiers)",
+  "source_kind": "local_competitive_dataset",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "competitive",
+    "deck",
+    "Jinx",
+    "Origins"
+  ],
+  "record": {
+    "generatedAt": "2026-03-26T15:02:59.480Z",
+    "slug": "jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers",
+    "title": "Jinx - Loose Cannon Deck by Eric Liu (Best of Jinx Houston Regional Qualifiers)",
+    "event": {
+      "slug": "houston-regional-qualifier",
+      "name": "Houston Regional Qualifier",
+      "region": "North America",
+      "eventDate": "2025-12-07",
+      "eventType": "regional_qualifier",
+      "coverageType": "best_of_champion_plus_top_cut",
+      "primarySource": {
+        "kind": "official",
+        "role": "event_recap",
+        "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+        "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+        "publishedAt": "2025-12-11T16:00:00.000Z",
+        "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+        "priority": 1
+      },
+      "sources": [
+        {
+          "kind": "official",
+          "role": "event_recap",
+          "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+          "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+          "publishedAt": "2025-12-11T16:00:00.000Z",
+          "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+          "priority": 1
+        },
+        {
+          "kind": "community",
+          "role": "stats_summary",
+          "label": "Houston Regional Qualifier summary page",
+          "url": "https://riftbound.gg/houston-regional-qualifier-top-decks-for-every-champion/",
+          "publishedAt": null,
+          "description": "Community summary page used to recover structured legend rows and fallback deck slugs.",
+          "priority": 2
+        }
+      ],
+      "articleSlug": null
+    },
+    "legend": {
+      "slug": "jinx",
+      "name": "Jinx",
+      "section": "Best-Of Prizing winners at Riftbound Houston Regional Qualifier"
+    },
+    "placementText": "#130",
+    "playerName": "Eric",
+    "eventPrimarySource": {
+      "kind": "official",
+      "role": "event_recap",
+      "label": "From Garen to Annie, RQ Houston\u2019s Top Decks",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "All 16 Best Of decks and the event\u2019s Top 8 finishers",
+      "priority": 1
+    },
+    "decklistSource": {
+      "kind": "official",
+      "role": "decklist",
+      "label": "Jinx official best-of decklist",
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+      "publishedAt": "2025-12-11T16:00:00.000Z",
+      "description": "Decklist parsed directly from the official Riot/Riftbound event recap.",
+      "priority": 1
+    },
+    "secondaryDeckSources": [
+      {
+        "kind": "community",
+        "role": "decklist",
+        "label": "Jinx Riftbound.gg best-of deck",
+        "url": "https://riftbound.gg/decks/jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers/",
+        "publishedAt": null,
+        "description": "Trusted Riftbound.gg Best of Legend deck reference preserved as a secondary source.",
+        "priority": 2
+      }
+    ],
+    "sourceUrl": "https://riftbound.leagueoflegends.com/en-us/news/announcements/from-garen-to-annie-rq-houstons-top-decks/",
+    "previewImageUrl": "https://api.dotgg.gg/deckpreview.php?site=Riftbound&slug=jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers",
+    "format": "Origins",
+    "views": 16573,
+    "cardCounts": {
+      "mainboard": 54,
+      "sideboard": 8
+    },
+    "mainboard": [
+      {
+        "cardCode": "OGN-003",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-003",
+          "name": "Chemtech Enforcer",
+          "slug": "ogn-003-chemtech-enforcer",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-003.webp",
+          "effect": "[Assault 2] (+2 :rb_might: while I'm an attacker.)\nWhen you play me, discard 1."
+        }
+      },
+      {
+        "cardCode": "OGN-027",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-027",
+          "name": "Darius - Trifarian",
+          "slug": "ogn-027-darius-trifarian",
+          "cost": 5,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-027.webp",
+          "effect": "When you play your second card in a turn, give me +2 :rb_might: this turn and ready me."
+        }
+      },
+      {
+        "cardCode": "OGN-006",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-006",
+          "name": "Flame Chompers",
+          "slug": "ogn-006-flame-chompers",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-006.webp",
+          "effect": "When you discard me, you may pay :rb_rune_fury: to play me."
+        }
+      },
+      {
+        "cardCode": "OGN-202",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-202",
+          "name": "Jinx - Rebel",
+          "slug": "ogn-202-jinx-rebel",
+          "cost": 5,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-202.webp",
+          "effect": "When you discard one or more cards, ready me and give me +1 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-039",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-039",
+          "name": "Kai'Sa - Survivor",
+          "slug": "ogn-039-kaisa-survivor",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-039.webp",
+          "effect": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-010",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-010",
+          "name": "Legion Rearguard",
+          "slug": "ogn-010-legion-rearguard",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-010.webp",
+          "effect": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)"
+        }
+      },
+      {
+        "cardCode": "OGN-012",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-012",
+          "name": "Noxus Hopeful",
+          "slug": "ogn-012-noxus-hopeful",
+          "cost": 4,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-012.webp",
+          "effect": "[Legion] \u2014 I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)"
+        }
+      },
+      {
+        "cardCode": "OGN-185",
+        "quantity": 3,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-185",
+          "name": "Traveling Merchant",
+          "slug": "ogn-185-traveling-merchant",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-185.webp",
+          "effect": "When I move, discard 1, then draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-036",
+        "quantity": 2,
+        "section": "unit",
+        "resolvedCard": {
+          "id": "OGN-036",
+          "name": "Vi - Destructive",
+          "slug": "ogn-036-vi-destructive",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-036.webp",
+          "effect": "[Ganking] (I can move from battlefield to battlefield.)\nRecycle 1 from your trash: Give me +1 :rb_might: this turn."
+        }
+      },
+      {
+        "cardCode": "OGN-004",
+        "quantity": 3,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-004",
+          "name": "Cleave",
+          "slug": "ogn-004-cleave",
+          "cost": 1,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-004.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nGive a unit [Assault 3] this turn. (+3 :rb_might: while it's an attacker.)"
+        }
+      },
+      {
+        "cardCode": "OGN-168",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-168",
+          "name": "Fight or Flight",
+          "slug": "ogn-168-fight-or-flight",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-168.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base."
+        }
+      },
+      {
+        "cardCode": "OGN-173",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-173",
+          "name": "Ride the Wind",
+          "slug": "ogn-173-ride-the-wind",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-173.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit and ready it."
+        }
+      },
+      {
+        "cardCode": "OGN-252",
+        "quantity": 2,
+        "section": "spell",
+        "resolvedCard": {
+          "id": "OGN-252",
+          "name": "Super Mega Death Rocket!",
+          "slug": "ogn-252-super-mega-death-rocket",
+          "cost": 4,
+          "type": "Spell",
+          "supertype": "Signature",
+          "domains": [
+            "Fury",
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-252.webp",
+          "effect": "Deal 5 to a unit.\nWhen you conquer, you may discard 1 to return this from your trash to your hand."
+        }
+      },
+      {
+        "cardCode": "OGN-182",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "OGN-182",
+          "name": "Scrapheap",
+          "slug": "ogn-182-scrapheap",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-182.webp",
+          "effect": "When this is played, discarded, or killed, draw 1."
+        }
+      },
+      {
+        "cardCode": "OGN-023",
+        "quantity": 3,
+        "section": "gear",
+        "resolvedCard": {
+          "id": "OGN-023",
+          "name": "Unlicensed Armory",
+          "slug": "ogn-023-unlicensed-armory",
+          "cost": 2,
+          "type": "Gear",
+          "supertype": null,
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-023.webp",
+          "effect": "Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it would die this turn, you may pay :rb_rune_fury: to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)"
+        }
+      },
+      {
+        "cardCode": "OGN-166",
+        "quantity": 5,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-166",
+          "name": "Chaos Rune",
+          "slug": "ogn-166-chaos-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-166.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-007",
+        "quantity": 7,
+        "section": "rune",
+        "resolvedCard": {
+          "id": "OGN-007",
+          "name": "Fury Rune",
+          "slug": "ogn-007-fury-rune",
+          "cost": null,
+          "type": "Rune",
+          "supertype": "Basic",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-007.webp",
+          "effect": ""
+        }
+      },
+      {
+        "cardCode": "OGN-290",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-290",
+          "name": "The Arena's Greatest",
+          "slug": "ogn-290-the-arenas-greatest",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-290.webp",
+          "effect": "At the start of each player's first Beginning Phase, that player gains 1 point."
+        }
+      },
+      {
+        "cardCode": "OGN-297",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-297",
+          "name": "Windswept Hillock",
+          "slug": "ogn-297-windswept-hillock",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-297.webp",
+          "effect": "Units here have [Ganking]. (They can move from battlefield to battlefield.)"
+        }
+      },
+      {
+        "cardCode": "OGN-298",
+        "quantity": 1,
+        "section": "battlefield",
+        "resolvedCard": {
+          "id": "OGN-298",
+          "name": "Zaun Warrens",
+          "slug": "ogn-298-zaun-warrens",
+          "cost": null,
+          "type": "Battlefield",
+          "supertype": null,
+          "domains": [
+            "Colorless"
+          ],
+          "setName": "Origins",
+          "rarity": "Uncommon",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-298.webp",
+          "effect": "When you conquer here, discard 1, then draw 1."
+        }
+      }
+    ],
+    "sideboard": [
+      {
+        "cardCode": "OGN-168",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-168",
+          "name": "Fight or Flight",
+          "slug": "ogn-168-fight-or-flight",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-168.webp",
+          "effect": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base."
+        }
+      },
+      {
+        "cardCode": "OGN-172",
+        "quantity": 2,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-172",
+          "name": "Rebuke",
+          "slug": "ogn-172-rebuke",
+          "cost": 2,
+          "type": "Spell",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-172.webp",
+          "effect": "[Action] (Play on your turn or in showdowns.)\nReturn a unit at a battlefield to its owner's hand."
+        }
+      },
+      {
+        "cardCode": "OGN-176",
+        "quantity": 3,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-176",
+          "name": "Sneaky Deckhand",
+          "slug": "ogn-176-sneaky-deckhand",
+          "cost": 3,
+          "type": "Unit",
+          "supertype": null,
+          "domains": [
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Common",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-176.webp",
+          "effect": "You may play me to an open battlefield."
+        }
+      },
+      {
+        "cardCode": "OGN-252",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-252",
+          "name": "Super Mega Death Rocket!",
+          "slug": "ogn-252-super-mega-death-rocket",
+          "cost": 4,
+          "type": "Spell",
+          "supertype": "Signature",
+          "domains": [
+            "Fury",
+            "Chaos"
+          ],
+          "setName": "Origins",
+          "rarity": "Epic",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-252.webp",
+          "effect": "Deal 5 to a unit.\nWhen you conquer, you may discard 1 to return this from your trash to your hand."
+        }
+      },
+      {
+        "cardCode": "OGN-036",
+        "quantity": 1,
+        "section": "sideboard",
+        "resolvedCard": {
+          "id": "OGN-036",
+          "name": "Vi - Destructive",
+          "slug": "ogn-036-vi-destructive",
+          "cost": 2,
+          "type": "Unit",
+          "supertype": "Champion",
+          "domains": [
+            "Fury"
+          ],
+          "setName": "Origins",
+          "rarity": "Rare",
+          "imageUrl": "https://static.dotgg.gg/riftbound/cards/OGN-036.webp",
+          "effect": "[Ganking] (I can move from battlefield to battlefield.)\nRecycle 1 from your trash: Give me +1 :rb_might: this turn."
+        }
+      }
+    ],
+    "deckDisplay": {
+      "name": "Jinx - Loose Cannon Deck by Eric Liu (Best of Jinx Houston Regional Qualifiers)",
+      "player": "Eric",
+      "event": "Houston Regional Qualifier",
+      "date": "2025-12-07",
+      "legend": "Jinx",
+      "cards": [
+        {
+          "cardId": "OGN-003",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-027",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-006",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-202",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-039",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-010",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-012",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-185",
+          "quantity": 3,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-036",
+          "quantity": 2,
+          "section": "unit"
+        },
+        {
+          "cardId": "OGN-004",
+          "quantity": 3,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-168",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-173",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-252",
+          "quantity": 2,
+          "section": "spell"
+        },
+        {
+          "cardId": "OGN-182",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-023",
+          "quantity": 3,
+          "section": "gear"
+        },
+        {
+          "cardId": "OGN-166",
+          "quantity": 5,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-007",
+          "quantity": 7,
+          "section": "rune"
+        },
+        {
+          "cardId": "OGN-290",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-297",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-298",
+          "quantity": 1,
+          "section": "battlefield"
+        },
+        {
+          "cardId": "OGN-168",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-172",
+          "quantity": 2,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-176",
+          "quantity": 3,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-252",
+          "quantity": 1,
+          "section": "sideboard"
+        },
+        {
+          "cardId": "OGN-036",
+          "quantity": 1,
+          "section": "sideboard"
+        }
+      ]
+    },
+    "prefetchedCardData": [
+      {
+        "id": "OGN-003",
+        "name": "Chemtech Enforcer",
+        "riftbound_id": "OGN-003",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Assault 2] (+2 :rb_might: while I'm an attacker.)\nWhen you play me, discard 1.",
+          "plain": "[Assault 2] (+2 :rb_might: while I'm an attacker.)\nWhen you play me, discard 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-003.webp"
+        },
+        "slug": "ogn-003-chemtech-enforcer"
+      },
+      {
+        "id": "OGN-027",
+        "name": "Darius - Trifarian",
+        "riftbound_id": "OGN-027",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 5,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "When you play your second card in a turn, give me +2 :rb_might: this turn and ready me.",
+          "plain": "When you play your second card in a turn, give me +2 :rb_might: this turn and ready me."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-027.webp"
+        },
+        "slug": "ogn-027-darius-trifarian"
+      },
+      {
+        "id": "OGN-006",
+        "name": "Flame Chompers",
+        "riftbound_id": "OGN-006",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "When you discard me, you may pay :rb_rune_fury: to play me.",
+          "plain": "When you discard me, you may pay :rb_rune_fury: to play me."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-006.webp"
+        },
+        "slug": "ogn-006-flame-chompers"
+      },
+      {
+        "id": "OGN-202",
+        "name": "Jinx - Rebel",
+        "riftbound_id": "OGN-202",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 5,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Epic",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "When you discard one or more cards, ready me and give me +1 :rb_might: this turn.",
+          "plain": "When you discard one or more cards, ready me and give me +1 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-202.webp"
+        },
+        "slug": "ogn-202-jinx-rebel"
+      },
+      {
+        "id": "OGN-039",
+        "name": "Kai'Sa - Survivor",
+        "riftbound_id": "OGN-039",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Epic",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1.",
+          "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\nWhen I conquer, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-039.webp"
+        },
+        "slug": "ogn-039-kaisa-survivor"
+      },
+      {
+        "id": "OGN-010",
+        "name": "Legion Rearguard",
+        "riftbound_id": "OGN-010",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)",
+          "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-010.webp"
+        },
+        "slug": "ogn-010-legion-rearguard"
+      },
+      {
+        "id": "OGN-012",
+        "name": "Noxus Hopeful",
+        "riftbound_id": "OGN-012",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Legion] \u2014 I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)",
+          "plain": "[Legion] \u2014 I cost :rb_energy_2: less. (Get the effect if you've played another card this turn.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-012.webp"
+        },
+        "slug": "ogn-012-noxus-hopeful"
+      },
+      {
+        "id": "OGN-185",
+        "name": "Traveling Merchant",
+        "riftbound_id": "OGN-185",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "When I move, discard 1, then draw 1.",
+          "plain": "When I move, discard 1, then draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-185.webp"
+        },
+        "slug": "ogn-185-traveling-merchant"
+      },
+      {
+        "id": "OGN-036",
+        "name": "Vi - Destructive",
+        "riftbound_id": "OGN-036",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": "Champion",
+          "rarity": "Rare",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Ganking] (I can move from battlefield to battlefield.)\nRecycle 1 from your trash: Give me +1 :rb_might: this turn.",
+          "plain": "[Ganking] (I can move from battlefield to battlefield.)\nRecycle 1 from your trash: Give me +1 :rb_might: this turn."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-036.webp"
+        },
+        "slug": "ogn-036-vi-destructive"
+      },
+      {
+        "id": "OGN-004",
+        "name": "Cleave",
+        "riftbound_id": "OGN-004",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 1,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nGive a unit [Assault 3] this turn. (+3 :rb_might: while it's an attacker.)",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nGive a unit [Assault 3] this turn. (+3 :rb_might: while it's an attacker.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-004.webp"
+        },
+        "slug": "ogn-004-cleave"
+      },
+      {
+        "id": "OGN-168",
+        "name": "Fight or Flight",
+        "riftbound_id": "OGN-168",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base.",
+          "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nMove a unit from a battlefield to its base."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-168.webp"
+        },
+        "slug": "ogn-168-fight-or-flight"
+      },
+      {
+        "id": "OGN-173",
+        "name": "Ride the Wind",
+        "riftbound_id": "OGN-173",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit and ready it.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit and ready it."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-173.webp"
+        },
+        "slug": "ogn-173-ride-the-wind"
+      },
+      {
+        "id": "OGN-252",
+        "name": "Super Mega Death Rocket!",
+        "riftbound_id": "OGN-252",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 4,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": "Signature",
+          "rarity": "Epic",
+          "domain": [
+            "Fury",
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "Deal 5 to a unit.\nWhen you conquer, you may discard 1 to return this from your trash to your hand.",
+          "plain": "Deal 5 to a unit.\nWhen you conquer, you may discard 1 to return this from your trash to your hand."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-252.webp"
+        },
+        "slug": "ogn-252-super-mega-death-rocket"
+      },
+      {
+        "id": "OGN-182",
+        "name": "Scrapheap",
+        "riftbound_id": "OGN-182",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "When this is played, discarded, or killed, draw 1.",
+          "plain": "When this is played, discarded, or killed, draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-182.webp"
+        },
+        "slug": "ogn-182-scrapheap"
+      },
+      {
+        "id": "OGN-023",
+        "name": "Unlicensed Armory",
+        "riftbound_id": "OGN-023",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Gear",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it would die this turn, you may pay :rb_rune_fury: to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)",
+          "plain": "Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it would die this turn, you may pay :rb_rune_fury: to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-023.webp"
+        },
+        "slug": "ogn-023-unlicensed-armory"
+      },
+      {
+        "id": "OGN-166",
+        "name": "Chaos Rune",
+        "riftbound_id": "OGN-166",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-166.webp"
+        },
+        "slug": "ogn-166-chaos-rune"
+      },
+      {
+        "id": "OGN-007",
+        "name": "Fury Rune",
+        "riftbound_id": "OGN-007",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Rune",
+          "supertype": "Basic",
+          "rarity": "Common",
+          "domain": [
+            "Fury"
+          ]
+        },
+        "text": {
+          "rich": "",
+          "plain": ""
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-007.webp"
+        },
+        "slug": "ogn-007-fury-rune"
+      },
+      {
+        "id": "OGN-290",
+        "name": "The Arena's Greatest",
+        "riftbound_id": "OGN-290",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "At the start of each player's first Beginning Phase, that player gains 1 point.",
+          "plain": "At the start of each player's first Beginning Phase, that player gains 1 point."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-290.webp"
+        },
+        "slug": "ogn-290-the-arenas-greatest"
+      },
+      {
+        "id": "OGN-297",
+        "name": "Windswept Hillock",
+        "riftbound_id": "OGN-297",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "Units here have [Ganking]. (They can move from battlefield to battlefield.)",
+          "plain": "Units here have [Ganking]. (They can move from battlefield to battlefield.)"
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-297.webp"
+        },
+        "slug": "ogn-297-windswept-hillock"
+      },
+      {
+        "id": "OGN-298",
+        "name": "Zaun Warrens",
+        "riftbound_id": "OGN-298",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": null,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Battlefield",
+          "supertype": null,
+          "rarity": "Uncommon",
+          "domain": [
+            "Colorless"
+          ]
+        },
+        "text": {
+          "rich": "When you conquer here, discard 1, then draw 1.",
+          "plain": "When you conquer here, discard 1, then draw 1."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-298.webp"
+        },
+        "slug": "ogn-298-zaun-warrens"
+      },
+      {
+        "id": "OGN-172",
+        "name": "Rebuke",
+        "riftbound_id": "OGN-172",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 2,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Spell",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "[Action] (Play on your turn or in showdowns.)\nReturn a unit at a battlefield to its owner's hand.",
+          "plain": "[Action] (Play on your turn or in showdowns.)\nReturn a unit at a battlefield to its owner's hand."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-172.webp"
+        },
+        "slug": "ogn-172-rebuke"
+      },
+      {
+        "id": "OGN-176",
+        "name": "Sneaky Deckhand",
+        "riftbound_id": "OGN-176",
+        "tcgplayer_id": "",
+        "collector_number": 0,
+        "attributes": {
+          "energy": 3,
+          "might": null,
+          "power": null
+        },
+        "classification": {
+          "type": "Unit",
+          "supertype": null,
+          "rarity": "Common",
+          "domain": [
+            "Chaos"
+          ]
+        },
+        "text": {
+          "rich": "You may play me to an open battlefield.",
+          "plain": "You may play me to an open battlefield."
+        },
+        "media": {
+          "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-176.webp"
+        },
+        "slug": "ogn-176-sneaky-deckhand"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-155",
+  "type": "card_snapshot",
+  "title": "Honest Broker",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-darius-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-155",
+    "name": "Honest Broker",
+    "riftbound_id": "SFD-155",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Deathknell] \u2014 Play a Gold gear token exhausted. (When I die, get the effect.)",
+      "plain": "[Deathknell] \u2014 Play a Gold gear token exhausted. (When I die, get the effect.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-155.webp"
+    },
+    "slug": "sfd-155-honest-broker"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-011",
+  "type": "card_snapshot",
+  "title": "Magma Wurm",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-volibear-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-011",
+    "name": "Magma Wurm",
+    "riftbound_id": "OGN-011",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 8,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "Other friendly units enter ready.",
+      "plain": "Other friendly units enter ready."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-011.webp"
+    },
+    "slug": "ogn-011-magma-wurm"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-014",
+  "type": "card_snapshot",
+  "title": "Minotaur Reckoner",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-volibear-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-014",
+    "name": "Minotaur Reckoner",
+    "riftbound_id": "SFD-014",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "Units can't move to base.",
+      "plain": "Units can't move to base."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-014.webp"
+    },
+    "slug": "sfd-014-minotaur-reckoner"
+  }
+}

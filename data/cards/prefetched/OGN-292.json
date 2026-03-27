@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-292",
+  "type": "card_snapshot",
+  "title": "The Dreaming Tree",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-292",
+    "name": "The Dreaming Tree",
+    "riftbound_id": "OGN-292",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When a player chooses a friendly unit here with a spell for the first time each turn, they draw 1.",
+      "plain": "When a player chooses a friendly unit here with a spell for the first time each turn, they draw 1."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-292.webp"
+    },
+    "slug": "ogn-292-the-dreaming-tree"
+  }
+}

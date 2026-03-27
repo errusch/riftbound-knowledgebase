@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-095",
+  "type": "card_snapshot",
+  "title": "Doran's Blade",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-fiora-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-095",
+    "name": "Doran's Blade",
+    "riftbound_id": "SFD-095",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)",
+      "plain": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-095.webp"
+    },
+    "slug": "sfd-095-dorans-blade"
+  }
+}

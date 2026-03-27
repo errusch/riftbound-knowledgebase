@@ -1,0 +1,108 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+from pathlib import Path
+import sys
+
+SCRIPT_ROOT = Path(__file__).resolve().parents[2]
+if str(SCRIPT_ROOT) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_ROOT))
+
+from scripts.lib.kb_common import HEXTECH_ROOT, ROOT, detect_conflicts, extract_claims, now_iso, rebuild_indexes, slugify, write_json, write_markdown
+
+
+def import_markdown_collection(source_root: Path, out_root: Path, object_prefix: str, source_kind: str, base_tags: list[str]) -> tuple[list[dict], list[dict]]:
+    imported = []
+    conflicts_index = []
+
+    for source_path in sorted(source_root.glob("*.md")):
+        text = source_path.read_text(encoding="utf-8")
+        title = next((line.lstrip("# ").strip() for line in text.splitlines() if line.startswith("#")), source_path.stem)
+        slug = slugify(source_path.stem)
+        conflicts = detect_conflicts(text)
+        trust_level = "conflicted" if conflicts else "derived_unverified"
+        meta = {
+            "id": f"{object_prefix}.{slug}",
+            "type": "analysis_note",
+            "title": title,
+            "source_kind": source_kind,
+            "source_path": str(source_path),
+            "source_date": "unknown",
+            "trust_level": trust_level,
+            "status": "reviewed",
+            "tags": [*base_tags, slug],
+        }
+        body_parts = [
+            "## Import Notes",
+            f"- Imported at: `{now_iso()}`",
+            "- This document is non-canonical and remains outside `canon/`.",
+        ]
+        if conflicts:
+            body_parts.append("- Conflict flags were detected during import.")
+            body_parts.append("")
+            body_parts.append("## Conflict Flags")
+            body_parts.extend(f"- `{item['id']}`: {item['message']}" for item in conflicts)
+        body_parts.extend(["", "## Original Content", text.strip()])
+        out = out_root / f"{slug}.md"
+        write_markdown(out, meta, "\n".join(body_parts))
+
+        claims = extract_claims(text)
+        claims_path = out.with_suffix(".claims.json")
+        write_json(claims_path, claims)
+        imported.append({**meta, "path": str(out.relative_to(ROOT)), "claims_path": str(claims_path.relative_to(ROOT))})
+
+        for conflict in conflicts:
+            conflicts_index.append(
+                {
+                    "object_id": meta["id"],
+                    "object_path": str(out.relative_to(ROOT)),
+                    **conflict,
+                }
+            )
+
+    return imported, conflicts_index
+
+
+def main() -> None:
+    docs_root = HEXTECH_ROOT / "docs"
+    imported_reference = []
+    imported_articles = []
+    conflicts_index = []
+
+    for source_path in sorted(docs_root.glob("*")):
+        if source_path.suffix.lower() not in {".md", ".pdf", ".docx"}:
+            continue
+        if source_path.suffix.lower() != ".md":
+            dest = ROOT / "assets" / "imported" / "hextech-docs" / source_path.name
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            dest.write_bytes(source_path.read_bytes())
+            continue
+
+    reference_docs, reference_conflicts = import_markdown_collection(
+        docs_root,
+        ROOT / "analysis" / "reference",
+        "analysis.reference",
+        "local_derived_doc",
+        ["hextech-doc", "derived"],
+    )
+    imported_reference.extend(reference_docs)
+    conflicts_index.extend(reference_conflicts)
+
+    article_docs, article_conflicts = import_markdown_collection(
+        HEXTECH_ROOT / "content" / "articles",
+        ROOT / "analysis" / "articles",
+        "analysis.article",
+        "local_strategy_article",
+        ["article", "derived", "strategy"],
+    )
+    imported_articles.extend(article_docs)
+    conflicts_index.extend(article_conflicts)
+
+    write_json(ROOT / "data" / "indexes" / "reference_docs.json", imported_reference)
+    write_json(ROOT / "data" / "indexes" / "articles.json", imported_articles)
+    write_json(ROOT / "data" / "indexes" / "derived_conflicts.json", conflicts_index)
+    rebuild_indexes()
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-037",
+  "type": "card_snapshot",
+  "title": "Immortal Phoenix",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-reksai-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-037",
+    "name": "Immortal Phoenix",
+    "riftbound_id": "OGN-037",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Assault 2] (+2 :rb_might: while I'm an attacker.)\nWhen you kill a unit with a spell, you may pay :rb_energy_1::rb_rune_fury: to play me from your trash.",
+      "plain": "[Assault 2] (+2 :rb_might: while I'm an attacker.)\nWhen you kill a unit with a spell, you may pay :rb_energy_1::rb_rune_fury: to play me from your trash."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-037.webp"
+    },
+    "slug": "ogn-037-immortal-phoenix"
+  }
+}

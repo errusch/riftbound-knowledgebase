@@ -1,0 +1,121 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import json
+from pathlib import Path
+import sys
+
+SCRIPT_ROOT = Path(__file__).resolve().parents[2]
+if str(SCRIPT_ROOT) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_ROOT))
+
+from scripts.lib.kb_common import HEXTECH_ROOT, ROOT, rebuild_indexes, slugify, write_json
+
+
+def collect_prefetched_cards(deck_payload: dict) -> list[dict]:
+    cards = []
+    seen = set()
+    for card in deck_payload.get("prefetchedCardData", []):
+        card_id = card.get("id") or card.get("slug")
+        if card_id and card_id not in seen:
+            cards.append(card)
+            seen.add(card_id)
+    for section in ("mainboard", "sideboard"):
+        for entry in deck_payload.get(section, []):
+            resolved = entry.get("resolvedCard")
+            if resolved:
+                card_id = resolved.get("id") or resolved.get("slug")
+                if card_id and card_id not in seen:
+                    cards.append(resolved)
+                    seen.add(card_id)
+    return cards
+
+
+def main() -> None:
+    source_root = HEXTECH_ROOT / "public" / "data" / "competitive"
+    decks_out = ROOT / "data" / "decks"
+    events_out = ROOT / "data" / "events"
+    cards_out = ROOT / "data" / "cards" / "prefetched"
+    card_index: dict[str, dict] = {}
+    deck_index = []
+    event_index = []
+    legend_names = set()
+
+    for source_path in sorted((source_root / "events").glob("*.json")):
+        payload = json.loads(source_path.read_text(encoding="utf-8"))
+        slug = payload.get("slug") or slugify(source_path.stem)
+        record = {
+            "id": f"event.{slug}",
+            "type": "competitive_record",
+            "title": payload.get("name", slug),
+            "source_kind": "local_competitive_dataset",
+            "source_path": str(source_path),
+            "source_date": payload.get("eventDate") or payload.get("generatedAt") or "unknown",
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": ["competitive", "event", payload.get("region", "unknown"), payload.get("eventType", "unknown")],
+            "record": payload,
+        }
+        out = events_out / f"{slug}.json"
+        write_json(out, record)
+        event_index.append({k: v for k, v in record.items() if k != "record"} | {"path": str(out.relative_to(ROOT))})
+        for legend in payload.get("legends", []):
+            if isinstance(legend, dict) and legend.get("name"):
+                legend_names.add(legend["name"])
+
+    for source_path in sorted((source_root / "decks").glob("*.json")):
+        payload = json.loads(source_path.read_text(encoding="utf-8"))
+        slug = payload.get("slug") or slugify(source_path.stem)
+        legend = payload.get("legend", {}).get("name", "unknown")
+        if legend and legend != "unknown":
+            legend_names.add(legend)
+        record = {
+            "id": f"deck.{slug}",
+            "type": "competitive_record",
+            "title": payload.get("title", slug),
+            "source_kind": "local_competitive_dataset",
+            "source_path": str(source_path),
+            "source_date": payload.get("generatedAt") or payload.get("event", {}).get("eventDate") or "unknown",
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": ["competitive", "deck", legend, payload.get("format", "unknown")],
+            "record": payload,
+        }
+        out = decks_out / f"{slug}.json"
+        write_json(out, record)
+        deck_index.append({k: v for k, v in record.items() if k != "record"} | {"path": str(out.relative_to(ROOT))})
+
+        for card in collect_prefetched_cards(payload):
+            card_id = card.get("id") or card.get("slug") or slugify(card.get("name", "card"))
+            card_index.setdefault(
+                card_id,
+                {
+                    "id": f"card_snapshot.{card_id}",
+                    "type": "card_snapshot",
+                    "title": card.get("name", card_id),
+                    "source_kind": "prefetched_competitive_card_snapshot",
+                    "source_path": str(source_path),
+                    "source_date": payload.get("generatedAt") or "unknown",
+                    "trust_level": "derived_verified",
+                    "status": "reviewed",
+                    "tags": ["card-snapshot", *(card.get("domains") or [])],
+                    "record": card,
+                },
+            )
+
+    for card_id, payload in sorted(card_index.items()):
+        write_json(cards_out / f"{card_id}.json", payload)
+
+    legends_seed = [{"name": name, "aliases": [name.lower()]} for name in sorted(legend_names)]
+    write_json(ROOT / "data" / "taxonomy" / "legends.json", legends_seed)
+    write_json(ROOT / "data" / "indexes" / "events.json", event_index)
+    write_json(ROOT / "data" / "indexes" / "decks.json", deck_index)
+    write_json(
+        ROOT / "data" / "indexes" / "cards_prefetched.json",
+        [{k: v for k, v in payload.items() if k != "record"} | {"path": str((cards_out / f'{card_id}.json').relative_to(ROOT))} for card_id, payload in sorted(card_index.items())],
+    )
+    rebuild_indexes()
+
+
+if __name__ == "__main__":
+    main()

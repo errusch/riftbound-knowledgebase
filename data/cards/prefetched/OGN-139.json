@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-139",
+  "type": "card_snapshot",
+  "title": "Cithria of Cloudfield",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-sett-by-boiwaffle-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-139",
+    "name": "Cithria of Cloudfield",
+    "riftbound_id": "OGN-139",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you play another unit, buff me. (If I don't have a buff, I get a +1 :rb_might: buff.)",
+      "plain": "When you play another unit, buff me. (If I don't have a buff, I get a +1 :rb_might: buff.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-139.webp"
+    },
+    "slug": "ogn-139-cithria-of-cloudfield"
+  }
+}

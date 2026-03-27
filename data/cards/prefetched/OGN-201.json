@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-201",
+  "type": "card_snapshot",
+  "title": "Invert Timelines",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-mf-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-201",
+    "name": "Invert Timelines",
+    "riftbound_id": "OGN-201",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "Each player discards their hand, then draws 4.",
+      "plain": "Each player discards their hand, then draws 4."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-201.webp"
+    },
+    "slug": "ogn-201-invert-timelines"
+  }
+}

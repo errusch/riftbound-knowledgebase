@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-035",
+  "type": "card_snapshot",
+  "title": "Vayne - Hunter",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-darius-by-puyshpii-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-035",
+    "name": "Vayne - Hunter",
+    "riftbound_id": "OGN-035",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Assault 3] (+3 :rb_might: while I'm an attacker.)\nIf an opponent controls a battlefield, I enter ready.\nWhen I conquer, you may pay :rb_energy_1: to return me to my owner's hand.",
+      "plain": "[Assault 3] (+3 :rb_might: while I'm an attacker.)\nIf an opponent controls a battlefield, I enter ready.\nWhen I conquer, you may pay :rb_energy_1: to return me to my owner's hand."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-035.webp"
+    },
+    "slug": "ogn-035-vayne-hunter"
+  }
+}

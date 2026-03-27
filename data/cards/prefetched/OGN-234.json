@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-234",
+  "type": "card_snapshot",
+  "title": "Harnessed Dragon",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-fiora-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-234",
+    "name": "Harnessed Dragon",
+    "riftbound_id": "OGN-234",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 8,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, kill an enemy unit.",
+      "plain": "When you play me, kill an enemy unit."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-234.webp"
+    },
+    "slug": "ogn-234-harnessed-dragon"
+  }
+}

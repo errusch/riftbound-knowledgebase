@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-196",
+  "type": "card_snapshot",
+  "title": "Soulgorger",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-miss-fortune-by-trinityjohn-houston-regional-qualifier.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-196",
+    "name": "Soulgorger",
+    "riftbound_id": "OGN-196",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 8,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, you may play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)",
+      "plain": "When you play me, you may play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)"
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-196.webp"
+    },
+    "slug": "ogn-196-soulgorger"
+  }
+}

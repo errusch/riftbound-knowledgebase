@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-099",
+  "type": "card_snapshot",
+  "title": "Garbage Grabber",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-lux-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-099",
+    "name": "Garbage Grabber",
+    "riftbound_id": "OGN-099",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "Recycle 3 from your trash, :rb_energy_1:, :rb_exhaust:: Draw 1.",
+      "plain": "Recycle 3 from your trash, :rb_energy_1:, :rb_exhaust:: Draw 1."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-099.webp"
+    },
+    "slug": "ogn-099-garbage-grabber"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.SFD-052",
+  "type": "card_snapshot",
+  "title": "Heart of Dark Ice",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-irelia-from-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "SFD-052",
+    "name": "Heart of Dark Ice",
+    "riftbound_id": "SFD-052",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: Give a unit +3 :rb_might: this turn.",
+      "plain": ":rb_exhaust:: Give a unit +3 :rb_might: this turn."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/SFD-052.webp"
+    },
+    "slug": "sfd-052-heart-of-dark-ice"
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "excerpt": "Price monitoring system is **ready to deploy**.",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "\u2705 **Scripts** - `scripts/price-alerts.mjs` \u2014 compares prices, generates alerts - `scripts/fetch-prices.mjs` \u2014 updated to rotate prices before fetch",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "\u2705 **Data Pipeline** 1. `fetch-prices.mjs` copies `prices.json` \u2192 `prices-previous.json` 2. Fetches new prices \u2192 `prices.json` 3. `price-alerts.mjs` compares current vs previous 4. Generates `price-alerts.json` with mover",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "\u2705 **Documentation** - `docs/PRICE-MONITORING-SYSTEM.md` \u2014 full architecture guide - `docs/PRICE-MOVERS-COMPONENT.md` \u2014 React component design spec - `docs/PRICE-ALERTS-QUICKSTART.md` \u2014 this file",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "\u2705 **Output Files** - `public/data/price-alerts.json` \u2014 empty state (no baseline yet) - `public/data/prices-previous.json` \u2014 rotated from test run",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "```bash cd /Users/eric/.openclaw/workspace/hextech-analytics",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "Once deployed to Vercel, these files will be publicly accessible:",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "- `/data/price-alerts.json` \u2014 market movers summary - `/data/prices.json` \u2014 current price snapshot - `/data/prices-previous.json` \u2014 previous snapshot (optional to expose)",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "- **Notable:** \u226510% change (appears in alerts) - **Major:** \u226525% change (separate category) - **Extreme:** \u226550% change (highest priority)",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  },
+  {
+    "excerpt": "\u2705 **Committed to main** (local only) - Commit: `3f72591` - \"feat: price monitoring system with alert generation\" - Branch: `main` - Push status: **NOT pushed** (2/3 daily limit)",
+    "status": "derived",
+    "entities": {
+      "concepts": [],
+      "battlefields": [],
+      "legends": []
+    }
+  }
+]

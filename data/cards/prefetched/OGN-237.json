@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-237",
+  "type": "card_snapshot",
+  "title": "King's Edict",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-lux-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-237",
+    "name": "King's Edict",
+    "riftbound_id": "OGN-237",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 6,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "Starting with the next player, each other player chooses a unit you don't control that hasn't been chosen for this spell. Kill those units.",
+      "plain": "Starting with the next player, each other player chooses a unit you don't control that hasn't been chosen for this spell. Kill those units."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-237.webp"
+    },
+    "slug": "ogn-237-kings-edict"
+  }
+}

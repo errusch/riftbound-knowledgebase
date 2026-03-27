@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-137",
+  "type": "card_snapshot",
+  "title": "Stormclaw Ursine",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/garen-might-of-demacia-by-tee-thebeau-best-of-garen-houston-regional-qualifiers.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-137",
+    "name": "Stormclaw Ursine",
+    "riftbound_id": "OGN-137",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 7,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Tank] (I must be assigned combat damage first.)\nWhen you play me, channel 1 rune exhausted.",
+      "plain": "[Tank] (I must be assigned combat damage first.)\nWhen you play me, channel 1 rune exhausted."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-137.webp"
+    },
+    "slug": "ogn-137-stormclaw-ursine"
+  }
+}

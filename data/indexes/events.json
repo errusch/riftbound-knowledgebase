@@ -1,0 +1,70 @@
+[
+  {
+    "id": "event.bologna-regional-qualifier",
+    "type": "competitive_record",
+    "title": "Bologna Regional Qualifier",
+    "source_kind": "local_competitive_dataset",
+    "source_path": "/Users/eric/hextech-analytics/public/data/competitive/events/bologna-regional-qualifier.json",
+    "source_date": "2026-02-22",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "competitive",
+      "event",
+      "Europe",
+      "regional_qualifier"
+    ],
+    "path": "data/events/bologna-regional-qualifier.json"
+  },
+  {
+    "id": "event.houston-regional-qualifier",
+    "type": "competitive_record",
+    "title": "Houston Regional Qualifier",
+    "source_kind": "local_competitive_dataset",
+    "source_path": "/Users/eric/hextech-analytics/public/data/competitive/events/houston-regional-qualifier.json",
+    "source_date": "2025-12-07",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "competitive",
+      "event",
+      "North America",
+      "regional_qualifier"
+    ],
+    "path": "data/events/houston-regional-qualifier.json"
+  },
+  {
+    "id": "event.shanghai-national-open",
+    "type": "competitive_record",
+    "title": "Shanghai National Open",
+    "source_kind": "local_competitive_dataset",
+    "source_path": "/Users/eric/hextech-analytics/public/data/competitive/events/shanghai-national-open.json",
+    "source_date": "2025-10-31",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "competitive",
+      "event",
+      "China",
+      "national_open"
+    ],
+    "path": "data/events/shanghai-national-open.json"
+  },
+  {
+    "id": "event.vegas-regional-qualifier",
+    "type": "competitive_record",
+    "title": "Vegas Regional Qualifier",
+    "source_kind": "local_competitive_dataset",
+    "source_path": "/Users/eric/hextech-analytics/public/data/competitive/events/vegas-regional-qualifier.json",
+    "source_date": "2026-03-01",
+    "trust_level": "derived_verified",
+    "status": "reviewed",
+    "tags": [
+      "competitive",
+      "event",
+      "North America",
+      "regional_qualifier"
+    ],
+    "path": "data/events/vegas-regional-qualifier.json"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-194",
+  "type": "card_snapshot",
+  "title": "Nocturne - Horrifying",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-draven-from-bologna.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-194",
+    "name": "Nocturne - Horrifying",
+    "riftbound_id": "OGN-194",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Ganking] (I can move from battlefield to battlefield.)\nAs you look at or reveal me from the top of your deck, you may banish me. If you do, you may play me for :rb_rune_rainbow:.",
+      "plain": "[Ganking] (I can move from battlefield to battlefield.)\nAs you look at or reveal me from the top of your deck, you may banish me. If you do, you may play me for :rb_rune_rainbow:."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-194.webp"
+    },
+    "slug": "ogn-194-nocturne-horrifying"
+  }
+}

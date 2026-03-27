@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-192",
+  "type": "card_snapshot",
+  "title": "Mindsplitter",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-ezreal-from-bologna-l4o06.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-192",
+    "name": "Mindsplitter",
+    "riftbound_id": "OGN-192",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 7,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card.",
+      "plain": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-192.webp"
+    },
+    "slug": "ogn-192-mindsplitter"
+  }
+}

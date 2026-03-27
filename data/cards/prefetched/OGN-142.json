@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-142",
+  "type": "card_snapshot",
+  "title": "Mountain Drake",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/best-of-master-yi-vegas.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-142",
+    "name": "Mountain Drake",
+    "riftbound_id": "OGN-142",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 9,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "",
+      "plain": ""
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-142.webp"
+    },
+    "slug": "ogn-142-mountain-drake"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "card_snapshot.OGN-176",
+  "type": "card_snapshot",
+  "title": "Sneaky Deckhand",
+  "source_kind": "prefetched_competitive_card_snapshot",
+  "source_path": "/Users/eric/hextech-analytics/public/data/competitive/decks/annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1.json",
+  "source_date": "2026-03-26T15:02:59.480Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card-snapshot"
+  ],
+  "record": {
+    "id": "OGN-176",
+    "name": "Sneaky Deckhand",
+    "riftbound_id": "OGN-176",
+    "tcgplayer_id": "",
+    "collector_number": 0,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "You may play me to an open battlefield.",
+      "plain": "You may play me to an open battlefield."
+    },
+    "media": {
+      "image_url": "https://static.dotgg.gg/riftbound/cards/OGN-176.webp"
+    },
+    "slug": "ogn-176-sneaky-deckhand"
+  }
+}
