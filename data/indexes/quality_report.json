@@ -8,12 +8,17 @@
       "scope": "canon",
       "trust_level": "official",
       "status": "draft",
-      "provenance": "official local"
+      "provenance": "official local",
+      "tags": [
+        "errata",
+        "official",
+        "origins"
+      ]
     }
   ],
   "derived_unverified_by_type": {
     "analysis_note": {
-      "count": 248,
+      "count": 246,
       "objects": [
         {
           "id": "analysis.reference.academy-strategy",
@@ -23,7 +28,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "derived local"
+          "provenance": "derived local",
+          "tags": [
+            "academy-strategy",
+            "derived",
+            "hextech-doc",
+            "non-authoritative",
+            "non-game-doc"
+          ]
         },
         {
           "id": "analysis.reference.app-flow",
@@ -33,7 +45,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "derived local"
+          "provenance": "derived local",
+          "tags": [
+            "app-flow",
+            "derived",
+            "hextech-doc",
+            "non-authoritative",
+            "non-game-doc"
+          ]
         },
         {
           "id": "analysis.archetype.ahri",
@@ -43,7 +62,11 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "linked",
-          "provenance": "derived local"
+          "provenance": "derived local",
+          "tags": [
+            "Ahri",
+            "archetype"
+          ]
         },
         {
           "id": "analysis.guide.ahri-deck-guide-nine-tailed-fox-control",
@@ -53,7 +76,12 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "ahri",
+            "guide",
+            "riftbound.gg"
+          ]
         },
         {
           "id": "analysis.matchup.ahri-vs-kaisa",
@@ -63,7 +91,12 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "linked",
-          "provenance": "derived local"
+          "provenance": "derived local",
+          "tags": [
+            "Ahri",
+            "Kai'Sa",
+            "matchup"
+          ]
         },
         {
           "id": "analysis.guide.ahri-nine-tailed-fox-guide",
@@ -73,7 +106,12 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "ahri",
+            "guide",
+            "riftbound.gg"
+          ]
         },
         {
           "id": "analysis.archetype.annie",
@@ -83,7 +121,11 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "linked",
-          "provenance": "derived local"
+          "provenance": "derived local",
+          "tags": [
+            "Annie",
+            "archetype"
+          ]
         },
         {
           "id": "analysis.matchup.annie-vs-kaisa",
@@ -93,7 +135,12 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "linked",
-          "provenance": "derived local"
+          "provenance": "derived local",
+          "tags": [
+            "Annie",
+            "Kai'Sa",
+            "matchup"
+          ]
         },
         {
           "id": "analysis.guide.annie-dark-child-starter-guide",
@@ -103,7 +150,12 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "annie",
+            "guide",
+            "riftbound.gg"
+          ]
         },
         {
           "id": "analysis.guide.azir-emperor-of-the-sands-guide",
@@ -113,7 +165,12 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "azir",
+            "guide",
+            "riftbound.gg"
+          ]
         },
         {
           "id": "analysis.guide.battlefields-101-attacking-and-trading-units",
@@ -123,7 +180,12 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
         },
         {
           "id": "analysis.guide.become-your-own-boss-with-sett-midrange-deck-guide-analysis",
@@ -133,7 +195,12 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "riftbound.gg",
+            "sett"
+          ]
         },
         {
           "id": "analysis.guide.bologna-regional-qualifier-results",
@@ -143,7 +210,12 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.1",
@@ -153,7 +225,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "design",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.10",
@@ -163,7 +242,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.100",
@@ -173,7 +259,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.101",
@@ -183,7 +276,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.102",
@@ -193,7 +293,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.103",
@@ -203,7 +310,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "AI-agent ops",
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.104",
@@ -213,7 +327,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.105",
@@ -223,7 +344,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.106",
@@ -233,7 +361,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "business/offer",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.107",
@@ -243,7 +378,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "AI-agent ops",
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.108",
@@ -253,7 +395,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.109",
@@ -263,7 +412,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "business/offer",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.11",
@@ -273,7 +429,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.110",
@@ -283,7 +446,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "business/offer",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.111",
@@ -293,7 +463,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.112",
@@ -303,7 +480,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.12",
@@ -313,7 +497,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.13",
@@ -323,7 +514,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.14",
@@ -333,7 +531,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.15",
@@ -343,7 +548,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.16",
@@ -353,7 +565,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.17",
@@ -363,7 +582,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.18",
@@ -373,7 +599,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.19",
@@ -383,7 +616,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.2",
@@ -393,7 +633,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "design",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.20",
@@ -403,7 +650,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.21",
@@ -413,7 +667,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "business",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.22",
@@ -423,7 +684,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.23",
@@ -433,7 +701,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "business",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.24",
@@ -443,7 +718,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.25",
@@ -453,7 +735,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.26",
@@ -463,7 +752,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.27",
@@ -473,7 +769,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.28",
@@ -483,7 +786,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.29",
@@ -493,7 +803,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.3",
@@ -503,7 +820,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "design",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
         },
         {
           "id": "analysis.intel.bookmark.30",
@@ -513,7 +837,14 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
         }
       ]
     },
@@ -528,7 +859,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "ahri",
+            "archival-unverified",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.annie",
@@ -538,7 +874,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "annie",
+            "archival-unverified",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.azir",
@@ -548,7 +889,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "azir",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.darius",
@@ -558,7 +904,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "darius",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.draven",
@@ -568,7 +919,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "draven",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.ezreal",
@@ -578,7 +934,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "ezreal",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.fiora",
@@ -588,7 +949,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "fiora",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.garen",
@@ -598,7 +964,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "garen",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta.generated.2026-03-27",
@@ -608,7 +979,11 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "derived local"
+          "provenance": "derived local",
+          "tags": [
+            "2026-03-27",
+            "meta-generated"
+          ]
         },
         {
           "id": "meta_tier.irelia",
@@ -618,7 +993,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "irelia",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.jax",
@@ -628,7 +1008,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "jax",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.jinx",
@@ -638,7 +1023,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "jinx",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.kai-sa",
@@ -648,7 +1038,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "kai-sa",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.lee-sin",
@@ -658,7 +1053,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "lee-sin",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.leona",
@@ -668,7 +1068,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "leona",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.lucian",
@@ -678,7 +1083,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "lucian",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.lux",
@@ -688,7 +1098,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "lux",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.master-yi",
@@ -698,7 +1113,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "master-yi",
+            "meta-tier"
+          ]
         },
         {
           "id": "meta_tier.miss-fortune",
@@ -708,7 +1128,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "miss-fortune"
+          ]
         },
         {
           "id": "meta_tier.ornn",
@@ -718,7 +1143,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "ornn"
+          ]
         },
         {
           "id": "meta_tier.rek-sai",
@@ -728,7 +1158,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "rek-sai"
+          ]
         },
         {
           "id": "meta_tier.renata-glasc",
@@ -738,7 +1173,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "renata-glasc"
+          ]
         },
         {
           "id": "meta_tier.rumble",
@@ -748,7 +1188,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "rumble"
+          ]
         },
         {
           "id": "meta_tier.sett",
@@ -758,7 +1203,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "sett"
+          ]
         },
         {
           "id": "meta_tier.sivir",
@@ -768,7 +1218,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "sivir"
+          ]
         },
         {
           "id": "meta_tier.teemo",
@@ -778,7 +1233,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "teemo"
+          ]
         },
         {
           "id": "meta_tier.viktor",
@@ -788,7 +1248,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "viktor"
+          ]
         },
         {
           "id": "meta_tier.volibear",
@@ -798,7 +1263,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "volibear"
+          ]
         },
         {
           "id": "meta_tier.yasuo",
@@ -808,7 +1278,12 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "yasuo"
+          ]
         }
       ]
     },
@@ -823,7 +1298,11 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "derived local"
+          "provenance": "derived local",
+          "tags": [
+            "daily",
+            "ops"
+          ]
         }
       ]
     },
@@ -838,7 +1317,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "ezreal-prodigal-explorer",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.all-other-champions",
@@ -848,7 +1334,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.annie",
@@ -858,7 +1351,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.atroooix",
@@ -868,7 +1368,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.blargh1111",
@@ -878,7 +1385,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "low-confidence",
+            "master-yi-wuju-bladesman",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.champion",
@@ -888,7 +1402,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.clyde",
@@ -898,7 +1419,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "low-confidence",
+            "master-yi-wuju-bladesman",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.crazil",
@@ -908,7 +1436,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.dhawally",
@@ -918,7 +1453,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "annie-dark-child",
+            "competitive-player",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.draven",
@@ -928,7 +1470,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.ezreal",
@@ -938,7 +1487,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.ghosterdriver",
@@ -948,7 +1504,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined",
+            "viktor-herald-of-the-arcane"
+          ]
         },
         {
           "id": "player.irelia",
@@ -958,7 +1521,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.jibbsuk",
@@ -968,7 +1538,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.kai-sa",
@@ -978,7 +1555,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.m4rcus99",
@@ -988,7 +1572,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "draven-glorious-executioner",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.marshall",
@@ -998,7 +1589,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.master-yi",
@@ -1008,7 +1606,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.miss-fortune",
@@ -1018,7 +1623,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.name",
@@ -1028,7 +1640,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.noveggies",
@@ -1038,7 +1657,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "annie-dark-child",
+            "competitive-player",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.person",
@@ -1048,7 +1674,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.plus",
@@ -1058,7 +1691,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.prismaticismism",
@@ -1068,7 +1708,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "draven-glorious-executioner-teemo-swift-scout",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.prymor",
@@ -1078,7 +1725,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "annie-dark-child",
+            "competitive-player",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.randyyy",
@@ -1088,7 +1742,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "draven-glorious-executioner-irelia-kai-sa-sivir",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.sebiqqqqqqqqqqqq",
@@ -1098,7 +1759,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "low-confidence",
+            "miss-fortune-bounty-hunter",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.savjz",
@@ -1108,7 +1776,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined",
+            "sett-the-boss"
+          ]
         },
         {
           "id": "player.soul",
@@ -1118,7 +1793,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.themanlandrft",
@@ -1128,7 +1810,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "ezreal-prodigal-explorer",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.viktor",
@@ -1138,7 +1827,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "item",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.zent",
@@ -1148,7 +1844,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "annie-dark-child",
+            "competitive-player",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.georgeg",
@@ -1158,7 +1861,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "kai-sa-daughter-of-the-void",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         },
         {
           "id": "player.krowz",
@@ -1168,7 +1878,14 @@
           "scope": "data",
           "trust_level": "derived_unverified",
           "status": "reviewed",
-          "provenance": "legacy local"
+          "provenance": "legacy local",
+          "tags": [
+            "competitive-player",
+            "irelia-blade-dancer",
+            "low-confidence",
+            "non-authoritative",
+            "quarantined"
+          ]
         }
       ]
     },
@@ -1183,11 +1900,2687 @@
           "scope": "analysis",
           "trust_level": "derived_unverified",
           "status": "linked",
-          "provenance": "derived local"
+          "provenance": "derived local",
+          "tags": [
+            "m2IjrsUzXgU",
+            "review",
+            "video"
+          ]
         }
       ]
     }
   },
+  "active_review_queue": {
+    "analysis_note": {
+      "count": 118,
+      "objects": [
+        {
+          "id": "analysis.archetype.ahri",
+          "type": "analysis_note",
+          "title": "Ahri Archetype Brief",
+          "path": "analysis/archetypes/ahri.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Ahri",
+            "archetype"
+          ]
+        },
+        {
+          "id": "analysis.guide.ahri-deck-guide-nine-tailed-fox-control",
+          "type": "analysis_note",
+          "title": "Ahri Deck Guide: Nine-Tailed Fox Control",
+          "path": "analysis/guides/ahri-deck-guide-nine-tailed-fox-control.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "ahri",
+            "guide",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.matchup.ahri-vs-kaisa",
+          "type": "analysis_note",
+          "title": "Ahri vs Kai'Sa",
+          "path": "analysis/matchups/ahri-vs-kaisa.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Ahri",
+            "Kai'Sa",
+            "matchup"
+          ]
+        },
+        {
+          "id": "analysis.guide.ahri-nine-tailed-fox-guide",
+          "type": "analysis_note",
+          "title": "Ahri, Nine-Tailed Fox Guide",
+          "path": "analysis/guides/ahri-nine-tailed-fox-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "ahri",
+            "guide",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.archetype.annie",
+          "type": "analysis_note",
+          "title": "Annie Archetype Brief",
+          "path": "analysis/archetypes/annie.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Annie",
+            "archetype"
+          ]
+        },
+        {
+          "id": "analysis.matchup.annie-vs-kaisa",
+          "type": "analysis_note",
+          "title": "Annie vs Kai'Sa",
+          "path": "analysis/matchups/annie-vs-kaisa.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Annie",
+            "Kai'Sa",
+            "matchup"
+          ]
+        },
+        {
+          "id": "analysis.guide.annie-dark-child-starter-guide",
+          "type": "analysis_note",
+          "title": "Annie, Dark Child Starter Guide",
+          "path": "analysis/guides/annie-dark-child-starter-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "annie",
+            "guide",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.guide.azir-emperor-of-the-sands-guide",
+          "type": "analysis_note",
+          "title": "Azir, Emperor of the Sands Guide",
+          "path": "analysis/guides/azir-emperor-of-the-sands-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "azir",
+            "guide",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.guide.battlefields-101-attacking-and-trading-units",
+          "type": "analysis_note",
+          "title": "Battlefields 101: Attacking and Trading Units",
+          "path": "analysis/guides/battlefields-101-attacking-and-trading-units.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.guide.become-your-own-boss-with-sett-midrange-deck-guide-analysis",
+          "type": "analysis_note",
+          "title": "Become Your Own Boss with Sett Midrange \u2013 Deck Guide & Analysis",
+          "path": "analysis/guides/become-your-own-boss-with-sett-midrange-deck-guide-analysis.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "riftbound.gg",
+            "sett"
+          ]
+        },
+        {
+          "id": "analysis.guide.bologna-regional-qualifier-results",
+          "type": "analysis_note",
+          "title": "Bologna Regional Qualifier Results",
+          "path": "analysis/guides/bologna-regional-qualifier-results.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.community.1r5jtw1",
+          "type": "analysis_note",
+          "title": "Bought my first precon, pulled this from the booster pack",
+          "path": "analysis/community/reddit--1r5jtw1.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "content",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.guide.budget-riftbound-guide-best-cheap-decks-spiritforged",
+          "type": "analysis_note",
+          "title": "Budget Riftbound Guide & Best Cheap Decks \u2013 Spiritforged",
+          "path": "analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "riftbound.gg",
+            "viktor-master-yi-jax-leona-lucian-renata-glasc-teemo-rumble-yasuo-fiora-lee-sin-ornn-ahri-draven"
+          ]
+        },
+        {
+          "id": "analysis.guide.chengdu-regional-open-results",
+          "type": "analysis_note",
+          "title": "Chengdu Regional Open Results",
+          "path": "analysis/guides/chengdu-regional-open-results.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.article.community-deck-vault",
+          "type": "analysis_note",
+          "title": "Community Deck Vault",
+          "path": "analysis/articles/community-deck-vault.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "derived local",
+          "tags": [
+            "article",
+            "community-deck-vault",
+            "derived",
+            "strategy"
+          ]
+        },
+        {
+          "id": "analysis.guide.dalian-regional-open-results-popularity-conversion-rate-best-deck-for-every-legend",
+          "type": "analysis_note",
+          "title": "Dalian Regional Open Results \u2013 Popularity, Conversion Rate, Best Deck for Every Legend",
+          "path": "analysis/guides/dalian-regional-open-results-popularity-conversion-rate-best-deck-for-every-legend.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.archetype.darius",
+          "type": "analysis_note",
+          "title": "Darius Archetype Brief",
+          "path": "analysis/archetypes/darius.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Darius",
+            "archetype"
+          ]
+        },
+        {
+          "id": "analysis.matchup.darius-vs-kaisa",
+          "type": "analysis_note",
+          "title": "Darius vs Kai'Sa",
+          "path": "analysis/matchups/darius-vs-kaisa.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Darius",
+            "Kai'Sa",
+            "matchup"
+          ]
+        },
+        {
+          "id": "analysis.guide.darius-hand-of-noxus-guide",
+          "type": "analysis_note",
+          "title": "Darius, Hand of Noxus Guide",
+          "path": "analysis/guides/darius-hand-of-noxus-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "darius",
+            "guide",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.guide.deckbuilding-101-building-your-first-riftbound-deck",
+          "type": "analysis_note",
+          "title": "Deckbuilding 101: Building Your First Riftbound Deck",
+          "path": "analysis/guides/deckbuilding-101-building-your-first-riftbound-deck.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.community.rtcg-events",
+          "type": "analysis_note",
+          "title": "Details of Upcoming Riftbound Events Just Released",
+          "path": "analysis/community/reddit--rtcg-events.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "meta",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.guide.domain-101-understanding-the-six-domains-of-riftbound",
+          "type": "analysis_note",
+          "title": "Domain 101: Understanding The Six Domains of Riftbound",
+          "path": "analysis/guides/domain-101-understanding-the-six-domains-of-riftbound.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.archetype.draven",
+          "type": "analysis_note",
+          "title": "Draven Archetype Brief",
+          "path": "analysis/archetypes/draven.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Draven",
+            "archetype"
+          ]
+        },
+        {
+          "id": "analysis.matchup.draven-vs-kaisa",
+          "type": "analysis_note",
+          "title": "Draven vs Kai'Sa",
+          "path": "analysis/matchups/draven-vs-kaisa.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Draven",
+            "Kai'Sa",
+            "matchup"
+          ]
+        },
+        {
+          "id": "analysis.guide.draven-glorious-executioner-guide",
+          "type": "analysis_note",
+          "title": "Draven, Glorious Executioner Guide",
+          "path": "analysis/guides/draven-glorious-executioner-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "draven",
+            "guide",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.community.rtcg-exclusive",
+          "type": "analysis_note",
+          "title": "Exclusive: Riot built Riftbound to appeal to League fans first, not TCG veterans",
+          "path": "analysis/community/reddit--rtcg-exclusive.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "meta",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.guide.ezreal-prodigal-explorer-guide",
+          "type": "analysis_note",
+          "title": "Ezreal, Prodigal Explorer Guide",
+          "path": "analysis/guides/ezreal-prodigal-explorer-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "ezreal",
+            "guide",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.guide.fiora-grand-duelist-guide",
+          "type": "analysis_note",
+          "title": "Fiora, Grand Duelist Guide",
+          "path": "analysis/guides/fiora-grand-duelist-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "fiora",
+            "guide",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.community.1r883k6",
+          "type": "analysis_note",
+          "title": "First signature I've pulled!",
+          "path": "analysis/community/reddit--1r883k6.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "content",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.community.1r5s52n",
+          "type": "analysis_note",
+          "title": "First time buyer pulls",
+          "path": "analysis/community/reddit--1r5s52n.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "discussion",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.guide.fuzhou-regional-results-popularity-conversion-rate-best-deck-for-every-legend",
+          "type": "analysis_note",
+          "title": "Fuzhou Regional Results \u2013 Popularity, Conversion Rate, Best Deck for Every Legend",
+          "path": "analysis/guides/fuzhou-regional-results-popularity-conversion-rate-best-deck-for-every-legend.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.creator.gaming-after",
+          "type": "analysis_note",
+          "title": "Gaming After",
+          "path": "analysis/creators/gaming-after.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "YouTube",
+            "creator"
+          ]
+        },
+        {
+          "id": "analysis.guide.garen-might-of-demacia-starter-guide",
+          "type": "analysis_note",
+          "title": "Garen, Might of Demacia Starter Guide",
+          "path": "analysis/guides/garen-might-of-demacia-starter-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "garen",
+            "guide",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.creator.grapplr",
+          "type": "analysis_note",
+          "title": "GrappLr",
+          "path": "analysis/creators/grapplr.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "YouTube",
+            "creator"
+          ]
+        },
+        {
+          "id": "analysis.guide.hone-the-art-of-wuju-with-master-yi-tempo-deck-guide-analysis",
+          "type": "analysis_note",
+          "title": "Hone the Art of Wuju with Master Yi Tempo \u2013 Deck Guide & Analysis",
+          "path": "analysis/guides/hone-the-art-of-wuju-with-master-yi-tempo-deck-guide-analysis.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "master-yi",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.guide.houston-regional-qualifier-2025-top-decks",
+          "type": "analysis_note",
+          "title": "Houston Regional Qualifier 2025 Top Decks",
+          "path": "analysis/guides/houston-regional-qualifier-2025-top-decks.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.guide.houston-regional-qualifier-top-decks-for-every-champion",
+          "type": "analysis_note",
+          "title": "Houston Regional Qualifier \u2013 Top Decks for Every Champion",
+          "path": "analysis/guides/houston-regional-qualifier-top-decks-for-every-champion.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "item",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.video.m2IjrsUzXgU",
+          "type": "analysis_note",
+          "title": "How to Get Better at Riftbound",
+          "path": "analysis/videos/m2IjrsUzXgU/metadata.json",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "NovaRiftbound",
+            "m2IjrsUzXgU",
+            "video"
+          ]
+        },
+        {
+          "id": "analysis.video_transcript.m2IjrsUzXgU",
+          "type": "analysis_note",
+          "title": "How to Get Better at Riftbound Transcript",
+          "path": "analysis/videos/m2IjrsUzXgU/transcript.cleaned.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "m2IjrsUzXgU",
+            "transcript",
+            "video"
+          ]
+        },
+        {
+          "id": "analysis.community.1rc92pq",
+          "type": "analysis_note",
+          "title": "I can not believe this just happened...",
+          "path": "analysis/community/reddit--1rc92pq.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "discussion",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.community.1r9i9gk",
+          "type": "analysis_note",
+          "title": "I feel like I've won the lottery",
+          "path": "analysis/community/reddit--1r9i9gk.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "content",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.community.rtcg-deckguide",
+          "type": "analysis_note",
+          "title": "I made a Deckbuilding Guide \u2014 tips and rules I go by",
+          "path": "analysis/community/reddit--rtcg-deckguide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "content",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.guide.irelia-blade-dancer-guide",
+          "type": "analysis_note",
+          "title": "Irelia, Blade Dancer Guide",
+          "path": "analysis/guides/irelia-blade-dancer-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "irelia",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.community.1r0nbbb",
+          "type": "analysis_note",
+          "title": "Is it worth to grade?",
+          "path": "analysis/community/reddit--1r0nbbb.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "community",
+            "discussion",
+            "reddit"
+          ]
+        },
+        {
+          "id": "analysis.guide.jax-grandmaster-at-arms-guide",
+          "type": "analysis_note",
+          "title": "Jax, Grandmaster at Arms Guide",
+          "path": "analysis/guides/jax-grandmaster-at-arms-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "jax",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.guide.jinx-loose-cannon-guide",
+          "type": "analysis_note",
+          "title": "Jinx, Loose Cannon Guide",
+          "path": "analysis/guides/jinx-loose-cannon-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "jinx",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.archetype.kaisa",
+          "type": "analysis_note",
+          "title": "Kai'Sa Archetype Brief",
+          "path": "analysis/archetypes/kaisa.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Kai'Sa",
+            "archetype"
+          ]
+        },
+        {
+          "id": "analysis.matchup.kaisa-vs-master-yi",
+          "type": "analysis_note",
+          "title": "Kai'Sa vs Master Yi",
+          "path": "analysis/matchups/kaisa-vs-master-yi.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Kai'Sa",
+            "Master Yi",
+            "matchup"
+          ]
+        },
+        {
+          "id": "analysis.guide.kai-sa-daughter-of-the-void-guide",
+          "type": "analysis_note",
+          "title": "Kai'Sa, Daughter of the Void Guide",
+          "path": "analysis/guides/kai-sa-daughter-of-the-void-guide.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "kai-sa",
+            "riftbound.gg"
+          ]
+        },
+        {
+          "id": "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers",
+          "type": "analysis_note",
+          "title": "Kai'Sa, Daughter of the Void: Deck in Numbers",
+          "path": "analysis/guides/kai-sa-daughter-of-the-void-deck-in-numbers.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "guide",
+            "kai-sa",
+            "riftbound.gg"
+          ]
+        }
+      ]
+    },
+    "meta_snapshot": {
+      "count": 1,
+      "objects": [
+        {
+          "id": "meta.generated.2026-03-27",
+          "type": "meta_snapshot",
+          "title": "Generated meta snapshot 2026-03-27",
+          "path": "data/meta/2026-03-27.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "derived local",
+          "tags": [
+            "2026-03-27",
+            "meta-generated"
+          ]
+        }
+      ]
+    },
+    "ops_summary": {
+      "count": 1,
+      "objects": [
+        {
+          "id": "ops.daily.2026-03-27",
+          "type": "ops_summary",
+          "title": "Daily ops summary 2026-03-27",
+          "path": "data/ops/daily/2026-03-27.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "derived local",
+          "tags": [
+            "daily",
+            "ops"
+          ]
+        }
+      ]
+    },
+    "vod_review": {
+      "count": 1,
+      "objects": [
+        {
+          "id": "analysis.video_review.m2IjrsUzXgU",
+          "type": "vod_review",
+          "title": "How to Get Better at Riftbound Review",
+          "path": "analysis/videos/m2IjrsUzXgU/review.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "m2IjrsUzXgU",
+            "review",
+            "video"
+          ]
+        }
+      ]
+    }
+  },
+  "archival_unverified_by_type": {
+    "analysis_note": {
+      "count": 128,
+      "objects": [
+        {
+          "id": "analysis.reference.academy-strategy",
+          "type": "analysis_note",
+          "title": "ACADEMY_STRATEGY.md",
+          "path": "analysis/reference/academy-strategy.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "derived local",
+          "tags": [
+            "academy-strategy",
+            "derived",
+            "hextech-doc",
+            "non-authoritative",
+            "non-game-doc"
+          ]
+        },
+        {
+          "id": "analysis.reference.app-flow",
+          "type": "analysis_note",
+          "title": "APP_FLOW.md - Hextech Analytics",
+          "path": "analysis/reference/app-flow.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "derived local",
+          "tags": [
+            "app-flow",
+            "derived",
+            "hextech-doc",
+            "non-authoritative",
+            "non-game-doc"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.1",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 1",
+          "path": "analysis/intel/bookmark-1.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "design",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.10",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 10",
+          "path": "analysis/intel/bookmark-10.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.100",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 100",
+          "path": "analysis/intel/bookmark-100.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.101",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 101",
+          "path": "analysis/intel/bookmark-101.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.102",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 102",
+          "path": "analysis/intel/bookmark-102.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.103",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 103",
+          "path": "analysis/intel/bookmark-103.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "AI-agent ops",
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.104",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 104",
+          "path": "analysis/intel/bookmark-104.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.105",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 105",
+          "path": "analysis/intel/bookmark-105.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.106",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 106",
+          "path": "analysis/intel/bookmark-106.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "business/offer",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.107",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 107",
+          "path": "analysis/intel/bookmark-107.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "AI-agent ops",
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.108",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 108",
+          "path": "analysis/intel/bookmark-108.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.109",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 109",
+          "path": "analysis/intel/bookmark-109.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "business/offer",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.11",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 11",
+          "path": "analysis/intel/bookmark-11.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.110",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 110",
+          "path": "analysis/intel/bookmark-110.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "business/offer",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.111",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 111",
+          "path": "analysis/intel/bookmark-111.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.112",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 112",
+          "path": "analysis/intel/bookmark-112.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "workflow/tooling",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.12",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 12",
+          "path": "analysis/intel/bookmark-12.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.13",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 13",
+          "path": "analysis/intel/bookmark-13.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.14",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 14",
+          "path": "analysis/intel/bookmark-14.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.15",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 15",
+          "path": "analysis/intel/bookmark-15.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.16",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 16",
+          "path": "analysis/intel/bookmark-16.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.17",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 17",
+          "path": "analysis/intel/bookmark-17.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.18",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 18",
+          "path": "analysis/intel/bookmark-18.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.19",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 19",
+          "path": "analysis/intel/bookmark-19.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.2",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 2",
+          "path": "analysis/intel/bookmark-2.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "design",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.20",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 20",
+          "path": "analysis/intel/bookmark-20.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.21",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 21",
+          "path": "analysis/intel/bookmark-21.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "business",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.22",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 22",
+          "path": "analysis/intel/bookmark-22.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.23",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 23",
+          "path": "analysis/intel/bookmark-23.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "business",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.24",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 24",
+          "path": "analysis/intel/bookmark-24.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.25",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 25",
+          "path": "analysis/intel/bookmark-25.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.26",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 26",
+          "path": "analysis/intel/bookmark-26.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.27",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 27",
+          "path": "analysis/intel/bookmark-27.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.28",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 28",
+          "path": "analysis/intel/bookmark-28.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.29",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 29",
+          "path": "analysis/intel/bookmark-29.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.3",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 3",
+          "path": "analysis/intel/bookmark-3.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "design",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.30",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 30",
+          "path": "analysis/intel/bookmark-30.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.31",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 31",
+          "path": "analysis/intel/bookmark-31.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.32",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 32",
+          "path": "analysis/intel/bookmark-32.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.33",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 33",
+          "path": "analysis/intel/bookmark-33.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "riftbound",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.34",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 34",
+          "path": "analysis/intel/bookmark-34.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.35",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 35",
+          "path": "analysis/intel/bookmark-35.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.36",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 36",
+          "path": "analysis/intel/bookmark-36.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.37",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 37",
+          "path": "analysis/intel/bookmark-37.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "openclaw_ai",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.38",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 38",
+          "path": "analysis/intel/bookmark-38.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.39",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 39",
+          "path": "analysis/intel/bookmark-39.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.4",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 4",
+          "path": "analysis/intel/bookmark-4.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "design",
+            "intel",
+            "non-authoritative",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.40",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 40",
+          "path": "analysis/intel/bookmark-40.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "other",
+            "x_bookmarks"
+          ]
+        }
+      ]
+    },
+    "meta_snapshot": {
+      "count": 28,
+      "objects": [
+        {
+          "id": "meta_tier.ahri",
+          "type": "meta_snapshot",
+          "title": "Ahri",
+          "path": "data/meta-tiers/ahri.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "ahri",
+            "archival-unverified",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.annie",
+          "type": "meta_snapshot",
+          "title": "Annie",
+          "path": "data/meta-tiers/annie.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "annie",
+            "archival-unverified",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.azir",
+          "type": "meta_snapshot",
+          "title": "Azir",
+          "path": "data/meta-tiers/azir.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "azir",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.darius",
+          "type": "meta_snapshot",
+          "title": "Darius",
+          "path": "data/meta-tiers/darius.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "darius",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.draven",
+          "type": "meta_snapshot",
+          "title": "Draven",
+          "path": "data/meta-tiers/draven.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "draven",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.ezreal",
+          "type": "meta_snapshot",
+          "title": "Ezreal",
+          "path": "data/meta-tiers/ezreal.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "ezreal",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.fiora",
+          "type": "meta_snapshot",
+          "title": "Fiora",
+          "path": "data/meta-tiers/fiora.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "fiora",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.garen",
+          "type": "meta_snapshot",
+          "title": "Garen",
+          "path": "data/meta-tiers/garen.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "garen",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.irelia",
+          "type": "meta_snapshot",
+          "title": "Irelia",
+          "path": "data/meta-tiers/irelia.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "irelia",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.jax",
+          "type": "meta_snapshot",
+          "title": "Jax",
+          "path": "data/meta-tiers/jax.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "jax",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.jinx",
+          "type": "meta_snapshot",
+          "title": "Jinx",
+          "path": "data/meta-tiers/jinx.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "jinx",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.kai-sa",
+          "type": "meta_snapshot",
+          "title": "Kai'Sa",
+          "path": "data/meta-tiers/kai-sa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "kai-sa",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.lee-sin",
+          "type": "meta_snapshot",
+          "title": "Lee Sin",
+          "path": "data/meta-tiers/lee-sin.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "lee-sin",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.leona",
+          "type": "meta_snapshot",
+          "title": "Leona",
+          "path": "data/meta-tiers/leona.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "leona",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.lucian",
+          "type": "meta_snapshot",
+          "title": "Lucian",
+          "path": "data/meta-tiers/lucian.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "lucian",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.lux",
+          "type": "meta_snapshot",
+          "title": "Lux",
+          "path": "data/meta-tiers/lux.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "lux",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.master-yi",
+          "type": "meta_snapshot",
+          "title": "Master Yi",
+          "path": "data/meta-tiers/master-yi.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "master-yi",
+            "meta-tier"
+          ]
+        },
+        {
+          "id": "meta_tier.miss-fortune",
+          "type": "meta_snapshot",
+          "title": "Miss Fortune",
+          "path": "data/meta-tiers/miss-fortune.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "miss-fortune"
+          ]
+        },
+        {
+          "id": "meta_tier.ornn",
+          "type": "meta_snapshot",
+          "title": "Ornn",
+          "path": "data/meta-tiers/ornn.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "ornn"
+          ]
+        },
+        {
+          "id": "meta_tier.rek-sai",
+          "type": "meta_snapshot",
+          "title": "Rek'Sai",
+          "path": "data/meta-tiers/rek-sai.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "rek-sai"
+          ]
+        },
+        {
+          "id": "meta_tier.renata-glasc",
+          "type": "meta_snapshot",
+          "title": "Renata Glasc",
+          "path": "data/meta-tiers/renata-glasc.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "renata-glasc"
+          ]
+        },
+        {
+          "id": "meta_tier.rumble",
+          "type": "meta_snapshot",
+          "title": "Rumble",
+          "path": "data/meta-tiers/rumble.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "rumble"
+          ]
+        },
+        {
+          "id": "meta_tier.sett",
+          "type": "meta_snapshot",
+          "title": "Sett",
+          "path": "data/meta-tiers/sett.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "sett"
+          ]
+        },
+        {
+          "id": "meta_tier.sivir",
+          "type": "meta_snapshot",
+          "title": "Sivir",
+          "path": "data/meta-tiers/sivir.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "sivir"
+          ]
+        },
+        {
+          "id": "meta_tier.teemo",
+          "type": "meta_snapshot",
+          "title": "Teemo",
+          "path": "data/meta-tiers/teemo.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "teemo"
+          ]
+        },
+        {
+          "id": "meta_tier.viktor",
+          "type": "meta_snapshot",
+          "title": "Viktor",
+          "path": "data/meta-tiers/viktor.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "viktor"
+          ]
+        },
+        {
+          "id": "meta_tier.volibear",
+          "type": "meta_snapshot",
+          "title": "Volibear",
+          "path": "data/meta-tiers/volibear.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "volibear"
+          ]
+        },
+        {
+          "id": "meta_tier.yasuo",
+          "type": "meta_snapshot",
+          "title": "Yasuo",
+          "path": "data/meta-tiers/yasuo.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "meta-tier",
+            "yasuo"
+          ]
+        }
+      ]
+    }
+  },
+  "quarantined_objects": [
+    {
+      "id": "player.alanzq1",
+      "type": "player_record",
+      "title": "Alanzq1",
+      "path": "data/players/alanzq1.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "ezreal-prodigal-explorer",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.all-other-champions",
+      "type": "player_record",
+      "title": "All other champions",
+      "path": "data/players/all-other-champions.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.annie",
+      "type": "player_record",
+      "title": "Annie",
+      "path": "data/players/annie.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.atroooix",
+      "type": "player_record",
+      "title": "Atroooix",
+      "path": "data/players/atroooix.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.blargh1111",
+      "type": "player_record",
+      "title": "Blargh1111",
+      "path": "data/players/blargh1111.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "low-confidence",
+        "master-yi-wuju-bladesman",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.champion",
+      "type": "player_record",
+      "title": "Champion",
+      "path": "data/players/champion.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.clyde",
+      "type": "player_record",
+      "title": "Clyde",
+      "path": "data/players/clyde.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "low-confidence",
+        "master-yi-wuju-bladesman",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.crazil",
+      "type": "player_record",
+      "title": "Crazil",
+      "path": "data/players/crazil.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.dhawally",
+      "type": "player_record",
+      "title": "Dhawally",
+      "path": "data/players/dhawally.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "annie-dark-child",
+        "competitive-player",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.draven",
+      "type": "player_record",
+      "title": "Draven",
+      "path": "data/players/draven.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.ezreal",
+      "type": "player_record",
+      "title": "Ezreal",
+      "path": "data/players/ezreal.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.ghosterdriver",
+      "type": "player_record",
+      "title": "Ghosterdriver",
+      "path": "data/players/ghosterdriver.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined",
+        "viktor-herald-of-the-arcane"
+      ]
+    },
+    {
+      "id": "player.irelia",
+      "type": "player_record",
+      "title": "Irelia",
+      "path": "data/players/irelia.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.jibbsuk",
+      "type": "player_record",
+      "title": "JibbsUK",
+      "path": "data/players/jibbsuk.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.kai-sa",
+      "type": "player_record",
+      "title": "Kai'Sa",
+      "path": "data/players/kai-sa.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.m4rcus99",
+      "type": "player_record",
+      "title": "M4rcus99",
+      "path": "data/players/m4rcus99.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "draven-glorious-executioner",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.marshall",
+      "type": "player_record",
+      "title": "Marshall",
+      "path": "data/players/marshall.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.master-yi",
+      "type": "player_record",
+      "title": "Master Yi",
+      "path": "data/players/master-yi.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.miss-fortune",
+      "type": "player_record",
+      "title": "Miss Fortune",
+      "path": "data/players/miss-fortune.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.name",
+      "type": "player_record",
+      "title": "Name",
+      "path": "data/players/name.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.noveggies",
+      "type": "player_record",
+      "title": "NoVeggies",
+      "path": "data/players/noveggies.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "annie-dark-child",
+        "competitive-player",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.person",
+      "type": "player_record",
+      "title": "Person",
+      "path": "data/players/person.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.plus",
+      "type": "player_record",
+      "title": "Plus",
+      "path": "data/players/plus.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.prismaticismism",
+      "type": "player_record",
+      "title": "Prismaticismism",
+      "path": "data/players/prismaticismism.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "draven-glorious-executioner-teemo-swift-scout",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.prymor",
+      "type": "player_record",
+      "title": "Prymor",
+      "path": "data/players/prymor.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "annie-dark-child",
+        "competitive-player",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.randyyy",
+      "type": "player_record",
+      "title": "Randyyy",
+      "path": "data/players/randyyy.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "draven-glorious-executioner-irelia-kai-sa-sivir",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.sebiqqqqqqqqqqqq",
+      "type": "player_record",
+      "title": "SEBIQQQQQQQQQQQQ",
+      "path": "data/players/sebiqqqqqqqqqqqq.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "low-confidence",
+        "miss-fortune-bounty-hunter",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.savjz",
+      "type": "player_record",
+      "title": "Savjz",
+      "path": "data/players/savjz.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined",
+        "sett-the-boss"
+      ]
+    },
+    {
+      "id": "player.soul",
+      "type": "player_record",
+      "title": "SouL",
+      "path": "data/players/soul.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.themanlandrft",
+      "type": "player_record",
+      "title": "TheManLandRFT",
+      "path": "data/players/themanlandrft.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "ezreal-prodigal-explorer",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.viktor",
+      "type": "player_record",
+      "title": "Viktor",
+      "path": "data/players/viktor.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "item",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.zent",
+      "type": "player_record",
+      "title": "Zent",
+      "path": "data/players/zent.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "annie-dark-child",
+        "competitive-player",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.georgeg",
+      "type": "player_record",
+      "title": "georgeg",
+      "path": "data/players/georgeg.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "kai-sa-daughter-of-the-void",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    },
+    {
+      "id": "player.krowz",
+      "type": "player_record",
+      "title": "krowz",
+      "path": "data/players/krowz.json",
+      "scope": "data",
+      "trust_level": "derived_unverified",
+      "status": "reviewed",
+      "provenance": "legacy local",
+      "tags": [
+        "competitive-player",
+        "irelia-blade-dancer",
+        "low-confidence",
+        "non-authoritative",
+        "quarantined"
+      ]
+    }
+  ],
   "conflicted_by_topic": [
     {
       "topic": "tournament",

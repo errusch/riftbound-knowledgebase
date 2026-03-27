@@ -59,6 +59,10 @@ STOPWORDS = {
 }
 
 
+def load_trust_policy() -> dict[str, Any]:
+    return load_json(ROOT / "data" / "taxonomy" / "trust_policy.json", {})
+
+
 @dataclass
 class KBObject:
     meta: dict[str, Any]
@@ -76,6 +80,46 @@ class KBObject:
     @property
     def object_id(self) -> str:
         return str(self.meta.get("id", self.path))
+
+
+def rule_matches(obj: KBObject, rule: dict[str, Any]) -> bool:
+    if rule.get("id") and rule["id"] != obj.object_id:
+        return False
+    if rule.get("type") and rule["type"] != obj.meta.get("type"):
+        return False
+    if rule.get("path_prefix") and not obj.path.startswith(str(rule["path_prefix"])):
+        return False
+    return True
+
+
+def apply_trust_policy(obj: KBObject) -> KBObject:
+    policy = load_trust_policy()
+    meta = dict(obj.meta)
+    tags = list(meta.get("tags", []) or [])
+    tag_set = set(tags)
+
+    for rule in policy.get("tag_overrides", []):
+        if not isinstance(rule, dict) or not rule_matches(obj, rule):
+            continue
+        for tag in rule.get("add_tags", []):
+            tag_set.add(str(tag))
+        for tag in rule.get("remove_tags", []):
+            tag_set.discard(str(tag))
+        if rule.get("status"):
+            meta["status"] = rule["status"]
+
+    for rule in policy.get("promotions", []):
+        if not isinstance(rule, dict) or not rule_matches(obj, rule):
+            continue
+        if rule.get("trust_level"):
+            meta["trust_level"] = rule["trust_level"]
+        if rule.get("status"):
+            meta["status"] = rule["status"]
+        for tag in rule.get("add_tags", []):
+            tag_set.add(str(tag))
+
+    meta["tags"] = sorted(tag_set)
+    return KBObject(meta=meta, path=obj.path, scope=obj.scope, body=obj.body, payload=obj.payload)
 
 
 def repository_paths() -> Iterable[Path]:
@@ -275,7 +319,7 @@ def load_objects() -> list[KBObject]:
     objects.extend(synthetic_index_objects())
     unique: dict[str, KBObject] = {}
     for obj in objects:
-        unique[obj.object_id] = obj
+        unique[obj.object_id] = apply_trust_policy(obj)
     return sorted(unique.values(), key=lambda item: (item.scope, item.meta.get("type", ""), item.meta.get("title", "")))
 
 
@@ -346,6 +390,13 @@ def score_object(obj: KBObject, query: str) -> int:
     normalized_query = normalize_space(query.lower())
     if normalized_query and normalized_query in haystack:
         score += 15
+    tags = set(obj.meta.get("tags", []) or [])
+    if "non-authoritative" in tags:
+        score -= 12
+    if "quarantined" in tags:
+        score -= 20
+    if "archival-unverified" in tags:
+        score -= 6
     return score
 
 
@@ -682,6 +733,9 @@ def build_meta_snapshot_payload(objects: list[KBObject], snapshot_date: str | No
 def build_quality_report(objects: list[KBObject], conflicts_by_topic: list[dict[str, Any]]) -> dict[str, Any]:
     draft_objects = []
     derived_unverified_by_type: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    active_review_queue: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    archival_unverified_by_type: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    quarantined_objects = []
 
     for obj in objects:
         entry = {
@@ -693,11 +747,19 @@ def build_quality_report(objects: list[KBObject], conflicts_by_topic: list[dict[
             "trust_level": obj.meta.get("trust_level"),
             "status": obj.meta.get("status"),
             "provenance": provenance_label(obj.meta),
+            "tags": obj.meta.get("tags", []),
         }
         if obj.meta.get("status") == "draft":
             draft_objects.append(entry)
         if obj.meta.get("trust_level") == "derived_unverified":
             derived_unverified_by_type[str(obj.meta.get("type", "unknown"))].append(entry)
+            tags = set(obj.meta.get("tags", []) or [])
+            if "quarantined" in tags:
+                quarantined_objects.append(entry)
+            elif "archival-unverified" in tags or "non-authoritative" in tags:
+                archival_unverified_by_type[str(obj.meta.get("type", "unknown"))].append(entry)
+            else:
+                active_review_queue[str(obj.meta.get("type", "unknown"))].append(entry)
 
     report = {
         "draft_objects": sorted(draft_objects, key=lambda item: (item["type"] or "", item["title"] or "")),
@@ -708,6 +770,21 @@ def build_quality_report(objects: list[KBObject], conflicts_by_topic: list[dict[
             }
             for key, items in sorted(derived_unverified_by_type.items())
         },
+        "active_review_queue": {
+            key: {
+                "count": len(items),
+                "objects": sorted(items, key=lambda item: item["title"] or "")[:50],
+            }
+            for key, items in sorted(active_review_queue.items())
+        },
+        "archival_unverified_by_type": {
+            key: {
+                "count": len(items),
+                "objects": sorted(items, key=lambda item: item["title"] or "")[:50],
+            }
+            for key, items in sorted(archival_unverified_by_type.items())
+        },
+        "quarantined_objects": sorted(quarantined_objects, key=lambda item: (item["type"] or "", item["title"] or ""))[:100],
         "conflicted_by_topic": conflicts_by_topic,
     }
     return report

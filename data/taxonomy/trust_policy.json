@@ -1,0 +1,157 @@
+{
+  "promotions": [
+    {
+      "id": "analysis.reference.core-rules",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-summary",
+        "game-reference"
+      ]
+    },
+    {
+      "id": "analysis.reference.mechanics",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-summary",
+        "game-reference"
+      ]
+    }
+  ],
+  "tag_overrides": [
+    {
+      "path_prefix": "analysis/intel/",
+      "add_tags": [
+        "archival-unverified",
+        "non-authoritative"
+      ]
+    },
+    {
+      "path_prefix": "data/meta-tiers/",
+      "add_tags": [
+        "archival-unverified"
+      ]
+    },
+    {
+      "type": "player_record",
+      "add_tags": [
+        "quarantined",
+        "low-confidence",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.academy-strategy",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.app-flow",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.batch-fetch-usage",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.design-system",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.frontend-guidelines",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.hextech-open-beta-launch-checklist",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.legend-page-template",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.lessons",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.manual-signup-workflow",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.optimization",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.prd",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.price-alerts-quickstart",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.price-monitoring-system",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.price-movers-component",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.set-strategy",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    },
+    {
+      "id": "analysis.reference.tech-stack",
+      "add_tags": [
+        "non-game-doc",
+        "non-authoritative"
+      ]
+    }
+  ]
+}

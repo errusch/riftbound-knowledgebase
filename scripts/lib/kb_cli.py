@@ -15,6 +15,7 @@ from scripts.lib.kb_graph import (
     canonicalize_legend_name,
     load_object_index,
     provenance_label,
+    score_object,
     search_objects,
     short_snippet,
     write_meta_snapshot,
@@ -102,9 +103,24 @@ def quality_report() -> dict[str, Any]:
 
 def collect_legend_sources(objects: list[Any], legend: str) -> dict[str, list[Any]]:
     query = legend
-    guides = [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=20) if obj.path.startswith("analysis/guides/")]
-    articles = [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=20) if obj.path.startswith(("analysis/articles/", "analysis/community/", "analysis/intel/"))]
-    videos = [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=20) if obj.path.startswith("analysis/videos/") and obj.meta.get("status") in {"reviewed", "linked"}]
+    guides = [
+        obj
+        for obj in search_objects(objects, query, scopes={"analysis"}, limit=20)
+        if obj.path.startswith("analysis/guides/") and "non-authoritative" not in set(obj.meta.get("tags", []) or [])
+    ]
+    articles = [
+        obj
+        for obj in search_objects(objects, query, scopes={"analysis"}, limit=20)
+        if obj.path.startswith(("analysis/articles/", "analysis/community/", "analysis/intel/"))
+        and "non-authoritative" not in set(obj.meta.get("tags", []) or [])
+    ]
+    videos = [
+        obj
+        for obj in search_objects(objects, query, scopes={"analysis"}, limit=20)
+        if obj.path.startswith("analysis/videos/")
+        and obj.meta.get("status") in {"reviewed", "linked"}
+        and "non-authoritative" not in set(obj.meta.get("tags", []) or [])
+    ]
     return {
         "guides": guides[:8],
         "articles": articles[:8],
@@ -153,9 +169,18 @@ def is_rule_query(query: str) -> bool:
     )
 
 
+def is_definition_query(query: str) -> bool:
+    lowered = query.lower()
+    return any(token in lowered for token in ["what does", "what is", "means", "mean in riftbound", "define", "keyword"]) and any(
+        marker in lowered for marker in ["[m]", "[a]", "[c]", "might", "power", "energy", "hidden", "showdown", "banish", "recycle"]
+    )
+
+
 def query_profile(question: str, object_map: dict[str, Any]) -> str:
     if is_rule_query(question):
         return "rule"
+    if is_definition_query(question):
+        return "definition"
     if resolve_card(question, object_map):
         return "card"
     lowered = question.lower()
@@ -165,6 +190,23 @@ def query_profile(question: str, object_map: dict[str, Any]) -> str:
 
 
 def policy_search(objects: list[Any], query: str, profile: str, section: str, limit: int) -> list[Any]:
+    def authoritative(items: list[Any]) -> list[Any]:
+        return [obj for obj in items if "non-authoritative" not in set(obj.meta.get("tags", []) or []) and "quarantined" not in set(obj.meta.get("tags", []) or [])]
+
+    def rank_subset(items: list[Any]) -> list[Any]:
+        ranked = []
+        for obj in items:
+            score = score_object(obj, query)
+            tags = set(obj.meta.get("tags", []) or [])
+            if "game-reference" in tags:
+                score += 20
+            if obj.path.startswith("analysis/guides/"):
+                score -= 2
+            ranked.append((score, obj))
+        ranked = [item for item in ranked if item[0] > 0]
+        ranked.sort(key=lambda item: (-item[0], item[1].meta.get("title", "")))
+        return [obj for _, obj in ranked[:limit]]
+
     if profile == "rule":
         if section == "canon":
             return [
@@ -172,28 +214,47 @@ def policy_search(objects: list[Any], query: str, profile: str, section: str, li
                 *search_objects(objects, query, types={"canon_document"}, limit=max(2, limit // 2)),
             ][:limit]
         if section == "analysis":
-            return [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 2) if obj.path.startswith("analysis/reference/")][:limit]
+            return authoritative([obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 2) if obj.path.startswith("analysis/reference/")])[:limit]
         if section == "data":
             return search_objects(objects, query, types={"conflict_record"}, limit=limit)
+    if profile == "definition":
+        if section == "canon":
+            return search_objects(objects, query, types={"rule_atom", "canon_document", "ruling_record"}, limit=limit)
+        if section == "analysis":
+            return rank_subset(
+                authoritative(
+                    [
+                        obj
+                        for obj in objects
+                        if obj.scope == "analysis"
+                        and (
+                            "game-reference" in set(obj.meta.get("tags", []) or [])
+                            or obj.path.startswith(("analysis/guides/", "analysis/videos/"))
+                        )
+                    ]
+                )
+            )
+        if section == "data":
+            return authoritative(search_objects(objects, query, types={"taxonomy_entity", "ruling_record", "card_record"}, limit=limit * 2))[:limit]
     if profile == "card":
         if section == "canon":
             return search_objects(objects, query, types={"ruling_record", "canon_document"}, limit=limit)
         if section == "analysis":
-            return [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 2) if obj.path.startswith(("analysis/guides/", "analysis/videos/", "analysis/articles/"))][:limit]
+            return authoritative([obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 2) if obj.path.startswith(("analysis/guides/", "analysis/videos/", "analysis/articles/"))])[:limit]
         if section == "data":
             return search_objects(objects, query, types={"card_record", "ruling_record"}, limit=limit)
     if profile == "legend":
         if section == "canon":
             return search_objects(objects, query, types={"rule_atom", "canon_document", "ruling_record"}, limit=limit)
         if section == "analysis":
-            return [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 3) if obj.path.startswith(("analysis/guides/", "analysis/articles/", "analysis/community/", "analysis/videos/", "analysis/archetypes/", "analysis/matchups/"))][:limit]
+            return authoritative([obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 3) if obj.path.startswith(("analysis/guides/", "analysis/articles/", "analysis/community/", "analysis/videos/", "analysis/archetypes/", "analysis/matchups/"))])[:limit]
         if section == "data":
-            return search_objects(objects, query, types={"meta_snapshot", "competitive_record", "event_record", "taxonomy_entity"}, limit=limit)
+            return authoritative(search_objects(objects, query, types={"meta_snapshot", "competitive_record", "event_record", "taxonomy_entity", "player_record"}, limit=limit * 2))[:limit]
     if section == "canon":
         return search_objects(objects, query, types={"canon_document", "rule_atom", "ruling_record"}, limit=limit)
     if section == "analysis":
-        return [obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 2) if obj.meta.get("status") != "draft"][:limit]
-    return search_objects(objects, query, types={"card_record", "competitive_record", "event_record", "meta_snapshot", "taxonomy_entity", "conflict_record"}, limit=limit)
+        return authoritative([obj for obj in search_objects(objects, query, scopes={"analysis"}, limit=limit * 2) if obj.meta.get("status") != "draft"])[:limit]
+    return authoritative(search_objects(objects, query, types={"card_record", "competitive_record", "event_record", "meta_snapshot", "taxonomy_entity", "conflict_record", "player_record"}, limit=limit * 2))[:limit]
 
 
 def provenance_heading(meta: dict[str, Any]) -> str:

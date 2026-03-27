@@ -10,8 +10,8 @@
     "status": "draft",
     "tags": [
       "errata",
-      "origins",
-      "official"
+      "official",
+      "origins"
     ],
     "path": "canon/errata/card-errata-set-1-origins.md",
     "scope": "canon"
@@ -26,9 +26,9 @@
     "trust_level": "official",
     "status": "reviewed",
     "tags": [
+      "official",
       "rules",
-      "starter-guide",
-      "official"
+      "starter-guide"
     ],
     "path": "canon/rules/how-to-play-ogn-starter-guide.md",
     "scope": "canon"
@@ -43,9 +43,9 @@
     "trust_level": "official",
     "status": "reviewed",
     "tags": [
-      "rules",
       "core",
-      "official"
+      "official",
+      "rules"
     ],
     "path": "canon/rules/core-rules-v1-2.md",
     "scope": "canon"
@@ -60,9 +60,9 @@
     "trust_level": "official",
     "status": "reviewed",
     "tags": [
+      "official",
       "rules",
-      "tournament",
-      "official"
+      "tournament"
     ],
     "path": "canon/tournament/tournament-rules-2025-10-16.md",
     "scope": "canon"

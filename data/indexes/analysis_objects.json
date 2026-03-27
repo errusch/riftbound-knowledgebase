@@ -9,9 +9,11 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
+      "academy-strategy",
       "derived",
-      "academy-strategy"
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc"
     ],
     "path": "analysis/reference/academy-strategy.md",
     "scope": "analysis"
@@ -26,9 +28,11 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
+      "app-flow",
       "derived",
-      "app-flow"
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc"
     ],
     "path": "analysis/reference/app-flow.md",
     "scope": "analysis"
@@ -43,8 +47,8 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "archetype",
-      "Ahri"
+      "Ahri",
+      "archetype"
     ],
     "path": "analysis/archetypes/ahri.md",
     "scope": "analysis"
@@ -59,8 +63,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "ahri",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/ahri-deck-guide-nine-tailed-fox-control.md",
@@ -76,9 +80,9 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "matchup",
       "Ahri",
-      "Kai'Sa"
+      "Kai'Sa",
+      "matchup"
     ],
     "path": "analysis/matchups/ahri-vs-kaisa.md",
     "scope": "analysis"
@@ -93,8 +97,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "ahri",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/ahri-nine-tailed-fox-guide.md",
@@ -110,8 +114,8 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "archetype",
-      "Annie"
+      "Annie",
+      "archetype"
     ],
     "path": "analysis/archetypes/annie.md",
     "scope": "analysis"
@@ -126,9 +130,9 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "matchup",
       "Annie",
-      "Kai'Sa"
+      "Kai'Sa",
+      "matchup"
     ],
     "path": "analysis/matchups/annie-vs-kaisa.md",
     "scope": "analysis"
@@ -143,8 +147,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "annie",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/annie-dark-child-starter-guide.md",
@@ -160,8 +164,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "azir",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/azir-emperor-of-the-sands-guide.md",
@@ -195,8 +199,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "sett",
-      "riftbound.gg"
+      "riftbound.gg",
+      "sett"
     ],
     "path": "analysis/guides/become-your-own-boss-with-sett-midrange-deck-guide-analysis.md",
     "scope": "analysis"
@@ -228,8 +232,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "design",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-1.md",
@@ -245,7 +251,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -262,7 +270,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -279,7 +289,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "workflow/tooling",
       "x_bookmarks"
     ],
@@ -296,7 +308,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "workflow/tooling",
       "x_bookmarks"
     ],
@@ -313,8 +327,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
       "AI-agent ops",
+      "archival-unverified",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-103.md",
@@ -330,7 +346,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "workflow/tooling",
       "x_bookmarks"
     ],
@@ -347,7 +365,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "workflow/tooling",
       "x_bookmarks"
     ],
@@ -364,8 +384,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business/offer",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-106.md",
@@ -381,8 +403,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
       "AI-agent ops",
+      "archival-unverified",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-107.md",
@@ -398,7 +422,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "workflow/tooling",
       "x_bookmarks"
     ],
@@ -415,8 +441,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business/offer",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-109.md",
@@ -432,7 +460,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -449,8 +479,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business/offer",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-110.md",
@@ -466,7 +498,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "workflow/tooling",
       "x_bookmarks"
     ],
@@ -483,7 +517,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "workflow/tooling",
       "x_bookmarks"
     ],
@@ -500,7 +536,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -517,7 +555,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -534,7 +574,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -551,7 +593,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -568,7 +612,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -585,7 +631,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -602,7 +650,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -619,7 +669,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -636,8 +688,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "design",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-2.md",
@@ -653,7 +707,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -670,8 +726,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-21.md",
@@ -687,7 +745,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -704,8 +764,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-23.md",
@@ -721,7 +783,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -738,7 +802,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -755,7 +821,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -772,7 +840,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -789,7 +859,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -806,7 +878,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -823,8 +897,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "design",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-3.md",
@@ -840,7 +916,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -857,7 +935,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -874,7 +954,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -891,7 +973,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "riftbound",
       "x_bookmarks"
     ],
@@ -908,7 +992,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -925,7 +1011,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -942,7 +1030,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -959,7 +1049,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -976,7 +1068,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -993,7 +1087,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1010,8 +1106,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "design",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-4.md",
@@ -1027,7 +1125,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1044,7 +1144,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1061,7 +1163,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1078,7 +1182,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -1095,7 +1201,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1112,7 +1220,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1129,7 +1239,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1146,7 +1258,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -1163,7 +1277,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1180,7 +1296,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -1197,8 +1315,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "design",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-5.md",
@@ -1214,7 +1334,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1231,7 +1353,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1248,7 +1372,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1265,7 +1391,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1282,8 +1410,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-54.md",
@@ -1299,7 +1429,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1316,7 +1448,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1333,8 +1467,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-57.md",
@@ -1350,7 +1486,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1367,7 +1505,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1384,7 +1524,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1401,7 +1543,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1418,7 +1562,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -1435,8 +1581,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-62.md",
@@ -1452,7 +1600,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -1469,7 +1619,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -1486,7 +1638,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1503,7 +1657,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1520,7 +1676,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1537,8 +1695,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-68.md",
@@ -1554,8 +1714,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-69.md",
@@ -1571,7 +1733,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1588,8 +1752,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-70.md",
@@ -1605,8 +1771,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-71.md",
@@ -1622,7 +1790,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1639,7 +1809,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1656,7 +1828,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -1673,7 +1847,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1690,7 +1866,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1707,7 +1885,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1724,7 +1904,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1741,7 +1923,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1758,7 +1942,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1775,7 +1961,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1792,7 +1980,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1809,7 +1999,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1826,7 +2018,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1843,7 +2037,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1860,7 +2056,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1877,7 +2075,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1894,7 +2094,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -1911,7 +2113,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1928,7 +2132,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -1945,8 +2151,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-9.md",
@@ -1962,7 +2170,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -1979,7 +2189,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -1996,7 +2208,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -2013,7 +2227,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -2030,7 +2246,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "tech",
       "x_bookmarks"
     ],
@@ -2047,7 +2265,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "other",
       "x_bookmarks"
     ],
@@ -2064,7 +2284,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -2081,7 +2303,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -2098,8 +2322,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "intel",
+      "archival-unverified",
       "business",
+      "intel",
+      "non-authoritative",
       "x_bookmarks"
     ],
     "path": "analysis/intel/bookmark-98.md",
@@ -2115,7 +2341,9 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
+      "archival-unverified",
       "intel",
+      "non-authoritative",
       "openclaw_ai",
       "x_bookmarks"
     ],
@@ -2133,8 +2361,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "content"
+      "content",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1r5jtw1.md",
     "scope": "analysis"
@@ -2150,8 +2378,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "viktor-master-yi-jax-leona-lucian-renata-glasc-teemo-rumble-yasuo-fiora-lee-sin-ornn-ahri-draven",
-      "riftbound.gg"
+      "riftbound.gg",
+      "viktor-master-yi-jax-leona-lucian-renata-glasc-teemo-rumble-yasuo-fiora-lee-sin-ornn-ahri-draven"
     ],
     "path": "analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md",
     "scope": "analysis"
@@ -2184,9 +2412,9 @@
     "status": "reviewed",
     "tags": [
       "article",
+      "community-deck-vault",
       "derived",
-      "strategy",
-      "community-deck-vault"
+      "strategy"
     ],
     "path": "analysis/articles/community-deck-vault.md",
     "scope": "analysis"
@@ -2198,12 +2426,14 @@
     "source_kind": "local_derived_doc",
     "source_path": "/Users/eric/hextech-analytics/docs/MECHANICS.md",
     "source_date": "unknown",
-    "trust_level": "derived_unverified",
+    "trust_level": "derived_verified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
-      "mechanics"
+      "game-reference",
+      "hextech-doc",
+      "mechanics",
+      "verified-summary"
     ],
     "path": "analysis/reference/mechanics.md",
     "scope": "analysis"
@@ -2218,9 +2448,11 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
-      "design-system"
+      "design-system",
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc"
     ],
     "path": "analysis/reference/design-system.md",
     "scope": "analysis"
@@ -2252,8 +2484,8 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "archetype",
-      "Darius"
+      "Darius",
+      "archetype"
     ],
     "path": "analysis/archetypes/darius.md",
     "scope": "analysis"
@@ -2268,9 +2500,9 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "matchup",
       "Darius",
-      "Kai'Sa"
+      "Kai'Sa",
+      "matchup"
     ],
     "path": "analysis/matchups/darius-vs-kaisa.md",
     "scope": "analysis"
@@ -2285,8 +2517,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "darius",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/darius-hand-of-noxus-guide.md",
@@ -2320,8 +2552,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "meta"
+      "meta",
+      "reddit"
     ],
     "path": "analysis/community/reddit--rtcg-events.md",
     "scope": "analysis"
@@ -2353,8 +2585,8 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "archetype",
-      "Draven"
+      "Draven",
+      "archetype"
     ],
     "path": "analysis/archetypes/draven.md",
     "scope": "analysis"
@@ -2369,9 +2601,9 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "matchup",
       "Draven",
-      "Kai'Sa"
+      "Kai'Sa",
+      "matchup"
     ],
     "path": "analysis/matchups/draven-vs-kaisa.md",
     "scope": "analysis"
@@ -2386,8 +2618,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/draven-glorious-executioner-guide.md",
@@ -2404,8 +2636,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "meta"
+      "meta",
+      "reddit"
     ],
     "path": "analysis/community/reddit--rtcg-exclusive.md",
     "scope": "analysis"
@@ -2420,8 +2652,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "ezreal",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/ezreal-prodigal-explorer-guide.md",
@@ -2437,9 +2669,11 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
-      "frontend-guidelines"
+      "frontend-guidelines",
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc"
     ],
     "path": "analysis/reference/frontend-guidelines.md",
     "scope": "analysis"
@@ -2454,8 +2688,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "fiora",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/fiora-grand-duelist-guide.md",
@@ -2472,8 +2706,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "content"
+      "content",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1r883k6.md",
     "scope": "analysis"
@@ -2489,8 +2723,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "discussion"
+      "discussion",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1r5s52n.md",
     "scope": "analysis"
@@ -2522,8 +2756,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "creator",
-      "YouTube"
+      "YouTube",
+      "creator"
     ],
     "path": "analysis/creators/gaming-after.md",
     "scope": "analysis"
@@ -2538,8 +2772,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "garen",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/garen-might-of-demacia-starter-guide.md",
@@ -2555,8 +2789,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "creator",
-      "YouTube"
+      "YouTube",
+      "creator"
     ],
     "path": "analysis/creators/grapplr.md",
     "scope": "analysis"
@@ -2571,9 +2805,11 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
-      "manual-signup-workflow"
+      "hextech-doc",
+      "manual-signup-workflow",
+      "non-authoritative",
+      "non-game-doc"
     ],
     "path": "analysis/reference/manual-signup-workflow.md",
     "scope": "analysis"
@@ -2588,9 +2824,11 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
-      "hextech-open-beta-launch-checklist"
+      "hextech-doc",
+      "hextech-open-beta-launch-checklist",
+      "non-authoritative",
+      "non-game-doc"
     ],
     "path": "analysis/reference/hextech-open-beta-launch-checklist.md",
     "scope": "analysis"
@@ -2656,9 +2894,9 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "video",
       "NovaRiftbound",
-      "m2IjrsUzXgU"
+      "m2IjrsUzXgU",
+      "video"
     ],
     "path": "analysis/videos/m2IjrsUzXgU/metadata.json",
     "scope": "analysis"
@@ -2673,9 +2911,9 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "video",
+      "m2IjrsUzXgU",
       "transcript",
-      "m2IjrsUzXgU"
+      "video"
     ],
     "path": "analysis/videos/m2IjrsUzXgU/transcript.cleaned.md",
     "scope": "analysis"
@@ -2691,8 +2929,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "discussion"
+      "discussion",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1rc92pq.md",
     "scope": "analysis"
@@ -2708,8 +2946,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "content"
+      "content",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1r9i9gk.md",
     "scope": "analysis"
@@ -2725,8 +2963,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "content"
+      "content",
+      "reddit"
     ],
     "path": "analysis/community/reddit--rtcg-deckguide.md",
     "scope": "analysis"
@@ -2759,8 +2997,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "discussion"
+      "discussion",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1r0nbbb.md",
     "scope": "analysis"
@@ -2809,8 +3047,8 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "archetype",
-      "Kai'Sa"
+      "Kai'Sa",
+      "archetype"
     ],
     "path": "analysis/archetypes/kaisa.md",
     "scope": "analysis"
@@ -2825,9 +3063,9 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "matchup",
       "Kai'Sa",
-      "Master Yi"
+      "Master Yi",
+      "matchup"
     ],
     "path": "analysis/matchups/kaisa-vs-master-yi.md",
     "scope": "analysis"
@@ -2876,9 +3114,11 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
-      "lessons"
+      "hextech-doc",
+      "lessons",
+      "non-authoritative",
+      "non-game-doc"
     ],
     "path": "analysis/reference/lessons.md",
     "scope": "analysis"
@@ -2894,8 +3134,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "discussion"
+      "discussion",
+      "reddit"
     ],
     "path": "analysis/community/reddit--tcg-q13rcb.md",
     "scope": "analysis"
@@ -2927,9 +3167,11 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
-      "legend-page-template"
+      "hextech-doc",
+      "legend-page-template",
+      "non-authoritative",
+      "non-game-doc"
     ],
     "path": "analysis/reference/legend-page-template.md",
     "scope": "analysis"
@@ -2962,8 +3204,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "content"
+      "content",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1rfvhcp.md",
     "scope": "analysis"
@@ -3012,8 +3254,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "creator",
-      "YouTube/Website"
+      "YouTube/Website",
+      "creator"
     ],
     "path": "analysis/creators/magicalmeta.md",
     "scope": "analysis"
@@ -3028,8 +3270,8 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "archetype",
-      "Master Yi"
+      "Master Yi",
+      "archetype"
     ],
     "path": "analysis/archetypes/master-yi.md",
     "scope": "analysis"
@@ -3044,9 +3286,9 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "matchup",
+      "Kai'Sa",
       "Master Yi",
-      "Kai'Sa"
+      "matchup"
     ],
     "path": "analysis/matchups/master-yi-vs-kaisa.md",
     "scope": "analysis"
@@ -3095,8 +3337,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "creator",
-      "Website"
+      "Website",
+      "creator"
     ],
     "path": "analysis/creators/mobalytics-riftbound.md",
     "scope": "analysis"
@@ -3129,8 +3371,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "discussion"
+      "discussion",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1r3tlkm.md",
     "scope": "analysis"
@@ -3146,8 +3388,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "content"
+      "content",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1r7k10f.md",
     "scope": "analysis"
@@ -3179,8 +3421,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc",
       "optimization"
     ],
     "path": "analysis/reference/optimization.md",
@@ -3214,8 +3458,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "content"
+      "content",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1qyv1xn.md",
     "scope": "analysis"
@@ -3230,8 +3474,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc",
       "prd"
     ],
     "path": "analysis/reference/prd.md",
@@ -3247,8 +3493,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc",
       "price-alerts-quickstart"
     ],
     "path": "analysis/reference/price-alerts-quickstart.md",
@@ -3264,8 +3512,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc",
       "price-monitoring-system"
     ],
     "path": "analysis/reference/price-monitoring-system.md",
@@ -3281,8 +3531,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc",
       "price-movers-component"
     ],
     "path": "analysis/reference/price-movers-component.md",
@@ -3298,8 +3550,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "creator",
-      "YouTube"
+      "YouTube",
+      "creator"
     ],
     "path": "analysis/creators/pro-play-gaming-ppg.md",
     "scope": "analysis"
@@ -3315,8 +3567,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "content"
+      "content",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1r6rnmu.md",
     "scope": "analysis"
@@ -3332,8 +3584,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "content"
+      "content",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1r4e5kk.md",
     "scope": "analysis"
@@ -3382,8 +3634,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "creator",
-      "YouTube"
+      "YouTube",
+      "creator"
     ],
     "path": "analysis/creators/riftbound-official.md",
     "scope": "analysis"
@@ -3399,8 +3651,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "viktor-teemo-ahri-jinx-annie-yasuo-miss-fortune-volibear-leona-kai-sa-lux-darius-master-yi-lee-sin-sett-garen",
-      "riftbound.gg"
+      "riftbound.gg",
+      "viktor-teemo-ahri-jinx-annie-yasuo-miss-fortune-volibear-leona-kai-sa-lux-darius-master-yi-lee-sin-sett-garen"
     ],
     "path": "analysis/guides/riftbound-budget-deck-tier-list-origins.md",
     "scope": "analysis"
@@ -3432,8 +3684,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven-kai-sa-master-yi-ornn-leona-yasuo",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/riftbound-meta-tier-list-global-release-post-chinese-regionals.md",
@@ -3483,8 +3735,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven-kai-sa-master-yi-ornn-leona",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/riftbound-meta-tier-list-post-chengdu-regional.md",
@@ -3500,8 +3752,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven-kai-sa-master-yi-leona-ornn",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/riftbound-meta-tier-list-post-dalian-regional.md",
@@ -3517,8 +3769,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven-kai-sa-ornn-leona-master-yi",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/riftbound-meta-tier-list-post-fuzhou-regional.md",
@@ -3551,8 +3803,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven-kai-sa-master-yi-leona-teemo-ornn-yasuo-viktor",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/riftbound-meta-tier-list-spiritforged-first-month.md",
@@ -3568,8 +3820,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
+      "hextech-doc",
       "rules"
     ],
     "path": "analysis/reference/rules.md",
@@ -3582,12 +3834,14 @@
     "source_kind": "local_derived_doc",
     "source_path": "/Users/eric/hextech-analytics/docs/CORE_RULES.md",
     "source_date": "unknown",
-    "trust_level": "derived_unverified",
+    "trust_level": "derived_verified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
+      "core-rules",
       "derived",
-      "core-rules"
+      "game-reference",
+      "hextech-doc",
+      "verified-summary"
     ],
     "path": "analysis/reference/core-rules.md",
     "scope": "analysis"
@@ -3602,8 +3856,8 @@
     "trust_level": "conflicted",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
+      "hextech-doc",
       "tournament-rules"
     ],
     "path": "analysis/reference/tournament-rules.md",
@@ -3637,8 +3891,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "meta"
+      "meta",
+      "reddit"
     ],
     "path": "analysis/community/reddit--tcg-oxptah.md",
     "scope": "analysis"
@@ -3653,8 +3907,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "creator",
-      "Website"
+      "Website",
+      "creator"
     ],
     "path": "analysis/creators/riftbound-gg.md",
     "scope": "analysis"
@@ -3669,8 +3923,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "creator",
-      "Website"
+      "Website",
+      "creator"
     ],
     "path": "analysis/creators/riftboundstats.md",
     "scope": "analysis"
@@ -3686,8 +3940,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "rumble",
-      "riftbound.gg"
+      "riftbound.gg",
+      "rumble"
     ],
     "path": "analysis/guides/rumble-mechanized-menace-guide.md",
     "scope": "analysis"
@@ -3702,8 +3956,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc",
       "set-strategy"
     ],
     "path": "analysis/reference/set-strategy.md",
@@ -3720,8 +3976,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "sett",
-      "riftbound.gg"
+      "riftbound.gg",
+      "sett"
     ],
     "path": "analysis/guides/sett-the-boss-guide.md",
     "scope": "analysis"
@@ -3737,8 +3993,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "sivir",
-      "riftbound.gg"
+      "riftbound.gg",
+      "sivir"
     ],
     "path": "analysis/guides/sivir-battle-mistress-guide.md",
     "scope": "analysis"
@@ -3753,8 +4009,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "creator",
-      "YouTube"
+      "YouTube",
+      "creator"
     ],
     "path": "analysis/creators/snnuy.md",
     "scope": "analysis"
@@ -3803,8 +4059,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven-yasuo-ezreal",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/spiritforged-best-cards-synergies-chaos-domain-guide.md",
@@ -3820,8 +4076,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/spiritforged-best-cards-synergies-fury-domain-guide.md",
@@ -3855,8 +4111,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "viktor-fiora-soraka-renata-glasc",
-      "riftbound.gg"
+      "riftbound.gg",
+      "viktor-fiora-soraka-renata-glasc"
     ],
     "path": "analysis/guides/spiritforged-best-cards-synergies-order-domain-guide.md",
     "scope": "analysis"
@@ -3871,8 +4127,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven-ornn-yasuo",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/spiritforged-best-early-combos-synergies.md",
@@ -3888,8 +4144,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/spiritforged-city-challenge-first-week-crowns-draven-as-early-meta-king.md",
@@ -3905,8 +4161,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven-kai-sa-ornn-leona",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/spiritforged-first-tournaments-in-china-new-meta-decks.md",
@@ -3923,8 +4179,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "content"
+      "content",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1qyfpfr.md",
     "scope": "analysis"
@@ -3941,8 +4197,8 @@
     "tags": [
       "article",
       "derived",
-      "strategy",
-      "spiritforged-sealed-101"
+      "spiritforged-sealed-101",
+      "strategy"
     ],
     "path": "analysis/articles/spiritforged-sealed-101.md",
     "scope": "analysis"
@@ -3959,8 +4215,8 @@
     "tags": [
       "article",
       "derived",
-      "strategy",
-      "spiritforged-week-0-meta"
+      "spiritforged-week-0-meta",
+      "strategy"
     ],
     "path": "analysis/articles/spiritforged-week-0-meta.md",
     "scope": "analysis"
@@ -3975,9 +4231,11 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
+      "batch-fetch-usage",
       "derived",
-      "batch-fetch-usage"
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc"
     ],
     "path": "analysis/reference/batch-fetch-usage.md",
     "scope": "analysis"
@@ -3994,8 +4252,8 @@
     "tags": [
       "article",
       "derived",
-      "strategy",
-      "state-of-spiritforged"
+      "state-of-spiritforged",
+      "strategy"
     ],
     "path": "analysis/articles/state-of-spiritforged.md",
     "scope": "analysis"
@@ -4010,8 +4268,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "guide",
       "draven",
+      "guide",
       "riftbound.gg"
     ],
     "path": "analysis/guides/state-of-the-game-february-2026.md",
@@ -4044,8 +4302,10 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "hextech-doc",
       "derived",
+      "hextech-doc",
+      "non-authoritative",
+      "non-game-doc",
       "tech-stack"
     ],
     "path": "analysis/reference/tech-stack.md",
@@ -4062,8 +4322,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "teemo",
-      "riftbound.gg"
+      "riftbound.gg",
+      "teemo"
     ],
     "path": "analysis/guides/teemo-swift-scout-guide.md",
     "scope": "analysis"
@@ -4080,8 +4340,8 @@
     "tags": [
       "article",
       "derived",
-      "strategy",
-      "spiritforged-budget-guide"
+      "spiritforged-budget-guide",
+      "strategy"
     ],
     "path": "analysis/articles/spiritforged-budget-guide.md",
     "scope": "analysis"
@@ -4113,8 +4373,8 @@
     "trust_level": "derived_unverified",
     "status": "reviewed",
     "tags": [
-      "creator",
-      "YouTube"
+      "YouTube",
+      "creator"
     ],
     "path": "analysis/creators/thevvtheory.md",
     "scope": "analysis"
@@ -4147,8 +4407,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "viktor",
-      "riftbound.gg"
+      "riftbound.gg",
+      "viktor"
     ],
     "path": "analysis/guides/viktor-deck-guide-mono-order-herald-of-the-arcane.md",
     "scope": "analysis"
@@ -4164,8 +4424,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "viktor",
-      "riftbound.gg"
+      "riftbound.gg",
+      "viktor"
     ],
     "path": "analysis/guides/viktor-herald-of-the-arcane-guide.md",
     "scope": "analysis"
@@ -4181,8 +4441,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "volibear",
-      "riftbound.gg"
+      "riftbound.gg",
+      "volibear"
     ],
     "path": "analysis/guides/volibear-relentless-storm-guide.md",
     "scope": "analysis"
@@ -4198,8 +4458,8 @@
     "status": "reviewed",
     "tags": [
       "community",
-      "reddit",
-      "discussion"
+      "discussion",
+      "reddit"
     ],
     "path": "analysis/community/reddit--1r6xhla.md",
     "scope": "analysis"
@@ -4215,8 +4475,8 @@
     "status": "reviewed",
     "tags": [
       "guide",
-      "yasuo",
-      "riftbound.gg"
+      "riftbound.gg",
+      "yasuo"
     ],
     "path": "analysis/guides/yasuo-unforgiven-guide.md",
     "scope": "analysis"
@@ -4231,9 +4491,9 @@
     "trust_level": "derived_unverified",
     "status": "linked",
     "tags": [
-      "video",
+      "m2IjrsUzXgU",
       "review",
-      "m2IjrsUzXgU"
+      "video"
     ],
     "path": "analysis/videos/m2IjrsUzXgU/review.md",
     "scope": "analysis"

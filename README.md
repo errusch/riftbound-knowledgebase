@@ -88,6 +88,12 @@ scripts/validate/run_regression_tests
 - `kb report quality` surfaces draft objects, derived-unverified buckets, and conflict topics for review.
 - `kb publish` writes downstream outbox payloads for GitHub, Notion, or Linear without changing the repo's source-of-truth policy.
 
+## Trust Policy
+
+- Local trust overrides live in `data/taxonomy/trust_policy.json`.
+- Promoted summaries can move from `derived_unverified` to `derived_verified` only through this local policy layer.
+- Noisy legacy surfaces such as bookmark intel, archival meta-tier snapshots, and unresolved player records are tagged and downranked rather than deleted.
+
 ## Agent Ops
 
 - `scripts/ops/kb_ops daily` refreshes generated local artifacts and emits an ops summary.

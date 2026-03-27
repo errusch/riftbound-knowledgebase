@@ -125,6 +125,20 @@ class KBRegressionTests(unittest.TestCase):
         self.assertIn("canon.errata-set-1-origins", draft_ids)
         topics = {item["topic"] for item in report.get("conflicted_by_topic", [])}
         self.assertIn("tournament", topics)
+        self.assertIn("active_review_queue", report)
+        self.assertIn("quarantined_objects", report)
+
+    def test_trust_policy_promotes_and_quarantines_expected_objects(self) -> None:
+        objects = {item["id"]: item for item in load_json(ROOT / "data" / "indexes" / "all_objects.json", [])}
+        self.assertEqual("derived_verified", objects["analysis.reference.core-rules"]["trust_level"])
+        self.assertEqual("derived_verified", objects["analysis.reference.mechanics"]["trust_level"])
+        player_tags = set(objects["player.draven"].get("tags", []))
+        self.assertTrue({"quarantined", "non-authoritative", "low-confidence"}.issubset(player_tags))
+
+    def test_definition_query_prefers_game_reference_over_product_docs(self) -> None:
+        output = run_kb("ask", "What does [M] mean in Riftbound?")
+        self.assertIn("analysis.reference.mechanics", output)
+        self.assertNotIn("analysis.reference.app-flow", output)
 
     def test_indexes_do_not_reference_ignored_duplicate_repo(self) -> None:
         duplicate_root = str(IGNORED_DUPLICATE_ROOT)
