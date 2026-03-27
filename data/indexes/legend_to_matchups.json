@@ -5,24 +5,19 @@
     "analysis.matchup.darius-vs-kaisa",
     "analysis.matchup.draven-vs-kaisa",
     "analysis.matchup.kaisa-vs-master-yi",
-    "analysis.matchup.master-yi-vs-kaisa"
+    "analysis.matchup.leona-vs-kaisa"
   ],
   "Annie": [
     "analysis.matchup.ahri-vs-kaisa",
     "analysis.matchup.annie-vs-kaisa",
     "analysis.matchup.darius-vs-kaisa",
-    "analysis.matchup.draven-vs-kaisa",
-    "analysis.matchup.master-yi-vs-kaisa"
+    "analysis.matchup.draven-vs-kaisa"
   ],
   "Darius": [
-    "analysis.matchup.ahri-vs-kaisa",
-    "analysis.matchup.annie-vs-kaisa",
     "analysis.matchup.darius-vs-kaisa",
-    "analysis.matchup.draven-vs-kaisa",
-    "analysis.matchup.master-yi-vs-kaisa"
+    "analysis.matchup.draven-vs-kaisa"
   ],
   "Draven": [
-    "analysis.matchup.ahri-vs-kaisa",
     "analysis.matchup.annie-vs-kaisa",
     "analysis.matchup.darius-vs-kaisa",
     "analysis.matchup.draven-vs-kaisa"
@@ -33,10 +28,21 @@
     "analysis.matchup.darius-vs-kaisa",
     "analysis.matchup.draven-vs-kaisa",
     "analysis.matchup.kaisa-vs-master-yi",
+    "analysis.matchup.leona-vs-kaisa",
     "analysis.matchup.master-yi-vs-kaisa"
+  ],
+  "Leona": [
+    "analysis.matchup.leona-vs-kaisa"
   ],
   "Master Yi": [
     "analysis.matchup.kaisa-vs-master-yi",
     "analysis.matchup.master-yi-vs-kaisa"
+  ],
+  "Sett": [
+    "analysis.matchup.annie-vs-kaisa",
+    "analysis.matchup.leona-vs-kaisa"
+  ],
+  "Viktor": [
+    "analysis.matchup.ahri-vs-kaisa"
   ]
 }

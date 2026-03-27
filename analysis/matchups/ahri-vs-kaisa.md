@@ -14,18 +14,38 @@ tags:
 ---
 
 ## Evidence Base
+- analysis.guide.ahri-nine-tailed-fox-guide [legacy local; analysis/guides/ahri-nine-tailed-fox-guide.md]
+- analysis.guide.kai-sa-daughter-of-the-void-guide [legacy local; analysis/guides/kai-sa-daughter-of-the-void-guide.md]
+- analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers [legacy local; analysis/guides/kai-sa-daughter-of-the-void-deck-in-numbers.md]
 - analysis.guide.ahri-deck-guide-nine-tailed-fox-control [legacy local; analysis/guides/ahri-deck-guide-nine-tailed-fox-control.md]
 - analysis.guide.budget-riftbound-guide-best-cheap-decks-spiritforged [legacy local; analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md]
 - analysis.guide.riftbound-budget-deck-tier-list-origins [legacy local; analysis/guides/riftbound-budget-deck-tier-list-origins.md]
 - analysis.guide.riftbound-meta-tier-list-august-29th-2025 [legacy local; analysis/guides/riftbound-meta-tier-list-august-29th-2025.md]
 - analysis.guide.riftbound-meta-tier-list-origins [legacy local; analysis/guides/riftbound-meta-tier-list-origins.md]
-- analysis.guide.riftbound-meta-tier-list-origins-global-release-week-6 [legacy local; analysis/guides/riftbound-meta-tier-list-origins-global-release-week-6.md]
-- analysis.guide.riftbound-meta-tier-list-september-24th-2025 [legacy local; analysis/guides/riftbound-meta-tier-list-september-24th-2025.md]
 - analysis.matchup.ahri-vs-kaisa [derived local; analysis/matchups/ahri-vs-kaisa.md]
-- analysis.matchup.annie-vs-kaisa [derived local; analysis/matchups/annie-vs-kaisa.md]
-- analysis.matchup.darius-vs-kaisa [derived local; analysis/matchups/darius-vs-kaisa.md]
-- analysis.matchup.draven-vs-kaisa [derived local; analysis/matchups/draven-vs-kaisa.md]
-- analysis.archetype.kaisa [derived local; analysis/archetypes/kaisa.md]
+- analysis.guide.battlefields-101-attacking-and-trading-units [legacy local; analysis/guides/battlefields-101-attacking-and-trading-units.md]
+- analysis.guide.annie-dark-child-starter-guide [legacy local; analysis/guides/annie-dark-child-starter-guide.md]
+- analysis.guide.deckbuilding-101-building-your-first-riftbound-deck [legacy local; analysis/guides/deckbuilding-101-building-your-first-riftbound-deck.md]
+
+## Supported Heuristics
+- Local analysis supports Ahri as a Calm-Mind legend built around hold-oriented battlefield control.
+- Current local coverage supports Ahri as present in the meta but not one of the top verified tier-one decks.
+- Local competitive data and prep artifacts support Kai'Sa as one of the central legends in the current environment.
+- This guide is safe to summarize as a high-value local legend reference for Kai'Sa's game plan, but not for exact matchup numbers.
+- This source is safe to summarize as a local structural reference for Kai'Sa deck composition and battlefield tendencies.
+- Its strongest supported use is describing recurring local Kai'Sa deck patterns rather than claiming one exact optimal list.
+- This source is safe to summarize for battlefield structure, trading, and control concepts because those ideas align with local rules and battlefield terminology.
+- The most reliable battlefield guidance here is about location management and trading decisions, not exact matchup percentages.
+
+## Attributed but Unverified
+- analysis.guide.ahri-deck-guide-nine-tailed-fox-control [legacy local; analysis/guides/ahri-deck-guide-nine-tailed-fox-control.md]
+- analysis.guide.budget-riftbound-guide-best-cheap-decks-spiritforged [legacy local; analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md]
+- analysis.guide.riftbound-budget-deck-tier-list-origins [legacy local; analysis/guides/riftbound-budget-deck-tier-list-origins.md]
+- analysis.guide.riftbound-meta-tier-list-august-29th-2025 [legacy local; analysis/guides/riftbound-meta-tier-list-august-29th-2025.md]
+- analysis.guide.riftbound-meta-tier-list-origins [legacy local; analysis/guides/riftbound-meta-tier-list-origins.md]
+- analysis.matchup.ahri-vs-kaisa [derived local; analysis/matchups/ahri-vs-kaisa.md]
+- analysis.reference.mechanics [derived local; analysis/reference/mechanics.md]
+- analysis.reference.core-rules [derived local; analysis/reference/core-rules.md]
 
 ## Battlefield Considerations
 - Blind Obelisk
@@ -37,6 +57,16 @@ tags:
 - Windswept Hillock
 
 ## Open Questions
+- Verify: specific Viktor matchup percentages
+- Verify: finalized champion package choices
+- Verify: exact conversion rates by region
+- Verify: finalized sideboard mapping
+- Verify: single best 60-card build
+- Verify: stable battlefield percentages across all metas
+- Verify: exact deck-specific battlefield priority order
+- Verify: matchup-specific battlefield percentages
+
+## Practice Questions
 - Which battlefield orders matter most for Ahri?
 - What lines keep Ahri efficient without overcommitting?
 - Which local rulings or errata change common Ahri assumptions?

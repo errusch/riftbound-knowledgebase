@@ -8,7 +8,7 @@ SCRIPT_ROOT = Path(__file__).resolve().parents[2]
 if str(SCRIPT_ROOT) not in sys.path:
     sys.path.insert(0, str(SCRIPT_ROOT))
 
-from scripts.lib.kb_common import IGNORED_DUPLICATE_ROOT, ROOT, load_json
+from scripts.lib.kb_common import IGNORED_DUPLICATE_ROOT, ROOT, detect_conflicts, load_json
 
 
 def fail(message: str) -> None:
@@ -25,6 +25,10 @@ def main() -> None:
         "analysis.guide.kai-sa-daughter-of-the-void-guide": {"verified-guide", "legend-reference"},
         "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers": {"verified-guide", "legend-reference"},
         "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals": {"verified-guide", "meta-reference"},
+        "analysis.guide.ahri-nine-tailed-fox-guide": {"verified-guide", "legend-reference"},
+        "analysis.guide.annie-dark-child-starter-guide": {"verified-guide", "legend-reference"},
+        "analysis.guide.master-yi-wuju-bladesman-guide": {"verified-guide", "legend-reference"},
+        "analysis.guide.leona-radiant-dawn-guide": {"verified-guide", "legend-reference"},
     }
 
     required_paths = [
@@ -210,6 +214,14 @@ def main() -> None:
         guide_tags = set(guide.get("tags", []) or [])
         if not required_tags.issubset(guide_tags):
             fail(f"Expected verified guide tags for {guide_id}: missing {sorted(required_tags - guide_tags)}")
+        if not guide.get("summary_claims"):
+            fail(f"Expected non-empty summary claims for verified guide {guide_id}.")
+        if not guide.get("evidence_links"):
+            fail(f"Expected non-empty evidence links for verified guide {guide_id}.")
+        if guide.get("verification_mode") != "strict_proof":
+            fail(f"Expected strict proof verification mode for {guide_id}.")
+        if guide.get("claim_policy") != "split_claims":
+            fail(f"Expected split-claims policy for {guide_id}.")
 
     player_draven = object_map.get("player.draven", {})
     player_tags = set(player_draven.get("tags", []) or [])
@@ -230,9 +242,33 @@ def main() -> None:
         fail("Expected at least five generated prep briefs after hardening expansion.")
 
     trust_policy = load_json(ROOT / "data" / "taxonomy" / "trust_policy.json", {})
-    manifest_ids = {item.get("id") for item in trust_policy.get("verification_manifest", [])}
+    verification_manifest = {
+        item.get("id"): item
+        for item in trust_policy.get("verification_manifest", [])
+        if isinstance(item, dict) and item.get("id")
+    }
+    manifest_ids = set(verification_manifest)
     if not set(verified_guide_expectations).issubset(manifest_ids):
         fail("Trust policy verification manifest is missing one or more promoted guides.")
+    for guide_id in verified_guide_expectations:
+        record = verification_manifest.get(guide_id, {})
+        if record.get("verification_mode") != "strict_proof":
+            fail(f"Expected strict-proof manifest for {guide_id}.")
+        if record.get("claim_policy") != "split_claims":
+            fail(f"Expected split-claims manifest for {guide_id}.")
+        if not record.get("summary_claims"):
+            fail(f"Expected summary claims in verification manifest for {guide_id}.")
+        if not record.get("evidence_links"):
+            fail(f"Expected evidence links in verification manifest for {guide_id}.")
+        if any(not isinstance(item, dict) or not item.get("claim") or not item.get("evidence_links") for item in record.get("summary_claims", [])):
+            fail(f"Expected structured claim records in verification manifest for {guide_id}.")
+        for evidence_id in record.get("evidence_links", []):
+            if evidence_id not in object_map:
+                fail(f"Expected evidence link {evidence_id} to resolve for {guide_id}.")
+        for claim in record.get("summary_claims", []):
+            for evidence_id in claim.get("evidence_links", []):
+                if evidence_id not in object_map:
+                    fail(f"Expected summary-claim evidence link {evidence_id} to resolve for {guide_id}.")
 
     verified_guides = quality_report.get("verified_guides", {})
     verified_objects = verified_guides.get("objects", [])
@@ -249,6 +285,12 @@ def main() -> None:
     }
     if active_review_ids.intersection(verified_guide_expectations):
         fail("Promoted verified guides should not remain in the active review queue.")
+
+    for guide_id in verified_guide_expectations:
+        guide_path = ROOT / object_map[guide_id]["path"]
+        guide_body = guide_path.read_text(encoding="utf-8")
+        if detect_conflicts(guide_body):
+            fail(f"Verified guide {guide_id} should not trip local conflict rules.")
 
     print("Validation passed.")
 

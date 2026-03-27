@@ -1,23 +1,23 @@
 ---
-id: analysis.archetype.master-yi
+id: analysis.archetype.leona
 type: analysis_note
-title: Master Yi Archetype Brief
+title: Leona Archetype Brief
 source_kind: generated_local_prep
-source_path: /Users/eric/Documents/Playground/analysis/archetypes/master-yi.md
+source_path: /Users/eric/Documents/Playground/analysis/archetypes/leona.md
 source_date: 2026-03-27
 trust_level: derived_unverified
 status: linked
 tags:
   - archetype
-  - Master Yi
+  - Leona
 ---
 
 ## Summary
-Generated prep surface for Master Yi.
+Generated prep surface for Leona.
 
 ## Supported Heuristics
-- Local analysis supports Master Yi as a Body-Calm legend with a hold-oriented plan and strong single-defender incentives.
-- Current local competitive coverage keeps Master Yi relevant, but not as an unquestioned top-tier deck.
+- Local analysis supports Leona as an Order-Calm legend built around stun pressure and showdown leverage.
+- Current local data supports Leona as a real meta presence, but not a deck the KB should overstate as solved or top tier.
 - Local competitive data and prep artifacts support Kai'Sa as one of the central legends in the current environment.
 - This guide is safe to summarize as a high-value local legend reference for Kai'Sa's game plan, but not for exact matchup numbers.
 - This source is safe to summarize as a local structural reference for Kai'Sa deck composition and battlefield tendencies.
@@ -26,13 +26,11 @@ Generated prep surface for Master Yi.
 - Its strongest supported use is highlighting which legends repeatedly appear in local competitive coverage.
 
 ## Recent Lists
-- Best Master Yi from Bologna (Bologna Regional Qualifier, placement Top 16)
-- Best of Master Yi Vegas (Vegas Regional Qualifier, placement Top 32)
-- Master Yi Rank 2 Deck National Open Shanghai (Shanghai National Open, placement Runner-Up)
-- Master Yi, Wuju Bladesman by Challenger TCG (Houston Regional Qualifiers Rank 2) (Houston Regional Qualifier, placement Top 4)
-- wojtek - Master Yi, Wuju Bladesman (official list, placement 13)
-- Blargh1111 - Master Yi, Wuju Bladesman (official list, placement 2)
-- Clyde - Master Yi, Wuju Bladesman (official list, placement 6)
+- Best Leona from Bologna (Bologna Regional Qualifier, placement #320)
+- Leona - Radiant Dawn Deck by Frodan (Best of Leona Houston Regional Qualifiers) (Houston Regional Qualifier, placement #234)
+- Leona by Lafinte (Vegas Regional Qualifier, placement #263)
+- Daakkotah97 - Leona, Radiant Dawn (official list, placement 320)
+- Frodan - Leona, Radiant Dawn (official list, placement 234)
 
 ## Concepts
 - battlefield order
@@ -45,23 +43,22 @@ Generated prep surface for Master Yi.
 ## Attributed but Unverified
 - analysis.guide.budget-riftbound-guide-best-cheap-decks-spiritforged [legacy local; analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md]
 - analysis.guide.riftbound-budget-deck-tier-list-origins [legacy local; analysis/guides/riftbound-budget-deck-tier-list-origins.md]
-- analysis.guide.riftbound-meta-tier-list-august-29th-2025 [legacy local; analysis/guides/riftbound-meta-tier-list-august-29th-2025.md]
-- analysis.guide.riftbound-meta-tier-list-origins [legacy local; analysis/guides/riftbound-meta-tier-list-origins.md]
-- analysis.guide.riftbound-meta-tier-list-origins-global-release-week-6 [legacy local; analysis/guides/riftbound-meta-tier-list-origins-global-release-week-6.md]
 - analysis.guide.riftbound-meta-tier-list-post-chengdu-regional [legacy local; analysis/guides/riftbound-meta-tier-list-post-chengdu-regional.md]
 - analysis.guide.riftbound-meta-tier-list-post-dalian-regional [legacy local; analysis/guides/riftbound-meta-tier-list-post-dalian-regional.md]
-- analysis.matchup.kaisa-vs-master-yi [derived local; analysis/matchups/kaisa-vs-master-yi.md]
+- analysis.matchup.leona-vs-kaisa [derived local; analysis/matchups/leona-vs-kaisa.md]
+- analysis.reference.mechanics [derived local; analysis/reference/mechanics.md]
+- analysis.reference.core-rules [derived local; analysis/reference/core-rules.md]
 
 ## Citations
-- analysis.guide.master-yi-wuju-bladesman-guide [legacy local; analysis/guides/master-yi-wuju-bladesman-guide.md]
+- analysis.guide.leona-radiant-dawn-guide [legacy local; analysis/guides/leona-radiant-dawn-guide.md]
 - analysis.guide.kai-sa-daughter-of-the-void-guide [legacy local; analysis/guides/kai-sa-daughter-of-the-void-guide.md]
 - analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers [legacy local; analysis/guides/kai-sa-daughter-of-the-void-deck-in-numbers.md]
 - analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals [legacy local; analysis/guides/riftbound-meta-tier-list-global-release-post-chinese-regionals.md]
 - analysis.guide.budget-riftbound-guide-best-cheap-decks-spiritforged [legacy local; analysis/guides/budget-riftbound-guide-best-cheap-decks-spiritforged.md]
 - analysis.guide.riftbound-budget-deck-tier-list-origins [legacy local; analysis/guides/riftbound-budget-deck-tier-list-origins.md]
-- analysis.guide.riftbound-meta-tier-list-august-29th-2025 [legacy local; analysis/guides/riftbound-meta-tier-list-august-29th-2025.md]
-- analysis.guide.riftbound-meta-tier-list-origins [legacy local; analysis/guides/riftbound-meta-tier-list-origins.md]
-- analysis.guide.riftbound-meta-tier-list-origins-global-release-week-6 [legacy local; analysis/guides/riftbound-meta-tier-list-origins-global-release-week-6.md]
 - analysis.guide.riftbound-meta-tier-list-post-chengdu-regional [legacy local; analysis/guides/riftbound-meta-tier-list-post-chengdu-regional.md]
 - analysis.guide.riftbound-meta-tier-list-post-dalian-regional [legacy local; analysis/guides/riftbound-meta-tier-list-post-dalian-regional.md]
-- analysis.matchup.kaisa-vs-master-yi [derived local; analysis/matchups/kaisa-vs-master-yi.md]
+- analysis.matchup.leona-vs-kaisa [derived local; analysis/matchups/leona-vs-kaisa.md]
+- analysis.guide.battlefields-101-attacking-and-trading-units [legacy local; analysis/guides/battlefields-101-attacking-and-trading-units.md]
+- analysis.guide.ahri-nine-tailed-fox-guide [legacy local; analysis/guides/ahri-nine-tailed-fox-guide.md]
+- analysis.guide.deckbuilding-101-building-your-first-riftbound-deck [legacy local; analysis/guides/deckbuilding-101-building-your-first-riftbound-deck.md]

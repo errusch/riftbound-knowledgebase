@@ -94,6 +94,7 @@ scripts/validate/run_regression_tests
 - Promoted summaries can move from `derived_unverified` to `derived_verified` only through this local policy layer.
 - The first verified guide pack is policy-driven, not file-edited, and currently covers fundamentals plus a small high-value Draven/Kai'Sa/meta set.
 - `trust_policy.json` also carries a `verification_manifest` so each promoted guide records why it was eligible for `derived_verified`.
+- Verified guides now use a strict-proof, split-claims model: only structured summary claims may drive retrieval snippets, while weaker topics stay visible as unsupported or attributed context.
 - Noisy legacy surfaces such as bookmark intel, archival meta-tier snapshots, and unresolved player records are tagged and downranked rather than deleted.
 
 ## Agent Ops

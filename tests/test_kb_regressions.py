@@ -75,6 +75,8 @@ class KBRegressionTests(unittest.TestCase):
         for section in fixture["required_sections"]:
             self.assertIn(section, output)
             self.assertNotIn(f"{section}\n- none", output)
+        self.assertIn("Attributed but Unverified", output)
+        self.assertIn("Open Questions", output)
         for citation in fixture["required_citations"]:
             self.assertIn(citation, output)
         self.assertIn("Which battlefield orders matter most for Draven?", output)
@@ -87,7 +89,8 @@ class KBRegressionTests(unittest.TestCase):
             self.assertIn(phrase, output)
         for fragment in fixture["required_list_fragments"]:
             self.assertIn(fragment, output)
-        self.assertIn("Supporting Sources", output)
+        self.assertIn("Verified References", output)
+        self.assertIn("Unverified Support", output)
         for object_id in fixture["required_supporting_ids"]:
             self.assertIn(object_id, output)
 
@@ -131,9 +134,11 @@ class KBRegressionTests(unittest.TestCase):
         self.assertIn("quarantined_objects", report)
         verified_guides = report.get("verified_guides", {})
         verified_ids = {item["id"] for item in verified_guides.get("objects", [])}
-        self.assertGreaterEqual(verified_guides.get("count", 0), 8)
+        self.assertGreaterEqual(verified_guides.get("count", 0), 12)
         self.assertIn("analysis.guide.draven-glorious-executioner-guide", verified_ids)
         self.assertIn("analysis.guide.kai-sa-daughter-of-the-void-guide", verified_ids)
+        self.assertIn("analysis.guide.ahri-nine-tailed-fox-guide", verified_ids)
+        self.assertIn("analysis.guide.leona-radiant-dawn-guide", verified_ids)
         active_review_ids = {
             item["id"]
             for items in report.get("active_review_queue", {}).values()
@@ -141,6 +146,8 @@ class KBRegressionTests(unittest.TestCase):
         }
         self.assertNotIn("analysis.guide.draven-glorious-executioner-guide", active_review_ids)
         self.assertNotIn("analysis.guide.kai-sa-daughter-of-the-void-guide", active_review_ids)
+        self.assertNotIn("analysis.guide.ahri-nine-tailed-fox-guide", active_review_ids)
+        self.assertNotIn("analysis.guide.leona-radiant-dawn-guide", active_review_ids)
 
     def test_trust_policy_promotes_and_quarantines_expected_objects(self) -> None:
         objects = {item["id"]: item for item in load_json(ROOT / "data" / "indexes" / "all_objects.json", [])}
@@ -155,8 +162,16 @@ class KBRegressionTests(unittest.TestCase):
             "analysis.guide.kai-sa-daughter-of-the-void-guide",
             "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers",
             "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals",
+            "analysis.guide.ahri-nine-tailed-fox-guide",
+            "analysis.guide.annie-dark-child-starter-guide",
+            "analysis.guide.master-yi-wuju-bladesman-guide",
+            "analysis.guide.leona-radiant-dawn-guide",
         ]:
             self.assertEqual("derived_verified", objects[guide_id]["trust_level"])
+            self.assertEqual("strict_proof", objects[guide_id]["verification_mode"])
+            self.assertEqual("split_claims", objects[guide_id]["claim_policy"])
+            self.assertTrue(objects[guide_id]["summary_claims"])
+            self.assertTrue(objects[guide_id]["evidence_links"])
         player_tags = set(objects["player.draven"].get("tags", []))
         self.assertTrue({"quarantined", "non-authoritative", "low-confidence"}.issubset(player_tags))
         self.assertEqual("conflicted", objects["analysis.reference.tournament-rules"]["trust_level"])
@@ -192,6 +207,24 @@ class KBRegressionTests(unittest.TestCase):
             "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers" in output
             or "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals" in output
         )
+
+    def test_meta_query_surfaces_verified_v2_legend_source(self) -> None:
+        output = run_kb("meta", "--legend", "Master Yi")
+        self.assertIn("Verified References", output)
+        self.assertIn("analysis.guide.master-yi-wuju-bladesman-guide", output)
+
+    def test_source_query_exposes_guide_verification_record(self) -> None:
+        payload = json.loads(run_kb("source", "analysis.guide.ahri-nine-tailed-fox-guide"))
+        self.assertEqual("derived_verified", payload["meta"]["trust_level"])
+        self.assertEqual("strict_proof", payload["verification"]["verification_mode"])
+        self.assertEqual("split_claims", payload["verification"]["claim_policy"])
+        self.assertTrue(payload["verification"]["summary_claims"])
+        self.assertTrue(payload["verification"]["evidence_links"])
+
+    def test_low_support_prompt_emits_uncertainty_note(self) -> None:
+        output = run_kb("ask", "What is the exact mulligan plan for Leona into Viktor?")
+        self.assertIn("Support Note", output)
+        self.assertIn("not a verified conclusion", output)
 
     def test_indexes_do_not_reference_ignored_duplicate_repo(self) -> None:
         duplicate_root = str(IGNORED_DUPLICATE_ROOT)

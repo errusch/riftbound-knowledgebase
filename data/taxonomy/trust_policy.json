@@ -89,71 +89,440 @@
         "verified-guide",
         "meta-reference"
       ]
+    },
+    {
+      "id": "analysis.guide.ahri-nine-tailed-fox-guide",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "legend-reference"
+      ]
+    },
+    {
+      "id": "analysis.guide.annie-dark-child-starter-guide",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "legend-reference"
+      ]
+    },
+    {
+      "id": "analysis.guide.master-yi-wuju-bladesman-guide",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "legend-reference"
+      ]
+    },
+    {
+      "id": "analysis.guide.leona-radiant-dawn-guide",
+      "trust_level": "derived_verified",
+      "status": "reviewed",
+      "add_tags": [
+        "verified-guide",
+        "legend-reference"
+      ]
     }
   ],
   "verification_manifest": [
     {
       "id": "analysis.guide.deckbuilding-101-building-your-first-riftbound-deck",
-      "evidence": [
-        "canon/rules-aligned",
-        "no known conflict hits",
-        "corroborated by local core-rules and starter-guide deck construction rules"
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "A local beginner deck baseline uses a 40-card Main Deck, a 12-card Rune Pool, 3 Battlefields, and either no sideboard or an 8-card sideboard.",
+          "evidence_links": [
+            "canon.how-to-play-ogn-starter-guide",
+            "analysis.reference.core-rules"
+          ]
+        },
+        {
+          "claim": "Deckbuilding guidance in this source is safe to summarize only at the structural level, not as a card-by-card optimization guide.",
+          "evidence_links": [
+            "canon.how-to-play-ogn-starter-guide",
+            "analysis.reference.core-rules"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "best first legend choice",
+        "format-specific sideboard heuristics"
+      ],
+      "evidence_links": [
+        "canon.how-to-play-ogn-starter-guide",
+        "analysis.reference.core-rules"
       ]
     },
     {
       "id": "analysis.guide.domain-101-understanding-the-six-domains-of-riftbound",
-      "evidence": [
-        "canon/rules-aligned",
-        "no known conflict hits",
-        "corroborated by local domain identity rules and mechanics summaries"
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "This source is safe to summarize as a high-level domain identity guide rather than as a definitive competitive ranking of domains.",
+          "evidence_links": [
+            "analysis.reference.mechanics",
+            "analysis.reference.core-rules"
+          ]
+        },
+        {
+          "claim": "Its strongest supported use is explaining broad domain tendencies such as Hidden-heavy Mind play and movement-oriented Calm play.",
+          "evidence_links": [
+            "analysis.reference.mechanics",
+            "analysis.guide.movement-101-advanced-movement-ganking-and-combos"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "exact domain power ranking",
+        "meta predictions from domain identity alone"
+      ],
+      "evidence_links": [
+        "analysis.reference.mechanics",
+        "analysis.reference.core-rules",
+        "analysis.guide.movement-101-advanced-movement-ganking-and-combos"
       ]
     },
     {
       "id": "analysis.guide.battlefields-101-attacking-and-trading-units",
-      "evidence": [
-        "canon/rules-aligned",
-        "no known conflict hits",
-        "corroborated by battlefield rules atoms and local battlefield taxonomy"
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "This source is safe to summarize for battlefield structure, trading, and control concepts because those ideas align with local rules and battlefield terminology.",
+          "evidence_links": [
+            "canon.core-rules-v1-2",
+            "canon.how-to-play-ogn-starter-guide",
+            "analysis.reference.core-rules"
+          ]
+        },
+        {
+          "claim": "The most reliable battlefield guidance here is about location management and trading decisions, not exact matchup percentages.",
+          "evidence_links": [
+            "canon.core-rules-v1-2",
+            "analysis.reference.mechanics"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "exact deck-specific battlefield priority order",
+        "matchup-specific battlefield percentages"
+      ],
+      "evidence_links": [
+        "canon.core-rules-v1-2",
+        "canon.how-to-play-ogn-starter-guide",
+        "analysis.reference.core-rules",
+        "analysis.reference.mechanics"
       ]
     },
     {
       "id": "analysis.guide.movement-101-advanced-movement-ganking-and-combos",
-      "evidence": [
-        "canon/rules-aligned",
-        "no known conflict hits",
-        "corroborated by movement-related canon and local mechanics summary"
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "This source is safe to summarize for the core meaning of movement and Ganking because local rules explicitly define battlefield-to-battlefield movement.",
+          "evidence_links": [
+            "canon.core-rules-v1-2.143.4.c",
+            "canon.core-rules-v1-2.143.4.c.1",
+            "analysis.reference.mechanics"
+          ]
+        },
+        {
+          "claim": "Its strongest supported value is explaining how movement changes battlefield pressure, not promising specific combo lines in every matchup.",
+          "evidence_links": [
+            "canon.core-rules-v1-2.736",
+            "analysis.reference.mechanics"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "deck-specific combo lines",
+        "matchup-level movement sequencing"
+      ],
+      "evidence_links": [
+        "canon.core-rules-v1-2.143.4.c",
+        "canon.core-rules-v1-2.143.4.c.1",
+        "canon.core-rules-v1-2.736",
+        "analysis.reference.mechanics"
       ]
     },
     {
       "id": "analysis.guide.draven-glorious-executioner-guide",
-      "evidence": [
-        "canon/rules-aligned",
-        "no known conflict hits",
-        "corroborated by local prep artifacts, deck records, and event results"
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "Local prep and event coverage support Draven as an established competitive legend in the current knowledgebase.",
+          "evidence_links": [
+            "analysis.archetype.draven",
+            "prep_brief.draven-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        },
+        {
+          "claim": "This guide is safe to summarize at the level of Draven's proactive pressure and battlefield efficiency, not as a solved matchup bible.",
+          "evidence_links": [
+            "analysis.archetype.draven",
+            "analysis.matchup.draven-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "exact post-board plans",
+        "hard matchup percentages"
+      ],
+      "evidence_links": [
+        "analysis.archetype.draven",
+        "analysis.matchup.draven-vs-kaisa",
+        "prep_brief.draven-vs-kaisa",
+        "meta.generated.2026-03-27"
       ]
     },
     {
       "id": "analysis.guide.kai-sa-daughter-of-the-void-guide",
-      "evidence": [
-        "canon/rules-aligned",
-        "no known conflict hits",
-        "corroborated by local prep artifacts, deck records, and related analysis"
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "Local competitive data and prep artifacts support Kai'Sa as one of the central legends in the current environment.",
+          "evidence_links": [
+            "analysis.archetype.kaisa",
+            "prep_brief.draven-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        },
+        {
+          "claim": "This guide is safe to summarize as a high-value local legend reference for Kai'Sa's game plan, but not for exact matchup numbers.",
+          "evidence_links": [
+            "analysis.archetype.kaisa",
+            "analysis.matchup.draven-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "exact conversion rates by region",
+        "finalized sideboard mapping"
+      ],
+      "evidence_links": [
+        "analysis.archetype.kaisa",
+        "analysis.matchup.draven-vs-kaisa",
+        "prep_brief.draven-vs-kaisa",
+        "meta.generated.2026-03-27"
       ]
     },
     {
       "id": "analysis.guide.kai-sa-daughter-of-the-void-deck-in-numbers",
-      "evidence": [
-        "canon/rules-aligned",
-        "no known conflict hits",
-        "corroborated by local decklists, battlefields, and current meta outputs"
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "This source is safe to summarize as a local structural reference for Kai'Sa deck composition and battlefield tendencies.",
+          "evidence_links": [
+            "analysis.archetype.kaisa",
+            "analysis.matchup.kaisa-vs-master-yi",
+            "meta.generated.2026-03-27"
+          ]
+        },
+        {
+          "claim": "Its strongest supported use is describing recurring local Kai'Sa deck patterns rather than claiming one exact optimal list.",
+          "evidence_links": [
+            "analysis.archetype.kaisa",
+            "analysis.matchup.draven-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "single best 60-card build",
+        "stable battlefield percentages across all metas"
+      ],
+      "evidence_links": [
+        "analysis.archetype.kaisa",
+        "analysis.matchup.kaisa-vs-master-yi",
+        "analysis.matchup.draven-vs-kaisa",
+        "meta.generated.2026-03-27"
       ]
     },
     {
       "id": "analysis.guide.riftbound-meta-tier-list-global-release-post-chinese-regionals",
-      "evidence": [
-        "canon/rules-aligned at high level",
-        "no known conflict hits",
-        "corroborated by local meta snapshots, event bundles, and repeated prep usage"
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "This source is safe to summarize only as a high-level local meta reference, not as a universal truth source.",
+          "evidence_links": [
+            "meta.generated.2026-03-27",
+            "meta.generated.2026-03-27"
+          ]
+        },
+        {
+          "claim": "Its strongest supported use is highlighting which legends repeatedly appear in local competitive coverage.",
+          "evidence_links": [
+            "meta.generated.2026-03-27",
+            "meta.generated.2026-03-27",
+            "analysis.archetype.draven"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "global matchup spread certainty",
+        "future-proof tier ordering"
+      ],
+      "evidence_links": [
+        "meta.generated.2026-03-27",
+        "meta.generated.2026-03-27",
+        "analysis.archetype.draven"
+      ]
+    },
+    {
+      "id": "analysis.guide.ahri-nine-tailed-fox-guide",
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "Local analysis supports Ahri as a Calm-Mind legend built around hold-oriented battlefield control.",
+          "evidence_links": [
+            "analysis.archetype.ahri",
+            "analysis.matchup.ahri-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        },
+        {
+          "claim": "Current local coverage supports Ahri as present in the meta but not one of the top verified tier-one decks.",
+          "evidence_links": [
+            "analysis.archetype.ahri",
+            "prep_brief.ahri-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "specific Viktor matchup percentages",
+        "finalized champion package choices"
+      ],
+      "evidence_links": [
+        "analysis.archetype.ahri",
+        "analysis.matchup.ahri-vs-kaisa",
+        "prep_brief.ahri-vs-kaisa",
+        "meta.generated.2026-03-27"
+      ]
+    },
+    {
+      "id": "analysis.guide.annie-dark-child-starter-guide",
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "Local analysis supports Annie as a Fury-Chaos legend that pressures early battlefields and plays proactively.",
+          "evidence_links": [
+            "analysis.archetype.annie",
+            "analysis.matchup.annie-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        },
+        {
+          "claim": "Current local event coverage shows Annie is active in the meta and worth preparing for, even if the exact list details remain unsettled.",
+          "evidence_links": [
+            "analysis.archetype.annie",
+            "prep_brief.annie-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "exact signature package ranking",
+        "locked-in reactive sequencing claims"
+      ],
+      "evidence_links": [
+        "analysis.archetype.annie",
+        "analysis.matchup.annie-vs-kaisa",
+        "prep_brief.annie-vs-kaisa",
+        "meta.generated.2026-03-27"
+      ]
+    },
+    {
+      "id": "analysis.guide.master-yi-wuju-bladesman-guide",
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "Local analysis supports Master Yi as a Body-Calm legend with a hold-oriented plan and strong single-defender incentives.",
+          "evidence_links": [
+            "analysis.archetype.master-yi",
+            "analysis.matchup.master-yi-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        },
+        {
+          "claim": "Current local competitive coverage keeps Master Yi relevant, but not as an unquestioned top-tier deck.",
+          "evidence_links": [
+            "analysis.archetype.master-yi",
+            "prep_brief.master-yi-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "finalized Spiritforged upgrade package",
+        "hard counter spread claims"
+      ],
+      "evidence_links": [
+        "analysis.archetype.master-yi",
+        "analysis.matchup.master-yi-vs-kaisa",
+        "prep_brief.master-yi-vs-kaisa",
+        "meta.generated.2026-03-27"
+      ]
+    },
+    {
+      "id": "analysis.guide.leona-radiant-dawn-guide",
+      "verification_mode": "strict_proof",
+      "claim_policy": "split_claims",
+      "blocked_by_conflicts": true,
+      "summary_claims": [
+        {
+          "claim": "Local analysis supports Leona as an Order-Calm legend built around stun pressure and showdown leverage.",
+          "evidence_links": [
+            "analysis.archetype.leona",
+            "analysis.matchup.leona-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        },
+        {
+          "claim": "Current local data supports Leona as a real meta presence, but not a deck the KB should overstate as solved or top tier.",
+          "evidence_links": [
+            "analysis.archetype.leona",
+            "prep_brief.leona-vs-kaisa",
+            "meta.generated.2026-03-27"
+          ]
+        }
+      ],
+      "unsupported_claim_topics": [
+        "exact anti-control sideboard plan",
+        "settled card-for-card list optimization"
+      ],
+      "evidence_links": [
+        "analysis.archetype.leona",
+        "analysis.matchup.leona-vs-kaisa",
+        "prep_brief.leona-vs-kaisa",
+        "meta.generated.2026-03-27"
       ]
     }
   ],

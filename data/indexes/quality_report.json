@@ -18,7 +18,7 @@
   ],
   "derived_unverified_by_type": {
     "analysis_note": {
-      "count": 238,
+      "count": 236,
       "objects": [
         {
           "id": "analysis.reference.academy-strategy",
@@ -99,21 +99,6 @@
           ]
         },
         {
-          "id": "analysis.guide.ahri-nine-tailed-fox-guide",
-          "type": "analysis_note",
-          "title": "Ahri, Nine-Tailed Fox Guide",
-          "path": "analysis/guides/ahri-nine-tailed-fox-guide.md",
-          "scope": "analysis",
-          "trust_level": "derived_unverified",
-          "status": "reviewed",
-          "provenance": "legacy local",
-          "tags": [
-            "ahri",
-            "guide",
-            "riftbound.gg"
-          ]
-        },
-        {
           "id": "analysis.archetype.annie",
           "type": "analysis_note",
           "title": "Annie Archetype Brief",
@@ -140,21 +125,6 @@
             "Annie",
             "Kai'Sa",
             "matchup"
-          ]
-        },
-        {
-          "id": "analysis.guide.annie-dark-child-starter-guide",
-          "type": "analysis_note",
-          "title": "Annie, Dark Child Starter Guide",
-          "path": "analysis/guides/annie-dark-child-starter-guide.md",
-          "scope": "analysis",
-          "trust_level": "derived_unverified",
-          "status": "reviewed",
-          "provenance": "legacy local",
-          "tags": [
-            "annie",
-            "guide",
-            "riftbound.gg"
           ]
         },
         {
@@ -845,6 +815,40 @@
             "intel",
             "non-authoritative",
             "other",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.32",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 32",
+          "path": "analysis/intel/bookmark-32.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "tech",
+            "x_bookmarks"
+          ]
+        },
+        {
+          "id": "analysis.intel.bookmark.33",
+          "type": "analysis_note",
+          "title": "Bookmark Intel 33",
+          "path": "analysis/intel/bookmark-33.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "archival-unverified",
+            "intel",
+            "non-authoritative",
+            "riftbound",
             "x_bookmarks"
           ]
         }
@@ -1891,6 +1895,116 @@
         }
       ]
     },
+    "prep_brief": {
+      "count": 7,
+      "objects": [
+        {
+          "id": "prep_brief.ahri-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Ahri vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/ahri-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Ahri",
+            "Kai'Sa",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.annie-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Annie vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/annie-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Annie",
+            "Kai'Sa",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.darius-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Darius vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/darius-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Darius",
+            "Kai'Sa",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.draven-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Draven vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/draven-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Draven",
+            "Kai'Sa",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.kaisa-vs-master-yi",
+          "type": "prep_brief",
+          "title": "Kai'Sa vs Master Yi Prep Brief",
+          "path": "data/indexes/prep_briefs/kaisa-vs-master-yi.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Kai'Sa",
+            "Master Yi",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.leona-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Leona vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/leona-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Kai'Sa",
+            "Leona",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.master-yi-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Master Yi vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/master-yi-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Kai'Sa",
+            "Master Yi",
+            "prep-brief"
+          ]
+        }
+      ]
+    },
     "vod_review": {
       "count": 1,
       "objects": [
@@ -1914,7 +2028,7 @@
   },
   "active_review_queue": {
     "analysis_note": {
-      "count": 110,
+      "count": 108,
       "objects": [
         {
           "id": "analysis.archetype.ahri",
@@ -1961,21 +2075,6 @@
           ]
         },
         {
-          "id": "analysis.guide.ahri-nine-tailed-fox-guide",
-          "type": "analysis_note",
-          "title": "Ahri, Nine-Tailed Fox Guide",
-          "path": "analysis/guides/ahri-nine-tailed-fox-guide.md",
-          "scope": "analysis",
-          "trust_level": "derived_unverified",
-          "status": "reviewed",
-          "provenance": "legacy local",
-          "tags": [
-            "ahri",
-            "guide",
-            "riftbound.gg"
-          ]
-        },
-        {
           "id": "analysis.archetype.annie",
           "type": "analysis_note",
           "title": "Annie Archetype Brief",
@@ -2002,21 +2101,6 @@
             "Annie",
             "Kai'Sa",
             "matchup"
-          ]
-        },
-        {
-          "id": "analysis.guide.annie-dark-child-starter-guide",
-          "type": "analysis_note",
-          "title": "Annie, Dark Child Starter Guide",
-          "path": "analysis/guides/annie-dark-child-starter-guide.md",
-          "scope": "analysis",
-          "trust_level": "derived_unverified",
-          "status": "reviewed",
-          "provenance": "legacy local",
-          "tags": [
-            "annie",
-            "guide",
-            "riftbound.gg"
           ]
         },
         {
@@ -2601,18 +2685,32 @@
           ]
         },
         {
-          "id": "analysis.guide.leona-radiant-dawn-guide",
+          "id": "analysis.archetype.leona",
           "type": "analysis_note",
-          "title": "Leona, Radiant Dawn Guide",
-          "path": "analysis/guides/leona-radiant-dawn-guide.md",
+          "title": "Leona Archetype Brief",
+          "path": "analysis/archetypes/leona.md",
           "scope": "analysis",
           "trust_level": "derived_unverified",
-          "status": "reviewed",
-          "provenance": "legacy local",
+          "status": "linked",
+          "provenance": "derived local",
           "tags": [
-            "guide",
-            "leona",
-            "riftbound.gg"
+            "Leona",
+            "archetype"
+          ]
+        },
+        {
+          "id": "analysis.matchup.leona-vs-kaisa",
+          "type": "analysis_note",
+          "title": "Leona vs Kai'Sa",
+          "path": "analysis/matchups/leona-vs-kaisa.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Kai'Sa",
+            "Leona",
+            "matchup"
           ]
         },
         {
@@ -2659,6 +2757,20 @@
             "lux",
             "riftbound.gg"
           ]
+        },
+        {
+          "id": "analysis.creator.magicalmeta",
+          "type": "analysis_note",
+          "title": "MagicalMeta",
+          "path": "analysis/creators/magicalmeta.md",
+          "scope": "analysis",
+          "trust_level": "derived_unverified",
+          "status": "reviewed",
+          "provenance": "legacy local",
+          "tags": [
+            "YouTube/Website",
+            "creator"
+          ]
         }
       ]
     },
@@ -2696,6 +2808,116 @@
           "tags": [
             "daily",
             "ops"
+          ]
+        }
+      ]
+    },
+    "prep_brief": {
+      "count": 7,
+      "objects": [
+        {
+          "id": "prep_brief.ahri-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Ahri vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/ahri-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Ahri",
+            "Kai'Sa",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.annie-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Annie vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/annie-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Annie",
+            "Kai'Sa",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.darius-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Darius vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/darius-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Darius",
+            "Kai'Sa",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.draven-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Draven vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/draven-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Draven",
+            "Kai'Sa",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.kaisa-vs-master-yi",
+          "type": "prep_brief",
+          "title": "Kai'Sa vs Master Yi Prep Brief",
+          "path": "data/indexes/prep_briefs/kaisa-vs-master-yi.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Kai'Sa",
+            "Master Yi",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.leona-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Leona vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/leona-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Kai'Sa",
+            "Leona",
+            "prep-brief"
+          ]
+        },
+        {
+          "id": "prep_brief.master-yi-vs-kaisa",
+          "type": "prep_brief",
+          "title": "Master Yi vs Kai'Sa Prep Brief",
+          "path": "data/indexes/prep_briefs/master-yi-vs-kaisa.json",
+          "scope": "data",
+          "trust_level": "derived_unverified",
+          "status": "linked",
+          "provenance": "derived local",
+          "tags": [
+            "Kai'Sa",
+            "Master Yi",
+            "prep-brief"
           ]
         }
       ]
@@ -4584,8 +4806,42 @@
     }
   ],
   "verified_guides": {
-    "count": 8,
+    "count": 12,
     "objects": [
+      {
+        "id": "analysis.guide.ahri-nine-tailed-fox-guide",
+        "type": "analysis_note",
+        "title": "Ahri, Nine-Tailed Fox Guide",
+        "path": "analysis/guides/ahri-nine-tailed-fox-guide.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "ahri",
+          "guide",
+          "legend-reference",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
+      {
+        "id": "analysis.guide.annie-dark-child-starter-guide",
+        "type": "analysis_note",
+        "title": "Annie, Dark Child Starter Guide",
+        "path": "analysis/guides/annie-dark-child-starter-guide.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "annie",
+          "guide",
+          "legend-reference",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
       {
         "id": "analysis.guide.battlefields-101-attacking-and-trading-units",
         "type": "analysis_note",
@@ -4684,6 +4940,40 @@
           "guide",
           "kai-sa",
           "legend-reference",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
+      {
+        "id": "analysis.guide.leona-radiant-dawn-guide",
+        "type": "analysis_note",
+        "title": "Leona, Radiant Dawn Guide",
+        "path": "analysis/guides/leona-radiant-dawn-guide.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "guide",
+          "legend-reference",
+          "leona",
+          "riftbound.gg",
+          "verified-guide"
+        ]
+      },
+      {
+        "id": "analysis.guide.master-yi-wuju-bladesman-guide",
+        "type": "analysis_note",
+        "title": "Master Yi, Wuju Bladesman Guide",
+        "path": "analysis/guides/master-yi-wuju-bladesman-guide.md",
+        "scope": "analysis",
+        "trust_level": "derived_verified",
+        "status": "reviewed",
+        "provenance": "legacy local",
+        "tags": [
+          "guide",
+          "legend-reference",
+          "master-yi",
           "riftbound.gg",
           "verified-guide"
         ]

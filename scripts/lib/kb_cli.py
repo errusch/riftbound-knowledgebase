@@ -14,10 +14,14 @@ from scripts.lib.kb_graph import (
     build_meta_snapshot_payload,
     canonicalize_legend_name,
     load_object_index,
+    object_text,
     provenance_label,
     score_object,
     search_objects,
     short_snippet,
+    summary_claim_texts,
+    token_set,
+    verification_record,
     write_meta_snapshot,
 )
 from scripts.lib.kb_vod import refresh_video_artifacts
@@ -66,6 +70,33 @@ def format_citation(obj: Any) -> str:
     return f"{obj.meta.get('id')} [{badge}; {obj.path}]"
 
 
+def supported_claim_texts(obj: Any) -> list[str]:
+    return summary_claim_texts(obj.meta)
+
+
+def best_supported_claim(obj: Any, query: str, *, allow_fallback: bool = True) -> str | None:
+    claims = supported_claim_texts(obj)
+    if not claims:
+        return None
+    query_terms = token_set(query)
+    ranked: list[tuple[int, str]] = []
+    for claim in claims:
+        lowered = claim.lower()
+        score = sum(1 for term in query_terms if term in lowered)
+        ranked.append((score, claim))
+    ranked.sort(key=lambda item: (-item[0], item[1]))
+    if ranked and ranked[0][0] > 0:
+        return ranked[0][1]
+    return ranked[0][1] if ranked and allow_fallback else None
+
+
+def display_text(obj: Any, query: str) -> str:
+    claim = best_supported_claim(obj, query)
+    if claim:
+        return claim
+    return obj.body
+
+
 def official_decklist_lookup() -> dict[str, dict[str, Any]]:
     return {item["id"]: item for item in load_index("official_decklists", [])}
 
@@ -101,6 +132,18 @@ def quality_report() -> dict[str, Any]:
     return load_index("quality_report", {})
 
 
+def legend_matches_text(legend: str, text: str, tags: list[str] | None = None) -> bool:
+    lowered = text.lower()
+    variants = {
+        legend.lower(),
+        legend.lower().replace("'", ""),
+        legend.lower().replace("'", "").replace(" ", "-"),
+        legend.lower().replace(" ", "-"),
+    }
+    tag_set = {tag.lower() for tag in (tags or [])}
+    return any(variant and (variant in lowered or variant in tag_set) for variant in variants)
+
+
 def collect_legend_sources(objects: list[Any], legend: str) -> dict[str, list[Any]]:
     query = legend
     def source_rank(obj: Any) -> tuple[int, int, str]:
@@ -109,16 +152,24 @@ def collect_legend_sources(objects: list[Any], legend: str) -> dict[str, list[An
         meta_rank = 0 if "legend-reference" in tags or "meta-reference" in tags else 1
         return (verified_rank, meta_rank, obj.meta.get("title", ""))
 
-    guides = [
-        obj
-        for obj in search_objects(objects, query, scopes={"analysis"}, limit=20)
-        if obj.path.startswith("analysis/guides/") and "non-authoritative" not in set(obj.meta.get("tags", []) or [])
-    ]
+    guides = sorted(
+        [
+            obj
+            for obj in search_objects(objects, query, scopes={"analysis"}, limit=20)
+            if obj.path.startswith("analysis/guides/")
+            and "non-authoritative" not in set(obj.meta.get("tags", []) or [])
+            and legend_matches_text(legend, f"{obj.meta.get('title', '')}\n{obj.body}", obj.meta.get("tags", []))
+        ],
+        key=source_rank,
+    )
+    verified_guides = [obj for obj in guides if "verified-guide" in set(obj.meta.get("tags", []) or [])]
+    unverified_guides = [obj for obj in guides if "verified-guide" not in set(obj.meta.get("tags", []) or [])]
     articles = [
         obj
         for obj in search_objects(objects, query, scopes={"analysis"}, limit=20)
         if obj.path.startswith(("analysis/articles/", "analysis/community/", "analysis/intel/"))
         and "non-authoritative" not in set(obj.meta.get("tags", []) or [])
+        and legend_matches_text(legend, f"{obj.meta.get('title', '')}\n{obj.body}", obj.meta.get("tags", []))
     ]
     videos = [
         obj
@@ -126,9 +177,11 @@ def collect_legend_sources(objects: list[Any], legend: str) -> dict[str, list[An
         if obj.path.startswith("analysis/videos/")
         and obj.meta.get("status") in {"reviewed", "linked"}
         and "non-authoritative" not in set(obj.meta.get("tags", []) or [])
+        and legend_matches_text(legend, f"{obj.meta.get('title', '')}\n{obj.body}", obj.meta.get("tags", []))
     ]
     return {
-        "guides": sorted(guides, key=source_rank)[:8],
+        "verified_guides": verified_guides[:8],
+        "unverified_guides": unverified_guides[:8],
         "articles": articles[:8],
         "videos": videos[:8],
     }
@@ -140,7 +193,7 @@ def render_sections(title: str, objects: list[Any], query: str) -> list[str]:
         lines.append("- none")
         return lines
     for obj in objects:
-        lines.append(f"- {obj.meta.get('title')}: {short_snippet(obj.body, query)} [{format_citation(obj)}]")
+        lines.append(f"- {obj.meta.get('title')}: {short_snippet(display_text(obj, query), query)} [{format_citation(obj)}]")
     return lines
 
 
@@ -220,6 +273,8 @@ def policy_search(objects: list[Any], query: str, profile: str, section: str, li
             tags = set(obj.meta.get("tags", []) or [])
             if "game-reference" in tags:
                 score += 20
+            if "verified-summary" in tags:
+                score += 12
             if obj.path.startswith("analysis/guides/"):
                 score -= 2
             ranked.append((score, obj))
@@ -297,6 +352,68 @@ def provenance_heading(meta: dict[str, Any]) -> str:
     return f"{provenance_label(meta)}; {meta.get('trust_level', 'unknown')}; {meta.get('status', 'unknown')}"
 
 
+def is_strategy_query(question: str) -> bool:
+    lowered = question.lower()
+    return any(
+        token in lowered
+        for token in [
+            "mulligan",
+            "opening hand",
+            "game plan",
+            "plan into",
+            "plan against",
+            "sideboard",
+            "pilot",
+            "matchup",
+            "line of play",
+            "lines of play",
+            "sequencing",
+            "curve",
+        ]
+    )
+
+
+def has_strong_canon_support(objects: list[Any], query: str, profile: str) -> bool:
+    query_terms = token_set(query)
+    if not query_terms:
+        return False
+    threshold = 1 if len(query_terms) <= 2 else 2
+    for obj in objects:
+        object_type = str(obj.meta.get("type", ""))
+        if profile not in {"rule", "definition", "card"} and object_type not in {"rule_atom", "ruling_record"}:
+            continue
+        if score_object(obj, query) < 16:
+            continue
+        score = len(query_terms & token_set(object_text(obj)))
+        if score >= threshold:
+            return True
+    return False
+
+
+def has_strong_analysis_support(objects: list[Any], query: str) -> bool:
+    query_terms = token_set(query)
+    if not query_terms:
+        return False
+    threshold = 1 if len(query_terms) <= 2 else 2
+    for obj in objects:
+        trust_level = obj.meta.get("trust_level")
+        if trust_level not in {"derived_verified", "official"}:
+            continue
+        claims = supported_claim_texts(obj)
+        if not claims:
+            if score_object(obj, query) < 16:
+                continue
+            score = len(query_terms & token_set(object_text(obj)))
+            if score >= threshold:
+                return True
+            continue
+        for claim in claims:
+            score = len(query_terms & token_set(claim))
+            if score >= threshold:
+                return True
+    return False
+
+
 def cmd_ask(args: argparse.Namespace) -> int:
     ensure_graph_ready()
     objects, object_map = load_object_index()
@@ -316,6 +433,18 @@ def cmd_ask(args: argparse.Namespace) -> int:
         conflicts = [item for item in load_index("derived_conflicts", []) if query.lower() in json.dumps(item).lower()]
 
     lines = [f"Question: {args.question}", f"Profile: {profile}", ""]
+    supported_by_canon = has_strong_canon_support(canon_hits, query, profile)
+    supported_by_analysis = has_strong_analysis_support(analysis_hits, query)
+    if (is_strategy_query(args.question) and not supported_by_analysis) or (
+        not supported_by_canon and not supported_by_analysis
+    ):
+        lines.extend(
+            [
+                "Support Note",
+                "- Local evidence is limited for a direct answer here. Treat the results below as attributed context, not a verified conclusion.",
+                "",
+            ]
+        )
     lines.extend(render_sections("Canon", canon_hits, query))
     lines.append("")
     lines.extend(render_sections("Analysis", analysis_hits, query))
@@ -444,8 +573,22 @@ def cmd_meta(args: argparse.Namespace) -> int:
     else:
         lines.append("- none")
 
-    lines.extend(["", "Supporting Sources"])
-    for label, hits in sources.items():
+    lines.extend(["", "Verified References"])
+    verified_hits = sources["verified_guides"]
+    if verified_hits:
+        lines.append(f"- guides: {len(verified_hits)} local verified guides")
+        for obj in verified_hits[:3]:
+            claim = best_supported_claim(obj, legend) or obj.meta.get("title")
+            lines.append(f"  {obj.meta.get('title')}: {claim} [{format_citation(obj)}]")
+    else:
+        lines.append("- guides: 0 local verified guides")
+
+    lines.extend(["", "Unverified Support"])
+    for label, hits in {
+        "guides": sources["unverified_guides"],
+        "articles": sources["articles"],
+        "videos": sources["videos"],
+    }.items():
         if not hits:
             lines.append(f"- {label}: 0 local sources")
             continue
@@ -470,7 +613,9 @@ def build_prep_brief_payload(legend: str, opponent: str | None, event: str | Non
         meta_row = next((item for item in latest_meta.get("record", {}).get("legends", []) if item.get("legend") == legend), None)
 
     sources = collect_legend_sources(objects, legend)
-    relevant_analysis = [*sources["guides"], *sources["articles"], *sources["videos"]]
+    verified_analysis = list(sources["verified_guides"])
+    unverified_analysis = [*sources["unverified_guides"], *sources["articles"], *sources["videos"]]
+    relevant_analysis = [*verified_analysis, *unverified_analysis]
     if opponent:
         opponent_hits = search_objects(objects, f"{legend} {opponent}", scopes={"analysis"}, limit=12)
         for hit in opponent_hits:
@@ -481,20 +626,30 @@ def build_prep_brief_payload(legend: str, opponent: str | None, event: str | Non
 
     def analysis_priority(obj: Any) -> tuple[int, str]:
         text = f"{obj.meta.get('title', '')} {obj.body}".lower()
+        title = str(obj.meta.get("title", "")).lower()
         source_kind = str(obj.meta.get("source_kind", ""))
         tags = set(obj.meta.get("tags", []) or [])
         legend_hit = legend.lower() in text
         opponent_hit = opponent.lower() in text if opponent else False
-        if legend_hit and opponent_hit:
+        legend_reference = "legend-reference" in tags and legend.lower() in title
+        opponent_reference = bool(opponent) and "legend-reference" in tags and opponent.lower() in title
+        meta_reference = "meta-reference" in tags
+        if legend_reference:
             bucket = 0
-        elif opponent_hit:
+        elif opponent_reference:
             bucket = 1
-        elif legend_hit:
+        elif legend_hit and opponent_hit:
             bucket = 2
-        elif obj in opponent_hits:
+        elif meta_reference:
             bucket = 3
-        else:
+        elif opponent_hit:
             bucket = 4
+        elif legend_hit:
+            bucket = 5
+        elif obj in opponent_hits:
+            bucket = 6
+        else:
+            bucket = 7
         generated_penalty = 1 if source_kind == "generated_local_prep" else 0
         verified_penalty = 0 if "verified-guide" in tags else 1
         return (bucket, verified_penalty, generated_penalty, obj.meta.get("title", ""))
@@ -536,7 +691,25 @@ def build_prep_brief_payload(legend: str, opponent: str | None, event: str | Non
                         top_ruling_items.append(ruling)
 
     recent_lists = [deck_event_line(deck_id, object_map, official_lookup) for deck_id in related_decks[:8]]
-    heuristics = [obj.meta.get("title") for obj in relevant_analysis[:8]]
+    heuristics: list[str] = []
+    attributed_unverified: list[str] = []
+    open_questions: list[str] = []
+    for obj in relevant_analysis:
+        claims = supported_claim_texts(obj)
+        if claims:
+            for claim in claims:
+                if claim not in heuristics:
+                    heuristics.append(claim)
+            record = verification_record(obj.meta) or {}
+            for topic in record.get("unsupported_claim_topics", []):
+                question = f"Verify: {topic}"
+                if question not in open_questions:
+                    open_questions.append(question)
+        elif obj not in verified_analysis:
+            citation = format_citation(obj)
+            if citation not in attributed_unverified:
+                attributed_unverified.append(citation)
+
     practice_questions = [
         f"Which battlefield orders matter most for {legend}?",
         f"What lines keep {legend} efficient without overcommitting?",
@@ -576,7 +749,9 @@ def build_prep_brief_payload(legend: str, opponent: str | None, event: str | Non
                 item["legend"] for item in (latest_meta.get("record", {}).get("legends", []) if latest_meta else [])[:8] if item.get("legend") != legend
             ) if latest_meta else [],
             "recent_lists": recent_lists,
-            "matchup_heuristics": heuristics,
+            "matchup_heuristics": heuristics[:8],
+            "attributed_unverified": attributed_unverified[:8],
+            "open_questions": open_questions[:8],
             "unresolved_claims": [item["id"] for item in relevant_conflicts],
             "battlefields": sorted(battlefields),
             "concepts": sorted(concepts),
@@ -608,11 +783,17 @@ def write_prep_artifacts(payload: dict[str, Any]) -> tuple[Path, Path | None, Pa
             "## Summary",
             f"Generated prep surface for {legend}.",
             "",
+            "## Supported Heuristics",
+            *bullet_list(payload["record"]["matchup_heuristics"]),
+            "",
             "## Recent Lists",
             *bullet_list(payload["record"]["recent_lists"]),
             "",
             "## Concepts",
             *bullet_list(payload["record"]["concepts"]),
+            "",
+            "## Attributed but Unverified",
+            *bullet_list(payload["record"].get("attributed_unverified", [])),
             "",
             "## Citations",
             *bullet_list(payload["record"]["citations"]),
@@ -640,10 +821,19 @@ def write_prep_artifacts(payload: dict[str, Any]) -> tuple[Path, Path | None, Pa
                 "## Evidence Base",
                 *bullet_list(payload["record"]["citations"]),
                 "",
+                "## Supported Heuristics",
+                *bullet_list(payload["record"]["matchup_heuristics"]),
+                "",
+                "## Attributed but Unverified",
+                *bullet_list(payload["record"].get("attributed_unverified", [])),
+                "",
                 "## Battlefield Considerations",
                 *bullet_list(payload["record"]["battlefields"]),
                 "",
                 "## Open Questions",
+                *bullet_list(payload["record"].get("open_questions", [])),
+                "",
+                "## Practice Questions",
                 *bullet_list(payload["record"]["practice_questions"]),
             ]
         )
@@ -686,6 +876,12 @@ def cmd_prep(args: argparse.Namespace) -> int:
             "Matchup Heuristics",
             *bullet_list(payload["record"]["matchup_heuristics"]),
             "",
+            "Attributed but Unverified",
+            *bullet_list(payload["record"].get("attributed_unverified", [])),
+            "",
+            "Open Questions",
+            *bullet_list(payload["record"].get("open_questions", [])),
+            "",
             "Battlefield Considerations",
             *bullet_list(payload["record"]["battlefields"]),
             "",
@@ -709,7 +905,13 @@ def cmd_source(args: argparse.Namespace) -> int:
     obj = object_map.get(args.object_id)
     if obj is None:
         raise SystemExit(f"Unknown local object id: {args.object_id}")
-    payload = {"meta": obj.index_entry(), "provenance": provenance_label(obj.meta), "body": obj.body[:4000], "payload": obj.payload}
+    payload = {
+        "meta": obj.index_entry(),
+        "provenance": provenance_label(obj.meta),
+        "verification": verification_record(obj.meta),
+        "body": obj.body[:4000],
+        "payload": obj.payload,
+    }
     print(json.dumps(payload, indent=2, ensure_ascii=True))
     return 0
 

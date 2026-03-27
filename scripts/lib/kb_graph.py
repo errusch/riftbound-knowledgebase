@@ -23,6 +23,11 @@ OBJECT_META_FIELDS = [
     "trust_level",
     "status",
     "tags",
+    "verification_mode",
+    "claim_policy",
+    "summary_claims",
+    "unsupported_claim_topics",
+    "evidence_links",
 ]
 JSON_RECORD_EXCLUDE = {"record", "rounds", "standings", "decklists", "history", "snapshots", "cards"}
 TOKEN_RE = re.compile(r"[a-z0-9']+")
@@ -72,7 +77,7 @@ class KBObject:
     payload: dict[str, Any] | None = None
 
     def index_entry(self) -> dict[str, Any]:
-        entry = {field: self.meta.get(field) for field in OBJECT_META_FIELDS}
+        entry = {field: self.meta.get(field) for field in OBJECT_META_FIELDS if field in self.meta}
         entry["path"] = self.path
         entry["scope"] = self.scope
         return entry
@@ -92,8 +97,41 @@ def rule_matches(obj: KBObject, rule: dict[str, Any]) -> bool:
     return True
 
 
+def verification_manifest_map() -> dict[str, dict[str, Any]]:
+    policy = load_trust_policy()
+    return {
+        str(item["id"]): item
+        for item in policy.get("verification_manifest", [])
+        if isinstance(item, dict) and item.get("id")
+    }
+
+
+def verification_record(meta: dict[str, Any]) -> dict[str, Any] | None:
+    if not meta.get("verification_mode"):
+        return None
+    return {
+        "verification_mode": meta.get("verification_mode"),
+        "claim_policy": meta.get("claim_policy"),
+        "summary_claims": meta.get("summary_claims", []),
+        "unsupported_claim_topics": meta.get("unsupported_claim_topics", []),
+        "evidence_links": meta.get("evidence_links", []),
+    }
+
+
+def summary_claim_texts(meta: dict[str, Any]) -> list[str]:
+    claims = meta.get("summary_claims", []) or []
+    texts: list[str] = []
+    for claim in claims:
+        if isinstance(claim, dict) and claim.get("claim"):
+            texts.append(str(claim["claim"]))
+        elif isinstance(claim, str) and claim.strip():
+            texts.append(claim.strip())
+    return texts
+
+
 def apply_trust_policy(obj: KBObject) -> KBObject:
     policy = load_trust_policy()
+    manifest = verification_manifest_map()
     meta = dict(obj.meta)
     tags = list(meta.get("tags", []) or [])
     tag_set = set(tags)
@@ -117,6 +155,21 @@ def apply_trust_policy(obj: KBObject) -> KBObject:
             meta["status"] = rule["status"]
         for tag in rule.get("add_tags", []):
             tag_set.add(str(tag))
+
+    verification = manifest.get(obj.object_id)
+    if verification and meta.get("trust_level") == "derived_verified" and "verified-guide" in tag_set:
+        summary_claims = verification.get("summary_claims", [])
+        evidence_links = verification.get("evidence_links", [])
+        unsupported_claim_topics = verification.get("unsupported_claim_topics", [])
+        meta["verification_mode"] = verification.get("verification_mode", "strict_proof")
+        meta["claim_policy"] = verification.get("claim_policy", "split_claims")
+        meta["summary_claims"] = summary_claims
+        meta["unsupported_claim_topics"] = unsupported_claim_topics
+        meta["evidence_links"] = evidence_links
+        if verification.get("blocked_by_conflicts", True) and detect_conflicts(obj.body):
+            meta["trust_level"] = "conflicted"
+            tag_set.discard("verified-guide")
+            tag_set.add("verification-blocked")
 
     meta["tags"] = sorted(tag_set)
     return KBObject(meta=meta, path=obj.path, scope=obj.scope, body=obj.body, payload=obj.payload)
@@ -284,7 +337,7 @@ def json_objects() -> list[KBObject]:
         for path in sorted(root.rglob("*.json")):
             relative = path.relative_to(ROOT)
             rel_text = str(relative)
-            if rel_text.startswith("data/indexes/"):
+            if rel_text.startswith("data/indexes/") and not rel_text.startswith("data/indexes/prep_briefs/"):
                 continue
             if rel_text.startswith("data/taxonomy/"):
                 continue
@@ -369,7 +422,9 @@ def token_set(text: str) -> set[str]:
 def object_text(obj: KBObject) -> str:
     tags = " ".join(obj.meta.get("tags", []) or [])
     title = obj.meta.get("title", "")
-    return normalize_space(f"{title}\n{tags}\n{obj.body}")
+    claim_text = "\n".join(summary_claim_texts(obj.meta))
+    body = claim_text if claim_text and "verified-guide" in set(obj.meta.get("tags", []) or []) else obj.body
+    return normalize_space(f"{title}\n{tags}\n{body}")
 
 
 def score_object(obj: KBObject, query: str) -> int:
