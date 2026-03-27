@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-094-298",
+  "type": "card_record",
+  "title": "Sprite Call",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Mind"
+  ],
+  "record": {
+    "id": "6c8cfb4e-f74b-4d8d-aad0-9fa07c91aec6",
+    "name": "Sprite Call",
+    "riftbound_id": "ogn-094-298",
+    "tcgplayer_id": "652875",
+    "public_code": "OGN-094/298",
+    "collector_number": 94,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Action] (Play on your turn or in showdowns.)Play a ready 3 :rb_might: Sprite unit token with [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)",
+      "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Action] (Play on your turn or in showdowns.)Play a ready 3 :rb_might: Sprite unit token with [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ab3db48dcbb12b01151d3a08c2412020380b7ca5-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Sprite Call"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "sprite-call",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-094-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

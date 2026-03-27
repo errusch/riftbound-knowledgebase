@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-229-298",
+  "type": "card_record",
+  "title": "Vengeance",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Order"
+  ],
+  "record": {
+    "id": "e4a15a48-dbe9-4c68-90d4-984386e1bc9d",
+    "name": "Vengeance",
+    "riftbound_id": "ogn-229-298",
+    "tcgplayer_id": "653023",
+    "public_code": "OGN-229/298",
+    "collector_number": 229,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": 2
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "Kill a unit.",
+      "plain": "Kill a unit."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a21e2ffee47ecdd1575bf48edb8c2a84722cc6b9-744x1039.png",
+      "artist": "Max Grecke",
+      "accessibility_text": "Vengeance"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "vengeance",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-229-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

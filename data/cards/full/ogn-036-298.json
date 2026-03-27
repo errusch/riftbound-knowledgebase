@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-036-298",
+  "type": "card_record",
+  "title": "Vi, Destructive",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "fa2781a1-d145-4e16-9acb-15263bf4c2d6",
+    "name": "Vi, Destructive",
+    "riftbound_id": "ogn-036-298",
+    "tcgplayer_id": "652809",
+    "public_code": "OGN-036/298",
+    "collector_number": 36,
+    "attributes": {
+      "energy": 2,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Ganking] (I can move from battlefield to battlefield.)Recycle 1 from your trash: Give me +1 :rb_might: this turn.",
+      "plain": "[Ganking] (I can move from battlefield to battlefield.)Recycle 1 from your trash: Give me +1 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7ab52254ac49b8853fc7ae65b03aaee3f8c5994a-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Vi, Destructive"
+    },
+    "tags": [
+      "Vi",
+      "Piltover"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "vi-destructive",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-036-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

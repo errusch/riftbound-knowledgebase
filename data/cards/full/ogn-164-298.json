@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-164-298",
+  "type": "card_record",
+  "title": "Sett, Brawler",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "d17db363-58ee-4786-9b31-2cf0079b0009",
+    "name": "Sett, Brawler",
+    "riftbound_id": "ogn-164-298",
+    "tcgplayer_id": "652951",
+    "public_code": "OGN-164/298",
+    "collector_number": 164,
+    "attributes": {
+      "energy": 5,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Epic",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When I'm played and when I conquer, buff me. (If I don't have a buff, I get a +1 :rb_might: buff.)Spend my buff: Give me +4 :rb_might: this turn.",
+      "plain": "When I'm played and when I conquer, buff me. (If I don't have a buff, I get a +1 :rb_might: buff.)Spend my buff: Give me +4 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/00ddd4d478f2e49e18a60ed67f4d1452041b7da3-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Sett, Brawler"
+    },
+    "tags": [
+      "Sett",
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "sett-brawler",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-164-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

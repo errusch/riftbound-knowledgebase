@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-224-star-221",
+  "type": "card_record",
+  "title": "Aphelios, Exalted",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "c0f1f6ae-104d-4a28-94bb-b392d5ecfec8",
+    "name": "Aphelios, Exalted",
+    "riftbound_id": "sfd-224-star-221",
+    "tcgplayer_id": "666787",
+    "public_code": "SFD-224*/221",
+    "collector_number": 224,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "When you attach an Equipment to me, choose one that hasn't been chosen this turn \u2014Ready 2 runes.Channel 1 rune exhausted.Buff a friendly unit.",
+      "plain": "When you attach an Equipment to me, choose one that hasn't been chosen this turn \u2014Ready 2 runes.Channel 1 rune exhausted.Buff a friendly unit."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/58bb3f7a73a8aa38159cc63439e0483ca2574157-744x1039.png",
+      "artist": "Masaki Hsu",
+      "accessibility_text": "Aphelios, Exalted"
+    },
+    "tags": [
+      "Aphelios",
+      "Mount Targon"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "aphelios-exalted",
+      "alternate_art": false,
+      "signature": true,
+      "record_key": "sfd-224-star-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

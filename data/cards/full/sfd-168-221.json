@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-168-221",
+  "type": "card_record",
+  "title": "Vanguard Armory",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Order"
+  ],
+  "record": {
+    "id": "a1ad2a3b-1d6b-4b94-aaa9-5e7e65bff5df",
+    "name": "Vanguard Armory",
+    "riftbound_id": "sfd-168-221",
+    "tcgplayer_id": "666494",
+    "public_code": "SFD-168/221",
+    "collector_number": 168,
+    "attributes": {
+      "energy": 7,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: Play three 1 :rb_might: Recruit unit tokens. (You may play them to different locations.)",
+      "plain": ":rb_exhaust:: Play three 1 :rb_might: Recruit unit tokens. (You may play them to different locations.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4f4d735ff77ea599307e142196338d438fcedc05-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Vanguard Armory"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "vanguard-armory",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-168-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

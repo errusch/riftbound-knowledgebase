@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-289-298",
+  "type": "card_record",
+  "title": "Targon's Peak",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "77f3f0d5-9320-49c7-8d21-60a181c9c443",
+    "name": "Targon's Peak",
+    "riftbound_id": "ogn-289-298",
+    "tcgplayer_id": "653083",
+    "public_code": "OGN-289/298",
+    "collector_number": 289,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer here, ready 2 runes at the end of this turn.",
+      "plain": "When you conquer here, ready 2 runes at the end of this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6ff1b34ad231645910f670496e1662de0b545a44-1038x744.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Targon's Peak"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "targon-s-peak",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-289-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

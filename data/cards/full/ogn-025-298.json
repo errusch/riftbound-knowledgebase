@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-025-298",
+  "type": "card_record",
+  "title": "Blind Fury",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Fury"
+  ],
+  "record": {
+    "id": "6e99cb6b-1b3d-4334-83e7-e7196a4f5765",
+    "name": "Blind Fury",
+    "riftbound_id": "ogn-025-298",
+    "tcgplayer_id": "652796",
+    "public_code": "OGN-025/298",
+    "collector_number": 25,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": 2
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Each opponent reveals the top card of their Main Deck. Choose one and play it, ignoring its cost. Then recycle the rest.",
+      "plain": "[Action] (Play on your turn or in showdowns.)Each opponent reveals the top card of their Main Deck. Choose one and play it, ignoring its cost. Then recycle the rest."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d74ba4998df9348408f1400090a0b0737c675fbd-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Blind Fury"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "blind-fury",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-025-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

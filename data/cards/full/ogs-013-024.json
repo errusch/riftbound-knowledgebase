@@ -1,0 +1,63 @@
+{
+  "id": "card.ogs-013-024",
+  "type": "card_record",
+  "title": "Garen, Commander",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "7b419775-97ce-4b49-80c1-9785c7c2a3d2",
+    "name": "Garen, Commander",
+    "riftbound_id": "ogs-013-024",
+    "tcgplayer_id": "653148",
+    "public_code": "OGS-013/024",
+    "collector_number": 13,
+    "attributes": {
+      "energy": 6,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Epic",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "Other friendly units have +1 :rb_might: here.",
+      "plain": "Other friendly units have +1 :rb_might: here."
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cbf2c12d69a86566e4cda07050b2d4495e40187e-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Garen, Commander"
+    },
+    "tags": [
+      "Elite",
+      "Garen",
+      "Demacia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "garen-commander",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-013-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-227-star-221",
+  "type": "card_record",
+  "title": "Ahri, Inquisitive",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "a80aabd5-cecc-4881-9d52-217c01a90842",
+    "name": "Ahri, Inquisitive",
+    "riftbound_id": "sfd-227-star-221",
+    "tcgplayer_id": "664913",
+    "public_code": "SFD-227*/221",
+    "collector_number": 227,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When I attack or defend, give an enemy unit here -2 :rb_might: this turn, to a minimum of 1 :rb_might:.",
+      "plain": "When I attack or defend, give an enemy unit here -2 :rb_might: this turn, to a minimum of 1 :rb_might:."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/608f786c30a7e80db87d3c2d45bc0c26b0840c5e-744x1039.png",
+      "artist": "Shawn Tan",
+      "accessibility_text": "Ahri, Inquisitive"
+    },
+    "tags": [
+      "Ahri"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "ahri-inquisitive",
+      "alternate_art": false,
+      "signature": true,
+      "record_key": "sfd-227-star-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

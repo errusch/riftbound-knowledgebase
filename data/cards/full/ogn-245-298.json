@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-245-298",
+  "type": "card_record",
+  "title": "Seal of Unity",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Order"
+  ],
+  "record": {
+    "id": "f3ac7637-34dd-447a-871d-a5fb12bfb882",
+    "name": "Seal of Unity",
+    "riftbound_id": "ogn-245-298",
+    "tcgplayer_id": "653042",
+    "public_code": "OGN-245/298",
+    "collector_number": 245,
+    "attributes": {
+      "energy": 0,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_order:. (Abilities that add resources can't be reacted to.)",
+      "plain": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_order:. (Abilities that add resources can't be reacted to.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e6fbd41d69bc0d235ea7993d2e9fa74e75e17dff-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Seal of Unity"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "seal-of-unity",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-245-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

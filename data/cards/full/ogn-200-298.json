@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-200-298",
+  "type": "card_record",
+  "title": "Twisted Fate, Gambler",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "8f81fa49-de04-43c2-abeb-b39f5f2d026c",
+    "name": "Twisted Fate, Gambler",
+    "riftbound_id": "ogn-200-298",
+    "tcgplayer_id": "652991",
+    "public_code": "OGN-200/298",
+    "collector_number": 200,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When I attack, reveal the top rune of your rune deck, then recycle it. Do one of the following based on its domain:* :rb_rune_fury: \u2014 Deal 2 to an enemy unit here and 1 to all other enemy units here.* :rb_rune_mind: \u2014 Draw 1.* :rb_rune_order: \u2014 Stun an enemy unit.",
+      "plain": "When I attack, reveal the top rune of your rune deck, then recycle it. Do one of the following based on its domain:* :rb_rune_fury: \u2014 Deal 2 to an enemy unit here and 1 to all other enemy units here.* :rb_rune_mind: \u2014 Draw 1.* :rb_rune_order: \u2014 Stun an enemy unit."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9eff1a038528c4d633196f13259670d84b74c2a8-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Twisted Fate, Gambler"
+    },
+    "tags": [
+      "Twisted Fate",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "twisted-fate-gambler",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-200-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

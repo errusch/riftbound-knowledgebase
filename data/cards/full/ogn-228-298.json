@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-228-298",
+  "type": "card_record",
+  "title": "Vanguard Helm",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Order"
+  ],
+  "record": {
+    "id": "2044e450-9aaf-4260-9c4a-641fcce2180b",
+    "name": "Vanguard Helm",
+    "riftbound_id": "ogn-228-298",
+    "tcgplayer_id": "653022",
+    "public_code": "OGN-228/298",
+    "collector_number": 228,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When a buffed friendly unit dies, buff another friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
+      "plain": "When a buffed friendly unit dies, buff another friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9718c666cbf789a572760c826d0a06b26b787ae5-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Vanguard Helm"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "vanguard-helm",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-228-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

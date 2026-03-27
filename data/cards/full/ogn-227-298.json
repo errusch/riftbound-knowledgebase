@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-227-298",
+  "type": "card_record",
+  "title": "Symbol of the Solari",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Order"
+  ],
+  "record": {
+    "id": "59627882-0674-472f-bb3d-27b78f320f15",
+    "name": "Symbol of the Solari",
+    "riftbound_id": "ogn-227-298",
+    "tcgplayer_id": "653021",
+    "public_code": "OGN-227/298",
+    "collector_number": 227,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "If a combat where you are the attacker ends in a tie, recall ALL units instead. (Send them to base. This isn't a move. Ties are calculated after combat damage is dealt.)",
+      "plain": "If a combat where you are the attacker ends in a tie, recall ALL units instead. (Send them to base. This isn't a move. Ties are calculated after combat damage is dealt.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d4f746c396df48623ef8a4df763b5deb47f59339-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Symbol of the Solari"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "symbol-of-the-solari",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-227-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

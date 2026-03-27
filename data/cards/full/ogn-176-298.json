@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-176-298",
+  "type": "card_record",
+  "title": "Sneaky Deckhand",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "5e45d768-f74f-45bc-bc92-bf7e759171a9",
+    "name": "Sneaky Deckhand",
+    "riftbound_id": "ogn-176-298",
+    "tcgplayer_id": "652965",
+    "public_code": "OGN-176/298",
+    "collector_number": 176,
+    "attributes": {
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "You may play me to an open battlefield.",
+      "plain": "You may play me to an open battlefield."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6f95b6aac293d8e477192281df47d8466da502bf-744x1039.png",
+      "artist": "Dao Trong Le",
+      "accessibility_text": "Sneaky Deckhand"
+    },
+    "tags": [
+      "Pirate",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "sneaky-deckhand",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-176-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

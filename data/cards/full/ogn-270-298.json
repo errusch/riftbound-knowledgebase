@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-270-298",
+  "type": "card_record",
+  "title": "Showstopper",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Body",
+    "Order"
+  ],
+  "record": {
+    "id": "c6a260f5-9de6-4b18-a733-b5b138ae5eb4",
+    "name": "Showstopper",
+    "riftbound_id": "ogn-270-298",
+    "tcgplayer_id": "653068",
+    "public_code": "OGN-270/298",
+    "collector_number": 270,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Body",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "Buff a friendly unit in your base, then move it to a battlefield. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
+      "plain": "Buff a friendly unit in your base, then move it to a battlefield. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c9b6f7a7cca1589fb53276f74ac8bc547b31e5ec-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Showstopper"
+    },
+    "tags": [
+      "Sett"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "showstopper",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-270-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-205a-298",
+  "type": "card_record",
+  "title": "Yasuo, Windrider",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "8583b817-c02b-48f7-9253-cbc4804f4e2b",
+    "name": "Yasuo, Windrider",
+    "riftbound_id": "ogn-205a-298",
+    "tcgplayer_id": "652998",
+    "public_code": "OGN-205a/298",
+    "collector_number": 205,
+    "attributes": {
+      "energy": 5,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Ganking] (I can move from battlefield to battlefield.)The third time I move in a turn, you score 1 point.",
+      "plain": "[Ganking] (I can move from battlefield to battlefield.)The third time I move in a turn, you score 1 point."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/35f7ca6802af48585af55d23cf7675a8922d8535-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Yasuo, Windrider"
+    },
+    "tags": [
+      "Yasuo",
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "yasuo-windrider",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-205a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

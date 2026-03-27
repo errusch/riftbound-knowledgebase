@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-185-221",
+  "type": "card_record",
+  "title": "Glorious Executioner",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Legend",
+    "Fury",
+    "Chaos"
+  ],
+  "record": {
+    "id": "3f591ddb-d046-47a6-a9f6-af4486428e78",
+    "name": "Glorious Executioner",
+    "riftbound_id": "sfd-185-221",
+    "tcgplayer_id": "663442",
+    "public_code": "SFD-185/221",
+    "collector_number": 185,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Fury",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you win a combat, draw 1. (You win if only your units remain after combat.)",
+      "plain": "When you win a combat, draw 1. (You win if only your units remain after combat.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b01b2d0454ceeffdc106c4c64a390b275ebf390b-744x1039.png",
+      "artist": "Pandart Studio",
+      "accessibility_text": "Glorious Executioner"
+    },
+    "tags": [
+      "Draven"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "glorious-executioner",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-185-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

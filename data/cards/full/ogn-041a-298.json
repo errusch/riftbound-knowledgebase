@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-041a-298",
+  "type": "card_record",
+  "title": "Volibear, Furious",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "b356ac12-d64f-464c-a023-dc05832ceeb3",
+    "name": "Volibear, Furious",
+    "riftbound_id": "ogn-041a-298",
+    "tcgplayer_id": "652816",
+    "public_code": "OGN-041a/298",
+    "collector_number": 41,
+    "attributes": {
+      "energy": 10,
+      "might": 9,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)When I attack, deal 5 damage split among any number of enemy units here.",
+      "plain": "[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)When I attack, deal 5 damage split among any number of enemy units here."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/744d1b950ae7ef1e6e5b244538a6afb9802e5e3d-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Volibear, Furious"
+    },
+    "tags": [
+      "Volibear",
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "volibear-furious",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-041a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

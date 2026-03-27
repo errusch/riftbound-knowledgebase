@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-293-298",
+  "type": "card_record",
+  "title": "The Grand Plaza",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "3984ed9a-7628-4601-ac5e-23aea42254f3",
+    "name": "The Grand Plaza",
+    "riftbound_id": "ogn-293-298",
+    "tcgplayer_id": "653087",
+    "public_code": "OGN-293/298",
+    "collector_number": 293,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you hold here, if you have 7+ units here, you win the game.",
+      "plain": "When you hold here, if you have 7+ units here, you win the game."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f9ca8d04cb269ad99bca7e6dae874cad1bec336a-1038x744.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "The Grand Plaza"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "the-grand-plaza",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-293-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

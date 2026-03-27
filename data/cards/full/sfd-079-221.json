@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-079-221",
+  "type": "card_record",
+  "title": "Bard, Mercurial",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "f8b37791-19e2-4ca6-8069-92d254df96f5",
+    "name": "Bard, Mercurial",
+    "riftbound_id": "sfd-079-221",
+    "tcgplayer_id": "666442",
+    "public_code": "SFD-079/221",
+    "collector_number": 79,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "You may exhaust your legend as an additional cost to play me.When you play me, if you paid the additional cost, move any number of your units to an open battlefield.",
+      "plain": "You may exhaust your legend as an additional cost to play me.When you play me, if you paid the additional cost, move any number of your units to an open battlefield."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/edfefb81b8821f548a234d8e6d54fd072d7dc22c-744x1039.png",
+      "artist": "Caravan Studio",
+      "accessibility_text": "Bard, Mercurial"
+    },
+    "tags": [
+      "Bard"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "bard-mercurial",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-079-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

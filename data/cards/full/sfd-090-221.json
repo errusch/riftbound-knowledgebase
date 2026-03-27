@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-090-221",
+  "type": "card_record",
+  "title": "The Zero Drive",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Mind"
+  ],
+  "record": {
+    "id": "565fa461-cc9d-4179-b6fa-7f43743ca71e",
+    "name": "The Zero Drive",
+    "riftbound_id": "sfd-090-221",
+    "tcgplayer_id": "666592",
+    "public_code": "SFD-090/221",
+    "collector_number": 90,
+    "attributes": {
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Equip] :rb_energy_1::rb_rune_mind: (:rb_energy_1::rb_rune_mind:: Attach this to a unit you control.):rb_energy_3::rb_rune_mind:, Banish this: Play all units banished with this, ignoring their costs. (Use only if unattached.)",
+      "plain": "[Equip] :rb_energy_1::rb_rune_mind: (:rb_energy_1::rb_rune_mind:: Attach this to a unit you control.):rb_energy_3::rb_rune_mind:, Banish this: Play all units banished with this, ignoring their costs. (Use only if unattached.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cc80cbfa1a64ad22dc5f7df870e9206f6938f7f5-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "The Zero Drive"
+    },
+    "tags": [
+      "Equipment"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "the-zero-drive",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-090-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

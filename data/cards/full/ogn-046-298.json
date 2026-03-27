@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-046-298",
+  "type": "card_record",
+  "title": "En Garde",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Calm"
+  ],
+  "record": {
+    "id": "538c9308-b596-4ff5-872c-1bff3c205c1b",
+    "name": "En Garde",
+    "riftbound_id": "ogn-046-298",
+    "tcgplayer_id": "652822",
+    "public_code": "OGN-046/298",
+    "collector_number": 46,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Give a friendly unit +1 :rb_might: this turn, then an additional +1 :rb_might: this turn if it is the only unit you control there.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Give a friendly unit +1 :rb_might: this turn, then an additional +1 :rb_might: this turn if it is the only unit you control there."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/03c0ec7eaa5957a62869dad2a0ce40913fc874a9-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "En Garde"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "en-garde",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-046-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

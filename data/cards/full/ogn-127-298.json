@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-127-298",
+  "type": "card_record",
+  "title": "Cannon Barrage",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Body"
+  ],
+  "record": {
+    "id": "5a1de05b-a77c-45eb-ae2e-678a2738e05e",
+    "name": "Cannon Barrage",
+    "riftbound_id": "ogn-127-298",
+    "tcgplayer_id": "652911",
+    "public_code": "OGN-127/298",
+    "collector_number": 127,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Deal 2 to all enemy units in combat.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Deal 2 to all enemy units in combat."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/07ef531829e5c6084a8d31044ebd783a9266f59e-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Cannon Barrage"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "cannon-barrage",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-127-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

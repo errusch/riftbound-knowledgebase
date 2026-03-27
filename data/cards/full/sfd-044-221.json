@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-044-221",
+  "type": "card_record",
+  "title": "Legion Quartermaster",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "94ae49c8-d870-4881-8906-950a3e002be9",
+    "name": "Legion Quartermaster",
+    "riftbound_id": "sfd-044-221",
+    "tcgplayer_id": "666584",
+    "public_code": "SFD-044/221",
+    "collector_number": 44,
+    "attributes": {
+      "energy": 3,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "As an additional cost to play me, return a friendly gear to its owner's hand.",
+      "plain": "As an additional cost to play me, return a friendly gear to its owner's hand."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c09cc35ffc98b46f919c09e09a93b603d63eb73e-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Legion Quartermaster"
+    },
+    "tags": [
+      "Trifarian",
+      "Noxus"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "legion-quartermaster",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-044-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

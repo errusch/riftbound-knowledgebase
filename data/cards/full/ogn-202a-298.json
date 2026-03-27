@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-202a-298",
+  "type": "card_record",
+  "title": "Jinx, Rebel",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "147de5cd-8c86-4c66-823c-388add387de3",
+    "name": "Jinx, Rebel",
+    "riftbound_id": "ogn-202a-298",
+    "tcgplayer_id": "652994",
+    "public_code": "OGN-202a/298",
+    "collector_number": 202,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you discard one or more cards, ready me and give me +1 :rb_might: this turn.",
+      "plain": "When you discard one or more cards, ready me and give me +1 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/da4c4f96081b4c0e151dba74a0ef6eae338478f0-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Jinx, Rebel"
+    },
+    "tags": [
+      "Jinx",
+      "Zaun"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "jinx-rebel",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-202a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

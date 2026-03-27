@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-077-298",
+  "type": "card_record",
+  "title": "Zhonya's Hourglass",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Calm"
+  ],
+  "record": {
+    "id": "f35e48f5-d01b-4a2a-b0da-831523782ce1",
+    "name": "Zhonya's Hourglass",
+    "riftbound_id": "ogn-077-298",
+    "tcgplayer_id": "652855",
+    "public_code": "OGN-077/298",
+    "collector_number": 77,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)The next time a friendly unit would die, kill this instead. Recall that unit exhausted. (Send it to base. This isn't a move.)",
+      "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)The next time a friendly unit would die, kill this instead. Recall that unit exhausted. (Send it to base. This isn't a move.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dc38172c56f838b407fc9f170ba973da32d7cd4d-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Zhonya's Hourglass"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "zhonya-s-hourglass",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-077-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

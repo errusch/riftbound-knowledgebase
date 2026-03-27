@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-261-298",
+  "type": "card_record",
+  "title": "Radiant Dawn",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Legend",
+    "Calm",
+    "Order"
+  ],
+  "record": {
+    "id": "335999c2-a26b-4a53-9ad8-b50994b1827a",
+    "name": "Radiant Dawn",
+    "riftbound_id": "ogn-261-298",
+    "tcgplayer_id": "653059",
+    "public_code": "OGN-261/298",
+    "collector_number": 261,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Calm",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you stun one or more enemy units, buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
+      "plain": "When you stun one or more enemy units, buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/822b8bc7987a47498550708b18ef166b121fd620-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Radiant Dawn"
+    },
+    "tags": [
+      "Leona"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "radiant-dawn",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-261-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

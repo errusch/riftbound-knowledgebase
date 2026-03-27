@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-149-221",
+  "type": "card_record",
+  "title": "Ezreal, Prodigy",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "8c402561-031f-4f82-a0b4-918a6b4b6136",
+    "name": "Ezreal, Prodigy",
+    "riftbound_id": "sfd-149-221",
+    "tcgplayer_id": "666825",
+    "public_code": "SFD-149/221",
+    "collector_number": 149,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Epic",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, discard 1, then draw 2.Optional additional costs you pay cost :rb_energy_1: or :rb_rune_rainbow: less.",
+      "plain": "When you play me, discard 1, then draw 2.Optional additional costs you pay cost :rb_energy_1: or :rb_rune_rainbow: less."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b48d6242ceb84c3eae7109317d51efaf1e56c9c3-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Ezreal, Prodigy"
+    },
+    "tags": [
+      "Ezreal",
+      "Piltover"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "ezreal-prodigy",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-149-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

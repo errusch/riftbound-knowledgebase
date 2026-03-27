@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-169-298",
+  "type": "card_record",
+  "title": "Gust",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Chaos"
+  ],
+  "record": {
+    "id": "20630191-10af-40ab-96db-d602503db05c",
+    "name": "Gust",
+    "riftbound_id": "ogn-169-298",
+    "tcgplayer_id": "652958",
+    "public_code": "OGN-169/298",
+    "collector_number": 169,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Return a unit at a battlefield with 3 :rb_might: or less to its owner's hand.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Return a unit at a battlefield with 3 :rb_might: or less to its owner's hand."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dfd3b161ab76ba0c5d503384f1289b3395434b10-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Gust"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "gust",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-169-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

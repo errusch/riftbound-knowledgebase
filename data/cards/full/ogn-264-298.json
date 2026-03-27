@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-264-298",
+  "type": "card_record",
+  "title": "Guerilla Warfare",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Mind",
+    "Chaos"
+  ],
+  "record": {
+    "id": "6cae6e6d-50b2-4340-81d2-47d0e86a2efc",
+    "name": "Guerilla Warfare",
+    "riftbound_id": "ogn-264-298",
+    "tcgplayer_id": "653062",
+    "public_code": "OGN-264/298",
+    "collector_number": 264,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Mind",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "Return up to two cards with [Hidden] from your trash to your hand. You can hide cards ignoring costs this turn.",
+      "plain": "Return up to two cards with [Hidden] from your trash to your hand. You can hide cards ignoring costs this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3a1f70e49f1fdbac907a3395f517e96717e8afea-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Guerilla Warfare"
+    },
+    "tags": [
+      "Teemo"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "guerilla-warfare",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-264-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

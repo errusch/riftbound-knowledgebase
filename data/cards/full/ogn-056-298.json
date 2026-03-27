@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-056-298",
+  "type": "card_record",
+  "title": "Adaptatron",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "62a87b17-f9a5-4848-b96c-733b9a49bce1",
+    "name": "Adaptatron",
+    "riftbound_id": "ogn-056-298",
+    "tcgplayer_id": "652832",
+    "public_code": "OGN-056/298",
+    "collector_number": 56,
+    "attributes": {
+      "energy": 4,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "When I conquer, you may kill a gear. If you do, buff me. (If I don't have a buff, I get a +1 :rb_might: buff.)",
+      "plain": "When I conquer, you may kill a gear. If you do, buff me. (If I don't have a buff, I get a +1 :rb_might: buff.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a3ddb00a2a872eaceb96469739531414aa27455d-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Adaptatron"
+    },
+    "tags": [
+      "Mech",
+      "Piltover"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "adaptatron",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-056-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

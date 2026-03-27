@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-016-221",
+  "type": "card_record",
+  "title": "Recurve Bow",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Fury"
+  ],
+  "record": {
+    "id": "8ac80146-7993-4646-b5c5-f60fac84f531",
+    "name": "Recurve Bow",
+    "riftbound_id": "sfd-016-221",
+    "tcgplayer_id": "666806",
+    "public_code": "SFD-016/221",
+    "collector_number": 16,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Equip] :rb_rune_fury: (:rb_rune_fury:: Attach this to a unit you control.)",
+      "plain": "[Equip] :rb_rune_fury: (:rb_rune_fury:: Attach this to a unit you control.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/763604237b4b59df5df98f61528be2233b850dd5-744x1039.png",
+      "artist": "\u9eef\u8367\u5c9bDark Glow",
+      "accessibility_text": "Recurve Bow"
+    },
+    "tags": [
+      "Equipment"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "recurve-bow",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-016-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-158-221",
+  "type": "card_record",
+  "title": "Sandshifter",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "5bc98fc6-3ca7-4ce6-8184-5a1953881d3a",
+    "name": "Sandshifter",
+    "riftbound_id": "sfd-158-221",
+    "tcgplayer_id": "666854",
+    "public_code": "SFD-158/221",
+    "collector_number": 158,
+    "attributes": {
+      "energy": 5,
+      "might": 6,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, kill an enemy unit with 3 :rb_might: or less.",
+      "plain": "When you play me, kill an enemy unit with 3 :rb_might: or less."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/57f72b30862074bb5d1f302e86ee3cec024cd980-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Sandshifter"
+    },
+    "tags": [
+      "Shurima"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "sandshifter",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-158-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

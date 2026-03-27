@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-225-298",
+  "type": "card_record",
+  "title": "Solari Chief",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "a28ea330-4bad-404e-86e5-f0294609bdaa",
+    "name": "Solari Chief",
+    "riftbound_id": "ogn-225-298",
+    "tcgplayer_id": "653019",
+    "public_code": "OGN-225/298",
+    "collector_number": 225,
+    "attributes": {
+      "energy": 5,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, choose an enemy unit. If it is stunned, kill it. Otherwise, stun it. (It doesn't deal combat damage this turn.)",
+      "plain": "When you play me, choose an enemy unit. If it is stunned, kill it. Otherwise, stun it. (It doesn't deal combat damage this turn.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/02fd791fdaa7d1c63221655e889fb412de103ca2-744x1039.png",
+      "artist": "JiHun Lee",
+      "accessibility_text": "Solari Chief"
+    },
+    "tags": [
+      "Mount Targon"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "solari-chief",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-225-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

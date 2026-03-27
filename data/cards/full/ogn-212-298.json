@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-212-298",
+  "type": "card_record",
+  "title": "Forge of the Future",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Order"
+  ],
+  "record": {
+    "id": "2ab95ceb-d8de-4287-8834-72457755517f",
+    "name": "Forge of the Future",
+    "riftbound_id": "ogn-212-298",
+    "tcgplayer_id": "653005",
+    "public_code": "OGN-212/298",
+    "collector_number": 212,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you play this, play a 1 :rb_might: Recruit unit token at your base.Kill this: Recycle up to 4 cards from trashes.",
+      "plain": "When you play this, play a 1 :rb_might: Recruit unit token at your base.Kill this: Recycle up to 4 cards from trashes."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8e6a76d28590bcd835b0a9a1e806fe0fa6883141-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Forge of the Future"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "forge-of-the-future",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-212-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

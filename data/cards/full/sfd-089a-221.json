@@ -1,0 +1,64 @@
+{
+  "id": "card.sfd-089a-221",
+  "type": "card_record",
+  "title": "Rumble, Scrapper",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "97872486-944d-4fa4-aad1-9d542580ce69",
+    "name": "Rumble, Scrapper",
+    "riftbound_id": "sfd-089a-221",
+    "tcgplayer_id": "666590",
+    "public_code": "SFD-089a/221",
+    "collector_number": 89,
+    "attributes": {
+      "energy": 5,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "Your Mechs have +1 :rb_might: (including me).When I hold, play a 3 :rb_might: Mech unit token to your base.",
+      "plain": "Your Mechs have +1 :rb_might: (including me).When I hold, play a 3 :rb_might: Mech unit token to your base."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1acbb906fba20f4e5d60f7a82566ca9a19e1a6ea-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Rumble, Scrapper"
+    },
+    "tags": [
+      "Mech",
+      "Yordle",
+      "Rumble",
+      "Bandle City"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "rumble-scrapper",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "sfd-089a-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

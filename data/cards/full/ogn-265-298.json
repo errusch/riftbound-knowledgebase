@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-265-298",
+  "type": "card_record",
+  "title": "Herald of the Arcane",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Legend",
+    "Mind",
+    "Order"
+  ],
+  "record": {
+    "id": "e71b9e49-2c5e-4cce-bafc-5a0dd874ebe9",
+    "name": "Herald of the Arcane",
+    "riftbound_id": "ogn-265-298",
+    "tcgplayer_id": "653063",
+    "public_code": "OGN-265/298",
+    "collector_number": 265,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Mind",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": ":rb_energy_1:, :rb_exhaust:: Play a 1 :rb_might: Recruit unit token.",
+      "plain": ":rb_energy_1:, :rb_exhaust:: Play a 1 :rb_might: Recruit unit token."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/913236dabf1e4f71650bbba46870fff8163e2eff-744x1039.png",
+      "artist": "Fortiche Production",
+      "accessibility_text": "Herald of the Arcane"
+    },
+    "tags": [
+      "Viktor"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "herald-of-the-arcane",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-265-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

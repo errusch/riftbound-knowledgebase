@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-204-298",
+  "type": "card_record",
+  "title": "Seal of Discord",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Chaos"
+  ],
+  "record": {
+    "id": "45fd3b22-9c5b-4c68-be29-0e0ef8ffc9f2",
+    "name": "Seal of Discord",
+    "riftbound_id": "ogn-204-298",
+    "tcgplayer_id": "652996",
+    "public_code": "OGN-204/298",
+    "collector_number": 204,
+    "attributes": {
+      "energy": 0,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_chaos:. (Abilities that add resources can't be reacted to.)",
+      "plain": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_chaos:. (Abilities that add resources can't be reacted to.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dd8433e77e46ca77aaf0be35d1774218d9a2f037-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Seal of Discord"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "seal-of-discord",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-204-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

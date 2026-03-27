@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-067-298",
+  "type": "card_record",
+  "title": "Blitzcrank, Impassive",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "f75fb6cd-4451-472c-9f5b-6d2be86a4d3a",
+    "name": "Blitzcrank, Impassive",
+    "riftbound_id": "ogn-067-298",
+    "tcgplayer_id": "652844",
+    "public_code": "OGN-067/298",
+    "collector_number": 67,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Tank] (I must be assigned combat damage first.)When you play me to a battlefield, you may move an enemy unit to here.When I hold, return me to my owner's hand.",
+      "plain": "[Tank] (I must be assigned combat damage first.)When you play me to a battlefield, you may move an enemy unit to here.When I hold, return me to my owner's hand."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/654dcc4aef0a0b5a0c6e928d7aae397a52c3ab17-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Blitzcrank, Impassive"
+    },
+    "tags": [
+      "Mech",
+      "Blitzcrank",
+      "Zaun"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "blitzcrank-impassive",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-067-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

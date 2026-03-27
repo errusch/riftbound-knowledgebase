@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-221-221",
+  "type": "card_record",
+  "title": "Veiled Temple",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "5975b423-2e08-497a-9f96-07f25399ab9b",
+    "name": "Veiled Temple",
+    "riftbound_id": "sfd-221-221",
+    "tcgplayer_id": "666879",
+    "public_code": "SFD-221/221",
+    "collector_number": 221,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer here, you may ready a friendly gear. If it's an Equipment, you may detach it.",
+      "plain": "When you conquer here, you may ready a friendly gear. If it's an Equipment, you may detach it."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6f2b38874a09b3e3df3fe584ea77e84aa5423e37-1039x744.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Veiled Temple"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "veiled-temple",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-221-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

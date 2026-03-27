@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-206-221",
+  "type": "card_record",
+  "title": "Riposte",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Body",
+    "Order"
+  ],
+  "record": {
+    "id": "16b28b46-41c3-4bde-89f8-32f45cba4aa4",
+    "name": "Riposte",
+    "riftbound_id": "sfd-206-221",
+    "tcgplayer_id": "666828",
+    "public_code": "SFD-206/221",
+    "collector_number": 206,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": 2
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Body",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Choose a friendly unit and a spell. Counter that spell and give that unit +:rb_might: equal to that spell's Energy cost this turn.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Choose a friendly unit and a spell. Counter that spell and give that unit +:rb_might: equal to that spell's Energy cost this turn."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/07af52eada661904b467ca118c2715435f0a3b00-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Riposte"
+    },
+    "tags": [
+      "Fiora"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "riposte",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-206-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -23,6 +23,7 @@ def main() -> None:
         ROOT / "analysis" / "reference" / "tournament-rules.md",
         ROOT / "analysis" / "videos" / "m2IjrsUzXgU" / "review.md",
         ROOT / "data" / "indexes" / "canon_documents.json",
+        ROOT / "data" / "indexes" / "cards_full.json",
         ROOT / "data" / "indexes" / "decks.json",
         ROOT / "data" / "indexes" / "events.json",
         ROOT / "data" / "indexes" / "videos.json",
@@ -46,6 +47,10 @@ def main() -> None:
     events = load_json(ROOT / "data" / "indexes" / "events.json", [])
     if not decks or not events:
         fail("Competitive deck or event indexes are empty.")
+
+    cards_full = load_json(ROOT / "data" / "indexes" / "cards_full.json", [])
+    if len(cards_full) < 600:
+        fail("Expected at least 600 fully imported local card records.")
 
     all_objects = load_json(ROOT / "data" / "indexes" / "all_objects.json", [])
     duplicate_root = str(IGNORED_DUPLICATE_ROOT)

@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-236-298",
+  "type": "card_record",
+  "title": "Karthus, Eternal",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "bbe08de1-5cc8-436a-aba1-ef3fcb5800bc",
+    "name": "Karthus, Eternal",
+    "riftbound_id": "ogn-236-298",
+    "tcgplayer_id": "653030",
+    "public_code": "OGN-236/298",
+    "collector_number": 236,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "Your [Deathknell] effects trigger an additional time.",
+      "plain": "Your [Deathknell] effects trigger an additional time."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df3497ce6a602da554813340f572240675c7f0e2-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Karthus, Eternal"
+    },
+    "tags": [
+      "Spirit",
+      "Karthus",
+      "Shadow Isles"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "karthus-eternal",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-236-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

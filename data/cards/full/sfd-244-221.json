@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-244-221",
+  "type": "card_record",
+  "title": "Fire Below the Mountain",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Legend",
+    "Calm",
+    "Mind"
+  ],
+  "record": {
+    "id": "5b535805-0799-4239-a858-3915b19b469e",
+    "name": "Fire Below the Mountain",
+    "riftbound_id": "sfd-244-221",
+    "tcgplayer_id": "664933",
+    "public_code": "SFD-244/221",
+    "collector_number": 244,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Showcase",
+      "domain": [
+        "Calm",
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_rainbow:. Use only to play gear or use gear abilities. (Abilities that add resources can't be reacted to.)",
+      "plain": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_rainbow:. Use only to play gear or use gear abilities. (Abilities that add resources can't be reacted to.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/883dab66da8ed5ab39d968ed7fcaebd5ebaf3d43-744x1039.png",
+      "artist": "\u53eb\u6211\u5c0f\u8463\u5c31\u597d\u4e86",
+      "accessibility_text": "Fire Below the Mountain"
+    },
+    "tags": [
+      "Ornn"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "fire-below-the-mountain",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-244-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

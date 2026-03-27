@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-016-298",
+  "type": "card_record",
+  "title": "Dangerous Duo",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "bf6fa034-9f40-44e8-90e4-04ed85dd606b",
+    "name": "Dangerous Duo",
+    "riftbound_id": "ogn-016-298",
+    "tcgplayer_id": "652787",
+    "public_code": "OGN-016/298",
+    "collector_number": 16,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Legion] \u2014 When you play me, give a unit +2 :rb_might: this turn. (Get the effect if you've played another card this turn.)",
+      "plain": "[Legion] \u2014 When you play me, give a unit +2 :rb_might: this turn. (Get the effect if you've played another card this turn.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c02ea9e438d407c739276b788e015ac93843651-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Dangerous Duo"
+    },
+    "tags": [
+      "Mech",
+      "Bandle City"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "dangerous-duo",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-016-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-083-221",
+  "type": "card_record",
+  "title": "Hextech Anomaly",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Mind"
+  ],
+  "record": {
+    "id": "0458e235-22e6-4346-91e1-54efa8e46f7b",
+    "name": "Hextech Anomaly",
+    "riftbound_id": "sfd-083-221",
+    "tcgplayer_id": "666588",
+    "public_code": "SFD-083/221",
+    "collector_number": 83,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: [Reaction] \u2014 Pay any amount of :rb_rune_rainbow: to [Add] that much Energy. (Abilities that add resources can't be reacted to.)",
+      "plain": ":rb_exhaust:: [Reaction] \u2014 Pay any amount of :rb_rune_rainbow: to [Add] that much Energy. (Abilities that add resources can't be reacted to.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/32a46943778755e2b6210e5adb4507780f08e2c8-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Hextech Anomaly"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "hextech-anomaly",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-083-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

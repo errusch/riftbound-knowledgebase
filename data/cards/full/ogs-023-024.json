@@ -1,0 +1,63 @@
+{
+  "id": "card.ogs-023-024",
+  "type": "card_record",
+  "title": "Might of Demacia - Starter",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Legend",
+    "Body",
+    "Order"
+  ],
+  "record": {
+    "id": "fda78980-b4db-4efb-986d-5446b03d021e",
+    "name": "Might of Demacia - Starter",
+    "riftbound_id": "ogs-023-024",
+    "tcgplayer_id": "653158",
+    "public_code": "OGS-023/024",
+    "collector_number": 23,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Body",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer, if you have 4+ units at that battlefield, draw 2.",
+      "plain": "When you conquer, if you have 4+ units at that battlefield, draw 2."
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e7185deb46f17770802d06aeddfe3b929afff880-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Might of Demacia - Starter"
+    },
+    "tags": [
+      "Garen"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "might-of-demacia-starter",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-023-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

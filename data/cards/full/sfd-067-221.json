@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-067-221",
+  "type": "card_record",
+  "title": "Frostcoat Cub",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "561bfabd-81f1-4658-9247-59aa512d3913",
+    "name": "Frostcoat Cub",
+    "riftbound_id": "sfd-067-221",
+    "tcgplayer_id": "666363",
+    "public_code": "SFD-067/221",
+    "collector_number": 67,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "You may pay :rb_rune_mind: as an additional cost to play me.When you play me, if you paid the additional cost, give a unit -2 :rb_might: this turn.",
+      "plain": "You may pay :rb_rune_mind: as an additional cost to play me.When you play me, if you paid the additional cost, give a unit -2 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0b5f1f6ed65e070d2878b8aa21fd95e43688fc1d-744x1039.png",
+      "artist": "Caravan Studio",
+      "accessibility_text": "Frostcoat Cub"
+    },
+    "tags": [
+      "Dog",
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "frostcoat-cub",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-067-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

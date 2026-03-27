@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-251-298",
+  "type": "card_record",
+  "title": "Loose Cannon",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Legend",
+    "Fury",
+    "Chaos"
+  ],
+  "record": {
+    "id": "6af58403-13a3-4ffd-9b26-efa1a5ad7be3",
+    "name": "Loose Cannon",
+    "riftbound_id": "ogn-251-298",
+    "tcgplayer_id": "653049",
+    "public_code": "OGN-251/298",
+    "collector_number": 251,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Fury",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "At start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand.",
+      "plain": "At start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f57c14381b126e9f5a7b5bc4913151cb24c14fc3-744x1039.png",
+      "artist": "Sugar Free",
+      "accessibility_text": "Loose Cannon"
+    },
+    "tags": [
+      "Jinx"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "loose-cannon",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-251-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

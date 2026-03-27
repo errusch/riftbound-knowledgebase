@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-203-221",
+  "type": "card_record",
+  "title": "Battle Mistress",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Legend",
+    "Body",
+    "Chaos"
+  ],
+  "record": {
+    "id": "c6ee9c3b-43c2-49ad-a80e-3449c734cbba",
+    "name": "Battle Mistress",
+    "riftbound_id": "sfd-203-221",
+    "tcgplayer_id": "663438",
+    "public_code": "SFD-203/221",
+    "collector_number": 203,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Body",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you recycle a rune, you may exhaust me to play a Gold gear token exhausted.When one or more enemy units die, ready me.",
+      "plain": "When you recycle a rune, you may exhaust me to play a Gold gear token exhausted.When one or more enemy units die, ready me."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fd060882c32a8deac04aea4241c6ab7b97236a05-744x1039.png",
+      "artist": "Zhongqi Li",
+      "accessibility_text": "Battle Mistress"
+    },
+    "tags": [
+      "Sivir"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "battle-mistress",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-203-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

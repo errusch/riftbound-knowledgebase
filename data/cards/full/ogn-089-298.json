@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-089-298",
+  "type": "card_record",
+  "title": "Mind Rune",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Rune",
+    "Mind"
+  ],
+  "record": {
+    "id": "f6a06d30-3443-4467-acbc-0a17bf785b26",
+    "name": "Mind Rune",
+    "riftbound_id": "ogn-089-298",
+    "tcgplayer_id": "652869",
+    "public_code": "OGN-089/298",
+    "collector_number": 89,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Rune",
+      "supertype": "Basic",
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "(Rune - no card text)",
+      "plain": "(Rune - no card text)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f99aa4874baaebd2e81798c8a3aa01c5900f6d30-744x1039.png",
+      "artist": "Greg Ghielmetti & Leah Chen",
+      "accessibility_text": "Mind Rune"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "mind-rune",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-089-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

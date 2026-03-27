@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-085a-221",
+  "type": "card_record",
+  "title": "Ornn, Forge God",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "c8ff4eca-c408-458a-8933-76bbbe97971c",
+    "name": "Ornn, Forge God",
+    "riftbound_id": "sfd-085a-221",
+    "tcgplayer_id": "666461",
+    "public_code": "SFD-085a/221",
+    "collector_number": 85,
+    "attributes": {
+      "energy": 6,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)I have +1 :rb_might: for each friendly gear.",
+      "plain": "[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or ability.)[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)I have +1 :rb_might: for each friendly gear."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/22af72b06cb92d4a0078dddfb87cc9c21c92231d-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Ornn, Forge God"
+    },
+    "tags": [
+      "Ornn",
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "ornn-forge-god",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "sfd-085a-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

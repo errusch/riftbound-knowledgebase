@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-212-221",
+  "type": "card_record",
+  "title": "Minefield",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "7c79b9e6-624e-430e-8f1f-8df0507b03e6",
+    "name": "Minefield",
+    "riftbound_id": "sfd-212-221",
+    "tcgplayer_id": "666874",
+    "public_code": "SFD-212/221",
+    "collector_number": 212,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer here, put the top 2 cards of your Main Deck into your trash.",
+      "plain": "When you conquer here, put the top 2 cards of your Main Deck into your trash."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/46614658b08563f07cc81a4f4fa4ec8a067710b9-1039x744.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Minefield"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "minefield",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-212-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-217-298",
+  "type": "card_record",
+  "title": "Trifarian Gloryseeker",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "80b267dc-8304-4108-bed0-d63256a61b32",
+    "name": "Trifarian Gloryseeker",
+    "riftbound_id": "ogn-217-298",
+    "tcgplayer_id": "653011",
+    "public_code": "OGN-217/298",
+    "collector_number": 217,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Legion] \u2014 When you play me, buff me. (If I don't have a buff, I get a +1 :rb_might: buff. Get the effect if you've played another card this turn.)",
+      "plain": "[Legion] \u2014 When you play me, buff me. (If I don't have a buff, I get a +1 :rb_might: buff. Get the effect if you've played another card this turn.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/19ad6a0e743b56021b9651a2105034a488e172e8-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Trifarian Gloryseeker"
+    },
+    "tags": [
+      "Trifarian",
+      "Noxus"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "trifarian-gloryseeker",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-217-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

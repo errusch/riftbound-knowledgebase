@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-069-221",
+  "type": "card_record",
+  "title": "Plundering Poro",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "25dda924-c51c-4001-b7d0-25ecd12ad992",
+    "name": "Plundering Poro",
+    "riftbound_id": "sfd-069-221",
+    "tcgplayer_id": "664934",
+    "public_code": "SFD-069/221",
+    "collector_number": 69,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When I conquer, play a Gold gear token exhausted.",
+      "plain": "When I conquer, play a Gold gear token exhausted."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4ff9e6c73f67b505e50ec2f5f513292fe5b20b95-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Plundering Poro"
+    },
+    "tags": [
+      "Poro",
+      "Pirate",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "plundering-poro",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-069-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

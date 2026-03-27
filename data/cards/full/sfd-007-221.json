@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-007-221",
+  "type": "card_record",
+  "title": "Gem Jammer",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "c778df68-0821-4312-8963-253ba7c91db7",
+    "name": "Gem Jammer",
+    "riftbound_id": "sfd-007-221",
+    "tcgplayer_id": "665591",
+    "public_code": "SFD-007/221",
+    "collector_number": 7,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, give a unit [Ganking] this turn. (It can move from battlefield to battlefield.)",
+      "plain": "When you play me, give a unit [Ganking] this turn. (It can move from battlefield to battlefield.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9f487e8a76e6e6b9f2e32de0c9c147be42f49e59-744x1039.png",
+      "artist": "Caravan Studio",
+      "accessibility_text": "Gem Jammer"
+    },
+    "tags": [
+      "Mech",
+      "Bandle City"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "gem-jammer",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-007-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

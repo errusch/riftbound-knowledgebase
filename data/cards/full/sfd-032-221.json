@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-032-221",
+  "type": "card_record",
+  "title": "Disarming Rake",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "743053e3-09a6-40ee-8f99-29101cd50375",
+    "name": "Disarming Rake",
+    "riftbound_id": "sfd-032-221",
+    "tcgplayer_id": "666580",
+    "public_code": "SFD-032/221",
+    "collector_number": 32,
+    "attributes": {
+      "energy": 3,
+      "might": 2,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, you may kill a gear.",
+      "plain": "When you play me, you may kill a gear."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/523732db17d8cf3c7c55f57c5dfb397b73e2b116-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Disarming Rake"
+    },
+    "tags": [
+      "Demacia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "disarming-rake",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-032-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-246a-298",
+  "type": "card_record",
+  "title": "Viktor, Leader",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "8f6e0764-f1bb-403e-81f6-e54503267958",
+    "name": "Viktor, Leader",
+    "riftbound_id": "ogn-246a-298",
+    "tcgplayer_id": "653044",
+    "public_code": "OGN-246a/298",
+    "collector_number": 246,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When another non-Recruit unit you control dies, play a 1 :rb_might: Recruit unit token into your base.",
+      "plain": "When another non-Recruit unit you control dies, play a 1 :rb_might: Recruit unit token into your base."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/19b66f8eccd6d6e9d41048f73e44660f1cf77068-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Viktor, Leader"
+    },
+    "tags": [
+      "Viktor",
+      "Zaun"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "viktor-leader",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-246a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-015-221",
+  "type": "card_record",
+  "title": "Perched Grimwyrm",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "e2260a9d-f105-4074-b589-c1145a1c94d6",
+    "name": "Perched Grimwyrm",
+    "riftbound_id": "sfd-015-221",
+    "tcgplayer_id": "666805",
+    "public_code": "SFD-015/221",
+    "collector_number": 15,
+    "attributes": {
+      "energy": 4,
+      "might": 5,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "Play me only to a battlefield you conquered this turn. (You can't play me anywhere else.)",
+      "plain": "Play me only to a battlefield you conquered this turn. (You can't play me anywhere else.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/71af1587378c1c3feabd1b148fb776e42c7d27e8-744x1039.png",
+      "artist": "Kudos Productions & \u9eef\u8367\u5c9bDark Glow",
+      "accessibility_text": "Perched Grimwyrm"
+    },
+    "tags": [
+      "Dragon",
+      "Shadow Isles"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "perched-grimwyrm",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-015-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

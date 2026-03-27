@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-162-298",
+  "type": "card_record",
+  "title": "Miss Fortune, Captain",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "cfc1e36d-a866-4ff1-9697-d35184d5ad24",
+    "name": "Miss Fortune, Captain",
+    "riftbound_id": "ogn-162-298",
+    "tcgplayer_id": "652948",
+    "public_code": "OGN-162/298",
+    "collector_number": 162,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Epic",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)[Ganking] (I can move from battlefield to battlefield.)The first time I move each turn, you may ready something else that's exhausted.",
+      "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)[Ganking] (I can move from battlefield to battlefield.)The first time I move each turn, you may ready something else that's exhausted."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c7b219245cd6c6ee835974dd74771bc605289de-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Miss Fortune, Captain"
+    },
+    "tags": [
+      "Pirate",
+      "Miss Fortune",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "miss-fortune-captain",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-162-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

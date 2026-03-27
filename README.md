@@ -22,6 +22,7 @@ Official-first local knowledgebase for Riftbound rules, strategy analysis, compe
 scripts/import/import_official_sources
 scripts/import/import_hextech_docs
 scripts/import/import_competitive_data
+scripts/import/import_local_cards
 scripts/import/import_vod https://youtu.be/m2IjrsUzXgU
 scripts/build/rebuild_indexes
 scripts/validate/validate_repo
@@ -49,7 +50,6 @@ scripts/validate/validate_repo
 
 ## Current Gaps
 
-- Full local card canon is not implemented yet; only prefetched card snapshots are stored locally.
+- Full local card canon is now imported from the legacy local `knowledge.db`, but it still needs provenance/version refresh if you want a stricter official-source chain.
 - YouTube intake currently depends on `yt-dlp` plus browser cookies.
 - Taxonomy is intentionally seeded, not complete.
-

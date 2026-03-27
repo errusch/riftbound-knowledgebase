@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-233-star-221",
+  "type": "card_record",
+  "title": "Yone, Blademaster",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "102ed88f-5334-4831-893b-f24fe89828a6",
+    "name": "Yone, Blademaster",
+    "riftbound_id": "sfd-233-star-221",
+    "tcgplayer_id": "666469",
+    "public_code": "SFD-233*/221",
+    "collector_number": 233,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)When I conquer an open battlefield, deal damage equal to my Might to an enemy unit in a base.",
+      "plain": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)When I conquer an open battlefield, deal damage equal to my Might to an enemy unit in a base."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b190a0e419af24797408f0df4c17b48e8d86e5f-744x1039.png",
+      "artist": "Anson Tan",
+      "accessibility_text": "Yone, Blademaster"
+    },
+    "tags": [
+      "Yone",
+      "Ionia",
+      "Demon"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "yone-blademaster",
+      "alternate_art": false,
+      "signature": true,
+      "record_key": "sfd-233-star-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

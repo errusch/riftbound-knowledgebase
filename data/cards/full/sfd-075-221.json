@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-075-221",
+  "type": "card_record",
+  "title": "Prize of Progress",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "9367ea53-ba7f-40d3-9cfd-f1f012876066",
+    "name": "Prize of Progress",
+    "riftbound_id": "sfd-075-221",
+    "tcgplayer_id": "666440",
+    "public_code": "SFD-075/221",
+    "collector_number": 75,
+    "attributes": {
+      "energy": 4,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When you use an activated ability of a gear, give me +1 :rb_might: this turn.",
+      "plain": "When you use an activated ability of a gear, give me +1 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c08f0b6ed24415e6a440a17931c7e2a2db3ab2cc-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Prize of Progress"
+    },
+    "tags": [
+      "Mech",
+      "Piltover"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "prize-of-progress",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-075-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

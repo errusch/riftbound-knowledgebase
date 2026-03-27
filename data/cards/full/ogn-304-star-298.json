@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-304-star-298",
+  "type": "card_record",
+  "title": "Blind Monk",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Legend",
+    "Calm",
+    "Body"
+  ],
+  "record": {
+    "id": "e7267daf-0555-413c-be0e-d7d6b711845b",
+    "name": "Blind Monk",
+    "riftbound_id": "ogn-304-star-298",
+    "tcgplayer_id": "653104",
+    "public_code": "OGN-304*/298",
+    "collector_number": 304,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Showcase",
+      "domain": [
+        "Calm",
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": ":rb_energy_1:, :rb_exhaust:: Buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
+      "plain": ":rb_energy_1:, :rb_exhaust:: Buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b4dfd543b1cfcdefba4568fe78146e0d6e46add7-1488x2078.png",
+      "artist": "Loiza Chen",
+      "accessibility_text": "Blind Monk"
+    },
+    "tags": [
+      "Lee Sin"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "blind-monk",
+      "alternate_art": false,
+      "signature": true,
+      "record_key": "ogn-304-star-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

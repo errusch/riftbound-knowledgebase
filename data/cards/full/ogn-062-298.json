@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-062-298",
+  "type": "card_record",
+  "title": "Reinforce",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Calm"
+  ],
+  "record": {
+    "id": "27aaacaf-7a8a-4301-9c93-873a76e85a02",
+    "name": "Reinforce",
+    "riftbound_id": "ogn-062-298",
+    "tcgplayer_id": "652838",
+    "public_code": "OGN-062/298",
+    "collector_number": 62,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "Look at the top 5 cards of your Main Deck. You may play a unit from among them. Its Energy cost is reduced by :rb_energy_5:. Then recycle the remaining cards.",
+      "plain": "Look at the top 5 cards of your Main Deck. You may play a unit from among them. Its Energy cost is reduced by :rb_energy_5:. Then recycle the remaining cards."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5bb4ce960c7636dac103c560a2e2f4e32f9d5390-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Reinforce"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "reinforce",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-062-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

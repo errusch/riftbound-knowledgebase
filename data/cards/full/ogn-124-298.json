@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-124-298",
+  "type": "card_record",
+  "title": "Arena Bar",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Body"
+  ],
+  "record": {
+    "id": "e65777de-06be-47fb-9d5a-300b3782a7f6",
+    "name": "Arena Bar",
+    "riftbound_id": "ogn-124-298",
+    "tcgplayer_id": "652907",
+    "public_code": "OGN-124/298",
+    "collector_number": 124,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: Buff an exhausted friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
+      "plain": ":rb_exhaust:: Buff an exhausted friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/519306d1d4a36f2d54fe0982268a197a257f5e5d-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Arena Bar"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "arena-bar",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-124-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

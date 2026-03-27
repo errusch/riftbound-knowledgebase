@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-030-298",
+  "type": "card_record",
+  "title": "Jinx, Demolitionist",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "b59fae01-c42b-4b2f-915d-e74165c8c6f0",
+    "name": "Jinx, Demolitionist",
+    "riftbound_id": "ogn-030-298",
+    "tcgplayer_id": "652802",
+    "public_code": "OGN-030/298",
+    "collector_number": 30,
+    "attributes": {
+      "energy": 3,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)[Assault 2] (+2 :rb_might: while I'm an attacker.)When you play me, discard 2.",
+      "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)[Assault 2] (+2 :rb_might: while I'm an attacker.)When you play me, discard 2."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d6cac988aa7798945e550eba6841d3993868c4a4-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Jinx, Demolitionist"
+    },
+    "tags": [
+      "Jinx",
+      "Zaun"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "jinx-demolitionist",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-030-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

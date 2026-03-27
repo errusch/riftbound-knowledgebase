@@ -1,0 +1,59 @@
+{
+  "id": "card.ogs-015-024",
+  "type": "card_record",
+  "title": "Recruit the Vanguard",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Spell",
+    "Order"
+  ],
+  "record": {
+    "id": "1556594f-8470-4dfd-8be4-aae5045185d8",
+    "name": "Recruit the Vanguard",
+    "riftbound_id": "ogs-015-024",
+    "tcgplayer_id": "653150",
+    "public_code": "OGS-015/024",
+    "collector_number": 15,
+    "attributes": {
+      "energy": 6,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Play four 1 :rb_might: Recruit unit tokens. (They can be played to your base or to battlefields you control.)",
+      "plain": "[Action] (Play on your turn or in showdowns.)Play four 1 :rb_might: Recruit unit tokens. (They can be played to your base or to battlefields you control.)"
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/81d1c47459606f7b627778cce9b5f0e44d80f7fa-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Recruit the Vanguard"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "recruit-the-vanguard",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-015-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

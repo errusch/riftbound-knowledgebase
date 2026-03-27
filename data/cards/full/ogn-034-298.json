@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-034-298",
+  "type": "card_record",
+  "title": "Tryndamere, Barbarian",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "96d2789c-e6da-4df1-85d9-4cc5415c801b",
+    "name": "Tryndamere, Barbarian",
+    "riftbound_id": "ogn-034-298",
+    "tcgplayer_id": "652807",
+    "public_code": "OGN-034/298",
+    "collector_number": 34,
+    "attributes": {
+      "energy": 7,
+      "might": 8,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "When I conquer after an attack, if you assigned 5 or more excess damage to enemy units, you score 1 point.",
+      "plain": "When I conquer after an attack, if you assigned 5 or more excess damage to enemy units, you score 1 point."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/124c93495c927be1baea03fdacf6c7b283cf8b6c-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Tryndamere, Barbarian"
+    },
+    "tags": [
+      "Tryndamere",
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "tryndamere-barbarian",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-034-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

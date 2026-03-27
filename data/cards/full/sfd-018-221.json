@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-018-221",
+  "type": "card_record",
+  "title": "Void Hatchling",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "bb03a3ee-b577-4984-8588-b34cdd1bac01",
+    "name": "Void Hatchling",
+    "riftbound_id": "sfd-018-221",
+    "tcgplayer_id": "665142",
+    "public_code": "SFD-018/221",
+    "collector_number": 18,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "If you would reveal cards from a deck, look at the top card first. You may recycle it. Then reveal those cards.",
+      "plain": "If you would reveal cards from a deck, look at the top card first. You may recycle it. Then reveal those cards."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a909782d0a30f31f9414c99ba143fa570a3cb456-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Void Hatchling"
+    },
+    "tags": [
+      "The Void"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "void-hatchling",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-018-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-163-298",
+  "type": "card_record",
+  "title": "Seal of Strength",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Body"
+  ],
+  "record": {
+    "id": "b0c92150-9c9c-4113-a9d9-9a3420f943d7",
+    "name": "Seal of Strength",
+    "riftbound_id": "ogn-163-298",
+    "tcgplayer_id": "652950",
+    "public_code": "OGN-163/298",
+    "collector_number": 163,
+    "attributes": {
+      "energy": 0,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_body:. (Abilities that add resources can't be reacted to.)",
+      "plain": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_body:. (Abilities that add resources can't be reacted to.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/415644b2798348e3d7198ec900cc40aaa4eb8bdf-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Seal of Strength"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "seal-of-strength",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-163-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

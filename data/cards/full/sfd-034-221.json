@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-034-221",
+  "type": "card_record",
+  "title": "Feral Strength",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Calm"
+  ],
+  "record": {
+    "id": "6f85c980-37c0-46ed-8c49-0e4ec5ca1c51",
+    "name": "Feral Strength",
+    "riftbound_id": "sfd-034-221",
+    "tcgplayer_id": "663446",
+    "public_code": "SFD-034/221",
+    "collector_number": 34,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)Give a unit +2 :rb_might: this turn.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)Give a unit +2 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f07842b38914f6bc73235fe07788a3fce89b4785-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Feral Strength"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "feral-strength",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-034-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

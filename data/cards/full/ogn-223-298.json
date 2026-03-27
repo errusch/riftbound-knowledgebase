@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-223-298",
+  "type": "card_record",
+  "title": "Peak Guardian",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "fa6eca42-64aa-4550-a178-1913c8aadb01",
+    "name": "Peak Guardian",
+    "riftbound_id": "ogn-223-298",
+    "tcgplayer_id": "653017",
+    "public_code": "OGN-223/298",
+    "collector_number": 223,
+    "attributes": {
+      "energy": 6,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, buff me. Then, if I am at a battlefield, buff all other friendly units there. (To buff a unit, give it a +1 :rb_might: buff if it doesn't already have one.)",
+      "plain": "When you play me, buff me. Then, if I am at a battlefield, buff all other friendly units there. (To buff a unit, give it a +1 :rb_might: buff if it doesn't already have one.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bb56433bc032fd31a957923c43babc48b66db24c-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Peak Guardian"
+    },
+    "tags": [
+      "Mount Targon"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "peak-guardian",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-223-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

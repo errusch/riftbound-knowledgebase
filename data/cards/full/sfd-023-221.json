@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-023-221",
+  "type": "card_record",
+  "title": "Piercing Light",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Fury"
+  ],
+  "record": {
+    "id": "057815b6-9dfb-44e7-9200-0f15bb7fede1",
+    "name": "Piercing Light",
+    "riftbound_id": "sfd-023-221",
+    "tcgplayer_id": "665012",
+    "public_code": "SFD-023/221",
+    "collector_number": 23,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Repeat] :rb_energy_2::rb_rune_fury: (You may pay the additional cost to repeat this spell's effect.)Deal 2 to a unit at a battlefield, then deal 2 to up to one other unit.",
+      "plain": "[Repeat] :rb_energy_2::rb_rune_fury: (You may pay the additional cost to repeat this spell's effect.)Deal 2 to a unit at a battlefield, then deal 2 to up to one other unit."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7fb3283b11fb8e5b5b08f9ead9b98c695b75bff0-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Piercing Light"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "piercing-light",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-023-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

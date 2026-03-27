@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-116-298",
+  "type": "card_record",
+  "title": "Thousand-Tailed Watcher",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "b69f888d-eb02-4201-bd2f-f9056e141d3c",
+    "name": "Thousand-Tailed Watcher",
+    "riftbound_id": "ogn-116-298",
+    "tcgplayer_id": "652898",
+    "public_code": "OGN-116/298",
+    "collector_number": 116,
+    "attributes": {
+      "energy": 7,
+      "might": 7,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_mind: as an additional cost to have me enter ready.)When you play me, give enemy units -3 :rb_might: this turn, to a minimum of 1 :rb_might:.",
+      "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_mind: as an additional cost to have me enter ready.)When you play me, give enemy units -3 :rb_might: this turn, to a minimum of 1 :rb_might:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b20e5644c33924a58e0497dd9f7db19723147003-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Thousand-Tailed Watcher"
+    },
+    "tags": [
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "thousand-tailed-watcher",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-116-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

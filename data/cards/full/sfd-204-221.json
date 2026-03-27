@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-204-221",
+  "type": "card_record",
+  "title": "On the Hunt",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Body",
+    "Chaos"
+  ],
+  "record": {
+    "id": "d4ba7a3b-7c14-4157-a303-8edd0538ab5c",
+    "name": "On the Hunt",
+    "riftbound_id": "sfd-204-221",
+    "tcgplayer_id": "666824",
+    "public_code": "SFD-204/221",
+    "collector_number": 204,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": 2
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Body",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "Ready your units.",
+      "plain": "Ready your units."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3205df9cf3d12551c445a740889392264ec95b09-744x1039.png",
+      "artist": "Grafit Studio",
+      "accessibility_text": "On the Hunt"
+    },
+    "tags": [
+      "Sivir"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "on-the-hunt",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-204-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-141-298",
+  "type": "card_record",
+  "title": "Kinkou Monk",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "903eb8cd-0dce-4616-83e2-7e53473adddd",
+    "name": "Kinkou Monk",
+    "riftbound_id": "ogn-141-298",
+    "tcgplayer_id": "652925",
+    "public_code": "OGN-141/298",
+    "collector_number": 141,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, buff two other friendly units. (Each one that doesn't have a buff gets a +1 :rb_might: buff.)",
+      "plain": "When you play me, buff two other friendly units. (Each one that doesn't have a buff gets a +1 :rb_might: buff.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/648b22c6f419ee55723247bbf4c3ac10f0be9ab5-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Kinkou Monk"
+    },
+    "tags": [
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "kinkou-monk",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-141-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-277-298",
+  "type": "card_record",
+  "title": "Back-Alley Bar",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "2fc7d8cb-fd92-4e70-a940-7fb2072fa1c6",
+    "name": "Back-Alley Bar",
+    "riftbound_id": "ogn-277-298",
+    "tcgplayer_id": "653071",
+    "public_code": "OGN-277/298",
+    "collector_number": 277,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When a unit moves from here, give it +1 :rb_might: this turn.",
+      "plain": "When a unit moves from here, give it +1 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3e9f659a32e390b45bc87a01bdd6af4a8a3565f7-1038x744.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Back-Alley Bar"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "back-alley-bar",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-277-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

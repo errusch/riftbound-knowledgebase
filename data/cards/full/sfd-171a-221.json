@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-171a-221",
+  "type": "card_record",
+  "title": "Renata Glasc, Industrialist",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "c40816f2-3712-49da-b41e-ab64c0f3a99f",
+    "name": "Renata Glasc, Industrialist",
+    "riftbound_id": "sfd-171a-221",
+    "tcgplayer_id": "666476",
+    "public_code": "SFD-171a/221",
+    "collector_number": 171,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "Your tokens enter ready.",
+      "plain": "Your tokens enter ready."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/358df43d50a3fc018a6e092acd5fbb3031e0033d-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Renata Glasc, Industrialist"
+    },
+    "tags": [
+      "Renata Glasc",
+      "Zaun"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "renata-glasc-industrialist",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "sfd-171a-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

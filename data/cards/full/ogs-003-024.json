@@ -1,0 +1,59 @@
+{
+  "id": "card.ogs-003-024",
+  "type": "card_record",
+  "title": "Incinerate",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Spell",
+    "Fury"
+  ],
+  "record": {
+    "id": "72379165-4e6a-42a0-be85-b60f4e9e491b",
+    "name": "Incinerate",
+    "riftbound_id": "ogs-003-024",
+    "tcgplayer_id": "653138",
+    "public_code": "OGS-003/024",
+    "collector_number": 3,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Action]_ (Play on your turn or in showdowns.)_Deal 2 to a unit at a battlefield.",
+      "plain": "[Action]_ (Play on your turn or in showdowns.)_Deal 2 to a unit at a battlefield."
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/46e4eaada1412f9b6c24751bdb3932c6a51e905f-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Incinerate"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "incinerate",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-003-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

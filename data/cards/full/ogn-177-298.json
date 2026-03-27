@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-177-298",
+  "type": "card_record",
+  "title": "Stealthy Pursuer",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "7b86bb98-2c3e-4a0d-bc1b-01f474b344cd",
+    "name": "Stealthy Pursuer",
+    "riftbound_id": "ogn-177-298",
+    "tcgplayer_id": "652966",
+    "public_code": "OGN-177/298",
+    "collector_number": 177,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When a friendly unit moves from my location, I may be moved with it.",
+      "plain": "When a friendly unit moves from my location, I may be moved with it."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ab23fd84badd67e9981512acbe6c3e9a8f97f42d-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Stealthy Pursuer"
+    },
+    "tags": [
+      "Shurima"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "stealthy-pursuer",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-177-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

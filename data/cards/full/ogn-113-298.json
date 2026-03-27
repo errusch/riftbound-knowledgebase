@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-113-298",
+  "type": "card_record",
+  "title": "Malzahar, Fanatic",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "a4030d84-c508-4dfe-a083-cf59770330aa",
+    "name": "Malzahar, Fanatic",
+    "riftbound_id": "ogn-113-298",
+    "tcgplayer_id": "652895",
+    "public_code": "OGN-113/298",
+    "collector_number": 113,
+    "attributes": {
+      "energy": 4,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "Kill a friendly unit or gear, :rb_exhaust:: [Action] \u2014 [Add] :rb_rune_rainbow::rb_rune_rainbow:. (Use on your turn or in showdowns. Abilities that add resources can't be reacted to.)",
+      "plain": "Kill a friendly unit or gear, :rb_exhaust:: [Action] \u2014 [Add] :rb_rune_rainbow::rb_rune_rainbow:. (Use on your turn or in showdowns. Abilities that add resources can't be reacted to.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ba1fa3a18b1c2ff132ad536577e53deb49bce1f9-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Malzahar, Fanatic"
+    },
+    "tags": [
+      "Malzahar",
+      "The Void"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "malzahar-fanatic",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-113-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

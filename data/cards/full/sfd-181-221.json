@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-181-221",
+  "type": "card_record",
+  "title": "Mechanized Menace",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Legend",
+    "Fury",
+    "Mind"
+  ],
+  "record": {
+    "id": "acf8e1a0-806d-4bbc-b9c7-e8d9348249c5",
+    "name": "Mechanized Menace",
+    "riftbound_id": "sfd-181-221",
+    "tcgplayer_id": "664915",
+    "public_code": "SFD-181/221",
+    "collector_number": 181,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Fury",
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "Your Mechs have [Shield]. (+1 :rb_might: while they're defenders.)",
+      "plain": "Your Mechs have [Shield]. (+1 :rb_might: while they're defenders.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f311115e4c527ce82010596ce462d4050a9201b2-744x1039.png",
+      "artist": "Pandart Studio",
+      "accessibility_text": "Mechanized Menace"
+    },
+    "tags": [
+      "Rumble"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "mechanized-menace",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-181-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-154-298",
+  "type": "card_record",
+  "title": "Primal Strength",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Body"
+  ],
+  "record": {
+    "id": "8cb4827a-feaa-4198-8dd2-a0220690e892",
+    "name": "Primal Strength",
+    "riftbound_id": "ogn-154-298",
+    "tcgplayer_id": "652939",
+    "public_code": "OGN-154/298",
+    "collector_number": 154,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Give a unit +7 :rb_might: this turn.",
+      "plain": "[Action] (Play on your turn or in showdowns.)Give a unit +7 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dfd910a9836cd36340d0ffdb5fe8cb92a1069963-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Primal Strength"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "primal-strength",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-154-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

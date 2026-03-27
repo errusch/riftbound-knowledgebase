@@ -1,0 +1,59 @@
+{
+  "id": "card.ogs-011-024",
+  "type": "card_record",
+  "title": "Flash",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Spell",
+    "Chaos"
+  ],
+  "record": {
+    "id": "93f1e74f-35fc-49e2-a997-a8fe23e832b9",
+    "name": "Flash",
+    "riftbound_id": "ogs-011-024",
+    "tcgplayer_id": "653146",
+    "public_code": "OGS-011/024",
+    "collector_number": 11,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Move up to 2 friendly units to base.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Move up to 2 friendly units to base."
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4d9cc1c13b75933e509e642213f13359350cd3f9-744x1039.png",
+      "artist": "Sugar Free",
+      "accessibility_text": "Flash"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "flash",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-011-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

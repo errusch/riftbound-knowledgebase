@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-218-298",
+  "type": "card_record",
+  "title": "Vanguard Captain",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "c88f7c77-50f5-4a67-95a2-90ce6331f9ca",
+    "name": "Vanguard Captain",
+    "riftbound_id": "ogn-218-298",
+    "tcgplayer_id": "653012",
+    "public_code": "OGN-218/298",
+    "collector_number": 218,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Legion] \u2014 When you play me, play two 1 :rb_might: Recruit unit tokens here._ (Get the effect if you've played another card this turn.)_",
+      "plain": "[Legion] \u2014 When you play me, play two 1 :rb_might: Recruit unit tokens here._ (Get the effect if you've played another card this turn.)_"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f0c9ddb2af7a0d4991938cf1e3058eb0f5d2e357-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Vanguard Captain"
+    },
+    "tags": [
+      "Elite",
+      "Demacia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "vanguard-captain",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-218-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-184-298",
+  "type": "card_record",
+  "title": "The Syren",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Chaos"
+  ],
+  "record": {
+    "id": "011cf9d5-5e56-4e17-904e-2f35d6ac4cb2",
+    "name": "The Syren",
+    "riftbound_id": "ogn-184-298",
+    "tcgplayer_id": "652973",
+    "public_code": "OGN-184/298",
+    "collector_number": 184,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": ":rb_energy_1:, :rb_exhaust:: Move a friendly unit at a battlefield to its base.",
+      "plain": ":rb_energy_1:, :rb_exhaust:: Move a friendly unit at a battlefield to its base."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cafdd212b542243e10e5fac587616ab77e3d9cf1-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "The Syren"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "the-syren",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-184-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

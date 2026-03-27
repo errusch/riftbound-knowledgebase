@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-007a-298",
+  "type": "card_record",
+  "title": "Fury Rune",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Rune",
+    "Fury"
+  ],
+  "record": {
+    "id": "400c39b5-222a-4974-8edc-09f057c9c3bc",
+    "name": "Fury Rune",
+    "riftbound_id": "ogn-007a-298",
+    "tcgplayer_id": "652778",
+    "public_code": "OGN-007a/298",
+    "collector_number": 7,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Rune",
+      "supertype": "Basic",
+      "rarity": "Showcase",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "(Rune - no card text)",
+      "plain": "(Rune - no card text)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/09da06c69d07d4e72dde703737ef167472c715af-1488x2078.png",
+      "artist": "Fairfoul",
+      "accessibility_text": "Fury Rune"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "fury-rune",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-007a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

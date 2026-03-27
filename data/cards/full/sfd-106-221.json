@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-106-221",
+  "type": "card_record",
+  "title": "Show of Strength",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Body"
+  ],
+  "record": {
+    "id": "cd5b3001-e7b4-4f23-bbb3-c5b14333255a",
+    "name": "Show of Strength",
+    "riftbound_id": "sfd-106-221",
+    "tcgplayer_id": "666887",
+    "public_code": "SFD-106/221",
+    "collector_number": 106,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Draw 1 for each of your [Mighty] units. (A unit is Mighty while it has 5+ :rb_might:.)",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Draw 1 for each of your [Mighty] units. (A unit is Mighty while it has 5+ :rb_might:.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d04ac6687931018fd68368c65cc024155867cab4-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Show of Strength"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "show-of-strength",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-106-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-082-221",
+  "type": "card_record",
+  "title": "Ezreal, Dashing",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "288637fc-29c0-4b87-8f2b-ffc063ef82f5",
+    "name": "Ezreal, Dashing",
+    "riftbound_id": "sfd-082-221",
+    "tcgplayer_id": "665487",
+    "public_code": "SFD-082/221",
+    "collector_number": 82,
+    "attributes": {
+      "energy": 4,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When I attack or defend, deal damage equal to my Might to an enemy unit here.I don't deal combat damage.:rb_rune_mind:: [Action] \u2014 Move me to your base.",
+      "plain": "When I attack or defend, deal damage equal to my Might to an enemy unit here.I don't deal combat damage.:rb_rune_mind:: [Action] \u2014 Move me to your base."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3e040f7b7ca16009a2558674a911b8cc93122ba3-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Ezreal, Dashing"
+    },
+    "tags": [
+      "Ezreal",
+      "Piltover"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "ezreal-dashing",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-082-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

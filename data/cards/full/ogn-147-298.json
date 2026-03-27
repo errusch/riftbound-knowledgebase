@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-147-298",
+  "type": "card_record",
+  "title": "Wildclaw Shaman",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "9e78c46e-220e-4e69-ba51-42e7adce4876",
+    "name": "Wildclaw Shaman",
+    "riftbound_id": "ogn-147-298",
+    "tcgplayer_id": "652931",
+    "public_code": "OGN-147/298",
+    "collector_number": 147,
+    "attributes": {
+      "energy": 4,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, you may spend a buff to buff me and ready me. (If I don't have a buff, I get a +1 :rb_might: buff.)",
+      "plain": "When you play me, you may spend a buff to buff me and ready me. (If I don't have a buff, I get a +1 :rb_might: buff.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7abc938fee4ba397f52c8ea60d350857a7517b0c-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Wildclaw Shaman"
+    },
+    "tags": [
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "wildclaw-shaman",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-147-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

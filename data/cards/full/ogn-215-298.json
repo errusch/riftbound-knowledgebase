@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-215-298",
+  "type": "card_record",
+  "title": "Petty Officer",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "00c1848b-cb52-4ff4-8941-037985505208",
+    "name": "Petty Officer",
+    "riftbound_id": "ogn-215-298",
+    "tcgplayer_id": "653009",
+    "public_code": "OGN-215/298",
+    "collector_number": 215,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Assault] (+1 :rb_might: while I'm an attacker.)",
+      "plain": "[Assault] (+1 :rb_might: while I'm an attacker.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/29e062c4a38c0be12056568a2f8563557e2611c6-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Petty Officer"
+    },
+    "tags": [
+      "Pirate",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "petty-officer",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-215-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

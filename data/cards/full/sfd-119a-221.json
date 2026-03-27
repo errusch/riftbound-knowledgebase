@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-119a-221",
+  "type": "card_record",
+  "title": "Jax, Unrelenting",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "848996c4-16a2-4004-8a39-5bb1a0f9e36d",
+    "name": "Jax, Unrelenting",
+    "riftbound_id": "sfd-119a-221",
+    "tcgplayer_id": "665016",
+    "public_code": "SFD-119a/221",
+    "collector_number": 119,
+    "attributes": {
+      "energy": 4,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)When you attach an Equipment to me, you may pay :rb_energy_1: to draw 1.",
+      "plain": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)When you attach an Equipment to me, you may pay :rb_energy_1: to draw 1."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a5796125bdb0af8ceb60cd0c5c273c6417e0f7da-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Jax, Unrelenting"
+    },
+    "tags": [
+      "Jax",
+      "Icathia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "jax-unrelenting",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "sfd-119a-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

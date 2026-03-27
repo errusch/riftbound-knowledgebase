@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-273-298",
+  "type": "card_record",
+  "title": "Recruit (ZN)",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Colorless"
+  ],
+  "record": {
+    "id": "9af148d0-b923-47b8-af46-98c020997777",
+    "name": "Recruit (ZN)",
+    "riftbound_id": "ogn-273-298",
+    "tcgplayer_id": "660171",
+    "public_code": "OGN-273/298",
+    "collector_number": 273,
+    "attributes": {
+      "energy": null,
+      "might": 1,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Token",
+      "rarity": "Common",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "(Vanilla token - no abilities)",
+      "plain": "(Vanilla token - no abilities)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d93ec9a524a2989b9d7ef23c6fc02e8ce39959c2-744x1039.png",
+      "artist": "Fortiche Production",
+      "accessibility_text": "Recruit (ZN)"
+    },
+    "tags": [
+      "Recruit"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "recruit-zn",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-273-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

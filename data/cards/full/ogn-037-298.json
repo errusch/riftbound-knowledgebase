@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-037-298",
+  "type": "card_record",
+  "title": "Immortal Phoenix",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "1a37df2d-5092-42b6-93be-58df6c677654",
+    "name": "Immortal Phoenix",
+    "riftbound_id": "ogn-037-298",
+    "tcgplayer_id": "652810",
+    "public_code": "OGN-037/298",
+    "collector_number": 37,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Assault 2] (+2 :rb_might: while I'm an attacker.)When you kill a unit with a spell, you may pay :rb_energy_1::rb_rune_fury: to play me from your trash.",
+      "plain": "[Assault 2] (+2 :rb_might: while I'm an attacker.)When you kill a unit with a spell, you may pay :rb_energy_1::rb_rune_fury: to play me from your trash."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7b623ae985bf5f362b6d8d4a17e9b8146aeae3c3-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Immortal Phoenix"
+    },
+    "tags": [
+      "Spirit"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "immortal-phoenix",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-037-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-175-298",
+  "type": "card_record",
+  "title": "Shipyard Skulker",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "ec915815-ea03-4105-98ea-4f112a0ef870",
+    "name": "Shipyard Skulker",
+    "riftbound_id": "ogn-175-298",
+    "tcgplayer_id": "652964",
+    "public_code": "OGN-175/298",
+    "collector_number": 175,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "(Vanilla unit - no abilities)",
+      "plain": "(Vanilla unit - no abilities)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/000634f32b897638760b82e5365961f6d85bc0cb-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Shipyard Skulker"
+    },
+    "tags": [
+      "Pirate",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "shipyard-skulker",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-175-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

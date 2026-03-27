@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-023-298",
+  "type": "card_record",
+  "title": "Unlicensed Armory",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Fury"
+  ],
+  "record": {
+    "id": "0dc13d87-9a1c-478e-b390-ad6cd5103d4a",
+    "name": "Unlicensed Armory",
+    "riftbound_id": "ogn-023-298",
+    "tcgplayer_id": "652794",
+    "public_code": "OGN-023/298",
+    "collector_number": 23,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it dies this turn, you may pay :rb_rune_fury: to recall it exhausted instead. (Send it to base. This isn't a move.)",
+      "plain": "Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it dies this turn, you may pay :rb_rune_fury: to recall it exhausted instead. (Send it to base. This isn't a move.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1a80bedd893d9024fc90f108da36b4fd1d496ad6-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Unlicensed Armory"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "unlicensed-armory",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-023-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

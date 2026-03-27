@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-148a-221",
+  "type": "card_record",
+  "title": "Draven, Audacious",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "17a5b780-b093-45c5-8089-ea31b1aadbd0",
+    "name": "Draven, Audacious",
+    "riftbound_id": "sfd-148a-221",
+    "tcgplayer_id": "665028",
+    "public_code": "SFD-148a/221",
+    "collector_number": 148,
+    "attributes": {
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)The first time I win a combat each turn, you score 1 point.When I die in combat, choose an opponent. They score 1 point.",
+      "plain": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)The first time I win a combat each turn, you score 1 point.When I die in combat, choose an opponent. They score 1 point."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b2c2a20cd22c8799b211dd4d7f95c95a8be33ea-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Draven, Audacious"
+    },
+    "tags": [
+      "Draven",
+      "Noxus"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "draven-audacious",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "sfd-148a-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

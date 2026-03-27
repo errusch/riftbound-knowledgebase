@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-050-298",
+  "type": "card_record",
+  "title": "Rune Prison",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Calm"
+  ],
+  "record": {
+    "id": "91452c4d-5091-4437-8224-22507d4bc402",
+    "name": "Rune Prison",
+    "riftbound_id": "ogn-050-298",
+    "tcgplayer_id": "652826",
+    "public_code": "OGN-050/298",
+    "collector_number": 50,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Stun a unit._ (It doesn't deal combat damage this turn.)_",
+      "plain": "[Action] (Play on your turn or in showdowns.)Stun a unit._ (It doesn't deal combat damage this turn.)_"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/21867baeaced3c22cda5f40f6b6c9a8dad4b7042-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Rune Prison"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "rune-prison",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-050-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-152-298",
+  "type": "card_record",
+  "title": "Mistfall",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Body"
+  ],
+  "record": {
+    "id": "3cf874dc-f4d6-4269-a36b-e2713179711d",
+    "name": "Mistfall",
+    "riftbound_id": "ogn-152-298",
+    "tcgplayer_id": "652937",
+    "public_code": "OGN-152/298",
+    "collector_number": 152,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you buff a friendly unit, you may pay :rb_rune_body: and exhaust this to ready it.",
+      "plain": "When you buff a friendly unit, you may pay :rb_rune_body: and exhaust this to ready it."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1cedf0dcd6c4a44ae867e9f04f9f179d9b91c357-744x1039.png",
+      "artist": "Polar Engine Studio",
+      "accessibility_text": "Mistfall"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "mistfall",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-152-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

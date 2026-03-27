@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-239-298",
+  "type": "card_record",
+  "title": "Machine Evangel",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "3705cccf-4ffb-4881-837c-977144c7581f",
+    "name": "Machine Evangel",
+    "riftbound_id": "ogn-239-298",
+    "tcgplayer_id": "653034",
+    "public_code": "OGN-239/298",
+    "collector_number": 239,
+    "attributes": {
+      "energy": 5,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)",
+      "plain": "[Deathknell] \u2014 Play three 1 :rb_might: Recruit unit tokens into your base. (When I die, get the effect.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ad15d4ff89548e83dcede9b209b12233652cf3a1-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Machine Evangel"
+    },
+    "tags": [
+      "Piltover"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "machine-evangel",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-239-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

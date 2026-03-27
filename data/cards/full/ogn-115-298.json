@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-115-298",
+  "type": "card_record",
+  "title": "Promising Future",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Mind"
+  ],
+  "record": {
+    "id": "0ed838f8-d635-4dff-b3d1-ddaf5c02e0e9",
+    "name": "Promising Future",
+    "riftbound_id": "ogn-115-298",
+    "tcgplayer_id": "652897",
+    "public_code": "OGN-115/298",
+    "collector_number": 115,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "Each player looks at the top 5 cards of their Main Deck, chooses one, then recycles the rest. Starting with the next player, each player plays those cards, ignoring Energy costs. (They must still pay Power costs.)",
+      "plain": "Each player looks at the top 5 cards of their Main Deck, chooses one, then recycles the rest. Starting with the next player, each player plays those cards, ignoring Energy costs. (They must still pay Power costs.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1ea5e7e50aaecee0b2ee2657d3c829dff0718fba-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Promising Future"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "promising-future",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-115-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

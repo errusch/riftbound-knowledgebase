@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-105-221",
+  "type": "card_record",
+  "title": "Ruin Runner",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "5a3b2f96-09de-4b8d-8da0-ebb49df405ce",
+    "name": "Ruin Runner",
+    "riftbound_id": "sfd-105-221",
+    "tcgplayer_id": "666586",
+    "public_code": "SFD-105/221",
+    "collector_number": 105,
+    "attributes": {
+      "energy": 6,
+      "might": 5,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "I can't be chosen by enemy spells and abilities.",
+      "plain": "I can't be chosen by enemy spells and abilities."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/08abcf17d3356325b0c1b83a78a87be855e5a71a-744x1039.png",
+      "artist": "Grafit Studio",
+      "accessibility_text": "Ruin Runner"
+    },
+    "tags": [
+      "Shurima"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "ruin-runner",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-105-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

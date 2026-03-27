@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-207-298",
+  "type": "card_record",
+  "title": "Call to Glory",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Order"
+  ],
+  "record": {
+    "id": "50f4a829-5b19-4f37-926c-cb1fd4b456fb",
+    "name": "Call to Glory",
+    "riftbound_id": "ogn-207-298",
+    "tcgplayer_id": "653000",
+    "public_code": "OGN-207/298",
+    "collector_number": 207,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)As you play this, you may spend a buff as an additional cost. If you do, ignore this spell's cost.Give a unit +3 :rb_might: this turn.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)As you play this, you may spend a buff as an additional cost. If you do, ignore this spell's cost.Give a unit +3 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ced53bc3fb15f263471067fc3868295b09e62a07-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Call to Glory"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "call-to-glory",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-207-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

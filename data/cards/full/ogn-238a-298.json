@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-238a-298",
+  "type": "card_record",
+  "title": "Leona, Determined",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "47c1f45e-bd76-4f02-88e7-dca4c9c37811",
+    "name": "Leona, Determined",
+    "riftbound_id": "ogn-238a-298",
+    "tcgplayer_id": "653033",
+    "public_code": "OGN-238a/298",
+    "collector_number": 238,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Shield] (+1 :rb_might: while I'm a defender.)When I attack, stun an enemy unit here. (It doesn't deal combat damage this turn.)",
+      "plain": "[Shield] (+1 :rb_might: while I'm a defender.)When I attack, stun an enemy unit here. (It doesn't deal combat damage this turn.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1ed0250f1d3bbbbde49b3ce1fc2e744e4da64baa-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Leona, Determined"
+    },
+    "tags": [
+      "Leona",
+      "Mount Targon"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "leona-determined",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-238a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-142-221",
+  "type": "card_record",
+  "title": "Jae Medarda",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "14c7b868-d1ad-4178-be19-06486db380e0",
+    "name": "Jae Medarda",
+    "riftbound_id": "sfd-142-221",
+    "tcgplayer_id": "666488",
+    "public_code": "SFD-142/221",
+    "collector_number": 142,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you choose me with a spell, draw 1.",
+      "plain": "When you choose me with a spell, draw 1."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/92eac6bb020a068d9c1668b59ecaaeab05112b3f-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Jae Medarda"
+    },
+    "tags": [
+      "Noxus"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "jae-medarda",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-142-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

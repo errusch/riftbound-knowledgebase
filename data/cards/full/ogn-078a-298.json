@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-078a-298",
+  "type": "card_record",
+  "title": "Lee Sin, Ascetic",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "acb13a22-c708-4eb8-a2f4-00b54e59251d",
+    "name": "Lee Sin, Ascetic",
+    "riftbound_id": "ogn-078a-298",
+    "tcgplayer_id": "652857",
+    "public_code": "OGN-078a/298",
+    "collector_number": 78,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Shield]_ (+1 :rb_might: while I'm a defender.)_:rb_exhaust:: Buff me. (I get a +1 :rb_might: buff.)I can have any number of buffs.",
+      "plain": "[Shield]_ (+1 :rb_might: while I'm a defender.)_:rb_exhaust:: Buff me. (I get a +1 :rb_might: buff.)I can have any number of buffs."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d34a98faacd3f7d32afd6fad99c806f202aa9dad-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Lee Sin, Ascetic"
+    },
+    "tags": [
+      "Lee Sin",
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "lee-sin-ascetic",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-078a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

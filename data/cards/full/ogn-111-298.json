@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-111-298",
+  "type": "card_record",
+  "title": "Heimerdinger, Inventor",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "da600754-f1fd-48c3-acb1-456fcdf005f4",
+    "name": "Heimerdinger, Inventor",
+    "riftbound_id": "ogn-111-298",
+    "tcgplayer_id": "652892",
+    "public_code": "OGN-111/298",
+    "collector_number": 111,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "I have all :rb_exhaust: abilities of all friendly legends, units, and gear.",
+      "plain": "I have all :rb_exhaust: abilities of all friendly legends, units, and gear."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5b14a5f9d567c90329c151a8cc72d870b47b1434-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Heimerdinger, Inventor"
+    },
+    "tags": [
+      "Yordle",
+      "Heimerdinger",
+      "Piltover"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "heimerdinger-inventor",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-111-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

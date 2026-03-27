@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-104-298",
+  "type": "card_record",
+  "title": "Retreat",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Mind"
+  ],
+  "record": {
+    "id": "91580e68-af78-4a6e-883f-da76a8f994bb",
+    "name": "Retreat",
+    "riftbound_id": "ogn-104-298",
+    "tcgplayer_id": "652885",
+    "public_code": "OGN-104/298",
+    "collector_number": 104,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Return a friendly unit to its owner's hand. Its owner channels 1 rune exhausted.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Return a friendly unit to its owner's hand. Its owner channels 1 rune exhausted."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/71ecf6c06d3110a81ac0f01c726c06921f479a13-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Retreat"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "retreat",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-104-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

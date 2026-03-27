@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-196-298",
+  "type": "card_record",
+  "title": "Soulgorger",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "2205e234-b960-4368-a856-be63e312d71d",
+    "name": "Soulgorger",
+    "riftbound_id": "ogn-196-298",
+    "tcgplayer_id": "652986",
+    "public_code": "OGN-196/298",
+    "collector_number": 196,
+    "attributes": {
+      "energy": 8,
+      "might": 5,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, you may play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)",
+      "plain": "When you play me, you may play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/439c4fa7c8c47cba41df8bce3fe3c8068d297382-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Soulgorger"
+    },
+    "tags": [
+      "Spirit",
+      "Shadow Isles"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "soulgorger",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-196-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

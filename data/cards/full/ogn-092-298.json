@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-092-298",
+  "type": "card_record",
+  "title": "Riptide Rex",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "d2603310-eabd-4bd3-bceb-bab43b5cfaf6",
+    "name": "Riptide Rex",
+    "riftbound_id": "ogn-092-298",
+    "tcgplayer_id": "652873",
+    "public_code": "OGN-092/298",
+    "collector_number": 92,
+    "attributes": {
+      "energy": 6,
+      "might": 6,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, deal 6 to an enemy unit at a battlefield.",
+      "plain": "When you play me, deal 6 to an enemy unit at a battlefield."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e09bf1fb6d72da31d415ea31ae7413fe7f02d650-744x1039.png",
+      "artist": "MAR Studio",
+      "accessibility_text": "Riptide Rex"
+    },
+    "tags": [
+      "Pirate",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "riptide-rex",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-092-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

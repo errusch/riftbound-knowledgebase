@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-285-298",
+  "type": "card_record",
+  "title": "Reaver's Row",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "62e45534-9b00-41dd-aa81-f5c03e217a88",
+    "name": "Reaver's Row",
+    "riftbound_id": "ogn-285-298",
+    "tcgplayer_id": "653079",
+    "public_code": "OGN-285/298",
+    "collector_number": 285,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you defend here, you may move a friendly unit here to base.",
+      "plain": "When you defend here, you may move a friendly unit here to base."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/364af10bac81e6ffb8658b0dc0db551608d207ce-1038x744.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Reaver's Row"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "reaver-s-row",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-285-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-160-221",
+  "type": "card_record",
+  "title": "Zaun Punk",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "c8d66fd6-3d08-4271-a01d-77f34ff54f32",
+    "name": "Zaun Punk",
+    "riftbound_id": "sfd-160-221",
+    "tcgplayer_id": "666859",
+    "public_code": "SFD-160/221",
+    "collector_number": 160,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "You may kill a friendly gear as an additional cost to play me.When you play me, if you paid the additional cost, kill a gear.",
+      "plain": "You may kill a friendly gear as an additional cost to play me.When you play me, if you paid the additional cost, kill a gear."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/af4eec8bb065708bf790b940fa065ea3e735afa0-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Zaun Punk"
+    },
+    "tags": [
+      "Zaun"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "zaun-punk",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-160-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

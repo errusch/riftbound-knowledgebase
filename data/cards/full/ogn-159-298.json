@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-159-298",
+  "type": "card_record",
+  "title": "Warwick, Hunter",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "45d12bab-3640-4b36-8547-b8c18338ee3a",
+    "name": "Warwick, Hunter",
+    "riftbound_id": "ogn-159-298",
+    "tcgplayer_id": "652945",
+    "public_code": "OGN-159/298",
+    "collector_number": 159,
+    "attributes": {
+      "energy": 6,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "I enter ready.When I attack, kill all damaged enemy units here.",
+      "plain": "I enter ready.When I attack, kill all damaged enemy units here."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fcbf878905001fa81858e9f081346fd05425f264-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Warwick, Hunter"
+    },
+    "tags": [
+      "Dog",
+      "Warwick",
+      "Zaun"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "warwick-hunter",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-159-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

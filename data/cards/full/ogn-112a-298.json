@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-112a-298",
+  "type": "card_record",
+  "title": "Kai'Sa, Evolutionary",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "ff9c5dc9-4836-40d0-8757-9d211d71bf5f",
+    "name": "Kai'Sa, Evolutionary",
+    "riftbound_id": "ogn-112a-298",
+    "tcgplayer_id": "652894",
+    "public_code": "OGN-112a/298",
+    "collector_number": 112,
+    "attributes": {
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Ganking] (I can move from battlefield to battlefield.)When I conquer, you may play a spell from your trash with Energy cost less than your points without paying its Energy cost. Then recycle it. (You must still pay its Power cost.)",
+      "plain": "[Ganking] (I can move from battlefield to battlefield.)When I conquer, you may play a spell from your trash with Energy cost less than your points without paying its Energy cost. Then recycle it. (You must still pay its Power cost.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2c8c9619d4afd081de548b511000f7c4b849ec1e-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Kai'Sa, Evolutionary"
+    },
+    "tags": [
+      "Kai'Sa",
+      "The Void"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "kai-sa-evolutionary",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-112a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

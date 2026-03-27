@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-307-star-298",
+  "type": "card_record",
+  "title": "Swift Scout",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Legend",
+    "Mind",
+    "Chaos"
+  ],
+  "record": {
+    "id": "37ce2209-ddc8-4701-ad11-d9d63bcf308a",
+    "name": "Swift Scout",
+    "riftbound_id": "ogn-307-star-298",
+    "tcgplayer_id": "653110",
+    "public_code": "OGN-307*/298",
+    "collector_number": 307,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Showcase",
+      "domain": [
+        "Mind",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "You may pay :rb_energy_1: to hide a card with [Hidden] instead of :rb_rune_rainbow:.:rb_energy_1:, :rb_exhaust:: Put a Teemo unit you own into your hand from your Champion Zone or the board.",
+      "plain": "You may pay :rb_energy_1: to hide a card with [Hidden] instead of :rb_rune_rainbow:.:rb_energy_1:, :rb_exhaust:: Put a Teemo unit you own into your hand from your Champion Zone or the board."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4fd9e82cbd96010e2556430970d433022b541a51-1488x2078.png",
+      "artist": "Jordan Yoon",
+      "accessibility_text": "Swift Scout"
+    },
+    "tags": [
+      "Teemo"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "swift-scout",
+      "alternate_art": false,
+      "signature": true,
+      "record_key": "ogn-307-star-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

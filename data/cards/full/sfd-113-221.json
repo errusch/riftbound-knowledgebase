@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-113-221",
+  "type": "card_record",
+  "title": "Lucian, Merciless",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "4784dbc1-ebea-4dba-bb08-1bd6cfc9582b",
+    "name": "Lucian, Merciless",
+    "riftbound_id": "sfd-113-221",
+    "tcgplayer_id": "663444",
+    "public_code": "SFD-113/221",
+    "collector_number": 113,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)The first time I conquer each turn, ready me.",
+      "plain": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)The first time I conquer each turn, ready me."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bc192b6e22e7a277c53f035809c59db4548a0fd5-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Lucian, Merciless"
+    },
+    "tags": [
+      "Lucian",
+      "Demacia",
+      "Sentinel"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "lucian-merciless",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-113-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

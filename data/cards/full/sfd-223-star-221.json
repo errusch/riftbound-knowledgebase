@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-223-star-221",
+  "type": "card_record",
+  "title": "Vayne, Hunter",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "0a66c309-ca2b-48c8-8e3f-b7672115a83c",
+    "name": "Vayne, Hunter",
+    "riftbound_id": "sfd-223-star-221",
+    "tcgplayer_id": "664938",
+    "public_code": "SFD-223*/221",
+    "collector_number": 223,
+    "attributes": {
+      "energy": 4,
+      "might": 2,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Assault 3]_ (+3 :rb_might: while I'm an attacker.)_If an opponent controls a battlefield, I enter ready.When I conquer, you may pay :rb_energy_1: to return me to my owner's hand.",
+      "plain": "[Assault 3]_ (+3 :rb_might: while I'm an attacker.)_If an opponent controls a battlefield, I enter ready.When I conquer, you may pay :rb_energy_1: to return me to my owner's hand."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/75f9eac062e43105ee602b6050fe230fb8d2dce5-744x1039.png",
+      "artist": "John Kafka",
+      "accessibility_text": "Vayne, Hunter"
+    },
+    "tags": [
+      "Vayne",
+      "Demacia",
+      "Sentinel"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "vayne-hunter",
+      "alternate_art": false,
+      "signature": true,
+      "record_key": "sfd-223-star-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

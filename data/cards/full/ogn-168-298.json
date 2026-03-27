@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-168-298",
+  "type": "card_record",
+  "title": "Fight or Flight",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Chaos"
+  ],
+  "record": {
+    "id": "e0e6e65c-bce3-43f4-8117-342522c7f4df",
+    "name": "Fight or Flight",
+    "riftbound_id": "ogn-168-298",
+    "tcgplayer_id": "652957",
+    "public_code": "OGN-168/298",
+    "collector_number": 168,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Action] (Play on your turn or in showdowns.)Move a unit from a battlefield to its base.",
+      "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Action] (Play on your turn or in showdowns.)Move a unit from a battlefield to its base."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2c3d543ab6c3809f45f3e410d59d376b4bee6de7-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Fight or Flight"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "fight-or-flight",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-168-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

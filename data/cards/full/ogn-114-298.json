@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-114-298",
+  "type": "card_record",
+  "title": "Progress Day",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Mind"
+  ],
+  "record": {
+    "id": "cc5bc498-d2d2-40f9-8a84-69b3b67505e2",
+    "name": "Progress Day",
+    "riftbound_id": "ogn-114-298",
+    "tcgplayer_id": "652896",
+    "public_code": "OGN-114/298",
+    "collector_number": 114,
+    "attributes": {
+      "energy": 6,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "Draw 4.",
+      "plain": "Draw 4."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b15f479a8f29e31b6e4c06cf2d7c8cb8630073ef-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Progress Day"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "progress-day",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-114-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

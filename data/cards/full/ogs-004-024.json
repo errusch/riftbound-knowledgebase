@@ -1,0 +1,62 @@
+{
+  "id": "card.ogs-004-024",
+  "type": "card_record",
+  "title": "Yi, Meditative",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "38052469-6e48-46ae-b0e9-acb9012a71bd",
+    "name": "Yi, Meditative",
+    "riftbound_id": "ogs-004-024",
+    "tcgplayer_id": "653139",
+    "public_code": "OGS-004/024",
+    "collector_number": 4,
+    "attributes": {
+      "energy": 5,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "While you have 8+ runes, I have +4 :rb_might:.",
+      "plain": "While you have 8+ runes, I have +4 :rb_might:."
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5508566c8f05f09492148faa803332a731095eb7-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Yi, Meditative"
+    },
+    "tags": [
+      "Master Yi",
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "yi-meditative",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-004-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

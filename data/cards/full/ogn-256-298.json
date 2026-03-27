@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-256-298",
+  "type": "card_record",
+  "title": "Fox-Fire",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Calm",
+    "Mind"
+  ],
+  "record": {
+    "id": "74a3af70-dda3-4c95-a34c-aae9c15babff",
+    "name": "Fox-Fire",
+    "riftbound_id": "ogn-256-298",
+    "tcgplayer_id": "653054",
+    "public_code": "OGN-256/298",
+    "collector_number": 256,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Calm",
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Action] (Play on your turn or in showdowns.)Kill any number of units at a battlefield with total Might 4 or less.",
+      "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Action] (Play on your turn or in showdowns.)Kill any number of units at a battlefield with total Might 4 or less."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7ad9d6a46a1c54080d54950a0044da3a82e32b45-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Fox-Fire"
+    },
+    "tags": [
+      "Ahri"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "fox-fire",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-256-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

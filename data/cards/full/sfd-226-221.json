@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-226-221",
+  "type": "card_record",
+  "title": "Seal of Focus",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Calm"
+  ],
+  "record": {
+    "id": "5c5b90f8-5dff-464b-af29-14ae34f6fd28",
+    "name": "Seal of Focus",
+    "riftbound_id": "sfd-226-221",
+    "tcgplayer_id": "664942",
+    "public_code": "SFD-226/221",
+    "collector_number": 226,
+    "attributes": {
+      "energy": 0,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Showcase",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_calm:. (Abilities that add resources can't be reacted to.)",
+      "plain": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_calm:. (Abilities that add resources can't be reacted to.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b6bb0da7d3b37dad51148b7914e7d2b840b6482-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Seal of Focus"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "seal-of-focus",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-226-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

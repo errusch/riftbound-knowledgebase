@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-274-298",
+  "type": "card_record",
+  "title": "Sprite",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Colorless"
+  ],
+  "record": {
+    "id": "a4e6f15f-6b23-473f-84c4-e51dc6490bdf",
+    "name": "Sprite",
+    "riftbound_id": "ogn-274-298",
+    "tcgplayer_id": "662994",
+    "public_code": "OGN-274/298",
+    "collector_number": 274,
+    "attributes": {
+      "energy": null,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Token",
+      "rarity": "Common",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "[Temporary] (Kill me at the start of your Beginning Phase, before scoring.)",
+      "plain": "[Temporary] (Kill me at the start of your Beginning Phase, before scoring.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/055892752559d2d3d32e76f491a7a0b540e1a669-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Sprite"
+    },
+    "tags": [
+      "Fae"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "sprite",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-274-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

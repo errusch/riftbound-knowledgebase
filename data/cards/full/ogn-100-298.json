@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-100-298",
+  "type": "card_record",
+  "title": "Gemcraft Seer",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "5a9a9310-5d7e-4a28-acdf-437b188a7140",
+    "name": "Gemcraft Seer",
+    "riftbound_id": "ogn-100-298",
+    "tcgplayer_id": "652881",
+    "public_code": "OGN-100/298",
+    "collector_number": 100,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)Other friendly units have [Vision].",
+      "plain": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)Other friendly units have [Vision]."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4b6965bd592a5f602ab932094d677b6c85b2372b-744x1039.png",
+      "artist": "Bubble Cat Studio",
+      "accessibility_text": "Gemcraft Seer"
+    },
+    "tags": [
+      "Mount Targon"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "gemcraft-seer",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-100-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

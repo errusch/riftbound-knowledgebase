@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-247-298",
+  "type": "card_record",
+  "title": "Daughter of the Void",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Legend",
+    "Fury",
+    "Mind"
+  ],
+  "record": {
+    "id": "0d353f87-5986-4e26-89a1-c6052b3465e2",
+    "name": "Daughter of the Void",
+    "riftbound_id": "ogn-247-298",
+    "tcgplayer_id": "653045",
+    "public_code": "OGN-247/298",
+    "collector_number": 247,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Fury",
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_rainbow:. Use only to play spells. (Abilities that add resources can't be reacted to.)",
+      "plain": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_rainbow:. Use only to play spells. (Abilities that add resources can't be reacted to.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a576472c7bb00f475882ac814e1d8f9be233b402-744x1040.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Daughter of the Void"
+    },
+    "tags": [
+      "Kai'Sa"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "daughter-of-the-void",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-247-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-040-221",
+  "type": "card_record",
+  "title": "Thwonk!",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Calm"
+  ],
+  "record": {
+    "id": "5206aa7e-2a1d-46c2-a8c3-d8de824b4a6c",
+    "name": "Thwonk!",
+    "riftbound_id": "sfd-040-221",
+    "tcgplayer_id": "666369",
+    "public_code": "SFD-040/221",
+    "collector_number": 40,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)Stun an attacking unit. (It doesn't deal combat damage this turn.)",
+      "plain": "[Action] (Play on your turn or in showdowns.)[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)Stun an attacking unit. (It doesn't deal combat damage this turn.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c414fdba5e47db294b8364a07f1258bc3e204c51-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Thwonk!"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "thwonk",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-040-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-232-298",
+  "type": "card_record",
+  "title": "Fiora, Victorious",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "486cfe8f-8a5f-4b24-a4e6-e653397aa3e7",
+    "name": "Fiora, Victorious",
+    "riftbound_id": "ogn-232-298",
+    "tcgplayer_id": "653026",
+    "public_code": "OGN-232/298",
+    "collector_number": 232,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "While I'm [Mighty], I have [Deflect], [Ganking], and [Shield]. (I'm Mighty while I have 5+ :rb_might:.)",
+      "plain": "While I'm [Mighty], I have [Deflect], [Ganking], and [Shield]. (I'm Mighty while I have 5+ :rb_might:.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/24d4d1997e6a5b145412e402fc69399d590ecda0-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Fiora, Victorious"
+    },
+    "tags": [
+      "Fiora",
+      "Demacia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "fiora-victorious",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-232-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

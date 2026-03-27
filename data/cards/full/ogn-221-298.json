@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-221-298",
+  "type": "card_record",
+  "title": "Imperial Decree",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Order"
+  ],
+  "record": {
+    "id": "207dfafc-5ad9-4e10-9d08-a3d3a5c012b4",
+    "name": "Imperial Decree",
+    "riftbound_id": "ogn-221-298",
+    "tcgplayer_id": "653015",
+    "public_code": "OGN-221/298",
+    "collector_number": 221,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": 2
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)When any unit takes damage this turn, kill it.",
+      "plain": "[Action] (Play on your turn or in showdowns.)When any unit takes damage this turn, kill it."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fc6ab617f1ce20c82ed76dc6446d42d416c08b34-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Imperial Decree"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "imperial-decree",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-221-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

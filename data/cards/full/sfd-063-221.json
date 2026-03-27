@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-063-221",
+  "type": "card_record",
+  "title": "Chemtech Cask",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Mind"
+  ],
+  "record": {
+    "id": "df3fcbf2-d20e-4684-99a9-977116140921",
+    "name": "Chemtech Cask",
+    "riftbound_id": "sfd-063-221",
+    "tcgplayer_id": "666430",
+    "public_code": "SFD-063/221",
+    "collector_number": 63,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When you play a spell on an opponent's turn, you may exhaust me to play a Gold gear token exhausted.",
+      "plain": "When you play a spell on an opponent's turn, you may exhaust me to play a Gold gear token exhausted."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/39071feea6d3739a834a83b1841f496bdfc3a59a-744x1039.png",
+      "artist": "Six More Vodka & \u9eef\u8367\u5c9bDark Glow",
+      "accessibility_text": "Chemtech Cask"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "chemtech-cask",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-063-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

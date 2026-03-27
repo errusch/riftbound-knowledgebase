@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import re
 import shutil
+import sqlite3
 import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
@@ -16,6 +17,12 @@ ROOT = Path(__file__).resolve().parents[2]
 RAW_SOURCE_ROOT = Path("/Users/eric/claude-workspace/riftbound")
 HEXTECH_ROOT = Path("/Users/eric/hextech-analytics")
 IGNORED_DUPLICATE_ROOT = Path("/Users/eric/Documents/hextech-analytics-current")
+LEGACY_KNOWLEDGE_DB_CANDIDATES = [
+    Path("/Users/eric/.openclaw/workspace/databases/knowledge.db"),
+    Path("/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db"),
+    Path("/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/backups/pre-ollama-20260226-1158/databases/knowledge.db"),
+    Path("/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/backups/pre-graph-memory-20260225-1027/databases/knowledge.db"),
+]
 
 
 def now_iso() -> str:
@@ -38,7 +45,7 @@ def write_json(path: Path, payload: Any) -> None:
 
 def load_json(path: Path, default: Any = None) -> Any:
     if not path.exists():
-      return default
+        return default
     return json.loads(path.read_text(encoding="utf-8"))
 
 
@@ -216,3 +223,22 @@ def parse_markdown_file(path: Path) -> dict[str, Any]:
 def canonical_tags(*tags: str) -> list[str]:
     return [tag for tag in tags if tag]
 
+
+def sqlite_table_exists(db_path: Path, table_name: str) -> bool:
+    if not db_path.exists():
+        return False
+    with sqlite3.connect(db_path) as conn:
+        row = conn.execute(
+            "SELECT name FROM sqlite_master WHERE type = 'table' AND name = ?",
+            (table_name,),
+        ).fetchone()
+    return bool(row)
+
+
+def find_legacy_knowledge_db(required_table: str = "riftbound_cards") -> Path | None:
+    env_path = Path.cwd() / "data" / "knowledge.db"
+    candidates = [env_path, *LEGACY_KNOWLEDGE_DB_CANDIDATES]
+    for candidate in candidates:
+        if sqlite_table_exists(candidate, required_table):
+            return candidate
+    return None

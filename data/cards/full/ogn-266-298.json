@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-266-298",
+  "type": "card_record",
+  "title": "Siphon Power",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Mind",
+    "Order"
+  ],
+  "record": {
+    "id": "1cc43d43-391a-4461-81ff-580bb58e8ed6",
+    "name": "Siphon Power",
+    "riftbound_id": "ogn-266-298",
+    "tcgplayer_id": "653064",
+    "public_code": "OGN-266/298",
+    "collector_number": 266,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Mind",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Choose a battlefield. Give friendly units there +1 :rb_might: this turn and enemy units there -1 :rb_might: this turn, to a minimum of 1 :rb_might:.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Choose a battlefield. Give friendly units there +1 :rb_might: this turn and enemy units there -1 :rb_might: this turn, to a minimum of 1 :rb_might:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b449170ba312711c82708d1fea2b044822ce5eaa-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Siphon Power"
+    },
+    "tags": [
+      "Viktor"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "siphon-power",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-266-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

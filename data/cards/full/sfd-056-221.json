@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-056-221",
+  "type": "card_record",
+  "title": "Sterak's Gage",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Calm"
+  ],
+  "record": {
+    "id": "645c3ced-f5de-409a-90c1-c98414d3bc7b",
+    "name": "Sterak's Gage",
+    "riftbound_id": "sfd-056-221",
+    "tcgplayer_id": "663434",
+    "public_code": "SFD-056/221",
+    "collector_number": 56,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 2
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)",
+      "plain": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df16e6b668fc6771ff657512deba1bf48363e23a-744x1039.png",
+      "artist": "\u9eef\u8367\u5c9bDark Glow",
+      "accessibility_text": "Sterak's Gage"
+    },
+    "tags": [
+      "Equipment"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "sterak-s-gage",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-056-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

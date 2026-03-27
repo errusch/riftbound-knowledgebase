@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-189-298",
+  "type": "card_record",
+  "title": "Kayn, Unleashed",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "331896ab-0762-493e-b3f4-915f159058f6",
+    "name": "Kayn, Unleashed",
+    "riftbound_id": "ogn-189-298",
+    "tcgplayer_id": "652978",
+    "public_code": "OGN-189/298",
+    "collector_number": 189,
+    "attributes": {
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Ganking] (I can move from battlefield to battlefield.)If I have moved twice this turn, I don't take damage.",
+      "plain": "[Ganking] (I can move from battlefield to battlefield.)If I have moved twice this turn, I don't take damage."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a1ce0e784264748f170bebb3b26a09a7f55efe0f-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Kayn, Unleashed"
+    },
+    "tags": [
+      "Kayn",
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "kayn-unleashed",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-189-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-291-298",
+  "type": "card_record",
+  "title": "The Candlelit Sanctum",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "8ffa553a-f05a-4878-970c-b89f677589f9",
+    "name": "The Candlelit Sanctum",
+    "riftbound_id": "ogn-291-298",
+    "tcgplayer_id": "653085",
+    "public_code": "OGN-291/298",
+    "collector_number": 291,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer here, look at the top two cards of your Main Deck. You may recycle one or both of them. Put those you don't back in any order.",
+      "plain": "When you conquer here, look at the top two cards of your Main Deck. You may recycle one or both of them. Put those you don't back in any order."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f14fe78f2b7f3909eadb07bce24bd582e190653d-1038x744.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "The Candlelit Sanctum"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "the-candlelit-sanctum",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-291-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

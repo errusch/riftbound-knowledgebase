@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-126-298",
+  "type": "card_record",
+  "title": "Body Rune",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Rune",
+    "Body"
+  ],
+  "record": {
+    "id": "76abdff9-5a27-44c1-990c-4c7b935faf99",
+    "name": "Body Rune",
+    "riftbound_id": "ogn-126-298",
+    "tcgplayer_id": "652909",
+    "public_code": "OGN-126/298",
+    "collector_number": 126,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Rune",
+      "supertype": "Basic",
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "(Rune - no card text)",
+      "plain": "(Rune - no card text)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3b3c3c07626d6180457c849047e0228dc0d19539-744x1039.png",
+      "artist": "Greg Ghielmetti & Leah Chen",
+      "accessibility_text": "Body Rune"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "body-rune",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-126-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

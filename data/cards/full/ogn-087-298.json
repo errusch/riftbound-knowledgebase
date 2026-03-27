@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-087-298",
+  "type": "card_record",
+  "title": "Lecturing Yordle",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "8404040b-a73b-44a9-9e22-b54a713883bf",
+    "name": "Lecturing Yordle",
+    "riftbound_id": "ogn-087-298",
+    "tcgplayer_id": "652867",
+    "public_code": "OGN-087/298",
+    "collector_number": 87,
+    "attributes": {
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Tank] (I must be assigned combat damage first.)When you play me, draw 1.",
+      "plain": "[Tank] (I must be assigned combat damage first.)When you play me, draw 1."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/62e22370dac35c18de21efbfce9c86ca821e9105-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Lecturing Yordle"
+    },
+    "tags": [
+      "Yordle",
+      "Bandle City"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "lecturing-yordle",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-087-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

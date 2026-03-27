@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-045-298",
+  "type": "card_record",
+  "title": "Defy",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Calm"
+  ],
+  "record": {
+    "id": "6e6df901-c806-4e44-87da-aa294f7edf52",
+    "name": "Defy",
+    "riftbound_id": "ogn-045-298",
+    "tcgplayer_id": "652821",
+    "public_code": "OGN-045/298",
+    "collector_number": 45,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Counter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Counter a spell that costs no more than :rb_energy_4: and no more than :rb_rune_rainbow:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4989bfcc4bd7be77051f0c2c349a981ba9c273e0-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Defy"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "defy",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-045-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

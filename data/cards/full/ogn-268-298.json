@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-268-298",
+  "type": "card_record",
+  "title": "Bullet Time",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Body",
+    "Chaos"
+  ],
+  "record": {
+    "id": "4eb2cfef-4bf9-48bc-bd42-4c57c8db60e4",
+    "name": "Bullet Time",
+    "riftbound_id": "ogn-268-298",
+    "tcgplayer_id": "653066",
+    "public_code": "OGN-268/298",
+    "collector_number": 268,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Body",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Pay any amount of :rb_rune_rainbow: to deal that much damage to all enemy units at a battlefield.",
+      "plain": "[Action] (Play on your turn or in showdowns.)Pay any amount of :rb_rune_rainbow: to deal that much damage to all enemy units at a battlefield."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/96ed7f6b121a7f46003534393350838efe2776f0-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Bullet Time"
+    },
+    "tags": [
+      "Miss Fortune"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "bullet-time",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-268-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

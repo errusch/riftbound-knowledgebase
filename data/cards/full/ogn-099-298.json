@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-099-298",
+  "type": "card_record",
+  "title": "Garbage Grabber",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Mind"
+  ],
+  "record": {
+    "id": "7efee9e6-dc27-4f70-a1e6-bcc965468cc4",
+    "name": "Garbage Grabber",
+    "riftbound_id": "ogn-099-298",
+    "tcgplayer_id": "652880",
+    "public_code": "OGN-099/298",
+    "collector_number": 99,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "Recycle 3 from your trash, :rb_energy_1:, :rb_exhaust:: Draw 1.",
+      "plain": "Recycle 3 from your trash, :rb_energy_1:, :rb_exhaust:: Draw 1."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/199f21237aeee2582904463a15ec62ce29452c10-744x1039.png",
+      "artist": "Caravan Studio",
+      "accessibility_text": "Garbage Grabber"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "garbage-grabber",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-099-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

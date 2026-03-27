@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-195-221",
+  "type": "card_record",
+  "title": "Blade Dancer",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Legend",
+    "Calm",
+    "Chaos"
+  ],
+  "record": {
+    "id": "3ad2ebba-6d5d-4d96-8c7d-c0b42a099628",
+    "name": "Blade Dancer",
+    "riftbound_id": "sfd-195-221",
+    "tcgplayer_id": "663441",
+    "public_code": "SFD-195/221",
+    "collector_number": 195,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Calm",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you choose a friendly unit, you may exhaust me and pay :rb_rune_rainbow: to ready it.When you conquer, you may pay :rb_energy_1: to ready me.",
+      "plain": "When you choose a friendly unit, you may exhaust me and pay :rb_rune_rainbow: to ready it.When you conquer, you may pay :rb_energy_1: to ready me."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/656ef2d1724b818e9e737ec5dcce923de067a316-744x1039.png",
+      "artist": "Pandart Studio",
+      "accessibility_text": "Blade Dancer"
+    },
+    "tags": [
+      "Irelia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "blade-dancer",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-195-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-164-221",
+  "type": "card_record",
+  "title": "Drag Under",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Order"
+  ],
+  "record": {
+    "id": "b153208c-b254-44ff-b7e9-f30a014c5c9a",
+    "name": "Drag Under",
+    "riftbound_id": "sfd-164-221",
+    "tcgplayer_id": "666497",
+    "public_code": "SFD-164/221",
+    "collector_number": 164,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)I cost :rb_energy_2: less to play from anywhere other than your hand.Kill a unit at a battlefield.",
+      "plain": "[Action] (Play on your turn or in showdowns.)I cost :rb_energy_2: less to play from anywhere other than your hand.Kill a unit at a battlefield."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2400881960412ada4c1d1066105f206b02f8998a-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Drag Under"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "drag-under",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-164-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

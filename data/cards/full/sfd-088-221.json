@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-088-221",
+  "type": "card_record",
+  "title": "Renata Glasc, Mastermind",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "cd7c14e5-cef0-4ce8-b911-51743b57e1bd",
+    "name": "Renata Glasc, Mastermind",
+    "riftbound_id": "sfd-088-221",
+    "tcgplayer_id": "666866",
+    "public_code": "SFD-088/221",
+    "collector_number": 88,
+    "attributes": {
+      "energy": 5,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Epic",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": ":rb_energy_1::rb_rune_mind:: Draw 1.:rb_energy_4::rb_rune_mind::rb_rune_mind::rb_rune_mind::rb_rune_mind:, :rb_exhaust:: Score 1 point.Use my abilities only while I'm at a battlefield.",
+      "plain": ":rb_energy_1::rb_rune_mind:: Draw 1.:rb_energy_4::rb_rune_mind::rb_rune_mind::rb_rune_mind::rb_rune_mind:, :rb_exhaust:: Score 1 point.Use my abilities only while I'm at a battlefield."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/be8f7e08562c076e8947aafc3ecd202051d17c02-744x1039.png",
+      "artist": "League of Legends",
+      "accessibility_text": "Renata Glasc, Mastermind"
+    },
+    "tags": [
+      "Renata Glasc",
+      "Zaun"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "renata-glasc-mastermind",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-088-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-222-221",
+  "type": "card_record",
+  "title": "Seal of Rage",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Fury"
+  ],
+  "record": {
+    "id": "63b6f77b-e1d9-4630-bb6e-0eb6d6423f58",
+    "name": "Seal of Rage",
+    "riftbound_id": "sfd-222-221",
+    "tcgplayer_id": "666789",
+    "public_code": "SFD-222/221",
+    "collector_number": 222,
+    "attributes": {
+      "energy": 0,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Showcase",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_fury:. (Abilities that add resources can't be reacted to.)",
+      "plain": ":rb_exhaust:: [Reaction] \u2014 [Add] :rb_rune_fury:. (Abilities that add resources can't be reacted to.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/669d4dd94cf2d88ad58333c13a98cca2014e71aa-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Seal of Rage"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "seal-of-rage",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-222-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

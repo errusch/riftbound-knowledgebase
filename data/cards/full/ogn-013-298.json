@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-013-298",
+  "type": "card_record",
+  "title": "Pouty Poro",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "e271e31c-b0d4-4d1c-82c7-349054a7f568",
+    "name": "Pouty Poro",
+    "riftbound_id": "ogn-013-298",
+    "tcgplayer_id": "652784",
+    "public_code": "OGN-013/298",
+    "collector_number": 13,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)",
+      "plain": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d541bf3bcb5aa3ad0d48d87f5753569b72ac426f-744x1039.png",
+      "artist": "Caravan Studio",
+      "accessibility_text": "Pouty Poro"
+    },
+    "tags": [
+      "Poro"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "pouty-poro",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-013-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

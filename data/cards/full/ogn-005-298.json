@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-005-298",
+  "type": "card_record",
+  "title": "Disintegrate",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Fury"
+  ],
+  "record": {
+    "id": "3346a8a7-1b3d-46df-949f-35a2db355614",
+    "name": "Disintegrate",
+    "riftbound_id": "ogn-005-298",
+    "tcgplayer_id": "652775",
+    "public_code": "OGN-005/298",
+    "collector_number": 5,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Action] Deal 3 to a unit at a battlefield. If this kills it, do this: draw 1.",
+      "plain": "[Action] Deal 3 to a unit at a battlefield. If this kills it, do this: draw 1."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a27374ac3a81f3dfefb43c3c3237c23b4883cb5a-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Disintegrate"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "disintegrate",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-005-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

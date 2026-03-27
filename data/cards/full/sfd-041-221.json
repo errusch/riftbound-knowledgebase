@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-041-221",
+  "type": "card_record",
+  "title": "Apprentice Smith",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "0aff0c6f-7e9e-4249-b364-ea508dbb2949",
+    "name": "Apprentice Smith",
+    "riftbound_id": "sfd-041-221",
+    "tcgplayer_id": "666583",
+    "public_code": "SFD-041/221",
+    "collector_number": 41,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "When I move, reveal the top card of your Main Deck. If it's a gear, draw it. Otherwise, recycle it.",
+      "plain": "When I move, reveal the top card of your Main Deck. If it's a gear, draw it. Otherwise, recycle it."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3998c6171ddc7a021560d9d9600c8eced9a8d628-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Apprentice Smith"
+    },
+    "tags": [
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "apprentice-smith",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-041-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

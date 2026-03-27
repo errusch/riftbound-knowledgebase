@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-011-221",
+  "type": "card_record",
+  "title": "Angle Shot",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Fury"
+  ],
+  "record": {
+    "id": "3547c3a4-feb6-487b-b242-ca5723248d97",
+    "name": "Angle Shot",
+    "riftbound_id": "sfd-011-221",
+    "tcgplayer_id": "666801",
+    "public_code": "SFD-011/221",
+    "collector_number": 11,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Choose a unit and an Equipment with the same controller. Attach that Equipment to that unit or detach that Equipment from that unit. Draw 1.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Choose a unit and an Equipment with the same controller. Attach that Equipment to that unit or detach that Equipment from that unit. Draw 1."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/757d507b684e55e333bac0ecdf2ec9ff3ad6045c-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Angle Shot"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "angle-shot",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-011-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

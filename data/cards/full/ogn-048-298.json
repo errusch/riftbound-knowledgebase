@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-048-298",
+  "type": "card_record",
+  "title": "Meditation",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Calm"
+  ],
+  "record": {
+    "id": "897a24cb-6ad6-45dd-b850-de65d46951bb",
+    "name": "Meditation",
+    "riftbound_id": "ogn-048-298",
+    "tcgplayer_id": "652824",
+    "public_code": "OGN-048/298",
+    "collector_number": 48,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)As an additional cost to play this, you may exhaust a friendly unit. If you do, draw 2. Otherwise, draw 1.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)As an additional cost to play this, you may exhaust a friendly unit. If you do, draw 2. Otherwise, draw 1."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7103336ab0d7f7bebdaa4155e4258d8d9beb06de-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Meditation"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "meditation",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-048-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

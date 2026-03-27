@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-132-298",
+  "type": "card_record",
+  "title": "First Mate",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "df843fc6-ff92-4f90-8760-6ee390662ed6",
+    "name": "First Mate",
+    "riftbound_id": "ogn-132-298",
+    "tcgplayer_id": "652916",
+    "public_code": "OGN-132/298",
+    "collector_number": 132,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, ready another unit.",
+      "plain": "When you play me, ready another unit."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/85e2b436ea482d53563cc5fa955f2a867ee6c32f-744x1039.png",
+      "artist": "Slawomir Maniak",
+      "accessibility_text": "First Mate"
+    },
+    "tags": [
+      "Pirate",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "first-mate",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-132-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

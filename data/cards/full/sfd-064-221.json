@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-064-221",
+  "type": "card_record",
+  "title": "Cloth Armor",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Mind"
+  ],
+  "record": {
+    "id": "39c2bbd8-dee9-4175-bcd0-62152547a091",
+    "name": "Cloth Armor",
+    "riftbound_id": "sfd-064-221",
+    "tcgplayer_id": "666852",
+    "public_code": "SFD-064/221",
+    "collector_number": 64,
+    "attributes": {
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)[Equip] :rb_rune_mind: (:rb_rune_mind:: Attach this to a unit you control.)",
+      "plain": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)[Equip] :rb_rune_mind: (:rb_rune_mind:: Attach this to a unit you control.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/fe02bf01609ff2e6cc6fa8fbd578fd596ab5cb84-744x1039.png",
+      "artist": "\u9eef\u8367\u5c9bDark Glow",
+      "accessibility_text": "Cloth Armor"
+    },
+    "tags": [
+      "Equipment"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "cloth-armor",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-064-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

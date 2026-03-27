@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-278-298",
+  "type": "card_record",
+  "title": "Bandle Tree",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "570fe2b6-0f44-4878-a2b6-053255892b3c",
+    "name": "Bandle Tree",
+    "riftbound_id": "ogn-278-298",
+    "tcgplayer_id": "653072",
+    "public_code": "OGN-278/298",
+    "collector_number": 278,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "You may hide an additional card here.",
+      "plain": "You may hide an additional card here."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/538f93a34006c4afaddb890cbc75b4db222f1783-1038x744.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Bandle Tree"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "bandle-tree",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-278-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

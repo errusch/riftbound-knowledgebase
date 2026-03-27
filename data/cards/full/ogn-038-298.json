@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-038-298",
+  "type": "card_record",
+  "title": "Kadregrin the Infernal",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "ff3e06f7-8090-4468-af0d-93f578a02603",
+    "name": "Kadregrin the Infernal",
+    "riftbound_id": "ogn-038-298",
+    "tcgplayer_id": "652811",
+    "public_code": "OGN-038/298",
+    "collector_number": 38,
+    "attributes": {
+      "energy": 9,
+      "might": 9,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, draw 1 for each of your [Mighty] units. (A unit is Mighty while it has 5+ :rb_might:.)",
+      "plain": "When you play me, draw 1 for each of your [Mighty] units. (A unit is Mighty while it has 5+ :rb_might:.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/733c32b1fccc7e2983cbb3586358152f90a6df04-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Kadregrin the Infernal"
+    },
+    "tags": [
+      "Dragon",
+      "Demacia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "kadregrin-the-infernal",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-038-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-283-298",
+  "type": "card_record",
+  "title": "Navori Fighting Pit",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "3f6dedb7-cc96-4391-8032-374010168a24",
+    "name": "Navori Fighting Pit",
+    "riftbound_id": "ogn-283-298",
+    "tcgplayer_id": "653077",
+    "public_code": "OGN-283/298",
+    "collector_number": 283,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you hold here, buff a unit here. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
+      "plain": "When you hold here, buff a unit here. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c03ed3ddf8b764963e4b0745e86a12a5ebcef2a3-1038x744.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Navori Fighting Pit"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "navori-fighting-pit",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-283-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

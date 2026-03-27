@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-136-221",
+  "type": "card_record",
+  "title": "Hard Bargain",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Chaos"
+  ],
+  "record": {
+    "id": "a7d45f0d-623b-49d3-9da5-ecb599d5f239",
+    "name": "Hard Bargain",
+    "riftbound_id": "sfd-136-221",
+    "tcgplayer_id": "666501",
+    "public_code": "SFD-136/221",
+    "collector_number": 136,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)Counter a spell unless its controller pays :rb_energy_2:.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)Counter a spell unless its controller pays :rb_energy_2:."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2b09887a6e0d2f109aefea62ca6744488794c233-744x1039.png",
+      "artist": "Wild Blue Studios",
+      "accessibility_text": "Hard Bargain"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "hard-bargain",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-136-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

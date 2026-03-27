@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-072-221",
+  "type": "card_record",
+  "title": "Dropboarder",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "f187583b-45d5-4fa4-b260-b54a7323963c",
+    "name": "Dropboarder",
+    "riftbound_id": "sfd-072-221",
+    "tcgplayer_id": "666860",
+    "public_code": "SFD-072/221",
+    "collector_number": 72,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, if you control two or more gear, ready me.",
+      "plain": "When you play me, if you control two or more gear, ready me."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8572e4cb5af60dd548e3b87374ff1b12840d981a-744x1039.png",
+      "artist": "Dao Trong Le",
+      "accessibility_text": "Dropboarder"
+    },
+    "tags": [
+      "Zaun"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "dropboarder",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-072-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

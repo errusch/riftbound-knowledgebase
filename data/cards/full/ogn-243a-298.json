@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-243a-298",
+  "type": "card_record",
+  "title": "Darius, Executioner",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "89673cbd-8cea-435a-969f-12f68b5a7a24",
+    "name": "Darius, Executioner",
+    "riftbound_id": "ogn-243a-298",
+    "tcgplayer_id": "653040",
+    "public_code": "OGN-243a/298",
+    "collector_number": 243,
+    "attributes": {
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Legion] \u2014 When you play me, ready me. (Get the effect if you've played another card this turn)Other friendly units have +1 :rb_might: here.",
+      "plain": "[Legion] \u2014 When you play me, ready me. (Get the effect if you've played another card this turn)Other friendly units have +1 :rb_might: here."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/76a697f29d4fc3cd9a5e9a0ce79f229d26bc0c90-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Darius, Executioner"
+    },
+    "tags": [
+      "Trifarian",
+      "Darius",
+      "Noxus"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "darius-executioner",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-243a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

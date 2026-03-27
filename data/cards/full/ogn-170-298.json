@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-170-298",
+  "type": "card_record",
+  "title": "Morbid Return",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Chaos"
+  ],
+  "record": {
+    "id": "25cdc964-fe9e-41e9-b133-26c416078174",
+    "name": "Morbid Return",
+    "riftbound_id": "ogn-170-298",
+    "tcgplayer_id": "652959",
+    "public_code": "OGN-170/298",
+    "collector_number": 170,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Return a unit from your trash to your hand.",
+      "plain": "[Action] (Play on your turn or in showdowns.)Return a unit from your trash to your hand."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/33b5ca4e580b94f2056bd884a4a35e8c630920a2-744x1039.png",
+      "artist": "Rafael Zanchetin",
+      "accessibility_text": "Morbid Return"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "morbid-return",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-170-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

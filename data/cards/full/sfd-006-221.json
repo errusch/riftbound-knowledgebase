@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-006-221",
+  "type": "card_record",
+  "title": "Eager Drakehound",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "4934de4d-ac8f-4bb6-a171-d1861ac4a7ab",
+    "name": "Eager Drakehound",
+    "riftbound_id": "sfd-006-221",
+    "tcgplayer_id": "666795",
+    "public_code": "SFD-006/221",
+    "collector_number": 6,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "I enter ready.",
+      "plain": "I enter ready."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ac0fac5af309842ba91b4b8d80e1abd47622e14a-744x1039.png",
+      "artist": "Michal Ivan",
+      "accessibility_text": "Eager Drakehound"
+    },
+    "tags": [
+      "Dog",
+      "Dragon",
+      "Noxus"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "eager-drakehound",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-006-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

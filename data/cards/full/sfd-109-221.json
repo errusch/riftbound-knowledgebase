@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-109-221",
+  "type": "card_record",
+  "title": "Akshan, Mischievous",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "06278663-bd9f-4570-a6cb-c5f7075991bd",
+    "name": "Akshan, Mischievous",
+    "riftbound_id": "sfd-109-221",
+    "tcgplayer_id": "666888",
+    "public_code": "SFD-109/221",
+    "collector_number": 109,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Weaponmaster]You may pay :rb_rune_body::rb_rune_body: as an additional cost to play me.When you play me, if you paid the additional cost, move an enemy gear to your base. You control it until I leave the board. If it's an Equipment, attach it to me.",
+      "plain": "[Weaponmaster]You may pay :rb_rune_body::rb_rune_body: as an additional cost to play me.When you play me, if you paid the additional cost, move an enemy gear to your base. You control it until I leave the board. If it's an Equipment, attach it to me."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f9e79f88463c1d516b9f1b053661937676e0e1f4-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Akshan, Mischievous"
+    },
+    "tags": [
+      "Akshan",
+      "Shurima",
+      "Sentinel"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "akshan-mischievous",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-109-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

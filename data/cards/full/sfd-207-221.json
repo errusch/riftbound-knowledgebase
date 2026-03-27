@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-207-221",
+  "type": "card_record",
+  "title": "Emperor's Dais",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "29d87f95-af5d-49d4-ab99-366372bc19f6",
+    "name": "Emperor's Dais",
+    "riftbound_id": "sfd-207-221",
+    "tcgplayer_id": "666869",
+    "public_code": "SFD-207/221",
+    "collector_number": 207,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you conquer here, you may pay :rb_energy_1: and return a unit you control here to its owner's hand. If you do, play a 2 :rb_might: Sand Soldier unit token here.",
+      "plain": "When you conquer here, you may pay :rb_energy_1: and return a unit you control here to its owner's hand. If you do, play a 2 :rb_might: Sand Soldier unit token here."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c1ea4f6f58a62fc2b62647aa3459109e3d10297a-1039x744.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Emperor's Dais"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "emperor-s-dais",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-207-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

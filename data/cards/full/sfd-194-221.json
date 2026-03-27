@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-194-221",
+  "type": "card_record",
+  "title": "Counter Strike",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Calm",
+    "Body"
+  ],
+  "record": {
+    "id": "657a2a93-49ca-4f8a-98c2-8a53e32fe06f",
+    "name": "Counter Strike",
+    "riftbound_id": "sfd-194-221",
+    "tcgplayer_id": "666808",
+    "public_code": "SFD-194/221",
+    "collector_number": 194,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Calm",
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Reaction] (Play any time, even before spells and abilities resolve.)Choose a unit. The next time that unit would be dealt damage this turn, prevent it. Draw 1.",
+      "plain": "[Reaction] (Play any time, even before spells and abilities resolve.)Choose a unit. The next time that unit would be dealt damage this turn, prevent it. Draw 1."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7c643b3da9a78518b1b92e3eeb0078b88d82bf79-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Counter Strike"
+    },
+    "tags": [
+      "Jax"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "counter-strike",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-194-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

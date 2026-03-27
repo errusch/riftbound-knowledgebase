@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-115-221",
+  "type": "card_record",
+  "title": "Trinity Force",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Body"
+  ],
+  "record": {
+    "id": "cb89aefa-51f3-4502-a6c8-85e6f37d2e88",
+    "name": "Trinity Force",
+    "riftbound_id": "sfd-115-221",
+    "tcgplayer_id": "663430",
+    "public_code": "SFD-115/221",
+    "collector_number": 115,
+    "attributes": {
+      "energy": 4,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)",
+      "plain": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e8b64985389e5792afc2a2fe0dc23ae7590d7709-744x1039.png",
+      "artist": "\u9eef\u8367\u5c9bDark Glow",
+      "accessibility_text": "Trinity Force"
+    },
+    "tags": [
+      "Equipment"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "trinity-force",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-115-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

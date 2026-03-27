@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-194-298",
+  "type": "card_record",
+  "title": "Nocturne, Horrifying",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "d109b951-fbf5-41e9-b7b8-7403b2701a97",
+    "name": "Nocturne, Horrifying",
+    "riftbound_id": "ogn-194-298",
+    "tcgplayer_id": "652984",
+    "public_code": "OGN-194/298",
+    "collector_number": 194,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Ganking] (I can move from battlefield to battlefield.)When you look at cards from the top of your deck (and don't draw them) and see me, you may play me for :rb_rune_rainbow:.",
+      "plain": "[Ganking] (I can move from battlefield to battlefield.)When you look at cards from the top of your deck (and don't draw them) and see me, you may play me for :rb_rune_rainbow:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/19a751364bc6eb5297596e8733d0d30a1111ac78-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Nocturne, Horrifying"
+    },
+    "tags": [
+      "Nocturne"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "nocturne-horrifying",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-194-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

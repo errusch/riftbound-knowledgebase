@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-138-221",
+  "type": "card_record",
+  "title": "Windsinger",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "af8caa7d-05d1-463e-97de-3efcf30157e0",
+    "name": "Windsinger",
+    "riftbound_id": "sfd-138-221",
+    "tcgplayer_id": "665020",
+    "public_code": "SFD-138/221",
+    "collector_number": 138,
+    "attributes": {
+      "energy": 2,
+      "might": 1,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "Hidden (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)When you play me, you may return another unit at a battlefield with 3 :rb_might: or less to its owner's hand.",
+      "plain": "Hidden (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)When you play me, you may return another unit at a battlefield with 3 :rb_might: or less to its owner's hand."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e47c9a3956f8fbb77daa5fdb2ee433dd1772f247-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Windsinger"
+    },
+    "tags": [
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "windsinger",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-138-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

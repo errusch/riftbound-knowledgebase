@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-165-221",
+  "type": "card_record",
+  "title": "Glasc Mixologist",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "844ad06e-a2e6-4d4b-b351-c8e0704c845e",
+    "name": "Glasc Mixologist",
+    "riftbound_id": "sfd-165-221",
+    "tcgplayer_id": "666495",
+    "public_code": "SFD-165/221",
+    "collector_number": 165,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Deathknell] \u2014 You may play a unit with cost no more than :rb_energy_3: and no more than :rb_rune_rainbow: from your trash, ignoring its cost. (When I die, get the effect.)",
+      "plain": "[Deathknell] \u2014 You may play a unit with cost no more than :rb_energy_3: and no more than :rb_rune_rainbow: from your trash, ignoring its cost. (When I die, get the effect.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e7422fee71796aa61f8d9691d07654b901fc20f2-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Glasc Mixologist"
+    },
+    "tags": [
+      "Zaun"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "glasc-mixologist",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-165-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

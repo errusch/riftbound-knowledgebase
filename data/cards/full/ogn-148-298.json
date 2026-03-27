@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-148-298",
+  "type": "card_record",
+  "title": "Anivia, Primal",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "5abd2d2b-88f3-42e5-85de-14a203ceb7fd",
+    "name": "Anivia, Primal",
+    "riftbound_id": "ogn-148-298",
+    "tcgplayer_id": "652932",
+    "public_code": "OGN-148/298",
+    "collector_number": 148,
+    "attributes": {
+      "energy": 7,
+      "might": 8,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When I attack, deal 3 to all enemy units here.",
+      "plain": "When I attack, deal 3 to all enemy units here."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ca1a56035333e31b3a04d67ee9131bb4d533e5db-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Anivia, Primal"
+    },
+    "tags": [
+      "Bird",
+      "Anivia",
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "anivia-primal",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-148-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

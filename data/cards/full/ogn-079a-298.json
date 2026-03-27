@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-079a-298",
+  "type": "card_record",
+  "title": "Leona, Zealot",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "e90484c8-fdfc-43e5-9285-dc26349774fc",
+    "name": "Leona, Zealot",
+    "riftbound_id": "ogn-079a-298",
+    "tcgplayer_id": "652859",
+    "public_code": "OGN-079a/298",
+    "collector_number": 79,
+    "attributes": {
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "If an opponent's score is within 3 points of the Victory Score, I enter ready.Stunned enemy units here have -8 :rb_might:, to a minimum of 1 :rb_might:.",
+      "plain": "If an opponent's score is within 3 points of the Victory Score, I enter ready.Stunned enemy units here have -8 :rb_might:, to a minimum of 1 :rb_might:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/451caa433b1fbe8e9d2b86548b82c3c5f2bac620-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Leona, Zealot"
+    },
+    "tags": [
+      "Leona",
+      "Mount Targon"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "leona-zealot",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-079a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-092-221",
+  "type": "card_record",
+  "title": "Combat Chef",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "0b80500a-428d-488d-9356-ba2135c9f7ab",
+    "name": "Combat Chef",
+    "riftbound_id": "sfd-092-221",
+    "tcgplayer_id": "666868",
+    "public_code": "SFD-092/221",
+    "collector_number": 92,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)",
+      "plain": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dffa05408c0b53f62dfbb9452986342ff2d4352d-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Combat Chef"
+    },
+    "tags": [
+      "Demacia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "combat-chef",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-092-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-167-298",
+  "type": "card_record",
+  "title": "Ember Monk",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "1c91e2ea-70a0-465f-a4f3-ae1fbe85a2a1",
+    "name": "Ember Monk",
+    "riftbound_id": "ogn-167-298",
+    "tcgplayer_id": "652956",
+    "public_code": "OGN-167/298",
+    "collector_number": 167,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you play a card from [Hidden], give me +2 :rb_might: this turn.",
+      "plain": "When you play a card from [Hidden], give me +2 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0441f70a7acc377d8cbe08559b7a2fc3139c903b-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Ember Monk"
+    },
+    "tags": [
+      "Bandle City"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "ember-monk",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-167-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

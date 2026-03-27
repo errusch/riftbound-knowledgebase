@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-247-221",
+  "type": "card_record",
+  "title": "Emperor of the Sands",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Legend",
+    "Calm",
+    "Order"
+  ],
+  "record": {
+    "id": "2e0d9890-b74d-4cac-bc2e-6eea959f2fa4",
+    "name": "Emperor of the Sands",
+    "riftbound_id": "sfd-247-221",
+    "tcgplayer_id": "666781",
+    "public_code": "SFD-247/221",
+    "collector_number": 247,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Showcase",
+      "domain": [
+        "Calm",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "Sand Soldiers you play have [Weaponmaster]. (When they're played, you may [Equip] one of your Equipment to them for :rb_rune_rainbow: less.):rb_energy_1:, :rb_exhaust:: Play a 2 :rb_might: Sand Soldier unit token to your base. Use only if you've played an Equipment this turn.",
+      "plain": "Sand Soldiers you play have [Weaponmaster]. (When they're played, you may [Equip] one of your Equipment to them for :rb_rune_rainbow: less.):rb_energy_1:, :rb_exhaust:: Play a 2 :rb_might: Sand Soldier unit token to your base. Use only if you've played an Equipment this turn."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/42c04e4d7ef5d7395494587c2e15ac945b37b71e-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Emperor of the Sands"
+    },
+    "tags": [
+      "Azir"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "emperor-of-the-sands",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-247-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "card.ogs-022-024",
+  "type": "card_record",
+  "title": "Final Spark",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Spell",
+    "Mind",
+    "Order"
+  ],
+  "record": {
+    "id": "7a85c39c-c96c-45d5-8120-ad063f352c0a",
+    "name": "Final Spark",
+    "riftbound_id": "ogs-022-024",
+    "tcgplayer_id": "653157",
+    "public_code": "OGS-022/024",
+    "collector_number": 22,
+    "attributes": {
+      "energy": 8,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Mind",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Deal 8 to a unit.",
+      "plain": "[Action] (Play on your turn or in showdowns.)Deal 8 to a unit."
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4558a2dc1bb1f1b8a73ec0d82244654e84b12687-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Final Spark"
+    },
+    "tags": [
+      "Lux"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "final-spark",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-022-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

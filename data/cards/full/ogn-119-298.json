@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-119-298",
+  "type": "card_record",
+  "title": "Ahri, Inquisitive",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "20a5462b-8c62-4035-abe0-8a207e48aeb7",
+    "name": "Ahri, Inquisitive",
+    "riftbound_id": "ogn-119-298",
+    "tcgplayer_id": "652901",
+    "public_code": "OGN-119/298",
+    "collector_number": 119,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Epic",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When I attack or defend, give an enemy unit here -2 :rb_might: this turn, to a minimum of 1 :rb_might:.",
+      "plain": "When I attack or defend, give an enemy unit here -2 :rb_might: this turn, to a minimum of 1 :rb_might:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cfa28e1abcac1db780d11e82985e13ee5978290d-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Ahri, Inquisitive"
+    },
+    "tags": [
+      "Ahri",
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "ahri-inquisitive",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-119-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

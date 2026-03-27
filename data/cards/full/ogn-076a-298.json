@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-076a-298",
+  "type": "card_record",
+  "title": "Yasuo, Remorseful",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "8c1112c4-c1f4-4d42-8f6e-baeadf9f1331",
+    "name": "Yasuo, Remorseful",
+    "riftbound_id": "ogn-076a-298",
+    "tcgplayer_id": "652854",
+    "public_code": "OGN-076a/298",
+    "collector_number": 76,
+    "attributes": {
+      "energy": 6,
+      "might": 6,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "When I attack, deal damage equal to my Might to an enemy unit here.",
+      "plain": "When I attack, deal damage equal to my Might to an enemy unit here."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3f2cff3ff3b146c8bfe11594e37e9d8109884273-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Yasuo, Remorseful"
+    },
+    "tags": [
+      "Yasuo",
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "yasuo-remorseful",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-076a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

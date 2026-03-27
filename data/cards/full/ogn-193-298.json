@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-193-298",
+  "type": "card_record",
+  "title": "Miss Fortune, Buccaneer",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "2a2fe0bb-a414-4024-9455-62dc9f9fcd42",
+    "name": "Miss Fortune, Buccaneer",
+    "riftbound_id": "ogn-193-298",
+    "tcgplayer_id": "652982",
+    "public_code": "OGN-193/298",
+    "collector_number": 193,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "You may play me to an open battlefield.Friendly units may be played to open battlefields.",
+      "plain": "You may play me to an open battlefield.Friendly units may be played to open battlefields."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e6ff9ad3d6e2b96ff76cda4c7bc75415c1cdcced-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Miss Fortune, Buccaneer"
+    },
+    "tags": [
+      "Pirate",
+      "Miss Fortune",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "miss-fortune-buccaneer",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-193-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

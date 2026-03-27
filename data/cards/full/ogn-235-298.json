@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-235-298",
+  "type": "card_record",
+  "title": "Karma, Channeler",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "7c1d2585-1003-487b-a882-c1635a319ebb",
+    "name": "Karma, Channeler",
+    "riftbound_id": "ogn-235-298",
+    "tcgplayer_id": "653029",
+    "public_code": "OGN-235/298",
+    "collector_number": 235,
+    "attributes": {
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)When you recycle one or more cards, buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff. Runes aren't cards.)",
+      "plain": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)When you recycle one or more cards, buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff. Runes aren't cards.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/aca8664b334f2fa40cc7bae2811dd4e1b4f06388-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Karma, Channeler"
+    },
+    "tags": [
+      "Vi",
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "karma-channeler",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-235-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

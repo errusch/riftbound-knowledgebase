@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-225-221",
+  "type": "card_record",
+  "title": "Irelia, Fervent",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "f9a48946-49ac-4f20-9ec8-1b656958682b",
+    "name": "Irelia, Fervent",
+    "riftbound_id": "sfd-225-221",
+    "tcgplayer_id": "664929",
+    "public_code": "SFD-225/221",
+    "collector_number": 225,
+    "attributes": {
+      "energy": 5,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)When you choose or ready me, give me +1 :rb_might: this turn.",
+      "plain": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)When you choose or ready me, give me +1 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/40454a8534f7c9444bafd000ffbfc0e5bcc847f0-744x1039.png",
+      "artist": "Bo Chen",
+      "accessibility_text": "Irelia, Fervent"
+    },
+    "tags": [
+      "Irelia",
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "irelia-fervent",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-225-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

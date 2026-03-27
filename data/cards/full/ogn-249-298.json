@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-249-298",
+  "type": "card_record",
+  "title": "Relentless Storm",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Legend",
+    "Fury",
+    "Body"
+  ],
+  "record": {
+    "id": "36ab38f7-fca3-4a6a-851e-103fedcf7fc2",
+    "name": "Relentless Storm",
+    "riftbound_id": "ogn-249-298",
+    "tcgplayer_id": "653047",
+    "public_code": "OGN-249/298",
+    "collector_number": 249,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Fury",
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you play a [Mighty] unit, you may exhaust me to channel 1 rune exhausted. (A unit is Mighty while it has 5+ :rb_might:.)",
+      "plain": "When you play a [Mighty] unit, you may exhaust me to channel 1 rune exhausted. (A unit is Mighty while it has 5+ :rb_might:.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f1842ef373434db3e8109d8959832f9d184866c3-744x1040.png",
+      "artist": "Grafit Studio",
+      "accessibility_text": "Relentless Storm"
+    },
+    "tags": [
+      "Volibear"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "relentless-storm",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-249-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

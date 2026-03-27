@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-191-298",
+  "type": "card_record",
+  "title": "Maddened Marauder",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "3a5585a8-15f2-4779-af8e-f5e4db4736a7",
+    "name": "Maddened Marauder",
+    "riftbound_id": "ogn-191-298",
+    "tcgplayer_id": "652980",
+    "public_code": "OGN-191/298",
+    "collector_number": 191,
+    "attributes": {
+      "energy": 5,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Tank] (I must be assigned combat damage first.)When you play me, move a unit from a battlefield to its base.",
+      "plain": "[Tank] (I must be assigned combat damage first.)When you play me, move a unit from a battlefield to its base."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0f3a2ab8e5894e0dd1b625ee29f3304e7832ef9a-744x1039.png",
+      "artist": "Alex Heath",
+      "accessibility_text": "Maddened Marauder"
+    },
+    "tags": [
+      "Pirate",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "maddened-marauder",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-191-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

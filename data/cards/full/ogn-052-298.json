@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-052-298",
+  "type": "card_record",
+  "title": "Stalwart Poro",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "9d874135-ed0d-49fe-9a9c-9d65e87a8edc",
+    "name": "Stalwart Poro",
+    "riftbound_id": "ogn-052-298",
+    "tcgplayer_id": "652828",
+    "public_code": "OGN-052/298",
+    "collector_number": 52,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Shield] (+1 :rb_might: while I'm a defender.)",
+      "plain": "[Shield] (+1 :rb_might: while I'm a defender.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c4a5d7178e783c3975749271b6df333a82a2328a-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Stalwart Poro"
+    },
+    "tags": [
+      "Poro"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "stalwart-poro",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-052-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

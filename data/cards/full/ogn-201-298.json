@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-201-298",
+  "type": "card_record",
+  "title": "Invert Timelines",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Chaos"
+  ],
+  "record": {
+    "id": "26e6d481-c66b-4e14-9200-98dccb0fd498",
+    "name": "Invert Timelines",
+    "riftbound_id": "ogn-201-298",
+    "tcgplayer_id": "652992",
+    "public_code": "OGN-201/298",
+    "collector_number": 201,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "Each player discards their hand, then draws 4.",
+      "plain": "Each player discards their hand, then draws 4."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b916326fdcf61af4630d953c7540a4aa97e6db01-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Invert Timelines"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "invert-timelines",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-201-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

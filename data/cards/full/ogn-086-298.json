@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-086-298",
+  "type": "card_record",
+  "title": "Jeweled Colossus",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "1b35904d-c8a2-4584-86c6-dafbb93f9794",
+    "name": "Jeweled Colossus",
+    "riftbound_id": "ogn-086-298",
+    "tcgplayer_id": "652866",
+    "public_code": "OGN-086/298",
+    "collector_number": 86,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)[Shield]** **(+1 :rb_might: while I'm a defender.)",
+      "plain": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)[Shield]** **(+1 :rb_might: while I'm a defender.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/775bea14038165fd9feb15c796ed84aa00a032e1-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Jeweled Colossus"
+    },
+    "tags": [
+      "Mount Targon"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "jeweled-colossus",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-086-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-130-298",
+  "type": "card_record",
+  "title": "Crackshot Corsair",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "520c7490-3cfb-4065-b7bb-f88f468b1643",
+    "name": "Crackshot Corsair",
+    "riftbound_id": "ogn-130-298",
+    "tcgplayer_id": "652914",
+    "public_code": "OGN-130/298",
+    "collector_number": 130,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When I attack, deal 1 to an enemy unit here.",
+      "plain": "When I attack, deal 1 to an enemy unit here."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9106ab084e02d7a489cb351e98112e5833b0bb11-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Crackshot Corsair"
+    },
+    "tags": [
+      "Pirate",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "crackshot-corsair",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-130-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

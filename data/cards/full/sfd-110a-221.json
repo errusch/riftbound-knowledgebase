@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-110a-221",
+  "type": "card_record",
+  "title": "Fiora, Peerless",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "564aa873-d96f-4488-ae69-83521711f6cf",
+    "name": "Fiora, Peerless",
+    "riftbound_id": "sfd-110a-221",
+    "tcgplayer_id": "666595",
+    "public_code": "SFD-110a/221",
+    "collector_number": 110,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When I attack or defend one on one, double my Might this combat.",
+      "plain": "When I attack or defend one on one, double my Might this combat."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9081906c24455218d9fef8c0faa04ecc85dc462c-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Fiora, Peerless"
+    },
+    "tags": [
+      "Fiora",
+      "Demacia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "fiora-peerless",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "sfd-110a-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

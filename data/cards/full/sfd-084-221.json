@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-084-221",
+  "type": "card_record",
+  "title": "Jayce, Man of Progress",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "d5792e8f-cbc4-4980-8ae7-017951c3af04",
+    "name": "Jayce, Man of Progress",
+    "riftbound_id": "sfd-084-221",
+    "tcgplayer_id": "666454",
+    "public_code": "SFD-084/221",
+    "collector_number": 84,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, you may kill a friendly gear. If you do, you may play a gear with Energy cost no more than :rb_energy_7: from hand this turn, ignoring its Energy cost. (You must still pay its Power cost.)",
+      "plain": "When you play me, you may kill a friendly gear. If you do, you may play a gear with Energy cost no more than :rb_energy_7: from hand this turn, ignoring its Energy cost. (You must still pay its Power cost.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b508fa4e52ebbd5f66e1fc7df28cfb70acdfe1f5-744x1039.png",
+      "artist": "TUTU",
+      "accessibility_text": "Jayce, Man of Progress"
+    },
+    "tags": [
+      "Jayce",
+      "Piltover"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "jayce-man-of-progress",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-084-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

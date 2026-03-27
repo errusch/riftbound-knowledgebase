@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-112-221",
+  "type": "card_record",
+  "title": "Kato the Arm",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "8aeec2ed-ca29-4e29-9ca4-cca3a397bbd1",
+    "name": "Kato the Arm",
+    "riftbound_id": "sfd-112-221",
+    "tcgplayer_id": "664948",
+    "public_code": "SFD-112/221",
+    "collector_number": 112,
+    "attributes": {
+      "energy": 4,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Deflect] When I move to a battlefield, give another friendly unit my keywords and +[M] equal to my Might this turn.",
+      "plain": "[Deflect] When I move to a battlefield, give another friendly unit my keywords and +[M] equal to my Might this turn."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f4ea4f2f5169a3813d9eb7f0d3d2f41bdddebfc7-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Kato the Arm"
+    },
+    "tags": [
+      "Noxus"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "kato-the-arm",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-112-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-303-298",
+  "type": "card_record",
+  "title": "Nine-Tailed Fox",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Legend",
+    "Calm",
+    "Mind"
+  ],
+  "record": {
+    "id": "aba29e57-29cf-41ed-a482-4ca728009d15",
+    "name": "Nine-Tailed Fox",
+    "riftbound_id": "ogn-303-298",
+    "tcgplayer_id": "653101",
+    "public_code": "OGN-303/298",
+    "collector_number": 303,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Showcase",
+      "domain": [
+        "Calm",
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When an enemy unit attacks a battlefield you control, give it -1 :rb_might: this turn, to a minimum of 1 :rb_might:.",
+      "plain": "When an enemy unit attacks a battlefield you control, give it -1 :rb_might: this turn, to a minimum of 1 :rb_might:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/dc89c6a2415debd5bf504ed46843f5dcc1d9b815-1488x2078.png",
+      "artist": "Airi Pan",
+      "accessibility_text": "Nine-Tailed Fox"
+    },
+    "tags": [
+      "Ahri"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "nine-tailed-fox",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-303-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

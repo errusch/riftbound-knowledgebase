@@ -1,0 +1,62 @@
+{
+  "id": "card.ogs-005-024",
+  "type": "card_record",
+  "title": "Zephyr Sage",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "93608125-32e5-41d4-8623-a3f26ec22186",
+    "name": "Zephyr Sage",
+    "riftbound_id": "ogs-005-024",
+    "tcgplayer_id": "653140",
+    "public_code": "OGS-005/024",
+    "collector_number": 5,
+    "attributes": {
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "[Shield] (+1 :rb_might: while I'm a defender.)",
+      "plain": "[Shield] (+1 :rb_might: while I'm a defender.)"
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7664b03bb107954195153d9f2f86c5d63682fa4b-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Zephyr Sage"
+    },
+    "tags": [
+      "Ionia",
+      "Bird"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "zephyr-sage",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-005-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

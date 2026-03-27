@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-030-221",
+  "type": "card_record",
+  "title": "Skyfall of Areion",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Fury"
+  ],
+  "record": {
+    "id": "0b9d8849-1f53-4964-8f2d-6c1adbdea267",
+    "name": "Skyfall of Areion",
+    "riftbound_id": "sfd-030-221",
+    "tcgplayer_id": "666817",
+    "public_code": "SFD-030/221",
+    "collector_number": 30,
+    "attributes": {
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Equip] :rb_energy_1::rb_rune_fury: (:rb_energy_1::rb_rune_fury:: Attach this to a unit you control.)",
+      "plain": "[Equip] :rb_energy_1::rb_rune_fury: (:rb_energy_1::rb_rune_fury:: Attach this to a unit you control.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bea8390beb651502413cf644319c8ca6a8db1102-744x1039.png",
+      "artist": "\u9eef\u8367\u5c9bDark Glow",
+      "accessibility_text": "Skyfall of Areion"
+    },
+    "tags": [
+      "Equipment"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "skyfall-of-areion",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-030-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

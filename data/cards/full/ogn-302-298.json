@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-302-298",
+  "type": "card_record",
+  "title": "Hand of Noxus",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Legend",
+    "Fury",
+    "Order"
+  ],
+  "record": {
+    "id": "e6b5b635-c4d0-481b-b8c7-129df2a42a20",
+    "name": "Hand of Noxus",
+    "riftbound_id": "ogn-302-298",
+    "tcgplayer_id": "653099",
+    "public_code": "OGN-302/298",
+    "collector_number": 302,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Showcase",
+      "domain": [
+        "Fury",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": ":rb_exhaust:: [Reaction], [Legion] \u2014 [Add] :rb_energy_1:. (Abilities that add resources can't be reacted to. Get the effect if you've played a card this turn.)",
+      "plain": ":rb_exhaust:: [Reaction], [Legion] \u2014 [Add] :rb_energy_1:. (Abilities that add resources can't be reacted to. Get the effect if you've played a card this turn.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/37d43efe09ccfe5d72ce37fdc27599bd5ef736af-1488x2078.png",
+      "artist": "Peter Kim",
+      "accessibility_text": "Hand of Noxus"
+    },
+    "tags": [
+      "Darius"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "hand-of-noxus",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-302-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

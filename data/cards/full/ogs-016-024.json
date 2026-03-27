@@ -1,0 +1,62 @@
+{
+  "id": "card.ogs-016-024",
+  "type": "card_record",
+  "title": "Vanguard Attendant",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "fd8e48a1-2341-48d0-93b5-3f2dd32a80f8",
+    "name": "Vanguard Attendant",
+    "riftbound_id": "ogs-016-024",
+    "tcgplayer_id": "653151",
+    "public_code": "OGS-016/024",
+    "collector_number": 16,
+    "attributes": {
+      "energy": 6,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "I enter ready.",
+      "plain": "I enter ready."
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4ce467c1d51a65ab4fbae918dca38ae90b510844-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Vanguard Attendant"
+    },
+    "tags": [
+      "Elite",
+      "Demacia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "vanguard-attendant",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-016-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

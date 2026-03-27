@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-165-298",
+  "type": "card_record",
+  "title": "Cemetery Attendant",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "2e071a51-bf18-45a4-880d-d84719c5743a",
+    "name": "Cemetery Attendant",
+    "riftbound_id": "ogn-165-298",
+    "tcgplayer_id": "652953",
+    "public_code": "OGN-165/298",
+    "collector_number": 165,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, return a unit from your trash to your hand.",
+      "plain": "When you play me, return a unit from your trash to your hand."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6bbbe6923105c53fc6b2a44430db940e009609b6-744x1039.png",
+      "artist": "Bubble Cat Studio",
+      "accessibility_text": "Cemetery Attendant"
+    },
+    "tags": [
+      "Dog",
+      "Shadow Isles"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "cemetery-attendant",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-165-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

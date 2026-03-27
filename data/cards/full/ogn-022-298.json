@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-022-298",
+  "type": "card_record",
+  "title": "Thermo Beam",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Fury"
+  ],
+  "record": {
+    "id": "fa5336c8-449a-4815-bf90-9e7c3071df82",
+    "name": "Thermo Beam",
+    "riftbound_id": "ogn-022-298",
+    "tcgplayer_id": "652793",
+    "public_code": "OGN-022/298",
+    "collector_number": 22,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": 2
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Kill all gear.",
+      "plain": "[Action] (Play on your turn or in showdowns.)Kill all gear."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/88661e852b864491e6d7f5f087caf4263f61c361-744x1039.png",
+      "artist": "Max Grecke",
+      "accessibility_text": "Thermo Beam"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "thermo-beam",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-022-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

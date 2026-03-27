@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-284-298",
+  "type": "card_record",
+  "title": "Obelisk of Power",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "ef580ef4-a013-4a00-834d-20c1add01c3f",
+    "name": "Obelisk of Power",
+    "riftbound_id": "ogn-284-298",
+    "tcgplayer_id": "653078",
+    "public_code": "OGN-284/298",
+    "collector_number": 284,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "At the start of each player's first Beginning Phase, that player channels 1 rune.",
+      "plain": "At the start of each player's first Beginning Phase, that player channels 1 rune."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/649437d1dec8abcaae4fbbef64f06b8b679a8c2f-1038x744.png",
+      "artist": "Chris Kintner",
+      "accessibility_text": "Obelisk of Power"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "obelisk-of-power",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-284-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

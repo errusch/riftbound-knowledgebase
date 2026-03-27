@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-084-298",
+  "type": "card_record",
+  "title": "Eager Apprentice",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "9ab934b5-e321-416a-8ae5-1603e34e2f49",
+    "name": "Eager Apprentice",
+    "riftbound_id": "ogn-084-298",
+    "tcgplayer_id": "652864",
+    "public_code": "OGN-084/298",
+    "collector_number": 84,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "While I'm at a battlefield, the Energy costs for spells you play is reduced by :rb_energy_1:, to a minimum of :rb_energy_1:.",
+      "plain": "While I'm at a battlefield, the Energy costs for spells you play is reduced by :rb_energy_1:, to a minimum of :rb_energy_1:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/cf6d5447ff3634d8c2c0216cb2e5802fb5ca0b2e-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Eager Apprentice"
+    },
+    "tags": [
+      "Piltover"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "eager-apprentice",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-084-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

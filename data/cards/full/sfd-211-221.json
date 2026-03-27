@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-211-221",
+  "type": "card_record",
+  "title": "Marai Spire",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "1518f047-8ad6-4520-8954-8b36685dcb72",
+    "name": "Marai Spire",
+    "riftbound_id": "sfd-211-221",
+    "tcgplayer_id": "666873",
+    "public_code": "SFD-211/221",
+    "collector_number": 211,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "While you control this battlefield, friendly [Repeat] costs cost :rb_energy_1: less.",
+      "plain": "While you control this battlefield, friendly [Repeat] costs cost :rb_energy_1: less."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ff64dcbac9b392d4f6930a7359114aa68aa14ebe-1039x744.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Marai Spire"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "marai-spire",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-211-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

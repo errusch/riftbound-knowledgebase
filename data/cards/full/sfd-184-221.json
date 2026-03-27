@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-184-221",
+  "type": "card_record",
+  "title": "Relentless Pursuit",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Fury",
+    "Body"
+  ],
+  "record": {
+    "id": "848ec481-6a6a-4b9b-828a-b05e24646419",
+    "name": "Relentless Pursuit",
+    "riftbound_id": "sfd-184-221",
+    "tcgplayer_id": "664921",
+    "public_code": "SFD-184/221",
+    "collector_number": 184,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Fury",
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Move a friendly unit. You may attach an Equipment with the same controller to it. This turn, that unit has &quot;When I conquer, you may move me to my base.&quot;",
+      "plain": "[Action] (Play on your turn or in showdowns.)Move a friendly unit. You may attach an Equipment with the same controller to it. This turn, that unit has &quot;When I conquer, you may move me to my base.&quot;"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/48754730486abefdb56221d0760b9c963aae7c09-744x1039.png",
+      "artist": "Max Grecke",
+      "accessibility_text": "Relentless Pursuit"
+    },
+    "tags": [
+      "Lucian"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "relentless-pursuit",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-184-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

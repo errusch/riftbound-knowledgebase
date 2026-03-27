@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-028-298",
+  "type": "card_record",
+  "title": "Draven, Showboat",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "6a0ff793-6bde-4bdb-a2e8-2040140b759b",
+    "name": "Draven, Showboat",
+    "riftbound_id": "ogn-028-298",
+    "tcgplayer_id": "652800",
+    "public_code": "OGN-028/298",
+    "collector_number": 28,
+    "attributes": {
+      "energy": 5,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "My Might is increased by your points.",
+      "plain": "My Might is increased by your points."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7600d6cea66e8146ea2202f72cb9035cb44608a3-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Draven, Showboat"
+    },
+    "tags": [
+      "Draven",
+      "Noxus"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "draven-showboat",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-028-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

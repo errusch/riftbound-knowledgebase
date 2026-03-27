@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-136-298",
+  "type": "card_record",
+  "title": "Pit Rookie",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "1daf8405-6340-4286-815d-732a727c9b3c",
+    "name": "Pit Rookie",
+    "riftbound_id": "ogn-136-298",
+    "tcgplayer_id": "652920",
+    "public_code": "OGN-136/298",
+    "collector_number": 136,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, buff another friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
+      "plain": "When you play me, buff another friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ec19eeaee85c7e5669387a3f6ccb7718f5a0f570-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Pit Rookie"
+    },
+    "tags": [
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "pit-rookie",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-136-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

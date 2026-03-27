@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-143-298",
+  "type": "card_record",
+  "title": "Pirate's Haven",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Body"
+  ],
+  "record": {
+    "id": "750dc245-d89a-4f47-8b1b-849c95d1ee1a",
+    "name": "Pirate's Haven",
+    "riftbound_id": "ogn-143-298",
+    "tcgplayer_id": "652927",
+    "public_code": "OGN-143/298",
+    "collector_number": 143,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you ready a friendly unit, give it +1 :rb_might: this turn.",
+      "plain": "When you ready a friendly unit, give it +1 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1991b64d58cbd3698574f44b404f7a88d6403134-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Pirate's Haven"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "pirate-s-haven",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-143-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

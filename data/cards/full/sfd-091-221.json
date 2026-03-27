@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-091-221",
+  "type": "card_record",
+  "title": "Buhru Captain",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "7829e0fb-3238-4f02-92ac-927ceec3e439",
+    "name": "Buhru Captain",
+    "riftbound_id": "sfd-091-221",
+    "tcgplayer_id": "664953",
+    "public_code": "SFD-091/221",
+    "collector_number": 91,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, you may draw 1 or buff me. (To buff a unit, give it a +1 :rb_might: buff if it doesn't already have one.)",
+      "plain": "When you play me, you may draw 1 or buff me. (To buff a unit, give it a +1 :rb_might: buff if it doesn't already have one.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9f5186bd42c23f75ea84186aa2cb945cc02a222e-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Buhru Captain"
+    },
+    "tags": [
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "buhru-captain",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-091-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-262-298",
+  "type": "card_record",
+  "title": "Zenith Blade",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Calm",
+    "Order"
+  ],
+  "record": {
+    "id": "984d0ef5-fa35-449c-a2d2-c638253fe7f1",
+    "name": "Zenith Blade",
+    "riftbound_id": "ogn-262-298",
+    "tcgplayer_id": "653060",
+    "public_code": "OGN-262/298",
+    "collector_number": 262,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": 2
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Calm",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Stun an enemy unit at a battlefield. You may move a friendly unit to that enemy unit's battlefield._ (A stunned unit doesn't deal combat damage this turn.)_",
+      "plain": "[Action] (Play on your turn or in showdowns.)Stun an enemy unit at a battlefield. You may move a friendly unit to that enemy unit's battlefield._ (A stunned unit doesn't deal combat damage this turn.)_"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a572f0bc3ed1bd47c5759d36f5b951b15338e57e-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Zenith Blade"
+    },
+    "tags": [
+      "Leona"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "zenith-blade",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-262-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

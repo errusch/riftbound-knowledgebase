@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-024-221",
+  "type": "card_record",
+  "title": "Rell, Magnetic",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "20434ff2-3e8c-43be-8cf5-e9254f1a256f",
+    "name": "Rell, Magnetic",
+    "riftbound_id": "sfd-024-221",
+    "tcgplayer_id": "665013",
+    "public_code": "SFD-024/221",
+    "collector_number": 24,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "Tank (I must be assigned combat damage first.)When I attack, you may play an Equipment with Energy cost no more than :rb_energy_2:, ignoring its cost, and attach it to me.",
+      "plain": "Tank (I must be assigned combat damage first.)When I attack, you may play an Equipment with Energy cost no more than :rb_energy_2:, ignoring its cost, and attach it to me."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8aa1a9cf0a91a9ab601d5e5d42a438d4217eddd7-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Rell, Magnetic"
+    },
+    "tags": [
+      "Rell",
+      "Noxus"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "rell-magnetic",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-024-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

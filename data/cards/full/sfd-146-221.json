@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-146-221",
+  "type": "card_record",
+  "title": "Vex, Cheerless",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "54f4b92f-4793-4e12-a75c-af77d0bb016f",
+    "name": "Vex, Cheerless",
+    "riftbound_id": "sfd-146-221",
+    "tcgplayer_id": "665486",
+    "public_code": "SFD-146/221",
+    "collector_number": 146,
+    "attributes": {
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "While I'm in combat, friendly spells cost :rb_energy_1::rb_rune_rainbow: less to a minimum of :rb_energy_1:, and enemy spells cost :rb_energy_1::rb_rune_rainbow: more.",
+      "plain": "While I'm in combat, friendly spells cost :rb_energy_1::rb_rune_rainbow: less to a minimum of :rb_energy_1:, and enemy spells cost :rb_energy_1::rb_rune_rainbow: more."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e9025578c7b5845a1a9c9a83e045bcbe71a76e71-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Vex, Cheerless"
+    },
+    "tags": [
+      "Yordle",
+      "Vex",
+      "Shadow Isles"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "vex-cheerless",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-146-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

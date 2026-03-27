@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-182-298",
+  "type": "card_record",
+  "title": "Scrapheap",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Chaos"
+  ],
+  "record": {
+    "id": "1802156d-1899-4f28-8fef-eb2b212186f4",
+    "name": "Scrapheap",
+    "riftbound_id": "ogn-182-298",
+    "tcgplayer_id": "652971",
+    "public_code": "OGN-182/298",
+    "collector_number": 182,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When this is played, discarded, or killed, draw 1.",
+      "plain": "When this is played, discarded, or killed, draw 1."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/198088dda16a95186a597433c3a62e8d982e666c-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Scrapheap"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "scrapheap",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-182-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

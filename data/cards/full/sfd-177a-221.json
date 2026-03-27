@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-177a-221",
+  "type": "card_record",
+  "title": "Azir, Sovereign",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "7ea1d205-a94b-4ba6-a796-afd3381df2d6",
+    "name": "Azir, Sovereign",
+    "riftbound_id": "sfd-177a-221",
+    "tcgplayer_id": "666474",
+    "public_code": "SFD-177a/221",
+    "collector_number": 177,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_order: as an additional cost to have me enter ready.)When I attack, you may move any number of your token units to this battlefield.",
+      "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_order: as an additional cost to have me enter ready.)When I attack, you may move any number of your token units to this battlefield."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/62c75543213df186d3f05236fda6abe8992c948e-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Azir, Sovereign"
+    },
+    "tags": [
+      "Bird",
+      "Azir",
+      "Shurima"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "azir-sovereign",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "sfd-177a-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

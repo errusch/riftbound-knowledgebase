@@ -1,0 +1,64 @@
+{
+  "id": "card.sfd-026-221",
+  "type": "card_record",
+  "title": "Rumble, Hotheaded",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "078b3777-2faf-4e27-b0fc-267ceffe9edd",
+    "name": "Rumble, Hotheaded",
+    "riftbound_id": "sfd-026-221",
+    "tcgplayer_id": "666813",
+    "public_code": "SFD-026/221",
+    "collector_number": 26,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "Your Mechs each have [Assault]._ (+1 :rb_might: while we're attackers.)_When I conquer, you may recycle another friendly unit to play a Mech from your trash. Reduce its Energy cost by the Might of the unit you recycled.",
+      "plain": "Your Mechs each have [Assault]._ (+1 :rb_might: while we're attackers.)_When I conquer, you may recycle another friendly unit to play a Mech from your trash. Reduce its Energy cost by the Might of the unit you recycled."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e211311ecb1475e87d3d94eba4a6774b4e900091-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Rumble, Hotheaded"
+    },
+    "tags": [
+      "Mech",
+      "Yordle",
+      "Rumble",
+      "Bandle City"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "rumble-hotheaded",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-026-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

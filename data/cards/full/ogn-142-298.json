@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-142-298",
+  "type": "card_record",
+  "title": "Mountain Drake",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "2be808f2-6cd3-4450-96a9-8279f9b522d2",
+    "name": "Mountain Drake",
+    "riftbound_id": "ogn-142-298",
+    "tcgplayer_id": "652926",
+    "public_code": "OGN-142/298",
+    "collector_number": 142,
+    "attributes": {
+      "energy": 9,
+      "might": 10,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "(Vanilla unit - no abilities)",
+      "plain": "(Vanilla unit - no abilities)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8a9c1d334b217e9bd0b23dfca2054de4d0b90ff1-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Mountain Drake"
+    },
+    "tags": [
+      "Dragon"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "mountain-drake",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-142-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

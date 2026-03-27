@@ -1,0 +1,154 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+
+import json
+import os
+import sqlite3
+from datetime import datetime, timezone
+from pathlib import Path
+import sys
+
+SCRIPT_ROOT = Path(__file__).resolve().parents[2]
+if str(SCRIPT_ROOT) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_ROOT))
+
+from scripts.lib.kb_common import ROOT, find_legacy_knowledge_db, rebuild_indexes, slugify, write_json
+
+
+def parse_json_array(raw: str | None) -> list[str]:
+    if not raw:
+        return []
+    try:
+        parsed = json.loads(raw)
+    except json.JSONDecodeError:
+        return [part.strip() for part in raw.split(",") if part.strip()]
+    if isinstance(parsed, list):
+        return [str(item) for item in parsed if str(item).strip()]
+    return []
+
+
+def choose_db_path() -> Path:
+    env_path = os.environ.get("RIFTBOUND_KNOWLEDGE_DB")
+    if env_path:
+        candidate = Path(env_path).expanduser()
+        if not candidate.exists():
+            raise SystemExit(f"Configured RIFTBOUND_KNOWLEDGE_DB does not exist: {candidate}")
+        return candidate
+    candidate = find_legacy_knowledge_db("riftbound_cards")
+    if candidate is None:
+        raise SystemExit("Unable to locate a local knowledge.db containing riftbound_cards.")
+    return candidate
+
+
+def row_to_record(row: sqlite3.Row) -> dict:
+    domains = parse_json_array(row["domain"])
+    tags = parse_json_array(row["tags"])
+    public_code = row["public_code"] or ""
+    collector_number = row["collector_number"]
+    set_id = row["set_id"] or ""
+    clean_code = public_code or (f"{set_id}-{collector_number:03d}" if set_id and collector_number else row["id"])
+
+    return {
+        "id": row["id"],
+        "name": row["name"],
+        "riftbound_id": row["riftbound_id"] or "",
+        "tcgplayer_id": row["tcgplayer_id"] or "",
+        "public_code": public_code,
+        "collector_number": collector_number,
+        "attributes": {
+            "energy": row["energy"],
+            "might": row["might"],
+            "power": row["power"],
+        },
+        "classification": {
+            "type": row["type"] or "",
+            "supertype": row["supertype"] or None,
+            "rarity": row["rarity"] or "",
+            "domain": domains,
+        },
+        "text": {
+            "rich": row["card_text"] or "",
+            "plain": row["card_text"] or "",
+        },
+        "set": {
+            "set_id": set_id,
+            "label": row["set_label"] or "",
+        },
+        "media": {
+            "image_url": row["image_url"] or "",
+            "artist": row["artist"] or "",
+            "accessibility_text": row["name"] or "",
+        },
+        "tags": tags,
+        "orientation": "portrait",
+        "metadata": {
+            "clean_name": slugify(row["name"] or clean_code),
+            "alternate_art": bool(row["alternate_art"]),
+            "signature": bool(row["signature"]),
+            "record_key": row["riftbound_id"] or slugify(public_code) or clean_code.lower(),
+            "source_record_kind": "legacy_local_knowledge_db",
+        },
+    }
+
+
+def main() -> None:
+    db_path = choose_db_path()
+    cards_out = ROOT / "data" / "cards" / "full"
+    index_out = ROOT / "data" / "indexes" / "cards_full.json"
+    set_index_out = ROOT / "data" / "indexes" / "card_sets.json"
+    source_date = datetime.fromtimestamp(db_path.stat().st_mtime, tz=timezone.utc).isoformat().replace("+00:00", "Z")
+
+    with sqlite3.connect(db_path) as conn:
+        conn.row_factory = sqlite3.Row
+        rows = conn.execute(
+            """
+            SELECT *
+            FROM riftbound_cards
+            ORDER BY set_id ASC, collector_number ASC, name ASC
+            """
+        ).fetchall()
+
+    cards_index = []
+    set_counts: dict[str, dict] = {}
+    for row in rows:
+        record = row_to_record(row)
+        card_key = record["metadata"]["record_key"] or record["id"]
+        payload = {
+            "id": f"card.{card_key}",
+            "type": "card_record",
+            "title": record["name"],
+            "source_kind": "legacy_local_knowledge_db",
+            "source_path": str(db_path),
+            "source_date": source_date,
+            "trust_level": "derived_verified",
+            "status": "reviewed",
+            "tags": [
+                "card",
+                record["set"]["set_id"],
+                record["classification"]["type"],
+                *record["classification"]["domain"],
+            ],
+            "record": record,
+        }
+        out_path = cards_out / f"{card_key}.json"
+        write_json(out_path, payload)
+        cards_index.append({k: v for k, v in payload.items() if k != "record"} | {"path": str(out_path.relative_to(ROOT))})
+
+        set_id = record["set"]["set_id"] or "unknown"
+        bucket = set_counts.setdefault(
+            set_id,
+            {
+                "set_id": set_id,
+                "label": record["set"]["label"] or set_id,
+                "count": 0,
+            },
+        )
+        bucket["count"] += 1
+
+    write_json(index_out, cards_index)
+    write_json(set_index_out, sorted(set_counts.values(), key=lambda item: item["set_id"]))
+    rebuild_indexes()
+
+
+if __name__ == "__main__":
+    main()

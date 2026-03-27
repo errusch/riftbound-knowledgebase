@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-174-221",
+  "type": "card_record",
+  "title": "Trove Golem",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Order"
+  ],
+  "record": {
+    "id": "8a7704b3-022e-4819-b62a-96c509adce04",
+    "name": "Trove Golem",
+    "riftbound_id": "sfd-174-221",
+    "tcgplayer_id": "666485",
+    "public_code": "SFD-174/221",
+    "collector_number": 174,
+    "attributes": {
+      "energy": 8,
+      "might": 9,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, play four Gold gear tokens exhausted.",
+      "plain": "When you play me, play four Gold gear tokens exhausted."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e5b0966cc00203db1036b6fa95360541f72ae131-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Trove Golem"
+    },
+    "tags": [
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "trove-golem",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-174-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

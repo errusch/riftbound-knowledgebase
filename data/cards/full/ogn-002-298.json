@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-002-298",
+  "type": "card_record",
+  "title": "Brazen Buccaneer",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Fury"
+  ],
+  "record": {
+    "id": "8bb4cd9e-4377-4c0b-b92b-398934b5b6d1",
+    "name": "Brazen Buccaneer",
+    "riftbound_id": "ogn-002-298",
+    "tcgplayer_id": "652772",
+    "public_code": "OGN-002/298",
+    "collector_number": 2,
+    "attributes": {
+      "energy": 6,
+      "might": 5,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "As you play me, you may discard 1 as an additional cost. If you do, reduce my cost by :rb_energy_2:.",
+      "plain": "As you play me, you may discard 1 as an additional cost. If you do, reduce my cost by :rb_energy_2:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d481971f7560e7235e7d6934767da18daa019eff-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Brazen Buccaneer"
+    },
+    "tags": [
+      "Pirate",
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "brazen-buccaneer",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-002-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

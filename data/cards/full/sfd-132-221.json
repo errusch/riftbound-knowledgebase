@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-132-221",
+  "type": "card_record",
+  "title": "Beast Below",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "0b41462b-318b-4d57-89b3-f72f32820623",
+    "name": "Beast Below",
+    "riftbound_id": "sfd-132-221",
+    "tcgplayer_id": "666836",
+    "public_code": "SFD-132/221",
+    "collector_number": 132,
+    "attributes": {
+      "energy": 7,
+      "might": 8,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, return another friendly unit and an enemy unit to their owners' hands.",
+      "plain": "When you play me, return another friendly unit and an enemy unit to their owners' hands."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d27a56111c68c651099d7b73b22a54a825458857-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Beast Below"
+    },
+    "tags": [
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "beast-below",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-132-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

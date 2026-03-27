@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-200-221",
+  "type": "card_record",
+  "title": "Arcane Shift",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Mind",
+    "Chaos"
+  ],
+  "record": {
+    "id": "74502e9b-4358-4333-9746-f76b2e8aead9",
+    "name": "Arcane Shift",
+    "riftbound_id": "sfd-200-221",
+    "tcgplayer_id": "666816",
+    "public_code": "SFD-200/221",
+    "collector_number": 200,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Mind",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Banish a friendly unit, then its owner plays it, ignoring its cost. Deal 3 to an enemy unit at a battlefield. Banish this.",
+      "plain": "[Action] (Play on your turn or in showdowns.)Banish a friendly unit, then its owner plays it, ignoring its cost. Deal 3 to an enemy unit at a battlefield. Banish this."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a5d1d26dee01db24f32a1432639478753d22aa92-744x1039.png",
+      "artist": "Original Force",
+      "accessibility_text": "Arcane Shift"
+    },
+    "tags": [
+      "Ezreal"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "arcane-shift",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-200-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

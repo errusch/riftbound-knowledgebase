@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-214a-298",
+  "type": "card_record",
+  "title": "Order Rune",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Rune",
+    "Order"
+  ],
+  "record": {
+    "id": "f926a190-a517-4fd0-ad52-69983c8099e2",
+    "name": "Order Rune",
+    "riftbound_id": "ogn-214a-298",
+    "tcgplayer_id": "653008",
+    "public_code": "OGN-214a/298",
+    "collector_number": 214,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Rune",
+      "supertype": "Basic",
+      "rarity": "Showcase",
+      "domain": [
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "(Rune - no card text)",
+      "plain": "(Rune - no card text)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/0e4904221c3bbbfcfde1734bc414dbe97c67e295-1488x2078.png",
+      "artist": "Fairfoul",
+      "accessibility_text": "Order Rune"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "order-rune",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-214a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "card.ogs-024-024",
+  "type": "card_record",
+  "title": "Decisive Strike",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Spell",
+    "Body",
+    "Order"
+  ],
+  "record": {
+    "id": "535c45d3-1fb9-4227-993e-576444b70bfd",
+    "name": "Decisive Strike",
+    "riftbound_id": "ogs-024-024",
+    "tcgplayer_id": "653159",
+    "public_code": "OGS-024/024",
+    "collector_number": 24,
+    "attributes": {
+      "energy": 5,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Body",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Give friendly units +2 :rb_might: this turn.",
+      "plain": "[Action] (Play on your turn or in showdowns.)Give friendly units +2 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/986782271be078c184a8d1c196e375106459c6c5-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Decisive Strike"
+    },
+    "tags": [
+      "Garen"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "decisive-strike",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-024-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

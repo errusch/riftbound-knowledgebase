@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-151a-298",
+  "type": "card_record",
+  "title": "Lee Sin, Centered",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "94d21c7f-1654-4f78-8bff-412fbcbc6d12",
+    "name": "Lee Sin, Centered",
+    "riftbound_id": "ogn-151a-298",
+    "tcgplayer_id": "652936",
+    "public_code": "OGN-151a/298",
+    "collector_number": 151,
+    "attributes": {
+      "energy": 6,
+      "might": 6,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)Other buffed friendly units at my battlefield have +2 :rb_might:.",
+      "plain": "[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)Other buffed friendly units at my battlefield have +2 :rb_might:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/68d9364d3138e06a25724a0aaae0b7226472cd68-744x1039.png",
+      "artist": "League Splash Team",
+      "accessibility_text": "Lee Sin, Centered"
+    },
+    "tags": [
+      "Lee Sin",
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "lee-sin-centered",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-151a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

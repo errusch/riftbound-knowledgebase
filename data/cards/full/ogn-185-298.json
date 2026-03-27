@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-185-298",
+  "type": "card_record",
+  "title": "Traveling Merchant",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Chaos"
+  ],
+  "record": {
+    "id": "2211dbc9-49dd-4d1a-92f1-322c7b66a5be",
+    "name": "Traveling Merchant",
+    "riftbound_id": "ogn-185-298",
+    "tcgplayer_id": "652974",
+    "public_code": "OGN-185/298",
+    "collector_number": 185,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "When I move, discard 1, then draw 1.",
+      "plain": "When I move, discard 1, then draw 1."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b7dbebe2bf5691391c8e4146e478b8bd2ac40aef-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Traveling Merchant"
+    },
+    "tags": [
+      "Bilgewater"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "traveling-merchant",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-185-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

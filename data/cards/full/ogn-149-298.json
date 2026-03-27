@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-149-298",
+  "type": "card_record",
+  "title": "Carnivorous Snapvine",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "112e820e-4eab-4a2e-808a-c6e5c473a191",
+    "name": "Carnivorous Snapvine",
+    "riftbound_id": "ogn-149-298",
+    "tcgplayer_id": "652933",
+    "public_code": "OGN-149/298",
+    "collector_number": 149,
+    "attributes": {
+      "energy": 5,
+      "might": 6,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, choose an enemy unit at a battlefield. We deal damage equal to our Mights to each other.",
+      "plain": "When you play me, choose an enemy unit at a battlefield. We deal damage equal to our Mights to each other."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5ceaec3452d623931b5ac93d0af26b180b9646de-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Carnivorous Snapvine"
+    },
+    "tags": [
+      "Shadow Isles"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "carnivorous-snapvine",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-149-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

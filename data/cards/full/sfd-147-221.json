@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-147-221",
+  "type": "card_record",
+  "title": "Downwell",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Chaos"
+  ],
+  "record": {
+    "id": "993b1a7d-8490-4fb3-8255-c2d27cfa86be",
+    "name": "Downwell",
+    "riftbound_id": "sfd-147-221",
+    "tcgplayer_id": "666477",
+    "public_code": "SFD-147/221",
+    "collector_number": 147,
+    "attributes": {
+      "energy": 8,
+      "might": null,
+      "power": 2
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Epic",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "Return all units and gear to their owners' hands.",
+      "plain": "Return all units and gear to their owners' hands."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/950eff0d07ef1e25be46fdb340fe8510c551c159-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Downwell"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "downwell",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-147-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

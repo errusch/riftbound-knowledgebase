@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-258-298",
+  "type": "card_record",
+  "title": "Dragon's Rage",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Calm",
+    "Body"
+  ],
+  "record": {
+    "id": "bb537e01-3cc0-4b66-9168-4a1a58cbef05",
+    "name": "Dragon's Rage",
+    "riftbound_id": "ogn-258-298",
+    "tcgplayer_id": "653056",
+    "public_code": "OGN-258/298",
+    "collector_number": 258,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": "Signature",
+      "rarity": "Epic",
+      "domain": [
+        "Calm",
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "Move an enemy unit. Then choose another enemy unit at its destination. They deal damage equal to their Mights to each other.",
+      "plain": "Move an enemy unit. Then choose another enemy unit at its destination. They deal damage equal to their Mights to each other."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7f4cbd4fb340cc13b3fbe0ec0db706464d9b29f4-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Dragon's Rage"
+    },
+    "tags": [
+      "Lee Sin"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "dragon-s-rage",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-258-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

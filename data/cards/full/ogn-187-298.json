@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-187-298",
+  "type": "card_record",
+  "title": "Whirlwind",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Chaos"
+  ],
+  "record": {
+    "id": "536424af-e44f-4ef3-91df-c355d319ea7f",
+    "name": "Whirlwind",
+    "riftbound_id": "ogn-187-298",
+    "tcgplayer_id": "652976",
+    "public_code": "OGN-187/298",
+    "collector_number": 187,
+    "attributes": {
+      "energy": 3,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": "Starting with the next player, each player may return a unit to its owner's hand.",
+      "plain": "Starting with the next player, each player may return a unit to its owner's hand."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/24f5e0a8811b5a0e0930c0f6476600e2a37a5f93-744x1039.png",
+      "artist": "Polar Engine Studio",
+      "accessibility_text": "Whirlwind"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "whirlwind",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-187-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

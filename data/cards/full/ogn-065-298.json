@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-065-298",
+  "type": "card_record",
+  "title": "Wizened Elder",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Calm"
+  ],
+  "record": {
+    "id": "e5da3032-13ab-418f-83f8-fa89684b9baa",
+    "name": "Wizened Elder",
+    "riftbound_id": "ogn-065-298",
+    "tcgplayer_id": "652841",
+    "public_code": "OGN-065/298",
+    "collector_number": 65,
+    "attributes": {
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "While I'm buffed, I have an additional +1 :rb_might:.",
+      "plain": "While I'm buffed, I have an additional +1 :rb_might:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/7b98797789ad7e3a6cf52126b82a42ec6f269bb7-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Wizened Elder"
+    },
+    "tags": [
+      "Ionia"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "wizened-elder",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-065-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

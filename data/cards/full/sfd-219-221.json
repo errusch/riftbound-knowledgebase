@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-219-221",
+  "type": "card_record",
+  "title": "The Papertree",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Battlefield",
+    "Colorless"
+  ],
+  "record": {
+    "id": "5a154988-9666-452e-8d9b-afbbebf0bb87",
+    "name": "The Papertree",
+    "riftbound_id": "sfd-219-221",
+    "tcgplayer_id": "666878",
+    "public_code": "SFD-219/221",
+    "collector_number": 219,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Battlefield",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Colorless"
+      ]
+    },
+    "text": {
+      "rich": "When you hold here, each player channels 1 rune exhausted.",
+      "plain": "When you hold here, each player channels 1 rune exhausted."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c395b94a4f78b4e8b0590b56787c33600b18e358-1039x744.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "The Papertree"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "the-papertree",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-219-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

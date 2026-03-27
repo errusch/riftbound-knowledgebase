@@ -1,0 +1,63 @@
+{
+  "id": "card.ogn-305-298",
+  "type": "card_record",
+  "title": "Unforgiven",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Legend",
+    "Calm",
+    "Chaos"
+  ],
+  "record": {
+    "id": "32e89878-efc3-43aa-942a-7d4d5585eb43",
+    "name": "Unforgiven",
+    "riftbound_id": "ogn-305-298",
+    "tcgplayer_id": "653105",
+    "public_code": "OGN-305/298",
+    "collector_number": 305,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": null,
+      "rarity": "Showcase",
+      "domain": [
+        "Calm",
+        "Chaos"
+      ]
+    },
+    "text": {
+      "rich": ":rb_energy_2:, :rb_exhaust:: Move a friendly unit to or from its base.",
+      "plain": ":rb_energy_2:, :rb_exhaust:: Move a friendly unit to or from its base."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/2c804ec513085702763a9145fac93a8adb6c4783-1488x2078.png",
+      "artist": "Quy Ho",
+      "accessibility_text": "Unforgiven"
+    },
+    "tags": [
+      "Yasuo"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "unforgiven",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-305-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

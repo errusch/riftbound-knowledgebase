@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-060-298",
+  "type": "card_record",
+  "title": "Mask of Foresight",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Gear",
+    "Calm"
+  ],
+  "record": {
+    "id": "c61dd400-aacc-47ef-9fc9-6f5e3e31d194",
+    "name": "Mask of Foresight",
+    "riftbound_id": "ogn-060-298",
+    "tcgplayer_id": "652836",
+    "public_code": "OGN-060/298",
+    "collector_number": 60,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Calm"
+      ]
+    },
+    "text": {
+      "rich": "When a friendly unit attacks or defends alone, give it +1 :rb_might: this turn.",
+      "plain": "When a friendly unit attacks or defends alone, give it +1 :rb_might: this turn."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/03824709acbb4151d13b083a842c4702a3e61221-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Mask of Foresight"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "mask-of-foresight",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-060-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

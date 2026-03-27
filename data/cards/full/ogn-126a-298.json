@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-126a-298",
+  "type": "card_record",
+  "title": "Body Rune",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Rune",
+    "Body"
+  ],
+  "record": {
+    "id": "eae90d10-c1d0-44d2-b825-b8dffc99e15e",
+    "name": "Body Rune",
+    "riftbound_id": "ogn-126a-298",
+    "tcgplayer_id": "652910",
+    "public_code": "OGN-126a/298",
+    "collector_number": 126,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Rune",
+      "supertype": "Basic",
+      "rarity": "Showcase",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "(Rune - no card text)",
+      "plain": "(Rune - no card text)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/011081f82cab36f8ec0d6874492512fd7859f59e-1488x2078.png",
+      "artist": "Fairfoul",
+      "accessibility_text": "Body Rune"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "body-rune",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-126a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

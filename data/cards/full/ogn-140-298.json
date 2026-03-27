@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-140-298",
+  "type": "card_record",
+  "title": "Herald of Scales",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "50edee5b-f77b-45ea-b1b5-b3f105699517",
+    "name": "Herald of Scales",
+    "riftbound_id": "ogn-140-298",
+    "tcgplayer_id": "652924",
+    "public_code": "OGN-140/298",
+    "collector_number": 140,
+    "attributes": {
+      "energy": 4,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "Your Dragons' Energy costs are reduced by :rb_energy_2:, to a minimum of :rb_energy_1:.",
+      "plain": "Your Dragons' Energy costs are reduced by :rb_energy_2:, to a minimum of :rb_energy_1:."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/be49bceea1d328769774fb4daac4732861f6e4fd-744x1039.png",
+      "artist": "Polar Engine Studio",
+      "accessibility_text": "Herald of Scales"
+    },
+    "tags": [
+      "Mount Targon"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "herald-of-scales",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-140-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

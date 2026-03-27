@@ -1,0 +1,59 @@
+{
+  "id": "card.sfd-111-221",
+  "type": "card_record",
+  "title": "Here to Help",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Spell",
+    "Body"
+  ],
+  "record": {
+    "id": "4999f448-ebb1-4f2a-9bf8-0123c5d32207",
+    "name": "Here to Help",
+    "riftbound_id": "sfd-111-221",
+    "tcgplayer_id": "664888",
+    "public_code": "SFD-111/221",
+    "collector_number": 111,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Action] (Play on your turn or in showdowns.)You may play a unit from hand to a battlefield you control, reducing its cost by :rb_energy_3:.",
+      "plain": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)[Action] (Play on your turn or in showdowns.)You may play a unit from hand to a battlefield you control, reducing its cost by :rb_energy_3:."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6daa8caf27f76f2b0bce189fb9df196129582afa-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Here to Help"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "here-to-help",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-111-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-088-298",
+  "type": "card_record",
+  "title": "Mega-Mech",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "03c93c60-f089-452b-9574-ae9a9f35970b",
+    "name": "Mega-Mech",
+    "riftbound_id": "ogn-088-298",
+    "tcgplayer_id": "652868",
+    "public_code": "OGN-088/298",
+    "collector_number": 88,
+    "attributes": {
+      "energy": 7,
+      "might": 8,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "(Vanilla unit - no abilities)",
+      "plain": "(Vanilla unit - no abilities)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f71db7b62798a2a10a1ab0d293c26ac9dd163c6a-744x1039.png",
+      "artist": "Valentin Gloaguen",
+      "accessibility_text": "Mega-Mech"
+    },
+    "tags": [
+      "Mech",
+      "Bandle City"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "mega-mech",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-088-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

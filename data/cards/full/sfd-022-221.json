@@ -1,0 +1,61 @@
+{
+  "id": "card.sfd-022-221",
+  "type": "card_record",
+  "title": "Long Sword",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Gear",
+    "Fury"
+  ],
+  "record": {
+    "id": "6d0e9f19-f1ed-4b83-bb42-0f5a74efa168",
+    "name": "Long Sword",
+    "riftbound_id": "sfd-022-221",
+    "tcgplayer_id": "663436",
+    "public_code": "SFD-022/221",
+    "collector_number": 22,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": 1
+    },
+    "classification": {
+      "type": "Gear",
+      "supertype": null,
+      "rarity": "Rare",
+      "domain": [
+        "Fury"
+      ]
+    },
+    "text": {
+      "rich": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)[Equip] :rb_rune_fury: (:rb_rune_fury:: Attach this to a unit you control.)",
+      "plain": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)[Equip] :rb_rune_fury: (:rb_rune_fury:: Attach this to a unit you control.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/48d798bf93afd1ef139dcafc6cd8705742b93169-744x1039.png",
+      "artist": "\u9eef\u8367\u5c9bDark Glow",
+      "accessibility_text": "Long Sword"
+    },
+    "tags": [
+      "Equipment"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "long-sword",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-022-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

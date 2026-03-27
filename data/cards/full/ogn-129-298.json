@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-129-298",
+  "type": "card_record",
+  "title": "Confront",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Body"
+  ],
+  "record": {
+    "id": "4c0f5e42-d05b-451d-ace7-2295db179227",
+    "name": "Confront",
+    "riftbound_id": "ogn-129-298",
+    "tcgplayer_id": "652913",
+    "public_code": "OGN-129/298",
+    "collector_number": 129,
+    "attributes": {
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Units you play this turn enter ready. Draw 1.",
+      "plain": "[Action] (Play on your turn or in showdowns.)Units you play this turn enter ready. Draw 1."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/691a38a7c344fdb5ee86e34d41321d99754286a7-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Confront"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "confront",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-129-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

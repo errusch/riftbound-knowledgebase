@@ -1,0 +1,59 @@
+{
+  "id": "card.ogn-138-298",
+  "type": "card_record",
+  "title": "Catalyst of Aeons",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Spell",
+    "Body"
+  ],
+  "record": {
+    "id": "f2b6be7b-2cfe-4e3a-961f-fbae0a240582",
+    "name": "Catalyst of Aeons",
+    "riftbound_id": "ogn-138-298",
+    "tcgplayer_id": "652922",
+    "public_code": "OGN-138/298",
+    "collector_number": 138,
+    "attributes": {
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Uncommon",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "Channel 2 runes exhausted. If you couldn't channel 2 runes this way, draw 1.",
+      "plain": "Channel 2 runes exhausted. If you couldn't channel 2 runes this way, draw 1."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4753707323ab6f9ac572c097f29f2f76ac62f54f-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Catalyst of Aeons"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "catalyst-of-aeons",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-138-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

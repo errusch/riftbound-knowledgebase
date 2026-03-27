@@ -1,0 +1,62 @@
+{
+  "id": "card.ogn-158a-298",
+  "type": "card_record",
+  "title": "Volibear, Imposing",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "05b8a2e1-07ad-4621-880d-62cebf225b8a",
+    "name": "Volibear, Imposing",
+    "riftbound_id": "ogn-158a-298",
+    "tcgplayer_id": "652944",
+    "public_code": "OGN-158a/298",
+    "collector_number": 158,
+    "attributes": {
+      "energy": 12,
+      "might": 10,
+      "power": 2
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": "Champion",
+      "rarity": "Showcase",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Shield 3] (+3 :rb_might: while I'm a defender.)[Tank] (I must be assigned combat damage first.)When an opponent moves to a battlefield other than mine, draw 1. (Bases are not battlefield.)",
+      "plain": "[Shield 3] (+3 :rb_might: while I'm a defender.)[Tank] (I must be assigned combat damage first.)When an opponent moves to a battlefield other than mine, draw 1. (Bases are not battlefield.)"
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/faceb90b6a46e79eadba43871b8cffe1ec5037a7-744x1039.png",
+      "artist": "Wild Rift Splash Team",
+      "accessibility_text": "Volibear, Imposing"
+    },
+    "tags": [
+      "Volibear",
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "volibear-imposing",
+      "alternate_art": true,
+      "signature": false,
+      "record_key": "ogn-158a-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

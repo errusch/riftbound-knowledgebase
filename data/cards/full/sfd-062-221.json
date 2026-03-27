@@ -1,0 +1,63 @@
+{
+  "id": "card.sfd-062-221",
+  "type": "card_record",
+  "title": "Bubble Bot",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Mind"
+  ],
+  "record": {
+    "id": "44d419ab-0fcd-48ff-91e4-e5df36ad6c0e",
+    "name": "Bubble Bot",
+    "riftbound_id": "sfd-062-221",
+    "tcgplayer_id": "666429",
+    "public_code": "SFD-062/221",
+    "collector_number": 62,
+    "attributes": {
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Mind"
+      ]
+    },
+    "text": {
+      "rich": "When you play me, ready another friendly Mech.",
+      "plain": "When you play me, ready another friendly Mech."
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c0fe9df24ae4b8a5b4fb8276b1bd6c5a5f5f7b2b-744x1039.png",
+      "artist": "Envar Studio",
+      "accessibility_text": "Bubble Bot"
+    },
+    "tags": [
+      "Mech",
+      "Yordle",
+      "Bandle City"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "bubble-bot",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-062-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

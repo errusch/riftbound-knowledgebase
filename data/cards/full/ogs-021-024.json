@@ -1,0 +1,63 @@
+{
+  "id": "card.ogs-021-024",
+  "type": "card_record",
+  "title": "Lady of Luminosity - Starter",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Legend",
+    "Mind",
+    "Order"
+  ],
+  "record": {
+    "id": "85ce2468-4628-4c2c-960d-286728e81afa",
+    "name": "Lady of Luminosity - Starter",
+    "riftbound_id": "ogs-021-024",
+    "tcgplayer_id": "653156",
+    "public_code": "OGS-021/024",
+    "collector_number": 21,
+    "attributes": {
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    "classification": {
+      "type": "Legend",
+      "supertype": "Champion",
+      "rarity": "Rare",
+      "domain": [
+        "Mind",
+        "Order"
+      ]
+    },
+    "text": {
+      "rich": "When you play a spell that costs :rb_energy_5: or more, draw 1.",
+      "plain": "When you play a spell that costs :rb_energy_5: or more, draw 1."
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/44885d811b70621b188d9813b2b10b5cff1b81e6-744x1039.png",
+      "artist": "Grafit Studio/Maki Planas Mata",
+      "accessibility_text": "Lady of Luminosity - Starter"
+    },
+    "tags": [
+      "Lux"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "lady-of-luminosity-starter",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-021-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

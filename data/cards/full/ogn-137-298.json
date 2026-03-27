@@ -1,0 +1,61 @@
+{
+  "id": "card.ogn-137-298",
+  "type": "card_record",
+  "title": "Stormclaw Ursine",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGN",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "55b29580-f7b8-4bdf-88cd-b6278e31056f",
+    "name": "Stormclaw Ursine",
+    "riftbound_id": "ogn-137-298",
+    "tcgplayer_id": "652921",
+    "public_code": "OGN-137/298",
+    "collector_number": 137,
+    "attributes": {
+      "energy": 7,
+      "might": 6,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Tank] (I must be assigned combat damage first.)When you play me, channel 1 rune exhausted.",
+      "plain": "[Tank] (I must be assigned combat damage first.)When you play me, channel 1 rune exhausted."
+    },
+    "set": {
+      "set_id": "OGN",
+      "label": "Origins"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/137e5a1faec1c8b26a5a0abc7802f6461cc725c8-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Stormclaw Ursine"
+    },
+    "tags": [
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "stormclaw-ursine",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogn-137-298",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

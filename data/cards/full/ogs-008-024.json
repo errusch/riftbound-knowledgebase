@@ -1,0 +1,59 @@
+{
+  "id": "card.ogs-008-024",
+  "type": "card_record",
+  "title": "Gentlemen's Duel",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "OGS",
+    "Spell",
+    "Body"
+  ],
+  "record": {
+    "id": "b8594cb7-e9f2-479e-871b-b3c2cd0a578a",
+    "name": "Gentlemen's Duel",
+    "riftbound_id": "ogs-008-024",
+    "tcgplayer_id": "653143",
+    "public_code": "OGS-008/024",
+    "collector_number": 8,
+    "attributes": {
+      "energy": 6,
+      "might": null,
+      "power": 1
+    },
+    "classification": {
+      "type": "Spell",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Action] (Play on your turn or in showdowns.)Give a friendly unit +3 :rb_might: this turn. Then choose an enemy unit. They deal damage equal to their Mights to each other.",
+      "plain": "[Action] (Play on your turn or in showdowns.)Give a friendly unit +3 :rb_might: this turn. Then choose an enemy unit. They deal damage equal to their Mights to each other."
+    },
+    "set": {
+      "set_id": "OGS",
+      "label": "Proving Grounds"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4568ab827fdcd42d6bb86b1c2de6182e286c9ee9-744x1039.png",
+      "artist": "Kudos Productions",
+      "accessibility_text": "Gentlemen's Duel"
+    },
+    "tags": [],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "gentlemen-s-duel",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "ogs-008-024",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}

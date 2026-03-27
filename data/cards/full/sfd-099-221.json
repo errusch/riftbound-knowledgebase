@@ -1,0 +1,62 @@
+{
+  "id": "card.sfd-099-221",
+  "type": "card_record",
+  "title": "Veteran Poro",
+  "source_kind": "legacy_local_knowledge_db",
+  "source_path": "/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db",
+  "source_date": "2026-03-06T10:11:31.039432Z",
+  "trust_level": "derived_verified",
+  "status": "reviewed",
+  "tags": [
+    "card",
+    "SFD",
+    "Unit",
+    "Body"
+  ],
+  "record": {
+    "id": "c68a61dd-74cf-407e-9049-1ce44e46d268",
+    "name": "Veteran Poro",
+    "riftbound_id": "sfd-099-221",
+    "tcgplayer_id": "664951",
+    "public_code": "SFD-099/221",
+    "collector_number": 99,
+    "attributes": {
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    "classification": {
+      "type": "Unit",
+      "supertype": null,
+      "rarity": "Common",
+      "domain": [
+        "Body"
+      ]
+    },
+    "text": {
+      "rich": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)",
+      "plain": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)"
+    },
+    "set": {
+      "set_id": "SFD",
+      "label": "SFD"
+    },
+    "media": {
+      "image_url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/54b8aa5aa80e74e0c545d4c484353c5b9e78bdfc-744x1039.png",
+      "artist": "Six More Vodka",
+      "accessibility_text": "Veteran Poro"
+    },
+    "tags": [
+      "Poro",
+      "Freljord"
+    ],
+    "orientation": "portrait",
+    "metadata": {
+      "clean_name": "veteran-poro",
+      "alternate_art": false,
+      "signature": false,
+      "record_key": "sfd-099-221",
+      "source_record_kind": "legacy_local_knowledge_db"
+    }
+  }
+}
