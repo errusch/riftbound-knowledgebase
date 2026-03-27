@@ -8,12 +8,8 @@ SCRIPT_ROOT = Path(__file__).resolve().parents[2]
 if str(SCRIPT_ROOT) not in sys.path:
     sys.path.insert(0, str(SCRIPT_ROOT))
 
-from scripts.lib.kb_graph import build_graph_indexes
-
-
-def main() -> None:
-    build_graph_indexes()
+from scripts.lib.kb_cli import main
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

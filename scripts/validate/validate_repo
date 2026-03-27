@@ -47,6 +47,28 @@ def main() -> None:
         ROOT / "data" / "indexes" / "events.json",
         ROOT / "data" / "indexes" / "videos.json",
         ROOT / "data" / "indexes" / "derived_conflicts.json",
+        ROOT / "data" / "indexes" / "data_objects.json",
+        ROOT / "data" / "indexes" / "graph_edges.json",
+        ROOT / "data" / "indexes" / "card_to_rulings.json",
+        ROOT / "data" / "indexes" / "card_to_guides.json",
+        ROOT / "data" / "indexes" / "legend_to_decks.json",
+        ROOT / "data" / "indexes" / "legend_to_matchups.json",
+        ROOT / "data" / "indexes" / "event_to_top_lists.json",
+        ROOT / "data" / "indexes" / "battlefield_to_mentions.json",
+        ROOT / "data" / "indexes" / "concept_to_vods.json",
+        ROOT / "data" / "indexes" / "conflicts_by_topic.json",
+        ROOT / "data" / "indexes" / "cards_lookup.json",
+        ROOT / "data" / "indexes" / "legend_lookup.json",
+        ROOT / "data" / "indexes" / "meta_snapshots.json",
+        ROOT / "data" / "indexes" / "vod_links.json",
+        ROOT / "data" / "indexes" / "prep_briefs" / "draven-vs-kaisa.json",
+        ROOT / "data" / "meta" / "2026-03-27.json",
+        ROOT / "analysis" / "meta" / "2026-03-27.md",
+        ROOT / "analysis" / "archetypes" / "draven.md",
+        ROOT / "analysis" / "matchups" / "draven-vs-kaisa.md",
+        ROOT / "scripts" / "query" / "kb",
+        ROOT / "scripts" / "ops" / "kb_ops",
+        ROOT / "scripts" / "build" / "rebuild_graph_indexes",
     ]
     missing = [str(path.relative_to(ROOT)) for path in required_paths if not path.exists()]
     if missing:
@@ -95,7 +117,7 @@ def main() -> None:
     all_objects = load_json(ROOT / "data" / "indexes" / "all_objects.json", [])
     duplicate_root = str(IGNORED_DUPLICATE_ROOT)
     for obj in all_objects + decks + events:
-        source_path = obj.get("source_path", "")
+        source_path = obj.get("source_path") or ""
         if duplicate_root in source_path:
             fail(f"Unexpected duplicate-repo import detected: {source_path}")
 
@@ -106,6 +128,59 @@ def main() -> None:
     battlefields = load_json(ROOT / "data" / "taxonomy" / "battlefields.json", [])
     if len(battlefields) < 30:
         fail("Battlefield taxonomy should contain at least 30 entries from the full local corpus.")
+
+    graph_edges = load_json(ROOT / "data" / "indexes" / "graph_edges.json", [])
+    if len(graph_edges) < 50:
+        fail("Graph edge index is unexpectedly small.")
+
+    card_to_rulings = load_json(ROOT / "data" / "indexes" / "card_to_rulings.json", {})
+    if "card.ogn-107-298" not in card_to_rulings:
+        fail("Expected Ava Achiever ruling links in card_to_rulings index.")
+
+    card_to_guides = load_json(ROOT / "data" / "indexes" / "card_to_guides.json", {})
+    if "card.ogn-107-298" not in card_to_guides:
+        fail("Expected Ava Achiever guide links in card_to_guides index.")
+
+    legend_to_decks = load_json(ROOT / "data" / "indexes" / "legend_to_decks.json", {})
+    for legend in {"Draven", "Kai'Sa", "Annie"}:
+        if legend not in legend_to_decks:
+            fail(f"Legend deck index missing expected legend: {legend}")
+
+    legend_to_matchups = load_json(ROOT / "data" / "indexes" / "legend_to_matchups.json", {})
+    if "Draven" not in legend_to_matchups:
+        fail("Legend matchup index should include Draven after generated prep artifacts.")
+
+    event_to_top_lists = load_json(ROOT / "data" / "indexes" / "event_to_top_lists.json", {})
+    if "event.houston-regional-qualifier" not in event_to_top_lists:
+        fail("Event to top lists index is missing the Houston Regional Qualifier.")
+
+    battlefield_to_mentions = load_json(ROOT / "data" / "indexes" / "battlefield_to_mentions.json", {})
+    if "Reaver's Row" not in battlefield_to_mentions:
+        fail("Battlefield mentions index should include Reaver's Row.")
+
+    concept_to_vods = load_json(ROOT / "data" / "indexes" / "concept_to_vods.json", {})
+    if "battlefield order" not in concept_to_vods:
+        fail("Concept-to-VOD index should include battlefield order.")
+
+    conflicts_by_topic = load_json(ROOT / "data" / "indexes" / "conflicts_by_topic.json", [])
+    if not any(item.get("topic") == "tournament" for item in conflicts_by_topic):
+        fail("Conflicts-by-topic index should include the tournament topic.")
+
+    cards_lookup = load_json(ROOT / "data" / "indexes" / "cards_lookup.json", [])
+    if not any(item.get("lookup_key") == "ava achiever" for item in cards_lookup):
+        fail("Cards lookup index should include Ava Achiever.")
+
+    legend_lookup = load_json(ROOT / "data" / "indexes" / "legend_lookup.json", [])
+    if not any(item.get("lookup_key") == "daughter of the void" for item in legend_lookup):
+        fail("Legend lookup index should include Kai'Sa aliases.")
+
+    meta_snapshots = load_json(ROOT / "data" / "indexes" / "meta_snapshots.json", [])
+    if not meta_snapshots:
+        fail("Generated meta snapshot index should not be empty.")
+
+    vod_links = load_json(ROOT / "data" / "indexes" / "vod_links.json", [])
+    if not any(item.get("object_id") == "analysis.video_review.m2IjrsUzXgU" for item in vod_links):
+        fail("VOD links index should include the existing NovaRiftbound review.")
 
     print("Validation passed.")
 

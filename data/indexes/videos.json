@@ -13,13 +13,41 @@
       "NovaRiftbound",
       "m2IjrsUzXgU"
     ],
-    "video_id": "m2IjrsUzXgU",
-    "channel": "NovaRiftbound",
-    "uploader": "NovaRiftbound",
-    "duration_string": "12:04",
-    "webpage_url": "https://www.youtube.com/watch?v=m2IjrsUzXgU",
-    "transcript_type": "auto_caption_en_orig",
-    "imported_at": "2026-03-27T18:56:35.299682Z",
-    "path": "analysis/videos/m2IjrsUzXgU/metadata.json"
+    "path": "analysis/videos/m2IjrsUzXgU/metadata.json",
+    "scope": "analysis"
+  },
+  {
+    "id": "analysis.video_transcript.m2IjrsUzXgU",
+    "type": "analysis_note",
+    "title": "How to Get Better at Riftbound Transcript",
+    "source_kind": "youtube_vod_auto_caption",
+    "source_path": "https://youtu.be/m2IjrsUzXgU",
+    "source_date": "20260327",
+    "trust_level": "derived_unverified",
+    "status": "draft",
+    "tags": [
+      "video",
+      "transcript",
+      "m2IjrsUzXgU"
+    ],
+    "path": "analysis/videos/m2IjrsUzXgU/transcript.cleaned.md",
+    "scope": "analysis"
+  },
+  {
+    "id": "analysis.video_review.m2IjrsUzXgU",
+    "type": "vod_review",
+    "title": "How to Get Better at Riftbound Review",
+    "source_kind": "youtube_vod_review",
+    "source_path": "https://youtu.be/m2IjrsUzXgU",
+    "source_date": "20260327",
+    "trust_level": "derived_unverified",
+    "status": "draft",
+    "tags": [
+      "video",
+      "review",
+      "m2IjrsUzXgU"
+    ],
+    "path": "analysis/videos/m2IjrsUzXgU/review.md",
+    "scope": "analysis"
   }
 ]

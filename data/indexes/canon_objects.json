@@ -13,23 +13,8 @@
       "origins",
       "official"
     ],
-    "path": "canon/errata/card-errata-set-1-origins.md"
-  },
-  {
-    "id": "canon.core-rules-v1-2",
-    "type": "canon_document",
-    "title": "Riftbound Core Rules v1.2",
-    "source_kind": "official_local_file",
-    "source_path": "/Users/eric/claude-workspace/riftbound/rule-documents/[Official Document] Riftbound Rules - Core Rules (v1.2 - 2025-12-01).txt",
-    "source_date": "2025-12-01",
-    "trust_level": "official",
-    "status": "reviewed",
-    "tags": [
-      "rules",
-      "core",
-      "official"
-    ],
-    "path": "canon/rules/core-rules-v1-2.md"
+    "path": "canon/errata/card-errata-set-1-origins.md",
+    "scope": "canon"
   },
   {
     "id": "canon.how-to-play-ogn-starter-guide",
@@ -45,7 +30,25 @@
       "starter-guide",
       "official"
     ],
-    "path": "canon/rules/how-to-play-ogn-starter-guide.md"
+    "path": "canon/rules/how-to-play-ogn-starter-guide.md",
+    "scope": "canon"
+  },
+  {
+    "id": "canon.core-rules-v1-2",
+    "type": "canon_document",
+    "title": "Riftbound Core Rules v1.2",
+    "source_kind": "official_local_file",
+    "source_path": "/Users/eric/claude-workspace/riftbound/rule-documents/[Official Document] Riftbound Rules - Core Rules (v1.2 - 2025-12-01).txt",
+    "source_date": "2025-12-01",
+    "trust_level": "official",
+    "status": "reviewed",
+    "tags": [
+      "rules",
+      "core",
+      "official"
+    ],
+    "path": "canon/rules/core-rules-v1-2.md",
+    "scope": "canon"
   },
   {
     "id": "canon.tournament-rules-2025-10-16",
@@ -61,6 +64,7 @@
       "tournament",
       "official"
     ],
-    "path": "canon/tournament/tournament-rules-2025-10-16.md"
+    "path": "canon/tournament/tournament-rules-2025-10-16.md",
+    "scope": "canon"
   }
 ]

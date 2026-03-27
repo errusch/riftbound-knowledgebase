@@ -1,0 +1,25 @@
+{
+  "id": "ops.daily.2026-03-27",
+  "type": "ops_summary",
+  "title": "Daily ops summary 2026-03-27",
+  "source_kind": "generated_local_ops",
+  "source_path": "generated",
+  "source_date": "2026-03-27",
+  "trust_level": "derived_unverified",
+  "status": "reviewed",
+  "tags": [
+    "ops",
+    "daily"
+  ],
+  "record": {
+    "meta_snapshot": "data/meta/2026-03-27.json",
+    "analysis_report": "analysis/meta/2026-03-27.md",
+    "conflict_count": 2,
+    "draft_video_count": 3,
+    "draft_videos": [
+      "analysis.video.m2IjrsUzXgU",
+      "analysis.video_transcript.m2IjrsUzXgU",
+      "analysis.video_review.m2IjrsUzXgU"
+    ]
+  }
+}
