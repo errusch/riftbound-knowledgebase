@@ -1,0 +1,66 @@
+{
+  "card_id": "unl-148-219",
+  "name": "Cursed Sarcophagus",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "148",
+  "public_code": "UNL-148/219",
+  "card_type": "Gear",
+  "subtypes": [],
+  "domains": [
+    "Chaos"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 4,
+    "might_bonus": null
+  },
+  "text": "When you play this, banish all units from your trash.\n:rb_exhaust:: Play a unit banished with this. (You must pay its costs.)",
+  "text_rich": "<p>When you play this, banish all units from your trash.<br />:rb_exhaust:: Play a unit banished with this. (You must pay its costs.)</p>",
+  "rarity": "Epic",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ae3823d4109d9bbae8c7983ec1c1082ba5b4f190-744x1039.png"
+  },
+  "artist": "Polar Engine Studio/华锐",
+  "accessibility_text": "Riftbound Gear: Cursed Sarcophagus. When you play this, banish all units from your trash.\n[T]: Play a unit banished with this. (You must pay its costs.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

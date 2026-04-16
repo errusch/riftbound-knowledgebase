@@ -1,0 +1,69 @@
+{
+  "card_id": "unl-181-219",
+  "name": "Virtuoso",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "181",
+  "public_code": "UNL-181/219",
+  "card_type": "Legend",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Fury",
+    "Mind"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "When you play a spell, if you spent :rb_energy_4: or more, you may banish it. Then, if there are four spells banished with me, put each in its trash, channel 4 runes, and draw 1.",
+  "text_rich": "<p>When you play a spell, if you spent :rb_energy_4: or more, you may banish it. Then, if there are four spells banished with me, put each in its trash, channel 4 runes, and draw 1.</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d1e6947cf43a19488a2c31f71a4887aa0423a966-744x1039.png"
+  },
+  "artist": "Pandart Studio",
+  "accessibility_text": "Riftbound Legend: Virtuoso. When you play a spell, if you spent [4] or more, you may banish it. Then, if there are four spells banished with me, put each in its trash, channel 4 runes, and draw 1.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

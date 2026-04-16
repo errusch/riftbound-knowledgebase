@@ -1,0 +1,409 @@
+{
+  "id": "2867cfc8-9ae3-4cbd-9fae-7290c5916095",
+  "name": "26- Best-Of Azir - Shenzhen National Open",
+  "legend": "Azir, Emperor of the Sands",
+  "legend_variant": "SFD-197",
+  "legend_id": "d8f1564d-6a8f-4e59-8e64-dfb17b0701d1",
+  "legend_colors": [
+    "Calm",
+    "Order"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Azir, Sovereign",
+      "quantity": 1,
+      "variantNumber": "SFD-177",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Vilemaw's Lair",
+      "quantity": 1,
+      "variantNumber": "OGN-295",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Trifarian War Camp",
+      "quantity": 1,
+      "variantNumber": "OGN-294",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Ornn's Forge",
+      "quantity": 1,
+      "variantNumber": "SFD-213",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Calm Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-042",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Order Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-214",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Doran's Shield",
+      "quantity": 3,
+      "variantNumber": "SFD-033",
+      "type": "Gear",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Brutalizer",
+      "quantity": 3,
+      "variantNumber": "SFD-042",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Guardian Angel",
+      "quantity": 1,
+      "variantNumber": "SFD-051",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Sacred Shears",
+      "quantity": 2,
+      "variantNumber": "SFD-172",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Eye of the Herald",
+      "quantity": 3,
+      "variantNumber": "SFD-153",
+      "type": "Gear",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "B.F. Sword",
+      "quantity": 3,
+      "variantNumber": "SFD-161",
+      "type": "Gear",
+      "energy": 4,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Arise!",
+      "quantity": 3,
+      "variantNumber": "SFD-198",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm",
+        "Order"
+      ]
+    },
+    {
+      "name": "Desert's Call",
+      "quantity": 2,
+      "variantNumber": "SFD-031",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Guards!",
+      "quantity": 2,
+      "variantNumber": "SFD-154",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Deathgrip",
+      "quantity": 2,
+      "variantNumber": "SFD-163",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Wind Wall",
+      "quantity": 1,
+      "variantNumber": "OGN-064",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Discipline",
+      "quantity": 3,
+      "variantNumber": "OGN-058",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Cull the Weak",
+      "quantity": 2,
+      "variantNumber": "OGN-209",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Hidden Blade",
+      "quantity": 3,
+      "variantNumber": "OGN-213",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Facebreaker",
+      "quantity": 1,
+      "variantNumber": "OGN-220",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Salvage",
+      "quantity": 1,
+      "variantNumber": "OGN-224",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Defy",
+      "quantity": 2,
+      "variantNumber": "OGN-045",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 1,
+      "variantNumber": "SFD-045",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Undertitan",
+      "quantity": 1,
+      "variantNumber": "SFD-175",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Salvage",
+      "quantity": 1,
+      "variantNumber": "OGN-224",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Cull the Weak",
+      "quantity": 1,
+      "variantNumber": "OGN-209",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Wind Wall",
+      "quantity": 1,
+      "variantNumber": "OGN-064",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Facebreaker",
+      "quantity": 1,
+      "variantNumber": "OGN-220",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 1,
+      "variantNumber": "SFD-045",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Charm",
+      "quantity": 2,
+      "variantNumber": "OGN-043",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Defy",
+      "quantity": 1,
+      "variantNumber": "OGN-045",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

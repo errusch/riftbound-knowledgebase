@@ -1,0 +1,66 @@
+{
+  "card_id": "ogn-123-298",
+  "name": "Unchecked Power",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "123",
+  "public_code": "OGN-123/298",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Mind"
+  ],
+  "cost": 2,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 7,
+    "might_bonus": null
+  },
+  "text": "Exhaust all friendly units, then deal 12 to ALL units at battlefields.",
+  "text_rich": "<p>Exhaust all friendly units, then deal 12 to ALL units at battlefields.</p>",
+  "rarity": "Epic",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/c44cd1f6f41144c770ac79f10e5ae75f0c6d6435-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Spell: Unchecked Power. Exhaust all friendly units, then deal 12 to ALL units at battlefields.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

@@ -1,0 +1,69 @@
+{
+  "card_id": "ogn-251-298",
+  "name": "Loose Cannon",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "251",
+  "public_code": "OGN-251/298",
+  "card_type": "Legend",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Fury",
+    "Chaos"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "At start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand.",
+  "text_rich": "<p>At start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand.</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f57c14381b126e9f5a7b5bc4913151cb24c14fc3-744x1039.png"
+  },
+  "artist": "Sugar Free",
+  "accessibility_text": "Riftbound Legend: Loose Cannon. At start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

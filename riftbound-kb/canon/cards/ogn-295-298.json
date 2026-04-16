@@ -1,0 +1,64 @@
+{
+  "card_id": "ogn-295-298",
+  "name": "Vilemaw's Lair",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "295",
+  "public_code": "OGN-295/298",
+  "card_type": "Battlefield",
+  "subtypes": [],
+  "domains": [
+    "Colorless"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "Units can't move from here to base.",
+  "text_rich": "<p>Units can't move from here to base.</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f374b90a0bec11a5f423e7d4ebd869ab1a146471-1038x744.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Battlefield: Vilemaw's Lair. Units can't move from here to base.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "landscape",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

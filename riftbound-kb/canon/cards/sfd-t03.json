@@ -1,0 +1,66 @@
+{
+  "card_id": "sfd-t03",
+  "name": "Gold",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "3",
+  "public_code": "SFD-T03",
+  "card_type": "Gear",
+  "subtypes": [],
+  "domains": [
+    "Colorless"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "Kill this, :rb_exhaust:: [Reaction] — [Add] :rb_rune_rainbow:. (Abilities that add resources can't be reacted to.)",
+  "text_rich": "<p>Kill this, :rb_exhaust:: [Reaction] — [Add] :rb_rune_rainbow:. (Abilities that add resources can't be reacted to.)</p>",
+  "rarity": "Common",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e878c39b562a4e870e93b819c6d85cdf3fdc5238-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Gear: Gold. Kill this, [T]: [Reaction] — [Add] [A]. (Abilities that add resources can't be reacted to.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [
+    "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq"
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

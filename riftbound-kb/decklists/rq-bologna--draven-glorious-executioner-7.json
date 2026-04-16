@@ -1,0 +1,189 @@
+{
+  "decklist_id": "rq-bologna--draven-glorious-executioner-7",
+  "event_id": "rq-bologna",
+  "player": "M4rcus99",
+  "legend": "Draven, Glorious Executioner",
+  "placement": 7,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": "ogn-026-298",
+      "count": 2,
+      "name": "Brynhir Thundersong",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-027a-298",
+      "count": 3,
+      "name": "Darius, Trifarian",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-139-221",
+      "count": 1,
+      "name": "Edge of Night",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-029-298",
+      "count": 2,
+      "name": "Falling Star",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-021-221",
+      "count": 2,
+      "name": "Ferrous Forerunner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 3,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "count": 1,
+      "name": "Hard Bargain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-039-298",
+      "count": 3,
+      "name": "Kai'Sa, Survivor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-192-298",
+      "count": 1,
+      "name": "Mindsplitter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-012-298",
+      "count": 3,
+      "name": "Noxus Hopeful",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-128-221",
+      "count": 3,
+      "name": "Overzealous Fan",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 2,
+      "name": "Rebuke",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-186-221",
+      "count": 3,
+      "name": "Spinning Axe",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-145-221",
+      "count": 1,
+      "name": "Switcheroo",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-199-298",
+      "count": 3,
+      "name": "Tideturner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-130-221",
+      "count": 3,
+      "name": "Treasure Hunter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-001-221",
+      "count": 2,
+      "name": "Against the Odds",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-021-221",
+      "count": 1,
+      "name": "Ferrous Forerunner",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "count": 1,
+      "name": "Hard Bargain",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-150-221",
+      "count": 1,
+      "name": "Last Rites",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-192-298",
+      "count": 2,
+      "name": "Mindsplitter",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-145-221",
+      "count": 1,
+      "name": "Switcheroo",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-285-298",
+      "count": 1,
+      "name": "Reaver's Row",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-289-298",
+      "count": 1,
+      "name": "Targon's Peak",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 6,
+      "name": "Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 6,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=M4rcus99"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Draven, Vanquisher | deck_type=top_8"
+}

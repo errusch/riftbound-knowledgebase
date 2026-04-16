@@ -1,0 +1,289 @@
+{
+  "id": "9ed03310-1299-4b63-a2c4-c7214a82b8ac",
+  "name": "Midrange Viktor",
+  "legend": "Viktor, Leader",
+  "source": "turnemsideways.gg",
+  "maindeck": [
+    {
+      "name": "Herald of the Arcane",
+      "quantity": 1,
+      "type": "Legend",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Xin Zhao, Vigilant",
+      "quantity": 3,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 3,
+      "might": 4,
+      "power": 1
+    },
+    {
+      "name": "Viktor, Leader",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    {
+      "name": "Stupefy",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Thousand-Tailed Watcher",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 7,
+      "might": 7,
+      "power": 1
+    },
+    {
+      "name": "Cull the Weak",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Hidden Blade",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Wages of Pain",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Bellows Breath",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Card Sharp",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Honest Broker",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Singularity",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 6,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Faithful Manufactor",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Imperial Decree",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 5,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Lecturing Yordle",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Riptide Rex",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 6,
+      "power": 2
+    },
+    {
+      "name": "Time Warp",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 10,
+      "might": null,
+      "power": 4
+    },
+    {
+      "name": "Salvage",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Plundering Poro",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Glasc Mixologist",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    {
+      "name": "Void Gate",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Ravenbloom Conservatory",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Treasure Hoard",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Mind Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Order Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Vengeance",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 4,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Salvage",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Imperial Decree",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 5,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Glasc Mixologist",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    {
+      "name": "Riptide Rex",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 6,
+      "power": 2
+    },
+    {
+      "name": "Faithful Manufactor",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 2,
+      "power": null
+    }
+  ]
+}

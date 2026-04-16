@@ -1,0 +1,71 @@
+{
+  "card_id": "unl-192-219",
+  "name": "Alpha Strike",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "192",
+  "public_code": "UNL-192/219",
+  "card_type": "Spell",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Calm",
+    "Body"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 3,
+    "might_bonus": null
+  },
+  "text": "[Action] (Play on your turn or in showdowns.)\nChoose a friendly unit. It deals damage equal to its Might split among enemy units at battlefields. Then for each unit this kills, do this: Gain 1 XP.",
+  "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Choose a friendly unit. It deals damage equal to its Might split among enemy units at battlefields. Then for each unit this kills, do this: Gain 1 XP.</p>",
+  "rarity": "Epic",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/154940caa774fd8219625cf051ddcb230ffc7f02-744x1039.png"
+  },
+  "artist": "莺之歌",
+  "accessibility_text": "Riftbound Spell: Alpha Strike. [Action] (Play on your turn or in showdowns.)\nChoose a friendly unit. It deals damage equal to its Might split among enemy units at battlefields. Then for each unit this kills, do this: Gain 1 XP.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

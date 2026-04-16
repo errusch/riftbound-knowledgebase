@@ -1,0 +1,69 @@
+{
+  "card_id": "sfd-163-221",
+  "name": "Deathgrip",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "163",
+  "public_code": "SFD-163/221",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Order"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 2,
+    "might_bonus": null
+  },
+  "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nKill a friendly unit. If you do, give +:rb_might: equal to its Might to another friendly unit this turn.\nDraw 1.",
+  "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Kill a friendly unit. If you do, give +:rb_might: equal to its Might to another friendly unit this turn.<br />Draw 1.</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/695304200c6fd3b287bd319ac564d31936b23d66-744x1039.png"
+  },
+  "artist": "Polar Engine Studio",
+  "accessibility_text": "Riftbound Spell: Deathgrip. [Reaction] (Play any time, even before spells and abilities resolve.)\nKill a friendly unit. If you do, give +[M] equal to its Might to another friendly unit this turn.\nDraw 1.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [
+    "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata"
+  ],
+  "rulings_links": [
+    "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq"
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

@@ -1,0 +1,177 @@
+{
+  "decklist_id": "s2-reg-nanjing-2026--irelia-blade-dancer-8",
+  "event_id": "s2-reg-nanjing-2026",
+  "player": "VG.A1mer",
+  "legend": "Irelia, Blade Dancer",
+  "placement": 8,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Irelia, Fervent",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Defiant Dance",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Draven, Audacious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Stellacorn herder",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Sneaky Deckhand",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Tideturner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Not So Fast",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Flash",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Charm",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x En Garde",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Fight Or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Rebuke",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Ride The Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Guardian Angel",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x The Syren",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Lonely Poro",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Vex, Cheerless",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Adaptatron",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Rebuke",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Sunken Temple",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Obelisk Of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "6x Calm Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "6x Chaos Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Season 2 Regional: Nanjing",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=VG.A1mer"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Irelia, Fervent | deck_type=top_8"
+}

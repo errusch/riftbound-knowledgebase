@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "riftbound-kb/schemas/card-record.schema.json",
+  "title": "Riftbound Card Record",
+  "type": "object",
+  "required": [
+    "card_id",
+    "name",
+    "set_code",
+    "collector_number",
+    "card_type",
+    "domains",
+    "text",
+    "rarity",
+    "source"
+  ],
+  "properties": {
+    "card_id": {"type": "string"},
+    "name": {"type": "string"},
+    "set_code": {"type": "string"},
+    "set_name": {"type": "string"},
+    "collector_number": {"type": "string"},
+    "card_type": {"type": "string"},
+    "subtypes": {"type": "array", "items": {"type": "string"}},
+    "domains": {"type": "array", "items": {"type": "string"}},
+    "cost": {"type": ["integer", "string", "null"]},
+    "stats": {
+      "type": "object",
+      "properties": {
+        "attack": {"type": ["integer", "string", "null"]},
+        "health": {"type": ["integer", "string", "null"]},
+        "reserve": {"type": ["integer", "string", "null"]}
+      },
+      "additionalProperties": true
+    },
+    "text": {"type": "string"},
+    "rarity": {"type": "string"},
+    "image": {
+      "type": "object",
+      "properties": {
+        "path": {"type": ["string", "null"]},
+        "url": {"type": ["string", "null"]}
+      },
+      "additionalProperties": false
+    },
+    "legality": {
+      "type": "object",
+      "properties": {
+        "constructed": {"type": ["string", "null"]},
+        "limited": {"type": ["string", "null"]},
+        "notes": {"type": ["string", "null"]}
+      },
+      "additionalProperties": true
+    },
+    "errata_links": {"type": "array", "items": {"type": "string"}},
+    "rulings_links": {"type": "array", "items": {"type": "string"}},
+    "source": {"$ref": "./source-record.schema.json"},
+    "notes": {"type": ["string", "null"]}
+  },
+  "additionalProperties": true
+}

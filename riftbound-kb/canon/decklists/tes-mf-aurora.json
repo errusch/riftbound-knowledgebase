@@ -1,0 +1,271 @@
+{
+  "id": "79f769d3-ffd9-4b99-895e-c473461719f9",
+  "name": "MF Aurora",
+  "legend": "Miss Fortune, Captain",
+  "source": "turnemsideways.gg",
+  "maindeck": [
+    {
+      "name": "Bounty Hunter",
+      "quantity": 1,
+      "type": "Legend",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Miss Fortune, Captain",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    {
+      "name": "Mobilize",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Catalyst of Aeons",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Dazzling Aurora",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 9,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Stacked Deck",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Treasure Trove",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Mindsplitter",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 7,
+      "might": 7,
+      "power": 2
+    },
+    {
+      "name": "Last Rites",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Challenge",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Deadbloom Predator",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 8,
+      "might": 8,
+      "power": 2
+    },
+    {
+      "name": "Gust",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Pack of Wonders",
+      "quantity": 2,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Bullet Time",
+      "quantity": 2,
+      "type": "Spell",
+      "super": "Signature",
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Punch First",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Aspirant's Climb",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Sigil of the Storm",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Forgotten Monument",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Body Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Chaos Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Invert Timelines",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 3,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Spoils of War",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 4,
+      "might": null,
+      "power": 1
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Rebuke",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Ride the Wind",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Possession",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 8,
+      "might": null,
+      "power": 3
+    },
+    {
+      "name": "Factory Recall",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Bullet Time",
+      "quantity": 1,
+      "type": "Spell",
+      "super": "Signature",
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    }
+  ]
+}

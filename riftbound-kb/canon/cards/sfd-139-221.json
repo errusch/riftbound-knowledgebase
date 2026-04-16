@@ -1,0 +1,74 @@
+{
+  "card_id": "sfd-139-221",
+  "name": "Edge of Night",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "139",
+  "public_code": "SFD-139/221",
+  "card_type": "Gear",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Chaos"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 3,
+    "might_bonus": "+2"
+  },
+  "text": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nWhen you play this from face down, attach it to a unit you control (here).\n[Equip] :rb_rune_chaos: (:rb_rune_chaos:: Attach this to a unit you control.)",
+  "text_rich": "<p>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)<br />When you play this from face down, attach it to a unit you control (here).<br />[Equip] :rb_rune_chaos: (:rb_rune_chaos:: Attach this to a unit you control.)</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b3e385162bf3566618bb58b7a866eef846beefba-744x1039.png"
+  },
+  "artist": "黯荧岛Dark Glow",
+  "accessibility_text": "Riftbound Gear: Edge of Night. [Hidden] (Hide now for [A] to react with later for [0].)\nWhen you play this from face down, attach it to a unit you control (here).\n[Equip] [C] ([C]: Attach this to a unit you control.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [
+    "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata"
+  ],
+  "rulings_links": [
+    "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq"
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "mightBonus",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

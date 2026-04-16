@@ -1,0 +1,177 @@
+{
+  "decklist_id": "s2-reg-dalian-2026--kai-sa-daughter-of-the-void-1",
+  "event_id": "s2-reg-dalian-2026",
+  "player": "张大勺",
+  "legend": "Kai'Sa, Daughter of the Void",
+  "placement": 1,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Kai'Sa, Survivor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Icathian Rain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Darius, Trifarian",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Plundering Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Lecturing Yordle",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Watchful Sentry",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Ravenbloom Student",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Thousand-Tailed Watcher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Piercing Light",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Hextech Ray",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Void Seeker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Falling Star",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Stupefy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Retreat",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Singularity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Time Warp",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Ferrous Forerunner",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Brynhir Thundersong",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Blood Rush",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Thermo Beam",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Progress Day",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Ravenbloom Conservatory",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Reaver'S Row",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "7x Fury Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "5x Mind Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Season 2 Regional: Dalian",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=张大勺"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Kai'Sa, Survivor | deck_type=top_8"
+}

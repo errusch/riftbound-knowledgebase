@@ -1,0 +1,421 @@
+{
+  "id": "9d4c6b7a-15c5-49e1-9bb6-de57fefe1c87",
+  "name": "210 - Best-Of Ornn - Shenzhen National Open",
+  "legend": "Ornn, Fire Below the Mountain",
+  "legend_variant": "SFD-189",
+  "legend_id": "a118c77a-5539-4634-911d-dbeed6cf8de5",
+  "legend_colors": [
+    "Calm",
+    "Mind"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Ornn, Forge God",
+      "quantity": 1,
+      "variantNumber": "SFD-085",
+      "type": "Unit",
+      "energy": 6,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Ornn's Forge",
+      "quantity": 1,
+      "variantNumber": "SFD-213",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Aspirant's Climb",
+      "quantity": 1,
+      "variantNumber": "OGN-276",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Sigil of the Storm",
+      "quantity": 1,
+      "variantNumber": "OGN-287",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Calm Rune",
+      "quantity": 7,
+      "variantNumber": "OGN-042",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Mind Rune",
+      "quantity": 5,
+      "variantNumber": "OGN-089",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Ornn, Forge God",
+      "quantity": 1,
+      "variantNumber": "SFD-085",
+      "type": "Unit",
+      "energy": 6,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Stellacorn Herder",
+      "quantity": 3,
+      "variantNumber": "SFD-048",
+      "type": "Unit",
+      "energy": 4,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Dropboarder",
+      "quantity": 2,
+      "variantNumber": "SFD-072",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Clockwork Keeper",
+      "quantity": 3,
+      "variantNumber": "OGN-044",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Thwonk!",
+      "quantity": 1,
+      "variantNumber": "SFD-040",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Emperor's Divide",
+      "quantity": 3,
+      "variantNumber": "SFD-043",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 2,
+      "variantNumber": "SFD-045",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Defy",
+      "quantity": 2,
+      "variantNumber": "OGN-045",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Wind Wall",
+      "quantity": 1,
+      "variantNumber": "OGN-064",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Consult the Past",
+      "quantity": 3,
+      "variantNumber": "OGN-083",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Convergent Mutation",
+      "quantity": 1,
+      "variantNumber": "OGN-108",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Time Warp",
+      "quantity": 1,
+      "variantNumber": "OGN-122",
+      "type": "Spell",
+      "energy": 10,
+      "might": 0,
+      "power": 4,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Unchecked Power",
+      "quantity": 1,
+      "variantNumber": "OGN-123",
+      "type": "Spell",
+      "energy": 7,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Poro Snax",
+      "quantity": 3,
+      "variantNumber": "SFD-046",
+      "type": "Gear",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Guardian Angel",
+      "quantity": 3,
+      "variantNumber": "SFD-051",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Sterak's Gage",
+      "quantity": 2,
+      "variantNumber": "SFD-056",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Svellsongur",
+      "quantity": 2,
+      "variantNumber": "SFD-059",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Cloth Armor",
+      "quantity": 1,
+      "variantNumber": "SFD-064",
+      "type": "Gear",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Seal of Focus",
+      "quantity": 2,
+      "variantNumber": "OGN-081",
+      "type": "Gear",
+      "energy": 0,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "quantity": 1,
+      "variantNumber": "OGN-077",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Shurelya's Requiem",
+      "quantity": 1,
+      "variantNumber": "SFD-192",
+      "type": "Gear",
+      "energy": 4,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Calm",
+        "Mind"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Not So Fast",
+      "quantity": 1,
+      "variantNumber": "SFD-045",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Defy",
+      "quantity": 1,
+      "variantNumber": "OGN-045",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Find Your Center",
+      "quantity": 2,
+      "variantNumber": "OGN-047",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Wind Wall",
+      "quantity": 1,
+      "variantNumber": "OGN-064",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Lecturing Yordle",
+      "quantity": 1,
+      "variantNumber": "OGN-087",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Disarming Rake",
+      "quantity": 2,
+      "variantNumber": "SFD-032",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

@@ -1,0 +1,165 @@
+{
+  "decklist_id": "rq-bologna--volibear-relentless-storm-30",
+  "event_id": "rq-bologna",
+  "player": "doctoreloki",
+  "legend": "Volibear, Relentless Storm",
+  "placement": 30,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-148-298",
+      "count": 1,
+      "name": "Anivia, Primal",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-149-298",
+      "count": 2,
+      "name": "Carnivorous Snapvine",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-138-298",
+      "count": 3,
+      "name": "Catalyst of Aeons",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "count": 3,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-129-298",
+      "count": 3,
+      "name": "Confront",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-160-298",
+      "count": 3,
+      "name": "Dazzling Aurora",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-161-298",
+      "count": 3,
+      "name": "Deadbloom Predator",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-021-221",
+      "count": 3,
+      "name": "Ferrous Forerunner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-038-298",
+      "count": 3,
+      "name": "Kadregrin the Infernal",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-011-298",
+      "count": 1,
+      "name": "Magma Wurm",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-014-221",
+      "count": 3,
+      "name": "Minotaur Reckoner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-134-298",
+      "count": 3,
+      "name": "Mobilize",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 3,
+      "name": "Sabotage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-014-298",
+      "count": 3,
+      "name": "Sky Splitter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-250-298",
+      "count": 2,
+      "name": "Stormbringer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-109-221",
+      "count": 2,
+      "name": "Akshan, Mischievous",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-026-298",
+      "count": 3,
+      "name": "Brynhir Thundersong",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-149-298",
+      "count": 1,
+      "name": "Carnivorous Snapvine",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-022-298",
+      "count": 2,
+      "name": "Thermo Beam",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-276-298",
+      "count": 1,
+      "name": "Aspirant's Climb",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-287-298",
+      "count": 1,
+      "name": "Sigil of the Storm",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 7,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 5,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=doctoreloki"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Volibear, Furious | deck_type=best_of"
+}

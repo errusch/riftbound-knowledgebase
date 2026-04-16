@@ -1,0 +1,177 @@
+{
+  "decklist_id": "rq-bologna--irelia-blade-dancer-3",
+  "event_id": "rq-bologna",
+  "player": "krowz",
+  "legend": "Irelia, Blade Dancer",
+  "placement": 3,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": "sfd-133-221",
+      "count": 3,
+      "name": "Boots of Swiftness",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-043-298",
+      "count": 3,
+      "name": "Charm",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-196-221",
+      "count": 3,
+      "name": "Defiant Dance",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 2,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-058-298",
+      "count": 3,
+      "name": "Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-148a-221",
+      "count": 2,
+      "name": "Draven, Audacious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-046-298",
+      "count": 3,
+      "name": "En Garde",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 3,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-051-221",
+      "count": 3,
+      "name": "Guardian Angel",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-036-221",
+      "count": 2,
+      "name": "Lonely Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-045-221",
+      "count": 3,
+      "name": "Not So Fast",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-173-298",
+      "count": 2,
+      "name": "Ride the Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-176-298",
+      "count": 3,
+      "name": "Sneaky Deckhand",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-048-221",
+      "count": 3,
+      "name": "Stellacorn Herder",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 1,
+      "name": "Zhonya's Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-056-298",
+      "count": 2,
+      "name": "Adaptatron",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 1,
+      "name": "Defy",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogs-011-024",
+      "count": 1,
+      "name": "Flash",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "count": 1,
+      "name": "Hard Bargain",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 2,
+      "name": "Rebuke",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 1,
+      "name": "Zhonya's Hourglass",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-218-221",
+      "count": 1,
+      "name": "Sunken Temple",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 6,
+      "name": "Calm Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 6,
+      "name": "Chaos Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=krowz"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Irelia, Fervent | deck_type=top_8"
+}

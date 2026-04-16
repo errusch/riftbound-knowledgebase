@@ -1,0 +1,235 @@
+{
+  "id": "8e8e6602-d33d-4a16-9463-58a66dd0bbd2",
+  "name": "Aggro Yi",
+  "legend": "Yi, Honed",
+  "source": "turnemsideways.gg",
+  "maindeck": [
+    {
+      "name": "Wuju Bladesman - Starter",
+      "quantity": 1,
+      "type": "Legend",
+      "super": "Champion",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Yi, Honed",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 7,
+      "might": 6,
+      "power": 1
+    },
+    {
+      "name": "Charm",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Discipline",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Lonely Poro",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Navori Scout",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    {
+      "name": "Brutalizer",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": 1,
+      "power": null
+    },
+    {
+      "name": "Guardian Angel",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": 1,
+      "power": null
+    },
+    {
+      "name": "Punch First",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Ruin Runner",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 5,
+      "power": null
+    },
+    {
+      "name": "Trinity Force",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 4,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "En Garde",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Thwonk!",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Grove of the God-Willow",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Vilemaw's Lair",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Forge of the Fluft",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Calm Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Body Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Defy",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Adaptatron",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 4,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Unyielding Spirit",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 2,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 4,
+      "might": 4,
+      "power": null
+    }
+  ]
+}

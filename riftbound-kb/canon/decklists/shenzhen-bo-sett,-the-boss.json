@@ -1,0 +1,385 @@
+{
+  "id": "9921772e-f757-4756-b14f-210057f90d02",
+  "name": "84- Best-Of Sett - Shenzhen National Open",
+  "legend": "Sett, The Boss",
+  "legend_variant": "OGN-269",
+  "legend_id": "e9114da6-cd16-4cf1-b260-ef026ed03487",
+  "legend_colors": [
+    "Body",
+    "Order"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Sett, Brawler",
+      "quantity": 1,
+      "variantNumber": "OGN-164",
+      "type": "Unit",
+      "energy": 5,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Monastery of Hirana",
+      "quantity": 1,
+      "variantNumber": "OGN-282",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Sunken Temple",
+      "quantity": 1,
+      "variantNumber": "SFD-218",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "The Dreaming Tree",
+      "quantity": 1,
+      "variantNumber": "OGN-292",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Order Rune",
+      "quantity": 3,
+      "variantNumber": "OGN-214",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Body Rune",
+      "quantity": 9,
+      "variantNumber": "OGN-126",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Showstopper",
+      "quantity": 3,
+      "variantNumber": "OGN-270",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body",
+        "Order"
+      ]
+    },
+    {
+      "name": "Pit Rookie",
+      "quantity": 3,
+      "variantNumber": "OGN-136",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "First Mate",
+      "quantity": 3,
+      "variantNumber": "OGN-132",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Challenge",
+      "quantity": 3,
+      "variantNumber": "OGN-128",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Call to Glory",
+      "quantity": 2,
+      "variantNumber": "OGN-207",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Fiora, Victorious",
+      "quantity": 3,
+      "variantNumber": "OGN-232",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Ruin Runner",
+      "quantity": 2,
+      "variantNumber": "SFD-105",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Sea Monkey",
+      "quantity": 2,
+      "variantNumber": "SFD-098",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Punch First",
+      "quantity": 3,
+      "variantNumber": "SFD-097",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Boneshiver",
+      "quantity": 1,
+      "variantNumber": "SFD-118",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Fae Dragon",
+      "quantity": 2,
+      "variantNumber": "SFD-101",
+      "type": "Unit",
+      "energy": 7,
+      "might": 7,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Warmog's Armor",
+      "quantity": 2,
+      "variantNumber": "SFD-108",
+      "type": "Gear",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Doran's Blade",
+      "quantity": 3,
+      "variantNumber": "SFD-095",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Hidden Blade",
+      "quantity": 2,
+      "variantNumber": "OGN-213",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Deathgrip",
+      "quantity": 1,
+      "variantNumber": "SFD-163",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Lucian, Merciless",
+      "quantity": 3,
+      "variantNumber": "SFD-113",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 1,
+      "variantNumber": "OGN-156",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 2,
+      "variantNumber": "SFD-109",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Unyielding Spirit",
+      "quantity": 1,
+      "variantNumber": "OGN-145",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Salvage",
+      "quantity": 1,
+      "variantNumber": "OGN-224",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Hidden Blade",
+      "quantity": 1,
+      "variantNumber": "OGN-213",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Deathgrip",
+      "quantity": 1,
+      "variantNumber": "SFD-163",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Ruin Runner",
+      "quantity": 1,
+      "variantNumber": "SFD-105",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Cull the Weak",
+      "quantity": 1,
+      "variantNumber": "OGN-209",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

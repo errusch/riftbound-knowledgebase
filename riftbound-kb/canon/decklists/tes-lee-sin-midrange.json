@@ -1,0 +1,262 @@
+{
+  "id": "1f4c5880-0eb4-4b89-a93f-b3d29e96b7b9",
+  "name": "Lee Sin Midrange",
+  "legend": "Lee Sin, Centered",
+  "source": "turnemsideways.gg",
+  "maindeck": [
+    {
+      "name": "Lucian, Merciless",
+      "quantity": 3,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Lee Sin, Centered",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 6,
+      "might": 6,
+      "power": null
+    },
+    {
+      "name": "Charm",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Defy",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Stalwart Poro",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Discipline",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Challenge",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "First Mate",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Lonely Poro",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Punch First",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Doran's Blade",
+      "quantity": 2,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "En Garde",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Emperor's Divide",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Monastery of Hirana",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Sunken Temple",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Calm Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Body Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Blind Monk",
+      "quantity": 1,
+      "type": "Legend",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Irelia, Fervent",
+      "quantity": 3,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 5,
+      "might": 4,
+      "power": null
+    },
+    {
+      "name": "Rockfall Path",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Sabotage",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 2,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    {
+      "name": "Sett, Brawler",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 5,
+      "might": 4,
+      "power": 1
+    },
+    {
+      "name": "Thwonk!",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Janna, Savior",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    {
+      "name": "Ruin Runner",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 5,
+      "power": null
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "card_id": "ogn-250-298",
+  "name": "Stormbringer",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "250",
+  "public_code": "OGN-250/298",
+  "card_type": "Spell",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Fury",
+    "Body"
+  ],
+  "cost": 2,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 6,
+    "might_bonus": null
+  },
+  "text": "Choose a friendly unit in your base. Deal damage equal to its Might to all enemy units at a battlefield, then move your unit there.",
+  "text_rich": "<p>Choose a friendly unit in your base. Deal damage equal to its Might to all enemy units at a battlefield, then move your unit there.</p>",
+  "rarity": "Epic",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d86c4137cc7f77f103cd7d6228125df8cb9a54e1-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Spell: Stormbringer. Choose a friendly unit in your base. Deal damage equal to its Might to all enemy units at a battlefield, then move your unit there.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [
+    "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq"
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

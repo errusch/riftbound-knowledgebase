@@ -1,0 +1,262 @@
+{
+  "id": "8ba57fbf-8681-43e3-aad6-0a123f608fe3",
+  "name": "Combo Lucian",
+  "legend": "Lucian, Merciless",
+  "source": "turnemsideways.gg",
+  "maindeck": [
+    {
+      "name": "Purifier",
+      "quantity": 1,
+      "type": "Legend",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Kai'Sa, Survivor",
+      "quantity": 3,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    {
+      "name": "Lucian, Merciless",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Pouty Poro",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Challenge",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "First Mate",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Gem Jammer",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Skyfall of Areion",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Doran's Blade",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Trinity Force",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 4,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Relentless Pursuit",
+      "quantity": 3,
+      "type": "Spell",
+      "super": "Signature",
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Legion Rearguard",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Brynhir Thundersong",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 5,
+      "power": null
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    {
+      "name": "Long Sword",
+      "quantity": 2,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": 1
+    },
+    {
+      "name": "Punch First",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Angle Shot",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Zaun Warrens",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Forge of the Fluft",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Sunken Temple",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Body Rune",
+      "quantity": 7,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Fury Rune",
+      "quantity": 5,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Unyielding Spirit",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Piercing Light",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 2,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    }
+  ]
+}

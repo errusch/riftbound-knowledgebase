@@ -1,0 +1,64 @@
+{
+  "card_id": "ogn-293-298",
+  "name": "The Grand Plaza",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "293",
+  "public_code": "OGN-293/298",
+  "card_type": "Battlefield",
+  "subtypes": [],
+  "domains": [
+    "Colorless"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "When you hold here, if you have 7+ units here, you win the game.",
+  "text_rich": "<p>When you hold here, if you have 7+ units here, you win the game.</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f9ca8d04cb269ad99bca7e6dae874cad1bec336a-1038x744.png"
+  },
+  "artist": "Six More Vodka",
+  "accessibility_text": "Riftbound Battlefield: The Grand Plaza. When you hold here, if you have 7+ units here, you win the game.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "landscape",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

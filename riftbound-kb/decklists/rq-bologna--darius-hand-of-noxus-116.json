@@ -1,0 +1,177 @@
+{
+  "decklist_id": "rq-bologna--darius-hand-of-noxus-116",
+  "event_id": "rq-bologna",
+  "player": "Asefron29",
+  "legend": "Darius, Hand of Noxus",
+  "placement": 116,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "sfd-169-221",
+      "count": 2,
+      "name": "Altar of Memories",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-242-298",
+      "count": 3,
+      "name": "Baited Hook",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-026-298",
+      "count": 2,
+      "name": "Brynhir Thundersong",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-163-221",
+      "count": 1,
+      "name": "Deathgrip",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-028-298",
+      "count": 3,
+      "name": "Draven, Showboat",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-212-298",
+      "count": 2,
+      "name": "Forge of the Future",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "count": 3,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-155-221",
+      "count": 3,
+      "name": "Honest Broker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-012-298",
+      "count": 3,
+      "name": "Noxus Hopeful",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-166-221",
+      "count": 3,
+      "name": "Rally the Troops",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-029-221",
+      "count": 3,
+      "name": "Rek'Sai, Breacher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-245-298",
+      "count": 3,
+      "name": "Seal of Unity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-226-298",
+      "count": 3,
+      "name": "Spectral Matron",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-217-298",
+      "count": 2,
+      "name": "Trifarian Gloryseeker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-218-298",
+      "count": 3,
+      "name": "Vanguard Captain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-026-298",
+      "count": 1,
+      "name": "Brynhir Thundersong",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-209-298",
+      "count": 2,
+      "name": "Cull the Weak",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-244-298",
+      "count": 1,
+      "name": "Divine Judgment",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-212-298",
+      "count": 1,
+      "name": "Forge of the Future",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-221-298",
+      "count": 1,
+      "name": "Imperial Decree",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 2,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-282-298",
+      "count": 1,
+      "name": "Monastery of Hirana",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-294-298",
+      "count": 1,
+      "name": "Trifarian War Camp",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-298-298",
+      "count": 1,
+      "name": "Zaun Warrens",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 4,
+      "name": "Fury Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "count": 8,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Asefron29"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Darius, Trifarian | deck_type=best_of"
+}

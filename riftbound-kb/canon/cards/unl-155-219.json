@@ -1,0 +1,65 @@
+{
+  "card_id": "unl-155-219",
+  "name": "Heroic Charge",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "155",
+  "public_code": "UNL-155/219",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Order"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 3,
+    "might_bonus": null
+  },
+  "text": "[Action] (Play on your turn or in showdowns.)\nGive a friendly unit +1 :rb_might: this turn and [Stun] an enemy unit at its location. (A stunned unit doesn't deal combat damage this turn.)",
+  "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Give a friendly unit +1 :rb_might: this turn and [Stun] an enemy unit at its location. (A stunned unit doesn't deal combat damage this turn.)</p>",
+  "rarity": "Common",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/944b89db8a7f7961a28e66ec4fb7d30bb863f324-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Spell: Heroic Charge. [Action] (Play on your turn or in showdowns.)\nGive a friendly unit +1 [S] this turn and [Stun] an enemy unit at its location. (A stunned unit doesn't deal combat damage this turn.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

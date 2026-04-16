@@ -1,0 +1,69 @@
+{
+  "card_id": "sfd-246-221",
+  "name": "Blade Dancer",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "246",
+  "public_code": "SFD-246/221",
+  "card_type": "Legend",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Calm",
+    "Chaos"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "When you choose a friendly unit, you may exhaust me and pay :rb_rune_rainbow: to ready it.\nWhen you conquer, you may pay :rb_energy_1: to ready me.",
+  "text_rich": "<p>When you choose a friendly unit, you may exhaust me and pay :rb_rune_rainbow: to ready it.<br />When you conquer, you may pay :rb_energy_1: to ready me.</p>",
+  "rarity": "Showcase",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8258072391bbb8d24e9d6e603c3ba1434979a911-744x1039.png"
+  },
+  "artist": "Grafit Studio",
+  "accessibility_text": "Riftbound Legend: Blade Dancer. When you choose a friendly unit, you may exhaust me and pay [A] to ready it.\nWhen you conquer, you may pay [1] to ready me.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

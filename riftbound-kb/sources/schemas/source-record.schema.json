@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "riftbound-kb/schemas/source-record.schema.json",
+  "title": "Riftbound Source Record",
+  "type": "object",
+  "required": ["source_type", "source_name", "trust_tier"],
+  "properties": {
+    "source_type": {
+      "type": "string",
+      "enum": ["official", "trusted_secondary", "market", "best_available", "unverified"]
+    },
+    "source_name": {"type": "string"},
+    "source_url": {"type": ["string", "null"]},
+    "source_date": {"type": ["string", "null"]},
+    "retrieved_at": {"type": ["string", "null"]},
+    "trust_tier": {
+      "type": "string",
+      "enum": ["official", "trusted_secondary", "market", "best_available", "unverified"]
+    },
+    "notes": {"type": ["string", "null"]}
+  },
+  "additionalProperties": true
+}

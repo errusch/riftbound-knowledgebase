@@ -1,0 +1,177 @@
+{
+  "decklist_id": "rq-houston--master-yi-wuju-bladesman-2",
+  "event_id": "rq-houston",
+  "player": "Blargh1111",
+  "legend": "Master Yi, Wuju Bladesman",
+  "placement": 2,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": "ogn-138-298",
+      "count": 3,
+      "name": "Catalyst of Aeons",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "count": 1,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-043-298",
+      "count": 3,
+      "name": "Charm",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-160-298",
+      "count": 3,
+      "name": "Dazzling Aurora",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-161-298",
+      "count": 3,
+      "name": "Deadbloom Predator",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 3,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-058-298",
+      "count": 2,
+      "name": "Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-047-298",
+      "count": 3,
+      "name": "Find Your Center",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-134-298",
+      "count": 3,
+      "name": "Mobilize",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-142-298",
+      "count": 2,
+      "name": "Mountain Drake",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-050-298",
+      "count": 2,
+      "name": "Rune Prison",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 1,
+      "name": "Sabotage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-075-298",
+      "count": 3,
+      "name": "Tasty Faefolk",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-158a-298",
+      "count": 1,
+      "name": "Volibear, Imposing",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-082-298",
+      "count": 2,
+      "name": "Whiteflame Protector",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-064-298",
+      "count": 1,
+      "name": "Wind Wall",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 3,
+      "name": "Zhonya's Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-044-298",
+      "count": 3,
+      "name": "Clockwork Keeper",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 1,
+      "name": "Sabotage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-052-298",
+      "count": 3,
+      "name": "Stalwart Poro",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-064-298",
+      "count": 1,
+      "name": "Wind Wall",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-276-298",
+      "count": 1,
+      "name": "Aspirant's Climb",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-295-298",
+      "count": 1,
+      "name": "Vilemaw's Lair",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 6,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 6,
+      "name": "Calm Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Blargh1111"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Master Yi, Honed | deck_type=top_8"
+}

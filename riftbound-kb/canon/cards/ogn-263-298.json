@@ -1,0 +1,69 @@
+{
+  "card_id": "ogn-263-298",
+  "name": "Swift Scout",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "263",
+  "public_code": "OGN-263/298",
+  "card_type": "Legend",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Mind",
+    "Chaos"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "You may pay :rb_energy_1: to hide a card with [Hidden] instead of :rb_rune_rainbow:.\n:rb_energy_1:, :rb_exhaust:: Put a Teemo unit you own into your hand from your Champion Zone or the board.",
+  "text_rich": "<p>You may pay :rb_energy_1: to hide a card with [Hidden] instead of :rb_rune_rainbow:.<br />:rb_energy_1:, :rb_exhaust:: Put a Teemo unit you own into your hand from your Champion Zone or the board.</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9723181e3392bb61c2aabc804a44f7b0558cedf1-744x1039.png"
+  },
+  "artist": "Shawn Lee",
+  "accessibility_text": "Riftbound Legend: Swift Scout. You may pay [1] to hide a card with [Hidden] instead of [C].\n[1], [T]: Put a Teemo unit you own into your hand from your Champion Zone or the board.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

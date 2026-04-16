@@ -1,0 +1,171 @@
+{
+  "decklist_id": "rq-bologna--leona-radiant-dawn-320",
+  "event_id": "rq-bologna",
+  "player": "Daakkotah97",
+  "legend": "Leona, Radiant Dawn",
+  "placement": 320,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "sfd-161-221",
+      "count": 2,
+      "name": "B.F. Sword",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-067-298",
+      "count": 1,
+      "name": "Blitzcrank, Impassive",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-207-298",
+      "count": 3,
+      "name": "Call to Glory",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 2,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-058-298",
+      "count": 3,
+      "name": "Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-043-221",
+      "count": 3,
+      "name": "Emperor's Divide",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-051-221",
+      "count": 3,
+      "name": "Guardian Angel",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-238-298",
+      "count": 2,
+      "name": "Leona, Determined",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-079a-298",
+      "count": 2,
+      "name": "Leona, Zealot",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-036-221",
+      "count": 3,
+      "name": "Lonely Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-045-221",
+      "count": 2,
+      "name": "Not So Fast",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-073-298",
+      "count": 3,
+      "name": "Sona, Harmonious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-048-221",
+      "count": 3,
+      "name": "Stellacorn Herder",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-040-221",
+      "count": 2,
+      "name": "Thwonk!",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-262-298",
+      "count": 3,
+      "name": "Zenith Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 2,
+      "name": "Zhonya's Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-043-298",
+      "count": 2,
+      "name": "Charm",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-155-221",
+      "count": 2,
+      "name": "Honest Broker",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-045-221",
+      "count": 1,
+      "name": "Not So Fast",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 3,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-280-298",
+      "count": 1,
+      "name": "Grove of the God-Willow",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 6,
+      "name": "Calm Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "count": 6,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Daakkotah97"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Leona, Determined | deck_type=best_of"
+}

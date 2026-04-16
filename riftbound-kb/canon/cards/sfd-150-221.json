@@ -1,0 +1,71 @@
+{
+  "card_id": "sfd-150-221",
+  "name": "Last Rites",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "150",
+  "public_code": "SFD-150/221",
+  "card_type": "Gear",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Chaos"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 3,
+    "might_bonus": "+2"
+  },
+  "text": "[Equip] — :rb_rune_chaos:, Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)",
+  "text_rich": "<p>[Equip] — :rb_rune_chaos:, Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)</p>",
+  "rarity": "Epic",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6cfab85030bff454262794e4fa12f11b5dc45a74-744x1039.png"
+  },
+  "artist": "黯荧岛Dark Glow",
+  "accessibility_text": "Riftbound Gear: Last Rites. [Equip] — [C], Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "effect",
+      "energy",
+      "id",
+      "illustrator",
+      "mightBonus",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

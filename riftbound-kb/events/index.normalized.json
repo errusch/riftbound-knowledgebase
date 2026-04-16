@@ -1,0 +1,192 @@
+{
+  "count": 17,
+  "items": [
+    {
+      "event_id": "rq-atlanta",
+      "event_name": "Regional Qualifier: Atlanta",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-04-24",
+      "coverage_kind": "roadmap_placeholder",
+      "source_count": 1,
+      "placements_count": 0,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/rq-atlanta.json"
+    },
+    {
+      "event_id": "rq-barcelona",
+      "event_name": "Regional Qualifier: Barcelona",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-08-21",
+      "coverage_kind": "roadmap_placeholder",
+      "source_count": 1,
+      "placements_count": 0,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/rq-barcelona.json"
+    },
+    {
+      "event_id": "rq-bologna",
+      "event_name": "Regional Qualifier: Bologna",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-02-16",
+      "coverage_kind": "multi_source",
+      "source_count": 3,
+      "placements_count": 31,
+      "best_of_legends_count": 23,
+      "path": "events/canonical/rq-bologna.json"
+    },
+    {
+      "event_id": "rq-hartford",
+      "event_name": "Regional Qualifier: Hartford",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-06-19",
+      "coverage_kind": "roadmap_placeholder",
+      "source_count": 1,
+      "placements_count": 0,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/rq-hartford.json"
+    },
+    {
+      "event_id": "rq-houston",
+      "event_name": "Regional Qualifier: Houston",
+      "event_type": "regional_qualifier",
+      "start_date": "2025-12-13",
+      "coverage_kind": "results",
+      "source_count": 1,
+      "placements_count": 21,
+      "best_of_legends_count": 13,
+      "path": "events/canonical/rq-houston.json"
+    },
+    {
+      "event_id": "rq-lille",
+      "event_name": "Regional Qualifier: Lille",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-04-17",
+      "coverage_kind": "roadmap_placeholder",
+      "source_count": 1,
+      "placements_count": 0,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/rq-lille.json"
+    },
+    {
+      "event_id": "rq-los-angeles",
+      "event_name": "Regional Qualifier: Los Angeles",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-09-25",
+      "coverage_kind": "roadmap_placeholder",
+      "source_count": 1,
+      "placements_count": 0,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/rq-los-angeles.json"
+    },
+    {
+      "event_id": "rq-singapore",
+      "event_name": "Regional Qualifier: Singapore",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-09-04",
+      "coverage_kind": "roadmap_placeholder",
+      "source_count": 1,
+      "placements_count": 0,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/rq-singapore.json"
+    },
+    {
+      "event_id": "rq-sydney",
+      "event_name": "Regional Qualifier: Sydney",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-05-15",
+      "coverage_kind": "roadmap_placeholder",
+      "source_count": 1,
+      "placements_count": 0,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/rq-sydney.json"
+    },
+    {
+      "event_id": "rq-utrecht",
+      "event_name": "Regional Qualifier: Utrecht",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-06-12",
+      "coverage_kind": "roadmap_placeholder",
+      "source_count": 1,
+      "placements_count": 0,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/rq-utrecht.json"
+    },
+    {
+      "event_id": "rq-vancouver",
+      "event_name": "Regional Qualifier: Vancouver",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-05-29",
+      "coverage_kind": "roadmap_placeholder",
+      "source_count": 1,
+      "placements_count": 0,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/rq-vancouver.json"
+    },
+    {
+      "event_id": "rq-vegas",
+      "event_name": "Regional Qualifier: Vegas",
+      "event_type": "regional_qualifier",
+      "start_date": "2026-02-23",
+      "coverage_kind": "multi_source",
+      "source_count": 19,
+      "placements_count": 28,
+      "best_of_legends_count": 21,
+      "path": "events/canonical/rq-vegas.json"
+    },
+    {
+      "event_id": "s2-reg-chengdu-2026",
+      "event_name": "Season 2 Regional: Chengdu",
+      "event_type": "other_official_event",
+      "start_date": "2026-02-08",
+      "coverage_kind": "results",
+      "source_count": 1,
+      "placements_count": 8,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/s2-reg-chengdu-2026.json"
+    },
+    {
+      "event_id": "s2-reg-dalian-2026",
+      "event_name": "Season 2 Regional: Dalian",
+      "event_type": "other_official_event",
+      "start_date": null,
+      "coverage_kind": "results",
+      "source_count": 1,
+      "placements_count": 8,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/s2-reg-dalian-2026.json"
+    },
+    {
+      "event_id": "s2-reg-fuzhou-2026",
+      "event_name": "Season 2 Regional: Fuzhou",
+      "event_type": "other_official_event",
+      "start_date": "2026-01-01",
+      "coverage_kind": "results",
+      "source_count": 1,
+      "placements_count": 8,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/s2-reg-fuzhou-2026.json"
+    },
+    {
+      "event_id": "s2-reg-nanjing-2026",
+      "event_name": "Season 2 Regional: Nanjing",
+      "event_type": "other_official_event",
+      "start_date": null,
+      "coverage_kind": "results",
+      "source_count": 1,
+      "placements_count": 8,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/s2-reg-nanjing-2026.json"
+    },
+    {
+      "event_id": "shenzhen-national-open-2026-03-22",
+      "event_name": "Shenzhen National Open",
+      "event_type": "national_open",
+      "start_date": "2026-03-22",
+      "coverage_kind": "results",
+      "source_count": 1,
+      "placements_count": 0,
+      "best_of_legends_count": 0,
+      "path": "events/canonical/shenzhen-national-open-2026-03-22.json"
+    }
+  ]
+}

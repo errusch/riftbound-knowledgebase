@@ -1,0 +1,71 @@
+{
+  "card_id": "sfd-056-221",
+  "name": "Sterak's Gage",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "56",
+  "public_code": "SFD-056/221",
+  "card_type": "Gear",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Calm"
+  ],
+  "cost": 2,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 3,
+    "might_bonus": "+3"
+  },
+  "text": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)",
+  "text_rich": "<p>[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)<br />[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/df16e6b668fc6771ff657512deba1bf48363e23a-744x1039.png"
+  },
+  "artist": "黯荧岛Dark Glow",
+  "accessibility_text": "Riftbound Gear: Sterak's Gage. [Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] [C] ([C]: Attach this to a unit you control.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "mightBonus",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

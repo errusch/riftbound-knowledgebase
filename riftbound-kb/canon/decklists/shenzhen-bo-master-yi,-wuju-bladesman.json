@@ -1,0 +1,348 @@
+{
+  "id": "a6d31d91-dea4-4a60-ad08-a4f3e37fd953",
+  "name": "21st - Best-Of Master Yi - Shenzhen National Open",
+  "legend": "Master Yi, Wuju Bladesman",
+  "legend_variant": "OGS-019",
+  "legend_id": "6073c0e3-8aac-4d0d-842a-a16882910696",
+  "legend_colors": [
+    "Body",
+    "Calm"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Master Yi, Honed",
+      "quantity": 1,
+      "variantNumber": "OGS-009",
+      "type": "Unit",
+      "energy": 7,
+      "might": 6,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Power Nexus",
+      "quantity": 1,
+      "variantNumber": "SFD-214",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Vilemaw's Lair",
+      "quantity": 1,
+      "variantNumber": "OGN-295",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Forge of the Fluft",
+      "quantity": 1,
+      "variantNumber": "SFD-208",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Body Rune",
+      "quantity": 7,
+      "variantNumber": "OGN-126",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Calm Rune",
+      "quantity": 5,
+      "variantNumber": "OGN-042",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Lonely Poro",
+      "quantity": 3,
+      "variantNumber": "SFD-036",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Navori Scout",
+      "quantity": 2,
+      "variantNumber": "SFD-037",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Stellacorn Herder",
+      "quantity": 1,
+      "variantNumber": "SFD-048",
+      "type": "Unit",
+      "energy": 4,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Sea Monkey",
+      "quantity": 2,
+      "variantNumber": "SFD-098",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Ruin Runner",
+      "quantity": 3,
+      "variantNumber": "SFD-105",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Clockwork Keeper",
+      "quantity": 3,
+      "variantNumber": "OGN-044",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "First Mate",
+      "quantity": 3,
+      "variantNumber": "OGN-132",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Thwonk!",
+      "quantity": 1,
+      "variantNumber": "SFD-040",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Punch First",
+      "quantity": 3,
+      "variantNumber": "SFD-097",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Charm",
+      "quantity": 2,
+      "variantNumber": "OGN-043",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Defy",
+      "quantity": 3,
+      "variantNumber": "OGN-045",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "En Garde",
+      "quantity": 2,
+      "variantNumber": "OGN-046",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Discipline",
+      "quantity": 3,
+      "variantNumber": "OGN-058",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Confront",
+      "quantity": 2,
+      "variantNumber": "OGN-129",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "quantity": 3,
+      "variantNumber": "OGN-077",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Trinity Force",
+      "quantity": 3,
+      "variantNumber": "SFD-115",
+      "type": "Gear",
+      "energy": 4,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 2,
+      "variantNumber": "SFD-109",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 2,
+      "variantNumber": "SFD-045",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Find Your Center",
+      "quantity": 2,
+      "variantNumber": "OGN-047",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Charm",
+      "quantity": 1,
+      "variantNumber": "OGN-043",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Thwonk!",
+      "quantity": 1,
+      "variantNumber": "SFD-040",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

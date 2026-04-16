@@ -1,0 +1,325 @@
+{
+  "id": "afd1ccfd-aaa1-4f15-a9fb-7959d95d1452",
+  "name": "139 - Best-Of Volibear - Shenzhen National Open",
+  "legend": "Volibear, Relentless Storm",
+  "legend_variant": "OGN-249",
+  "legend_id": "e842c4a3-dbee-40ef-a538-6f8bac332c4c",
+  "legend_colors": [
+    "Body",
+    "Fury"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Volibear, Furious",
+      "quantity": 1,
+      "variantNumber": "OGN-041",
+      "type": "Unit",
+      "energy": 10,
+      "might": 9,
+      "power": 2,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Aspirant's Climb",
+      "quantity": 1,
+      "variantNumber": "OGN-276",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Obelisk of Power",
+      "quantity": 1,
+      "variantNumber": "OGN-284",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Sigil of the Storm",
+      "quantity": 1,
+      "variantNumber": "OGN-287",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Fury Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-007",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Body Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-126",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Sky Splitter",
+      "quantity": 3,
+      "variantNumber": "OGN-014",
+      "type": "Spell",
+      "energy": 8,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "quantity": 3,
+      "variantNumber": "SFD-021",
+      "type": "Unit",
+      "energy": 6,
+      "might": 6,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Magma Wurm",
+      "quantity": 1,
+      "variantNumber": "OGN-011",
+      "type": "Unit",
+      "energy": 8,
+      "might": 8,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Kadregrin the Infernal",
+      "quantity": 3,
+      "variantNumber": "OGN-038",
+      "type": "Unit",
+      "energy": 9,
+      "might": 9,
+      "power": 2,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Deadbloom Predator",
+      "quantity": 3,
+      "variantNumber": "OGN-161",
+      "type": "Unit",
+      "energy": 8,
+      "might": 8,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Carnivorous Snapvine",
+      "quantity": 2,
+      "variantNumber": "OGN-149",
+      "type": "Unit",
+      "energy": 5,
+      "might": 6,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Dazzling Aurora",
+      "quantity": 3,
+      "variantNumber": "OGN-160",
+      "type": "Gear",
+      "energy": 9,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Stormbringer",
+      "quantity": 2,
+      "variantNumber": "OGN-250",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body",
+        "Fury"
+      ]
+    },
+    {
+      "name": "Catalyst of Aeons",
+      "quantity": 3,
+      "variantNumber": "OGN-138",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Mobilize",
+      "quantity": 3,
+      "variantNumber": "OGN-134",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 3,
+      "variantNumber": "OGN-156",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Confront",
+      "quantity": 3,
+      "variantNumber": "OGN-129",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Challenge",
+      "quantity": 3,
+      "variantNumber": "OGN-128",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Minotaur Reckoner",
+      "quantity": 3,
+      "variantNumber": "SFD-014",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Anivia, Primal",
+      "quantity": 1,
+      "variantNumber": "OGN-148",
+      "type": "Unit",
+      "energy": 7,
+      "might": 8,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 2,
+      "variantNumber": "SFD-109",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Brynhir Thundersong",
+      "quantity": 2,
+      "variantNumber": "OGN-026",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Thermo Beam",
+      "quantity": 2,
+      "variantNumber": "OGN-022",
+      "type": "Spell",
+      "energy": 5,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Get Excited!",
+      "quantity": 2,
+      "variantNumber": "OGN-008",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

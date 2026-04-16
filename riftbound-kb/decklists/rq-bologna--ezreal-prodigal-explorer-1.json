@@ -1,0 +1,207 @@
+{
+  "decklist_id": "rq-bologna--ezreal-prodigal-explorer-1",
+  "event_id": "rq-bologna",
+  "player": "Alanzq1",
+  "legend": "Ezreal, Prodigal Explorer",
+  "placement": 1,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": "sfd-200-221",
+      "count": 2,
+      "name": "Arcane Shift",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-080-221",
+      "count": 2,
+      "name": "Bellows Breath",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-122-221",
+      "count": 3,
+      "name": "Called Shot",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-140-221",
+      "count": 2,
+      "name": "Fizz, Trickster",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-066-221",
+      "count": 1,
+      "name": "Frigid Touch",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "count": 1,
+      "name": "Hard Bargain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-192-298",
+      "count": 1,
+      "name": "Mindsplitter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-170-298",
+      "count": 1,
+      "name": "Morbid Return",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-103-298",
+      "count": 3,
+      "name": "Ravenbloom Student",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 2,
+      "name": "Rebuke",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-104-298",
+      "count": 1,
+      "name": "Retreat",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-195-298",
+      "count": 2,
+      "name": "Rhasa the Sunderer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-234-221",
+      "count": 3,
+      "name": "Seal of Discord",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-105-298",
+      "count": 1,
+      "name": "Singularity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-093-298",
+      "count": 1,
+      "name": "Smoke Screen",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-095-298",
+      "count": 3,
+      "name": "Stupefy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-116-298",
+      "count": 1,
+      "name": "Thousand-Tailed Watcher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-146-221",
+      "count": 3,
+      "name": "Vex, Cheerless",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-070-221",
+      "count": 3,
+      "name": "Wages of Pain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-147-221",
+      "count": 1,
+      "name": "Downwell",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-109-298",
+      "count": 1,
+      "name": "Dr. Mundo, Expert",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-135-221",
+      "count": 1,
+      "name": "Factory Recall",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-074-221",
+      "count": 3,
+      "name": "Pickpocket",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 1,
+      "name": "Rebuke",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-077-221",
+      "count": 1,
+      "name": "Rocket Barrage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-287-298",
+      "count": 1,
+      "name": "Sigil of the Storm",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-296-298",
+      "count": 1,
+      "name": "Void Gate",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 7,
+      "name": "Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "count": 5,
+      "name": "Mind Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Alanzq1"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Ezreal, Prodigy | deck_type=top_8"
+}

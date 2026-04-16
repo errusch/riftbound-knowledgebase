@@ -1,0 +1,177 @@
+{
+  "decklist_id": "s2-reg-dalian-2026--draven-glorious-executioner-2",
+  "event_id": "s2-reg-dalian-2026",
+  "player": "TCC_羊眼球",
+  "legend": "Draven, Glorious Executioner",
+  "placement": 2,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Draven, Vanquisher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Darius, Trifarian",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Kai'Sa, Survivor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Spinning Axe",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Ferrous Forerunner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Treasure Hunter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Overzealous Fan",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Blood Rush",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Hard Bargain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Fight Or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Ride The Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Rebuke",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Last Rites",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Tideturner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Brynhir Thundersong",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Long Sword",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Thermo Beam",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Flash",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Piercing Light",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Void Seeker",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Falling Star",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Treasure Hoard",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Targon'S Peak",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Reaver'S Row",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "6x Fury Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "6x Chaos Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Season 2 Regional: Dalian",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=TCC_羊眼球"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Draven, Vanquisher | deck_type=top_8"
+}

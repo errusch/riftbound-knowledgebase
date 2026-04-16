@@ -1,0 +1,262 @@
+{
+  "id": "4f1691da-0695-4fa9-acac-ff0f1b7f9a0a",
+  "name": "Leona Midrange",
+  "legend": "Leona, Determined",
+  "source": "turnemsideways.gg",
+  "maindeck": [
+    {
+      "name": "Radiant Dawn",
+      "quantity": 1,
+      "type": "Legend",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Fiora, Victorious",
+      "quantity": 2,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    {
+      "name": "Janna, Savior",
+      "quantity": 2,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    {
+      "name": "Leona, Determined",
+      "quantity": 2,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 4,
+      "might": 4,
+      "power": 1
+    },
+    {
+      "name": "Discipline",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Noxian Drummer",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Lonely Poro",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Stellacorn Herder",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 4,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Guardian Angel",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": 1,
+      "power": null
+    },
+    {
+      "name": "Defy",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "quantity": 2,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Call to Glory",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Facebreaker",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Zenith Blade",
+      "quantity": 2,
+      "type": "Spell",
+      "super": "Signature",
+      "energy": 3,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Thwonk!",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Emperor's Divide",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "B.F. Sword",
+      "quantity": 2,
+      "type": "Gear",
+      "super": null,
+      "energy": 4,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Trifarian War Camp",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Sunken Temple",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Calm Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Order Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Monastery of Hirana",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Solari Shieldbearer",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Imperial Decree",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 5,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Salvage",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Wind Wall",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 3,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Leona, Zealot",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    }
+  ]
+}

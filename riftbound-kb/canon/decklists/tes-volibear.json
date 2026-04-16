@@ -1,0 +1,271 @@
+{
+  "id": "97a3bee2-7801-46d6-aa12-03c272bcf4ad",
+  "name": "Volibear",
+  "legend": "Volibear, Furious",
+  "source": "turnemsideways.gg",
+  "maindeck": [
+    {
+      "name": "Relentless Storm",
+      "quantity": 1,
+      "type": "Legend",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Volibear, Furious",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 10,
+      "might": 9,
+      "power": 2
+    },
+    {
+      "name": "Carnivorous Snapvine",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 5,
+      "might": 6,
+      "power": 2
+    },
+    {
+      "name": "Deadbloom Predator",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 8,
+      "might": 8,
+      "power": 2
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    {
+      "name": "Kadregrin the Infernal",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 9,
+      "might": 9,
+      "power": 2
+    },
+    {
+      "name": "Magma Wurm",
+      "quantity": 1,
+      "type": "Unit",
+      "super": null,
+      "energy": 8,
+      "might": 8,
+      "power": 1
+    },
+    {
+      "name": "Minotaur Reckoner",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 5,
+      "might": 5,
+      "power": null
+    },
+    {
+      "name": "Vi, Destructive",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 2,
+      "might": 3,
+      "power": 1
+    },
+    {
+      "name": "Yone, Blademaster",
+      "quantity": 3,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 5,
+      "might": 5,
+      "power": 1
+    },
+    {
+      "name": "Catalyst of Aeons",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Challenge",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Confront",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Mobilize",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Punch First",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Sky Splitter",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 8,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Stormbringer",
+      "quantity": 3,
+      "type": "Spell",
+      "super": "Signature",
+      "energy": 6,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Dazzling Aurora",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 9,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Trinity Force",
+      "quantity": 1,
+      "type": "Gear",
+      "super": null,
+      "energy": 4,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Aspirant's Climb",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Obelisk of Power",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Vilemaw's Lair",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Body Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Fury Rune",
+      "quantity": 6,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 2,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    {
+      "name": "Brynhir Thundersong",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 5,
+      "power": null
+    },
+    {
+      "name": "Carnivorous Snapvine",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 5,
+      "might": 6,
+      "power": 2
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Vi, Destructive",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 2,
+      "might": 3,
+      "power": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "card_id": "sfd-229-221",
+  "name": "Seal of Insight",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "229",
+  "public_code": "SFD-229/221",
+  "card_type": "Gear",
+  "subtypes": [],
+  "domains": [
+    "Mind"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 0,
+    "might_bonus": null
+  },
+  "text": ":rb_exhaust:: [Reaction] — [Add] :rb_rune_mind:. (Abilities that add resources can't be reacted to.)",
+  "text_rich": "<p>:rb_exhaust:: [Reaction] — [Add] :rb_rune_mind:. (Abilities that add resources can't be reacted to.)</p>",
+  "rarity": "Showcase",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/eb4559c507f09cabc3735973a1b20d83688d2f9d-744x1039.png"
+  },
+  "artist": "Envar Studio",
+  "accessibility_text": "Riftbound Gear: Seal of Insight. [T]: [Reaction] — [Add] [C]. (Abilities that add resources can't be reacted to.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

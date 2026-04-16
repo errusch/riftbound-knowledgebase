@@ -1,0 +1,253 @@
+{
+  "id": "512db062-8442-4319-bb4d-f758347bdc16",
+  "name": "Swarm Reksai",
+  "legend": "Rek'Sai, Breacher",
+  "source": "turnemsideways.gg",
+  "maindeck": [
+    {
+      "name": "Void Burrower",
+      "quantity": 1,
+      "type": "Legend",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Rek'Sai, Breacher",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Xin Zhao, Vigilant",
+      "quantity": 1,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 3,
+      "might": 4,
+      "power": 1
+    },
+    {
+      "name": "Noxus Hopeful",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 4,
+      "might": 4,
+      "power": null
+    },
+    {
+      "name": "Daring Poro",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Trifarian Gloryseeker",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Vanguard Captain",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 3,
+      "power": 1
+    },
+    {
+      "name": "Void Drone",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Battering Ram",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 5,
+      "might": 5,
+      "power": null
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    {
+      "name": "Undertitan",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 6,
+      "might": 5,
+      "power": 1
+    },
+    {
+      "name": "Void Rush",
+      "quantity": 3,
+      "type": "Spell",
+      "super": "Signature",
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Cull the Weak",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Hidden Blade",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Seal of Unity",
+      "quantity": 2,
+      "type": "Gear",
+      "super": null,
+      "energy": 0,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Trusty Ramhound",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 2,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Rally the Troops",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Call to Glory",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 3,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "The Arena's Greatest",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "The Candlelit Sanctum",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Trifarian War Camp",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Order Rune",
+      "quantity": 7,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Fury Rune",
+      "quantity": 5,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Falling Star",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Faithful Manufactor",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Salvage",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Cull the Weak",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    }
+  ]
+}

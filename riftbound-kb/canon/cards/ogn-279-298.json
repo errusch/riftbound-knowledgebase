@@ -1,0 +1,64 @@
+{
+  "card_id": "ogn-279-298",
+  "name": "Fortified Position",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "279",
+  "public_code": "OGN-279/298",
+  "card_type": "Battlefield",
+  "subtypes": [],
+  "domains": [
+    "Colorless"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "When you defend here, choose a unit. It gains [Shield 2] this combat. (+2 :rb_might: while it's a defender.)",
+  "text_rich": "<p>When you defend here, choose a unit. It gains [Shield 2] this combat. (+2 :rb_might: while it's a defender.)</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/45363bbd907f4f3717868cb04b3cfed814b3bb32-1038x744.png"
+  },
+  "artist": "Six More Vodka",
+  "accessibility_text": "Riftbound Battlefield: Fortified Position. When you defend here, choose a unit. It gains [Shield 2] this combat. (+2 [S] while it's a defender.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "landscape",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

@@ -1,0 +1,17 @@
+{
+  "repair": {
+    "fixed_event_ids": 0,
+    "fixed_card_ids": 0,
+    "fixed_event_trust_tier": 0,
+    "fixed_event_decklist_refs": 0
+  },
+  "validation": {
+    "decklist_count": 176,
+    "broken_deck_to_event_refs": 0,
+    "broken_deck_to_card_refs": 0,
+    "broken_event_to_deck_refs": 0,
+    "sample_broken_deck_to_event_refs": [],
+    "sample_broken_deck_to_card_refs": [],
+    "sample_broken_event_to_deck_refs": []
+  }
+}

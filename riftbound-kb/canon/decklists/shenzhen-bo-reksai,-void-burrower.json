@@ -1,0 +1,313 @@
+{
+  "id": "8ef60a0c-d654-440d-9ced-6848ade4ecab",
+  "name": "170 - Best-Of Rek'Sai - Shenzhen National Open",
+  "legend": "Rek'Sai, Void Burrower",
+  "legend_variant": "SFD-187",
+  "legend_id": "adced6a6-009b-4e20-9422-02b44c4e4fe6",
+  "legend_colors": [
+    "Fury",
+    "Order"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Rek'Sai, Breacher",
+      "quantity": 1,
+      "variantNumber": "SFD-029",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Power Nexus",
+      "quantity": 1,
+      "variantNumber": "SFD-214",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "The Arena's Greatest",
+      "quantity": 1,
+      "variantNumber": "OGN-290",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Trifarian War Camp",
+      "quantity": 1,
+      "variantNumber": "OGN-294",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Order Rune",
+      "quantity": 12,
+      "variantNumber": "OGN-214",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Xin Zhao, Vigilant",
+      "quantity": 1,
+      "variantNumber": "SFD-176",
+      "type": "Unit",
+      "energy": 3,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Battering Ram",
+      "quantity": 3,
+      "variantNumber": "SFD-012",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Void Drone",
+      "quantity": 3,
+      "variantNumber": "SFD-010",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Void Hatchling",
+      "quantity": 2,
+      "variantNumber": "SFD-018",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Undertitan",
+      "quantity": 3,
+      "variantNumber": "SFD-175",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Noxus Hopeful",
+      "quantity": 3,
+      "variantNumber": "OGN-012",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Daring Poro",
+      "quantity": 3,
+      "variantNumber": "UNL-225",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Trifarian Gloryseeker",
+      "quantity": 3,
+      "variantNumber": "OGN-217",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Faithful Manufactor",
+      "quantity": 3,
+      "variantNumber": "OGN-211",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Vanguard Captain",
+      "quantity": 3,
+      "variantNumber": "OGN-218",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Rally the Troops",
+      "quantity": 2,
+      "variantNumber": "SFD-166",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Call to Glory",
+      "quantity": 1,
+      "variantNumber": "OGN-207",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Hidden Blade",
+      "quantity": 3,
+      "variantNumber": "OGN-213",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Seal of Unity",
+      "quantity": 3,
+      "variantNumber": "OGN-245",
+      "type": "Gear",
+      "energy": 0,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Void Rush",
+      "quantity": 3,
+      "variantNumber": "SFD-188",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury",
+        "Order"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Against the Odds",
+      "quantity": 2,
+      "variantNumber": "SFD-001",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Cull the Weak",
+      "quantity": 2,
+      "variantNumber": "OGN-209",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Grand Strategem",
+      "quantity": 2,
+      "variantNumber": "OGN-233",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 3,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Salvage",
+      "quantity": 2,
+      "variantNumber": "OGN-224",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

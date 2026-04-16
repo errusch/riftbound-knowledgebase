@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "riftbound-kb/schemas/decklist-record.schema.json",
+  "title": "Riftbound Decklist Record",
+  "type": "object",
+  "required": ["decklist_id", "legend", "cards", "source"],
+  "properties": {
+    "decklist_id": {"type": "string"},
+    "event_id": {"type": ["string", "null"]},
+    "player": {"type": ["string", "null"]},
+    "legend": {"type": "string"},
+    "placement": {"type": ["integer", "string", "null"]},
+    "is_best_of_legend": {"type": "boolean"},
+    "cards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["card_id", "count"],
+        "properties": {
+          "card_id": {"type": "string"},
+          "count": {"type": ["integer", "string"]},
+          "name": {"type": ["string", "null"]}
+        },
+        "additionalProperties": true
+      }
+    },
+    "source": {"$ref": "./source-record.schema.json"},
+    "secondary_sources": {"type": "array", "items": {"$ref": "./source-record.schema.json"}},
+    "notes": {"type": ["string", "null"]}
+  },
+  "additionalProperties": true
+}

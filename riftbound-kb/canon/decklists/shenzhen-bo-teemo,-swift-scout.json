@@ -1,0 +1,469 @@
+{
+  "id": "26887de2-4457-4597-8307-f34422465c44",
+  "name": "262 - Best-Of Teemo - Shenzhen National Open",
+  "legend": "Teemo, Swift Scout",
+  "legend_variant": "OGN-263",
+  "legend_id": "7dedf11c-a998-48db-a609-e0683116231b",
+  "legend_colors": [
+    "Mind",
+    "Chaos"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Teemo, Scout",
+      "quantity": 1,
+      "variantNumber": "OGN-197",
+      "type": "Unit",
+      "energy": 2,
+      "might": 1,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Bandle Tree",
+      "quantity": 1,
+      "variantNumber": "OGN-278",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Ravenbloom Conservatory",
+      "quantity": 1,
+      "variantNumber": "SFD-215",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "The Candlelit Sanctum",
+      "quantity": 1,
+      "variantNumber": "OGN-291",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Mind Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-089",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Chaos Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-166",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Nocturne, Horrifying",
+      "quantity": 3,
+      "variantNumber": "OGN-194",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Retreat",
+      "quantity": 2,
+      "variantNumber": "OGN-104",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Called Shot",
+      "quantity": 2,
+      "variantNumber": "SFD-122",
+      "type": "Spell",
+      "energy": 0,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Hard Bargain",
+      "quantity": 1,
+      "variantNumber": "SFD-136",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Switcheroo",
+      "quantity": 2,
+      "variantNumber": "SFD-145",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Consult the Past",
+      "quantity": 2,
+      "variantNumber": "OGN-083",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Smoke Screen",
+      "quantity": 2,
+      "variantNumber": "OGN-093",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Fight or Flight",
+      "quantity": 2,
+      "variantNumber": "OGN-168",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Rebuke",
+      "quantity": 1,
+      "variantNumber": "OGN-172",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Ride the Wind",
+      "quantity": 1,
+      "variantNumber": "OGN-173",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Stacked Deck",
+      "quantity": 3,
+      "variantNumber": "OGN-183",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Black Market Broker",
+      "quantity": 1,
+      "variantNumber": "SFD-121",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Treasure Hunter",
+      "quantity": 3,
+      "variantNumber": "SFD-130",
+      "type": "Unit",
+      "energy": 2,
+      "might": 1,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Thousand-Tailed Watcher",
+      "quantity": 2,
+      "variantNumber": "OGN-116",
+      "type": "Unit",
+      "energy": 7,
+      "might": 7,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Vex, Cheerless",
+      "quantity": 2,
+      "variantNumber": "SFD-146",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Guerilla Warfare",
+      "quantity": 1,
+      "variantNumber": "OGN-264",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind",
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Bellows Breath",
+      "quantity": 1,
+      "variantNumber": "SFD-080",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Teemo, Strategist",
+      "quantity": 2,
+      "variantNumber": "OGN-121",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Flash",
+      "quantity": 1,
+      "variantNumber": "OGS-011",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Singularity",
+      "quantity": 1,
+      "variantNumber": "OGN-105",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Overzealous Fan",
+      "quantity": 2,
+      "variantNumber": "SFD-128",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Sprite Mother",
+      "quantity": 1,
+      "variantNumber": "OGN-106",
+      "type": "Unit",
+      "energy": 4,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Wages of Pain",
+      "quantity": 1,
+      "variantNumber": "SFD-070",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Bellows Breath",
+      "quantity": 1,
+      "variantNumber": "SFD-080",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Invert Timelines",
+      "quantity": 1,
+      "variantNumber": "OGN-201",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Rebuke",
+      "quantity": 1,
+      "variantNumber": "OGN-172",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Ride the Wind",
+      "quantity": 1,
+      "variantNumber": "OGN-173",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Sprite Mother",
+      "quantity": 1,
+      "variantNumber": "OGN-106",
+      "type": "Unit",
+      "energy": 4,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Overzealous Fan",
+      "quantity": 1,
+      "variantNumber": "SFD-128",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Hard Bargain",
+      "quantity": 1,
+      "variantNumber": "SFD-136",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Fight or Flight",
+      "quantity": 1,
+      "variantNumber": "OGN-168",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

@@ -1,0 +1,171 @@
+{
+  "decklist_id": "rq-houston--jinx-loose-cannon-130",
+  "event_id": "rq-houston",
+  "player": "Eric",
+  "legend": "Jinx, Loose Cannon",
+  "placement": 130,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-003-298",
+      "count": 3,
+      "name": "Chemtech Enforcer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-004-298",
+      "count": 3,
+      "name": "Cleave",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-027a-298",
+      "count": 3,
+      "name": "Darius, Trifarian",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 2,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-006-298",
+      "count": 3,
+      "name": "Flame Chompers",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-202a-298",
+      "count": 2,
+      "name": "Jinx, Rebel",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-039-298",
+      "count": 2,
+      "name": "Kai'Sa, Survivor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-010-298",
+      "count": 3,
+      "name": "Legion Rearguard",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-012-298",
+      "count": 3,
+      "name": "Noxus Hopeful",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-173-298",
+      "count": 2,
+      "name": "Ride the Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-182-298",
+      "count": 3,
+      "name": "Scrapheap",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-252-298",
+      "count": 2,
+      "name": "Super Mega Death Rocket!",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-185-298",
+      "count": 3,
+      "name": "Traveling Merchant",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-023-298",
+      "count": 3,
+      "name": "Unlicensed Armory",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-036-298",
+      "count": 2,
+      "name": "Vi, Destructive",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 1,
+      "name": "Fight or Flight",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 2,
+      "name": "Rebuke",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-176-298",
+      "count": 3,
+      "name": "Sneaky Deckhand",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-252-298",
+      "count": 1,
+      "name": "Super Mega Death Rocket!",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-036-298",
+      "count": 1,
+      "name": "Vi, Destructive",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-290-298",
+      "count": 1,
+      "name": "The Arena's Greatest",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-297-298",
+      "count": 1,
+      "name": "Windswept Hillock",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-298-298",
+      "count": 1,
+      "name": "Zaun Warrens",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 5,
+      "name": "Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 7,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Eric"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Jinx, Rebel | deck_type=best_of"
+}

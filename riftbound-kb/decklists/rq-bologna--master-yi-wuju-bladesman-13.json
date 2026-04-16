@@ -1,0 +1,189 @@
+{
+  "decklist_id": "rq-bologna--master-yi-wuju-bladesman-13",
+  "event_id": "rq-bologna",
+  "player": "wojtek",
+  "legend": "Master Yi, Wuju Bladesman",
+  "placement": 13,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-043-298",
+      "count": 3,
+      "name": "Charm",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 2,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-031-221",
+      "count": 3,
+      "name": "Desert's Call",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-058-298",
+      "count": 3,
+      "name": "Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-046-298",
+      "count": 2,
+      "name": "En Garde",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-047-298",
+      "count": 2,
+      "name": "Find Your Center",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-132-298",
+      "count": 2,
+      "name": "First Mate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-051-221",
+      "count": 1,
+      "name": "Guardian Angel",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-036-221",
+      "count": 3,
+      "name": "Lonely Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-037-221",
+      "count": 2,
+      "name": "Navori Scout",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-045-221",
+      "count": 2,
+      "name": "Not So Fast",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-097-221",
+      "count": 2,
+      "name": "Punch First",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-105-221",
+      "count": 3,
+      "name": "Ruin Runner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-048-221",
+      "count": 2,
+      "name": "Stellacorn Herder",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-075-298",
+      "count": 1,
+      "name": "Tasty Faefolk",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-040-221",
+      "count": 1,
+      "name": "Thwonk!",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-115-221",
+      "count": 2,
+      "name": "Trinity Force",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-082-298",
+      "count": 1,
+      "name": "Whiteflame Protector",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 2,
+      "name": "Zhonya's Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-109-221",
+      "count": 3,
+      "name": "Akshan, Mischievous",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-161-298",
+      "count": 2,
+      "name": "Deadbloom Predator",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 1,
+      "name": "Defy",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-145-298",
+      "count": 2,
+      "name": "Unyielding Spirit",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-208-221",
+      "count": 1,
+      "name": "Forge of the Fluft",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-215-221",
+      "count": 1,
+      "name": "Ravenbloom Conservatory",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-295-298",
+      "count": 1,
+      "name": "Vilemaw's Lair",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 6,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 6,
+      "name": "Calm Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=wojtek"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Master Yi, Honed | deck_type=best_of"
+}

@@ -1,0 +1,171 @@
+{
+  "decklist_id": "rq-bologna--annie-dark-child-27",
+  "event_id": "rq-bologna",
+  "player": "COPE Anarqhy",
+  "legend": "Annie, Dark Child",
+  "placement": 27,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-004-298",
+      "count": 3,
+      "name": "Cleave",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-027a-298",
+      "count": 3,
+      "name": "Darius, Trifarian",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 3,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-140-221",
+      "count": 2,
+      "name": "Fizz, Trickster",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogs-011-024",
+      "count": 2,
+      "name": "Flash",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-039-298",
+      "count": 3,
+      "name": "Kai'Sa, Survivor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-022-221",
+      "count": 1,
+      "name": "Long Sword",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-013-298",
+      "count": 3,
+      "name": "Pouty Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 2,
+      "name": "Rebuke",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-025-221",
+      "count": 1,
+      "name": "Rengar, Pouncing",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-173-298",
+      "count": 2,
+      "name": "Ride the Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-182-298",
+      "count": 3,
+      "name": "Scrapheap",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-176-298",
+      "count": 3,
+      "name": "Sneaky Deckhand",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-199-298",
+      "count": 2,
+      "name": "Tideturner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-185-298",
+      "count": 3,
+      "name": "Traveling Merchant",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-026-298",
+      "count": 2,
+      "name": "Brynhir Thundersong",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "count": 2,
+      "name": "Hard Bargain",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 1,
+      "name": "Rebuke",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-036-298",
+      "count": 3,
+      "name": "Vi, Destructive",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-290-298",
+      "count": 1,
+      "name": "The Arena's Greatest",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-298-298",
+      "count": 1,
+      "name": "Zaun Warrens",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 7,
+      "name": "Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 5,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=COPE Anarqhy"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Annie, Stubborn | deck_type=best_of"
+}

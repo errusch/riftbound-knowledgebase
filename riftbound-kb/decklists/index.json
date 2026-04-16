@@ -1,0 +1,775 @@
+{
+  "count": 74,
+  "legends": {
+    "Annie": 3,
+    "Ahri": 3,
+    "Azir": 2,
+    "Darius": 3,
+    "Ezreal": 2,
+    "Fiora": 2,
+    "Irelia": 2,
+    "Jax": 2,
+    "Lee Sin": 3,
+    "Leona": 3,
+    "Lucian": 2,
+    "Lux": 3,
+    "Master Yi": 4,
+    "Miss Fortune": 3,
+    "Draven": 2,
+    "Garen": 3,
+    "Jinx": 3,
+    "Kai'Sa": 4,
+    "Rumble": 2,
+    "Sett": 3,
+    "Teemo": 3,
+    "Viktor": 3,
+    "Volibear": 3,
+    "Ornn": 2,
+    "Rek'Sai": 2,
+    "Sivir": 2,
+    "Yasuo": 3,
+    "Renata Glasc": 2
+  },
+  "items": [
+    {
+      "decklist_id": "annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1",
+      "event_id": "houston-regional-qualifier",
+      "player": "Dhawally",
+      "legend": "Annie",
+      "placement": "Winner",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1.json"
+    },
+    {
+      "decklist_id": "best-ahri-from-bologna-ngb9v",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Blunder",
+      "legend": "Ahri",
+      "placement": 64,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-ahri-from-bologna-ngb9v.json"
+    },
+    {
+      "decklist_id": "best-ahri-from-vegas",
+      "event_id": "vegas-regional-qualifier",
+      "player": "KnightinGale",
+      "legend": "Ahri",
+      "placement": 77,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-ahri-from-vegas.json"
+    },
+    {
+      "decklist_id": "best-azir-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Rocklho",
+      "legend": "Azir",
+      "placement": 64,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-azir-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-azir-from-vegas",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Rocklho",
+      "legend": "Azir",
+      "placement": 16,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-azir-from-vegas.json"
+    },
+    {
+      "decklist_id": "best-darius-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Asefron29",
+      "legend": "Darius",
+      "placement": 116,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-darius-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-ezreal-from-bologna-l4o06",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Alanzq1",
+      "legend": "Ezreal",
+      "placement": "Winner",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-ezreal-from-bologna-l4o06.json"
+    },
+    {
+      "decklist_id": "best-ezreal-from-vegas-t8",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Alanzq1",
+      "legend": "Ezreal",
+      "placement": 8,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-ezreal-from-vegas-t8.json"
+    },
+    {
+      "decklist_id": "best-fiora-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Vendorty",
+      "legend": "Fiora",
+      "placement": 64,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-fiora-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-irelia-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "krowz",
+      "legend": "Irelia",
+      "placement": 4,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-irelia-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-irelia-from-vegas",
+      "event_id": "vegas-regional-qualifier",
+      "player": "DeluxePhilCheese",
+      "legend": "Irelia",
+      "placement": 8,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-irelia-from-vegas.json"
+    },
+    {
+      "decklist_id": "best-jax-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Bubo",
+      "legend": "Jax",
+      "placement": 64,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-jax-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-jax-from-vegas-top-8",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Theverybestgamer",
+      "legend": "Jax",
+      "placement": 8,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-jax-from-vegas-top-8.json"
+    },
+    {
+      "decklist_id": "best-lee-sin-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Boxingringxd",
+      "legend": "Lee Sin",
+      "placement": 162,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-lee-sin-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-leona-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Daakkotah97",
+      "legend": "Leona",
+      "placement": 320,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-leona-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-lucian-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "drinkmaker888",
+      "legend": "Lucian",
+      "placement": 32,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-lucian-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-lux-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Ochman",
+      "legend": "Lux",
+      "placement": 104,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-lux-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-master-yi-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "wojtek",
+      "legend": "Master Yi",
+      "placement": 16,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-master-yi-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-mf-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "SEBIQQQQQQQQQQQQ",
+      "legend": "Miss Fortune",
+      "placement": "Runner-Up",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-mf-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-of-ahri-by-kale-houston-regional-qualifier",
+      "event_id": "houston-regional-qualifier",
+      "player": "Kale",
+      "legend": "Ahri",
+      "placement": 98,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-ahri-by-kale-houston-regional-qualifier.json"
+    },
+    {
+      "decklist_id": "best-of-annie-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "COPE Anªrchy",
+      "legend": "Annie",
+      "placement": 32,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-annie-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-of-darius-by-puyshpii-houston-regional-qualifier",
+      "event_id": "houston-regional-qualifier",
+      "player": "Puyshpii",
+      "legend": "Darius",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-darius-by-puyshpii-houston-regional-qualifier.json"
+    },
+    {
+      "decklist_id": "best-of-draven-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Prismaticismism",
+      "legend": "Draven",
+      "placement": 8,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-draven-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-of-garen-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "RiftboundTee",
+      "legend": "Garen",
+      "placement": 403,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-garen-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-of-garen-vegas",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Duality",
+      "legend": "Garen",
+      "placement": 362,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-garen-vegas.json"
+    },
+    {
+      "decklist_id": "best-of-jinx-from-bologna-split",
+      "event_id": "bologna-regional-qualifier",
+      "player": "digggi",
+      "legend": "Jinx",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-jinx-from-bologna-split.json"
+    },
+    {
+      "decklist_id": "best-of-kaisa-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "fisica",
+      "legend": "Kai'Sa",
+      "placement": 16,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-kaisa-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-of-master-yi-vegas",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Villionaire",
+      "legend": "Master Yi",
+      "placement": 32,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-master-yi-vegas.json"
+    },
+    {
+      "decklist_id": "best-of-miss-fortune-by-trinityjohn-houston-regional-qualifier",
+      "event_id": "houston-regional-qualifier",
+      "player": "TrinityJohn",
+      "legend": "Miss Fortune",
+      "placement": 16,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-miss-fortune-by-trinityjohn-houston-regional-qualifier.json"
+    },
+    {
+      "decklist_id": "best-of-rumble-vegas",
+      "event_id": "vegas-regional-qualifier",
+      "player": "prosteel",
+      "legend": "Rumble",
+      "placement": 268,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-rumble-vegas.json"
+    },
+    {
+      "decklist_id": "best-of-sett-by-boiwaffle-houston-regional-qualifier",
+      "event_id": "houston-regional-qualifier",
+      "player": "BoiWaffle",
+      "legend": "Sett",
+      "placement": 102,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-sett-by-boiwaffle-houston-regional-qualifier.json"
+    },
+    {
+      "decklist_id": "best-of-teemo-by-gorica-houston-regional-qualifiers",
+      "event_id": "houston-regional-qualifier",
+      "player": "Gorica",
+      "legend": "Teemo",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-teemo-by-gorica-houston-regional-qualifiers.json"
+    },
+    {
+      "decklist_id": "best-of-viktor-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Ghosterdriver",
+      "legend": "Viktor",
+      "placement": 4,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-viktor-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-of-viktor-from-vegas",
+      "event_id": "vegas-regional-qualifier",
+      "player": "CustomDipped",
+      "legend": "Viktor",
+      "placement": 32,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-viktor-from-vegas.json"
+    },
+    {
+      "decklist_id": "best-of-volibear-vegas",
+      "event_id": "vegas-regional-qualifier",
+      "player": "E3TCG",
+      "legend": "Volibear",
+      "placement": 87,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/best-of-volibear-vegas.json"
+    },
+    {
+      "decklist_id": "best-ornn-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Ghostfunk",
+      "legend": "Ornn",
+      "placement": 490,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-ornn-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-reksai-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Bulat",
+      "legend": "Rek'Sai",
+      "placement": 98,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-reksai-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-rumble-from-bologna-ehdrt",
+      "event_id": "bologna-regional-qualifier",
+      "player": "NachoTCG",
+      "legend": "Rumble",
+      "placement": 93,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-rumble-from-bologna-ehdrt.json"
+    },
+    {
+      "decklist_id": "best-sett-from-vegas",
+      "event_id": "vegas-regional-qualifier",
+      "player": "VictorLupin",
+      "legend": "Sett",
+      "placement": 117,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-sett-from-vegas.json"
+    },
+    {
+      "decklist_id": "best-sivir-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "xTacio",
+      "legend": "Sivir",
+      "placement": 16,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-sivir-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-teemo-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Specimen",
+      "legend": "Teemo",
+      "placement": 71,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-teemo-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-volibear-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "doctoreloki",
+      "legend": "Volibear",
+      "placement": 32,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-volibear-from-bologna.json"
+    },
+    {
+      "decklist_id": "best-yasuo-from-bologna",
+      "event_id": "bologna-regional-qualifier",
+      "player": "Luigi Amato TCG",
+      "legend": "Yasuo",
+      "placement": 92,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/best-yasuo-from-bologna.json"
+    },
+    {
+      "decklist_id": "bologna-regional-qualifier-renata-glasc-official-best-of",
+      "event_id": "bologna-regional-qualifier",
+      "player": "JustSR",
+      "legend": "Renata Glasc",
+      "placement": 183,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/bologna-regional-qualifier-renata-glasc-official-best-of.json"
+    },
+    {
+      "decklist_id": "bologna-regional-qualifier-sett-official-best-of",
+      "event_id": "bologna-regional-qualifier",
+      "player": "NLV Tomino",
+      "legend": "Sett",
+      "placement": 96,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/bologna-regional-qualifier-sett-official-best-of.json"
+    },
+    {
+      "decklist_id": "garen-might-of-demacia-by-tee-thebeau-best-of-garen-houston-regional-qualifiers",
+      "event_id": "houston-regional-qualifier",
+      "player": "RiftboundTee",
+      "legend": "Garen",
+      "placement": 156,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/garen-might-of-demacia-by-tee-thebeau-best-of-garen-houston-regional-qualifiers.json"
+    },
+    {
+      "decklist_id": "jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers",
+      "event_id": "houston-regional-qualifier",
+      "player": "Eric",
+      "legend": "Jinx",
+      "placement": 130,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/jinx-loose-cannon-deck-by-eric-liu-best-of-jinx-houston-regional-qualifiers.json"
+    },
+    {
+      "decklist_id": "kaisa-daughter-of-the-void-by-mateusz-jasinski-best-of-kaisa-houston-regional-qualifier-sxrqd",
+      "event_id": "houston-regional-qualifier",
+      "player": "Alanzq1",
+      "legend": "Kai'Sa",
+      "placement": 8,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/kaisa-daughter-of-the-void-by-mateusz-jasinski-best-of-kaisa-houston-regional-qualifier-sxrqd.json"
+    },
+    {
+      "decklist_id": "kaisa-winning-deck-shanghai-regional-tournament",
+      "event_id": "shanghai-national-open",
+      "player": null,
+      "legend": "Kai'Sa",
+      "placement": "Winner",
+      "is_best_of_legend": false,
+      "source_tier": "trusted_secondary",
+      "path": "decklists/kaisa-winning-deck-shanghai-regional-tournament.json"
+    },
+    {
+      "decklist_id": "lee-sin-blind-monk-deck-by-jeff-jones-best-of-lee-sin-houston-regional-qualifier",
+      "event_id": "houston-regional-qualifier",
+      "player": "LMJeffJones",
+      "legend": "Lee Sin",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/lee-sin-blind-monk-deck-by-jeff-jones-best-of-lee-sin-houston-regional-qualifier.json"
+    },
+    {
+      "decklist_id": "leona-radiant-dawn-deck-by-frodan-best-of-leona-houston-regional-qualifiers",
+      "event_id": "houston-regional-qualifier",
+      "player": "Frodan",
+      "legend": "Leona",
+      "placement": 234,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/leona-radiant-dawn-deck-by-frodan-best-of-leona-houston-regional-qualifiers.json"
+    },
+    {
+      "decklist_id": "lux-by-ryan-best-of-lux-houston-regional-qualifiers",
+      "event_id": "houston-regional-qualifier",
+      "player": "ryanempire",
+      "legend": "Lux",
+      "placement": 167,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/lux-by-ryan-best-of-lux-houston-regional-qualifiers.json"
+    },
+    {
+      "decklist_id": "master-yi-rank-2-deck-national-open-shanghai",
+      "event_id": "shanghai-national-open",
+      "player": null,
+      "legend": "Master Yi",
+      "placement": "Runner-Up",
+      "is_best_of_legend": false,
+      "source_tier": "trusted_secondary",
+      "path": "decklists/master-yi-rank-2-deck-national-open-shanghai.json"
+    },
+    {
+      "decklist_id": "master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2",
+      "event_id": "houston-regional-qualifier",
+      "player": "Blargh1111",
+      "legend": "Master Yi",
+      "placement": 4,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/master-yi-wuju-bladesman-by-challenger-tcg-houston-regional-qualifiers-rank-2.json"
+    },
+    {
+      "decklist_id": "midrange-draven-wins-vegas",
+      "event_id": "vegas-regional-qualifier",
+      "player": "SAMDSHERMAN",
+      "legend": "Draven",
+      "placement": "Winner",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/midrange-draven-wins-vegas.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-annie-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Kenkou",
+      "legend": "Annie",
+      "placement": 69,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-annie-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-darius-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "carryboy denni",
+      "legend": "Darius",
+      "placement": 112,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-darius-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-fiora-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "his depression",
+      "legend": "Fiora",
+      "placement": 70,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-fiora-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-jinx-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Eric",
+      "legend": "Jinx",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-jinx-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-kaisa-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "aggresia",
+      "legend": "Kai'Sa",
+      "placement": 16,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-kaisa-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-lee-sin-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Silverman",
+      "legend": "Lee Sin",
+      "placement": 324,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-lee-sin-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-leona-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Lafinte",
+      "legend": "Leona",
+      "placement": 263,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-leona-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-lucian-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "DaemonXGG",
+      "legend": "Lucian",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-lucian-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-lux-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Vekx3r",
+      "legend": "Lux",
+      "placement": 67,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-lux-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-miss-fortune-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "sly",
+      "legend": "Miss Fortune",
+      "placement": 134,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-miss-fortune-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-ornn-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "lunasky",
+      "legend": "Ornn",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-ornn-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-reksai-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Vouz",
+      "legend": "Rek'Sai",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-reksai-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-renata-glasc-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "Ryujin Shin",
+      "legend": "Renata Glasc",
+      "placement": 218,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-renata-glasc-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-sivir-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "NoVeggies",
+      "legend": "Sivir",
+      "placement": 16,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-sivir-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-teemo-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "FLY T1 LS",
+      "legend": "Teemo",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-teemo-official-best-of.json"
+    },
+    {
+      "decklist_id": "vegas-regional-qualifier-yasuo-official-best-of",
+      "event_id": "vegas-regional-qualifier",
+      "player": "GentleGiant",
+      "legend": "Yasuo",
+      "placement": 178,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/vegas-regional-qualifier-yasuo-official-best-of.json"
+    },
+    {
+      "decklist_id": "viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier",
+      "event_id": "houston-regional-qualifier",
+      "player": "Gambit01",
+      "legend": "Viktor",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/viktor-herald-of-the-arcane-deck-by-cody-best-of-viktor-houston-regional-qualifier.json"
+    },
+    {
+      "decklist_id": "volibear-relentless-storm-deck-by-malakx-houston-regional-qualifier",
+      "event_id": "houston-regional-qualifier",
+      "player": "Malakx",
+      "legend": "Volibear",
+      "placement": 64,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "path": "decklists/volibear-relentless-storm-deck-by-malakx-houston-regional-qualifier.json"
+    },
+    {
+      "decklist_id": "yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier",
+      "event_id": "houston-regional-qualifier",
+      "player": "Ghael Winds",
+      "legend": "Yasuo",
+      "placement": 64,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "path": "decklists/yasuo-unforgiven-deck-by-ghael-winds-best-of-yasuo-houston-regional-qualifier.json"
+    }
+  ]
+}

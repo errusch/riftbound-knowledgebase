@@ -1,0 +1,171 @@
+{
+  "decklist_id": "s2-reg-chengdu-2026--garen-might-of-demacia-8",
+  "event_id": "s2-reg-chengdu-2026",
+  "player": "不凡.摩尔",
+  "legend": "Garen, Might of Demacia",
+  "placement": 8,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Garen, Commander",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Eye of the Herald",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Trusty Ramhound",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Corina Veraza",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Lucian, Merciless",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Noxian Drummer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x First Mate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Akshan, Mischievous",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Honest Broker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Punch First",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Vanguard Captain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Confront",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Imperial Decree",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Seal of Unity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Cannon Barrage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Divine Judgment",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Vengeance",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Flurry Of Blades",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Unyielding Spirit",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Forge of the Fluft",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Windswept Hillock",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Obelisk Of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "5x Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "7x Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Season 2 Regional: Chengdu",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=不凡.摩尔"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Garen, Commander | deck_type=top_8"
+}

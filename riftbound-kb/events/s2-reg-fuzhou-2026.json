@@ -1,0 +1,73 @@
+{
+  "event_id": "s2-reg-fuzhou-2026",
+  "event_type": "other_official_event",
+  "event_name": "Season 2 Regional: Fuzhou",
+  "region": null,
+  "city": "Fuzhou",
+  "country": "China",
+  "start_date": "2026-01-01",
+  "end_date": "2026-01-01",
+  "coverage_kind": "results",
+  "placements": [
+    {
+      "place": 1,
+      "player": "Aipotu",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2_reg_fuzhou_2026--draven,-glorious-executioner-1"
+    },
+    {
+      "place": 2,
+      "player": "EDG.BTM.少侠SNnnnn（派派总监版）",
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "s2_reg_fuzhou_2026--fiora,-grand-duelist-2"
+    },
+    {
+      "place": 3,
+      "player": "天堂制造",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2_reg_fuzhou_2026--draven,-glorious-executioner-3"
+    },
+    {
+      "place": 4,
+      "player": "赤月星宿",
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "s2_reg_fuzhou_2026--irelia,-blade-dancer-4"
+    },
+    {
+      "place": 5,
+      "player": "Ai.EDG.张伯伦",
+      "legend": "Annie, Dark Child",
+      "decklist_id": "s2_reg_fuzhou_2026--annie,-dark-child-5"
+    },
+    {
+      "place": 6,
+      "player": "海盗帕奇斯",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2_reg_fuzhou_2026--draven,-glorious-executioner-6"
+    },
+    {
+      "place": 7,
+      "player": "布启",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2_reg_fuzhou_2026--draven,-glorious-executioner-7"
+    },
+    {
+      "place": 8,
+      "player": "Trails",
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "s2_reg_fuzhou_2026--irelia,-blade-dancer-8"
+    }
+  ],
+  "best_of_legends": [],
+  "source": {
+    "source_type": "best_available",
+    "source_name": "legacy_local_knowledge_db",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "best_available",
+    "notes": "upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | upstream_status=reviewed"
+  },
+  "secondary_sources": [],
+  "notes": "player_count=None | format=Spiritforged+Origins | decklist_count=8"
+}

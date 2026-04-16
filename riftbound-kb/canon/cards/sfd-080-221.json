@@ -1,0 +1,66 @@
+{
+  "card_id": "sfd-080-221",
+  "name": "Bellows Breath",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "80",
+  "public_code": "SFD-080/221",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Mind"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 1,
+    "might_bonus": null
+  },
+  "text": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_energy_1::rb_rune_mind: (You may pay the additional cost to repeat this spell's effect.)\nDeal 1 to up to three units at the same location.",
+  "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />[Repeat] :rb_energy_1::rb_rune_mind: (You may pay the additional cost to repeat this spell's effect.)<br />Deal 1 to up to three units at the same location.</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f0ae1c4bb788f6fadc251c9d9b36f3f92eef4c56-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Spell: Bellows Breath. [Action] (Play on your turn or in showdowns.)\n[Repeat] [1][C] (You may pay the additional cost to repeat this spell's effect.)\nDeal 1 to up to three units at the same location.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

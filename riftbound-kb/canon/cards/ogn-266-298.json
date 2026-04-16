@@ -1,0 +1,71 @@
+{
+  "card_id": "ogn-266-298",
+  "name": "Siphon Power",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "266",
+  "public_code": "OGN-266/298",
+  "card_type": "Spell",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Mind",
+    "Order"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 2,
+    "might_bonus": null
+  },
+  "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nChoose a battlefield. Give friendly units there +1 :rb_might: this turn and enemy units there -1 :rb_might: this turn, to a minimum of 1 :rb_might:.",
+  "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Choose a battlefield. Give friendly units there +1 :rb_might: this turn and enemy units there -1 :rb_might: this turn, to a minimum of 1 :rb_might:.</p>",
+  "rarity": "Epic",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b449170ba312711c82708d1fea2b044822ce5eaa-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Spell: Siphon Power. [Reaction] (Play any time, even before spells and abilities resolve.)\nChoose a battlefield. Give friendly units there +1 [S] this turn and enemy units there -1 [S] this turn, to a minimum of 1 [S].",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

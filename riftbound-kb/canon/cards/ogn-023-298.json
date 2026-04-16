@@ -1,0 +1,65 @@
+{
+  "card_id": "ogn-023-298",
+  "name": "Unlicensed Armory",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "23",
+  "public_code": "OGN-023/298",
+  "card_type": "Gear",
+  "subtypes": [],
+  "domains": [
+    "Fury"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 2,
+    "might_bonus": null
+  },
+  "text": "Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it would die this turn, you may pay :rb_rune_fury: to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)",
+  "text_rich": "<p>Discard 1, :rb_exhaust:: Choose a friendly unit. The next time it would die this turn, you may pay :rb_rune_fury: to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/1a80bedd893d9024fc90f108da36b4fd1d496ad6-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Gear: Unlicensed Armory. Discard 1, [E]: Choose a friendly unit. The next time it would die this turn, you may pay [C] to heal it, exhaust it, and recall it instead. (Send it to base. This isn't a move.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

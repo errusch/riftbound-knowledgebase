@@ -1,0 +1,64 @@
+{
+  "card_id": "sfd-217-221",
+  "name": "Seat of Power",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "217",
+  "public_code": "SFD-217/221",
+  "card_type": "Battlefield",
+  "subtypes": [],
+  "domains": [
+    "Colorless"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "When you conquer here, draw 1 for each other battlefield you or allies control.",
+  "text_rich": "<p>When you conquer here, draw 1 for each other battlefield you or allies control.</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/8b9db30f8eedd5e5463a0fceaeaf90069bce39ae-1039x744.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Battlefield: Seat of Power. When you conquer here, draw 1 for each other battlefield you or allies control.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "landscape",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

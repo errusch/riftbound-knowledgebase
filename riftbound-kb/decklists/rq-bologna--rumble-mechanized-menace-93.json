@@ -1,0 +1,183 @@
+{
+  "decklist_id": "rq-bologna--rumble-mechanized-menace-93",
+  "event_id": "rq-bologna",
+  "player": "NachoTCG",
+  "legend": "Rumble, Mechanized Menace",
+  "placement": 93,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "sfd-071-221",
+      "count": 1,
+      "name": "Breakneck Mech",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-026-298",
+      "count": 2,
+      "name": "Brynhir Thundersong",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-062-221",
+      "count": 3,
+      "name": "Bubble Bot",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-182-221",
+      "count": 2,
+      "name": "Danger Zone",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-029-298",
+      "count": 2,
+      "name": "Falling Star",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-021-221",
+      "count": 3,
+      "name": "Ferrous Forerunner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-065-221",
+      "count": 3,
+      "name": "Forecaster",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-007-221",
+      "count": 3,
+      "name": "Gem Jammer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-023-221",
+      "count": 2,
+      "name": "Piercing Light",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-069-221",
+      "count": 2,
+      "name": "Plundering Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-076-221",
+      "count": 2,
+      "name": "Production Surge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-104-298",
+      "count": 2,
+      "name": "Retreat",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-026a-221",
+      "count": 2,
+      "name": "Rumble, Hotheaded",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-089-221",
+      "count": 3,
+      "name": "Rumble, Scrapper",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-105-298",
+      "count": 2,
+      "name": "Singularity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-095-298",
+      "count": 2,
+      "name": "Stupefy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-116-298",
+      "count": 2,
+      "name": "Thousand-Tailed Watcher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-122-298",
+      "count": 1,
+      "name": "Time Warp",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-011-221",
+      "count": 2,
+      "name": "Angle Shot",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-014-221",
+      "count": 2,
+      "name": "Minotaur Reckoner",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-074-221",
+      "count": 2,
+      "name": "Pickpocket",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-022-298",
+      "count": 2,
+      "name": "Thermo Beam",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-294-298",
+      "count": 1,
+      "name": "Trifarian War Camp",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-295-298",
+      "count": 1,
+      "name": "Vilemaw's Lair",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 7,
+      "name": "Fury Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "count": 5,
+      "name": "Mind Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=NachoTCG"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Rumble, Hotheaded | deck_type=best_of"
+}

@@ -1,0 +1,349 @@
+{
+  "id": "acd24c04-9138-4f63-8775-b5fa5b494028",
+  "name": "91- Best-Of Darius - Shenzhen National Open",
+  "legend": "Darius, Hand of Noxus",
+  "legend_variant": "OGN-253",
+  "legend_id": "6d0db797-4984-4eb9-bf69-4b5e16f5fb47",
+  "legend_colors": [
+    "Fury",
+    "Order"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Darius, Trifarian",
+      "quantity": 1,
+      "variantNumber": "OGN-027",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Trifarian War Camp",
+      "quantity": 1,
+      "variantNumber": "OGN-294",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Vilemaw's Lair",
+      "quantity": 1,
+      "variantNumber": "OGN-295",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "The Arena's Greatest",
+      "quantity": 1,
+      "variantNumber": "OGN-290",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Order Rune",
+      "quantity": 9,
+      "variantNumber": "OGN-214",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Fury Rune",
+      "quantity": 3,
+      "variantNumber": "OGN-007",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Noxus Hopeful",
+      "quantity": 2,
+      "variantNumber": "OGN-012",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Vanguard Captain",
+      "quantity": 3,
+      "variantNumber": "OGN-218",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Spectral Matron",
+      "quantity": 3,
+      "variantNumber": "OGN-226",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 2,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Seal of Unity",
+      "quantity": 2,
+      "variantNumber": "OGN-245",
+      "type": "Gear",
+      "energy": 0,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Baited Hook",
+      "quantity": 3,
+      "variantNumber": "OGN-242",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Deathgrip",
+      "quantity": 2,
+      "variantNumber": "SFD-163",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Glasc Mixologist",
+      "quantity": 2,
+      "variantNumber": "SFD-165",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Cull the Weak",
+      "quantity": 2,
+      "variantNumber": "OGN-209",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Corina Veraza",
+      "quantity": 2,
+      "variantNumber": "SFD-179",
+      "type": "Unit",
+      "energy": 7,
+      "might": 6,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Trusty Ramhound",
+      "quantity": 3,
+      "variantNumber": "SFD-159",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Xin Zhao, Vigilant",
+      "quantity": 3,
+      "variantNumber": "SFD-176",
+      "type": "Unit",
+      "energy": 3,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Grand Strategem",
+      "quantity": 2,
+      "variantNumber": "OGN-233",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 3,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Rally the Troops",
+      "quantity": 2,
+      "variantNumber": "SFD-166",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Rek'Sai, Breacher",
+      "quantity": 2,
+      "variantNumber": "SFD-029",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Pouty Poro",
+      "quantity": 2,
+      "variantNumber": "OGN-013",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "B.F. Sword",
+      "quantity": 1,
+      "variantNumber": "SFD-161",
+      "type": "Gear",
+      "energy": 4,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Honest Broker",
+      "quantity": 3,
+      "variantNumber": "SFD-155",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Hidden Blade",
+      "quantity": 2,
+      "variantNumber": "OGN-213",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Noxian Guillotine",
+      "quantity": 2,
+      "variantNumber": "OGN-254",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury",
+        "Order"
+      ]
+    },
+    {
+      "name": "Falling Star",
+      "quantity": 2,
+      "variantNumber": "OGN-029",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Harnessed Dragon",
+      "quantity": 2,
+      "variantNumber": "OGN-234",
+      "type": "Unit",
+      "energy": 8,
+      "might": 6,
+      "power": 2,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

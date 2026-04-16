@@ -1,0 +1,165 @@
+{
+  "decklist_id": "rq-houston--volibear-relentless-storm-47",
+  "event_id": "rq-houston",
+  "player": "Malakx",
+  "legend": "Volibear, Relentless Storm",
+  "placement": 47,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-148-298",
+      "count": 3,
+      "name": "Anivia, Primal",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-138-298",
+      "count": 3,
+      "name": "Catalyst of Aeons",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "count": 2,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-160-298",
+      "count": 3,
+      "name": "Dazzling Aurora",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-161-298",
+      "count": 3,
+      "name": "Deadbloom Predator",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-029-298",
+      "count": 2,
+      "name": "Falling Star",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-008-298",
+      "count": 3,
+      "name": "Get Excited!",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogs-003-024",
+      "count": 3,
+      "name": "Incinerate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-017-298",
+      "count": 3,
+      "name": "Iron Ballista",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-038-298",
+      "count": 3,
+      "name": "Kadregrin the Infernal",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-011-298",
+      "count": 1,
+      "name": "Magma Wurm",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-134-298",
+      "count": 3,
+      "name": "Mobilize",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 3,
+      "name": "Sabotage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-014-298",
+      "count": 3,
+      "name": "Sky Splitter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-024-298",
+      "count": 1,
+      "name": "Void Seeker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-250-298",
+      "count": 2,
+      "name": "Stormbringer",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-145-298",
+      "count": 2,
+      "name": "Unyielding Spirit",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-024-298",
+      "count": 1,
+      "name": "Void Seeker",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-159-298",
+      "count": 3,
+      "name": "Warwick, Hunter",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-276-298",
+      "count": 1,
+      "name": "Aspirant's Climb",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-295-298",
+      "count": 1,
+      "name": "Vilemaw's Lair",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 6,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 6,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Malakx"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Volibear, Furious | deck_type=best_of"
+}

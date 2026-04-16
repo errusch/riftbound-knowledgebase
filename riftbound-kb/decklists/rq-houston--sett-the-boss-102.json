@@ -1,0 +1,177 @@
+{
+  "decklist_id": "rq-houston--sett-the-boss-102",
+  "event_id": "rq-houston",
+  "player": "BoiWaffle",
+  "legend": "Sett, The Boss",
+  "placement": 102,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-124-298",
+      "count": 3,
+      "name": "Arena Bar",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-207-298",
+      "count": 3,
+      "name": "Call to Glory",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "count": 3,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-139-298",
+      "count": 3,
+      "name": "Cithria of Cloudfield",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-210-298",
+      "count": 1,
+      "name": "Daring Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-232-298",
+      "count": 3,
+      "name": "Fiora, Victorious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-132-298",
+      "count": 3,
+      "name": "First Mate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "count": 2,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-141-298",
+      "count": 2,
+      "name": "Kinkou Monk",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-136-298",
+      "count": 3,
+      "name": "Pit Rookie",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-154-298",
+      "count": 2,
+      "name": "Primal Strength",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-155-298",
+      "count": 2,
+      "name": "Qiyana, Victorious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 3,
+      "name": "Sabotage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-232-221",
+      "count": 2,
+      "name": "Sett, Brawler",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-240a-298",
+      "count": 1,
+      "name": "Sett, Kingpin",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-270-298",
+      "count": 3,
+      "name": "Showstopper",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-210-298",
+      "count": 1,
+      "name": "Daring Poro",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 1,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-240a-298",
+      "count": 1,
+      "name": "Sett, Kingpin",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-145-298",
+      "count": 2,
+      "name": "Unyielding Spirit",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-229-298",
+      "count": 3,
+      "name": "Vengeance",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-280-298",
+      "count": 1,
+      "name": "Grove of the God-Willow",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-282-298",
+      "count": 1,
+      "name": "Monastery of Hirana",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 6,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "count": 6,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=BoiWaffle"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Sett, Kingpin | deck_type=best_of"
+}

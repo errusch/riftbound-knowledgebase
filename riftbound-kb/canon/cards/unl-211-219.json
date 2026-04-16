@@ -1,0 +1,64 @@
+{
+  "card_id": "unl-211-219",
+  "name": "Forgotten Library",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "211",
+  "public_code": "UNL-211/219",
+  "card_type": "Battlefield",
+  "subtypes": [],
+  "domains": [
+    "Colorless"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "While you control this battlefield, when you play a spell, if you spent :rb_energy_4: or more, [Predict]. (Look at the top card of your Main Deck. You may recycle it.)",
+  "text_rich": "<p>While you control this battlefield, when you play a spell, if you spent :rb_energy_4: or more, [Predict]. (Look at the top card of your Main Deck. You may recycle it.)</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/a7905fb94abe453f05a4108cf5424fd1ca50f6de-1039x744.png"
+  },
+  "artist": "Chris Kintner",
+  "accessibility_text": "Riftbound Battlefield: Forgotten Library. While you control this battlefield, when you play a spell, if you spent [4] or more, [Predict]. (Look at the top card of your Main Deck. You may recycle it.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "landscape",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

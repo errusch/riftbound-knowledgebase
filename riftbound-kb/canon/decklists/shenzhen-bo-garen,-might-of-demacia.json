@@ -1,0 +1,360 @@
+{
+  "id": "e2f5622d-2e2a-45b7-a1b0-94fa4313e740",
+  "name": "750 - Best-Of Garen - Shenzhen National Open",
+  "legend": "Garen, Might of Demacia",
+  "legend_variant": "OGS-023",
+  "legend_id": "47127ea9-1933-4619-85d6-779b10e358b3",
+  "legend_colors": [
+    "Body",
+    "Order"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Garen, Rugged",
+      "quantity": 1,
+      "variantNumber": "OGS-007",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Aspirant's Climb",
+      "quantity": 1,
+      "variantNumber": "OGN-276",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Obelisk of Power",
+      "quantity": 1,
+      "variantNumber": "OGN-284",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Sigil of the Storm",
+      "quantity": 1,
+      "variantNumber": "OGN-287",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Body Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-126",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Order Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-214",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Forge of the Future",
+      "quantity": 2,
+      "variantNumber": "OGN-212",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Confront",
+      "quantity": 3,
+      "variantNumber": "OGN-129",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Blood Money",
+      "quantity": 2,
+      "variantNumber": "SFD-162",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Spoils of War",
+      "quantity": 3,
+      "variantNumber": "OGN-144",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 2,
+      "variantNumber": "SFD-109",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Unyielding Spirit",
+      "quantity": 1,
+      "variantNumber": "OGN-145",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Deadbloom Predator",
+      "quantity": 3,
+      "variantNumber": "OGN-161",
+      "type": "Unit",
+      "energy": 8,
+      "might": 8,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Harnessed Dragon",
+      "quantity": 3,
+      "variantNumber": "OGN-234",
+      "type": "Unit",
+      "energy": 8,
+      "might": 6,
+      "power": 2,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Punch First",
+      "quantity": 3,
+      "variantNumber": "SFD-097",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Rally the Troops",
+      "quantity": 3,
+      "variantNumber": "SFD-166",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Mobilize",
+      "quantity": 3,
+      "variantNumber": "OGN-134",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Catalyst of Aeons",
+      "quantity": 3,
+      "variantNumber": "OGN-138",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Hidden Blade",
+      "quantity": 2,
+      "variantNumber": "OGN-213",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Divine Judgment",
+      "quantity": 3,
+      "variantNumber": "OGN-244",
+      "type": "Spell",
+      "energy": 7,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Dazzling Aurora",
+      "quantity": 3,
+      "variantNumber": "OGN-160",
+      "type": "Gear",
+      "energy": 9,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Blood Money",
+      "quantity": 1,
+      "variantNumber": "SFD-162",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Hidden Blade",
+      "quantity": 1,
+      "variantNumber": "OGN-213",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Facebreaker",
+      "quantity": 1,
+      "variantNumber": "OGN-220",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Trove Golem",
+      "quantity": 1,
+      "variantNumber": "SFD-174",
+      "type": "Unit",
+      "energy": 8,
+      "might": 9,
+      "power": 2,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Volibear, Imposing",
+      "quantity": 1,
+      "variantNumber": "OGN-158",
+      "type": "Unit",
+      "energy": 12,
+      "might": 10,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 1,
+      "variantNumber": "OGN-156",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Challenge",
+      "quantity": 2,
+      "variantNumber": "OGN-128",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

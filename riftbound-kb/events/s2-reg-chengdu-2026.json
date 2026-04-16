@@ -1,0 +1,73 @@
+{
+  "event_id": "s2-reg-chengdu-2026",
+  "event_type": "other_official_event",
+  "event_name": "Season 2 Regional: Chengdu",
+  "region": null,
+  "city": "Chengdu",
+  "country": "China",
+  "start_date": "2026-02-08",
+  "end_date": "2026-02-08",
+  "coverage_kind": "results",
+  "placements": [
+    {
+      "place": 1,
+      "player": "東莞熊貓",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2_reg_chengdu_2026--draven,-glorious-executioner-1"
+    },
+    {
+      "place": 2,
+      "player": "闪电家丶克己",
+      "legend": "Sett, The Boss",
+      "decklist_id": "s2_reg_chengdu_2026--sett,-the-boss-2"
+    },
+    {
+      "place": 3,
+      "player": "淘金巢.Ai.极触感.服务区.Omegaone.霆霆",
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "s2_reg_chengdu_2026--ezreal,-prodigal-explorer-3"
+    },
+    {
+      "place": 4,
+      "player": "PT.超新星.澪夜",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2_reg_chengdu_2026--draven,-glorious-executioner-4"
+    },
+    {
+      "place": 5,
+      "player": "LineKa·健一",
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "s2_reg_chengdu_2026--irelia,-blade-dancer-5"
+    },
+    {
+      "place": 6,
+      "player": "LineKa·黑天使",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2_reg_chengdu_2026--draven,-glorious-executioner-6"
+    },
+    {
+      "place": 7,
+      "player": "东莞星猫",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2_reg_chengdu_2026--draven,-glorious-executioner-7"
+    },
+    {
+      "place": 8,
+      "player": "不凡.摩尔",
+      "legend": "Garen, Might of Demacia",
+      "decklist_id": "s2_reg_chengdu_2026--garen,-might-of-demacia-8"
+    }
+  ],
+  "best_of_legends": [],
+  "source": {
+    "source_type": "best_available",
+    "source_name": "legacy_local_knowledge_db",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "best_available",
+    "notes": "upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | upstream_status=reviewed"
+  },
+  "secondary_sources": [],
+  "notes": "player_count=90 | format=Spiritforged+Origins | decklist_count=8"
+}

@@ -1,0 +1,66 @@
+{
+  "card_id": "ogn-198-298",
+  "name": "The Harrowing",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "198",
+  "public_code": "OGN-198/298",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Chaos"
+  ],
+  "cost": 2,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 6,
+    "might_bonus": null
+  },
+  "text": "Play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)",
+  "text_rich": "<p>Play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6914034f56dd50ab37df26e3541c997479bb5a6d-744x1039.png"
+  },
+  "artist": "Rafael Zanchetin",
+  "accessibility_text": "Riftbound Spell: The Harrowing. Play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

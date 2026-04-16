@@ -1,0 +1,69 @@
+{
+  "card_id": "ogn-273-298",
+  "name": "Recruit (ZN)",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "273",
+  "public_code": "OGN-273/298",
+  "card_type": "Unit",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Colorless"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": 1,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "",
+  "text_rich": "",
+  "rarity": "Common",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d93ec9a524a2989b9d7ef23c6fc02e8ce39959c2-744x1039.png"
+  },
+  "artist": "Fortiche Production",
+  "accessibility_text": "Riftbound Unit: Recruit (ZN).",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "might",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

@@ -1,0 +1,177 @@
+{
+  "decklist_id": "s2-reg-dalian-2026--irelia-blade-dancer-7",
+  "event_id": "s2-reg-dalian-2026",
+  "player": "空条咕哒子",
+  "legend": "Irelia, Blade Dancer",
+  "placement": 7,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Irelia, Fervent",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Defiant Dance",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Boots of Swiftness",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Ride The Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Fight Or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Draven, Audacious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x En Garde",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Guardian Angel",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Zhonya'S Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Not So Fast",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "3x Edge of Night",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Feral Strength",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Charm",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Defy",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "2x Wind Wall",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Sterak's Gage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Thwonk!",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Gust",
+      "section": "sideboard"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Grove Of The God-Willow",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "1x Sunken Temple",
+      "section": "battlefields"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "7x Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": null,
+      "count": 1,
+      "name": "5x Calm Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Season 2 Regional: Dalian",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=空条咕哒子"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Irelia, Fervent | deck_type=top_8"
+}

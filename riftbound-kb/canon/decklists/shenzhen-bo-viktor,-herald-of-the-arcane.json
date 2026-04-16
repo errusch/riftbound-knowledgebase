@@ -1,0 +1,384 @@
+{
+  "id": "924f7484-e376-4725-a8c9-04517c08fce1",
+  "name": "93 - Best-Of Viktor - Shenzhen National Open",
+  "legend": "Viktor, Herald of the Arcane",
+  "legend_variant": "OGN-265",
+  "legend_id": "b16ee995-4f0d-49ec-a67d-21a7640c033b",
+  "legend_colors": [
+    "Order",
+    "Mind"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Viktor, Innovator",
+      "quantity": 1,
+      "variantNumber": "OGN-117",
+      "type": "Unit",
+      "energy": 4,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Ravenbloom Conservatory",
+      "quantity": 1,
+      "variantNumber": "SFD-215",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "The Dreaming Tree",
+      "quantity": 1,
+      "variantNumber": "OGN-292",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Vilemaw's Lair",
+      "quantity": 1,
+      "variantNumber": "OGN-295",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Mind Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-089",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Order Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-214",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Pickpocket",
+      "quantity": 2,
+      "variantNumber": "SFD-074",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Lecturing Yordle",
+      "quantity": 2,
+      "variantNumber": "OGN-087",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Riptide Rex",
+      "quantity": 2,
+      "variantNumber": "OGN-092",
+      "type": "Unit",
+      "energy": 6,
+      "might": 6,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Thousand-Tailed Watcher",
+      "quantity": 1,
+      "variantNumber": "OGN-116",
+      "type": "Unit",
+      "energy": 7,
+      "might": 7,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Wages of Pain",
+      "quantity": 3,
+      "variantNumber": "SFD-070",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Bellows Breath",
+      "quantity": 3,
+      "variantNumber": "SFD-080",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Blood Money",
+      "quantity": 3,
+      "variantNumber": "SFD-162",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Stupefy",
+      "quantity": 3,
+      "variantNumber": "OGN-095",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Retreat",
+      "quantity": 3,
+      "variantNumber": "OGN-104",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Singularity",
+      "quantity": 2,
+      "variantNumber": "OGN-105",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Time Warp",
+      "quantity": 1,
+      "variantNumber": "OGN-122",
+      "type": "Spell",
+      "energy": 10,
+      "might": 0,
+      "power": 4,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Cull the Weak",
+      "quantity": 3,
+      "variantNumber": "OGN-209",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Hidden Blade",
+      "quantity": 3,
+      "variantNumber": "OGN-213",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Imperial Decree",
+      "quantity": 3,
+      "variantNumber": "OGN-221",
+      "type": "Spell",
+      "energy": 5,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Salvage",
+      "quantity": 1,
+      "variantNumber": "OGN-224",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Chemtech Cask",
+      "quantity": 2,
+      "variantNumber": "SFD-063",
+      "type": "Gear",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Vanguard Armory",
+      "quantity": 2,
+      "variantNumber": "SFD-168",
+      "type": "Gear",
+      "energy": 7,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Xin Zhao, Vigilant",
+      "quantity": 2,
+      "variantNumber": "SFD-176",
+      "type": "Unit",
+      "energy": 3,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Pickpocket",
+      "quantity": 1,
+      "variantNumber": "SFD-074",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Thousand-Tailed Watcher",
+      "quantity": 1,
+      "variantNumber": "OGN-116",
+      "type": "Unit",
+      "energy": 7,
+      "might": 7,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Harnessed Dragon",
+      "quantity": 1,
+      "variantNumber": "OGN-234",
+      "type": "Unit",
+      "energy": 8,
+      "might": 6,
+      "power": 2,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Singularity",
+      "quantity": 1,
+      "variantNumber": "OGN-105",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Salvage",
+      "quantity": 1,
+      "variantNumber": "OGN-224",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Vengeance",
+      "quantity": 1,
+      "variantNumber": "OGN-229",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

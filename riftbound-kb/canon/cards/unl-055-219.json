@@ -1,0 +1,72 @@
+{
+  "card_id": "unl-055-219",
+  "name": "Vex, Mocking",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "55",
+  "public_code": "UNL-055/219",
+  "card_type": "Unit",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Calm"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": 5,
+    "health": null,
+    "reserve": 5,
+    "might_bonus": null
+  },
+  "text": "[Shield] (+1 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nWhen you [Stun] an enemy unit at a battlefield, you may move me to that battlefield.",
+  "text_rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)<br />[Tank] (I must be assigned combat damage first.)<br />When you [Stun] an enemy unit at a battlefield, you may move me to that battlefield.</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ed2c20de6ceb7ff23f62ccb28a49fd305c5b15b7-744x1039.png"
+  },
+  "artist": "Envar Studio",
+  "accessibility_text": "Riftbound Unit: Vex, Mocking. [Shield] (+1 [S] while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nWhen you [Stun] an enemy unit at a battlefield, you may move me to that battlefield.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "flags",
+      "id",
+      "illustrator",
+      "might",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

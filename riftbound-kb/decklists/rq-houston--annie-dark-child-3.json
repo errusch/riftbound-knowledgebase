@@ -1,0 +1,159 @@
+{
+  "decklist_id": "rq-houston--annie-dark-child-3",
+  "event_id": "rq-houston",
+  "player": "Zent",
+  "legend": "Annie, Dark Child",
+  "placement": 3,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": "ogn-004-298",
+      "count": 3,
+      "name": "Cleave",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-027a-298",
+      "count": 3,
+      "name": "Darius, Trifarian",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 3,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogs-011-024",
+      "count": 3,
+      "name": "Flash",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-169-298",
+      "count": 2,
+      "name": "Gust",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-039-298",
+      "count": 3,
+      "name": "Kai'Sa, Survivor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-013-298",
+      "count": 3,
+      "name": "Pouty Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-173-298",
+      "count": 3,
+      "name": "Ride the Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-176-298",
+      "count": 3,
+      "name": "Sneaky Deckhand",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-185-298",
+      "count": 3,
+      "name": "Traveling Merchant",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-223-221",
+      "count": 1,
+      "name": "Vayne, Hunter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-036-298",
+      "count": 3,
+      "name": "Vi, Destructive",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-024-298",
+      "count": 3,
+      "name": "Void Seeker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-169-298",
+      "count": 1,
+      "name": "Gust",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 3,
+      "name": "Rebuke",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-182-298",
+      "count": 3,
+      "name": "Scrapheap",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-223-221",
+      "count": 1,
+      "name": "Vayne, Hunter",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-290-298",
+      "count": 1,
+      "name": "The Arena's Greatest",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-298-298",
+      "count": 1,
+      "name": "Zaun Warrens",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 6,
+      "name": "Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 6,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Zent"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Annie, Stubborn | deck_type=top_8"
+}

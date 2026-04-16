@@ -1,0 +1,201 @@
+{
+  "decklist_id": "rq-bologna--ahri-nine-tailed-fox-48",
+  "event_id": "rq-bologna",
+  "player": "Blunder",
+  "legend": "Ahri, Nine-Tailed Fox",
+  "placement": 48,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-067-298",
+      "count": 2,
+      "name": "Blitzcrank, Impassive",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-057-298",
+      "count": 1,
+      "name": "Block",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-044-298",
+      "count": 1,
+      "name": "Clockwork Keeper",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-083-298",
+      "count": 1,
+      "name": "Consult the Past",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 1,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-031-221",
+      "count": 3,
+      "name": "Desert's Call",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-032-221",
+      "count": 1,
+      "name": "Disarming Rake",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-058-298",
+      "count": 3,
+      "name": "Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-084-298",
+      "count": 3,
+      "name": "Eager Apprentice",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-034-221",
+      "count": 3,
+      "name": "Feral Strength",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-048-298",
+      "count": 3,
+      "name": "Meditation",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-045-221",
+      "count": 2,
+      "name": "Not So Fast",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-103-298",
+      "count": 3,
+      "name": "Ravenbloom Student",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-105-298",
+      "count": 1,
+      "name": "Singularity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-073-298",
+      "count": 3,
+      "name": "Sona, Harmonious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-116-298",
+      "count": 2,
+      "name": "Thousand-Tailed Watcher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-040-221",
+      "count": 3,
+      "name": "Thwonk!",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-123-298",
+      "count": 1,
+      "name": "Unchecked Power",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 2,
+      "name": "Zhonya's Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-066-298",
+      "count": 1,
+      "name": "Ahri, Alluring",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-083-298",
+      "count": 1,
+      "name": "Consult the Past",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-032-221",
+      "count": 2,
+      "name": "Disarming Rake",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-053-221",
+      "count": 1,
+      "name": "Janna, Savior",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-116-298",
+      "count": 1,
+      "name": "Thousand-Tailed Watcher",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-064-298",
+      "count": 2,
+      "name": "Wind Wall",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-280-298",
+      "count": 1,
+      "name": "Grove of the God-Willow",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-215-221",
+      "count": 1,
+      "name": "Ravenbloom Conservatory",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 6,
+      "name": "Calm Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "count": 6,
+      "name": "Mind Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Blunder"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Ahri, Inquisitive | deck_type=best_of"
+}

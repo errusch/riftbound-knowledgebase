@@ -1,0 +1,7772 @@
+[
+  {
+    "id": "050cf72c-8ec3-4011-a27e-9f2716cfb71d",
+    "name": "Best-Of Lee Sin - 114th Place - Dalian Regional Open",
+    "legend": "Lee Sin, Blind Monk",
+    "legend_variant": "OGN-257",
+    "legend_colors": [
+      "Body",
+      "Calm"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "114th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Lee Sin, Centered",
+        "quantity": 1,
+        "variantNumber": "OGN-151",
+        "type": "Unit",
+        "energy": 6,
+        "might": 6,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Monastery of Hirana",
+        "quantity": 1,
+        "variantNumber": "OGN-282",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Rockfall Path",
+        "quantity": 1,
+        "variantNumber": "SFD-216",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Obelisk of Power",
+        "quantity": 1,
+        "variantNumber": "OGN-284",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-042",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-126",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Dragon's Rage",
+        "quantity": 1,
+        "variantNumber": "OGN-258",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body",
+          "Calm"
+        ]
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "variantNumber": "OGN-156",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 3,
+        "variantNumber": "SFD-036",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Disarming Rake",
+        "quantity": 3,
+        "variantNumber": "SFD-032",
+        "type": "Unit",
+        "energy": 3,
+        "might": 2,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Stellacorn Herder",
+        "quantity": 3,
+        "variantNumber": "SFD-048",
+        "type": "Unit",
+        "energy": 4,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 2,
+        "variantNumber": "SFD-040",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "variantNumber": "SFD-045",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Punch First",
+        "quantity": 1,
+        "variantNumber": "SFD-097",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Trinity Force",
+        "quantity": 1,
+        "variantNumber": "SFD-115",
+        "type": "Gear",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 2,
+        "variantNumber": "OGN-077",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Heart of Dark Ice",
+        "quantity": 1,
+        "variantNumber": "SFD-052",
+        "type": "Gear",
+        "energy": 3,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Lucian, Merciless",
+        "quantity": 2,
+        "variantNumber": "SFD-113",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Sett, Brawler",
+        "quantity": 2,
+        "variantNumber": "OGN-164",
+        "type": "Unit",
+        "energy": 5,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Simian Ancestor",
+        "quantity": 2,
+        "variantNumber": "SFD-047",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Charm",
+        "quantity": 2,
+        "variantNumber": "OGN-043",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Stalwart Poro",
+        "quantity": 3,
+        "variantNumber": "OGN-052",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "variantNumber": "OGN-045",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "variantNumber": "OGN-058",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "First Mate",
+        "quantity": 3,
+        "variantNumber": "OGN-132",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "En Garde",
+        "quantity": 3,
+        "variantNumber": "OGN-046",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 2,
+        "variantNumber": "OGN-064",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Charm",
+        "quantity": 1,
+        "variantNumber": "OGN-043",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Primal Strength",
+        "quantity": 2,
+        "variantNumber": "OGN-154",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2b1933dd-3289-44af-9750-98d2f388351e",
+    "name": "Best-Of Rek'Sai - 115th Place - Dalian Regional Open",
+    "legend": "Rek'Sai, Void Burrower",
+    "legend_variant": "SFD-187",
+    "legend_colors": [
+      "Fury",
+      "Order"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "115th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Rek'Sai, Breacher",
+        "quantity": 1,
+        "variantNumber": "SFD-029",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Minefield",
+        "quantity": 1,
+        "variantNumber": "SFD-212",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Zaun Warrens",
+        "quantity": 1,
+        "variantNumber": "OGN-298",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Candlelit Sanctum",
+        "quantity": 1,
+        "variantNumber": "OGN-291",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Fury Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-007",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-214",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Rek'Sai, Breacher",
+        "quantity": 1,
+        "variantNumber": "SFD-029",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Vi, Destructive",
+        "quantity": 1,
+        "variantNumber": "OGN-036",
+        "type": "Unit",
+        "energy": 2,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Honest Broker",
+        "quantity": 3,
+        "variantNumber": "SFD-155",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Undertitan",
+        "quantity": 3,
+        "variantNumber": "SFD-175",
+        "type": "Unit",
+        "energy": 6,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Immortal Phoenix",
+        "quantity": 3,
+        "variantNumber": "OGN-037",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Void Hatchling",
+        "quantity": 2,
+        "variantNumber": "SFD-018",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Darius, Trifarian",
+        "quantity": 2,
+        "variantNumber": "OGN-027",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Piercing Light",
+        "quantity": 1,
+        "variantNumber": "SFD-023",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Drag Under",
+        "quantity": 1,
+        "variantNumber": "SFD-164",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Falling Star",
+        "quantity": 3,
+        "variantNumber": "OGN-029",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 3,
+        "variantNumber": "OGN-209",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 2,
+        "variantNumber": "OGN-213",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Hextech Ray",
+        "quantity": 2,
+        "variantNumber": "OGN-009",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Void Rush",
+        "quantity": 3,
+        "variantNumber": "SFD-188",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury",
+          "Order"
+        ]
+      },
+      {
+        "name": "Deathgrip",
+        "quantity": 1,
+        "variantNumber": "SFD-163",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Seal of Rage",
+        "quantity": 3,
+        "variantNumber": "OGN-040",
+        "type": "Gear",
+        "energy": 0,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Noxus Hopeful",
+        "quantity": 3,
+        "variantNumber": "OGN-012",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Sun Disc",
+        "quantity": 1,
+        "variantNumber": "OGN-021",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Void Seeker",
+        "quantity": 1,
+        "variantNumber": "OGN-024",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "variantNumber": "OGN-026",
+        "type": "Unit",
+        "energy": 6,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Blood Rush",
+        "quantity": 2,
+        "variantNumber": "SFD-003",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Vi, Destructive",
+        "quantity": 1,
+        "variantNumber": "OGN-036",
+        "type": "Unit",
+        "energy": 2,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Drag Under",
+        "quantity": 1,
+        "variantNumber": "SFD-164",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7b144754-240f-40eb-9b3e-5e50c2e8d3d9",
+    "name": "Best-Of Leona - 121st Place - Dalian Regional Open",
+    "legend": "Leona, Radiant Dawn",
+    "legend_variant": "OGN-261",
+    "legend_colors": [
+      "Calm",
+      "Order"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "121st Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Leona, Zealot",
+        "quantity": 1,
+        "variantNumber": "OGN-079",
+        "type": "Unit",
+        "energy": 6,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "variantNumber": "OGN-295",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Obelisk of Power",
+        "quantity": 1,
+        "variantNumber": "OGN-284",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Dreaming Tree",
+        "quantity": 1,
+        "variantNumber": "OGN-292",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Calm Rune",
+        "quantity": 7,
+        "variantNumber": "OGN-042",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 5,
+        "variantNumber": "OGN-214",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Sona, Harmonious",
+        "quantity": 2,
+        "variantNumber": "OGN-073",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Blitzcrank, Impassive",
+        "quantity": 2,
+        "variantNumber": "OGN-067",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Leona, Determined",
+        "quantity": 3,
+        "variantNumber": "OGN-238",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Fiora, Victorious",
+        "quantity": 3,
+        "variantNumber": "OGN-232",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Zenith Blade",
+        "quantity": 3,
+        "variantNumber": "OGN-262",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm",
+          "Order"
+        ]
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 2,
+        "variantNumber": "SFD-040",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "variantNumber": "SFD-045",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 2,
+        "variantNumber": "OGN-213",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Call to Glory",
+        "quantity": 2,
+        "variantNumber": "OGN-207",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 3,
+        "variantNumber": "SFD-051",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 3,
+        "variantNumber": "OGN-077",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "B.F. Sword",
+        "quantity": 2,
+        "variantNumber": "SFD-161",
+        "type": "Gear",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Defy",
+        "quantity": 3,
+        "variantNumber": "OGN-045",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "variantNumber": "OGN-058",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Solari Shieldbearer",
+        "quantity": 2,
+        "variantNumber": "OGN-051",
+        "type": "Unit",
+        "energy": 3,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Emperor's Divide",
+        "quantity": 2,
+        "variantNumber": "SFD-043",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Blood Money",
+        "quantity": 2,
+        "variantNumber": "SFD-162",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Divine Judgment",
+        "quantity": 1,
+        "variantNumber": "OGN-244",
+        "type": "Spell",
+        "energy": 7,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "quantity": 1,
+        "variantNumber": "OGN-229",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 2,
+        "variantNumber": "OGN-064",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a39858b5-d421-4b47-928a-3314ff073823",
+    "name": "Best-Of Darius - 122nd Place - Dalian Regional Open",
+    "legend": "Darius, Hand of Noxus",
+    "legend_variant": "OGN-253",
+    "legend_colors": [
+      "Fury",
+      "Order"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "122nd Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Darius, Trifarian",
+        "quantity": 1,
+        "variantNumber": "OGN-027",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Trifarian War Camp",
+        "quantity": 1,
+        "variantNumber": "OGN-294",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Emperor's Dais",
+        "quantity": 1,
+        "variantNumber": "SFD-207",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "variantNumber": "OGN-295",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Order Rune",
+        "quantity": 10,
+        "variantNumber": "OGN-214",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 2,
+        "variantNumber": "OGN-007",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Baited Hook",
+        "quantity": 3,
+        "variantNumber": "OGN-242",
+        "type": "Gear",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "B.F. Sword",
+        "quantity": 2,
+        "variantNumber": "SFD-161",
+        "type": "Gear",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Deathgrip",
+        "quantity": 2,
+        "variantNumber": "SFD-163",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Rally the Troops",
+        "quantity": 3,
+        "variantNumber": "SFD-166",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 3,
+        "variantNumber": "OGN-209",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 2,
+        "variantNumber": "OGN-213",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Honest Broker",
+        "quantity": 3,
+        "variantNumber": "SFD-155",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Glasc Mixologist",
+        "quantity": 3,
+        "variantNumber": "SFD-165",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Unsung Hero",
+        "quantity": 3,
+        "variantNumber": "SFD-167",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "variantNumber": "OGN-026",
+        "type": "Unit",
+        "energy": 6,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Vanguard Captain",
+        "quantity": 3,
+        "variantNumber": "OGN-218",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Harnessed Dragon",
+        "quantity": 2,
+        "variantNumber": "OGN-234",
+        "type": "Unit",
+        "energy": 8,
+        "might": 6,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Undertitan",
+        "quantity": 2,
+        "variantNumber": "SFD-175",
+        "type": "Unit",
+        "energy": 6,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Corina Veraza",
+        "quantity": 1,
+        "variantNumber": "SFD-179",
+        "type": "Unit",
+        "energy": 7,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Draven, Showboat",
+        "quantity": 2,
+        "variantNumber": "OGN-028",
+        "type": "Unit",
+        "energy": 5,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Seal of Unity",
+        "quantity": 1,
+        "variantNumber": "OGN-245",
+        "type": "Gear",
+        "energy": 0,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Spectral Matron",
+        "quantity": 2,
+        "variantNumber": "OGN-226",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Facebreaker",
+        "quantity": 2,
+        "variantNumber": "OGN-220",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Call to Glory",
+        "quantity": 2,
+        "variantNumber": "OGN-207",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Imperial Decree",
+        "quantity": 2,
+        "variantNumber": "OGN-221",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Harnessed Dragon",
+        "quantity": 1,
+        "variantNumber": "OGN-234",
+        "type": "Unit",
+        "energy": 8,
+        "might": 6,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2683ddcc-2372-4c3f-b16f-460cf600cebe",
+    "name": "Best-Of MF - 151st Place - Dalian Regional Open",
+    "legend": "Miss Fortune, Bounty Hunter",
+    "legend_variant": "OGN-267",
+    "legend_colors": [
+      "Body",
+      "Chaos"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "151st Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Miss Fortune, Captain",
+        "quantity": 1,
+        "variantNumber": "OGN-162",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Obelisk of Power",
+        "quantity": 1,
+        "variantNumber": "OGN-284",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Sigil of the Storm",
+        "quantity": 1,
+        "variantNumber": "OGN-287",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "variantNumber": "OGN-276",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-126",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-166",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Last Rites",
+        "quantity": 3,
+        "variantNumber": "SFD-150",
+        "type": "Gear",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Mindsplitter",
+        "quantity": 3,
+        "variantNumber": "OGN-192",
+        "type": "Unit",
+        "energy": 7,
+        "might": 7,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Dazzling Aurora",
+        "quantity": 3,
+        "variantNumber": "OGN-160",
+        "type": "Gear",
+        "energy": 9,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Deadbloom Predator",
+        "quantity": 2,
+        "variantNumber": "OGN-161",
+        "type": "Unit",
+        "energy": 8,
+        "might": 8,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Called Shot",
+        "quantity": 3,
+        "variantNumber": "SFD-122",
+        "type": "Spell",
+        "energy": 0,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Bullet Time",
+        "quantity": 2,
+        "variantNumber": "OGN-268",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body",
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Ancient Henge",
+        "quantity": 1,
+        "variantNumber": "SFD-117",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Spirit Wheel",
+        "quantity": 2,
+        "variantNumber": "SFD-144",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Punch First",
+        "quantity": 2,
+        "variantNumber": "SFD-097",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Catalyst of Aeons",
+        "quantity": 3,
+        "variantNumber": "OGN-138",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "variantNumber": "OGN-128",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Mobilize",
+        "quantity": 3,
+        "variantNumber": "OGN-134",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Gust",
+        "quantity": 3,
+        "variantNumber": "OGN-169",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Fight or Flight",
+        "quantity": 3,
+        "variantNumber": "OGN-168",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Stacked Deck",
+        "quantity": 3,
+        "variantNumber": "OGN-183",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Rebuke",
+        "quantity": 2,
+        "variantNumber": "OGN-172",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 2,
+        "variantNumber": "OGN-156",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Fading Memories",
+        "quantity": 2,
+        "variantNumber": "OGN-180",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Factory Recall",
+        "quantity": 1,
+        "variantNumber": "SFD-135",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Bullet Time",
+        "quantity": 1,
+        "variantNumber": "OGN-268",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body",
+          "Chaos"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a201bc75-00b8-4d98-bb5d-45acba598bd0",
+    "name": "Best-Of Yasuo - 159th Place - Dalian Regional Open",
+    "legend": "Yasuo, Unforgiven",
+    "legend_variant": "OGN-259",
+    "legend_colors": [
+      "Calm",
+      "Chaos"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "159th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Yasuo, Windrider",
+        "quantity": 1,
+        "variantNumber": "OGN-205",
+        "type": "Unit",
+        "energy": 5,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "The Dreaming Tree",
+        "quantity": 1,
+        "variantNumber": "OGN-292",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Reaver's Row",
+        "quantity": 1,
+        "variantNumber": "OGN-285",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Arena's Greatest",
+        "quantity": 1,
+        "variantNumber": "OGN-290",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-042",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-166",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Draven, Audacious",
+        "quantity": 1,
+        "variantNumber": "SFD-148",
+        "type": "Unit",
+        "energy": 6,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 2,
+        "variantNumber": "SFD-036",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Overzealous Fan",
+        "quantity": 2,
+        "variantNumber": "SFD-128",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Treasure Hunter",
+        "quantity": 3,
+        "variantNumber": "SFD-130",
+        "type": "Unit",
+        "energy": 2,
+        "might": 1,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 1,
+        "variantNumber": "SFD-045",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 3,
+        "variantNumber": "SFD-051",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Svellsongur",
+        "quantity": 1,
+        "variantNumber": "SFD-059",
+        "type": "Gear",
+        "energy": 3,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Last Breath",
+        "quantity": 1,
+        "variantNumber": "OGN-260",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm",
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Stellacorn Herder",
+        "quantity": 2,
+        "variantNumber": "SFD-048",
+        "type": "Unit",
+        "energy": 4,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Tideturner",
+        "quantity": 2,
+        "variantNumber": "OGN-199",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Switcheroo",
+        "quantity": 1,
+        "variantNumber": "SFD-145",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Flash",
+        "quantity": 1,
+        "variantNumber": "OGS-011",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 2,
+        "variantNumber": "OGN-172",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Charm",
+        "quantity": 1,
+        "variantNumber": "OGN-043",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 1,
+        "variantNumber": "OGN-064",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Defy",
+        "quantity": 3,
+        "variantNumber": "OGN-045",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "variantNumber": "OGN-058",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Adaptatron",
+        "quantity": 1,
+        "variantNumber": "OGN-056",
+        "type": "Unit",
+        "energy": 4,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Ride the Wind",
+        "quantity": 2,
+        "variantNumber": "OGN-173",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Fight or Flight",
+        "quantity": 3,
+        "variantNumber": "OGN-168",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "En Garde",
+        "quantity": 3,
+        "variantNumber": "OGN-046",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Charm",
+        "quantity": 1,
+        "variantNumber": "OGN-043",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Adaptatron",
+        "quantity": 1,
+        "variantNumber": "OGN-056",
+        "type": "Unit",
+        "energy": 4,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Switcheroo",
+        "quantity": 1,
+        "variantNumber": "SFD-145",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Possession",
+        "quantity": 1,
+        "variantNumber": "OGN-203",
+        "type": "Spell",
+        "energy": 8,
+        "might": 0,
+        "power": 3,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Vex, Cheerless",
+        "quantity": 1,
+        "variantNumber": "SFD-146",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 2,
+        "variantNumber": "SFD-040",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Stellacorn Herder",
+        "quantity": 1,
+        "variantNumber": "SFD-048",
+        "type": "Unit",
+        "energy": 4,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "386a59e7-e8cc-46e1-8afd-8128950f4e67",
+    "name": "Best-Of Jinx - 161st Place - Dalian Regional Open",
+    "legend": "Jinx, Loose Cannon",
+    "legend_variant": "OGN-251",
+    "legend_colors": [
+      "Fury",
+      "Chaos"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "161st Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Jinx, Rebel",
+        "quantity": 1,
+        "variantNumber": "OGN-202",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Zaun Warrens",
+        "quantity": 1,
+        "variantNumber": "OGN-298",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Candlelit Sanctum",
+        "quantity": 1,
+        "variantNumber": "OGN-291",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Obelisk of Power",
+        "quantity": 1,
+        "variantNumber": "OGN-284",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Chaos Rune",
+        "quantity": 10,
+        "variantNumber": "OGN-166",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 2,
+        "variantNumber": "OGN-007",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Ezreal, Prodigy",
+        "quantity": 3,
+        "variantNumber": "SFD-149",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Switcheroo",
+        "quantity": 1,
+        "variantNumber": "SFD-145",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Called Shot",
+        "quantity": 3,
+        "variantNumber": "SFD-122",
+        "type": "Spell",
+        "energy": 0,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Ride the Wind",
+        "quantity": 1,
+        "variantNumber": "OGN-173",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Fight or Flight",
+        "quantity": 1,
+        "variantNumber": "OGN-168",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Seal of Discord",
+        "quantity": 3,
+        "variantNumber": "OGN-204",
+        "type": "Gear",
+        "energy": 0,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Super Mega Death Rocket!",
+        "quantity": 2,
+        "variantNumber": "OGN-252",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury",
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Traveling Merchant",
+        "quantity": 3,
+        "variantNumber": "OGN-185",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Rhasa the Sunderer",
+        "quantity": 3,
+        "variantNumber": "OGN-195",
+        "type": "Unit",
+        "energy": 10,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Vi, Destructive",
+        "quantity": 1,
+        "variantNumber": "OGN-036",
+        "type": "Unit",
+        "energy": 2,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Nocturne, Horrifying",
+        "quantity": 3,
+        "variantNumber": "OGN-194",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Teemo, Scout",
+        "quantity": 1,
+        "variantNumber": "OGN-197",
+        "type": "Unit",
+        "energy": 2,
+        "might": 1,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Battering Ram",
+        "quantity": 3,
+        "variantNumber": "SFD-012",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Treasure Hunter",
+        "quantity": 3,
+        "variantNumber": "SFD-130",
+        "type": "Unit",
+        "energy": 2,
+        "might": 1,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Scrapheap",
+        "quantity": 2,
+        "variantNumber": "OGN-182",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Noxus Hopeful",
+        "quantity": 2,
+        "variantNumber": "OGN-012",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 1,
+        "variantNumber": "OGN-172",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Stacked Deck",
+        "quantity": 3,
+        "variantNumber": "OGN-183",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Hard Bargain",
+        "quantity": 1,
+        "variantNumber": "SFD-136",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Factory Recall",
+        "quantity": 1,
+        "variantNumber": "SFD-135",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Minotaur Reckoner",
+        "quantity": 1,
+        "variantNumber": "SFD-014",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Sneaky Deckhand",
+        "quantity": 3,
+        "variantNumber": "OGN-176",
+        "type": "Unit",
+        "energy": 3,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Thermo Beam",
+        "quantity": 1,
+        "variantNumber": "OGN-022",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Against the Odds",
+        "quantity": 1,
+        "variantNumber": "SFD-001",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "15bf5db5-89b1-4c41-bcba-9f5b79ac0d97",
+    "name": "Best-Of Ornn - 170th Place - Dalian Regional Open",
+    "legend": "Ornn, Fire Below the Mountain",
+    "legend_variant": "SFD-189",
+    "legend_colors": [
+      "Calm",
+      "Mind"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "170th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Ornn, Forge God",
+        "quantity": 1,
+        "variantNumber": "SFD-085",
+        "type": "Unit",
+        "energy": 6,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Ornn's Forge",
+        "quantity": 1,
+        "variantNumber": "SFD-213",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Forgotten Monument",
+        "quantity": 1,
+        "variantNumber": "SFD-209",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "variantNumber": "OGN-276",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-042",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-089",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Azir, Ascendant",
+        "quantity": 2,
+        "variantNumber": "SFD-050",
+        "type": "Unit",
+        "energy": 6,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 2,
+        "variantNumber": "SFD-036",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Stellacorn Herder",
+        "quantity": 3,
+        "variantNumber": "SFD-048",
+        "type": "Unit",
+        "energy": 4,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 1,
+        "variantNumber": "OGN-116",
+        "type": "Unit",
+        "energy": 7,
+        "might": 7,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "variantNumber": "SFD-045",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Emperor's Divide",
+        "quantity": 2,
+        "variantNumber": "SFD-043",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Convergent Mutation",
+        "quantity": 1,
+        "variantNumber": "OGN-108",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Poro Snax",
+        "quantity": 2,
+        "variantNumber": "SFD-046",
+        "type": "Gear",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 3,
+        "variantNumber": "SFD-051",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Svellsongur",
+        "quantity": 2,
+        "variantNumber": "SFD-059",
+        "type": "Gear",
+        "energy": 3,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "World Atlas",
+        "quantity": 2,
+        "variantNumber": "SFD-086",
+        "type": "Gear",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Seal of Focus",
+        "quantity": 3,
+        "variantNumber": "OGN-081",
+        "type": "Gear",
+        "energy": 0,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Forgefire Cape",
+        "quantity": 1,
+        "variantNumber": "SFD-190",
+        "type": "Gear",
+        "energy": 4,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm",
+          "Mind"
+        ]
+      },
+      {
+        "name": "Shurelya's Requiem",
+        "quantity": 1,
+        "variantNumber": "SFD-192",
+        "type": "Gear",
+        "energy": 4,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm",
+          "Mind"
+        ]
+      },
+      {
+        "name": "Tianna Crownguard",
+        "quantity": 1,
+        "variantNumber": "SFD-060",
+        "type": "Unit",
+        "energy": 7,
+        "might": 4,
+        "power": 2,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 1,
+        "variantNumber": "SFD-040",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Charm",
+        "quantity": 2,
+        "variantNumber": "OGN-043",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 2,
+        "variantNumber": "OGN-064",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Defy",
+        "quantity": 1,
+        "variantNumber": "OGN-045",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Clockwork Keeper",
+        "quantity": 3,
+        "variantNumber": "OGN-044",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Consult the Past",
+        "quantity": 2,
+        "variantNumber": "OGN-083",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Jax, Unmatched",
+        "quantity": 1,
+        "variantNumber": "SFD-054",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Rabadon's Deathcrown",
+        "quantity": 1,
+        "variantNumber": "SFD-191",
+        "type": "Gear",
+        "energy": 4,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm",
+          "Mind"
+        ]
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 2,
+        "variantNumber": "SFD-080",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Cloth Armor",
+        "quantity": 1,
+        "variantNumber": "SFD-064",
+        "type": "Gear",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Ornn, Forge God",
+        "quantity": 1,
+        "variantNumber": "SFD-085",
+        "type": "Unit",
+        "energy": 6,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Defy",
+        "quantity": 1,
+        "variantNumber": "OGN-045",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 1,
+        "variantNumber": "OGN-064",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "48fa502d-10a2-4011-8098-f8b6f3bab5cf",
+    "name": "Best-Of Volibear - 174th Place - Dalian Regional Open",
+    "legend": "Volibear, Relentless Storm",
+    "legend_variant": "OGN-249",
+    "legend_colors": [
+      "Body",
+      "Fury"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "174th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Volibear, Furious",
+        "quantity": 1,
+        "variantNumber": "OGN-041",
+        "type": "Unit",
+        "energy": 10,
+        "might": 9,
+        "power": 2,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Sigil of the Storm",
+        "quantity": 1,
+        "variantNumber": "OGN-287",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "variantNumber": "OGN-295",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "variantNumber": "OGN-276",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Fury Rune",
+        "quantity": 5,
+        "variantNumber": "OGN-007",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 7,
+        "variantNumber": "OGN-126",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Anivia, Primal",
+        "quantity": 1,
+        "variantNumber": "OGN-148",
+        "type": "Unit",
+        "energy": 7,
+        "might": 8,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Minotaur Reckoner",
+        "quantity": 3,
+        "variantNumber": "SFD-014",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 3,
+        "variantNumber": "SFD-021",
+        "type": "Unit",
+        "energy": 6,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Kadregrin the Infernal",
+        "quantity": 3,
+        "variantNumber": "OGN-038",
+        "type": "Unit",
+        "energy": 9,
+        "might": 9,
+        "power": 2,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Deadbloom Predator",
+        "quantity": 3,
+        "variantNumber": "OGN-161",
+        "type": "Unit",
+        "energy": 8,
+        "might": 8,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Carnivorous Snapvine",
+        "quantity": 2,
+        "variantNumber": "OGN-149",
+        "type": "Unit",
+        "energy": 5,
+        "might": 6,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Sky Splitter",
+        "quantity": 3,
+        "variantNumber": "OGN-014",
+        "type": "Spell",
+        "energy": 8,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "variantNumber": "OGN-128",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Mobilize",
+        "quantity": 3,
+        "variantNumber": "OGN-134",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Confront",
+        "quantity": 3,
+        "variantNumber": "OGN-129",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 3,
+        "variantNumber": "OGN-156",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Dazzling Aurora",
+        "quantity": 3,
+        "variantNumber": "OGN-160",
+        "type": "Gear",
+        "energy": 9,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Stormbringer",
+        "quantity": 2,
+        "variantNumber": "OGN-250",
+        "type": "Spell",
+        "energy": 6,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Body",
+          "Fury"
+        ]
+      },
+      {
+        "name": "Magma Wurm",
+        "quantity": 1,
+        "variantNumber": "OGN-011",
+        "type": "Unit",
+        "energy": 8,
+        "might": 8,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Catalyst of Aeons",
+        "quantity": 3,
+        "variantNumber": "OGN-138",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 3,
+        "variantNumber": "OGN-026",
+        "type": "Unit",
+        "energy": 6,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 2,
+        "variantNumber": "SFD-109",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Falling Star",
+        "quantity": 1,
+        "variantNumber": "OGN-029",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Thermo Beam",
+        "quantity": 2,
+        "variantNumber": "OGN-022",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5f7bee5a-cc3b-4e52-8634-cf2ad87c40bd",
+    "name": "Best-Of Renata - 202nd Place - Dalian Regional Open",
+    "legend": "Renata Glasc, Chem-Baroness",
+    "legend_variant": "SFD-201",
+    "legend_colors": [
+      "Order",
+      "Mind"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "202nd Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Renata Glasc, Industrialist",
+        "quantity": 1,
+        "variantNumber": "SFD-171",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Grove of the God-Willow",
+        "quantity": 1,
+        "variantNumber": "OGN-280",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Grand Plaza",
+        "quantity": 1,
+        "variantNumber": "OGN-293",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Arena's Greatest",
+        "quantity": 1,
+        "variantNumber": "OGN-290",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Mind Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-089",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-214",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Shen, Kinkou",
+        "quantity": 2,
+        "variantNumber": "OGN-241",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Renata Glasc, Mastermind",
+        "quantity": 1,
+        "variantNumber": "SFD-088",
+        "type": "Unit",
+        "energy": 5,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Card Sharp",
+        "quantity": 3,
+        "variantNumber": "SFD-081",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Plundering Poro",
+        "quantity": 3,
+        "variantNumber": "SFD-069",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Honest Broker",
+        "quantity": 3,
+        "variantNumber": "SFD-155",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Dropboarder",
+        "quantity": 2,
+        "variantNumber": "SFD-072",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 3,
+        "variantNumber": "OGN-209",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "variantNumber": "OGN-213",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Time Warp",
+        "quantity": 1,
+        "variantNumber": "OGN-122",
+        "type": "Spell",
+        "energy": 10,
+        "might": 0,
+        "power": 4,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Hostile Takeover",
+        "quantity": 2,
+        "variantNumber": "SFD-202",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order",
+          "Mind"
+        ]
+      },
+      {
+        "name": "Cloth Armor",
+        "quantity": 2,
+        "variantNumber": "SFD-064",
+        "type": "Gear",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Jayce, Man of Progress",
+        "quantity": 2,
+        "variantNumber": "SFD-084",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Vanguard Armory",
+        "quantity": 2,
+        "variantNumber": "SFD-168",
+        "type": "Gear",
+        "energy": 7,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Facebreaker",
+        "quantity": 2,
+        "variantNumber": "OGN-220",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 3,
+        "variantNumber": "OGN-095",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Singularity",
+        "quantity": 2,
+        "variantNumber": "OGN-105",
+        "type": "Spell",
+        "energy": 6,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Ravenbloom Student",
+        "quantity": 3,
+        "variantNumber": "OGN-103",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "World Atlas",
+        "quantity": 2,
+        "variantNumber": "SFD-086",
+        "type": "Gear",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Rocket Barrage",
+        "quantity": 2,
+        "variantNumber": "SFD-077",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Imperial Decree",
+        "quantity": 2,
+        "variantNumber": "OGN-221",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ade8918e-5975-4b71-99f4-7c608065419f",
+    "name": "Best-Of Garen - 205th Place - Dalian Regional Open",
+    "legend": "Garen, Might of Demacia",
+    "legend_variant": "OGS-023",
+    "legend_colors": [
+      "Body",
+      "Order"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "205th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Garen, Commander",
+        "quantity": 1,
+        "variantNumber": "OGS-013",
+        "type": "Unit",
+        "energy": 6,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "variantNumber": "OGN-276",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Obelisk of Power",
+        "quantity": 1,
+        "variantNumber": "OGN-284",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Sigil of the Storm",
+        "quantity": 1,
+        "variantNumber": "OGN-287",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-126",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-214",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Commander Ledros",
+        "quantity": 1,
+        "variantNumber": "OGN-231",
+        "type": "Unit",
+        "energy": 6,
+        "might": 8,
+        "power": 4,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Corina Veraza",
+        "quantity": 2,
+        "variantNumber": "SFD-179",
+        "type": "Unit",
+        "energy": 7,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Deadbloom Predator",
+        "quantity": 3,
+        "variantNumber": "OGN-161",
+        "type": "Unit",
+        "energy": 8,
+        "might": 8,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Harnessed Dragon",
+        "quantity": 3,
+        "variantNumber": "OGN-234",
+        "type": "Unit",
+        "energy": 8,
+        "might": 6,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Punch First",
+        "quantity": 3,
+        "variantNumber": "SFD-097",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Blood Money",
+        "quantity": 2,
+        "variantNumber": "SFD-162",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Rally the Troops",
+        "quantity": 2,
+        "variantNumber": "SFD-166",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "variantNumber": "OGN-156",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "variantNumber": "OGN-213",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Divine Judgment",
+        "quantity": 3,
+        "variantNumber": "OGN-244",
+        "type": "Spell",
+        "energy": 7,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Dazzling Aurora",
+        "quantity": 3,
+        "variantNumber": "OGN-160",
+        "type": "Gear",
+        "energy": 9,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Catalyst of Aeons",
+        "quantity": 3,
+        "variantNumber": "OGN-138",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "variantNumber": "OGN-128",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Mobilize",
+        "quantity": 3,
+        "variantNumber": "OGN-134",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Confront",
+        "quantity": 3,
+        "variantNumber": "OGN-129",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Commander Ledros",
+        "quantity": 1,
+        "variantNumber": "OGN-231",
+        "type": "Unit",
+        "energy": 6,
+        "might": 8,
+        "power": 4,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Anivia, Primal",
+        "quantity": 2,
+        "variantNumber": "OGN-148",
+        "type": "Unit",
+        "energy": 7,
+        "might": 8,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Blood Money",
+        "quantity": 1,
+        "variantNumber": "SFD-162",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "variantNumber": "OGN-156",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Facebreaker",
+        "quantity": 1,
+        "variantNumber": "OGN-220",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4a23e9e9-cf9e-4d0d-a839-4e1549e138b6",
+    "name": "Best-Of Master Yi - 30th Place - Dalian Regional Open",
+    "legend": "Master Yi, Wuju Bladesman",
+    "legend_variant": "OGS-019",
+    "legend_colors": [
+      "Body",
+      "Calm"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "30th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Master Yi, Honed",
+        "quantity": 1,
+        "variantNumber": "OGS-009",
+        "type": "Unit",
+        "energy": 7,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Hallowed Tomb",
+        "quantity": 1,
+        "variantNumber": "OGN-281",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Obelisk of Power",
+        "quantity": 1,
+        "variantNumber": "OGN-284",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "variantNumber": "OGN-295",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-126",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-042",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Irelia, Fervent",
+        "quantity": 1,
+        "variantNumber": "SFD-057",
+        "type": "Unit",
+        "energy": 5,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 3,
+        "variantNumber": "SFD-036",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Ruin Runner",
+        "quantity": 3,
+        "variantNumber": "SFD-105",
+        "type": "Unit",
+        "energy": 6,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Find Your Center",
+        "quantity": 2,
+        "variantNumber": "OGN-047",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Sea Monkey",
+        "quantity": 1,
+        "variantNumber": "SFD-098",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Marching Orders",
+        "quantity": 1,
+        "variantNumber": "SFD-114",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Punch First",
+        "quantity": 2,
+        "variantNumber": "SFD-097",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 2,
+        "variantNumber": "OGN-077",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Tasty Faefolk",
+        "quantity": 1,
+        "variantNumber": "OGN-075",
+        "type": "Unit",
+        "energy": 7,
+        "might": 6,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Whiteflame Protector",
+        "quantity": 1,
+        "variantNumber": "OGN-082",
+        "type": "Unit",
+        "energy": 8,
+        "might": 8,
+        "power": 2,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 2,
+        "variantNumber": "SFD-040",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Trinity Force",
+        "quantity": 3,
+        "variantNumber": "SFD-115",
+        "type": "Gear",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Charm",
+        "quantity": 3,
+        "variantNumber": "OGN-043",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Block",
+        "quantity": 1,
+        "variantNumber": "OGN-057",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "variantNumber": "OGN-045",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 1,
+        "variantNumber": "SFD-051",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 1,
+        "variantNumber": "SFD-045",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Janna, Savior",
+        "quantity": 1,
+        "variantNumber": "SFD-053",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Stalwart Poro",
+        "quantity": 1,
+        "variantNumber": "OGN-052",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Discipline",
+        "quantity": 2,
+        "variantNumber": "OGN-058",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Meditation",
+        "quantity": 1,
+        "variantNumber": "OGN-048",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "First Mate",
+        "quantity": 2,
+        "variantNumber": "OGN-132",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "En Garde",
+        "quantity": 2,
+        "variantNumber": "OGN-046",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Stalwart Poro",
+        "quantity": 1,
+        "variantNumber": "OGN-052",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 1,
+        "variantNumber": "SFD-109",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Disarming Rake",
+        "quantity": 1,
+        "variantNumber": "SFD-032",
+        "type": "Unit",
+        "energy": 3,
+        "might": 2,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Tasty Faefolk",
+        "quantity": 1,
+        "variantNumber": "OGN-075",
+        "type": "Unit",
+        "energy": 7,
+        "might": 6,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Warmog's Armor",
+        "quantity": 1,
+        "variantNumber": "SFD-108",
+        "type": "Gear",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Deadbloom Predator",
+        "quantity": 1,
+        "variantNumber": "OGN-161",
+        "type": "Unit",
+        "energy": 8,
+        "might": 8,
+        "power": 2,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Whiteflame Protector",
+        "quantity": 1,
+        "variantNumber": "OGN-082",
+        "type": "Unit",
+        "energy": 8,
+        "might": 8,
+        "power": 2,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Stellacorn Herder",
+        "quantity": 1,
+        "variantNumber": "SFD-048",
+        "type": "Unit",
+        "energy": 4,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c2fa592a-044d-48f2-9914-e97d46f8d494",
+    "name": "Best-Of Teemo - 327th Place - Dalian Regional Open",
+    "legend": "Teemo, Swift Scout",
+    "legend_variant": "OGN-263",
+    "legend_colors": [
+      "Mind",
+      "Chaos"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "327th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Teemo, Scout",
+        "quantity": 1,
+        "variantNumber": "OGN-197",
+        "type": "Unit",
+        "energy": 2,
+        "might": 1,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Ravenbloom Conservatory",
+        "quantity": 1,
+        "variantNumber": "SFD-215",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Papertree",
+        "quantity": 1,
+        "variantNumber": "SFD-219",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Bandle Tree",
+        "quantity": 1,
+        "variantNumber": "OGN-278",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Mind Rune",
+        "quantity": 5,
+        "variantNumber": "OGN-089",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 7,
+        "variantNumber": "OGN-166",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Beast Below",
+        "quantity": 2,
+        "variantNumber": "SFD-132",
+        "type": "Unit",
+        "energy": 7,
+        "might": 8,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 2,
+        "variantNumber": "OGN-116",
+        "type": "Unit",
+        "energy": 7,
+        "might": 7,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Called Shot",
+        "quantity": 2,
+        "variantNumber": "SFD-122",
+        "type": "Spell",
+        "energy": 0,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Factory Recall",
+        "quantity": 2,
+        "variantNumber": "SFD-135",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Switcheroo",
+        "quantity": 3,
+        "variantNumber": "SFD-145",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Temptation",
+        "quantity": 1,
+        "variantNumber": "SFD-129",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Invert Timelines",
+        "quantity": 1,
+        "variantNumber": "OGN-201",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Edge of Night",
+        "quantity": 1,
+        "variantNumber": "SFD-139",
+        "type": "Gear",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Chemtech Cask",
+        "quantity": 2,
+        "variantNumber": "SFD-063",
+        "type": "Gear",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 2,
+        "variantNumber": "SFD-136",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 1,
+        "variantNumber": "OGN-172",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 2,
+        "variantNumber": "OGN-095",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Ember Monk",
+        "quantity": 3,
+        "variantNumber": "OGN-167",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Sprite Mother",
+        "quantity": 2,
+        "variantNumber": "OGN-106",
+        "type": "Unit",
+        "energy": 4,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Gust",
+        "quantity": 2,
+        "variantNumber": "OGN-169",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Consult the Past",
+        "quantity": 2,
+        "variantNumber": "OGN-083",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Garbage Grabber",
+        "quantity": 1,
+        "variantNumber": "OGN-099",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Blastcone Fae",
+        "quantity": 2,
+        "variantNumber": "OGN-097",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Fight or Flight",
+        "quantity": 3,
+        "variantNumber": "OGN-168",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Ravenbloom Student",
+        "quantity": 3,
+        "variantNumber": "OGN-103",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "id": "edd6cbda-5092-4032-ae51-6abfd8ea370a",
+    "name": "Best-Of Lux - 36th Place - Dalian Regional Open",
+    "legend": "Lux, Lady of Luminosity",
+    "legend_variant": "OGS-021",
+    "legend_colors": [
+      "Order",
+      "Mind"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "36th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Lux, Crownguard",
+        "quantity": 1,
+        "variantNumber": "OGS-014",
+        "type": "Unit",
+        "energy": 4,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Sigil of the Storm",
+        "quantity": 1,
+        "variantNumber": "OGN-287",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "variantNumber": "OGN-276",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "variantNumber": "OGN-295",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Mind Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-089",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-214",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Vanguard Armory",
+        "quantity": 3,
+        "variantNumber": "SFD-168",
+        "type": "Gear",
+        "energy": 7,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 3,
+        "variantNumber": "SFD-080",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Drag Under",
+        "quantity": 3,
+        "variantNumber": "SFD-164",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Imperial Decree",
+        "quantity": 3,
+        "variantNumber": "OGN-221",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 3,
+        "variantNumber": "OGN-209",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Card Sharp",
+        "quantity": 2,
+        "variantNumber": "SFD-081",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Wages of Pain",
+        "quantity": 3,
+        "variantNumber": "SFD-070",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Time Warp",
+        "quantity": 1,
+        "variantNumber": "OGN-122",
+        "type": "Spell",
+        "energy": 10,
+        "might": 0,
+        "power": 4,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Jayce, Man of Progress",
+        "quantity": 2,
+        "variantNumber": "SFD-084",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Progress Day",
+        "quantity": 1,
+        "variantNumber": "OGN-114",
+        "type": "Spell",
+        "energy": 6,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Forge of the Future",
+        "quantity": 2,
+        "variantNumber": "OGN-212",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Seal of Unity",
+        "quantity": 2,
+        "variantNumber": "OGN-245",
+        "type": "Gear",
+        "energy": 0,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 2,
+        "variantNumber": "OGN-213",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 2,
+        "variantNumber": "OGN-095",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Singularity",
+        "quantity": 3,
+        "variantNumber": "OGN-105",
+        "type": "Spell",
+        "energy": 6,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Falling Comet",
+        "quantity": 2,
+        "variantNumber": "OGN-085",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Divine Judgment",
+        "quantity": 1,
+        "variantNumber": "OGN-244",
+        "type": "Spell",
+        "energy": 7,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Recruit the Vanguard",
+        "quantity": 3,
+        "variantNumber": "OGS-015",
+        "type": "Spell",
+        "energy": 6,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Unchecked Power",
+        "quantity": 1,
+        "variantNumber": "OGN-123",
+        "type": "Spell",
+        "energy": 7,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Blood Money",
+        "quantity": 2,
+        "variantNumber": "SFD-162",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "162a5a38-1660-4b05-b75e-a3997dc0f751",
+    "name": "Best-Of Azir - 46th Place - Dalian Regional Open",
+    "legend": "Azir, Emperor of the Sands",
+    "legend_variant": "SFD-197",
+    "legend_colors": [
+      "Calm",
+      "Order"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "46th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Azir, Sovereign",
+        "quantity": 1,
+        "variantNumber": "SFD-177",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Trifarian War Camp",
+        "quantity": 1,
+        "variantNumber": "OGN-294",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Ornn's Forge",
+        "quantity": 1,
+        "variantNumber": "SFD-213",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "variantNumber": "OGN-295",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-214",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-042",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Desert's Call",
+        "quantity": 2,
+        "variantNumber": "SFD-031",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Deathgrip",
+        "quantity": 3,
+        "variantNumber": "SFD-163",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 3,
+        "variantNumber": "OGN-209",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "variantNumber": "OGN-213",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Arise!",
+        "quantity": 3,
+        "variantNumber": "SFD-198",
+        "type": "Spell",
+        "energy": 6,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm",
+          "Order"
+        ]
+      },
+      {
+        "name": "Doran's Shield",
+        "quantity": 3,
+        "variantNumber": "SFD-033",
+        "type": "Gear",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Eye of the Herald",
+        "quantity": 3,
+        "variantNumber": "SFD-153",
+        "type": "Gear",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Brutalizer",
+        "quantity": 3,
+        "variantNumber": "SFD-042",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "B.F. Sword",
+        "quantity": 3,
+        "variantNumber": "SFD-161",
+        "type": "Gear",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Guards!",
+        "quantity": 2,
+        "variantNumber": "SFD-154",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 2,
+        "variantNumber": "SFD-036",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 2,
+        "variantNumber": "SFD-051",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Facebreaker",
+        "quantity": 1,
+        "variantNumber": "OGN-220",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "variantNumber": "OGN-045",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "variantNumber": "OGN-058",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Vengeance",
+        "quantity": 1,
+        "variantNumber": "OGN-229",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Defy",
+        "quantity": 1,
+        "variantNumber": "OGN-045",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Noxian Drummer",
+        "quantity": 2,
+        "variantNumber": "OGN-222",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "variantNumber": "SFD-045",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "0ca45ba3-0643-4ea1-9b68-5a92dce6a4cb",
+    "name": "Best-Of Sett - 51st Place - Dalian Regional Open",
+    "legend": "Sett, The Boss",
+    "legend_variant": "OGN-269",
+    "legend_colors": [
+      "Body",
+      "Order"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "51st Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Sett, Brawler",
+        "quantity": 1,
+        "variantNumber": "OGN-164",
+        "type": "Unit",
+        "energy": 5,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "variantNumber": "SFD-218",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Monastery of Hirana",
+        "quantity": 1,
+        "variantNumber": "OGN-282",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Dreaming Tree",
+        "quantity": 1,
+        "variantNumber": "OGN-292",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Body Rune",
+        "quantity": 8,
+        "variantNumber": "OGN-126",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 4,
+        "variantNumber": "OGN-214",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Showstopper",
+        "quantity": 3,
+        "variantNumber": "OGN-270",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body",
+          "Order"
+        ]
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "variantNumber": "OGN-213",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Sea Monkey",
+        "quantity": 3,
+        "variantNumber": "SFD-098",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Deathgrip",
+        "quantity": 3,
+        "variantNumber": "SFD-163",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Unsung Hero",
+        "quantity": 3,
+        "variantNumber": "SFD-167",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Fae Dragon",
+        "quantity": 2,
+        "variantNumber": "SFD-101",
+        "type": "Unit",
+        "energy": 7,
+        "might": 7,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Lucian, Merciless",
+        "quantity": 2,
+        "variantNumber": "SFD-113",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Fiora, Victorious",
+        "quantity": 2,
+        "variantNumber": "OGN-232",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Boneshiver",
+        "quantity": 3,
+        "variantNumber": "SFD-118",
+        "type": "Gear",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 2,
+        "variantNumber": "OGN-156",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Call to Glory",
+        "quantity": 2,
+        "variantNumber": "OGN-207",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 2,
+        "variantNumber": "SFD-109",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "variantNumber": "OGN-128",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Pit Rookie",
+        "quantity": 3,
+        "variantNumber": "OGN-136",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "First Mate",
+        "quantity": 3,
+        "variantNumber": "OGN-132",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Facebreaker",
+        "quantity": 2,
+        "variantNumber": "OGN-220",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Kinkou Monk",
+        "quantity": 1,
+        "variantNumber": "OGN-141",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Harnessed Dragon",
+        "quantity": 2,
+        "variantNumber": "OGN-234",
+        "type": "Unit",
+        "energy": 8,
+        "might": 6,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Yone, Blademaster",
+        "quantity": 2,
+        "variantNumber": "SFD-116",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Lucian, Merciless",
+        "quantity": 1,
+        "variantNumber": "SFD-113",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "564d401d-8ee0-4cf1-b378-d59333344234",
+    "name": "Best-Of Viktor - 58th Place - Dalian Regional Open",
+    "legend": "Viktor, Herald of the Arcane",
+    "legend_variant": "OGN-265",
+    "legend_colors": [
+      "Order",
+      "Mind"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "58th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Viktor, Leader",
+        "quantity": 1,
+        "variantNumber": "OGN-246",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "The Arena's Greatest",
+        "quantity": 1,
+        "variantNumber": "OGN-290",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Trifarian War Camp",
+        "quantity": 1,
+        "variantNumber": "OGN-294",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "variantNumber": "OGN-295",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Mind Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-089",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-214",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Bellows Breath",
+        "quantity": 2,
+        "variantNumber": "SFD-080",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Seal of Unity",
+        "quantity": 2,
+        "variantNumber": "OGN-245",
+        "type": "Gear",
+        "energy": 0,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 3,
+        "variantNumber": "OGN-209",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "variantNumber": "OGN-213",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Blood Money",
+        "quantity": 2,
+        "variantNumber": "SFD-162",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Honest Broker",
+        "quantity": 2,
+        "variantNumber": "SFD-155",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Plundering Poro",
+        "quantity": 2,
+        "variantNumber": "SFD-069",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 3,
+        "variantNumber": "OGN-116",
+        "type": "Unit",
+        "energy": 7,
+        "might": 7,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Xin Zhao, Vigilant",
+        "quantity": 3,
+        "variantNumber": "SFD-176",
+        "type": "Unit",
+        "energy": 3,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Shen, Kinkou",
+        "quantity": 1,
+        "variantNumber": "OGN-241",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Vanguard Captain",
+        "quantity": 2,
+        "variantNumber": "OGN-218",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Imperial Decree",
+        "quantity": 3,
+        "variantNumber": "OGN-221",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Facebreaker",
+        "quantity": 1,
+        "variantNumber": "OGN-220",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 2,
+        "variantNumber": "OGN-095",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Singularity",
+        "quantity": 3,
+        "variantNumber": "OGN-105",
+        "type": "Spell",
+        "energy": 6,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Vengeance",
+        "quantity": 1,
+        "variantNumber": "OGN-229",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Lecturing Yordle",
+        "quantity": 1,
+        "variantNumber": "OGN-087",
+        "type": "Unit",
+        "energy": 3,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Consult the Past",
+        "quantity": 2,
+        "variantNumber": "OGN-083",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Spectral Matron",
+        "quantity": 1,
+        "variantNumber": "OGN-226",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 2,
+        "colors": [
+          "Order"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Retreat",
+        "quantity": 1,
+        "variantNumber": "OGN-104",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Facebreaker",
+        "quantity": 1,
+        "variantNumber": "OGN-220",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "variantNumber": "OGN-224",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Back to Back",
+        "quantity": 2,
+        "variantNumber": "OGN-206",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Grand Strategem",
+        "quantity": 1,
+        "variantNumber": "OGN-233",
+        "type": "Spell",
+        "energy": 6,
+        "might": 0,
+        "power": 3,
+        "colors": [
+          "Order"
+        ]
+      },
+      {
+        "name": "Riptide Rex",
+        "quantity": 1,
+        "variantNumber": "OGN-092",
+        "type": "Unit",
+        "energy": 6,
+        "might": 6,
+        "power": 2,
+        "colors": [
+          "Mind"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b5f7dda6-3d49-4ca7-9dc9-1d1e58ccc0e4",
+    "name": "Best-Of Ahri - 73rd Place - Dalian Regional Open",
+    "legend": "Ahri, Nine-Tailed Fox",
+    "legend_variant": "OGN-255",
+    "legend_colors": [
+      "Calm",
+      "Mind"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "73rd Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Ahri, Alluring",
+        "quantity": 1,
+        "variantNumber": "OGN-066",
+        "type": "Unit",
+        "energy": 5,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Ravenbloom Conservatory",
+        "quantity": 1,
+        "variantNumber": "SFD-215",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Grove of the God-Willow",
+        "quantity": 1,
+        "variantNumber": "OGN-280",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Dreaming Tree",
+        "quantity": 1,
+        "variantNumber": "OGN-292",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-042",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-089",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Tasty Faefolk",
+        "quantity": 2,
+        "variantNumber": "OGN-075",
+        "type": "Unit",
+        "energy": 7,
+        "might": 6,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 2,
+        "variantNumber": "OGN-116",
+        "type": "Unit",
+        "energy": 7,
+        "might": 7,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Time Warp",
+        "quantity": 2,
+        "variantNumber": "OGN-122",
+        "type": "Spell",
+        "energy": 10,
+        "might": 0,
+        "power": 4,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Seal of Insight",
+        "quantity": 1,
+        "variantNumber": "OGN-120",
+        "type": "Gear",
+        "energy": 0,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 1,
+        "variantNumber": "OGN-077",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Plundering Poro",
+        "quantity": 3,
+        "variantNumber": "SFD-069",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Sprite Mother",
+        "quantity": 2,
+        "variantNumber": "OGN-106",
+        "type": "Unit",
+        "energy": 4,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Eager Apprentice",
+        "quantity": 2,
+        "variantNumber": "OGN-084",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 1,
+        "variantNumber": "SFD-040",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 2,
+        "variantNumber": "SFD-036",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Janna, Savior",
+        "quantity": 1,
+        "variantNumber": "SFD-053",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Feral Strength",
+        "quantity": 2,
+        "variantNumber": "SFD-034",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 1,
+        "variantNumber": "SFD-045",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 3,
+        "variantNumber": "OGN-095",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Charm",
+        "quantity": 2,
+        "variantNumber": "OGN-043",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "variantNumber": "OGN-045",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "variantNumber": "OGN-058",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Consult the Past",
+        "quantity": 2,
+        "variantNumber": "OGN-083",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Ravenbloom Student",
+        "quantity": 3,
+        "variantNumber": "OGN-103",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "En Garde",
+        "quantity": 2,
+        "variantNumber": "OGN-046",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Retreat",
+        "quantity": 1,
+        "variantNumber": "OGN-104",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Block",
+        "quantity": 2,
+        "variantNumber": "OGN-057",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Unchecked Power",
+        "quantity": 1,
+        "variantNumber": "OGN-123",
+        "type": "Spell",
+        "energy": 7,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Ahri, Inquisitive",
+        "quantity": 1,
+        "variantNumber": "OGN-119",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Disarming Rake",
+        "quantity": 1,
+        "variantNumber": "SFD-032",
+        "type": "Unit",
+        "energy": 3,
+        "might": 2,
+        "power": 1,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Emperor's Divide",
+        "quantity": 1,
+        "variantNumber": "SFD-043",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Calm"
+        ]
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 1,
+        "variantNumber": "OGN-064",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Calm"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a0f4ad23-954b-424c-9994-042399e670ba",
+    "name": "Best-Of Annie - 74th Place - Dalian Regional Open",
+    "legend": "Annie, Dark Child",
+    "legend_variant": "OGS-017",
+    "legend_colors": [
+      "Fury",
+      "Chaos"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "74th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Annie, Stubborn",
+        "quantity": 1,
+        "variantNumber": "OGS-010",
+        "type": "Unit",
+        "energy": 4,
+        "might": 3,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Startipped Peak",
+        "quantity": 1,
+        "variantNumber": "OGN-288",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Dreaming Tree",
+        "quantity": 1,
+        "variantNumber": "OGN-292",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Obelisk of Power",
+        "quantity": 1,
+        "variantNumber": "OGN-284",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Chaos Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-166",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 6,
+        "variantNumber": "OGN-007",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Piercing Light",
+        "quantity": 1,
+        "variantNumber": "SFD-023",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 2,
+        "variantNumber": "SFD-136",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Switcheroo",
+        "quantity": 2,
+        "variantNumber": "SFD-145",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Flash",
+        "quantity": 3,
+        "variantNumber": "OGS-011",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Invert Timelines",
+        "quantity": 1,
+        "variantNumber": "OGN-201",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Draven, Vanquisher",
+        "quantity": 2,
+        "variantNumber": "SFD-020",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Darius, Trifarian",
+        "quantity": 2,
+        "variantNumber": "OGN-027",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "quantity": 3,
+        "variantNumber": "OGN-039",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Tideturner",
+        "quantity": 3,
+        "variantNumber": "OGN-199",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Treasure Hunter",
+        "quantity": 3,
+        "variantNumber": "SFD-130",
+        "type": "Unit",
+        "energy": 2,
+        "might": 1,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 2,
+        "variantNumber": "SFD-021",
+        "type": "Unit",
+        "energy": 6,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Against the Odds",
+        "quantity": 1,
+        "variantNumber": "SFD-001",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 2,
+        "variantNumber": "OGN-172",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Cleave",
+        "quantity": 2,
+        "variantNumber": "OGN-004",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Pouty Poro",
+        "quantity": 2,
+        "variantNumber": "OGN-013",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Fight or Flight",
+        "quantity": 2,
+        "variantNumber": "OGN-168",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Stacked Deck",
+        "quantity": 3,
+        "variantNumber": "OGN-183",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Sneaky Deckhand",
+        "quantity": 3,
+        "variantNumber": "OGN-176",
+        "type": "Unit",
+        "energy": 3,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Chaos"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Piercing Light",
+        "quantity": 1,
+        "variantNumber": "SFD-023",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Invert Timelines",
+        "quantity": 1,
+        "variantNumber": "OGN-201",
+        "type": "Spell",
+        "energy": 3,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "variantNumber": "OGN-026",
+        "type": "Unit",
+        "energy": 6,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Mindsplitter",
+        "quantity": 1,
+        "variantNumber": "OGN-192",
+        "type": "Unit",
+        "energy": 7,
+        "might": 7,
+        "power": 2,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Ride the Wind",
+        "quantity": 2,
+        "variantNumber": "OGN-173",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Chaos"
+        ]
+      },
+      {
+        "name": "Against the Odds",
+        "quantity": 1,
+        "variantNumber": "SFD-001",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c1ff31dc-b053-4b27-b689-cd96777b1708",
+    "name": "Best-Of Rumble - 80th Place - Dalian Regional Open",
+    "legend": "Rumble, Mechanized Menace",
+    "legend_variant": "SFD-181",
+    "legend_colors": [
+      "Fury",
+      "Mind"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "80th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Rumble, Hotheaded",
+        "quantity": 1,
+        "variantNumber": "SFD-026",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Forgotten Monument",
+        "quantity": 1,
+        "variantNumber": "SFD-209",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "variantNumber": "OGN-295",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "The Grand Plaza",
+        "quantity": 1,
+        "variantNumber": "OGN-293",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Fury Rune",
+        "quantity": 7,
+        "variantNumber": "OGN-007",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 5,
+        "variantNumber": "OGN-089",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Rumble, Hotheaded",
+        "quantity": 2,
+        "variantNumber": "SFD-026",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Rumble, Scrapper",
+        "quantity": 3,
+        "variantNumber": "SFD-089",
+        "type": "Unit",
+        "energy": 5,
+        "might": 4,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Gem Jammer",
+        "quantity": 3,
+        "variantNumber": "SFD-007",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 3,
+        "variantNumber": "SFD-021",
+        "type": "Unit",
+        "energy": 6,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Bubble Bot",
+        "quantity": 3,
+        "variantNumber": "SFD-062",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Forecaster",
+        "quantity": 3,
+        "variantNumber": "SFD-065",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Breakneck Mech",
+        "quantity": 2,
+        "variantNumber": "SFD-071",
+        "type": "Unit",
+        "energy": 8,
+        "might": 7,
+        "power": 2,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "variantNumber": "OGN-026",
+        "type": "Unit",
+        "energy": 6,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 2,
+        "variantNumber": "OGN-116",
+        "type": "Unit",
+        "energy": 7,
+        "might": 7,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "quantity": 3,
+        "variantNumber": "OGN-039",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Piercing Light",
+        "quantity": 2,
+        "variantNumber": "SFD-023",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Production Surge",
+        "quantity": 2,
+        "variantNumber": "SFD-076",
+        "type": "Spell",
+        "energy": 4,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Falling Star",
+        "quantity": 2,
+        "variantNumber": "OGN-029",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Long Sword",
+        "quantity": 2,
+        "variantNumber": "SFD-022",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Danger Zone",
+        "quantity": 1,
+        "variantNumber": "SFD-182",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury",
+          "Mind"
+        ]
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 3,
+        "variantNumber": "OGN-095",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Thermo Beam",
+        "quantity": 1,
+        "variantNumber": "OGN-022",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Thermo Beam",
+        "quantity": 1,
+        "variantNumber": "OGN-022",
+        "type": "Spell",
+        "energy": 5,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Singularity",
+        "quantity": 1,
+        "variantNumber": "OGN-105",
+        "type": "Spell",
+        "energy": 6,
+        "might": 0,
+        "power": 2,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Minotaur Reckoner",
+        "quantity": 2,
+        "variantNumber": "SFD-014",
+        "type": "Unit",
+        "energy": 5,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 2,
+        "variantNumber": "SFD-080",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Time Warp",
+        "quantity": 1,
+        "variantNumber": "OGN-122",
+        "type": "Spell",
+        "energy": 10,
+        "might": 0,
+        "power": 4,
+        "colors": [
+          "Mind"
+        ]
+      },
+      {
+        "name": "Against the Odds",
+        "quantity": 1,
+        "variantNumber": "SFD-001",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f09914fe-50f7-4e33-88c9-caceaf7c8292",
+    "name": "Best-Of Lucian - 9th Place - Dalian Regional Open",
+    "legend": "Lucian, Purifier",
+    "legend_variant": "SFD-183",
+    "legend_colors": [
+      "Body",
+      "Fury"
+    ],
+    "is_legal": true,
+    "banned_cards": [],
+    "source": "piltoverarchive.com",
+    "event": "9th Place-Dalian Regional Open",
+    "author": "runesandrift",
+    "champions": [
+      {
+        "name": "Lucian, Merciless",
+        "quantity": 1,
+        "variantNumber": "SFD-113",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "Forge of the Fluft",
+        "quantity": 1,
+        "variantNumber": "SFD-208",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "variantNumber": "SFD-218",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      },
+      {
+        "name": "Zaun Warrens",
+        "quantity": 1,
+        "variantNumber": "OGN-298",
+        "type": "Battlefield",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": []
+      }
+    ],
+    "runes": [
+      {
+        "name": "Fury Rune",
+        "quantity": 4,
+        "variantNumber": "OGN-007",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 8,
+        "variantNumber": "OGN-126",
+        "type": "Rune",
+        "energy": 0,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "maindeck": [
+      {
+        "name": "Lucian, Merciless",
+        "quantity": 2,
+        "variantNumber": "SFD-113",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "quantity": 2,
+        "variantNumber": "OGN-039",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Gem Jammer",
+        "quantity": 3,
+        "variantNumber": "SFD-007",
+        "type": "Unit",
+        "energy": 2,
+        "might": 2,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 3,
+        "variantNumber": "OGN-026",
+        "type": "Unit",
+        "energy": 6,
+        "might": 5,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Skyfall of Areion",
+        "quantity": 3,
+        "variantNumber": "SFD-030",
+        "type": "Gear",
+        "energy": 3,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Trinity Force",
+        "quantity": 3,
+        "variantNumber": "SFD-115",
+        "type": "Gear",
+        "energy": 4,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Doran's Blade",
+        "quantity": 2,
+        "variantNumber": "SFD-095",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Hexdrinker",
+        "quantity": 1,
+        "variantNumber": "SFD-102",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Relentless Pursuit",
+        "quantity": 3,
+        "variantNumber": "SFD-184",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body",
+          "Fury"
+        ]
+      },
+      {
+        "name": "Piercing Light",
+        "quantity": 2,
+        "variantNumber": "SFD-023",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Angle Shot",
+        "quantity": 1,
+        "variantNumber": "SFD-011",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 2,
+        "variantNumber": "OGN-156",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 1,
+        "variantNumber": "SFD-021",
+        "type": "Unit",
+        "energy": 6,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Noxus Hopeful",
+        "quantity": 3,
+        "variantNumber": "OGN-012",
+        "type": "Unit",
+        "energy": 4,
+        "might": 4,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "variantNumber": "OGN-128",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "First Mate",
+        "quantity": 2,
+        "variantNumber": "OGN-132",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Confront",
+        "quantity": 3,
+        "variantNumber": "OGN-129",
+        "type": "Spell",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 2,
+        "variantNumber": "SFD-021",
+        "type": "Unit",
+        "energy": 6,
+        "might": 6,
+        "power": 1,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Blood Rush",
+        "quantity": 2,
+        "variantNumber": "SFD-003",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Fury"
+        ]
+      },
+      {
+        "name": "Hexdrinker",
+        "quantity": 1,
+        "variantNumber": "SFD-102",
+        "type": "Gear",
+        "energy": 2,
+        "might": 0,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "Unyielding Spirit",
+        "quantity": 2,
+        "variantNumber": "OGN-145",
+        "type": "Spell",
+        "energy": 1,
+        "might": 0,
+        "power": 1,
+        "colors": [
+          "Body"
+        ]
+      },
+      {
+        "name": "First Mate",
+        "quantity": 1,
+        "variantNumber": "OGN-132",
+        "type": "Unit",
+        "energy": 3,
+        "might": 3,
+        "power": 0,
+        "colors": [
+          "Body"
+        ]
+      }
+    ]
+  }
+]

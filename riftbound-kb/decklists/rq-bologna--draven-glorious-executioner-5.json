@@ -1,0 +1,201 @@
+{
+  "decklist_id": "rq-bologna--draven-glorious-executioner-5",
+  "event_id": "rq-bologna",
+  "player": "Prismaticismism",
+  "legend": "Draven, Glorious Executioner",
+  "placement": 5,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": "sfd-012-221",
+      "count": 3,
+      "name": "Battering Ram",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-004-221",
+      "count": 2,
+      "name": "Bushwhack",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-122-221",
+      "count": 3,
+      "name": "Called Shot",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-149a-221",
+      "count": 3,
+      "name": "Ezreal, Prodigy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 2,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-140-221",
+      "count": 2,
+      "name": "Fizz, Trickster",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "count": 1,
+      "name": "Hard Bargain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-194-298",
+      "count": 3,
+      "name": "Nocturne, Horrifying",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-012-298",
+      "count": 1,
+      "name": "Noxus Hopeful",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-023-221",
+      "count": 1,
+      "name": "Piercing Light",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 1,
+      "name": "Rebuke",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-195-298",
+      "count": 3,
+      "name": "Rhasa the Sunderer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-182-298",
+      "count": 3,
+      "name": "Scrapheap",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-234-221",
+      "count": 3,
+      "name": "Seal of Discord",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-186-221",
+      "count": 2,
+      "name": "Spinning Axe",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-185-298",
+      "count": 3,
+      "name": "Traveling Merchant",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-026-298",
+      "count": 1,
+      "name": "Brynhir Thundersong",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "count": 1,
+      "name": "Hard Bargain",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-201-298",
+      "count": 1,
+      "name": "Invert Timelines",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-150-221",
+      "count": 1,
+      "name": "Last Rites",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-023-221",
+      "count": 1,
+      "name": "Piercing Light",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 1,
+      "name": "Rebuke",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-145-221",
+      "count": 1,
+      "name": "Switcheroo",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-022-298",
+      "count": 1,
+      "name": "Thermo Beam",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-291-298",
+      "count": 1,
+      "name": "The Candlelit Sanctum",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-298-298",
+      "count": 1,
+      "name": "Zaun Warrens",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 7,
+      "name": "Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 5,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Prismaticismism"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Draven, Vanquisher | deck_type=top_8"
+}

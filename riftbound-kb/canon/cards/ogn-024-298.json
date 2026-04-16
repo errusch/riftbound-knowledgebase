@@ -1,0 +1,66 @@
+{
+  "card_id": "ogn-024-298",
+  "name": "Void Seeker",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "24",
+  "public_code": "OGN-024/298",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Fury"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 3,
+    "might_bonus": null
+  },
+  "text": "[Action] (Play on your turn or in showdowns.)\nDeal 4 to a unit at a battlefield. Draw 1.",
+  "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Deal 4 to a unit at a battlefield. Draw 1.</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/5b64b63c6be58ff3c33c7fb3c2dcb168d64e287e-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Spell: Void Seeker. [Action] (Play on your turn or in showdowns.)\nDeal 4 to a unit at a battlefield. Draw 1.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

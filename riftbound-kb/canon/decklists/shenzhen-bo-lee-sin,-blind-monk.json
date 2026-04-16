@@ -1,0 +1,445 @@
+{
+  "id": "f91a681a-79ee-48d2-8610-d338f04a31ce",
+  "name": "115 - Best-Of Lee Sin - Shenzhen National Open",
+  "legend": "Lee Sin, Blind Monk",
+  "legend_variant": "OGN-257",
+  "legend_id": "1221bac0-5ae0-4dac-a192-608d80dd0a25",
+  "legend_colors": [
+    "Body",
+    "Calm"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Lee Sin, Centered",
+      "quantity": 1,
+      "variantNumber": "OGN-151",
+      "type": "Unit",
+      "energy": 6,
+      "might": 6,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Monastery of Hirana",
+      "quantity": 1,
+      "variantNumber": "OGN-282",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Sunken Temple",
+      "quantity": 1,
+      "variantNumber": "SFD-218",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "The Dreaming Tree",
+      "quantity": 1,
+      "variantNumber": "OGN-292",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Calm Rune",
+      "quantity": 5,
+      "variantNumber": "OGN-042",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Body Rune",
+      "quantity": 7,
+      "variantNumber": "OGN-126",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "First Mate",
+      "quantity": 3,
+      "variantNumber": "OGN-132",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Ruin Runner",
+      "quantity": 2,
+      "variantNumber": "SFD-105",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Guardian Angel",
+      "quantity": 3,
+      "variantNumber": "SFD-051",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "quantity": 2,
+      "variantNumber": "OGN-077",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 2,
+      "variantNumber": "SFD-045",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Punch First",
+      "quantity": 2,
+      "variantNumber": "SFD-097",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Defy",
+      "quantity": 2,
+      "variantNumber": "OGN-045",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Discipline",
+      "quantity": 3,
+      "variantNumber": "OGN-058",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Challenge",
+      "quantity": 2,
+      "variantNumber": "OGN-128",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Charm",
+      "quantity": 2,
+      "variantNumber": "OGN-043",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Find Your Center",
+      "quantity": 2,
+      "variantNumber": "OGN-047",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 1,
+      "variantNumber": "SFD-109",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Janna, Savior",
+      "quantity": 1,
+      "variantNumber": "SFD-053",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Navori Scout",
+      "quantity": 2,
+      "variantNumber": "SFD-037",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 1,
+      "variantNumber": "OGN-156",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Irelia, Fervent",
+      "quantity": 3,
+      "variantNumber": "SFD-057",
+      "type": "Unit",
+      "energy": 5,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Mistfall",
+      "quantity": 1,
+      "variantNumber": "OGN-152",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Wallop",
+      "quantity": 1,
+      "variantNumber": "OGN-146",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Doran's Blade",
+      "quantity": 1,
+      "variantNumber": "SFD-095",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Wind Wall",
+      "quantity": 1,
+      "variantNumber": "OGN-064",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Miss Fortune, Captain",
+      "quantity": 1,
+      "variantNumber": "OGN-162",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Dragon's Rage",
+      "quantity": 1,
+      "variantNumber": "OGN-258",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body",
+        "Calm"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Defy",
+      "quantity": 1,
+      "variantNumber": "OGN-045",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Unyielding Spirit",
+      "quantity": 1,
+      "variantNumber": "OGN-145",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 1,
+      "variantNumber": "SFD-109",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Challenge",
+      "quantity": 1,
+      "variantNumber": "OGN-128",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 1,
+      "variantNumber": "SFD-045",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Disarming Rake",
+      "quantity": 1,
+      "variantNumber": "SFD-032",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Lonely Poro",
+      "quantity": 2,
+      "variantNumber": "SFD-036",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

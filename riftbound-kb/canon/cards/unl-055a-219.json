@@ -1,0 +1,72 @@
+{
+  "card_id": "unl-055a-219",
+  "name": "Vex, Mocking",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "55",
+  "public_code": "UNL-055a/219",
+  "card_type": "Unit",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Calm"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": 5,
+    "health": null,
+    "reserve": 5,
+    "might_bonus": null
+  },
+  "text": "[Shield]\n[Tank]\nWhen you [Stun] an enemy unit at a battlefield, you may move me to that battlefield.",
+  "text_rich": "<p>[Shield]<br />[Tank]<br />When you [Stun] an enemy unit at a battlefield, you may move me to that battlefield.</p>",
+  "rarity": "Showcase",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/9594ce4be31689c364a43954a541c4391fe0d4f3-744x1039.png"
+  },
+  "artist": "League Splash Team",
+  "accessibility_text": "Riftbound Unit: Vex, Mocking. [Shield]\n[Tank]\nWhen you [Stun] an enemy unit at a battlefield, you may move me to that battlefield.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "flags",
+      "id",
+      "illustrator",
+      "might",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

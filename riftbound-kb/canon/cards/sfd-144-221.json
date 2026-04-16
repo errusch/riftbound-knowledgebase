@@ -1,0 +1,65 @@
+{
+  "card_id": "sfd-144-221",
+  "name": "Spirit Wheel",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "144",
+  "public_code": "SFD-144/221",
+  "card_type": "Gear",
+  "subtypes": [],
+  "domains": [
+    "Chaos"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 2,
+    "might_bonus": null
+  },
+  "text": "When you choose a friendly unit, you may pay :rb_energy_1: and exhaust this to draw 1.",
+  "text_rich": "<p>When you choose a friendly unit, you may pay :rb_energy_1: and exhaust this to draw 1.</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d83d994e6dc7949eb783da16f4bbdb64342a8dfb-744x1039.png"
+  },
+  "artist": "Six More Vodka",
+  "accessibility_text": "Riftbound Gear: Spirit Wheel. When you choose a friendly unit, you may pay [1] and exhaust this to draw 1.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

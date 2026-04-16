@@ -1,0 +1,65 @@
+{
+  "card_id": "unl-101-219",
+  "name": "Call to Battle",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "101",
+  "public_code": "UNL-101/219",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Body"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 3,
+    "might_bonus": null
+  },
+  "text": "Move a unit you control to a battlefield you control. Then, choose an opponent. They move a unit they control to the same battlefield.",
+  "text_rich": "<p>Move a unit you control to a battlefield you control. Then, choose an opponent. They move a unit they control to the same battlefield.</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/3c7e0f93c72654f786f5df37895c6e95fa9d4d60-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Spell: Call to Battle. Move a unit you control to a battlefield you control. Then, choose an opponent. They move a unit they control to the same battlefield.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

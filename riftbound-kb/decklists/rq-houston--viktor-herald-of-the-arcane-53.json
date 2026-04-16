@@ -1,0 +1,171 @@
+{
+  "decklist_id": "rq-houston--viktor-herald-of-the-arcane-53",
+  "event_id": "rq-houston",
+  "player": "Gambit01",
+  "legend": "Viktor, Herald of the Arcane",
+  "placement": 53,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-207-298",
+      "count": 3,
+      "name": "Call to Glory",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-209-298",
+      "count": 3,
+      "name": "Cull the Weak",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-210-298",
+      "count": 3,
+      "name": "Daring Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-211-298",
+      "count": 3,
+      "name": "Faithful Manufactor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "count": 3,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-087-298",
+      "count": 1,
+      "name": "Lecturing Yordle",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-239-298",
+      "count": 3,
+      "name": "Machine Evangel",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-222-298",
+      "count": 3,
+      "name": "Noxian Drummer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-103-298",
+      "count": 1,
+      "name": "Ravenbloom Student",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-092-298",
+      "count": 3,
+      "name": "Riptide Rex",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-105-298",
+      "count": 3,
+      "name": "Singularity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-106-298",
+      "count": 3,
+      "name": "Sprite Mother",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-095-298",
+      "count": 3,
+      "name": "Stupefy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-116-298",
+      "count": 3,
+      "name": "Thousand-Tailed Watcher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogs-016-024",
+      "count": 1,
+      "name": "Vanguard Attendant",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-208-298",
+      "count": 2,
+      "name": "Cruel Patron",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-233-298",
+      "count": 1,
+      "name": "Grand Strategem",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-221-298",
+      "count": 2,
+      "name": "Imperial Decree",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 2,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-093-298",
+      "count": 1,
+      "name": "Smoke Screen",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-294-298",
+      "count": 1,
+      "name": "Trifarian War Camp",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-295-298",
+      "count": 1,
+      "name": "Vilemaw's Lair",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "count": 7,
+      "name": "Mind Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "count": 5,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Gambit01"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Viktor, Leader | deck_type=best_of"
+}

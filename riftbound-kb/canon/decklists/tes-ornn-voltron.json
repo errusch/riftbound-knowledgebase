@@ -1,0 +1,271 @@
+{
+  "id": "477ce415-f9aa-4741-824c-6b849a342a34",
+  "name": "Ornn Voltron",
+  "legend": "Ornn, Forge God",
+  "source": "turnemsideways.gg",
+  "maindeck": [
+    {
+      "name": "Fire Below the Mountain",
+      "quantity": 1,
+      "type": "Legend",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Azir, Ascendant",
+      "quantity": 2,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 6,
+      "might": 6,
+      "power": 1
+    },
+    {
+      "name": "Ornn, Forge God",
+      "quantity": 3,
+      "type": "Unit",
+      "super": "Champion",
+      "energy": 6,
+      "might": 4,
+      "power": null
+    },
+    {
+      "name": "Seal of Focus",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 0,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Consult the Past",
+      "quantity": 3,
+      "type": "Spell",
+      "super": null,
+      "energy": 4,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Pit Crew",
+      "quantity": 3,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Poro Snax",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Guardian Angel",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": 1,
+      "power": null
+    },
+    {
+      "name": "Svellsongur",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 3,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Cloth Armor",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "World Atlas",
+      "quantity": 3,
+      "type": "Gear",
+      "super": null,
+      "energy": 3,
+      "might": 2,
+      "power": null
+    },
+    {
+      "name": "Defy",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Meditation",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Singularity",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 6,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Wind Wall",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 3,
+      "might": null,
+      "power": 2
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "quantity": 1,
+      "type": "Gear",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Shurelya's Requiem",
+      "quantity": 1,
+      "type": "Gear",
+      "super": "Signature",
+      "energy": 4,
+      "might": 2,
+      "power": 2
+    },
+    {
+      "name": "Aspirant's Climb",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Sigil of the Storm",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Ornn's Forge",
+      "quantity": 1,
+      "type": "Battlefield",
+      "super": null,
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Calm Rune",
+      "quantity": 7,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    },
+    {
+      "name": "Mind Rune",
+      "quantity": 5,
+      "type": "Rune",
+      "super": "Basic",
+      "energy": null,
+      "might": null,
+      "power": null
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Pickpocket",
+      "quantity": 2,
+      "type": "Unit",
+      "super": null,
+      "energy": 3,
+      "might": 3,
+      "power": null
+    },
+    {
+      "name": "Charm",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Bellows Breath",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 1,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Forgefire Cape",
+      "quantity": 1,
+      "type": "Gear",
+      "super": "Signature",
+      "energy": 4,
+      "might": 3,
+      "power": 2
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 1,
+      "type": "Spell",
+      "super": null,
+      "energy": 2,
+      "might": null,
+      "power": 1
+    },
+    {
+      "name": "Wind Wall",
+      "quantity": 2,
+      "type": "Spell",
+      "super": null,
+      "energy": 3,
+      "might": null,
+      "power": 2
+    }
+  ]
+}

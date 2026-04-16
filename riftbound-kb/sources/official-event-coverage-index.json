@@ -1,0 +1,127 @@
+{
+  "generated_at": "2026-04-02T16:13:57.407495Z",
+  "source": "official_news_deep_crawl_phase1",
+  "total_seed_links": 10,
+  "interesting_count": 7,
+  "items": [
+    {
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/flash-promos-and-origins-reprint-updates",
+      "seed_text": "Announcements 2026-03-31T16:00:00.000Z Flash Promos & Origins Reprint Updates Learn about Flash Promos for stores, and updates on Origins and Proving Grounds reprints.",
+      "title": "Flash Promos & Origins Reprint Updates",
+      "source_date": "2026-03-31",
+      "event_type": "regional_qualifier",
+      "coverage_kind": "preview_or_schedule",
+      "region_guess": "US",
+      "mentions": {
+        "regional_qualifier": true,
+        "national_open": false,
+        "best_of": false,
+        "top_decks": false,
+        "top_8": false,
+        "tournament_rules": true
+      }
+    },
+    {
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/march-2026-tournament-rules-update--changelog",
+      "seed_text": "Announcements 2026-03-30T16:00:00.000Z March 2026 Tournament Rules Update & Changelog Here’s the latest updates to the Tournament Rules for Riftbound.",
+      "title": "March 2026 Tournament Rules Update & Changelog",
+      "source_date": "2026-03-30",
+      "event_type": "non_event_or_other",
+      "coverage_kind": "rules_policy",
+      "region_guess": null,
+      "mentions": {
+        "regional_qualifier": false,
+        "national_open": false,
+        "best_of": false,
+        "top_decks": false,
+        "top_8": false,
+        "tournament_rules": true
+      }
+    },
+    {
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/preview-season-unleashed",
+      "seed_text": "Announcements 2026-03-13T16:00:00.000Z Preview Season Unleashed Where and when to find and early look at cards from Riftbound’s third set",
+      "title": "Preview Season Unleashed",
+      "source_date": "2026-03-13",
+      "event_type": "regional_qualifier",
+      "coverage_kind": "preview_or_schedule",
+      "region_guess": "US",
+      "mentions": {
+        "regional_qualifier": true,
+        "national_open": false,
+        "best_of": false,
+        "top_decks": false,
+        "top_8": false,
+        "tournament_rules": true
+      }
+    },
+    {
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/riftbound-at-pax-east-2026",
+      "seed_text": "Announcements 2026-03-06T17:00:00.000Z Riftbound at PAX East 2026 Get the most out of your con experience with this guide",
+      "title": "Riftbound at PAX East 2026",
+      "source_date": "2026-03-06",
+      "event_type": "regional_qualifier",
+      "coverage_kind": "preview_or_schedule",
+      "region_guess": "US",
+      "mentions": {
+        "regional_qualifier": true,
+        "national_open": false,
+        "best_of": false,
+        "top_decks": false,
+        "top_8": false,
+        "tournament_rules": true
+      }
+    },
+    {
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vegas-top-decks",
+      "seed_text": "Organized Play 2026-03-04T17:00:00.000Z Vegas’ Top Decks RQ Vegas’ 1600 players yielded some new looks at the best decks in Riftbound.",
+      "title": "Vegas’ Top Decks",
+      "source_date": "2026-03-04",
+      "event_type": "regional_qualifier",
+      "coverage_kind": "results_or_top_decks",
+      "region_guess": "US",
+      "mentions": {
+        "regional_qualifier": true,
+        "national_open": false,
+        "best_of": true,
+        "top_decks": true,
+        "top_8": false,
+        "tournament_rules": false
+      }
+    },
+    {
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/the-best-decks-out-of-bologna",
+      "seed_text": "Organized Play 2026-02-25T17:00:00.000Z The Best Decks out of Bologna RQ Bologna saw all 28 Legends battle to supremacy, here’s the Best-Of decks and the Top 8!",
+      "title": "The Best Decks out of Bologna",
+      "source_date": "2026-02-25",
+      "event_type": "regional_qualifier",
+      "coverage_kind": "results_or_top_decks",
+      "region_guess": "EU",
+      "mentions": {
+        "regional_qualifier": true,
+        "national_open": false,
+        "best_of": true,
+        "top_decks": false,
+        "top_8": true,
+        "tournament_rules": false
+      }
+    },
+    {
+      "url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/eyes-on-las-vegas-what-to-know",
+      "seed_text": "Announcements 2026-02-23T17:00:00.000Z Eyes On Las Vegas - What to Know Las Vegas steps into the spotlight as Riftbound returns to the U.S. for the next Regional Qualifier.",
+      "title": "Eyes On Las Vegas - What to Know",
+      "source_date": "2026-02-23",
+      "event_type": "regional_qualifier",
+      "coverage_kind": "results_or_top_decks",
+      "region_guess": "US",
+      "mentions": {
+        "regional_qualifier": true,
+        "national_open": false,
+        "best_of": true,
+        "top_decks": false,
+        "top_8": true,
+        "tournament_rules": false
+      }
+    }
+  ]
+}

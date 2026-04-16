@@ -1,0 +1,171 @@
+{
+  "decklist_id": "rq-bologna--rek-sai-void-burrower-98",
+  "event_id": "rq-bologna",
+  "player": "Bulat",
+  "legend": "Rek'Sai, Void Burrower",
+  "placement": 98,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "sfd-003-221",
+      "count": 2,
+      "name": "Blood Rush",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-026-298",
+      "count": 2,
+      "name": "Brynhir Thundersong",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-209-298",
+      "count": 3,
+      "name": "Cull the Weak",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-210-298",
+      "count": 3,
+      "name": "Daring Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-211-298",
+      "count": 2,
+      "name": "Faithful Manufactor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-029-298",
+      "count": 3,
+      "name": "Falling Star",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "count": 2,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-155-221",
+      "count": 3,
+      "name": "Honest Broker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-037-298",
+      "count": 3,
+      "name": "Immortal Phoenix",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-012-298",
+      "count": 3,
+      "name": "Noxus Hopeful",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-023-221",
+      "count": 2,
+      "name": "Piercing Light",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-222-221",
+      "count": 3,
+      "name": "Seal of Rage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-216-298",
+      "count": 2,
+      "name": "Soaring Scout",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-021-298",
+      "count": 2,
+      "name": "Sun Disc",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-175-221",
+      "count": 1,
+      "name": "Undertitan",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-188-221",
+      "count": 3,
+      "name": "Void Rush",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-027a-298",
+      "count": 2,
+      "name": "Darius, Trifarian",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-021-221",
+      "count": 2,
+      "name": "Ferrous Forerunner",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-221-298",
+      "count": 1,
+      "name": "Imperial Decree",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 3,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-290-298",
+      "count": 1,
+      "name": "The Arena's Greatest",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-221-221",
+      "count": 1,
+      "name": "Veiled Temple",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-298-298",
+      "count": 1,
+      "name": "Zaun Warrens",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 8,
+      "name": "Fury Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "count": 4,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Bulat"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Rek'Sai, Breacher | deck_type=best_of"
+}

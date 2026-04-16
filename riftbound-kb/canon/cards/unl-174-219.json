@@ -1,0 +1,66 @@
+{
+  "card_id": "unl-174-219",
+  "name": "Shard of Undoing",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "174",
+  "public_code": "UNL-174/219",
+  "card_type": "Gear",
+  "subtypes": [],
+  "domains": [
+    "Order"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 6,
+    "might_bonus": null
+  },
+  "text": "The first time a friendly unit dies during your Beginning Phase each turn, each opponent must kill one of their units.",
+  "text_rich": "<p>The first time a friendly unit dies during your Beginning Phase each turn, each opponent must kill one of their units.</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/d167f4e37714f0f8983fce16a9c657bc7ce39642-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Gear: Shard of Undoing. The first time a friendly unit dies during your Beginning Phase each turn, each opponent must kill one of their units.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "flags",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

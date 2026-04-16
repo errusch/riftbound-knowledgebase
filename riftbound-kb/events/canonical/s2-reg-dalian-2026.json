@@ -1,0 +1,86 @@
+{
+  "event_id": "s2-reg-dalian-2026",
+  "event_type": "other_official_event",
+  "event_name": "Season 2 Regional: Dalian",
+  "region": null,
+  "city": "Dalian",
+  "country": "China",
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [
+    {
+      "place": 1,
+      "player": "张大勺",
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "s2-reg-dalian-2026--kai-sa-daughter-of-the-void-1"
+    },
+    {
+      "place": 2,
+      "player": "TCC_羊眼球",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2-reg-dalian-2026--draven-glorious-executioner-2"
+    },
+    {
+      "place": 3,
+      "player": "铁头-Karma",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2-reg-dalian-2026--draven-glorious-executioner-3"
+    },
+    {
+      "place": 4,
+      "player": "淘金巢.RandyyyTCG",
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "s2-reg-dalian-2026--sivir-battle-mistress-4"
+    },
+    {
+      "place": 5,
+      "player": "cookie",
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "s2-reg-dalian-2026--kai-sa-daughter-of-the-void-5"
+    },
+    {
+      "place": 6,
+      "player": "星迹缘阳光",
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "s2-reg-dalian-2026--draven-glorious-executioner-6"
+    },
+    {
+      "place": 7,
+      "player": "空条咕哒子",
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "s2-reg-dalian-2026--irelia-blade-dancer-7"
+    },
+    {
+      "place": 8,
+      "player": "金岩-轩泽（恩师钓鱼王）",
+      "legend": "Jax, Grandmaster at Arms",
+      "decklist_id": "s2-reg-dalian-2026--jax-grandmaster-at-arms-8"
+    }
+  ],
+  "best_of_legends": [],
+  "source": {
+    "source_type": "best_available",
+    "source_name": "legacy_local_knowledge_db",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "best_available",
+    "notes": "upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | upstream_status=reviewed"
+  },
+  "secondary_sources": [],
+  "sources": [
+    {
+      "source_type": "best_available",
+      "source_name": "legacy_local_knowledge_db",
+      "source_url": null,
+      "source_date": "2026-03-06T10:11:31.039432Z",
+      "retrieved_at": "2026-04-02",
+      "trust_tier": "best_available",
+      "notes": "upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | upstream_status=reviewed"
+    }
+  ],
+  "notes": "player_count=None | format=Spiritforged+Origins | decklist_count=8",
+  "trust_tier": "best_available",
+  "status": "completed"
+}

@@ -1,0 +1,69 @@
+{
+  "card_id": "ogn-305-star-298",
+  "name": "Unforgiven",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "305",
+  "public_code": "OGN-305*/298",
+  "card_type": "Legend",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Calm",
+    "Chaos"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": ":rb_energy_2:, :rb_exhaust:: Move a friendly unit to or from its base.",
+  "text_rich": "<p>:rb_energy_2:, :rb_exhaust:: Move a friendly unit to or from its base.</p>",
+  "rarity": "Showcase",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/6a06599a299b15175984c1e38d27a3be21258fbe-1488x2078.png"
+  },
+  "artist": "Quy Ho",
+  "accessibility_text": "Riftbound Legend: Unforgiven. [2], [T]: Move a friendly unit to or from its base.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

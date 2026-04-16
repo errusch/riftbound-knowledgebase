@@ -1,0 +1,66 @@
+{
+  "card_id": "sfd-122-221",
+  "name": "Called Shot",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "122",
+  "public_code": "SFD-122/221",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Chaos"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 0,
+    "might_bonus": null
+  },
+  "text": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_rune_chaos: (You may pay the additional cost to repeat this spell's effect.)\nLook at the top 2 cards of your Main Deck. Draw one and recycle the other.",
+  "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />[Repeat] :rb_rune_chaos: (You may pay the additional cost to repeat this spell's effect.)<br />Look at the top 2 cards of your Main Deck. Draw one and recycle the other.</p>",
+  "rarity": "Common",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/08b859c0e21eba5a033f480702bcdd1045f6294b-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Spell: Called Shot. [Action] (Play on your turn or in showdowns.)\n[Repeat] [C] (You may pay the additional cost to repeat this spell's effect.)\nLook at the top 2 cards of your Main Deck. Draw one and recycle the other.",
+  "legality": {
+    "constructed": "banned",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "Banned in Riftbound Standard Constructed effective 2026-03-31 per official first-bans announcement.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

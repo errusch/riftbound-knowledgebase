@@ -1,0 +1,66 @@
+{
+  "card_id": "ogn-233-298",
+  "name": "Grand Strategem",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "233",
+  "public_code": "OGN-233/298",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Order"
+  ],
+  "cost": 3,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 6,
+    "might_bonus": null
+  },
+  "text": "[Action] (Play on your turn or in showdowns.)\nGive friendly units +5 :rb_might: this turn.",
+  "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Give friendly units +5 :rb_might: this turn.</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/bda7514aefa94ac3f368690cdd2d0f955d44c089-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Spell: Grand Strategem. [Action] (Play on your turn or in showdowns.)\nGive friendly units +5 [S] this turn.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

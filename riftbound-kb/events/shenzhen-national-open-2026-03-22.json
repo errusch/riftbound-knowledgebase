@@ -1,0 +1,24 @@
+{
+  "event_id": "shenzhen-national-open-2026-03-22",
+  "event_type": "national_open",
+  "event_name": "Shenzhen National Open",
+  "region": "CN",
+  "city": "Shenzhen",
+  "country": "China",
+  "start_date": "2026-03-22",
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks tournament deck page",
+    "source_url": "https://riftdecks.com/riftbound-tournaments/s2-shenzhen-national-open-tournament-decks-6619",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "trusted_secondary",
+    "notes": "Event existence/date supplied by user and backed by a trusted secondary deck source. Direct fetch was blocked by Cloudflare during this session, so this record should be backfilled from accessible official/secondary coverage later."
+  },
+  "secondary_sources": [],
+  "notes": "Most recent major event per user correction. Needs structured player/legend/decklist extraction in a follow-up pass."
+}

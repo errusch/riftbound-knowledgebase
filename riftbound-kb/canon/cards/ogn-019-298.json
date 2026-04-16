@@ -1,0 +1,70 @@
+{
+  "card_id": "ogn-019-298",
+  "name": "Raging Soul",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "19",
+  "public_code": "OGN-019/298",
+  "card_type": "Unit",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Fury"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": 4,
+    "health": null,
+    "reserve": 4,
+    "might_bonus": null
+  },
+  "text": "If you've discarded a card this turn, I have [Assault] and [Ganking]. (+1 :rb_might: while I'm an attacker. I can move from battlefield to battlefield.)",
+  "text_rich": "<p>If you've discarded a card this turn, I have [Assault] and [Ganking]. (+1 :rb_might: while I'm an attacker. I can move from battlefield to battlefield.)</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/037647d0decc94ff4a5d53b11cf36afe9d849533-744x1039.png"
+  },
+  "artist": "Six More Vodka",
+  "accessibility_text": "Riftbound Unit: Raging Soul. If you've discarded a card this turn, I have [Assault] and [Ganking]. (+1 [S] while I'm an attacker. I can move from battlefield to battlefield.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "might",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

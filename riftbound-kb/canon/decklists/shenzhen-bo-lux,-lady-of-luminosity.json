@@ -1,0 +1,348 @@
+{
+  "id": "b2524faf-c97b-4270-99f5-f7210845c52b",
+  "name": "223 - Best-Of Lux - Shenzhen National Open",
+  "legend": "Lux, Lady of Luminosity",
+  "legend_variant": "OGS-021",
+  "legend_id": "009fb214-0cbf-4e2c-969c-38397f1d1f1b",
+  "legend_colors": [
+    "Order",
+    "Mind"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Lux, Crownguard",
+      "quantity": 1,
+      "variantNumber": "OGS-014",
+      "type": "Unit",
+      "energy": 4,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Aspirant's Climb",
+      "quantity": 1,
+      "variantNumber": "OGN-276",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Sigil of the Storm",
+      "quantity": 1,
+      "variantNumber": "OGN-287",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Obelisk of Power",
+      "quantity": 1,
+      "variantNumber": "OGN-284",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Mind Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-089",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Order Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-214",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Card Sharp",
+      "quantity": 3,
+      "variantNumber": "SFD-081",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Jayce, Man of Progress",
+      "quantity": 3,
+      "variantNumber": "SFD-084",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Vanguard Armory",
+      "quantity": 3,
+      "variantNumber": "SFD-168",
+      "type": "Gear",
+      "energy": 7,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Wages of Pain",
+      "quantity": 3,
+      "variantNumber": "SFD-070",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Bellows Breath",
+      "quantity": 3,
+      "variantNumber": "SFD-080",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Drag Under",
+      "quantity": 3,
+      "variantNumber": "SFD-164",
+      "type": "Spell",
+      "energy": 5,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Singularity",
+      "quantity": 3,
+      "variantNumber": "OGN-105",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Time Warp",
+      "quantity": 1,
+      "variantNumber": "OGN-122",
+      "type": "Spell",
+      "energy": 10,
+      "might": 0,
+      "power": 4,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Progress Day",
+      "quantity": 2,
+      "variantNumber": "OGN-114",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Imperial Decree",
+      "quantity": 3,
+      "variantNumber": "OGN-221",
+      "type": "Spell",
+      "energy": 5,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Cull the Weak",
+      "quantity": 3,
+      "variantNumber": "OGN-209",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Forge of the Future",
+      "quantity": 2,
+      "variantNumber": "OGN-212",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Falling Comet",
+      "quantity": 3,
+      "variantNumber": "OGN-085",
+      "type": "Spell",
+      "energy": 5,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Stupefy",
+      "quantity": 2,
+      "variantNumber": "OGN-095",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Hidden Blade",
+      "quantity": 1,
+      "variantNumber": "OGN-213",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Salvage",
+      "quantity": 1,
+      "variantNumber": "OGN-224",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Salvage",
+      "quantity": 2,
+      "variantNumber": "OGN-224",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Recruit the Vanguard",
+      "quantity": 3,
+      "variantNumber": "OGS-015",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Unchecked Power",
+      "quantity": 1,
+      "variantNumber": "OGN-123",
+      "type": "Spell",
+      "energy": 7,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Time Warp",
+      "quantity": 1,
+      "variantNumber": "OGN-122",
+      "type": "Spell",
+      "energy": 10,
+      "might": 0,
+      "power": 4,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Stupefy",
+      "quantity": 1,
+      "variantNumber": "OGN-095",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

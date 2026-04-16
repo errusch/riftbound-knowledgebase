@@ -1,0 +1,24 @@
+{
+  "event_id": "rq-bologna-2026-02",
+  "event_type": "regional_qualifier",
+  "event_name": "RQ Bologna",
+  "region": "EU",
+  "city": "Bologna",
+  "country": "Italy",
+  "start_date": "2026-02-25",
+  "end_date": null,
+  "coverage_kind": "top_decks",
+  "placements": [],
+  "best_of_legends": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official News",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/the-best-decks-out-of-bologna",
+    "source_date": "2026-02-25",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Official event coverage confirms event identity and top-deck coverage. Full structured placements/decklists still need extraction."
+  },
+  "secondary_sources": [],
+  "notes": "Seed canonical event record created in Phase 1. Needs Phase 2 enrichment for player/legend/decklist detail."
+}

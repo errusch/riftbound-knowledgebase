@@ -1,0 +1,397 @@
+{
+  "id": "28e6f068-365a-42a8-8758-4fbaff454744",
+  "name": "151- Best-Of Jinx - Shenzhen National Open",
+  "legend": "Jinx, Loose Cannon",
+  "legend_variant": "OGN-251",
+  "legend_id": "b3d1f835-6233-4b84-b917-ee936fe68687",
+  "legend_colors": [
+    "Fury",
+    "Chaos"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Jinx, Demolitionist",
+      "quantity": 1,
+      "variantNumber": "OGN-030",
+      "type": "Unit",
+      "energy": 3,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Veiled Temple",
+      "quantity": 1,
+      "variantNumber": "SFD-221",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Zaun Warrens",
+      "quantity": 1,
+      "variantNumber": "OGN-298",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Trifarian War Camp",
+      "quantity": 1,
+      "variantNumber": "OGN-294",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Fury Rune",
+      "quantity": 4,
+      "variantNumber": "OGN-007",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Chaos Rune",
+      "quantity": 8,
+      "variantNumber": "OGN-166",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Fizz, Trickster",
+      "quantity": 2,
+      "variantNumber": "SFD-140",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Ezreal, Prodigy",
+      "quantity": 3,
+      "variantNumber": "SFD-149",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Nocturne, Horrifying",
+      "quantity": 3,
+      "variantNumber": "OGN-194",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Overzealous Fan",
+      "quantity": 2,
+      "variantNumber": "SFD-128",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Traveling Merchant",
+      "quantity": 3,
+      "variantNumber": "OGN-185",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Rhasa the Sunderer",
+      "quantity": 3,
+      "variantNumber": "OGN-195",
+      "type": "Unit",
+      "energy": 10,
+      "might": 6,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Battering Ram",
+      "quantity": 3,
+      "variantNumber": "SFD-012",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Noxus Hopeful",
+      "quantity": 3,
+      "variantNumber": "OGN-012",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Seal of Discord",
+      "quantity": 3,
+      "variantNumber": "OGN-204",
+      "type": "Gear",
+      "energy": 0,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Called Shot",
+      "quantity": 3,
+      "variantNumber": "SFD-122",
+      "type": "Spell",
+      "energy": 0,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Hard Bargain",
+      "quantity": 2,
+      "variantNumber": "SFD-136",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Fight or Flight",
+      "quantity": 2,
+      "variantNumber": "OGN-168",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Ride the Wind",
+      "quantity": 1,
+      "variantNumber": "OGN-173",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Stacked Deck",
+      "quantity": 3,
+      "variantNumber": "OGN-183",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Super Mega Death Rocket!",
+      "quantity": 1,
+      "variantNumber": "OGN-252",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury",
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Bushwhack",
+      "quantity": 1,
+      "variantNumber": "SFD-004",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Last Rites",
+      "quantity": 1,
+      "variantNumber": "SFD-150",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Rengar, Pouncing",
+      "quantity": 1,
+      "variantNumber": "SFD-025",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Vi, Destructive",
+      "quantity": 1,
+      "variantNumber": "OGN-036",
+      "type": "Unit",
+      "energy": 2,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Brynhir Thundersong",
+      "quantity": 1,
+      "variantNumber": "OGN-026",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Factory Recall",
+      "quantity": 1,
+      "variantNumber": "SFD-135",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Rebuke",
+      "quantity": 1,
+      "variantNumber": "OGN-172",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Invert Timelines",
+      "quantity": 1,
+      "variantNumber": "OGN-201",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Against the Odds",
+      "quantity": 1,
+      "variantNumber": "SFD-001",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "quantity": 1,
+      "variantNumber": "SFD-021",
+      "type": "Unit",
+      "energy": 6,
+      "might": 6,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

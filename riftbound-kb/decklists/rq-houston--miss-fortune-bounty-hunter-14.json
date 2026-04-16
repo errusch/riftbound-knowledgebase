@@ -1,0 +1,171 @@
+{
+  "decklist_id": "rq-houston--miss-fortune-bounty-hunter-14",
+  "event_id": "rq-houston",
+  "player": "TrinityJohn",
+  "legend": "Miss Fortune, Bounty Hunter",
+  "placement": 14,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-179-298",
+      "count": 2,
+      "name": "Acceptable Losses",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-268-298",
+      "count": 2,
+      "name": "Bullet Time",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-138-298",
+      "count": 3,
+      "name": "Catalyst of Aeons",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-160-298",
+      "count": 3,
+      "name": "Dazzling Aurora",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-161-298",
+      "count": 3,
+      "name": "Deadbloom Predator",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 2,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-169-298",
+      "count": 3,
+      "name": "Gust",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-201-298",
+      "count": 2,
+      "name": "Invert Timelines",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-192-298",
+      "count": 3,
+      "name": "Mindsplitter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-134-298",
+      "count": 3,
+      "name": "Mobilize",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-181-298",
+      "count": 2,
+      "name": "Pack of Wonders",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-182-298",
+      "count": 2,
+      "name": "Scrapheap",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-196-298",
+      "count": 1,
+      "name": "Soulgorger",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-186-298",
+      "count": 3,
+      "name": "Treasure Trove",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-158a-298",
+      "count": 2,
+      "name": "Volibear, Imposing",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "count": 2,
+      "name": "Challenge",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-203-298",
+      "count": 2,
+      "name": "Possession",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 3,
+      "name": "Sabotage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-145-298",
+      "count": 1,
+      "name": "Unyielding Spirit",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-276-298",
+      "count": 1,
+      "name": "Aspirant's Climb",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-295-298",
+      "count": 1,
+      "name": "Vilemaw's Lair",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 7,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 5,
+      "name": "Chaos Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=TrinityJohn"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Miss Fortune, Captain | deck_type=best_of"
+}

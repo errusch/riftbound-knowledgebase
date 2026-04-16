@@ -1,0 +1,183 @@
+{
+  "decklist_id": "rq-bologna--lucian-purifier-18",
+  "event_id": "rq-bologna",
+  "player": "drinkmaker888",
+  "legend": "Lucian, Purifier",
+  "placement": 18,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "sfd-109-221",
+      "count": 2,
+      "name": "Akshan, Mischievous",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-118-221",
+      "count": 2,
+      "name": "Boneshiver",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-026-298",
+      "count": 2,
+      "name": "Brynhir Thundersong",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "count": 3,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-095-221",
+      "count": 2,
+      "name": "Doran's Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-132-298",
+      "count": 3,
+      "name": "First Mate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-102-221",
+      "count": 1,
+      "name": "Hexdrinker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-039-298",
+      "count": 3,
+      "name": "Kai'Sa, Survivor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-022-221",
+      "count": 2,
+      "name": "Long Sword",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-113-221",
+      "count": 2,
+      "name": "Lucian, Merciless",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-023-221",
+      "count": 2,
+      "name": "Piercing Light",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-097-221",
+      "count": 3,
+      "name": "Punch First",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-184-221",
+      "count": 3,
+      "name": "Relentless Pursuit",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-105-221",
+      "count": 3,
+      "name": "Ruin Runner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 1,
+      "name": "Sabotage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-030-221",
+      "count": 2,
+      "name": "Skyfall of Areion",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-115-221",
+      "count": 3,
+      "name": "Trinity Force",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-109-221",
+      "count": 1,
+      "name": "Akshan, Mischievous",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-026-298",
+      "count": 1,
+      "name": "Brynhir Thundersong",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-021-221",
+      "count": 2,
+      "name": "Ferrous Forerunner",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 2,
+      "name": "Sabotage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-145-298",
+      "count": 2,
+      "name": "Unyielding Spirit",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-208-221",
+      "count": 1,
+      "name": "Forge of the Fluft",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-218-221",
+      "count": 1,
+      "name": "Sunken Temple",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 7,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 5,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=drinkmaker888"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Lucian, Merciless | deck_type=best_of"
+}

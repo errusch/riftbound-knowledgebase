@@ -1,0 +1,171 @@
+{
+  "decklist_id": "rq-houston--kai-sa-daughter-of-the-void-8",
+  "event_id": "rq-houston",
+  "player": "georgeg",
+  "legend": "Kai'Sa, Daughter of the Void",
+  "placement": 8,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": "ogn-004-298",
+      "count": 3,
+      "name": "Cleave",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-027a-298",
+      "count": 3,
+      "name": "Darius, Trifarian",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-029-298",
+      "count": 3,
+      "name": "Falling Star",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-009-298",
+      "count": 3,
+      "name": "Hextech Ray",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-248-298",
+      "count": 2,
+      "name": "Icathian Rain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-087-298",
+      "count": 2,
+      "name": "Lecturing Yordle",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-012-298",
+      "count": 3,
+      "name": "Noxus Hopeful",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-013-298",
+      "count": 2,
+      "name": "Pouty Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-103-298",
+      "count": 3,
+      "name": "Ravenbloom Student",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-104-298",
+      "count": 3,
+      "name": "Retreat",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-093-298",
+      "count": 1,
+      "name": "Smoke Screen",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-095-298",
+      "count": 3,
+      "name": "Stupefy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-116-298",
+      "count": 3,
+      "name": "Thousand-Tailed Watcher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-122-298",
+      "count": 2,
+      "name": "Time Warp",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-096-298",
+      "count": 3,
+      "name": "Watchful Sentry",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-039-298",
+      "count": 1,
+      "name": "Kai'Sa, Survivor",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-088-298",
+      "count": 2,
+      "name": "Mega-Mech",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-105-298",
+      "count": 2,
+      "name": "Singularity",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-093-298",
+      "count": 1,
+      "name": "Smoke Screen",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-024-298",
+      "count": 2,
+      "name": "Void Seeker",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-280-298",
+      "count": 1,
+      "name": "Grove of the God-Willow",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-295-298",
+      "count": 1,
+      "name": "Vilemaw's Lair",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 7,
+      "name": "Fury Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "count": 5,
+      "name": "Mind Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=georgeg"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Kai'Sa, Survivor | deck_type=top_8"
+}

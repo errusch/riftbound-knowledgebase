@@ -1,0 +1,183 @@
+{
+  "decklist_id": "rq-bologna--ezreal-prodigal-explorer-8",
+  "event_id": "rq-bologna",
+  "player": "TheManLandRFT",
+  "legend": "Ezreal, Prodigal Explorer",
+  "placement": 8,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": "sfd-200-221",
+      "count": 3,
+      "name": "Arcane Shift",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-122-221",
+      "count": 3,
+      "name": "Called Shot",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-147-221",
+      "count": 1,
+      "name": "Downwell",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-149a-221",
+      "count": 2,
+      "name": "Ezreal, Prodigy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 3,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-140-221",
+      "count": 3,
+      "name": "Fizz, Trickster",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-169-298",
+      "count": 1,
+      "name": "Gust",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-150-221",
+      "count": 1,
+      "name": "Last Rites",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-103-298",
+      "count": 3,
+      "name": "Ravenbloom Student",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 1,
+      "name": "Rebuke",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-104-298",
+      "count": 2,
+      "name": "Retreat",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-195-298",
+      "count": 3,
+      "name": "Rhasa the Sunderer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-173-298",
+      "count": 1,
+      "name": "Ride the Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-234-221",
+      "count": 3,
+      "name": "Seal of Discord",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-095-298",
+      "count": 3,
+      "name": "Stupefy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-070-221",
+      "count": 3,
+      "name": "Wages of Pain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "count": 2,
+      "name": "Hard Bargain",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-150-221",
+      "count": 1,
+      "name": "Last Rites",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-074-221",
+      "count": 3,
+      "name": "Pickpocket",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 1,
+      "name": "Rebuke",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-077-221",
+      "count": 1,
+      "name": "Rocket Barrage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-276-298",
+      "count": 1,
+      "name": "Aspirant's Climb",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-296-298",
+      "count": 1,
+      "name": "Void Gate",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 10,
+      "name": "Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "count": 2,
+      "name": "Mind Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=TheManLandRFT"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Ezreal, Prodigy | deck_type=top_8"
+}

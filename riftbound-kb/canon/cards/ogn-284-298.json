@@ -1,0 +1,64 @@
+{
+  "card_id": "ogn-284-298",
+  "name": "Obelisk of Power",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "284",
+  "public_code": "OGN-284/298",
+  "card_type": "Battlefield",
+  "subtypes": [],
+  "domains": [
+    "Colorless"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "At the start of each player's first Beginning Phase, that player channels 1 rune.",
+  "text_rich": "<p>At the start of each player's first Beginning Phase, that player channels 1 rune.</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/649437d1dec8abcaae4fbbef64f06b8b679a8c2f-1038x744.png"
+  },
+  "artist": "Chris Kintner",
+  "accessibility_text": "Riftbound Battlefield: Obelisk of Power. At the start of each player's first Beginning Phase, that player channels 1 rune.",
+  "legality": {
+    "constructed": "banned",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "Banned battlefield in Riftbound Standard Constructed effective 2026-03-31 per official first-bans announcement.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "landscape",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

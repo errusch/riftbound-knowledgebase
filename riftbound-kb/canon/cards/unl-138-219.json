@@ -1,0 +1,65 @@
+{
+  "card_id": "unl-138-219",
+  "name": "The List",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "138",
+  "public_code": "UNL-138/219",
+  "card_type": "Gear",
+  "subtypes": [],
+  "domains": [
+    "Chaos"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 1,
+    "might_bonus": null
+  },
+  "text": "As you play this, name a tag. (For example, Miss Fortune, Demacia, and Poro are tags.)\n:rb_exhaust:: Give a unit with the named tag -2 :rb_might: this turn.",
+  "text_rich": "<p>As you play this, name a tag. (For example, Miss Fortune, Demacia, and Poro are tags.)<br />:rb_exhaust:: Give a unit with the named tag -2 :rb_might: this turn.</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/f35b49faeb444071445662c9af13710c00a4569c-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Gear: The List. As you play this, name a tag. (For example, Miss Fortune, Demacia, and Poro are tags.)\n[T]: Give a unit with the named tag -2 [S] this turn.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

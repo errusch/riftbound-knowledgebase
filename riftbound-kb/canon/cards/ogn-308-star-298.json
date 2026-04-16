@@ -1,0 +1,69 @@
+{
+  "card_id": "ogn-308-star-298",
+  "name": "Herald of the Arcane",
+  "set_code": "OGN",
+  "set_name": "Origins",
+  "collector_number": "308",
+  "public_code": "OGN-308*/298",
+  "card_type": "Legend",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Mind",
+    "Order"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": ":rb_energy_1:, :rb_exhaust:: Play a 1 :rb_might: Recruit unit token.",
+  "text_rich": "<p>:rb_energy_1:, :rb_exhaust:: Play a 1 :rb_might: Recruit unit token.</p>",
+  "rarity": "Showcase",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e345a5fc347e6a5835f2afa33492058fdbfcb169-744x1039.png"
+  },
+  "artist": "Rudy Siswanto",
+  "accessibility_text": "Riftbound Legend: Herald of the Arcane. [1], [T]: Play a 1 [S] Recruit unit token.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

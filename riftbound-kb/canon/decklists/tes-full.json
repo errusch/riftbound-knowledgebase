@@ -1,0 +1,8629 @@
+[
+  {
+    "id": "97a3bee2-7801-46d6-aa12-03c272bcf4ad",
+    "name": "Volibear",
+    "legend": "Volibear, Furious",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Relentless Storm",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Volibear, Furious",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 10,
+        "might": 9,
+        "power": 2
+      },
+      {
+        "name": "Carnivorous Snapvine",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 5,
+        "might": 6,
+        "power": 2
+      },
+      {
+        "name": "Deadbloom Predator",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 8,
+        "power": 2
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Kadregrin the Infernal",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 9,
+        "might": 9,
+        "power": 2
+      },
+      {
+        "name": "Magma Wurm",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 8,
+        "power": 1
+      },
+      {
+        "name": "Minotaur Reckoner",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 5,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Vi, Destructive",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 2,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Yone, Blademaster",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Catalyst of Aeons",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Confront",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mobilize",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Punch First",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Sky Splitter",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 8,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Stormbringer",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 6,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Dazzling Aurora",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 9,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Trinity Force",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 4,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Obelisk of Power",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Carnivorous Snapvine",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 5,
+        "might": 6,
+        "power": 2
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Vi, Destructive",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 2,
+        "might": 3,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "2fda3bd3-0778-4a7c-9d1e-50593cee000d",
+    "name": "Renata Combo",
+    "legend": "Renata Glasc, Mastermind",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Chem-Baroness",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Ornn, Forge God",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 6,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Ekko, Recurrent",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Shen, Kinkou",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Renata Glasc, Mastermind",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Time Warp",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 10,
+        "might": null,
+        "power": 4
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Plundering Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Honest Broker",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Hostile Takeover",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Ravenbloom Student",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Singularity",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 6,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Wages of Pain",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Card Sharp",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cloth Armor",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Blood Money",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Deathgrip",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Trove Golem",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 9,
+        "power": 2
+      },
+      {
+        "name": "The Arena's Greatest",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Treasure Hoard",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Imperial Decree",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Pickpocket",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "0241bce6-3ebd-4c07-aa9a-82090c39cac2",
+    "name": "Hook",
+    "legend": "Fiora, Worthy",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Grand Duelist",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sett, Brawler",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Fiora, Victorious",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Fiora, Worthy",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "First Mate",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Pit Rookie",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Spectral Matron",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": 2
+      },
+      {
+        "name": "Baited Hook",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "B.F. Sword",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Unsung Hero",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Challenge",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Call to Glory",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Harnessed Dragon",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 6,
+        "power": 2
+      },
+      {
+        "name": "Punch First",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Honest Broker",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Deathgrip",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Riposte",
+        "quantity": 2,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Trifarian War Camp",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "The Candlelit Sanctum",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Divine Judgment",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 7,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Riposte",
+        "quantity": 1,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Unyielding Spirit",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "e2e3d619-890b-4c90-9192-8282a106d46c",
+    "name": "Tempo Ezreal",
+    "legend": "Ezreal, Prodigy",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Prodigal Explorer",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fizz, Trickster",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Ezreal, Prodigy",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Ravenbloom Student",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Stacked Deck",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Plundering Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Wages of Pain",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Card Sharp",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 1
+      },
+      {
+        "name": "Gust",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Mindsplitter",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 2
+      },
+      {
+        "name": "Frigid Touch",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Arcane Shift",
+        "quantity": 2,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 3,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Smoke Screen",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Sprite Call",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sigil of the Storm",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Void Gate",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Marai Spire",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Vex, Cheerless",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Factory Recall",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Dr. Mundo, Expert",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 8,
+        "might": 6,
+        "power": 2
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      }
+    ]
+  },
+  {
+    "id": "e94cf5b1-8344-4f43-9e7d-915a0ed628bd",
+    "name": "Teemo Midrange",
+    "legend": "Teemo, Scout",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Swift Scout",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Dr. Mundo, Expert",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 8,
+        "might": 6,
+        "power": 2
+      },
+      {
+        "name": "Teemo, Scout",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Consult the Past",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Lecturing Yordle",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Ravenbloom Student",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Ember Monk",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Stacked Deck",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Plundering Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Black Market Broker",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Switcheroo",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Sprite Call",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Singularity",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 6,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 1
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Tideturner",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Guerilla Warfare",
+        "quantity": 1,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Bandle Tree",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Grove of the God-Willow",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Zaun Warrens",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Fading Memories",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Mindsplitter",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 2
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sprite Call",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      }
+    ]
+  },
+  {
+    "id": "ce1b25f3-63b0-45b4-bcc7-516ba24b93ce",
+    "name": "Sivir\tAurora",
+    "legend": "Sivir, Mercenary",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Battle Mistress",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sivir, Mercenary",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Mobilize",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Catalyst of Aeons",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Spoils of War",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Dazzling Aurora",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 9,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Gust",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Stacked Deck",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Treasure Trove",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mindsplitter",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 2
+      },
+      {
+        "name": "Challenge",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Deadbloom Predator",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 8,
+        "power": 2
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Invert Timelines",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Boots of Swiftness",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Last Rites",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Punch First",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sigil of the Storm",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Unyielding Spirit",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Punch First",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Challenge",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "9bb194ae-35ae-4137-a917-f7e981ec4f1b",
+    "name": "Irelia",
+    "legend": "Irelia, Fervent",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Blade Dancer",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Draven, Audacious",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Irelia, Fervent",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Charm",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "En Garde",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Tideturner",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Stellacorn Herder",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Boots of Swiftness",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Defiant Dance",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Ride the Wind",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "The Syren",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Flash",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Targon's Peak",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Rockfall Path",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Sneaky Deckhand",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Adaptatron",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Vex, Cheerless",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Defy",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "3f5dd4b0-cd8a-4384-a1b6-d447cdfeb67b",
+    "name": "Midrange Draven",
+    "legend": "Draven, Showboat",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Glorious Executioner",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Darius, Trifarian",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Draven, Showboat",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Noxus Hopeful",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Stacked Deck",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Tideturner",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Overzealous Fan",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Treasure Hunter",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Spinning Axe",
+        "quantity": 3,
+        "type": "Gear",
+        "super": "Signature",
+        "energy": 2,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Falling Star",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Ride the Wind",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cleave",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Edge of Night",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Switcheroo",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Targon's Peak",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Forge of the Fluft",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Treasure Hoard",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Pouty Poro",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Thermo Beam",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Mindsplitter",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 2
+      },
+      {
+        "name": "Factory Recall",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      }
+    ]
+  },
+  {
+    "id": "03bdde49-2b92-4275-9938-bdca7f3483ce",
+    "name": "Midrange Fiora",
+    "legend": "Fiora, Worthy",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Grand Duelist",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sett, Brawler",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Lucian, Merciless",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Fiora, Victorious",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Fiora, Worthy",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Pit Rookie",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Doran's Blade",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "B.F. Sword",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Unsung Hero",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Riposte",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "First Mate",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Call to Glory",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Punch First",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Monastery of Hirana",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Warmog's Armor",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Trifarian War Camp",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cannon Barrage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Unyielding Spirit",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Facebreaker",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      }
+    ]
+  },
+  {
+    "id": "2b060d0b-a9f9-4950-b0a7-233f321c3889",
+    "name": "Kai'Sa Tempo",
+    "legend": "Kai'Sa, Survivor",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Daughter of the Void",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Hextech Ray",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Falling Star",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Lecturing Yordle",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Watchful Sentry",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Singularity",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 6,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 1
+      },
+      {
+        "name": "Plundering Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Noxus Hopeful",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Void Seeker",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Retreat",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Time Warp",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 10,
+        "might": null,
+        "power": 4
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Piercing Light",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Progress Day",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 6,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "The Arena's Greatest",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "The Candlelit Sanctum",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Void Gate",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Thermo Beam",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Rocket Barrage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "8e8e6602-d33d-4a16-9463-58a66dd0bbd2",
+    "name": "Aggro Yi",
+    "legend": "Yi, Honed",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Wuju Bladesman - Starter",
+        "quantity": 1,
+        "type": "Legend",
+        "super": "Champion",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Yi, Honed",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 7,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Charm",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Navori Scout",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Brutalizer",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Punch First",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Ruin Runner",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Trinity Force",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 4,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "En Garde",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Grove of the God-Willow",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Forge of the Fluft",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Adaptatron",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Unyielding Spirit",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      }
+    ]
+  },
+  {
+    "id": "133f1022-00b2-4975-9061-7f53fd8fc22b",
+    "name": "Jax Midrange",
+    "legend": "Jax, Unmatched",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Grandmaster at Arms",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Lucian, Merciless",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Jax, Unmatched",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Brutalizer",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Stellacorn Herder",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Warmog's Armor",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Boneshiver",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Counter Strike",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Charm",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "First Mate",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Discipline",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Punch First",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Ruin Runner",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Monastery of Hirana",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Seat of Power",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Adaptatron",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Cannon Barrage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Defy",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Punch First",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      }
+    ]
+  },
+  {
+    "id": "30ec0f67-f7a1-4413-9364-ac28a7ceb5d8",
+    "name": "Tempo Azir",
+    "legend": "Azir, Sovereign",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Guards!",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Deathgrip",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sacred Shears",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": 1
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Trifarian War Camp",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Ornn's Forge",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Emperor of the Sands",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Azir, Sovereign",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Desert's Call",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Doran's Shield",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Brutalizer",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Eye of the Herald",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "B.F. Sword",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Arise!",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 6,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Charm",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Wind Wall",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Facebreaker",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Defy",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "4ce2cbfe-0a6a-48e3-845b-63382b7c2d84",
+    "name": "Annie Midrange",
+    "legend": "Annie, Stubborn",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Dark Child - Starter",
+        "quantity": 1,
+        "type": "Legend",
+        "super": "Champion",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Rengar, Pouncing",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Annie, Stubborn",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Cleave",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Noxus Hopeful",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Sneaky Deckhand",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Stacked Deck",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Traveling Merchant",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Treasure Hunter",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Invert Timelines",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Flash",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Long Sword",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": 1
+      },
+      {
+        "name": "Overzealous Fan",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "The Arena's Greatest",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Zaun Warrens",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Seat of Power",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Falling Star",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Ride the Wind",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Switcheroo",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      }
+    ]
+  },
+  {
+    "id": "9ed03310-1299-4b63-a2c4-c7214a82b8ac",
+    "name": "Midrange Viktor",
+    "legend": "Viktor, Leader",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Herald of the Arcane",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Xin Zhao, Vigilant",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Viktor, Leader",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 1
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Wages of Pain",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Card Sharp",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Honest Broker",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Singularity",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 6,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Faithful Manufactor",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Imperial Decree",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Lecturing Yordle",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Riptide Rex",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 2
+      },
+      {
+        "name": "Time Warp",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 10,
+        "might": null,
+        "power": 4
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Plundering Poro",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Glasc Mixologist",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Void Gate",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Ravenbloom Conservatory",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Treasure Hoard",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Vengeance",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Imperial Decree",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Glasc Mixologist",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Riptide Rex",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 2
+      },
+      {
+        "name": "Faithful Manufactor",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      }
+    ]
+  },
+  {
+    "id": "79f769d3-ffd9-4b99-895e-c473461719f9",
+    "name": "MF Aurora",
+    "legend": "Miss Fortune, Captain",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Bounty Hunter",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Miss Fortune, Captain",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Mobilize",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Catalyst of Aeons",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Dazzling Aurora",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 9,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Stacked Deck",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Treasure Trove",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mindsplitter",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 2
+      },
+      {
+        "name": "Last Rites",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Challenge",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Deadbloom Predator",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 8,
+        "power": 2
+      },
+      {
+        "name": "Gust",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Pack of Wonders",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Bullet Time",
+        "quantity": 2,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Punch First",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sigil of the Storm",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Forgotten Monument",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Invert Timelines",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Spoils of War",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": 1
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Rebuke",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Ride the Wind",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Possession",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 8,
+        "might": null,
+        "power": 3
+      },
+      {
+        "name": "Factory Recall",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Bullet Time",
+        "quantity": 1,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "1fd15e8e-78d3-4b44-862f-a6e8ccc0f752",
+    "name": "Sett Aggro",
+    "legend": "Sett, Brawler",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "The Boss",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fiora, Victorious",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Lucian, Merciless",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Yone, Blademaster",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Sett, Brawler",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "First Mate",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Pit Rookie",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Cithria of Cloudfield",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Wallop",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Call to Glory",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Showstopper",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Punch First",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Warmog's Armor",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Doran's Blade",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Deathgrip",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Monastery of Hirana",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Windswept Hillock",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 9,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 3,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Unyielding Spirit",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      }
+    ]
+  },
+  {
+    "id": "35240ce2-bbb7-4d67-a1b6-e96707a256c3",
+    "name": "Rek'sai Phoenix",
+    "legend": "Rek'Sai, Breacher",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Void Burrower",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Darius, Trifarian",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Vi, Destructive",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 2,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Rek'Sai, Breacher",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Noxus Hopeful",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Falling Star",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Immortal Phoenix",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Seal of Rage",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 0,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Honest Broker",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Undertitan",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Void Rush",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Hextech Ray",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Void Hatchling",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Sun Disc",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Long Sword",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": 1
+      },
+      {
+        "name": "Piercing Light",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "The Candlelit Sanctum",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Zaun Warrens",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Veiled Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Imperial Decree",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Minotaur Reckoner",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 5,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Deathgrip",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Piercing Light",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      }
+    ]
+  },
+  {
+    "id": "512db062-8442-4319-bb4d-f758347bdc16",
+    "name": "Swarm Reksai",
+    "legend": "Rek'Sai, Breacher",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Void Burrower",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Rek'Sai, Breacher",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Xin Zhao, Vigilant",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Noxus Hopeful",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Daring Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Trifarian Gloryseeker",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Vanguard Captain",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Void Drone",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Battering Ram",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 5,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Undertitan",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Void Rush",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Seal of Unity",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 0,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Trusty Ramhound",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Rally the Troops",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Call to Glory",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "The Arena's Greatest",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "The Candlelit Sanctum",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Trifarian War Camp",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Falling Star",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Faithful Manufactor",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "c017bcea-a353-4ad6-a5b0-d8eb80e71541",
+    "name": "Jinx\tMiracle",
+    "legend": "Jinx, Demolitionist",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Loose Cannon",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Teemo, Scout",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Jinx, Demolitionist",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Rek'Sai, Breacher",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Flame Chompers",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Noxus Hopeful",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Falling Star",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Immortal Phoenix",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Seal of Rage",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 0,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Stacked Deck",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Traveling Merchant",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Super Mega Death Rocket!",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 4,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Battering Ram",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 5,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Long Sword",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": 1
+      },
+      {
+        "name": "Overzealous Fan",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "The Candlelit Sanctum",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Trifarian War Camp",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Zaun Warrens",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 8,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 4,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Thermo Beam",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Fizz, Trickster",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Piercing Light",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      }
+    ]
+  },
+  {
+    "id": "477ce415-f9aa-4741-824c-6b849a342a34",
+    "name": "Ornn Voltron",
+    "legend": "Ornn, Forge God",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Fire Below the Mountain",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Azir, Ascendant",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Ornn, Forge God",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 6,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Seal of Focus",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 0,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Consult the Past",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Pit Crew",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Poro Snax",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Svellsongur",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Cloth Armor",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "World Atlas",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Meditation",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Singularity",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 6,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Shurelya's Requiem",
+        "quantity": 1,
+        "type": "Gear",
+        "super": "Signature",
+        "energy": 4,
+        "might": 2,
+        "power": 2
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sigil of the Storm",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Ornn's Forge",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Pickpocket",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Charm",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Forgefire Cape",
+        "quantity": 1,
+        "type": "Gear",
+        "super": "Signature",
+        "energy": 4,
+        "might": 3,
+        "power": 2
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 2
+      }
+    ]
+  },
+  {
+    "id": "03d43692-9d5e-44be-8f3f-a1af97032dab",
+    "name": "Ornn Aggro",
+    "legend": "Ornn, Blacksmith",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Fire Below the Mountain",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Ornn, Blacksmith",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Charm",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mask of Foresight",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Pit Crew",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Brutalizer",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Poro Snax",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Sterak's Gage",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": 2
+      },
+      {
+        "name": "Plundering Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Dropboarder",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Seal of Focus",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 0,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Desert's Call",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Defy",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Retreat",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Shurelya's Requiem",
+        "quantity": 1,
+        "type": "Gear",
+        "super": "Signature",
+        "energy": 4,
+        "might": 2,
+        "power": 2
+      },
+      {
+        "name": "Ornn's Forge",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Seat of Power",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 8,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 4,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 1
+      },
+      {
+        "name": "Disarming Rake",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": 1
+      },
+      {
+        "name": "Time Warp",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 10,
+        "might": null,
+        "power": 4
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Retreat",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Defy",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "4f1691da-0695-4fa9-acac-ff0f1b7f9a0a",
+    "name": "Leona Midrange",
+    "legend": "Leona, Determined",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Radiant Dawn",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fiora, Victorious",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Janna, Savior",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Leona, Determined",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Noxian Drummer",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Stellacorn Herder",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Call to Glory",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Facebreaker",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Zenith Blade",
+        "quantity": 2,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 3,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Emperor's Divide",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "B.F. Sword",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Trifarian War Camp",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Monastery of Hirana",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Solari Shieldbearer",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Imperial Decree",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Leona, Zealot",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "5daf6961-575a-421f-9606-c51287ccbff3",
+    "name": "Rumble Tribal",
+    "legend": "Rumble, Hotheaded",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Mechanized Menace",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Rumble, Scrapper",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Rumble, Hotheaded",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Gem Jammer",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Bubble Bot",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Forecaster",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Falling Star",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 1
+      },
+      {
+        "name": "Long Sword",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": 1
+      },
+      {
+        "name": "Piercing Light",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Breakneck Mech",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 7,
+        "power": 2
+      },
+      {
+        "name": "Production Surge",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Thermo Beam",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Danger Zone",
+        "quantity": 1,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "The Grand Plaza",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Forgotten Monument",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Minotaur Reckoner",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 5,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Singularity",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 6,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Time Warp",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 10,
+        "might": null,
+        "power": 4
+      },
+      {
+        "name": "Against the Odds",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Thermo Beam",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      }
+    ]
+  },
+  {
+    "id": "edd57de7-4083-4a14-9238-cf7d4d24c839",
+    "name": "Lux Armory",
+    "legend": "Lux, Crownguard",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Lady of Luminosity - Starter",
+        "quantity": 1,
+        "type": "Legend",
+        "super": "Champion",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Jayce, Man of Progress",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Lux, Crownguard",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Falling Comet",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Stupefy",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Imperial Decree",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Wages of Pain",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Drag Under",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Vanguard Armory",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 7,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Singularity",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 6,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Time Warp",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 10,
+        "might": null,
+        "power": 4
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Forge of the Future",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Chemtech Cask",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Blood Money",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Garbage Grabber",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Progress Day",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 6,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "The Grand Plaza",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Veiled Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Facebreaker",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Mega-Mech",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 8,
+        "power": null
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 1
+      },
+      {
+        "name": "Unchecked Power",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 7,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Blood Money",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      }
+    ]
+  },
+  {
+    "id": "1f4c5880-0eb4-4b89-a93f-b3d29e96b7b9",
+    "name": "Lee Sin Midrange",
+    "legend": "Lee Sin, Centered",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Lucian, Merciless",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Lee Sin, Centered",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 6,
+        "might": 6,
+        "power": null
+      },
+      {
+        "name": "Charm",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Defy",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Stalwart Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "First Mate",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Punch First",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Doran's Blade",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "En Garde",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Emperor's Divide",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Monastery of Hirana",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Blind Monk",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Irelia, Fervent",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Rockfall Path",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Sabotage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Sett, Brawler",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Janna, Savior",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Ruin Runner",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      }
+    ]
+  },
+  {
+    "id": "3a209019-d4b1-42e2-9385-6c5a6c9132d2",
+    "name": "Garen Aurora",
+    "legend": "Garen, Commander",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Might of Demacia - Starter",
+        "quantity": 1,
+        "type": "Legend",
+        "super": "Champion",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Garen, Commander",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 6,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Confront",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mobilize",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Catalyst of Aeons",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Dazzling Aurora",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 9,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Deadbloom Predator",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 8,
+        "power": 2
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Harnessed Dragon",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 6,
+        "power": 2
+      },
+      {
+        "name": "Divine Judgment",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 7,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Punch First",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Blood Money",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Rally the Troops",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Corina Veraza",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Salvage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Commander Ledros",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 8,
+        "power": 4
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sigil of the Storm",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Anivia, Primal",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 7,
+        "might": 8,
+        "power": 2
+      },
+      {
+        "name": "Facebreaker",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Commander Ledros",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 8,
+        "power": 4
+      },
+      {
+        "name": "Blood Money",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "8ba57fbf-8681-43e3-aad6-0a123f608fe3",
+    "name": "Combo Lucian",
+    "legend": "Lucian, Merciless",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Purifier",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Lucian, Merciless",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Pouty Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Challenge",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "First Mate",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Gem Jammer",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Skyfall of Areion",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Doran's Blade",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Trinity Force",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 4,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Relentless Pursuit",
+        "quantity": 3,
+        "type": "Spell",
+        "super": "Signature",
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Legion Rearguard",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Long Sword",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": 1
+      },
+      {
+        "name": "Punch First",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Angle Shot",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Zaun Warrens",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Forge of the Fluft",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Unyielding Spirit",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Piercing Light",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Akshan, Mischievous",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "3afd457e-306c-4874-80ec-689eff0550d6",
+    "name": "Yi Aurora",
+    "legend": "Yi, Honed",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Wuju Bladesman - Starter",
+        "quantity": 1,
+        "type": "Legend",
+        "super": "Champion",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Yi, Honed",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 7,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Charm",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Defy",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Find Your Center",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Tasty Faefolk",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 6,
+        "power": null
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Catalyst of Aeons",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 4,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Dazzling Aurora",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 9,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Deadbloom Predator",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 8,
+        "power": 2
+      },
+      {
+        "name": "Desert's Call",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Discipline",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Whiteflame Protector",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 8,
+        "might": 8,
+        "power": 2
+      },
+      {
+        "name": "Mobilize",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Mountain Drake",
+        "quantity": 1,
+        "type": "Unit",
+        "super": null,
+        "energy": 9,
+        "might": 10,
+        "power": null
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Punch First",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Aspirant's Climb",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sigil of the Storm",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Body Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Unyielding Spirit",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Sabotage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Punch First",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "e4aa1a07-961a-4e54-a052-350213fc5c4c",
+    "name": "Darius Aggro",
+    "legend": "Darius, Trifarian",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Hand of Noxus",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Xin Zhao, Vigilant",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Darius, Trifarian",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Noxus Hopeful",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Daring Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Hidden Blade",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Vanguard Captain",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Trusty Ramhound",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Rally the Troops",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 6,
+        "might": 5,
+        "power": null
+      },
+      {
+        "name": "Call to Glory",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Cull the Weak",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Spectral Matron",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 4,
+        "power": 2
+      },
+      {
+        "name": "Seal of Unity",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 0,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Blood Rush",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Long Sword",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": 1
+      },
+      {
+        "name": "Sun Disc",
+        "quantity": 1,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "The Arena's Greatest",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Trifarian War Camp",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Seat of Power",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Fury Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Order Rune",
+        "quantity": 6,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Salvage",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Rengar, Pouncing",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Vi, Destructive",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 2,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Imperial Decree",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 5,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Against the Odds",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Deathgrip",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      }
+    ]
+  },
+  {
+    "id": "fe3c6d4d-4b18-4f7a-a9ac-e0b527df9ec2",
+    "name": "Yasuo Aggro",
+    "legend": "Yasuo, Windrider",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Unforgiven",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Irelia, Fervent",
+        "quantity": 3,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 4,
+        "power": null
+      },
+      {
+        "name": "Yasuo, Remorseful",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 6,
+        "might": 6,
+        "power": 2
+      },
+      {
+        "name": "En Garde",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mask of Foresight",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Ride the Wind",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Sneaky Deckhand",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Tideturner",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Lonely Poro",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Stellacorn Herder",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Guardian Angel",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Heart of Dark Ice",
+        "quantity": 3,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Rebuke",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Hard Bargain",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Targon's Peak",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Sunken Temple",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Treasure Hoard",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Chaos Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Adaptatron",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Gust",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Defy",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      }
+    ]
+  },
+  {
+    "id": "2cdf19e5-1c7b-463c-ac1d-c1f16a33ef2c",
+    "name": "Ahri",
+    "legend": "Ahri, Inquisitive",
+    "source": "turnemsideways.gg",
+    "maindeck": [
+      {
+        "name": "Azir, Ascendant",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 6,
+        "might": 6,
+        "power": 1
+      },
+      {
+        "name": "Janna, Savior",
+        "quantity": 2,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Sona, Harmonious",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 4,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Ahri, Inquisitive",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 3,
+        "might": 3,
+        "power": 1
+      },
+      {
+        "name": "Discipline",
+        "quantity": 3,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Ravenbloom Student",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Thousand-Tailed Watcher",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 7,
+        "might": 7,
+        "power": 1
+      },
+      {
+        "name": "Stellacorn Herder",
+        "quantity": 3,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Charm",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Defy",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "En Garde",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Stalwart Poro",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 2,
+        "might": 2,
+        "power": null
+      },
+      {
+        "name": "Sunlit Guardian",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Zhonya's Hourglass",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Brutalizer",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 2,
+        "might": 1,
+        "power": null
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 2,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Sterak's Gage",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 3,
+        "might": 3,
+        "power": 2
+      },
+      {
+        "name": "Cloth Armor",
+        "quantity": 2,
+        "type": "Gear",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Singularity",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 6,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Vilemaw's Lair",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Forge of the Fluft",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "The Papertree",
+        "quantity": 1,
+        "type": "Battlefield",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Calm Rune",
+        "quantity": 7,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Mind Rune",
+        "quantity": 5,
+        "type": "Rune",
+        "super": "Basic",
+        "energy": null,
+        "might": null,
+        "power": null
+      },
+      {
+        "name": "Nine-Tailed Fox",
+        "quantity": 1,
+        "type": "Legend",
+        "super": null,
+        "energy": null,
+        "might": null,
+        "power": null
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Adaptatron",
+        "quantity": 2,
+        "type": "Unit",
+        "super": null,
+        "energy": 4,
+        "might": 3,
+        "power": null
+      },
+      {
+        "name": "Wind Wall",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 3,
+        "might": null,
+        "power": 2
+      },
+      {
+        "name": "Ahri, Alluring",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 4,
+        "power": 1
+      },
+      {
+        "name": "Blitzcrank, Impassive",
+        "quantity": 1,
+        "type": "Unit",
+        "super": "Champion",
+        "energy": 5,
+        "might": 5,
+        "power": 1
+      },
+      {
+        "name": "Bellows Breath",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 1,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Not So Fast",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": 1
+      },
+      {
+        "name": "Thwonk!",
+        "quantity": 1,
+        "type": "Spell",
+        "super": null,
+        "energy": 2,
+        "might": null,
+        "power": null
+      }
+    ]
+  }
+]

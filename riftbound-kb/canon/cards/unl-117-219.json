@@ -1,0 +1,72 @@
+{
+  "card_id": "unl-117-219",
+  "name": "Arachnoid Horror",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "117",
+  "public_code": "UNL-117/219",
+  "card_type": "Unit",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Body"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": 6,
+    "health": null,
+    "reserve": 6,
+    "might_bonus": null
+  },
+  "text": "[Hunt 2] (When I conquer or hold, gain 2 XP.)\nI can be played to an occupied battlefield if an enemy unit is alone there.\nFriendly units can be played to an occupied battlefield if an enemy unit is alone there.",
+  "text_rich": "<p>[Hunt 2] (When I conquer or hold, gain 2 XP.)<br />I can be played to an occupied battlefield if an enemy unit is alone there.<br />Friendly units can be played to an occupied battlefield if an enemy unit is alone there.</p>",
+  "rarity": "Epic",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/ae2ec829a6714ac75e8b203631af08c0c1e1565f-744x1039.png"
+  },
+  "artist": "Six More Vodka",
+  "accessibility_text": "Riftbound Unit: Arachnoid Horror. [Hunt 2] (When I conquer or hold, gain 2 XP.)\nI can be played to an occupied battlefield if an enemy unit is alone there.\nFriendly units can be played to an occupied battlefield if an enemy unit is alone there.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "flags",
+      "id",
+      "illustrator",
+      "might",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

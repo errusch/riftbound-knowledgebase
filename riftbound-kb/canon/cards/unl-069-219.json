@@ -1,0 +1,66 @@
+{
+  "card_id": "unl-069-219",
+  "name": "Sprite Burst",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "69",
+  "public_code": "UNL-069/219",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Mind"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 5,
+    "might_bonus": null
+  },
+  "text": "Play two ready 3 :rb_might: Sprite unit tokens with [Temporary]. (Kill each at the start of its controller's Beginning Phase, before scoring.)",
+  "text_rich": "<p>Play two ready 3 :rb_might: Sprite unit tokens with [Temporary]. (Kill each at the start of its controller's Beginning Phase, before scoring.)</p>",
+  "rarity": "Common",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/4427ceffae1c3e7b012167461ce7c080bb2c1fe4-744x1039.png"
+  },
+  "artist": "Envar Studio",
+  "accessibility_text": "Riftbound Spell: Sprite Burst. Play two ready 3 [S] Sprite unit tokens with [Temporary]. (Kill each at the start of its controller's Beginning Phase, before scoring.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "flags",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

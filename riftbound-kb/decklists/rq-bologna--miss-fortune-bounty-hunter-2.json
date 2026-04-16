@@ -1,0 +1,183 @@
+{
+  "decklist_id": "rq-bologna--miss-fortune-bounty-hunter-2",
+  "event_id": "rq-bologna",
+  "player": "SEBIQQQQQQQQQQQQ",
+  "legend": "Miss Fortune, Bounty Hunter",
+  "placement": 2,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": "ogn-268-298",
+      "count": 2,
+      "name": "Bullet Time",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-122-221",
+      "count": 3,
+      "name": "Called Shot",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-138-298",
+      "count": 3,
+      "name": "Catalyst of Aeons",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "count": 3,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-160-298",
+      "count": 3,
+      "name": "Dazzling Aurora",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 3,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-169-298",
+      "count": 2,
+      "name": "Gust",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "count": 2,
+      "name": "Hard Bargain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-201-298",
+      "count": 1,
+      "name": "Invert Timelines",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-150-221",
+      "count": 2,
+      "name": "Last Rites",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-192-298",
+      "count": 3,
+      "name": "Mindsplitter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-134-298",
+      "count": 3,
+      "name": "Mobilize",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-097-221",
+      "count": 2,
+      "name": "Punch First",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 2,
+      "name": "Sabotage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-158a-298",
+      "count": 2,
+      "name": "Volibear, Imposing",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-135-221",
+      "count": 2,
+      "name": "Factory Recall",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-180-298",
+      "count": 1,
+      "name": "Fading Memories",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-169-298",
+      "count": 1,
+      "name": "Gust",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-201-298",
+      "count": 1,
+      "name": "Invert Timelines",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-193-298",
+      "count": 1,
+      "name": "Miss Fortune, Buccaneer",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-145-298",
+      "count": 2,
+      "name": "Unyielding Spirit",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-276-298",
+      "count": 1,
+      "name": "Aspirant's Climb",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-287-298",
+      "count": 1,
+      "name": "Sigil of the Storm",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 6,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 6,
+      "name": "Chaos Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=SEBIQQQQQQQQQQQQ"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Miss Fortune, Captain | deck_type=top_8"
+}

@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "purpose": "Registry of trusted source classes for the Riftbound KB",
+  "sources": [
+    {
+      "source_id": "official-news",
+      "source_type": "official",
+      "name": "Riftbound Official News",
+      "base_url": "https://riftbound.leagueoflegends.com/en-us/news/",
+      "usage": ["event coverage", "announcements", "set releases", "organized play coverage"],
+      "trust_tier": "official"
+    },
+    {
+      "source_id": "official-rules",
+      "source_type": "official",
+      "name": "Official rules / errata / tournament docs",
+      "base_url": "local-canon-and-imported-docs",
+      "usage": ["rules", "errata", "tournament policy"],
+      "trust_tier": "official"
+    },
+    {
+      "source_id": "tcgplayer-us",
+      "source_type": "market",
+      "name": "TCGPlayer US",
+      "base_url": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/riftbound-league-of-legends-trading-card-game",
+      "usage": ["US pricing", "availability"],
+      "trust_tier": "market"
+    },
+    {
+      "source_id": "cardmarket-eu",
+      "source_type": "market",
+      "name": "Cardmarket EU",
+      "base_url": "https://www.cardmarket.com/en/Riftbound",
+      "usage": ["EU pricing", "availability"],
+      "trust_tier": "market"
+    },
+    {
+      "source_id": "magicalmeta-trends",
+      "source_type": "market",
+      "name": "MagicalMeta Riftbound",
+      "base_url": "https://magicalmeta.ink/riftbound",
+      "usage": ["trend signals", "market movement"],
+      "trust_tier": "market"
+    }
+  ]
+}

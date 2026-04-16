@@ -1,0 +1,165 @@
+{
+  "event_id": "rq-houston-2025",
+  "event_type": "regional_qualifier",
+  "event_name": "Regional Qualifier: Houston",
+  "region": null,
+  "city": "Houston",
+  "country": "USA",
+  "start_date": "2025-12-13",
+  "end_date": "2025-12-14",
+  "coverage_kind": "results",
+  "placements": [
+    {
+      "place": 1,
+      "player": "Dhawally",
+      "legend": "Annie, Dark Child",
+      "decklist_id": "rq_houston_2025--annie,-dark-child-1"
+    },
+    {
+      "place": 2,
+      "player": "Blargh1111",
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "rq_houston_2025--master-yi,-wuju-bladesman-2"
+    },
+    {
+      "place": 3,
+      "player": "Zent",
+      "legend": "Annie, Dark Child",
+      "decklist_id": "rq_houston_2025--annie,-dark-child-3"
+    },
+    {
+      "place": 4,
+      "player": "Prymor",
+      "legend": "Annie, Dark Child",
+      "decklist_id": "rq_houston_2025--annie,-dark-child-4"
+    },
+    {
+      "place": 5,
+      "player": "Alanzq1",
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "rq_houston_2025--kai'sa,-daughter-of-the-void-5"
+    },
+    {
+      "place": 6,
+      "player": "Clyde",
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "rq_houston_2025--master-yi,-wuju-bladesman-6"
+    },
+    {
+      "place": 7,
+      "player": "NoVeggies",
+      "legend": "Annie, Dark Child",
+      "decklist_id": "rq_houston_2025--annie,-dark-child-7"
+    },
+    {
+      "place": 8,
+      "player": "georgeg",
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "rq_houston_2025--kai'sa,-daughter-of-the-void-8"
+    },
+    {
+      "place": 14,
+      "player": "TrinityJohn",
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "rq_houston_2025--miss-fortune,-bounty-hunter-14"
+    },
+    {
+      "place": 36,
+      "player": "Gorica",
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "rq_houston_2025--teemo,-swift-scout-36"
+    },
+    {
+      "place": 47,
+      "player": "Malakx",
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "rq_houston_2025--volibear,-relentless-storm-47"
+    },
+    {
+      "place": 50,
+      "player": "Ghael Winds",
+      "legend": "Yasuo, Unforgiven",
+      "decklist_id": "rq_houston_2025--yasuo,-unforgiven-50"
+    },
+    {
+      "place": 52,
+      "player": "LMJeffJones",
+      "legend": "Lee Sin, Blind Monk",
+      "decklist_id": "rq_houston_2025--lee-sin,-blind-monk-52"
+    },
+    {
+      "place": 53,
+      "player": "Gambit01",
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "rq_houston_2025--viktor,-herald-of-the-arcane-53"
+    },
+    {
+      "place": 57,
+      "player": "Puyshpii",
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "rq_houston_2025--darius,-hand-of-noxus-57"
+    },
+    {
+      "place": 98,
+      "player": "Kale",
+      "legend": "Ahri, Nine-Tailed Fox",
+      "decklist_id": "rq_houston_2025--ahri,-nine-tailed-fox-98"
+    },
+    {
+      "place": 102,
+      "player": "BoiWaffle",
+      "legend": "Sett, The Boss",
+      "decklist_id": "rq_houston_2025--sett,-the-boss-102"
+    },
+    {
+      "place": 130,
+      "player": "Eric",
+      "legend": "Jinx, Loose Cannon",
+      "decklist_id": "rq_houston_2025--jinx,-loose-cannon-130"
+    },
+    {
+      "place": 156,
+      "player": "RiftboundTee",
+      "legend": "Garen, Might of Demacia",
+      "decklist_id": "rq_houston_2025--garen,-might-of-demacia-156"
+    },
+    {
+      "place": 167,
+      "player": "ryanempire",
+      "legend": "Lux, Lady of Luminosity",
+      "decklist_id": "rq_houston_2025--lux,-lady-of-luminosity-167"
+    },
+    {
+      "place": 234,
+      "player": "Frodan",
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "rq_houston_2025--leona,-radiant-dawn-234"
+    }
+  ],
+  "best_of_legends": [
+    "Miss Fortune, Bounty Hunter",
+    "Teemo, Swift Scout",
+    "Volibear, Relentless Storm",
+    "Yasuo, Unforgiven",
+    "Lee Sin, Blind Monk",
+    "Viktor, Herald of the Arcane",
+    "Darius, Hand of Noxus",
+    "Ahri, Nine-Tailed Fox",
+    "Sett, The Boss",
+    "Jinx, Loose Cannon",
+    "Garen, Might of Demacia",
+    "Lux, Lady of Luminosity",
+    "Leona, Radiant Dawn"
+  ],
+  "source": {
+    "source_type": "best_available",
+    "source_name": "legacy_local_knowledge_db",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "best_available",
+    "notes": "upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | upstream_status=reviewed"
+  },
+  "secondary_sources": [],
+  "notes": "player_count=None | format=Origins | decklist_count=21"
+}

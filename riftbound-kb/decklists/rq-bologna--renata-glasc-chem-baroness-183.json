@@ -1,0 +1,195 @@
+{
+  "decklist_id": "rq-bologna--renata-glasc-chem-baroness-183",
+  "event_id": "rq-bologna",
+  "player": "JustSR",
+  "legend": "Renata Glasc, Chem-Baroness",
+  "placement": 183,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "sfd-162-221",
+      "count": 2,
+      "name": "Blood Money",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-081-221",
+      "count": 2,
+      "name": "Card Sharp",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-064-221",
+      "count": 1,
+      "name": "Cloth Armor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-083-298",
+      "count": 2,
+      "name": "Consult the Past",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-163-221",
+      "count": 2,
+      "name": "Deathgrip",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-110-298",
+      "count": 2,
+      "name": "Ekko, Recurrent",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "count": 3,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-155-221",
+      "count": 3,
+      "name": "Honest Broker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-202-221",
+      "count": 3,
+      "name": "Hostile Takeover",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-085-221",
+      "count": 3,
+      "name": "Ornn, Forge God",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-069-221",
+      "count": 3,
+      "name": "Plundering Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 1,
+      "name": "Salvage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-241-298",
+      "count": 2,
+      "name": "Shen, Kinkou",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-105-298",
+      "count": 2,
+      "name": "Singularity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-095-298",
+      "count": 3,
+      "name": "Stupefy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-122-298",
+      "count": 2,
+      "name": "Time Warp",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-174-221",
+      "count": 1,
+      "name": "Trove Golem",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-070-221",
+      "count": 2,
+      "name": "Wages of Pain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-209-298",
+      "count": 2,
+      "name": "Cull the Weak",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-074-221",
+      "count": 2,
+      "name": "Pickpocket",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 1,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-105-298",
+      "count": 1,
+      "name": "Singularity",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-174-221",
+      "count": 1,
+      "name": "Trove Golem",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-086-221",
+      "count": 1,
+      "name": "World Atlas",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-290-298",
+      "count": 1,
+      "name": "The Arena's Greatest",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-220-221",
+      "count": 1,
+      "name": "Treasure Hoard",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-295-298",
+      "count": 1,
+      "name": "Vilemaw's Lair",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "count": 7,
+      "name": "Mind Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "count": 5,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=JustSR"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Renata Glasc, Mastermind | deck_type=best_of"
+}

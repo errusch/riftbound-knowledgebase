@@ -1,0 +1,337 @@
+{
+  "id": "484306f1-5785-4231-a24f-1b4f7127e9ae",
+  "name": "64 - Best-Of MF- Shenzhen National Open",
+  "legend": "Miss Fortune, Bounty Hunter",
+  "legend_variant": "OGN-267",
+  "legend_id": "adc14a56-d177-470a-87b2-49cf9b8ca07c",
+  "legend_colors": [
+    "Body",
+    "Chaos"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Miss Fortune, Captain",
+      "quantity": 1,
+      "variantNumber": "OGN-162",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Obelisk of Power",
+      "quantity": 1,
+      "variantNumber": "OGN-284",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Aspirant's Climb",
+      "quantity": 1,
+      "variantNumber": "OGN-276",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "The Papertree",
+      "quantity": 1,
+      "variantNumber": "SFD-219",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Body Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-126",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Chaos Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-166",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Mindsplitter",
+      "quantity": 3,
+      "variantNumber": "OGN-192",
+      "type": "Unit",
+      "energy": 7,
+      "might": 7,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Bullet Time",
+      "quantity": 3,
+      "variantNumber": "OGN-268",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body",
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Mobilize",
+      "quantity": 3,
+      "variantNumber": "OGN-134",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Catalyst of Aeons",
+      "quantity": 3,
+      "variantNumber": "OGN-138",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Fight or Flight",
+      "quantity": 3,
+      "variantNumber": "OGN-168",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Stacked Deck",
+      "quantity": 3,
+      "variantNumber": "OGN-183",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Dazzling Aurora",
+      "quantity": 3,
+      "variantNumber": "OGN-160",
+      "type": "Gear",
+      "energy": 9,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Last Rites",
+      "quantity": 2,
+      "variantNumber": "SFD-150",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Punch First",
+      "quantity": 1,
+      "variantNumber": "SFD-097",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Called Shot",
+      "quantity": 3,
+      "variantNumber": "SFD-122",
+      "type": "Spell",
+      "energy": 0,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Challenge",
+      "quantity": 3,
+      "variantNumber": "OGN-128",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Gust",
+      "quantity": 3,
+      "variantNumber": "OGN-169",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 3,
+      "variantNumber": "OGN-156",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Ride the Wind",
+      "quantity": 1,
+      "variantNumber": "OGN-173",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Volibear, Imposing",
+      "quantity": 2,
+      "variantNumber": "OGN-158",
+      "type": "Unit",
+      "energy": 12,
+      "might": 10,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Factory Recall",
+      "quantity": 2,
+      "variantNumber": "SFD-135",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Unyielding Spirit",
+      "quantity": 2,
+      "variantNumber": "OGN-145",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Rebuke",
+      "quantity": 1,
+      "variantNumber": "OGN-172",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Hard Bargain",
+      "quantity": 2,
+      "variantNumber": "SFD-136",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Punch First",
+      "quantity": 1,
+      "variantNumber": "SFD-097",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

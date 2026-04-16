@@ -1,0 +1,177 @@
+{
+  "decklist_id": "rq-bologna--lee-sin-blind-monk-162",
+  "event_id": "rq-bologna",
+  "player": "BoxingringxD",
+  "legend": "Lee Sin, Blind Monk",
+  "placement": 162,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-128-298",
+      "count": 3,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-043-298",
+      "count": 2,
+      "name": "Charm",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 2,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-058-298",
+      "count": 3,
+      "name": "Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-095-221",
+      "count": 2,
+      "name": "Doran's Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-043-221",
+      "count": 1,
+      "name": "Emperor's Divide",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-046-298",
+      "count": 2,
+      "name": "En Garde",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-132-298",
+      "count": 3,
+      "name": "First Mate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-057a-221",
+      "count": 3,
+      "name": "Irelia, Fervent",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-036-221",
+      "count": 3,
+      "name": "Lonely Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-113-221",
+      "count": 3,
+      "name": "Lucian, Merciless",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-045-221",
+      "count": 2,
+      "name": "Not So Fast",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-154-298",
+      "count": 1,
+      "name": "Primal Strength",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-097-221",
+      "count": 3,
+      "name": "Punch First",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-052-298",
+      "count": 3,
+      "name": "Stalwart Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 3,
+      "name": "Zhonya's Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 1,
+      "name": "Defy",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-032-221",
+      "count": 2,
+      "name": "Disarming Rake",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-046-298",
+      "count": 1,
+      "name": "En Garde",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-105-221",
+      "count": 2,
+      "name": "Ruin Runner",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-232-221",
+      "count": 2,
+      "name": "Sett, Brawler",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-282-298",
+      "count": 1,
+      "name": "Monastery of Hirana",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-218-221",
+      "count": 1,
+      "name": "Sunken Temple",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 7,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 5,
+      "name": "Calm Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=BoxingringxD"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Lee Sin, Centered | deck_type=best_of"
+}

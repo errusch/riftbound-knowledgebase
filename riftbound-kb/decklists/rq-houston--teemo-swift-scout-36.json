@@ -1,0 +1,177 @@
+{
+  "decklist_id": "rq-houston--teemo-swift-scout-36",
+  "event_id": "rq-houston",
+  "player": "Gorica",
+  "legend": "Teemo, Swift Scout",
+  "placement": 36,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-083-298",
+      "count": 3,
+      "name": "Consult the Past",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-109-298",
+      "count": 3,
+      "name": "Dr. Mundo, Expert",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-167-298",
+      "count": 3,
+      "name": "Ember Monk",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 3,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogs-011-024",
+      "count": 1,
+      "name": "Flash",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-169-298",
+      "count": 3,
+      "name": "Gust",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-103-298",
+      "count": 3,
+      "name": "Ravenbloom Student",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-104-298",
+      "count": 3,
+      "name": "Retreat",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-173-298",
+      "count": 3,
+      "name": "Ride the Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-094-298",
+      "count": 2,
+      "name": "Sprite Call",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-106-298",
+      "count": 1,
+      "name": "Sprite Mother",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-095-298",
+      "count": 3,
+      "name": "Stupefy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-116-298",
+      "count": 2,
+      "name": "Thousand-Tailed Watcher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-199-298",
+      "count": 3,
+      "name": "Tideturner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-108-298",
+      "count": 1,
+      "name": "Convergent Mutation",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-087-298",
+      "count": 2,
+      "name": "Lecturing Yordle",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-088-298",
+      "count": 1,
+      "name": "Mega-Mech",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 2,
+      "name": "Rebuke",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-093-298",
+      "count": 1,
+      "name": "Smoke Screen",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-106-298",
+      "count": 1,
+      "name": "Sprite Mother",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-280-298",
+      "count": 1,
+      "name": "Grove of the God-Willow",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-297-298",
+      "count": 1,
+      "name": "Windswept Hillock",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 5,
+      "name": "Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "count": 7,
+      "name": "Mind Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Gorica"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Teemo, Scout | deck_type=best_of"
+}

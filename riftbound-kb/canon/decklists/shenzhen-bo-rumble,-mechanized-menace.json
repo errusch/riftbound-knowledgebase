@@ -1,0 +1,409 @@
+{
+  "id": "bddd7ad3-3f45-4920-9d46-58e8de2d188d",
+  "name": "181 - Best-Of Rumble - Shenzhen National Open",
+  "legend": "Rumble, Mechanized Menace",
+  "legend_variant": "SFD-181",
+  "legend_id": "ca4eae1a-d99c-45ab-b101-3321a6f45733",
+  "legend_colors": [
+    "Fury",
+    "Mind"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Rumble, Scrapper",
+      "quantity": 1,
+      "variantNumber": "SFD-089",
+      "type": "Unit",
+      "energy": 5,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Trifarian War Camp",
+      "quantity": 1,
+      "variantNumber": "OGN-294",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Obelisk of Power",
+      "quantity": 1,
+      "variantNumber": "OGN-284",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Minefield",
+      "quantity": 1,
+      "variantNumber": "SFD-212",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Mind Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-089",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Fury Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-007",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Rumble, Scrapper",
+      "quantity": 2,
+      "variantNumber": "SFD-089",
+      "type": "Unit",
+      "energy": 5,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Danger Zone",
+      "quantity": 2,
+      "variantNumber": "SFD-182",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury",
+        "Mind"
+      ]
+    },
+    {
+      "name": "Gem Jammer",
+      "quantity": 3,
+      "variantNumber": "SFD-007",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "quantity": 3,
+      "variantNumber": "SFD-021",
+      "type": "Unit",
+      "energy": 6,
+      "might": 6,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Bubble Bot",
+      "quantity": 3,
+      "variantNumber": "SFD-062",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Forecaster",
+      "quantity": 3,
+      "variantNumber": "SFD-065",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Breakneck Mech",
+      "quantity": 2,
+      "variantNumber": "SFD-071",
+      "type": "Unit",
+      "energy": 8,
+      "might": 7,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Production Surge",
+      "quantity": 2,
+      "variantNumber": "SFD-076",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Rumble, Hotheaded",
+      "quantity": 3,
+      "variantNumber": "SFD-026",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Stupefy",
+      "quantity": 2,
+      "variantNumber": "OGN-095",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Angle Shot",
+      "quantity": 1,
+      "variantNumber": "SFD-011",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Seal of Insight",
+      "quantity": 1,
+      "variantNumber": "OGN-120",
+      "type": "Gear",
+      "energy": 0,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Sky Splitter",
+      "quantity": 2,
+      "variantNumber": "OGN-014",
+      "type": "Spell",
+      "energy": 8,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Consult the Past",
+      "quantity": 2,
+      "variantNumber": "OGN-083",
+      "type": "Spell",
+      "energy": 4,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Lecturing Yordle",
+      "quantity": 2,
+      "variantNumber": "OGN-087",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Minotaur Reckoner",
+      "quantity": 2,
+      "variantNumber": "SFD-014",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Against the Odds",
+      "quantity": 1,
+      "variantNumber": "SFD-001",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Cloth Armor",
+      "quantity": 1,
+      "variantNumber": "SFD-064",
+      "type": "Gear",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Thermo Beam",
+      "quantity": 1,
+      "variantNumber": "OGN-022",
+      "type": "Spell",
+      "energy": 5,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Long Sword",
+      "quantity": 1,
+      "variantNumber": "SFD-022",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Minotaur Reckoner",
+      "quantity": 1,
+      "variantNumber": "SFD-014",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Thermo Beam",
+      "quantity": 1,
+      "variantNumber": "OGN-022",
+      "type": "Spell",
+      "energy": 5,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Pickpocket",
+      "quantity": 2,
+      "variantNumber": "SFD-074",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Singularity",
+      "quantity": 2,
+      "variantNumber": "OGN-105",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Angle Shot",
+      "quantity": 1,
+      "variantNumber": "SFD-011",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Breakneck Mech",
+      "quantity": 1,
+      "variantNumber": "SFD-071",
+      "type": "Unit",
+      "energy": 8,
+      "might": 7,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

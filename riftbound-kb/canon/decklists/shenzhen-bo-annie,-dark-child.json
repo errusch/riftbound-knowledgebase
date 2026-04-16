@@ -1,0 +1,372 @@
+{
+  "id": "f8e82260-692e-47a8-811a-17c5ca0ec67c",
+  "name": "30- Best-Of Annie - Shenzhen National Open",
+  "legend": "Annie, Dark Child",
+  "legend_variant": "OGS-017",
+  "legend_id": "a0809675-489f-4fa3-bf4d-e5161172bf2a",
+  "legend_colors": [
+    "Fury",
+    "Chaos"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Annie, Stubborn",
+      "quantity": 1,
+      "variantNumber": "OGS-010",
+      "type": "Unit",
+      "energy": 4,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Obelisk of Power",
+      "quantity": 1,
+      "variantNumber": "OGN-284",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "The Dreaming Tree",
+      "quantity": 1,
+      "variantNumber": "OGN-292",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Zaun Warrens",
+      "quantity": 1,
+      "variantNumber": "OGN-298",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Fury Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-007",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Chaos Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-166",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Draven, Vanquisher",
+      "quantity": 1,
+      "variantNumber": "SFD-020",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Darius, Trifarian",
+      "quantity": 1,
+      "variantNumber": "OGN-027",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Kai'Sa, Survivor",
+      "quantity": 3,
+      "variantNumber": "OGN-039",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "quantity": 3,
+      "variantNumber": "SFD-021",
+      "type": "Unit",
+      "energy": 6,
+      "might": 6,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Noxus Hopeful",
+      "quantity": 3,
+      "variantNumber": "OGN-012",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Brynhir Thundersong",
+      "quantity": 1,
+      "variantNumber": "OGN-026",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Sneaky Deckhand",
+      "quantity": 2,
+      "variantNumber": "OGN-176",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Traveling Merchant",
+      "quantity": 3,
+      "variantNumber": "OGN-185",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Tideturner",
+      "quantity": 3,
+      "variantNumber": "OGN-199",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Hard Bargain",
+      "quantity": 1,
+      "variantNumber": "SFD-136",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Switcheroo",
+      "quantity": 1,
+      "variantNumber": "SFD-145",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Flash",
+      "quantity": 2,
+      "variantNumber": "OGS-011",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Cleave",
+      "quantity": 3,
+      "variantNumber": "OGN-004",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Void Seeker",
+      "quantity": 1,
+      "variantNumber": "OGN-024",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Fight or Flight",
+      "quantity": 3,
+      "variantNumber": "OGN-168",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Falling Star",
+      "quantity": 2,
+      "variantNumber": "OGN-029",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Rebuke",
+      "quantity": 2,
+      "variantNumber": "OGN-172",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Stacked Deck",
+      "quantity": 3,
+      "variantNumber": "OGN-183",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Long Sword",
+      "quantity": 1,
+      "variantNumber": "SFD-022",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Piercing Light",
+      "quantity": 2,
+      "variantNumber": "SFD-023",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Hard Bargain",
+      "quantity": 1,
+      "variantNumber": "SFD-136",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Rek'Sai, Breacher",
+      "quantity": 3,
+      "variantNumber": "SFD-029",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Ezreal, Prodigy",
+      "quantity": 2,
+      "variantNumber": "SFD-149",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

@@ -1,0 +1,37 @@
+{
+  "event_id": "rq-singapore",
+  "event_type": "regional_qualifier",
+  "event_name": "Regional Qualifier: Singapore",
+  "region": "APAC",
+  "city": "Singapore",
+  "country": "Singapore",
+  "start_date": "2026-09-04",
+  "end_date": "2026-09-06",
+  "coverage_kind": "roadmap_placeholder",
+  "placements": [],
+  "best_of_legends": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official News - 2026 Roadmap",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/2026-roadmap",
+    "source_date": "2026-02-04",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Placeholder event created from the official 2026 roadmap RQ schedule table. Event exists on roadmap, but detailed results/decklists are not yet attached here."
+  },
+  "secondary_sources": [],
+  "sources": [
+    {
+      "source_type": "official",
+      "source_name": "Riftbound Official News - 2026 Roadmap",
+      "source_url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/2026-roadmap",
+      "source_date": "2026-02-04",
+      "retrieved_at": "2026-04-02",
+      "trust_tier": "official",
+      "notes": "Roadmap schedule placeholder source"
+    }
+  ],
+  "notes": "Created from official roadmap schedule as a forward-looking major event placeholder. Status set to announced from official roadmap; not a missing-results failure until event date passes.",
+  "trust_tier": "official",
+  "status": "announced"
+}

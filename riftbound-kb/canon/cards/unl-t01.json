@@ -1,0 +1,64 @@
+{
+  "card_id": "unl-t01",
+  "name": "Baron Pit",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "1",
+  "public_code": "UNL-T01",
+  "card_type": "Battlefield",
+  "subtypes": [],
+  "domains": [
+    "Colorless"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": null,
+    "might_bonus": null
+  },
+  "text": "(You can't start the game with a token battlefield.)\nUnits can move here from anywhere.",
+  "text_rich": "<p>(You can't start the game with a token battlefield.)<br />Units can move here from anywhere.</p>",
+  "rarity": "Common",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/e44f173629322a4e0c32d3f8902c294d4482ef42-1039x744.png"
+  },
+  "artist": "Fish Art Studio",
+  "accessibility_text": "Riftbound Battlefield: Baron Pit. (You can't start the game with a token battlefield.)\nUnits can move here from anywhere.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "landscape",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

@@ -1,0 +1,66 @@
+{
+  "card_id": "unl-072-219",
+  "name": "Crescent Strike",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "72",
+  "public_code": "UNL-072/219",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Mind"
+  ],
+  "cost": 1,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 3,
+    "might_bonus": null
+  },
+  "text": "[Action] (Play on your turn or in showdowns.)\nChoose a battlefield and an enemy unit there. Deal 4 to that unit and 1 to each other enemy unit there.",
+  "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Choose a battlefield and an enemy unit there. Deal 4 to that unit and 1 to each other enemy unit there.</p>",
+  "rarity": "Uncommon",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/34ab7eff1eb8833ab8b9978eac18c4fb18b1ac81-744x1039.png"
+  },
+  "artist": "Kudos Productions",
+  "accessibility_text": "Riftbound Spell: Crescent Strike. [Action] (Play on your turn or in showdowns.)\nChoose a battlefield and an enemy unit there. Deal 4 to that unit and 1 to each other enemy unit there.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "power",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

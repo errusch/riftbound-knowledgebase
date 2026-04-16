@@ -1,0 +1,207 @@
+{
+  "decklist_id": "rq-bologna--sett-the-boss-96",
+  "event_id": "rq-bologna",
+  "player": "NLV Tomino",
+  "legend": "Sett, The Boss",
+  "placement": 96,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "sfd-109-221",
+      "count": 1,
+      "name": "Akshan, Mischievous",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-118-221",
+      "count": 2,
+      "name": "Boneshiver",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-207-298",
+      "count": 1,
+      "name": "Call to Glory",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "count": 3,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-163-221",
+      "count": 2,
+      "name": "Deathgrip",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-101-221",
+      "count": 2,
+      "name": "Fae Dragon",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-232-298",
+      "count": 3,
+      "name": "Fiora, Victorious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-132-298",
+      "count": 3,
+      "name": "First Mate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "count": 1,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-155-221",
+      "count": 3,
+      "name": "Honest Broker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-113-221",
+      "count": 3,
+      "name": "Lucian, Merciless",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-114-221",
+      "count": 1,
+      "name": "Marching Orders",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-136-298",
+      "count": 3,
+      "name": "Pit Rookie",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-097-221",
+      "count": 3,
+      "name": "Punch First",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-105-221",
+      "count": 2,
+      "name": "Ruin Runner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 1,
+      "name": "Sabotage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-270-298",
+      "count": 3,
+      "name": "Showstopper",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-108-221",
+      "count": 2,
+      "name": "Warmog's Armor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-109-221",
+      "count": 1,
+      "name": "Akshan, Mischievous",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-207-298",
+      "count": 1,
+      "name": "Call to Glory",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-127-298",
+      "count": 1,
+      "name": "Cannon Barrage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-209-298",
+      "count": 1,
+      "name": "Cull the Weak",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "count": 1,
+      "name": "Hidden Blade",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 1,
+      "name": "Sabotage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 1,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-145-298",
+      "count": 1,
+      "name": "Unyielding Spirit",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-282-298",
+      "count": 1,
+      "name": "Monastery of Hirana",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-218-221",
+      "count": 1,
+      "name": "Sunken Temple",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-292-298",
+      "count": 1,
+      "name": "The Dreaming Tree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 9,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "count": 3,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=NLV Tomino"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Sett, Brawler | deck_type=best_of"
+}

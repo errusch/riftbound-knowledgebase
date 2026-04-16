@@ -1,0 +1,361 @@
+{
+  "id": "bc5e9ccd-9996-4805-a1b0-fbdbea4eb851",
+  "name": "191 - Best-Of Lucian - Shenzhen National Open",
+  "legend": "Lucian, Purifier",
+  "legend_variant": "SFD-183",
+  "legend_id": "fac2eaf9-0fbe-4463-a3af-14b2251d6248",
+  "legend_colors": [
+    "Body",
+    "Fury"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Lucian, Merciless",
+      "quantity": 1,
+      "variantNumber": "SFD-113",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Forge of the Fluft",
+      "quantity": 1,
+      "variantNumber": "SFD-208",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Obelisk of Power",
+      "quantity": 1,
+      "variantNumber": "OGN-284",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Sunken Temple",
+      "quantity": 1,
+      "variantNumber": "SFD-218",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Body Rune",
+      "quantity": 7,
+      "variantNumber": "OGN-126",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Fury Rune",
+      "quantity": 5,
+      "variantNumber": "OGN-007",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Lucian, Merciless",
+      "quantity": 2,
+      "variantNumber": "SFD-113",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Akshan, Mischievous",
+      "quantity": 2,
+      "variantNumber": "SFD-109",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Kai'Sa, Survivor",
+      "quantity": 3,
+      "variantNumber": "OGN-039",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Piercing Light",
+      "quantity": 2,
+      "variantNumber": "SFD-023",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Punch First",
+      "quantity": 2,
+      "variantNumber": "SFD-097",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Confront",
+      "quantity": 2,
+      "variantNumber": "OGN-129",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Challenge",
+      "quantity": 2,
+      "variantNumber": "OGN-128",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Sabotage",
+      "quantity": 2,
+      "variantNumber": "OGN-156",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Skyfall of Areion",
+      "quantity": 2,
+      "variantNumber": "SFD-030",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Doran's Blade",
+      "quantity": 2,
+      "variantNumber": "SFD-095",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Hexdrinker",
+      "quantity": 1,
+      "variantNumber": "SFD-102",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Trinity Force",
+      "quantity": 3,
+      "variantNumber": "SFD-115",
+      "type": "Gear",
+      "energy": 4,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Boneshiver",
+      "quantity": 3,
+      "variantNumber": "SFD-118",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Relentless Pursuit",
+      "quantity": 3,
+      "variantNumber": "SFD-184",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body",
+        "Fury"
+      ]
+    },
+    {
+      "name": "Ruin Runner",
+      "quantity": 2,
+      "variantNumber": "SFD-105",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Brynhir Thundersong",
+      "quantity": 3,
+      "variantNumber": "OGN-026",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "First Mate",
+      "quantity": 3,
+      "variantNumber": "OGN-132",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Unyielding Spirit",
+      "quantity": 2,
+      "variantNumber": "OGN-145",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Qiyana, Victorious",
+      "quantity": 2,
+      "variantNumber": "OGN-155",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "quantity": 1,
+      "variantNumber": "SFD-021",
+      "type": "Unit",
+      "energy": 6,
+      "might": 6,
+      "power": 1,
+      "colors": [
+        "Fury"
+      ]
+    },
+    {
+      "name": "Ruin Runner",
+      "quantity": 1,
+      "variantNumber": "SFD-105",
+      "type": "Unit",
+      "energy": 6,
+      "might": 5,
+      "power": 0,
+      "colors": [
+        "Body"
+      ]
+    },
+    {
+      "name": "Against the Odds",
+      "quantity": 2,
+      "variantNumber": "SFD-001",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Fury"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

@@ -1,0 +1,177 @@
+{
+  "decklist_id": "rq-houston--lux-lady-of-luminosity-167",
+  "event_id": "rq-houston",
+  "player": "ryanempire",
+  "legend": "Lux, Lady of Luminosity",
+  "placement": 167,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogs-012-024",
+      "count": 3,
+      "name": "Blast of Power",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-083-298",
+      "count": 1,
+      "name": "Consult the Past",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-209-298",
+      "count": 3,
+      "name": "Cull the Weak",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-210-298",
+      "count": 3,
+      "name": "Daring Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-211-298",
+      "count": 3,
+      "name": "Faithful Manufactor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-085-298",
+      "count": 3,
+      "name": "Falling Comet",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogs-022-024",
+      "count": 2,
+      "name": "Final Spark",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-234-298",
+      "count": 1,
+      "name": "Harnessed Dragon",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "count": 2,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-239-298",
+      "count": 1,
+      "name": "Machine Evangel",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-222-298",
+      "count": 3,
+      "name": "Noxian Drummer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogs-015-024",
+      "count": 2,
+      "name": "Recruit the Vanguard",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-105-298",
+      "count": 3,
+      "name": "Singularity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-216-298",
+      "count": 3,
+      "name": "Soaring Scout",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-122-298",
+      "count": 1,
+      "name": "Time Warp",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-123-298",
+      "count": 3,
+      "name": "Unchecked Power",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-096-298",
+      "count": 2,
+      "name": "Watchful Sentry",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-221-298",
+      "count": 3,
+      "name": "Imperial Decree",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-239-298",
+      "count": 1,
+      "name": "Machine Evangel",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogs-015-024",
+      "count": 1,
+      "name": "Recruit the Vanguard",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 3,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-276-298",
+      "count": 1,
+      "name": "Aspirant's Climb",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-293-298",
+      "count": 1,
+      "name": "The Grand Plaza",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-295-298",
+      "count": 1,
+      "name": "Vilemaw's Lair",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "count": 6,
+      "name": "Mind Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "count": 6,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=ryanempire"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Lux, Crownguard | deck_type=best_of"
+}

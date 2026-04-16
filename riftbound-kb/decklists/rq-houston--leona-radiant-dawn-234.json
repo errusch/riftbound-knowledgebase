@@ -1,0 +1,171 @@
+{
+  "decklist_id": "rq-houston--leona-radiant-dawn-234",
+  "event_id": "rq-houston",
+  "player": "Frodan",
+  "legend": "Leona, Radiant Dawn",
+  "placement": 234,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-207-298",
+      "count": 3,
+      "name": "Call to Glory",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-044-298",
+      "count": 3,
+      "name": "Clockwork Keeper",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 3,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-058-298",
+      "count": 3,
+      "name": "Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-046-298",
+      "count": 3,
+      "name": "En Garde",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-220-298",
+      "count": 1,
+      "name": "Facebreaker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-232-298",
+      "count": 1,
+      "name": "Fiora, Victorious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-238-298",
+      "count": 2,
+      "name": "Leona, Determined",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-050-298",
+      "count": 3,
+      "name": "Rune Prison",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-240a-298",
+      "count": 3,
+      "name": "Sett, Kingpin",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-051-298",
+      "count": 3,
+      "name": "Solari Shieldbearer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-052-298",
+      "count": 3,
+      "name": "Stalwart Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-054-298",
+      "count": 3,
+      "name": "Sunlit Guardian",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-262-298",
+      "count": 3,
+      "name": "Zenith Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 2,
+      "name": "Zhonya's Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "count": 2,
+      "name": "Hidden Blade",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-079a-298",
+      "count": 1,
+      "name": "Leona, Zealot",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 3,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-229-298",
+      "count": 1,
+      "name": "Vengeance",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-064-298",
+      "count": 1,
+      "name": "Wind Wall",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-280-298",
+      "count": 1,
+      "name": "Grove of the God-Willow",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-282-298",
+      "count": 1,
+      "name": "Monastery of Hirana",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-297-298",
+      "count": 1,
+      "name": "Windswept Hillock",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 6,
+      "name": "Calm Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "count": 6,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Frodan"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Leona, Determined | deck_type=best_of"
+}

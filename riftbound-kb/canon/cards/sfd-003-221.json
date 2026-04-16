@@ -1,0 +1,69 @@
+{
+  "card_id": "sfd-003-221",
+  "name": "Blood Rush",
+  "set_code": "SFD",
+  "set_name": "Spiritforged",
+  "collector_number": "3",
+  "public_code": "SFD-003/221",
+  "card_type": "Spell",
+  "subtypes": [],
+  "domains": [
+    "Fury"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 1,
+    "might_bonus": null
+  },
+  "text": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_energy_1: (You may pay the additional cost to repeat this spell's effect.)\nGive a unit [Assault 2] this turn. (+2 :rb_might: while it's an attacker.)",
+  "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />[Repeat] :rb_energy_1: (You may pay the additional cost to repeat this spell's effect.)<br />Give a unit [Assault 2] this turn. (+2 :rb_might: while it's an attacker.)</p>",
+  "rarity": "Common",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/931b77b9ab56c3abc85686be4d2452c450f9b3e0-744x1039.png"
+  },
+  "artist": "Rafael Zanchetin",
+  "accessibility_text": "Riftbound Spell: Blood Rush. [Action] (Play on your turn or in showdowns.)\n[Repeat] [1] (You may pay the additional cost to repeat this spell's effect.)\nGive a unit [Assault 2] this turn. (+2 [M] while it's an attacker.)",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [
+    "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata"
+  ],
+  "rulings_links": [
+    "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq"
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

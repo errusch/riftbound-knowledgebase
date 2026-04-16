@@ -1,0 +1,71 @@
+{
+  "card_id": "unl-082a-219",
+  "name": "Lillia, Fae Fawn",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "82",
+  "public_code": "UNL-082a/219",
+  "card_type": "Unit",
+  "subtypes": [
+    "label",
+    "tags"
+  ],
+  "domains": [
+    "Mind"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": 3,
+    "health": null,
+    "reserve": 3,
+    "might_bonus": null
+  },
+  "text": "[Accelerate]\nWhen I move from a location, play a 3 :rb_might: Sprite unit token with [Temporary] there.",
+  "text_rich": "<p>[Accelerate]<br />When I move from a location, play a 3 :rb_might: Sprite unit token with [Temporary] there.</p>",
+  "rarity": "Showcase",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/b06072002316a5b86f11750bbe21e9dfb94be08d-744x1039.png"
+  },
+  "artist": "League Splash Team",
+  "accessibility_text": "Riftbound Unit: Lillia, Fae Fawn. [Accelerate]\nWhen I move from a location, play a 3 [S] Sprite unit token with [Temporary] there.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "flags",
+      "id",
+      "illustrator",
+      "might",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "tags",
+      "text"
+    ]
+  },
+  "notes": null
+}

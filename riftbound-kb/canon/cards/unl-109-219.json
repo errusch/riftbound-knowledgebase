@@ -1,0 +1,65 @@
+{
+  "card_id": "unl-109-219",
+  "name": "Blood Rose",
+  "set_code": "UNL",
+  "set_name": "Unleashed",
+  "collector_number": "109",
+  "public_code": "UNL-109/219",
+  "card_type": "Gear",
+  "subtypes": [],
+  "domains": [
+    "Body"
+  ],
+  "cost": null,
+  "stats": {
+    "attack": null,
+    "health": null,
+    "reserve": 1,
+    "might_bonus": null
+  },
+  "text": "When you play a unit, you may pay :rb_energy_1: to gain 1 XP.\nSpend 3 XP, :rb_exhaust:: Ready a unit.",
+  "text_rich": "<p>When you play a unit, you may pay :rb_energy_1: to gain 1 XP.<br />Spend 3 XP, :rb_exhaust:: Ready a unit.</p>",
+  "rarity": "Rare",
+  "image": {
+    "path": null,
+    "url": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/64067ebdbe3140e9a458da7ecf7253a5fae9a31b-744x1039.png"
+  },
+  "artist": "黯荧岛Dark Glow",
+  "accessibility_text": "Riftbound Gear: Blood Rose. When you play a unit, you may pay [1] to gain 1 XP.\nSpend 3 XP, [T]: Ready a unit.",
+  "legality": {
+    "constructed": "legal",
+    "limited": "unknown_pending_official_limited_policy_pass",
+    "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
+    "verified_at": "2026-04-02"
+  },
+  "errata_links": [],
+  "rulings_links": [],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Official Card Gallery API",
+    "source_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards?locale=en_US&from=0&limit=200",
+    "source_date": null,
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "Imported from official card-gallery API feed."
+  },
+  "upstream": {
+    "orientation": "portrait",
+    "raw_fields": [
+      "cardImage",
+      "cardType",
+      "collectorNumber",
+      "domain",
+      "energy",
+      "id",
+      "illustrator",
+      "name",
+      "orientation",
+      "publicCode",
+      "rarity",
+      "set",
+      "text"
+    ]
+  },
+  "notes": null
+}

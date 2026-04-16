@@ -1,0 +1,201 @@
+{
+  "decklist_id": "rq-houston--yasuo-unforgiven-50",
+  "event_id": "rq-houston",
+  "player": "Ghael Winds",
+  "legend": "Yasuo, Unforgiven",
+  "placement": 50,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-043-298",
+      "count": 1,
+      "name": "Charm",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-044-298",
+      "count": 2,
+      "name": "Clockwork Keeper",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 2,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-058-298",
+      "count": 3,
+      "name": "Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-046-298",
+      "count": 3,
+      "name": "En Garde",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 2,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-169-298",
+      "count": 2,
+      "name": "Gust",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-060-298",
+      "count": 1,
+      "name": "Mask of Foresight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-192-298",
+      "count": 3,
+      "name": "Mindsplitter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 1,
+      "name": "Rebuke",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-195-298",
+      "count": 2,
+      "name": "Rhasa the Sunderer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-182-298",
+      "count": 2,
+      "name": "Scrapheap",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-052-298",
+      "count": 3,
+      "name": "Stalwart Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-199-298",
+      "count": 2,
+      "name": "Tideturner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-185-298",
+      "count": 3,
+      "name": "Traveling Merchant",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-055-298",
+      "count": 3,
+      "name": "Wielder of Water",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 1,
+      "name": "Zhonya's Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 1,
+      "name": "Defy",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-169-298",
+      "count": 1,
+      "name": "Gust",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-060-298",
+      "count": 1,
+      "name": "Mask of Foresight",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "count": 2,
+      "name": "Rebuke",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-173-298",
+      "count": 1,
+      "name": "Ride the Wind",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-199-298",
+      "count": 1,
+      "name": "Tideturner",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 1,
+      "name": "Zhonya's Hourglass",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-289-298",
+      "count": 1,
+      "name": "Targon's Peak",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-297-298",
+      "count": 1,
+      "name": "Windswept Hillock",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-298-298",
+      "count": 1,
+      "name": "Zaun Warrens",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 6,
+      "name": "Calm Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 6,
+      "name": "Chaos Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Houston",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Ghael Winds"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Yasuo, Remorseful | deck_type=best_of"
+}

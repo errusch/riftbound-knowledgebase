@@ -1,0 +1,201 @@
+{
+  "decklist_id": "rq-bologna--draven-glorious-executioner-6",
+  "event_id": "rq-bologna",
+  "player": "Randyyy",
+  "legend": "Draven, Glorious Executioner",
+  "placement": 6,
+  "is_best_of_legend": false,
+  "cards": [
+    {
+      "card_id": "sfd-012-221",
+      "count": 3,
+      "name": "Battering Ram",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-133-221",
+      "count": 1,
+      "name": "Boots of Swiftness",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-122-221",
+      "count": 3,
+      "name": "Called Shot",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-149a-221",
+      "count": 3,
+      "name": "Ezreal, Prodigy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-168-298",
+      "count": 3,
+      "name": "Fight or Flight",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-140-221",
+      "count": 1,
+      "name": "Fizz, Trickster",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-150-221",
+      "count": 1,
+      "name": "Last Rites",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-012-298",
+      "count": 3,
+      "name": "Noxus Hopeful",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-128-221",
+      "count": 2,
+      "name": "Overzealous Fan",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-023-221",
+      "count": 3,
+      "name": "Piercing Light",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-195-298",
+      "count": 1,
+      "name": "Rhasa the Sunderer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-173-298",
+      "count": 1,
+      "name": "Ride the Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-182-298",
+      "count": 2,
+      "name": "Scrapheap",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-234-221",
+      "count": 2,
+      "name": "Seal of Discord",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-199-298",
+      "count": 1,
+      "name": "Tideturner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-185-298",
+      "count": 2,
+      "name": "Traveling Merchant",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-130-221",
+      "count": 3,
+      "name": "Treasure Hunter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-036-298",
+      "count": 1,
+      "name": "Vi, Destructive",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-132-221",
+      "count": 1,
+      "name": "Beast Below",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-021-221",
+      "count": 2,
+      "name": "Ferrous Forerunner",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "count": 1,
+      "name": "Hard Bargain",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-039-298",
+      "count": 1,
+      "name": "Kai'Sa, Survivor",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-192-298",
+      "count": 2,
+      "name": "Mindsplitter",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-234-221",
+      "count": 1,
+      "name": "Seal of Discord",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-285-298",
+      "count": 1,
+      "name": "Reaver's Row",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-298-298",
+      "count": 1,
+      "name": "Zaun Warrens",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-166a-298",
+      "count": 7,
+      "name": "Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007a-298",
+      "count": 5,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=Randyyy"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Draven, Vanquisher | deck_type=top_8"
+}

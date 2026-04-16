@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "riftbound-kb/schemas/event-record.schema.json",
+  "title": "Riftbound Event Record",
+  "type": "object",
+  "required": ["event_id", "event_type", "event_name", "source"],
+  "properties": {
+    "event_id": {"type": "string"},
+    "event_type": {
+      "type": "string",
+      "enum": ["regional_qualifier", "national_open", "convention_event", "other_official_event"]
+    },
+    "event_name": {"type": "string"},
+    "region": {"type": ["string", "null"]},
+    "city": {"type": ["string", "null"]},
+    "country": {"type": ["string", "null"]},
+    "start_date": {"type": ["string", "null"]},
+    "end_date": {"type": ["string", "null"]},
+    "coverage_kind": {
+      "type": "string",
+      "enum": ["preview", "results", "top_decks", "schedule", "roadmap", "rules_policy", "other"]
+    },
+    "placements": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "place": {"type": ["integer", "string", "null"]},
+          "player": {"type": ["string", "null"]},
+          "legend": {"type": ["string", "null"]},
+          "decklist_id": {"type": ["string", "null"]}
+        },
+        "additionalProperties": true
+      }
+    },
+    "best_of_legends": {"type": "array", "items": {"type": "string"}},
+    "source": {"$ref": "./source-record.schema.json"},
+    "secondary_sources": {"type": "array", "items": {"$ref": "./source-record.schema.json"}},
+    "notes": {"type": ["string", "null"]}
+  },
+  "additionalProperties": true
+}

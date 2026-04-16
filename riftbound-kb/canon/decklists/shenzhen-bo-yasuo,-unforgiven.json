@@ -1,0 +1,468 @@
+{
+  "id": "f8b34322-ba6e-43a3-ad00-9e888744ca16",
+  "name": "71 - Best-Of Yasuo - Shenzhen National Open",
+  "legend": "Yasuo, Unforgiven",
+  "legend_variant": "OGN-259",
+  "legend_id": "8ccfc926-c01f-4219-9033-ffc9811e8d07",
+  "legend_colors": [
+    "Calm",
+    "Chaos"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Yasuo, Remorseful",
+      "quantity": 1,
+      "variantNumber": "OGN-076",
+      "type": "Unit",
+      "energy": 6,
+      "might": 6,
+      "power": 2,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Targon's Peak",
+      "quantity": 1,
+      "variantNumber": "OGN-289",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Obelisk of Power",
+      "quantity": 1,
+      "variantNumber": "OGN-284",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Rockfall Path",
+      "quantity": 1,
+      "variantNumber": "SFD-216",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Calm Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-042",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Chaos Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-166",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Irelia, Fervent",
+      "quantity": 2,
+      "variantNumber": "SFD-057",
+      "type": "Unit",
+      "energy": 5,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Draven, Audacious",
+      "quantity": 2,
+      "variantNumber": "SFD-148",
+      "type": "Unit",
+      "energy": 6,
+      "might": 6,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Lonely Poro",
+      "quantity": 2,
+      "variantNumber": "SFD-036",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Navori Scout",
+      "quantity": 2,
+      "variantNumber": "SFD-037",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Stellacorn Herder",
+      "quantity": 3,
+      "variantNumber": "SFD-048",
+      "type": "Unit",
+      "energy": 4,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Sneaky Deckhand",
+      "quantity": 1,
+      "variantNumber": "OGN-176",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Adaptatron",
+      "quantity": 1,
+      "variantNumber": "OGN-056",
+      "type": "Unit",
+      "energy": 4,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 2,
+      "variantNumber": "SFD-045",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Defy",
+      "quantity": 2,
+      "variantNumber": "OGN-045",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Discipline",
+      "quantity": 3,
+      "variantNumber": "OGN-058",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "En Garde",
+      "quantity": 2,
+      "variantNumber": "OGN-046",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Fight or Flight",
+      "quantity": 2,
+      "variantNumber": "OGN-168",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Ride the Wind",
+      "quantity": 3,
+      "variantNumber": "OGN-173",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Flash",
+      "quantity": 2,
+      "variantNumber": "OGS-011",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Hard Bargain",
+      "quantity": 1,
+      "variantNumber": "SFD-136",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Charm",
+      "quantity": 1,
+      "variantNumber": "OGN-043",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Guardian Angel",
+      "quantity": 2,
+      "variantNumber": "SFD-051",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Heart of Dark Ice",
+      "quantity": 1,
+      "variantNumber": "SFD-052",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "quantity": 1,
+      "variantNumber": "OGN-077",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Mask of Foresight",
+      "quantity": 1,
+      "variantNumber": "OGN-060",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Edge of Night",
+      "quantity": 1,
+      "variantNumber": "SFD-139",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Teemo, Scout",
+      "quantity": 1,
+      "variantNumber": "OGN-197",
+      "type": "Unit",
+      "energy": 2,
+      "might": 1,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Find Your Center",
+      "quantity": 1,
+      "variantNumber": "OGN-047",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Heart of Dark Ice",
+      "quantity": 1,
+      "variantNumber": "SFD-052",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Boots of Swiftness",
+      "quantity": 1,
+      "variantNumber": "SFD-133",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Mask of Foresight",
+      "quantity": 1,
+      "variantNumber": "OGN-060",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Find Your Center",
+      "quantity": 1,
+      "variantNumber": "OGN-047",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Yasuo, Windrider",
+      "quantity": 1,
+      "variantNumber": "OGN-205",
+      "type": "Unit",
+      "energy": 5,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Sneaky Deckhand",
+      "quantity": 1,
+      "variantNumber": "OGN-176",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Mindsplitter",
+      "quantity": 1,
+      "variantNumber": "OGN-192",
+      "type": "Unit",
+      "energy": 7,
+      "might": 7,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Last Rites",
+      "quantity": 1,
+      "variantNumber": "SFD-150",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

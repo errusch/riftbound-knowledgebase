@@ -1,0 +1,373 @@
+{
+  "id": "ae38b7d2-5e31-429f-81e2-a2c657f90af5",
+  "name": "224 - Best-Of Leona - Shenzhen National Open",
+  "legend": "Leona, Radiant Dawn",
+  "legend_variant": "OGN-261",
+  "legend_id": "c30ad370-8d43-4472-8563-4577ded82246",
+  "legend_colors": [
+    "Calm",
+    "Order"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Leona, Determined",
+      "quantity": 1,
+      "variantNumber": "OGN-238",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Sunken Temple",
+      "quantity": 1,
+      "variantNumber": "SFD-218",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "The Dreaming Tree",
+      "quantity": 1,
+      "variantNumber": "OGN-292",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Trifarian War Camp",
+      "quantity": 1,
+      "variantNumber": "OGN-294",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Order Rune",
+      "quantity": 5,
+      "variantNumber": "OGN-214",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Calm Rune",
+      "quantity": 7,
+      "variantNumber": "OGN-042",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Irelia, Fervent",
+      "quantity": 1,
+      "variantNumber": "SFD-057",
+      "type": "Unit",
+      "energy": 5,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Fiora, Victorious",
+      "quantity": 3,
+      "variantNumber": "OGN-232",
+      "type": "Unit",
+      "energy": 4,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Stellacorn Herder",
+      "quantity": 2,
+      "variantNumber": "SFD-048",
+      "type": "Unit",
+      "energy": 4,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Unsung Hero",
+      "quantity": 2,
+      "variantNumber": "SFD-167",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Thwonk!",
+      "quantity": 3,
+      "variantNumber": "SFD-040",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Emperor's Divide",
+      "quantity": 2,
+      "variantNumber": "SFD-043",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 2,
+      "variantNumber": "SFD-045",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Charm",
+      "quantity": 1,
+      "variantNumber": "OGN-043",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Defy",
+      "quantity": 2,
+      "variantNumber": "OGN-045",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "En Garde",
+      "quantity": 2,
+      "variantNumber": "OGN-046",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Rune Prison",
+      "quantity": 2,
+      "variantNumber": "OGN-050",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Discipline",
+      "quantity": 3,
+      "variantNumber": "OGN-058",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Call to Glory",
+      "quantity": 3,
+      "variantNumber": "OGN-207",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Facebreaker",
+      "quantity": 1,
+      "variantNumber": "OGN-220",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Salvage",
+      "quantity": 2,
+      "variantNumber": "OGN-224",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Guardian Angel",
+      "quantity": 3,
+      "variantNumber": "SFD-051",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "quantity": 2,
+      "variantNumber": "OGN-077",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Zenith Blade",
+      "quantity": 3,
+      "variantNumber": "OGN-262",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Calm",
+        "Order"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Irelia, Fervent",
+      "quantity": 1,
+      "variantNumber": "SFD-057",
+      "type": "Unit",
+      "energy": 5,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Solari Shieldbearer",
+      "quantity": 3,
+      "variantNumber": "OGN-051",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Facebreaker",
+      "quantity": 1,
+      "variantNumber": "OGN-220",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Salvage",
+      "quantity": 1,
+      "variantNumber": "OGN-224",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Order"
+      ]
+    },
+    {
+      "name": "Charm",
+      "quantity": 2,
+      "variantNumber": "OGN-043",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

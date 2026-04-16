@@ -1,0 +1,384 @@
+{
+  "id": "eda9b38b-61d6-4f7a-9a92-9185a8e5eaeb",
+  "name": "73 - Best-Of Ahri - Shenzhen National Open",
+  "legend": "Ahri, Nine-Tailed Fox",
+  "legend_variant": "OGN-255",
+  "legend_id": "19315379-beab-41f8-9cfd-3be42fe17faa",
+  "legend_colors": [
+    "Calm",
+    "Mind"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Ahri, Inquisitive",
+      "quantity": 1,
+      "variantNumber": "OGN-119",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "The Dreaming Tree",
+      "quantity": 1,
+      "variantNumber": "OGN-292",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Marai Spire",
+      "quantity": 1,
+      "variantNumber": "SFD-211",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Grove of the God-Willow",
+      "quantity": 1,
+      "variantNumber": "OGN-280",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Calm Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-042",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Mind Rune",
+      "quantity": 6,
+      "variantNumber": "OGN-089",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Defy",
+      "quantity": 3,
+      "variantNumber": "OGN-045",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Feral Strength",
+      "quantity": 3,
+      "variantNumber": "SFD-034",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Discipline",
+      "quantity": 3,
+      "variantNumber": "OGN-058",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Ravenbloom Student",
+      "quantity": 3,
+      "variantNumber": "OGN-103",
+      "type": "Unit",
+      "energy": 2,
+      "might": 2,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Desert's Call",
+      "quantity": 3,
+      "variantNumber": "SFD-031",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Eager Apprentice",
+      "quantity": 3,
+      "variantNumber": "OGN-084",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Thousand-Tailed Watcher",
+      "quantity": 3,
+      "variantNumber": "OGN-116",
+      "type": "Unit",
+      "energy": 7,
+      "might": 7,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Tasty Faefolk",
+      "quantity": 2,
+      "variantNumber": "OGN-075",
+      "type": "Unit",
+      "energy": 7,
+      "might": 6,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Find Your Center",
+      "quantity": 1,
+      "variantNumber": "OGN-047",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Singularity",
+      "quantity": 2,
+      "variantNumber": "OGN-105",
+      "type": "Spell",
+      "energy": 6,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Time Warp",
+      "quantity": 1,
+      "variantNumber": "OGN-122",
+      "type": "Spell",
+      "energy": 10,
+      "might": 0,
+      "power": 4,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "En Garde",
+      "quantity": 2,
+      "variantNumber": "OGN-046",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "quantity": 2,
+      "variantNumber": "OGN-077",
+      "type": "Gear",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Irelia, Fervent",
+      "quantity": 2,
+      "variantNumber": "SFD-057",
+      "type": "Unit",
+      "energy": 5,
+      "might": 4,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Thwonk!",
+      "quantity": 1,
+      "variantNumber": "SFD-040",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Emperor's Divide",
+      "quantity": 1,
+      "variantNumber": "SFD-043",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Charm",
+      "quantity": 2,
+      "variantNumber": "OGN-043",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Block",
+      "quantity": 1,
+      "variantNumber": "OGN-057",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Wind Wall",
+      "quantity": 1,
+      "variantNumber": "OGN-064",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Disarming Rake",
+      "quantity": 2,
+      "variantNumber": "SFD-032",
+      "type": "Unit",
+      "energy": 3,
+      "might": 2,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Meditation",
+      "quantity": 2,
+      "variantNumber": "OGN-048",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Thwonk!",
+      "quantity": 1,
+      "variantNumber": "SFD-040",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Not So Fast",
+      "quantity": 1,
+      "variantNumber": "SFD-045",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    },
+    {
+      "name": "Blitzcrank, Impassive",
+      "quantity": 2,
+      "variantNumber": "OGN-067",
+      "type": "Unit",
+      "energy": 5,
+      "might": 5,
+      "power": 1,
+      "colors": [
+        "Calm"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}

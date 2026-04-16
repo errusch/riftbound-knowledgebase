@@ -1,0 +1,189 @@
+{
+  "decklist_id": "rq-bologna--ornn-the-fire-below-the-mountain-490",
+  "event_id": "rq-bologna",
+  "player": "GhostfunkLegend",
+  "legend": "Ornn, the Fire Below the Mountain",
+  "placement": 490,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "sfd-050a-221",
+      "count": 2,
+      "name": "Azir, Ascendant",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-083-298",
+      "count": 2,
+      "name": "Consult the Past",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 2,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-033-221",
+      "count": 3,
+      "name": "Doran's Shield",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-043-221",
+      "count": 1,
+      "name": "Emperor's Divide",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-051-221",
+      "count": 3,
+      "name": "Guardian Angel",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-048-298",
+      "count": 2,
+      "name": "Meditation",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-045-221",
+      "count": 3,
+      "name": "Not So Fast",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-091-298",
+      "count": 3,
+      "name": "Pit Crew",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-046-221",
+      "count": 3,
+      "name": "Poro Snax",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-226-221",
+      "count": 2,
+      "name": "Seal of Focus",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-192-221",
+      "count": 1,
+      "name": "Shurelya's Requiem",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-059-221",
+      "count": 3,
+      "name": "Svellsongur",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-060-221",
+      "count": 3,
+      "name": "Tianna Crownguard",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-064-298",
+      "count": 1,
+      "name": "Wind Wall",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-086-221",
+      "count": 2,
+      "name": "World Atlas",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 3,
+      "name": "Zhonya's Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-043-298",
+      "count": 2,
+      "name": "Charm",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 1,
+      "name": "Defy",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-043-221",
+      "count": 1,
+      "name": "Emperor's Divide",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-035-221",
+      "count": 1,
+      "name": "Guardian of the Passage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-085-221",
+      "count": 1,
+      "name": "Ornn, Forge God",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-064-298",
+      "count": 2,
+      "name": "Wind Wall",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-276-298",
+      "count": 1,
+      "name": "Aspirant's Climb",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-219-221",
+      "count": 1,
+      "name": "The Papertree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 8,
+      "name": "Calm Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "count": 4,
+      "name": "Mind Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Regional Qualifier: Bologna",
+    "source_url": null,
+    "source_date": "2026-03-06T10:11:31.039432Z",
+    "retrieved_at": "2026-04-02",
+    "trust_tier": "official",
+    "notes": "materialized from structured official event dataset | upstream_path=/Users/eric/.openclaw/quarantine-20260323/old_openclaw_bak_03062026/workspace/databases/knowledge.db | player=GhostfunkLegend"
+  },
+  "secondary_sources": [],
+  "notes": "champion=Ornn, Forge God | deck_type=best_of"
+}

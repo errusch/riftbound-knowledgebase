@@ -1,0 +1,433 @@
+{
+  "id": "4d484556-42a7-4965-b4e5-9207d7b10a58",
+  "name": "44 - Best-Of Ezreal - Shenzhen National Open",
+  "legend": "Ezreal, Prodigal Explorer",
+  "legend_variant": "SFD-199",
+  "legend_id": "f948e1c7-5ebb-4545-92dd-bcd7a4f9494f",
+  "legend_colors": [
+    "Mind",
+    "Chaos"
+  ],
+  "is_legal": true,
+  "banned_cards": [],
+  "source": "piltoverarchive.com",
+  "event": "shenzhen-national-open",
+  "event_date": "2026-03-22",
+  "author": "runesandrift",
+  "champions": [
+    {
+      "name": "Ezreal, Prodigy",
+      "quantity": 1,
+      "variantNumber": "SFD-149",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Zaun Warrens",
+      "quantity": 1,
+      "variantNumber": "OGN-298",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Obelisk of Power",
+      "quantity": 1,
+      "variantNumber": "OGN-284",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    },
+    {
+      "name": "Void Gate",
+      "quantity": 1,
+      "variantNumber": "OGN-296",
+      "type": "Battlefield",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": []
+    }
+  ],
+  "runes": [
+    {
+      "name": "Chaos Rune",
+      "quantity": 8,
+      "variantNumber": "OGN-166",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Mind Rune",
+      "quantity": 4,
+      "variantNumber": "OGN-089",
+      "type": "Rune",
+      "energy": 0,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "maindeck": [
+    {
+      "name": "Ezreal, Prodigy",
+      "quantity": 1,
+      "variantNumber": "SFD-149",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Fizz, Trickster",
+      "quantity": 2,
+      "variantNumber": "SFD-140",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Pit Crew",
+      "quantity": 3,
+      "variantNumber": "OGN-091",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Thousand-Tailed Watcher",
+      "quantity": 1,
+      "variantNumber": "OGN-116",
+      "type": "Unit",
+      "energy": 7,
+      "might": 7,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Card Sharp",
+      "quantity": 2,
+      "variantNumber": "SFD-081",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Rhasa the Sunderer",
+      "quantity": 1,
+      "variantNumber": "OGN-195",
+      "type": "Unit",
+      "energy": 10,
+      "might": 6,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Mindsplitter",
+      "quantity": 1,
+      "variantNumber": "OGN-192",
+      "type": "Unit",
+      "energy": 7,
+      "might": 7,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Frigid Touch",
+      "quantity": 2,
+      "variantNumber": "SFD-066",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Wages of Pain",
+      "quantity": 3,
+      "variantNumber": "SFD-070",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Bellows Breath",
+      "quantity": 2,
+      "variantNumber": "SFD-080",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Called Shot",
+      "quantity": 3,
+      "variantNumber": "SFD-122",
+      "type": "Spell",
+      "energy": 0,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Hard Bargain",
+      "quantity": 1,
+      "variantNumber": "SFD-136",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Retreat",
+      "quantity": 1,
+      "variantNumber": "OGN-104",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Stupefy",
+      "quantity": 3,
+      "variantNumber": "OGN-095",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Rebuke",
+      "quantity": 2,
+      "variantNumber": "OGN-172",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Stacked Deck",
+      "quantity": 3,
+      "variantNumber": "OGN-183",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Morbid Return",
+      "quantity": 1,
+      "variantNumber": "OGN-170",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Cull",
+      "quantity": 2,
+      "variantNumber": "SFD-134",
+      "type": "Gear",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Boots of Swiftness",
+      "quantity": 1,
+      "variantNumber": "SFD-133",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Last Rites",
+      "quantity": 1,
+      "variantNumber": "SFD-150",
+      "type": "Gear",
+      "energy": 3,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Seal of Discord",
+      "quantity": 2,
+      "variantNumber": "OGN-204",
+      "type": "Gear",
+      "energy": 0,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Arcane Shift",
+      "quantity": 1,
+      "variantNumber": "SFD-200",
+      "type": "Spell",
+      "energy": 3,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind",
+        "Chaos"
+      ]
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Dr. Mundo, Expert",
+      "quantity": 1,
+      "variantNumber": "OGN-109",
+      "type": "Unit",
+      "energy": 8,
+      "might": 6,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Pickpocket",
+      "quantity": 2,
+      "variantNumber": "SFD-074",
+      "type": "Unit",
+      "energy": 3,
+      "might": 3,
+      "power": 0,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Factory Recall",
+      "quantity": 2,
+      "variantNumber": "SFD-135",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 0,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Bellows Breath",
+      "quantity": 1,
+      "variantNumber": "SFD-080",
+      "type": "Spell",
+      "energy": 1,
+      "might": 0,
+      "power": 1,
+      "colors": [
+        "Mind"
+      ]
+    },
+    {
+      "name": "Switcheroo",
+      "quantity": 1,
+      "variantNumber": "SFD-145",
+      "type": "Spell",
+      "energy": 2,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Chaos"
+      ]
+    },
+    {
+      "name": "Unchecked Power",
+      "quantity": 1,
+      "variantNumber": "OGN-123",
+      "type": "Spell",
+      "energy": 7,
+      "might": 0,
+      "power": 2,
+      "colors": [
+        "Mind"
+      ]
+    }
+  ],
+  "format": "best-of-1",
+  "region": "CN",
+  "placement": "best-of"
+}
