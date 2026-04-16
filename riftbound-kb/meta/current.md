@@ -5,7 +5,7 @@ _Generated 2026-04-16 from 11 canonical events and 176 decklists. Source of trut
 ## TL;DR
 
 - Dominant legends: Draven (35.3%), Irelia (16.2%), Annie (10.3%), Kai'Sa (10.3%)
-- Latest winners: Shenzhen National Open — ? on Kai'Sa · Shenzhen National Open — 阿门 on null · Shenzhen National Open — 阿门 on Irelia, Blade Dancer
+- Latest winners: Shenzhen National Open — ? on Kai'Sa, Daughter of the Void · Shenzhen National Open — 阿门 on null · Shenzhen National Open — 阿门 on Irelia, Blade Dancer
 - Events covered: 11 canonical, 3 with dates
 
 ## Tier list (frequency of top-8 placements in tracked events)
@@ -34,23 +34,23 @@ _Generated 2026-04-16 from 11 canonical events and 176 decklists. Source of trut
 
 ## Recent event winners (most recent first)
 
-- **Shenzhen National Open** (2026-03-22) — ? on Kai'Sa
+- **Shenzhen National Open** (2026-03-22) — ? on Kai'Sa, Daughter of the Void
   - decklist: `decklists/kaisa-winning-deck-shanghai-regional-tournament.json`
 - **Shenzhen National Open** (2026-03-22) — 阿门 on null
   - decklist: `decklists/shenzhen-national-open-2026-03-22---1.json`
 - **Shenzhen National Open** (2026-03-22) — 阿门 on Irelia, Blade Dancer
   - decklist: `decklists/shenzhen-national-open-2026-03-22--irelia-blade-dancer-1.json`
-- **RQ Vegas** (2026-02-23) — SAMDSHERMAN on Draven
+- **RQ Vegas** (2026-03-04) — SAMDSHERMAN on Draven, Glorious Executioner
   - decklist: `decklists/midrange-draven-wins-vegas.json`
-- **RQ Bologna** (2026-02-16) — Alanzq1 on Ezreal
+- **Regional Qualifier: Bologna** (2026-02-20) — Alanzq1 on Ezreal, Prodigal Explorer
   - decklist: `decklists/best-ezreal-from-bologna-l4o06.json`
-- **RQ Bologna** (2026-02-16) — Alanzq1 on Ezreal, Prodigal Explorer
+- **Regional Qualifier: Bologna** (2026-02-20) — Alanzq1 on Ezreal, Prodigal Explorer
   - decklist: `decklists/rq-bologna--ezreal-prodigal-explorer-1.json`
 - **Season 2 Regional: Chengdu** (2026-02-08) — 東莞熊貓 on Draven, Glorious Executioner
   - decklist: `decklists/s2-reg-chengdu-2026--draven-glorious-executioner-1.json`
 - **Season 2 Regional: Fuzhou** (2026-01-01) — Aipotu on Draven, Glorious Executioner
   - decklist: `decklists/s2-reg-fuzhou-2026--draven-glorious-executioner-1.json`
-- **Regional Qualifier: Houston** (2025-12-13) — Dhawally on Annie
+- **Regional Qualifier: Houston** (2025-12-13) — Dhawally on Annie, Dark Child
   - decklist: `decklists/annie-dark-child-by-shawn-dhaliwal-houston-regional-qualifier-rank-1.json`
 - **Regional Qualifier: Houston** (2025-12-13) — Dhawally on Annie, Dark Child
   - decklist: `decklists/rq-houston--annie-dark-child-1.json`
@@ -58,7 +58,7 @@ _Generated 2026-04-16 from 11 canonical events and 176 decklists. Source of trut
 ## Recent top-8 snapshots
 
 ### Shenzhen National Open — 2026-03-22
-- Winner: ? on Kai'Sa  `decklists/kaisa-winning-deck-shanghai-regional-tournament.json`
+- Winner: ? on Kai'Sa, Daughter of the Void  `decklists/kaisa-winning-deck-shanghai-regional-tournament.json`
 - 1: 阿门 on null  `decklists/shenzhen-national-open-2026-03-22---1.json`
 - 2: 梦之星 一个小乐色 on null  `decklists/shenzhen-national-open-2026-03-22---2.json`
 - 3: EDG.Rico1997 on null  `decklists/shenzhen-national-open-2026-03-22---3.json`
@@ -68,7 +68,10 @@ _Generated 2026-04-16 from 11 canonical events and 176 decklists. Source of trut
 - 7: 神切.tie.oymlfans on null  `decklists/shenzhen-national-open-2026-03-22---7.json`
 
 ### RQ Vegas — 2026-03-04
-- _no decklists recorded yet_
+- 8: Alanzq1 on Ezreal, Prodigal Explorer  `decklists/best-ezreal-from-vegas-t8.json`
+- 8: DeluxePhilCheese on Irelia, Blade Dancer  `decklists/best-irelia-from-vegas.json`
+- 8: Theverybestgamer on Jax, Grandmaster at Arms  `decklists/best-jax-from-vegas-top-8.json`
+- Winner: SAMDSHERMAN on Draven, Glorious Executioner  `decklists/midrange-draven-wins-vegas.json`
 
 ### RQ Bologna — 2026-02-25
 - _no decklists recorded yet_
@@ -77,7 +80,7 @@ _Generated 2026-04-16 from 11 canonical events and 176 decklists. Source of trut
 
 Events with no decklists in this KB — articles referencing these events must be flagged as light on data:
 - RQ Bologna
-- Regional Qualifier: Bologna
+- RQ Bologna
 - RQ Vegas
 
 ## Card pool

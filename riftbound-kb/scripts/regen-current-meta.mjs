@@ -53,14 +53,36 @@ function loadDecks() {
 }
 
 function eventAliasMap(events) {
+  // See kb/scripts/lint-kb.mjs — canonical (non-preview) events win when
+  // multiple full event_ids share a short prefix.
   const m = new Map();
-  for (const id of Object.keys(events)) m.set(id, id);
-  for (const id of Object.keys(events)) {
+  const ids = Object.keys(events);
+  for (const id of ids) m.set(id, id);
+
+  function score(id) {
+    const ev = events[id];
+    let s = id.length;
+    if (/-preview/i.test(id)) s += 100;
+    else if (/preview/i.test(id)) s += 50;
+    const ck = ev?.coverage_kind;
+    if (ck === "preview") s += 100;
+    if (ck === "results" || ck === "top_decks") s -= 10;
+    return s;
+  }
+
+  const buckets = new Map();
+  for (const id of ids) {
     const parts = id.split("-");
     for (let i = parts.length - 1; i >= 2; i--) {
       const alias = parts.slice(0, i).join("-");
-      if (!m.has(alias)) m.set(alias, id);
+      if (events[alias]) continue;
+      if (!buckets.has(alias)) buckets.set(alias, []);
+      buckets.get(alias).push(id);
     }
+  }
+  for (const [alias, candidates] of buckets.entries()) {
+    candidates.sort((a, b) => score(a) - score(b));
+    m.set(alias, candidates[0]);
   }
   return m;
 }

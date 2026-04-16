@@ -1,0 +1,35 @@
+{
+  "_comment": "Example input for scripts/ingest-event.mjs. One event plus its decklists. Event_id / decklist_ids will be derived if omitted. card_id is resolved from canon/cards/index.json by name when missing.",
+
+  "event": {
+    "event_type": "regional_qualifier",
+    "event_name": "RQ Example City",
+    "region": "US",
+    "city": "Example City",
+    "country": "USA",
+    "start_date": "2026-04-01",
+    "coverage_kind": "top_decks",
+    "source": {
+      "source_type": "official",
+      "source_name": "Riftbound Official News",
+      "source_url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/best-decks-out-of-example-city",
+      "source_date": "2026-04-02",
+      "retrieved_at": "2026-04-16",
+      "trust_tier": "official"
+    },
+    "notes": "Example-only; DO NOT ingest this — used to document the ingest-event.mjs input shape."
+  },
+
+  "decklists": [
+    {
+      "player": "ExamplePlayer",
+      "legend": "Annie, Dark Child",
+      "placement": "Winner",
+      "is_best_of_legend": false,
+      "cards": [
+        { "name": "Darius - Trifarian", "count": 3, "section": "mainboard" },
+        { "name": "Pouty Poro",          "count": 3, "section": "mainboard" }
+      ]
+    }
+  ]
+}
