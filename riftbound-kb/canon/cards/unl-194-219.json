@@ -14,13 +14,10 @@
     "Calm",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "If you play me to a battlefield, I enter ready.\n[Action][&gt;] :rb_energy_1::rb_rune_rainbow:, :rb_exhaust:: [Stun] an enemy unit attacking here. (It doesn't deal combat damage this turn.)",
   "text_rich": "<p>If you play me to a battlefield, I enter ready.<br />[Action][&gt;] :rb_energy_1::rb_rune_rainbow:, :rb_exhaust:: [Stun] an enemy unit attacking here. (It doesn't deal combat damage this turn.)</p>",
   "rarity": "Epic",

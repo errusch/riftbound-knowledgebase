@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Assault 2], [Shield 2] (+2 :rb_might: while I'm an attacker or defender.)",
   "text_rich": "<p>[Assault 2], [Shield 2] (+2 :rb_might: while I'm an attacker or defender.)</p>",
   "rarity": "Rare",

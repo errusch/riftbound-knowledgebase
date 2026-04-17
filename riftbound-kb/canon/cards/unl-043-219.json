@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "[Backline] (I must be assigned combat damage last.)\nWhen I hold, [Buff] all units here. (Give each a +1 :rb_might: buff if it doesn't have one.)",
   "text_rich": "<p>[Backline] (I must be assigned combat damage last.)<br />When I hold, [Buff] all units here. (Give each a +1 :rb_might: buff if it doesn't have one.)</p>",
   "rarity": "Uncommon",

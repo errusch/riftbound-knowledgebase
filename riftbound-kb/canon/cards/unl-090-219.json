@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Backline] (I must be assigned combat damage last.)\nYour [Temporary] effects at my battlefield don't trigger.",
   "text_rich": "<p>[Backline] (I must be assigned combat damage last.)<br />Your [Temporary] effects at my battlefield don't trigger.</p>",
   "rarity": "Epic",

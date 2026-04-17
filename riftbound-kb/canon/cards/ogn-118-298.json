@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "The first time a friendly unit dies each turn, draw 1.",
   "text_rich": "<p>The first time a friendly unit dies each turn, draw 1.</p>",
   "rarity": "Rare",

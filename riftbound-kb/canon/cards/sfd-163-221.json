@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nKill a friendly unit. If you do, give +:rb_might: equal to its Might to another friendly unit this turn.\nDraw 1.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Kill a friendly unit. If you do, give +:rb_might: equal to its Might to another friendly unit this turn.<br />Draw 1.</p>",
   "rarity": "Uncommon",

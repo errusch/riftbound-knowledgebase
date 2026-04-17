@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nReturn a friendly unit and an enemy unit to their owners' hands.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Return a friendly unit and an enemy unit to their owners' hands.</p>",
   "rarity": "Common",

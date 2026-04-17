@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": "+2"
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": "+2",
   "text": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nWhen you play this from face down, attach it to a unit you control (here).\n[Equip] :rb_rune_chaos: (:rb_rune_chaos:: Attach this to a unit you control.)",
   "text_rich": "<p>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)<br />When you play this from face down, attach it to a unit you control (here).<br />[Equip] :rb_rune_chaos: (:rb_rune_chaos:: Attach this to a unit you control.)</p>",
   "rarity": "Rare",

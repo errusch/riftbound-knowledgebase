@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Action] (Play on your turn or in showdowns.)\nBuff a friendly unit. Buffs give an additional +1 :rb_might: to friendly units this turn. (To buff a unit, give it a +1 :rb_might: buff if it doesn't already have one.)",
   "text_rich": "<p>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)<br />[Action] (Play on your turn or in showdowns.)<br />Buff a friendly unit. Buffs give an additional +1 :rb_might: to friendly units this turn. (To buff a unit, give it a +1 :rb_might: buff if it doesn't already have one.)</p>",
   "rarity": "Common",

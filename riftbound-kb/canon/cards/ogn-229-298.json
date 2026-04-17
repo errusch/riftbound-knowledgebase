@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "Kill a unit.",
   "text_rich": "<p>Kill a unit.</p>",
   "rarity": "Uncommon",

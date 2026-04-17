@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)\nWhen I attack or defend, if an enemy unit is alone here, give me +2 :rb_might: this turn and gain 2 XP.",
   "text_rich": "<p>[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)<br />When I attack or defend, if an enemy unit is alone here, give me +2 :rb_might: this turn and gain 2 XP.</p>",
   "rarity": "Rare",

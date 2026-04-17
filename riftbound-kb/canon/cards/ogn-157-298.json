@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "Spend my buff: Choose one you've not chosen this turn —Deal 2 to a unit at a battlefield.Stun a unit at a battlefield.Ready me.Give me [Ganking] this turn.",
   "text_rich": "<p>Spend my buff: Choose one you've not chosen this turn —</p><ul><li>Deal 2 to a unit at a battlefield.</li><li>Stun a unit at a battlefield.</li><li>Ready me.</li><li>Give me [Ganking] this turn.</li></ul>",
   "rarity": "Rare",

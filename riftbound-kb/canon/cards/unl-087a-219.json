@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Shield 2]\nYour hold effects for holding here trigger an additional time.\nWhen I hold, [Add] :rb_rune_rainbow: at the start of your next Main Phase.",
   "text_rich": "<p>[Shield 2]<br />Your hold effects for holding here trigger an additional time.<br />When I hold, [Add] :rb_rune_rainbow: at the start of your next Main Phase.</p>",
   "rarity": "Showcase",

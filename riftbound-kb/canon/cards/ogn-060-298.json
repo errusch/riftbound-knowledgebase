@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When a friendly unit attacks or defends alone, give it +1 :rb_might: this turn.",
   "text_rich": "<p>When a friendly unit attacks or defends alone, give it +1 :rb_might: this turn.</p>",
   "rarity": "Uncommon",

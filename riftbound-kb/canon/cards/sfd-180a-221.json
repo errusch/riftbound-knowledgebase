@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "When a unit you control becomes [Mighty], you may pay :rb_rune_order: to ready it. (A unit is Mighty while it has 5+ :rb_might:.)",
   "text_rich": "<p>When a unit you control becomes [Mighty], you may pay :rb_rune_order: to ready it. (A unit is Mighty while it has 5+ :rb_might:.)</p>",
   "rarity": "Showcase",

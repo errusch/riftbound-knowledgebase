@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "When I move to a battlefield, play a 1 :rb_might: Recruit unit token here. (It is also at the battlefield.)",
   "text_rich": "<p>When I move to a battlefield, play a 1 :rb_might: Recruit unit token here. (It is also at the battlefield.)</p>",
   "rarity": "Uncommon",

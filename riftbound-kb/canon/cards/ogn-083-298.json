@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Reaction] (Play any time, even before spells and abilities resolve.)\nDraw 2.",
   "text_rich": "<p>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)<br />[Reaction] (Play any time, even before spells and abilities resolve.)<br />Draw 2.</p>",
   "rarity": "Common",

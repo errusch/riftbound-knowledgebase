@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 6,
+  "might_bonus": null,
   "text": "As you play me, choose Bird, Cat, Dog, or Poro. I gain that tag.\nWhen I conquer or hold, score 1 point if your units have all of the following tags among them — Bird, Cat, Dog, and Poro.",
   "text_rich": "<p>As you play me, choose Bird, Cat, Dog, or Poro. I gain that tag.<br />When I conquer or hold, score 1 point if your units have all of the following tags among them — Bird, Cat, Dog, and Poro.</p>",
   "rarity": "Showcase",

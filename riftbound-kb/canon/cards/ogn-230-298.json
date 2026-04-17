@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "When you play me, spend any number of buffs. For each buff spent, channel 1 rune exhausted.",
   "text_rich": "<p>When you play me, spend any number of buffs. For each buff spent, channel 1 rune exhausted.</p>",
   "rarity": "Rare",

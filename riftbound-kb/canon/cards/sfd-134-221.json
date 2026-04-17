@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": "+1"
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": "+1",
   "text": "[Equip] :rb_rune_chaos: (:rb_rune_chaos:: Attach this to a unit you control.)",
   "text_rich": "<p>[Equip] :rb_rune_chaos: (:rb_rune_chaos:: Attach this to a unit you control.)</p>",
   "rarity": "Uncommon",

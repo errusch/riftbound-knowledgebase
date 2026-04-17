@@ -14,13 +14,10 @@
     "Calm",
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Move an enemy unit. Then do this: Choose another enemy unit at its destination. They deal damage equal to their Mights to each other.",
   "text_rich": "<p>Move an enemy unit. Then do this: Choose another enemy unit at its destination. They deal damage equal to their Mights to each other.</p>",
   "rarity": "Epic",

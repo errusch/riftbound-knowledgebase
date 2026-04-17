@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Starting with the next player, each player may return a unit to its owner's hand.",
   "text_rich": "<p>Starting with the next player, each player may return a unit to its owner's hand.</p>",
   "rarity": "Uncommon",

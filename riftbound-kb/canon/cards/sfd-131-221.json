@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Accelerate] (You may pay :rb_energy_1::rb_rune_chaos: as an additional cost to have me enter ready.)\nI have [Assault] equal to the number of enemy units here. (+1 :rb_might: while I'm an attacker for each instance of Assault.)",
   "text_rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_chaos: as an additional cost to have me enter ready.)<br />I have [Assault] equal to the number of enemy units here. (+1 :rb_might: while I'm an attacker for each instance of Assault.)</p>",
   "rarity": "Uncommon",

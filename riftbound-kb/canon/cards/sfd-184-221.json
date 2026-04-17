@@ -14,13 +14,10 @@
     "Fury",
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nMove a friendly unit. You may attach an Equipment with the same controller to it. This turn, that unit has &quot;When I conquer, you may move me to my base.&quot;",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Move a friendly unit. You may attach an Equipment with the same controller to it. This turn, that unit has &quot;When I conquer, you may move me to my base.&quot;</p>",
   "rarity": "Epic",

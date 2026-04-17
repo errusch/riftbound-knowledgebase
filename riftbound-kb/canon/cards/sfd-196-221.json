@@ -14,13 +14,10 @@
     "Calm",
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit +2 :rb_might: this turn and another unit -2 :rb_might: this turn.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Give a unit +2 :rb_might: this turn and another unit -2 :rb_might: this turn.</p>",
   "rarity": "Epic",

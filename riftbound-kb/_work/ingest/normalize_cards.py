@@ -57,18 +57,16 @@ def normalize_card(data: dict[str, Any], set_map: dict[str, dict[str, Any]]) -> 
     set_id = (record.get('set', {}) or {}).get('set_id')
     set_record = set_map.get(set_id or '', {})
 
-    # conservative mapping for stats/cost-like values
-    stats = {
-        'attack': attrs.get('might'),
-        'health': None,
-        'reserve': attrs.get('energy'),
-    }
+    # Map upstream attribute names straight through. Riftbound names its stats
+    # `energy`, `power`, `might`, `might_bonus`. See canon/rules/core-rules-v1-2.md.
+    energy = attrs.get('energy')
+    power = attrs.get('power')
+    might = attrs.get('might')
+    might_bonus = attrs.get('might_bonus')
 
     notes = []
     if classification.get('supertype'):
         notes.append(f"supertype={classification.get('supertype')}")
-    if attrs.get('power') is not None:
-        notes.append(f"power={attrs.get('power')}")
     if metadata.get('alternate_art'):
         notes.append('alternate_art=true')
     if metadata.get('signature'):
@@ -94,8 +92,10 @@ def normalize_card(data: dict[str, Any], set_map: dict[str, dict[str, Any]]) -> 
         'card_type': classification.get('type'),
         'subtypes': [classification.get('supertype')] if classification.get('supertype') else [],
         'domains': classification.get('domain') or [],
-        'cost': attrs.get('power'),
-        'stats': stats,
+        'energy': energy,
+        'power': power,
+        'might': might,
+        'might_bonus': might_bonus,
         'text': text.get('plain') or text.get('rich') or '',
         'text_rich': text.get('rich'),
         'rarity': classification.get('rarity'),

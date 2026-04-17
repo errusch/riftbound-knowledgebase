@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": ":rb_exhaust:: Play two :rb_energy_1: :rb_might: Bird unit tokens with [Deflect]. Use this ability only while I'm at a battlefield. (Opponents must pay :rb_rune_rainbow: to choose a [Deflect] unit with a spell or ability.)",
   "text_rich": "<p>:rb_exhaust:: Play two :rb_energy_1: :rb_might: Bird unit tokens with [Deflect]. Use this ability only while I'm at a battlefield. (Opponents must pay :rb_rune_rainbow: to choose a [Deflect] unit with a spell or ability.)</p>",
   "rarity": "Common",

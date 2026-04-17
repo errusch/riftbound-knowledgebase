@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "When you discard one or more cards, ready me and give me +1 :rb_might: this turn.",
   "text_rich": "<p>When you discard one or more cards, ready me and give me +1 :rb_might: this turn.</p>",
   "rarity": "Epic",

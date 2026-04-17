@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": "+3"
-  },
+  "energy": 3,
+  "power": 2,
+  "might": null,
+  "might_bonus": "+3",
   "text": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)",
   "text_rich": "<p>[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)<br />[Equip] :rb_rune_calm: (:rb_rune_calm:: Attach this to a unit you control.)</p>",
   "rarity": "Rare",

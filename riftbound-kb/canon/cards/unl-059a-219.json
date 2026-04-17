@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 3,
-  "stats": {
-    "attack": 12,
-    "health": null,
-    "reserve": 12,
-    "might_bonus": null
-  },
+  "energy": 12,
+  "power": 3,
+  "might": 12,
+  "might_bonus": null,
   "text": "[Level 3][&gt;] I cost :rb_energy_2::rb_rune_calm: less.\n[Level 6][&gt;] I cost :rb_energy_4::rb_rune_calm::rb_rune_calm: less instead.\n[Level 11][&gt;] I cost :rb_energy_6::rb_rune_calm::rb_rune_calm::rb_rune_calm: less instead.\n[Level 16][&gt;] I can't be chosen by enemy spells and abilities.",
   "text_rich": "<p>[Level 3][&gt;] I cost :rb_energy_2::rb_rune_calm: less.<br />[Level 6][&gt;] I cost :rb_energy_4::rb_rune_calm::rb_rune_calm: less instead.<br />[Level 11][&gt;] I cost :rb_energy_6::rb_rune_calm::rb_rune_calm::rb_rune_calm: less instead.<br />[Level 16][&gt;] I can't be chosen by enemy spells and abilities.</p>",
   "rarity": "Showcase",

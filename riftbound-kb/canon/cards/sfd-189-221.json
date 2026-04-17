@@ -14,13 +14,10 @@
     "Calm",
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": ":rb_exhaust:: [Reaction] — [Add] :rb_rune_rainbow:. Use only to play gear or use gear abilities. (Abilities that add resources can't be reacted to.)",
   "text_rich": "<p>:rb_exhaust:: [Reaction] — [Add] :rb_rune_rainbow:. Use only to play gear or use gear abilities. (Abilities that add resources can't be reacted to.)</p>",
   "rarity": "Rare",

@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)\nWhen you recycle one or more cards, buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff. Runes aren't cards.)",
   "text_rich": "<p>[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)<br />When you recycle one or more cards, buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff. Runes aren't cards.)</p>",
   "rarity": "Showcase",

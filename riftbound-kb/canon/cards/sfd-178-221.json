@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": "+4"
-  },
+  "energy": 3,
+  "power": 1,
+  "might": null,
+  "might_bonus": "+4",
   "text": "[Equip] — :rb_rune_order:, Kill a friendly unit (Pay the cost: Attach this to a unit you control.)",
   "text_rich": "<p>[Equip] — :rb_rune_order:, Kill a friendly unit (Pay the cost: Attach this to a unit you control.)</p>",
   "rarity": "Epic",

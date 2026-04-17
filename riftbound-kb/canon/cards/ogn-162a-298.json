@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)\n[Ganking] (I can move from battlefield to battlefield.)\nThe first time I move each turn, you may ready something else that's exhausted.",
   "text_rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)<br />[Ganking] (I can move from battlefield to battlefield.)<br />The first time I move each turn, you may ready something else that's exhausted.</p>",
   "rarity": "Showcase",

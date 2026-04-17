@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nPrevent all spell and ability damage this turn.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Prevent all spell and ability damage this turn.</p>",
   "rarity": "Uncommon",

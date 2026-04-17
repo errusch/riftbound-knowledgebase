@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": 2,
+  "might": 6,
+  "might_bonus": null,
   "text": "My Might is increased by the number of cards in your trash.\nAt the start of your Beginning Phase, recycle 3 from your trash.",
   "text_rich": "<p>My Might is increased by the number of cards in your trash.<br />At the start of your Beginning Phase, recycle 3 from your trash.</p>",
   "rarity": "Rare",

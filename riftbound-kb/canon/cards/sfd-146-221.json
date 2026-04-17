@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "While I'm in combat, friendly spells cost :rb_energy_1::rb_rune_rainbow: less to a minimum of :rb_energy_1:, and enemy spells cost :rb_energy_1::rb_rune_rainbow: more.",
   "text_rich": "<p>While I'm in combat, friendly spells cost :rb_energy_1::rb_rune_rainbow: less to a minimum of :rb_energy_1:, and enemy spells cost :rb_energy_1::rb_rune_rainbow: more.</p>",
   "rarity": "Rare",

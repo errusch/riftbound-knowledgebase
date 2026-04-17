@@ -14,13 +14,10 @@
     "Fury",
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Reveal the top 2 cards of your Main Deck. You may banish one, then play it, reducing its cost by :rb_energy_2:. Draw any you didn't banish.",
   "text_rich": "<p>Reveal the top 2 cards of your Main Deck. You may banish one, then play it, reducing its cost by :rb_energy_2:. Draw any you didn't banish.</p>",
   "rarity": "Epic",

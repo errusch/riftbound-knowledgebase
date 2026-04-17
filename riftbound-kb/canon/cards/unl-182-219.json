@@ -14,13 +14,10 @@
     "Fury",
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Repeat] — :rb_energy_1: / :rb_rune_rainbow: / :rb_energy_1::rb_rune_rainbow: (You may pay each additional cost to repeat this spell's effect.)\nChoose one you haven't already chosen —Draw 1.Deal 2 to a unit at a battlefield.Deal 3 to a unit at a base.Give a unit at a battlefield -4 :rb_might: this turn.",
   "text_rich": "<p>[Repeat] — :rb_energy_1: / :rb_rune_rainbow: / :rb_energy_1::rb_rune_rainbow: (You may pay each additional cost to repeat this spell's effect.)<br />Choose one you haven't already chosen —</p><ul><li>Draw 1.</li><li>Deal 2 to a unit at a battlefield.</li><li>Deal 3 to a unit at a base.</li><li>Give a unit at a battlefield -4 :rb_might: this turn.</li></ul>",
   "rarity": "Epic",

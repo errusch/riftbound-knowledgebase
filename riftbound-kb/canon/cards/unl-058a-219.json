@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "When you play a token unit, give me +1 :rb_might: this turn.\nYour token units have [Tank].",
   "text_rich": "<p>When you play a token unit, give me +1 :rb_might: this turn.<br />Your token units have [Tank].</p>",
   "rarity": "Showcase",

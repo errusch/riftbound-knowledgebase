@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "When you play me, choose a player. They discard 1.",
   "text_rich": "<p>When you play me, choose a player. They discard 1.</p>",
   "rarity": "Common",

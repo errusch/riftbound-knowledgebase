@@ -14,13 +14,10 @@
     "Fury",
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Your Mechs have [Shield]. (+1 :rb_might: while they're defenders.)",
   "text_rich": "<p>Your Mechs have [Shield]. (+1 :rb_might: while they're defenders.)</p>",
   "rarity": "Rare",

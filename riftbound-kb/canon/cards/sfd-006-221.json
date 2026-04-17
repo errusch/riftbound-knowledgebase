@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 3,
+  "might_bonus": null,
   "text": "I enter ready.",
   "text_rich": "<p>I enter ready.</p>",
   "rarity": "Common",

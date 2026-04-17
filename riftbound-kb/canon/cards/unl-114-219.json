@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)\nWhen I win a combat, draw 1. (I win if I remain after combat.)",
   "text_rich": "<p>[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)<br />When I win a combat, draw 1. (I win if I remain after combat.)</p>",
   "rarity": "Rare",

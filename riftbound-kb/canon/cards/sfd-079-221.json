@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "You may exhaust your legend as an additional cost to play me.\nWhen you play me, if you paid the additional cost, move any number of your units to an open battlefield.",
   "text_rich": "<p>You may exhaust your legend as an additional cost to play me.<br />When you play me, if you paid the additional cost, move any number of your units to an open battlefield.</p>",
   "rarity": "Rare",

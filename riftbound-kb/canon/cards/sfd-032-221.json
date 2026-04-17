@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 2,
+  "might_bonus": null,
   "text": "When you play me, you may kill a gear.",
   "text_rich": "<p>When you play me, you may kill a gear.</p>",
   "rarity": "Common",

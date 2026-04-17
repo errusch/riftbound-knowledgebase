@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)\nIf you've spent :rb_energy_4: or more to play a spell this turn, you may play me for :rb_rune_mind:.",
   "text_rich": "<p>[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)<br />If you've spent :rb_energy_4: or more to play a spell this turn, you may play me for :rb_rune_mind:.</p>",
   "rarity": "Epic",

@@ -14,13 +14,10 @@
     "Body",
     "Chaos"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "Ready your units.",
   "text_rich": "<p>Ready your units.</p>",
   "rarity": "Epic",

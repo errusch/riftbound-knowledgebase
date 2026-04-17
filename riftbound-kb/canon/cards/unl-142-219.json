@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nAs an additional cost to play this, kill a friendly unit.\nPlay a unit from your trash that costs no more Energy and no more Power than the killed unit, ignoring its cost.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />As an additional cost to play this, kill a friendly unit.<br />Play a unit from your trash that costs no more Energy and no more Power than the killed unit, ignoring its cost.</p>",
   "rarity": "Rare",

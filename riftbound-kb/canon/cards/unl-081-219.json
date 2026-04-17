@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 1,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 1,
+  "might_bonus": null,
   "text": "[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\n[Temporary] (Kill me at the start of my controller's Beginning Phase, before scoring.)\nWhen you play me, play two Reflection unit tokens here. They become copies of me.",
   "text_rich": "<p>[Hidden] (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)<br />[Temporary] (Kill me at the start of my controller's Beginning Phase, before scoring.)<br />When you play me, play two Reflection unit tokens here. They become copies of me.</p>",
   "rarity": "Rare",

@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 3,
+  "might_bonus": null,
   "text": "When I attack or defend one on one, double my Might this combat.",
   "text_rich": "<p>When I attack or defend one on one, double my Might this combat.</p>",
   "rarity": "Showcase",

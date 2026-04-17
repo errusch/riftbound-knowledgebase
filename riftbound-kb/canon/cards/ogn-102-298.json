@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nBanish a friendly unit, then its owner plays it to their base, ignoring its cost.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Banish a friendly unit, then its owner plays it to their base, ignoring its cost.</p>",
   "rarity": "Uncommon",

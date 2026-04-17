@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "Return all units and gear to their owners' hands.",
   "text_rich": "<p>Return all units and gear to their owners' hands.</p>",
   "rarity": "Epic",

@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Shield] (+1 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nWhen you [Stun] an enemy unit at a battlefield, you may move me to that battlefield.",
   "text_rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)<br />[Tank] (I must be assigned combat damage first.)<br />When you [Stun] an enemy unit at a battlefield, you may move me to that battlefield.</p>",
   "rarity": "Rare",

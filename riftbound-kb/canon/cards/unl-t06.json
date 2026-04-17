@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 0,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": 0,
+  "might_bonus": null,
   "text": "(I become a copy of something when played. I don't get that card's play effects.)",
   "text_rich": "<p>(I become a copy of something when played. I don't get that card's play effects.)</p>",
   "rarity": "Common",

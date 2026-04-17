@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": null,
+  "might": 8,
+  "might_bonus": null,
   "text": "When you play me or another Dragon, ready up to 2 runes.",
   "text_rich": "<p>When you play me or another Dragon, ready up to 2 runes.</p>",
   "rarity": "Uncommon",

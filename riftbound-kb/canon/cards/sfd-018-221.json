@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "If you would reveal cards from a deck, look at the top card first. You may recycle it. Then reveal those cards.",
   "text_rich": "<p>If you would reveal cards from a deck, look at the top card first. You may recycle it. Then reveal those cards.</p>",
   "rarity": "Uncommon",

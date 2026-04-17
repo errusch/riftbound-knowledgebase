@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "While you have 8+ runes, I have +4 :rb_might:.",
   "text_rich": "<p>While you have 8+ runes, I have +4 :rb_might:.</p>",
   "rarity": "Rare",

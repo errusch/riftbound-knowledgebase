@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "[Hunt] (When I conquer or hold, gain 1 XP.)\n[Level 6][&gt;] When you play me, draw 1. (While you have 6+ XP, get the effect.)",
   "text_rich": "<p>[Hunt] (When I conquer or hold, gain 1 XP.)<br />[Level 6][&gt;] When you play me, draw 1. (While you have 6+ XP, get the effect.)</p>",
   "rarity": "Common",

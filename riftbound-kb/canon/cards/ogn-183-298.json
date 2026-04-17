@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nLook at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Look at the top 3 cards of your Main Deck. Put 1 into your hand and recycle the rest.</p>",
   "rarity": "Uncommon",

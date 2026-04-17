@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 1,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 1,
+  "might_bonus": null,
   "text": "When I attack or defend, give one of your other units here +3 :rb_might: and [Tank] this turn. (It must be assigned combat damage first.)",
   "text_rich": "<p>When I attack or defend, give one of your other units here +3 :rb_might: and [Tank] this turn. (It must be assigned combat damage first.)</p>",
   "rarity": "Rare",

@@ -14,13 +14,10 @@
     "Fury",
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you conquer, if you assigned 3 or more excess damage, you may exhaust me to ready a unit.",
   "text_rich": "<p>When you conquer, if you assigned 3 or more excess damage, you may exhaust me to ready a unit.</p>",
   "rarity": "Showcase",

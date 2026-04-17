@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)\n[Ganking] (I can move from battlefield to battlefield.)\nWhen I move, gain 1 XP.",
   "text_rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)<br />[Ganking] (I can move from battlefield to battlefield.)<br />When I move, gain 1 XP.</p>",
   "rarity": "Rare",

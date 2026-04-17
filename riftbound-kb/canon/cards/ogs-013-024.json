@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "Other friendly units have +1 :rb_might: here.",
   "text_rich": "<p>Other friendly units have +1 :rb_might: here.</p>",
   "rarity": "Epic",

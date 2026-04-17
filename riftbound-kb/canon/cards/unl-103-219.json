@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nChoose one —Choose up to 3 cards from opponents' trashes. Their owners recycle them.Draw 1.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Choose one —</p><ul><li>Choose up to 3 cards from opponents' trashes. Their owners recycle them.</li><li>Draw 1.</li></ul>",
   "rarity": "Uncommon",

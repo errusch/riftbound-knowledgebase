@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 2,
+  "might_bonus": null,
   "text": "[Assault 3] (+3 :rb_might: while I'm an attacker.)\nIf an opponent controls a battlefield, I enter ready.\nWhen I conquer, you may pay :rb_energy_1: to return me to my owner's hand.",
   "text_rich": "<p>[Assault 3] (+3 :rb_might: while I'm an attacker.)<br />If an opponent controls a battlefield, I enter ready.<br />When I conquer, you may pay :rb_energy_1: to return me to my owner's hand.</p>",
   "rarity": "Rare",

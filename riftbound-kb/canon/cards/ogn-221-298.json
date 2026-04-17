@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nWhen any unit takes damage this turn, kill it.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />When any unit takes damage this turn, kill it.</p>",
   "rarity": "Uncommon",

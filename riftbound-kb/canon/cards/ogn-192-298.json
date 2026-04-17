@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 2,
+  "might": 7,
+  "might_bonus": null,
   "text": "When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card.",
   "text_rich": "<p>When you play me, choose an opponent. They reveal their hand. Choose a card from it, and they discard that card.</p>",
   "rarity": "Rare",

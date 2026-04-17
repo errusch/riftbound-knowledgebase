@@ -23,15 +23,21 @@
     "card_type": {"type": "string"},
     "subtypes": {"type": "array", "items": {"type": "string"}},
     "domains": {"type": "array", "items": {"type": "string"}},
-    "cost": {"type": ["integer", "string", "null"]},
-    "stats": {
-      "type": "object",
-      "properties": {
-        "attack": {"type": ["integer", "string", "null"]},
-        "health": {"type": ["integer", "string", "null"]},
-        "reserve": {"type": ["integer", "string", "null"]}
-      },
-      "additionalProperties": true
+    "energy": {
+      "type": ["integer", "string", "null"],
+      "description": "Energy cost to play the card (the circle/pip value in the top-left of the printed card)."
+    },
+    "power": {
+      "type": ["integer", "string", "null"],
+      "description": "Power (rune) cost. Sum of domain pips required in the player's rune pool."
+    },
+    "might": {
+      "type": ["integer", "string", "null"],
+      "description": "Combat stat of a Unit (sword-and-shield icon, top-right). Determines both damage dealt and damage survivable."
+    },
+    "might_bonus": {
+      "type": ["integer", "string", "null"],
+      "description": "Might modifier applied while this card is attached to another (Gear, attachments)."
     },
     "text": {"type": "string"},
     "rarity": {"type": "string"},

@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 10,
-    "might_bonus": null
-  },
+  "energy": 10,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "I cost :rb_energy_1: less for each card in your trash.",
   "text_rich": "<p>I cost :rb_energy_1: less for each card in your trash.</p>",
   "rarity": "Rare",

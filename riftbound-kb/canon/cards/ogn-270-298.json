@@ -14,13 +14,10 @@
     "Body",
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Buff a friendly unit in your base, then move it to a battlefield. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
   "text_rich": "<p>Buff a friendly unit in your base, then move it to a battlefield. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)</p>",
   "rarity": "Epic",

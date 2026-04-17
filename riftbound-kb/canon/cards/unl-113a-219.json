@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Hunt 2]\n[Level 6][&gt;] I have [Deflect] and [Ganking].",
   "text_rich": "<p>[Hunt 2]<br />[Level 6][&gt;] I have [Deflect] and [Ganking].</p>",
   "rarity": "Showcase",

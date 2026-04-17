@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Level 3][&gt;] I enter ready. (While you have 3+ XP, get the effect.)",
   "text_rich": "<p>[Level 3][&gt;] I enter ready. (While you have 3+ XP, get the effect.)</p>",
   "rarity": "Common",

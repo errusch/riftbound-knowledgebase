@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 2,
+  "might": 8,
+  "might_bonus": null,
   "text": "When I conquer after an attack, if you assigned 5 or more excess damage to enemy units, you score 1 point.",
   "text_rich": "<p>When I conquer after an attack, if you assigned 5 or more excess damage to enemy units, you score 1 point.</p>",
   "rarity": "Rare",

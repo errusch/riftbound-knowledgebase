@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 3,
+  "might_bonus": null,
   "text": "I must be assigned combat damage last.\n:rb_exhaust:: Deal damage equal to my Might to a unit at a battlefield. Use this ability only while I'm at a battlefield.",
   "text_rich": "<p>I must be assigned combat damage last.<br />:rb_exhaust:: Deal damage equal to my Might to a unit at a battlefield. Use this ability only while I'm at a battlefield.</p>",
   "rarity": "Rare",

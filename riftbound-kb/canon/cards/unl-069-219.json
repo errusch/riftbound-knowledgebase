@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Play two ready 3 :rb_might: Sprite unit tokens with [Temporary]. (Kill each at the start of its controller's Beginning Phase, before scoring.)",
   "text_rich": "<p>Play two ready 3 :rb_might: Sprite unit tokens with [Temporary]. (Kill each at the start of its controller's Beginning Phase, before scoring.)</p>",
   "rarity": "Common",

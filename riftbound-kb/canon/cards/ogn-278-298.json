@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "You may hide an additional card here.",
   "text_rich": "<p>You may hide an additional card here.</p>",
   "rarity": "Uncommon",

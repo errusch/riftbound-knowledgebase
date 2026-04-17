@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When a unit here is returned to a player's hand, that player may pay :rb_energy_1: to channel 1 rune exhausted.",
   "text_rich": "<p>When a unit here is returned to a player's hand, that player may pay :rb_energy_1: to channel 1 rune exhausted.</p>",
   "rarity": "Uncommon",

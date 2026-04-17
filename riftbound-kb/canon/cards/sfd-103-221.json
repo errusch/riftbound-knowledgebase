@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 2,
+  "might": 6,
+  "might_bonus": null,
   "text": "[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)\nI cost :rb_energy_2: less for each of your [Mighty] units. (A unit is Mighty while it has 5+ :rb_might:.)",
   "text_rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)<br />I cost :rb_energy_2: less for each of your [Mighty] units. (A unit is Mighty while it has 5+ :rb_might:.)</p>",
   "rarity": "Uncommon",

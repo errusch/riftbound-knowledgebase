@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you hold here, buff a unit here. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
   "text_rich": "<p>When you hold here, buff a unit here. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)</p>",
   "rarity": "Uncommon",

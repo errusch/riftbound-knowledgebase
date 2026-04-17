@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "Deal 3 to a unit.\nDeal 3 to a unit.",
   "text_rich": "<p>Deal 3 to a unit.<br />Deal 3 to a unit.</p>",
   "rarity": "Rare",

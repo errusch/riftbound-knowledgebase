@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "When a friendly unit moves from my location, I may be moved with it.",
   "text_rich": "<p>When a friendly unit moves from my location, I may be moved with it.</p>",
   "rarity": "Common",

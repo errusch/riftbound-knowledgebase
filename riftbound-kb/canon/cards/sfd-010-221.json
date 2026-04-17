@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "I cost :rb_energy_2: less to play from anywhere other than your hand.",
   "text_rich": "<p>I cost :rb_energy_2: less to play from anywhere other than your hand.</p>",
   "rarity": "Common",

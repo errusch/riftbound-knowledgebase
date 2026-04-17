@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "I can't be readied.\n:rb_rune_chaos:: Move me to an occupied enemy battlefield if my Might is greater than the total Might of enemy units there.",
   "text_rich": "<p>I can't be readied.<br />:rb_rune_chaos:: Move me to an occupied enemy battlefield if my Might is greater than the total Might of enemy units there.</p>",
   "rarity": "Rare",

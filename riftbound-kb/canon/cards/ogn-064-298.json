@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nCounter a spell.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Counter a spell.</p>",
   "rarity": "Uncommon",

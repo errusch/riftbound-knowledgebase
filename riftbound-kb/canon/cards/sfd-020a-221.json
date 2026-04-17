@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "When I win a combat, play a Gold gear token exhausted.\nWhen I attack or defend, you may pay :rb_rune_fury:. If you do, give me +2 :rb_might: this turn.",
   "text_rich": "<p>When I win a combat, play a Gold gear token exhausted.<br />When I attack or defend, you may pay :rb_rune_fury:. If you do, give me +2 :rb_might: this turn.</p>",
   "rarity": "Showcase",

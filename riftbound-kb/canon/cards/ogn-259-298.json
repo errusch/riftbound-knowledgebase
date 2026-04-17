@@ -14,13 +14,10 @@
     "Calm",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": ":rb_energy_2:, :rb_exhaust:: Move a friendly unit to or from its base.",
   "text_rich": "<p>:rb_energy_2:, :rb_exhaust:: Move a friendly unit to or from its base.</p>",
   "rarity": "Rare",

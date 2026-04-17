@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "[Hidden]\n[Backline]\nOnce each turn, when an enemy unit dies while I'm at a battlefield, play a Gold gear token exhausted.",
   "text_rich": "<p>[Hidden]<br />[Backline]<br />Once each turn, when an enemy unit dies while I'm at a battlefield, play a Gold gear token exhausted.</p>",
   "rarity": "Showcase",

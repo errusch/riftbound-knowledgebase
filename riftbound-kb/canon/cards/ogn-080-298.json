@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 3,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 3,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGain control of a spell. You may make new choices for it.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Gain control of a spell. You may make new choices for it.</p>",
   "rarity": "Epic",

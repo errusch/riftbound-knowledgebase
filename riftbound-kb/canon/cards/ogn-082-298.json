@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": 2,
+  "might": 8,
+  "might_bonus": null,
   "text": "When you play me, give a unit +8 :rb_might: this turn.",
   "text_rich": "<p>When you play me, give a unit +8 :rb_might: this turn.</p>",
   "rarity": "Epic",

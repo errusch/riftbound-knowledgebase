@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 2,
+  "might": 8,
+  "might_bonus": null,
   "text": "When you play me, return another friendly unit and an enemy unit to their owners' hands.",
   "text_rich": "<p>When you play me, return another friendly unit and an enemy unit to their owners' hands.</p>",
   "rarity": "Uncommon",

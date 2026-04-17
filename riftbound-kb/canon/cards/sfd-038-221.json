@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "When I move to a battlefield, give another friendly unit +1 :rb_might: this turn.",
   "text_rich": "<p>When I move to a battlefield, give another friendly unit +1 :rb_might: this turn.</p>",
   "rarity": "Common",

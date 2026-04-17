@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Hunt 2] (When I conquer or hold, gain 2 XP.)\n[Level 6][&gt;] I have [Deflect] and [Ganking]. (While you have 6+ XP, opponents must pay :rb_rune_rainbow: to choose me with a spell or ability and I can move from battlefield to battlefield.)",
   "text_rich": "<p>[Hunt 2] (When I conquer or hold, gain 2 XP.)<br />[Level 6][&gt;] I have [Deflect] and [Ganking]. (While you have 6+ XP, opponents must pay :rb_rune_rainbow: to choose me with a spell or ability and I can move from battlefield to battlefield.)</p>",
   "rarity": "Rare",

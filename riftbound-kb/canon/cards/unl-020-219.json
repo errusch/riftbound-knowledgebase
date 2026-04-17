@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Deal 2 to a unit. Its controller may play this spell again for :rb_rune_rainbow:. If they do, this deals 1 additional Bonus Damage for each time this spell has dealt damage this turn.",
   "text_rich": "<p>Deal 2 to a unit. Its controller may play this spell again for :rb_rune_rainbow:. If they do, this deals 1 additional Bonus Damage for each time this spell has dealt damage this turn.</p>",
   "rarity": "Rare",

@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": 2,
+  "might": 8,
+  "might_bonus": null,
   "text": "[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)\nEnemy units here with less Might than me don't deal combat damage.\nWhen I hold, draw 1.",
   "text_rich": "<p>[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)<br />Enemy units here with less Might than me don't deal combat damage.<br />When I hold, draw 1.</p>",
   "rarity": "Epic",

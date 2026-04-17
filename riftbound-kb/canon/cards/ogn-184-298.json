@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": ":rb_energy_1:, :rb_exhaust:: Move a friendly unit at a battlefield to its base.",
   "text_rich": "<p>:rb_energy_1:, :rb_exhaust:: Move a friendly unit at a battlefield to its base.</p>",
   "rarity": "Uncommon",

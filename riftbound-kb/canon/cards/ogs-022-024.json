@@ -14,13 +14,10 @@
     "Mind",
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nDeal 8 to a unit.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Deal 8 to a unit.</p>",
   "rarity": "Epic",

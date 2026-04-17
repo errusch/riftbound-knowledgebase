@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 2,
+  "might": 6,
+  "might_bonus": null,
   "text": "When you play me, deal 6 to an enemy unit at a battlefield.",
   "text_rich": "<p>When you play me, deal 6 to an enemy unit at a battlefield.</p>",
   "rarity": "Common",

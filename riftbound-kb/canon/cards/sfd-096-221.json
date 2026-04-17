@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "Ganking (I can move from battlefield to battlefield.)",
   "text_rich": "<p>Ganking (I can move from battlefield to battlefield.)</p>",
   "rarity": "Common",

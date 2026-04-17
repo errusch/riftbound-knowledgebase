@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "When I move, draw 1, then discard 1. Then, do the following based on the discarded card's type:Spell — Draw 1.Gear — Ready up to 2 runes.Unit — Give me +3 :rb_might: this turn.",
   "text_rich": "<p>When I move, draw 1, then discard 1. Then, do the following based on the discarded card's type:</p><ul><li>Spell — Draw 1.</li><li>Gear — Ready up to 2 runes.</li><li>Unit — Give me +3 :rb_might: this turn.</li></ul>",
   "rarity": "Rare",

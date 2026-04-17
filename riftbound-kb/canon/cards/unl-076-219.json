@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "I have +1 :rb_might: for each of your units with [Temporary] at my battlefield.",
   "text_rich": "<p>I have +1 :rb_might: for each of your units with [Temporary] at my battlefield.</p>",
   "rarity": "Uncommon",

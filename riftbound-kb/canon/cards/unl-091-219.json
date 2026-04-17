@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Draw 2.\n[Level 6][&gt;] This costs :rb_energy_2: less. (While you have 6+ XP, get the effect.)\n[Level 11][&gt;] This costs :rb_energy_4: less instead.",
   "text_rich": "<p>Draw 2.<br />[Level 6][&gt;] This costs :rb_energy_2: less. (While you have 6+ XP, get the effect.)<br />[Level 11][&gt;] This costs :rb_energy_4: less instead.</p>",
   "rarity": "Common",

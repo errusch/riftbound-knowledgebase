@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": 2,
+  "might": 8,
+  "might_bonus": null,
   "text": "[Ambush]\nEnemy units here with less Might than me don't deal combat damage.\nWhen I hold, draw 1.",
   "text_rich": "<p>[Ambush]<br />Enemy units here with less Might than me don't deal combat damage.<br />When I hold, draw 1.</p>",
   "rarity": "Showcase",

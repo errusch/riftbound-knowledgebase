@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "At the start of each player's first Beginning Phase, that player channels 1 rune.",
   "text_rich": "<p>At the start of each player's first Beginning Phase, that player channels 1 rune.</p>",
   "rarity": "Uncommon",

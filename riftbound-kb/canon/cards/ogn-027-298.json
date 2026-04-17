@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "When you play your second card in a turn, give me +2 :rb_might: this turn and ready me.",
   "text_rich": "<p>When you play your second card in a turn, give me +2 :rb_might: this turn and ready me.</p>",
   "rarity": "Rare",

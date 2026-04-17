@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 6,
+  "might_bonus": null,
   "text": "If an opponent controls a stunned unit, I cost :rb_energy_2: less and enter ready.",
   "text_rich": "<p>If an opponent controls a stunned unit, I cost :rb_energy_2: less and enter ready.</p>",
   "rarity": "Common",

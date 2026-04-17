@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "When I hold, play two Gold gear tokens exhausted.",
   "text_rich": "<p>When I hold, play two Gold gear tokens exhausted.</p>",
   "rarity": "Common",

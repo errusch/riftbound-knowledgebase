@@ -14,13 +14,10 @@
     "Mind",
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you play a spell that costs :rb_energy_5: or more, draw 1.",
   "text_rich": "<p>When you play a spell that costs :rb_energy_5: or more, draw 1.</p>",
   "rarity": "Rare",

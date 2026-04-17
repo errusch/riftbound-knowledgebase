@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)\nWhen I attack, [Stun] an enemy unit here. (It doesn't deal combat damage this turn.)",
   "text_rich": "<p>[Ambush] (You may play me as a [Reaction] to a battlefield where you have units.)<br />When I attack, [Stun] an enemy unit here. (It doesn't deal combat damage this turn.)</p>",
   "rarity": "Rare",

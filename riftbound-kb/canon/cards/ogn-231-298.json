@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 4,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 4,
+  "might": 8,
+  "might_bonus": null,
   "text": "As you play me, you may kill any number of friendly units as an additional cost. Reduce my cost by :rb_rune_order: for each killed this way.\n[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)\n[Ganking] (I can move from battlefield to battlefield.)",
   "text_rich": "<p>As you play me, you may kill any number of friendly units as an additional cost. Reduce my cost by :rb_rune_order: for each killed this way.<br />[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)<br />[Ganking] (I can move from battlefield to battlefield.)</p>",
   "rarity": "Rare",

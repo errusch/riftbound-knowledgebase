@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 1,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 1,
+  "might_bonus": null,
   "text": "[Deathknell] — Channel 1 rune exhausted. (When I die, get the effect.)",
   "text_rich": "<p>[Deathknell] — Channel 1 rune exhausted. (When I die, get the effect.)</p>",
   "rarity": "Common",

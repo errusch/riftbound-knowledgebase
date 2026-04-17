@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nAs you play this, you may spend a buff as an additional cost. If you do, ignore this spell's cost.\nGive a unit +3 :rb_might: this turn.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />As you play this, you may spend a buff as an additional cost. If you do, ignore this spell's cost.<br />Give a unit +3 :rb_might: this turn.</p>",
   "rarity": "Common",

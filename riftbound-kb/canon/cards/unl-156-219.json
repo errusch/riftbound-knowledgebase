@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "[Deathknell][&gt;] If I didn't die alone, draw 1. (When I die, get the effect. I wasn't alone if there were other friendly units here.)",
   "text_rich": "<p>[Deathknell][&gt;] If I didn't die alone, draw 1. (When I die, get the effect. I wasn't alone if there were other friendly units here.)</p>",
   "rarity": "Common",

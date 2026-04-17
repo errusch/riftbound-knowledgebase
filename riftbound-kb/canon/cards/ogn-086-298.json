@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)\n[Shield] (+1 :rb_might: while I'm a defender.)",
   "text_rich": "<p>[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)<br />[Shield] (+1 :rb_might: while I'm a defender.)</p>",
   "rarity": "Common",

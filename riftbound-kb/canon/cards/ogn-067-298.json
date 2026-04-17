@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Tank] (I must be assigned combat damage first.)\nWhen you play me to a battlefield, you may move an enemy unit to here.\nWhen I hold, return me to my owner's hand.",
   "text_rich": "<p>[Tank] (I must be assigned combat damage first.)<br />When you play me to a battlefield, you may move an enemy unit to here.<br />When I hold, return me to my owner's hand.</p>",
   "rarity": "Rare",

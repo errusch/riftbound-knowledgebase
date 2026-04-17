@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "While I'm attacking or defending alone, I have +2 :rb_might:.",
   "text_rich": "<p>While I'm attacking or defending alone, I have +2 :rb_might:.</p>",
   "rarity": "Common",

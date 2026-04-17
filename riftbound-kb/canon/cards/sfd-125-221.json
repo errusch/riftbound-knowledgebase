@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "When I move to a battlefield, you may pay :rb_rune_chaos: to move a unit you control to the same battlefield.",
   "text_rich": "<p>When I move to a battlefield, you may pay :rb_rune_chaos: to move a unit you control to the same battlefield.</p>",
   "rarity": "Common",

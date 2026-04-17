@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When a player plays a spell, they may give a unit they control here +1 :rb_might: this turn.",
   "text_rich": "<p>When a player plays a spell, they may give a unit they control here +1 :rb_might: this turn.</p>",
   "rarity": "Uncommon",

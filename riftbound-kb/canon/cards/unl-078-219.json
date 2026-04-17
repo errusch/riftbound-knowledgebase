@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Temporary] (Kill this at the start of its controller's Beginning Phase, before scoring.)\nWhen you play this, play a ready 3 :rb_might: Sprite unit token with [Temporary] to your base.\n[Deathknell][&gt;] Repeat this gear's play effect. (When this dies, get the effect.)",
   "text_rich": "<p>[Temporary] (Kill this at the start of its controller's Beginning Phase, before scoring.)<br />When you play this, play a ready 3 :rb_might: Sprite unit token with [Temporary] to your base.<br />[Deathknell][&gt;] Repeat this gear's play effect. (When this dies, get the effect.)</p>",
   "rarity": "Uncommon",

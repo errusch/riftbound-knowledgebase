@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": "+2"
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": "+2",
   "text": "[Equip] — :rb_rune_chaos:, Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)",
   "text_rich": "<p>[Equip] — :rb_rune_chaos:, Recycle 2 cards from your trash (Pay the cost: Attach this to a unit you control.)</p>",
   "rarity": "Epic",

@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Units here have +1 :rb_might:. (This includes attackers.)",
   "text_rich": "<p>Units here have +1 :rb_might:. (This includes attackers.)</p>",
   "rarity": "Uncommon",

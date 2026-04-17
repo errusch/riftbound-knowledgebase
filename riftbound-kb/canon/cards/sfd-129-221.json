@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)\nMove an enemy unit to a location where there's a unit with the same controller.",
   "text_rich": "<p>[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)<br />Move an enemy unit to a location where there's a unit with the same controller.</p>",
   "rarity": "Common",

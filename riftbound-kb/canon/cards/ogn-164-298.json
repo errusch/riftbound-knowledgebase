@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "When I'm played and when I conquer, buff me. (If I don't have a buff, I get a +1 :rb_might: buff.)\nSpend my buff: Give me +4 :rb_might: this turn.",
   "text_rich": "<p>When I'm played and when I conquer, buff me. (If I don't have a buff, I get a +1 :rb_might: buff.)<br />Spend my buff: Give me +4 :rb_might: this turn.</p>",
   "rarity": "Epic",

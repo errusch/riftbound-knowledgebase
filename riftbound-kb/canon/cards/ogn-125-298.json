@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 6,
+  "might_bonus": null,
   "text": "While I'm buffed, I have [Ganking]. (I can move from battlefield to battlefield.)",
   "text_rich": "<p>While I'm buffed, I have [Ganking]. (I can move from battlefield to battlefield.)</p>",
   "rarity": "Common",

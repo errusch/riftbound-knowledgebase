@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 0,
-    "might_bonus": null
-  },
+  "energy": 0,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\n[Repeat] :rb_rune_chaos: (You may pay the additional cost to repeat this spell's effect.)\nLook at the top 2 cards of your Main Deck. Draw one and recycle the other.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />[Repeat] :rb_rune_chaos: (You may pay the additional cost to repeat this spell's effect.)<br />Look at the top 2 cards of your Main Deck. Draw one and recycle the other.</p>",
   "rarity": "Common",

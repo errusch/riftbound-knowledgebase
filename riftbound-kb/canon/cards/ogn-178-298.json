@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Deathknell] — Discard 2, then draw 2. (When I die, get the effect.)",
   "text_rich": "<p>[Deathknell] — Discard 2, then draw 2. (When I die, get the effect.)</p>",
   "rarity": "Common",

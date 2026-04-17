@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nDiscard 1, then draw 2.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Discard 1, then draw 2.</p>",
   "rarity": "Common",

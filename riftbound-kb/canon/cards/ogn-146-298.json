@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nAs you play this, you may spend a buff as an additional cost. If you do, ignore this spell's cost.\nReady a unit.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />As you play this, you may spend a buff as an additional cost. If you do, ignore this spell's cost.<br />Ready a unit.</p>",
   "rarity": "Uncommon",

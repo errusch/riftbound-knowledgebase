@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": "+2"
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": "+2",
   "text": "When you play this, gain 1 XP.\n[Equip] — Spend 1 XP (Pay the cost: Attach this to a unit you control.)",
   "text_rich": "<p>When you play this, gain 1 XP.<br />[Equip] — Spend 1 XP (Pay the cost: Attach this to a unit you control.)</p>",
   "rarity": "Common",

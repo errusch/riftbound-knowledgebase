@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "Your Dragons' Energy costs are reduced by :rb_energy_2:, to a minimum of :rb_energy_1:.",
   "text_rich": "<p>Your Dragons' Energy costs are reduced by :rb_energy_2:, to a minimum of :rb_energy_1:.</p>",
   "rarity": "Uncommon",

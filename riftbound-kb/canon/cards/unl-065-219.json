@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "When I attack, you may pay :rb_energy_1: to give a unit here -1 :rb_might: this turn.",
   "text_rich": "<p>When I attack, you may pay :rb_energy_1: to give a unit here -1 :rb_might: this turn.</p>",
   "rarity": "Common",

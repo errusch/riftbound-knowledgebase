@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nGive a unit [Assault 2] and [Ganking] this turn. (+2 :rb_might: while it's an attacker. It can move from battlefield to battlefield.)",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Give a unit [Assault 2] and [Ganking] this turn. (+2 :rb_might: while it's an attacker. It can move from battlefield to battlefield.)</p>",
   "rarity": "Common",

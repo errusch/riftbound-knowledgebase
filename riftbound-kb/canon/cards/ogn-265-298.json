@@ -14,13 +14,10 @@
     "Mind",
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": ":rb_energy_1:, :rb_exhaust:: Play a 1 :rb_might: Recruit unit token.",
   "text_rich": "<p>:rb_energy_1:, :rb_exhaust:: Play a 1 :rb_might: Recruit unit token.</p>",
   "rarity": "Rare",

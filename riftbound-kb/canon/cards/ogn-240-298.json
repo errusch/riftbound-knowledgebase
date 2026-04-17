@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Tank] (I must be assigned combat damage first.)\nI get +1 :rb_might: for each buffed friendly unit at my battlefield.",
   "text_rich": "<p>[Tank] (I must be assigned combat damage first.)<br />I get +1 :rb_might: for each buffed friendly unit at my battlefield.</p>",
   "rarity": "Rare",

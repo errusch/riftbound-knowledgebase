@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nIf an opponent's score is within 3 points of the Victory Score, this costs :rb_energy_2: less.\nDraw 1 and channel 1 rune exhausted.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />If an opponent's score is within 3 points of the Victory Score, this costs :rb_energy_2: less.<br />Draw 1 and channel 1 rune exhausted.</p>",
   "rarity": "Common",

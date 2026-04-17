@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nDeal 4 to a unit at a battlefield. Draw 1.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Deal 4 to a unit at a battlefield. Draw 1.</p>",
   "rarity": "Uncommon",

@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 6,
+  "might_bonus": null,
   "text": "As an additional cost to play me, kill a friendly unit.",
   "text_rich": "<p>As an additional cost to play me, kill a friendly unit.</p>",
   "rarity": "Common",

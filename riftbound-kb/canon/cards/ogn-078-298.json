@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Shield] (+1 :rb_might: while I'm a defender.)\n:rb_exhaust:: Buff me. (I get a +1 :rb_might: buff.)\nI can have any number of buffs.",
   "text_rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)<br />:rb_exhaust:: Buff me. (I get a +1 :rb_might: buff.)<br />I can have any number of buffs.</p>",
   "rarity": "Epic",

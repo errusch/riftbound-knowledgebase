@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "When you play a spell, give me +1 :rb_might: this turn.",
   "text_rich": "<p>When you play a spell, give me +1 :rb_might: this turn.</p>",
   "rarity": "Uncommon",

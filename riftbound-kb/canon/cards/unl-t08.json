@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Track gained XP here.\nSome cards get bonuses based on your [Level].\nSome cards can spend XP for powerful effects.",
   "text_rich": "<p>Track gained XP here.<br />Some cards get bonuses based on your [Level].<br />Some cards can spend XP for powerful effects.</p>",
   "rarity": "Common",

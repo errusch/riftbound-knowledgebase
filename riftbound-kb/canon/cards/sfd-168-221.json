@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": ":rb_exhaust:: Play three 1 :rb_might: Recruit unit tokens. (You may play them to different locations.)",
   "text_rich": "<p>:rb_exhaust:: Play three 1 :rb_might: Recruit unit tokens. (You may play them to different locations.)</p>",
   "rarity": "Uncommon",

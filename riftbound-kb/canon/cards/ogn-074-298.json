@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Shield] (+1 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nOther friendly units here have [Shield].",
   "text_rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)<br />[Tank] (I must be assigned combat damage first.)<br />Other friendly units here have [Shield].</p>",
   "rarity": "Rare",

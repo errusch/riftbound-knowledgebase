@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Draw 4.",
   "text_rich": "<p>Draw 4.</p>",
   "rarity": "Rare",

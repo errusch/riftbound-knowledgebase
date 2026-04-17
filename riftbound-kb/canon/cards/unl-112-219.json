@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 1,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 1,
+  "might_bonus": null,
   "text": "When I move to a battlefield, you may move an enemy unit to that battlefield.",
   "text_rich": "<p>When I move to a battlefield, you may move an enemy unit to that battlefield.</p>",
   "rarity": "Rare",

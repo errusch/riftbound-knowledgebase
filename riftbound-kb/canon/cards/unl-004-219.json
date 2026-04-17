@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 1,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 1,
+  "might_bonus": null,
   "text": "If you've spent :rb_energy_4: or more to play a spell this turn, I have +4 :rb_might:.",
   "text_rich": "<p>If you've spent :rb_energy_4: or more to play a spell this turn, I have +4 :rb_might:.</p>",
   "rarity": "Common",

@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you conquer here, you may pay :rb_energy_1: to play a Gold gear token exhausted.",
   "text_rich": "<p>When you conquer here, you may pay :rb_energy_1: to play a Gold gear token exhausted.</p>",
   "rarity": "Uncommon",

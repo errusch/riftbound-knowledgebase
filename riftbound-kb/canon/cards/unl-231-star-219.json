@@ -14,13 +14,10 @@
     "Calm",
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Level 6][&gt;] Your units have +1 :rb_might:.\n[Level 11][&gt;] Your units enter ready.",
   "text_rich": "<p>[Level 6][&gt;] Your units have +1 :rb_might:.<br />[Level 11][&gt;] Your units enter ready.</p>",
   "rarity": "Showcase",

@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 1,
+  "might": 7,
+  "might_bonus": null,
   "text": "[Accelerate] (You may pay :rb_energy_1::rb_rune_mind: as an additional cost to have me enter ready.)\nWhen you play me, give enemy units -3 :rb_might: this turn, to a minimum of 1 :rb_might:.",
   "text_rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_mind: as an additional cost to have me enter ready.)<br />When you play me, give enemy units -3 :rb_might: this turn, to a minimum of 1 :rb_might:.</p>",
   "rarity": "Rare",

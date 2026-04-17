@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "[Hunt 2] (When I conquer or hold, gain 2 XP.)\nI can be played to an occupied battlefield if an enemy unit is alone there.\nFriendly units can be played to an occupied battlefield if an enemy unit is alone there.",
   "text_rich": "<p>[Hunt 2] (When I conquer or hold, gain 2 XP.)<br />I can be played to an occupied battlefield if an enemy unit is alone there.<br />Friendly units can be played to an occupied battlefield if an enemy unit is alone there.</p>",
   "rarity": "Epic",

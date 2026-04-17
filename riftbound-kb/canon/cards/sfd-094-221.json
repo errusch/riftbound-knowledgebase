@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": null,
+  "might": 7,
+  "might_bonus": null,
   "text": "I enter ready if you control another Dragon.",
   "text_rich": "<p>I enter ready if you control another Dragon.</p>",
   "rarity": "Common",

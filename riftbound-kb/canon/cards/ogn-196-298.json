@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": 2,
+  "might": 5,
+  "might_bonus": null,
   "text": "When you play me, you may play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)",
   "text_rich": "<p>When you play me, you may play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)</p>",
   "rarity": "Rare",

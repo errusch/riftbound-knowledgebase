@@ -14,13 +14,10 @@
     "Fury",
     "Mind"
   ],
-  "cost": 3,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 3,
+  "might": null,
+  "might_bonus": null,
   "text": "Deal 2 to a unit.\nDeal 2 to a unit.\nDeal 2 to a unit.\nDeal 2 to a unit.\nDeal 2 to a unit.\nDeal 2 to a unit.",
   "text_rich": "<p>Deal 2 to a unit.<br />Deal 2 to a unit.<br />Deal 2 to a unit.<br />Deal 2 to a unit.<br />Deal 2 to a unit.<br />Deal 2 to a unit.</p>",
   "rarity": "Epic",

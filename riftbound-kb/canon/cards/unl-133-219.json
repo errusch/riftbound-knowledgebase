@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "When you play this, you may move an enemy unit.\nWhen you move an enemy unit, you may exhaust this to [Stun] it. (It doesn't deal combat damage this turn.)",
   "text_rich": "<p>When you play this, you may move an enemy unit.<br />When you move an enemy unit, you may exhaust this to [Stun] it. (It doesn't deal combat damage this turn.)</p>",
   "rarity": "Uncommon",

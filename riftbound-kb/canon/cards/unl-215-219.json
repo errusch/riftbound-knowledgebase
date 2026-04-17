@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "The first time a player plays a non-token unit here each turn, they may move another unit they control here to its base.",
   "text_rich": "<p>The first time a player plays a non-token unit here each turn, they may move another unit they control here to its base.</p>",
   "rarity": "Uncommon",

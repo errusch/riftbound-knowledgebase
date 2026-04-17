@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": ":rb_exhaust:: Give a unit -1 :rb_might: this turn, to a minimum of 1 :rb_might:.",
   "text_rich": "<p>:rb_exhaust:: Give a unit -1 :rb_might: this turn, to a minimum of 1 :rb_might:.</p>",
   "rarity": "Common",

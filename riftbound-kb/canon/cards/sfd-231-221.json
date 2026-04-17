@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 0,
-    "might_bonus": null
-  },
+  "energy": 0,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": ":rb_exhaust:: [Reaction] — [Add] :rb_rune_body:. (Abilities that add resources can't be reacted to.)",
   "text_rich": "<p>:rb_exhaust:: [Reaction] — [Add] :rb_rune_body:. (Abilities that add resources can't be reacted to.)</p>",
   "rarity": "Showcase",

@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "You may pay :rb_rune_calm: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, [Stun] an enemy unit. (It doesn't deal combat damage this turn.)\nWhen I hold, the next time you play a unit this turn, ready it and [Buff] it.",
   "text_rich": "<p>You may pay :rb_rune_calm: as an additional cost to play me.<br />When you play me, if you paid the additional cost, [Stun] an enemy unit. (It doesn't deal combat damage this turn.)<br />When I hold, the next time you play a unit this turn, ready it and [Buff] it.</p>",
   "rarity": "Rare",

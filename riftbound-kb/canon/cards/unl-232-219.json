@@ -14,13 +14,10 @@
     "Calm",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you or an ally hold, you may exhaust me to draw 1.",
   "text_rich": "<p>When you or an ally hold, you may exhaust me to draw 1.</p>",
   "rarity": "Showcase",

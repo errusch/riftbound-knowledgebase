@@ -14,13 +14,10 @@
     "Fury",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "At start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand.",
   "text_rich": "<p>At start of your Beginning Phase, draw 1 if you have one or fewer cards in your hand.</p>",
   "rarity": "Showcase",

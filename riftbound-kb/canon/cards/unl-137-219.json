@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 1,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": 1,
+  "might_bonus": null,
   "text": "When I attack, you may pay :rb_energy_1: to move an enemy unit here to its base.",
   "text_rich": "<p>When I attack, you may pay :rb_energy_1: to move an enemy unit here to its base.</p>",
   "rarity": "Uncommon",

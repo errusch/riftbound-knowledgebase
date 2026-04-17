@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": 1,
+  "might": 8,
+  "might_bonus": null,
   "text": "Other friendly units enter ready.",
   "text_rich": "<p>Other friendly units enter ready.</p>",
   "rarity": "Common",

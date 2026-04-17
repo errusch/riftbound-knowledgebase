@@ -14,13 +14,10 @@
     "Fury",
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": "+3"
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": "+3",
   "text": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)\n[Temporary] (If this is unattached, kill it at the start of its controller's Beginning Phase, before scoring.)",
   "text_rich": "<p>[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)<br />[Equip] :rb_rune_rainbow: (:rb_rune_rainbow:: Attach this to a unit you control.)<br />[Temporary] (If this is unattached, kill it at the start of its controller's Beginning Phase, before scoring.)</p>",
   "rarity": "Epic",

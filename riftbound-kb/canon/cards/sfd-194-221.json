@@ -14,13 +14,10 @@
     "Calm",
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nChoose a unit. The next time that unit would be dealt damage this turn, prevent it. Draw 1.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Choose a unit. The next time that unit would be dealt damage this turn, prevent it. Draw 1.</p>",
   "rarity": "Epic",

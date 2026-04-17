@@ -14,13 +14,10 @@
     "Fury",
     "Body"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "Choose a friendly unit in your base. Deal damage equal to its Might to all enemy units at a battlefield, then move your unit there.",
   "text_rich": "<p>Choose a friendly unit in your base. Deal damage equal to its Might to all enemy units at a battlefield, then move your unit there.</p>",
   "rarity": "Epic",

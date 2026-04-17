@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Kill a unit at a battlefield with 3 :rb_might: or less.",
   "text_rich": "<p>Kill a unit at a battlefield with 3 :rb_might: or less.</p>",
   "rarity": "Common",

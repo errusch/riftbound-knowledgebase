@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Units here with [Temporary] have [Shield]. (+1 :rb_might: while they're defenders.)",
   "text_rich": "<p>Units here with [Temporary] have [Shield]. (+1 :rb_might: while they're defenders.)</p>",
   "rarity": "Uncommon",

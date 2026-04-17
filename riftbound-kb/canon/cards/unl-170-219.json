@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 3,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 10,
-    "might_bonus": null
-  },
+  "energy": 10,
+  "power": 3,
+  "might": 7,
+  "might_bonus": null,
   "text": "You may kill a friendly unit as an additional cost to play me. If you do, I cost :rb_energy_1: less for each Energy it costs and :rb_rune_order: less for each Power it costs.\n[Ganking] (I can move from battlefield to battlefield.)\nWhen I attack, the defender must kill one of their units here.",
   "text_rich": "<p>You may kill a friendly unit as an additional cost to play me. If you do, I cost :rb_energy_1: less for each Energy it costs and :rb_rune_order: less for each Power it costs.<br />[Ganking] (I can move from battlefield to battlefield.)<br />When I attack, the defender must kill one of their units here.</p>",
   "rarity": "Rare",

@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "While you control this battlefield, friendly [Repeat] costs cost :rb_energy_1: less.",
   "text_rich": "<p>While you control this battlefield, friendly [Repeat] costs cost :rb_energy_1: less.</p>",
   "rarity": "Uncommon",

@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "[Assault] (+1 :rb_might: while I'm an attacker.)\nWhen I attack, deal damage equal to my [Assault] to an enemy unit here.",
   "text_rich": "<p>[Assault] (+1 :rb_might: while I'm an attacker.)<br />When I attack, deal damage equal to my [Assault] to an enemy unit here.</p>",
   "rarity": "Epic",

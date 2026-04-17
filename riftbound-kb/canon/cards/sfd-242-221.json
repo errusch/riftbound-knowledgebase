@@ -14,13 +14,10 @@
     "Fury",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you win a combat, draw 1. (You win if only your units remain after combat.)",
   "text_rich": "<p>When you win a combat, draw 1. (You win if only your units remain after combat.)</p>",
   "rarity": "Showcase",

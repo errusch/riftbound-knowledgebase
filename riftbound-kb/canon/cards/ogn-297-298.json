@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Units here have [Ganking]. (They can move from battlefield to battlefield.)",
   "text_rich": "<p>Units here have [Ganking]. (They can move from battlefield to battlefield.)</p>",
   "rarity": "Uncommon",

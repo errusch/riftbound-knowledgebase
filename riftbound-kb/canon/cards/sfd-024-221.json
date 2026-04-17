@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Tank] (I must be assigned combat damage first.)\nWhen I attack, you may play an Equipment with Energy cost no more than :rb_energy_2:, ignoring its cost. If you do, then do this: Attach it to me.",
   "text_rich": "<p>[Tank] (I must be assigned combat damage first.)<br />When I attack, you may play an Equipment with Energy cost no more than :rb_energy_2:, ignoring its cost. If you do, then do this: Attach it to me.</p>",
   "rarity": "Rare",

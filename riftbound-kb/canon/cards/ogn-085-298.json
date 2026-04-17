@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nDeal 6 to a unit at a battlefield.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Deal 6 to a unit at a battlefield.</p>",
   "rarity": "Common",

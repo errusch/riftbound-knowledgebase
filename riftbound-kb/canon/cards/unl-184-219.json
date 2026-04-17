@@ -14,13 +14,10 @@
     "Fury",
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nBanish a friendly unit, then its owner plays it to any battlefield, ignoring its cost.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Banish a friendly unit, then its owner plays it to any battlefield, ignoring its cost.</p>",
   "rarity": "Epic",

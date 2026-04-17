@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When a player chooses a friendly unit here with a spell for the first time each turn, they draw 1.",
   "text_rich": "<p>When a player chooses a friendly unit here with a spell for the first time each turn, they draw 1.</p>",
   "rarity": "Uncommon",

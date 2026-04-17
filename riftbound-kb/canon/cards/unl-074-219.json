@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you draw your second card each turn, give a friendly unit +2 :rb_might: this turn.",
   "text_rich": "<p>When you draw your second card each turn, give a friendly unit +2 :rb_might: this turn.</p>",
   "rarity": "Uncommon",

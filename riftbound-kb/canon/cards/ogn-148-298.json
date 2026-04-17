@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 2,
+  "might": 8,
+  "might_bonus": null,
   "text": "When I attack, deal 3 to all enemy units here.",
   "text_rich": "<p>When I attack, deal 3 to all enemy units here.</p>",
   "rarity": "Rare",

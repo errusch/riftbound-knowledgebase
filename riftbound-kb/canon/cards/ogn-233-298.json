@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 3,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 3,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nGive friendly units +5 :rb_might: this turn.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Give friendly units +5 :rb_might: this turn.</p>",
   "rarity": "Rare",

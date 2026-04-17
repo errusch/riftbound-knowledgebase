@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 2,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)\n[Assault] (+1 :rb_might: while I'm an attacker.)\nAs you play me, you may spend any number of buffs as an additional cost. Reduce my cost by :rb_rune_body: for each buff you spend.",
   "text_rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_body: as an additional cost to have me enter ready.)<br />[Assault] (+1 :rb_might: while I'm an attacker.)<br />As you play me, you may spend any number of buffs as an additional cost. Reduce my cost by :rb_rune_body: for each buff you spend.</p>",
   "rarity": "Rare",

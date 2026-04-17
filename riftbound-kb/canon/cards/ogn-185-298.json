@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "When I move, discard 1, then draw 1.",
   "text_rich": "<p>When I move, discard 1, then draw 1.</p>",
   "rarity": "Uncommon",

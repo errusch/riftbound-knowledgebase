@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "[Legion] — When you play me, ready me. (Get the effect if you've played another card this turn)\nOther friendly units have +1 :rb_might: here.",
   "text_rich": "<p>[Legion] — When you play me, ready me. (Get the effect if you've played another card this turn)<br />Other friendly units have +1 :rb_might: here.</p>",
   "rarity": "Epic",

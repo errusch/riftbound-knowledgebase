@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "While you have another unit here, I have +1 :rb_might:.",
   "text_rich": "<p>While you have another unit here, I have +1 :rb_might:.</p>",
   "rarity": "Common",

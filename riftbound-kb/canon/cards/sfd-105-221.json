@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "I can't be chosen by enemy spells and abilities.",
   "text_rich": "<p>I can't be chosen by enemy spells and abilities.</p>",
   "rarity": "Uncommon",

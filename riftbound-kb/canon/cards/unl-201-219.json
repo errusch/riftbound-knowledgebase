@@ -14,13 +14,10 @@
     "Body",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you win a combat, gain 1 XP.\nSpend 1 XP, :rb_exhaust:: [Buff] a unit.\nSpend 2 XP, :rb_exhaust:: Move an exhausted friendly unit from a battlefield to its base.",
   "text_rich": "<p>When you win a combat, gain 1 XP.<br />Spend 1 XP, :rb_exhaust:: [Buff] a unit.<br />Spend 2 XP, :rb_exhaust:: Move an exhausted friendly unit from a battlefield to its base.</p>",
   "rarity": "Rare",

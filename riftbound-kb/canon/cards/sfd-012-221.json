@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "I cost :rb_energy_1: less for each card you've played this turn, to a minimum of :rb_energy_1:.",
   "text_rich": "<p>I cost :rb_energy_1: less for each card you've played this turn, to a minimum of :rb_energy_1:.</p>",
   "rarity": "Uncommon",

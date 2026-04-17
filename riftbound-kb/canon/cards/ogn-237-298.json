@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "Starting with the next player, each other player chooses a unit you don't control that hasn't been chosen for this spell. Kill those units.",
   "text_rich": "<p>Starting with the next player, each other player chooses a unit you don't control that hasn't been chosen for this spell. Kill those units.</p>",
   "rarity": "Rare",

@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "Each player chooses 2 units, 2 gear, 2 runes, and 2 cards in their hands. Recycle the rest.",
   "text_rich": "<p>Each player chooses 2 units, 2 gear, 2 runes, and 2 cards in their hands. Recycle the rest.</p>",
   "rarity": "Epic",

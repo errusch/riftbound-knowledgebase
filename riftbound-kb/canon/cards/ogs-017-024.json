@@ -14,13 +14,10 @@
     "Fury",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "At the end of your turn, ready up to 2 runes.",
   "text_rich": "<p>At the end of your turn, ready up to 2 runes.</p>",
   "rarity": "Rare",

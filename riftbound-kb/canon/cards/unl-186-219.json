@@ -14,13 +14,10 @@
     "Fury",
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Kill a unit at a battlefield. Then, if it had 3 :rb_might: or less, you may play this from your trash for :rb_rune_rainbow:.",
   "text_rich": "<p>Kill a unit at a battlefield. Then, if it had 3 :rb_might: or less, you may play this from your trash for :rb_rune_rainbow:.</p>",
   "rarity": "Epic",

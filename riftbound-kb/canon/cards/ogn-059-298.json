@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 1,
+  "might": 7,
+  "might_bonus": null,
   "text": "When you stun an enemy unit, ready me and give me +1 :rb_might: this turn.",
   "text_rich": "<p>When you stun an enemy unit, ready me and give me +1 :rb_might: this turn.</p>",
   "rarity": "Uncommon",

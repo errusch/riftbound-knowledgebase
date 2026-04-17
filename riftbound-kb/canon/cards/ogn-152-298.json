@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you buff a friendly unit, you may pay :rb_rune_body: and exhaust this to ready it.",
   "text_rich": "<p>When you buff a friendly unit, you may pay :rb_rune_body: and exhaust this to ready it.</p>",
   "rarity": "Rare",

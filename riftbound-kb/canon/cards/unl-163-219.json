@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "Opponents must pay :rb_rune_rainbow: for each unit beyond the first to move multiple units to my battlefield at the same time.",
   "text_rich": "<p>Opponents must pay :rb_rune_rainbow: for each unit beyond the first to move multiple units to my battlefield at the same time.</p>",
   "rarity": "Uncommon",

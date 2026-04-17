@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "When you play me, give your other units +2 :rb_might: this turn.\nAs I'm revealed from your deck, [Add] :rb_energy_2:.",
   "text_rich": "<p>When you play me, give your other units +2 :rb_might: this turn.<br />As I'm revealed from your deck, [Add] :rb_energy_2:.</p>",
   "rarity": "Rare",

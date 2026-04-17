@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "When you play a card with Power cost :rb_rune_rainbow::rb_rune_rainbow: or more, draw 1.",
   "text_rich": "<p>When you play a card with Power cost :rb_rune_rainbow::rb_rune_rainbow: or more, draw 1.</p>",
   "rarity": "Common",

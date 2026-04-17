@@ -14,13 +14,10 @@
     "Fury",
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\n[Repeat] :rb_energy_1::rb_rune_rainbow: (You may pay the additional cost to repeat this spell's effect.)\nGive your Mechs +1 :rb_might: this turn.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />[Repeat] :rb_energy_1::rb_rune_rainbow: (You may pay the additional cost to repeat this spell's effect.)<br />Give your Mechs +1 :rb_might: this turn.</p>",
   "rarity": "Epic",

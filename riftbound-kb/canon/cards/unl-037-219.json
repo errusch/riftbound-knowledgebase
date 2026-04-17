@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "If a friendly unit died during your Beginning Phase this turn, I enter ready.",
   "text_rich": "<p>If a friendly unit died during your Beginning Phase this turn, I enter ready.</p>",
   "rarity": "Common",

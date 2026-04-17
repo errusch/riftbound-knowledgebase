@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nDeal 3 to a unit at a battlefield.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Deal 3 to a unit at a battlefield.</p>",
   "rarity": "Common",

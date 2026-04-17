@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 6,
+  "might_bonus": null,
   "text": "[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)\nWhen you play me, choose an opponent. They play a 1 :rb_might: Bird unit token with [Deflect].",
   "text_rich": "<p>[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)<br />When you play me, choose an opponent. They play a 1 :rb_might: Bird unit token with [Deflect].</p>",
   "rarity": "Common",

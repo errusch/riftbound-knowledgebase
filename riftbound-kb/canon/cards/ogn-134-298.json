@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Channel 1 rune exhausted. If you can't, draw 1.",
   "text_rich": "<p>Channel 1 rune exhausted. If you can't, draw 1.</p>",
   "rarity": "Common",

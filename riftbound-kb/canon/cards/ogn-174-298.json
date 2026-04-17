@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)\nYou may play me to an open battlefield.",
   "text_rich": "<p>[Vision] (When you play me, look at the top card of your Main Deck. You may recycle it.)<br />You may play me to an open battlefield.</p>",
   "rarity": "Common",

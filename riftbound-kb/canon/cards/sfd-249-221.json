@@ -14,13 +14,10 @@
     "Mind",
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you or an ally hold, you may exhaust me to play a Gold gear token exhausted.\nWhile your score is within 3 points of the Victory Score, your Gold [ADD] an additional :rb_energy_1:.",
   "text_rich": "<p>When you or an ally hold, you may exhaust me to play a Gold gear token exhausted.<br />While your score is within 3 points of the Victory Score, your Gold [ADD] an additional :rb_energy_1:.</p>",
   "rarity": "Showcase",

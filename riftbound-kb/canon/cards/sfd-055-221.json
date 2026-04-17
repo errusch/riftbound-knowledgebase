@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 3,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 10,
-    "might_bonus": null
-  },
+  "energy": 10,
+  "power": 3,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Shield 5] (+5 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nI cost :rb_energy_2::rb_rune_calm: less for each point you scored from holding this turn.",
   "text_rich": "<p>[Shield 5] (+5 :rb_might: while I'm a defender.)<br />[Tank] (I must be assigned combat damage first.)<br />I cost :rb_energy_2::rb_rune_calm: less for each point you scored from holding this turn.</p>",
   "rarity": "Rare",

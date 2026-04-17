@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "When I hold, at the start of your next Main Phase, you may move an enemy unit to this battlefield.",
   "text_rich": "<p>When I hold, at the start of your next Main Phase, you may move an enemy unit to this battlefield.</p>",
   "rarity": "Rare",

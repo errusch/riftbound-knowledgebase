@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "[Accelerate] (You may pay :rb_energy_1::rb_rune_order: as an additional cost to have me enter ready.)\nWhen I move to a battlefield, play three 1 :rb_might: Recruit unit tokens here.",
   "text_rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_order: as an additional cost to have me enter ready.)<br />When I move to a battlefield, play three 1 :rb_might: Recruit unit tokens here.</p>",
   "rarity": "Epic",

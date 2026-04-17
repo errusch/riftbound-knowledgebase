@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": null,
+  "might": 8,
+  "might_bonus": null,
   "text": "",
   "text_rich": "",
   "rarity": "Common",

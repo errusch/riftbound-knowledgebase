@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 3,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n[Assault 2] (+2 :rb_might: while I'm an attacker.)\nI can be played to a battlefield you're attacking.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)<br />[Assault 2] (+2 :rb_might: while I'm an attacker.)<br />I can be played to a battlefield you're attacking.</p>",
   "rarity": "Rare",

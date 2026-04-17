@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "When another friendly unit dies, give me +2 :rb_might: this turn.",
   "text_rich": "<p>When another friendly unit dies, give me +2 :rb_might: this turn.</p>",
   "rarity": "Common",

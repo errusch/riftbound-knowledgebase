@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 3,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)\n[Shield 2] (+2 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve, including to a battlefield you control.)<br />[Shield 2] (+2 :rb_might: while I'm a defender.)<br />[Tank] (I must be assigned combat damage first.)</p>",
   "rarity": "Rare",

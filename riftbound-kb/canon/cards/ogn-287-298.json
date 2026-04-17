@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you conquer here, you must recycle one of your runes. (This doesn’t choose anything.)",
   "text_rich": "<p>When you conquer here, you must recycle one of your runes. (This doesn’t choose anything.)</p>",
   "rarity": "Uncommon",

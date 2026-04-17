@@ -6,7 +6,9 @@ os.chdir('/Users/eric/Documents/Playground/riftbound-kb')
 cards = glob.glob('canon/cards/*.json')
 null_legality = 0
 null_errata = 0
-null_cost = 0
+null_energy = 0
+null_power = 0
+null_might = 0
 has_source = 0
 no_source = 0
 for c in cards:
@@ -16,8 +18,12 @@ for c in cards:
         null_legality += 1
     if d.get('errata') is None:
         null_errata += 1
-    if d.get('cost') is None:
-        null_cost += 1
+    if d.get('energy') is None:
+        null_energy += 1
+    if d.get('power') is None:
+        null_power += 1
+    if d.get('might') is None:
+        null_might += 1
     if d.get('source') or d.get('provenance'):
         has_source += 1
     else:
@@ -26,7 +32,9 @@ print("=== CARDS ===")
 print(f"total: {len(cards)}")
 print(f"null legality: {null_legality}")
 print(f"null errata: {null_errata}")
-print(f"null cost: {null_cost}")
+print(f"null energy: {null_energy}")
+print(f"null power: {null_power}")
+print(f"null might: {null_might}")
 print(f"has provenance: {has_source}")
 print(f"no provenance: {no_source}")
 

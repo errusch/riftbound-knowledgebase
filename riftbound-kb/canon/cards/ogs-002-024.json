@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Deal 3 to all enemy units at a battlefield.",
   "text_rich": "<p>Deal 3 to all enemy units at a battlefield.</p>",
   "rarity": "Uncommon",

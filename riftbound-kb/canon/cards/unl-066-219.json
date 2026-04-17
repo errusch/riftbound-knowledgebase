@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nGive a unit -10 :rb_might: this turn.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Give a unit -10 :rb_might: this turn.</p>",
   "rarity": "Common",

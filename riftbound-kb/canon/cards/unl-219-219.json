@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you hold here, your non-token units cost :rb_energy_1: more to play this turn.",
   "text_rich": "<p>When you hold here, your non-token units cost :rb_energy_1: more to play this turn.</p>",
   "rarity": "Uncommon",

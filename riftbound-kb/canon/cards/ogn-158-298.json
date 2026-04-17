@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 10,
-    "health": null,
-    "reserve": 12,
-    "might_bonus": null
-  },
+  "energy": 12,
+  "power": 2,
+  "might": 10,
+  "might_bonus": null,
   "text": "[Shield 3] (+3 :rb_might: while I'm a defender.)\n[Tank] (I must be assigned combat damage first.)\nWhen an opponent moves to a battlefield other than mine, draw 1. (Bases are not battlefield.)",
   "text_rich": "<p>[Shield 3] (+3 :rb_might: while I'm a defender.)<br />[Tank] (I must be assigned combat damage first.)<br />When an opponent moves to a battlefield other than mine, draw 1. (Bases are not battlefield.)</p>",
   "rarity": "Rare",

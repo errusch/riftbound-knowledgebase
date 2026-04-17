@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Increase the points needed to win the game by 1.",
   "text_rich": "<p>Increase the points needed to win the game by 1.</p>",
   "rarity": "Uncommon",

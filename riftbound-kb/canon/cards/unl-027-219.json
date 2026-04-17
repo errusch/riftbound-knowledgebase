@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": 2,
+  "might": 8,
+  "might_bonus": null,
   "text": "When I conquer, give a friendly unit +8 :rb_might: this turn.",
   "text_rich": "<p>When I conquer, give a friendly unit +8 :rb_might: this turn.</p>",
   "rarity": "Epic",

@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Deflect]\nWhen an opponent plays a unit while I'm at a battlefield, [Stun] it. They can't move it this turn.",
   "text_rich": "<p>[Deflect]<br />When an opponent plays a unit while I'm at a battlefield, [Stun] it. They can't move it this turn.</p>",
   "rarity": "Showcase",

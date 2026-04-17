@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Deflect]\nWhen you play me, if an opponent's score is within 3 points of the Victory Score, ready me and gain 3 XP.",
   "text_rich": "<p>[Deflect]<br />When you play me, if an opponent's score is within 3 points of the Victory Score, ready me and gain 3 XP.</p>",
   "rarity": "Showcase",

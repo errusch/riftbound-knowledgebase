@@ -14,13 +14,10 @@
     "Mind",
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Return up to two cards with [Hidden] from your trash to your hand. You can hide cards ignoring costs this turn.",
   "text_rich": "<p>Return up to two cards with [Hidden] from your trash to your hand. You can hide cards ignoring costs this turn.</p>",
   "rarity": "Epic",

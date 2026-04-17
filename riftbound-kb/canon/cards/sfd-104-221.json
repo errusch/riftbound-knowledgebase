@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Temporary] (Kill this at the start of its controller's Beginning Phase, before scoring.)\nFriendly units have [Deflect]. (Opponents must pay :rb_rune_rainbow: to choose them with a spell or ability.)",
   "text_rich": "<p>[Temporary] (Kill this at the start of its controller's Beginning Phase, before scoring.)<br />Friendly units have [Deflect]. (Opponents must pay :rb_rune_rainbow: to choose them with a spell or ability.)</p>",
   "rarity": "Uncommon",

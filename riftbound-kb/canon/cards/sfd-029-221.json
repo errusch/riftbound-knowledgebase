@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\n[Assault] (+1 :rb_might: while I'm an attacker.)\nFriendly units played from anywhere other than a player's hand have [Accelerate].",
   "text_rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)<br />[Assault] (+1 :rb_might: while I'm an attacker.)<br />Friendly units played from anywhere other than a player's hand have [Accelerate].</p>",
   "rarity": "Epic",

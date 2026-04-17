@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When a buffed friendly unit dies, buff another friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)",
   "text_rich": "<p>When a buffed friendly unit dies, buff another friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)</p>",
   "rarity": "Uncommon",

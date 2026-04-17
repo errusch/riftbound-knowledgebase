@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": "+1"
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": "+1",
   "text": "[Equip] :rb_rune_order: (:rb_rune_order:: Attach this to a unit you control.)",
   "text_rich": "<p>[Equip] :rb_rune_order: (:rb_rune_order:: Attach this to a unit you control.)</p>",
   "rarity": "Rare",

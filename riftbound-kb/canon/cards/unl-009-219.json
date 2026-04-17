@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)\nReady a unit.",
   "text_rich": "<p>[Repeat] :rb_energy_2: (You may pay the additional cost to repeat this spell's effect.)<br />Ready a unit.</p>",
   "rarity": "Common",

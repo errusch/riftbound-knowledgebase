@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "I enter ready.\nWhen I attack, kill all damaged enemy units here.",
   "text_rich": "<p>I enter ready.<br />When I attack, kill all damaged enemy units here.</p>",
   "rarity": "Rare",

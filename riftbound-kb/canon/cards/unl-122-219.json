@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "If you've played a spell this turn, you may pay :rb_rune_chaos: as an additional cost to play me. If you do, I enter ready.",
   "text_rich": "<p>If you've played a spell this turn, you may pay :rb_rune_chaos: as an additional cost to play me. If you do, I enter ready.</p>",
   "rarity": "Common",

@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nUnits you play this turn enter ready. Draw 1.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Units you play this turn enter ready. Draw 1.</p>",
   "rarity": "Common",

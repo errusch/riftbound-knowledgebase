@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "When you play me, return a Bird, Cat, Dog, or Poro from your trash to your hand.",
   "text_rich": "<p>When you play me, return a Bird, Cat, Dog, or Poro from your trash to your hand.</p>",
   "rarity": "Uncommon",

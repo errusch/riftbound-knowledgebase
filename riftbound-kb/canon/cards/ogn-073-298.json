@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "At the end of your turn, if I'm at a battlefield, ready up to 4 friendly runes.",
   "text_rich": "<p>At the end of your turn, if I'm at a battlefield, ready up to 4 friendly runes.</p>",
   "rarity": "Rare",

@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "When you play me, play a 2 :rb_might: Sand Soldier unit token here.",
   "text_rich": "<p>When you play me, play a 2 :rb_might: Sand Soldier unit token here.</p>",
   "rarity": "Common",

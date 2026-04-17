@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "When you play this, draw 1.\n:rb_energy_1::rb_rune_calm:, :rb_exhaust:, Kill this: Draw 1.",
   "text_rich": "<p>When you play this, draw 1.<br />:rb_energy_1::rb_rune_calm:, :rb_exhaust:, Kill this: Draw 1.</p>",
   "rarity": "Uncommon",

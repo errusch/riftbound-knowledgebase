@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "Choose two units. They deal damage equal to their Mights to each other.",
   "text_rich": "<p>Choose two units. They deal damage equal to their Mights to each other.</p>",
   "rarity": "Rare",

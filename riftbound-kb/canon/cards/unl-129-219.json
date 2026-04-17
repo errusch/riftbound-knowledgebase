@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "When another friendly unit dies, gain 1 XP.",
   "text_rich": "<p>When another friendly unit dies, gain 1 XP.</p>",
   "rarity": "Common",

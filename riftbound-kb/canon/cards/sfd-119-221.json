@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 3,
+  "might_bonus": null,
   "text": "[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)\nWhen you attach an Equipment to me, you may pay :rb_energy_1: to draw 1.",
   "text_rich": "<p>[Weaponmaster] (When you play me, you may [Equip] one of your Equipment to me for :rb_rune_rainbow: less, even if it's already attached.)<br />When you attach an Equipment to me, you may pay :rb_energy_1: to draw 1.</p>",
   "rarity": "Epic",

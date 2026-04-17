@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)\n[Assault 2] (+2 :rb_might: while I'm an attacker.)\n[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)\n[Ganking] (I can move from battlefield to battlefield.)",
   "text_rich": "<p>[Accelerate] (You may pay :rb_energy_1::rb_rune_fury: as an additional cost to have me enter ready.)<br />[Assault 2] (+2 :rb_might: while I'm an attacker.)<br />[Deflect] (Opponents must pay :rb_rune_rainbow: to choose me with a spell or ability.)<br />[Ganking] (I can move from battlefield to battlefield.)</p>",
   "rarity": "Rare",

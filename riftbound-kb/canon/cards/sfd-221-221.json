@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you conquer here, you may ready a friendly gear. If it's an Equipment, you may detach it.",
   "text_rich": "<p>When you conquer here, you may ready a friendly gear. If it's an Equipment, you may detach it.</p>",
   "rarity": "Uncommon",

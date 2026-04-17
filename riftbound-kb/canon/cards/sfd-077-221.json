@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Repeat] :rb_energy_4::rb_rune_mind: (You may pay the additional cost to repeat this spell's effect, and may make different choices.)\nChoose one —Deal 4 to a unit in a base.Kill a gear.",
   "text_rich": "<p>[Repeat] :rb_energy_4::rb_rune_mind: (You may pay the additional cost to repeat this spell's effect, and may make different choices.)<br />Choose one —</p><ul><li>Deal 4 to a unit in a base.</li><li>Kill a gear.</li></ul>",
   "rarity": "Uncommon",

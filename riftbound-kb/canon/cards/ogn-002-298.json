@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "As you play me, you may discard 1 as an additional cost. If you do, reduce my cost by :rb_energy_2:.",
   "text_rich": "<p>As you play me, you may discard 1 as an additional cost. If you do, reduce my cost by :rb_energy_2:.</p>",
   "rarity": "Common",

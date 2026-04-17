@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "You may spend 5 XP as an additional cost to play this.\nChoose an enemy unit at a battlefield with 3 :rb_might: or less. If you paid the additional cost, choose any enemy unit at a battlefield instead. Take control of it, exhaust it, and recall it.",
   "text_rich": "<p>You may spend 5 XP as an additional cost to play this.<br />Choose an enemy unit at a battlefield with 3 :rb_might: or less. If you paid the additional cost, choose any enemy unit at a battlefield instead. Take control of it, exhaust it, and recall it.</p>",
   "rarity": "Rare",

@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Tank] (I must be assigned combat damage first.)\nWhen you play me, move a unit from a battlefield to its base.",
   "text_rich": "<p>[Tank] (I must be assigned combat damage first.)<br />When you play me, move a unit from a battlefield to its base.</p>",
   "rarity": "Rare",

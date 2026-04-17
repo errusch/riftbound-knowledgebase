@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nDeal 3 to a unit at a battlefield. If this kills it, do this: draw 1.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Deal 3 to a unit at a battlefield. If this kills it, do this: draw 1.</p>",
   "rarity": "Common",

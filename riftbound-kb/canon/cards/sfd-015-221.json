@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "Play me only to a battlefield you conquered this turn. (You can't play me anywhere else.)",
   "text_rich": "<p>Play me only to a battlefield you conquered this turn. (You can't play me anywhere else.)</p>",
   "rarity": "Uncommon",

@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Draw 1, then draw 1 for each battlefield you or allies control.",
   "text_rich": "<p>Draw 1, then draw 1 for each battlefield you or allies control.</p>",
   "rarity": "Uncommon",

@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "As you play this, name a tag. (For example, Miss Fortune, Demacia, and Poro are tags.)\n:rb_exhaust:: Give a unit with the named tag -2 :rb_might: this turn.",
   "text_rich": "<p>As you play this, name a tag. (For example, Miss Fortune, Demacia, and Poro are tags.)<br />:rb_exhaust:: Give a unit with the named tag -2 :rb_might: this turn.</p>",
   "rarity": "Uncommon",

@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nReturn a gear to its owner's hand.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Return a gear to its owner's hand.</p>",
   "rarity": "Uncommon",

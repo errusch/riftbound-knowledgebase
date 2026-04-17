@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Assault] (+1 :rb_might: while I'm an attacker.)",
   "text_rich": "<p>[Assault] (+1 :rb_might: while I'm an attacker.)</p>",
   "rarity": "Common",

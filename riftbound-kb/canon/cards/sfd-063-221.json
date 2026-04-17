@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you play a spell on an opponent's turn, you may exhaust me to play a Gold gear token exhausted.",
   "text_rich": "<p>When you play a spell on an opponent's turn, you may exhaust me to play a Gold gear token exhausted.</p>",
   "rarity": "Common",

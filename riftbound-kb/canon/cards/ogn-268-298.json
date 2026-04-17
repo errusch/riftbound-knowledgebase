@@ -14,13 +14,10 @@
     "Body",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nPay any amount of :rb_rune_rainbow: to deal that much damage to all enemy units at a battlefield.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Pay any amount of :rb_rune_rainbow: to deal that much damage to all enemy units at a battlefield.</p>",
   "rarity": "Epic",

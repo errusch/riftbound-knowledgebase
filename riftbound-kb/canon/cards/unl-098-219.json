@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 6,
+  "might_bonus": null,
   "text": "[Level 11][&gt;] I have +4 :rb_might:. (While you have 11+ XP, get the effect.)",
   "text_rich": "<p>[Level 11][&gt;] I have +4 :rb_might:. (While you have 11+ XP, get the effect.)</p>",
   "rarity": "Common",

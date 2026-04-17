@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": ":rb_energy_1::rb_rune_mind:: Draw 1.\n:rb_energy_4::rb_rune_mind::rb_rune_mind::rb_rune_mind::rb_rune_mind:, :rb_exhaust:: Score 1 point.\nUse my abilities only while I'm at a battlefield.",
   "text_rich": "<p>:rb_energy_1::rb_rune_mind:: Draw 1.<br />:rb_energy_4::rb_rune_mind::rb_rune_mind::rb_rune_mind::rb_rune_mind:, :rb_exhaust:: Score 1 point.<br />Use my abilities only while I'm at a battlefield.</p>",
   "rarity": "Epic",

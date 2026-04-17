@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Bird, Cat, Dog, Poro, and Ivern units here have +1 :rb_might:.\nWhen you score here, you may replace this with the battlefield it replaced.",
   "text_rich": "<p>Bird, Cat, Dog, Poro, and Ivern units here have +1 :rb_might:.<br />When you score here, you may replace this with the battlefield it replaced.</p>",
   "rarity": "Common",

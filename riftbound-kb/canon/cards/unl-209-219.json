@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "At the start of your Beginning Phase, you may kill a unit you control here to draw 1. (This happens before scoring.)",
   "text_rich": "<p>At the start of your Beginning Phase, you may kill a unit you control here to draw 1. (This happens before scoring.)</p>",
   "rarity": "Uncommon",

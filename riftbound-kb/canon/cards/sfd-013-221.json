@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "You may pay :rb_energy_1::rb_rune_fury: as an additional cost to play me.\nWhen you play me, if you paid the additional cost, deal 2 to a unit at a battlefield.",
   "text_rich": "<p>You may pay :rb_energy_1::rb_rune_fury: as an additional cost to play me.<br />When you play me, if you paid the additional cost, deal 2 to a unit at a battlefield.</p>",
   "rarity": "Uncommon",

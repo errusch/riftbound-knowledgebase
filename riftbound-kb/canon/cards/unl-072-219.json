@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nChoose a battlefield and an enemy unit there. Deal 4 to that unit and 1 to each other enemy unit there.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Choose a battlefield and an enemy unit there. Deal 4 to that unit and 1 to each other enemy unit there.</p>",
   "rarity": "Uncommon",

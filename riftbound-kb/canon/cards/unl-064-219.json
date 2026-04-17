@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "When you play me, look at the top 4 cards of your Main Deck. You may reveal a spell with Energy cost :rb_energy_4: or more from among them and draw it. Recycle the rest.",
   "text_rich": "<p>When you play me, look at the top 4 cards of your Main Deck. You may reveal a spell with Energy cost :rb_energy_4: or more from among them and draw it. Recycle the rest.</p>",
   "rarity": "Common",

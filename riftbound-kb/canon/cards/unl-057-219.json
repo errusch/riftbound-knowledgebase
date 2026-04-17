@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 2,
+  "might": 7,
+  "might_bonus": null,
   "text": "[Tank] (I must be assigned combat damage first.)\nYour units here with less Might than me can't be chosen by enemy spells and abilities.",
   "text_rich": "<p>[Tank] (I must be assigned combat damage first.)<br />Your units here with less Might than me can't be chosen by enemy spells and abilities.</p>",
   "rarity": "Epic",

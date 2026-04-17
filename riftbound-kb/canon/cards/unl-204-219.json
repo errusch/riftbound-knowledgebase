@@ -14,13 +14,10 @@
     "Body",
     "Order"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nChoose an enemy unit at a battlefield. Its owner places it on the top or bottom of their Main Deck.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Choose an enemy unit at a battlefield. Its owner places it on the top or bottom of their Main Deck.</p>",
   "rarity": "Epic",

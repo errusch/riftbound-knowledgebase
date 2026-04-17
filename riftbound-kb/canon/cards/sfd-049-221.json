@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "When you attach an Equipment to me, choose one that hasn't been chosen this turn —Ready 2 runes.Channel 1 rune exhausted.Buff a friendly unit.",
   "text_rich": "<p>When you attach an Equipment to me, choose one that hasn't been chosen this turn —</p><ul><li>Ready 2 runes.</li><li>Channel 1 rune exhausted.</li><li>Buff a friendly unit.</li></ul>",
   "rarity": "Rare",

@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nGive a unit +7 :rb_might: this turn.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Give a unit +7 :rb_might: this turn.</p>",
   "rarity": "Rare",

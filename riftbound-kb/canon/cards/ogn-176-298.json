@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "You may play me to an open battlefield.",
   "text_rich": "<p>You may play me to an open battlefield.</p>",
   "rarity": "Common",

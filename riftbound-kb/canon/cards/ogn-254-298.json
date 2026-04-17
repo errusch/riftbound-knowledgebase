@@ -14,13 +14,10 @@
     "Fury",
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nChoose a unit. Kill it the next time it takes damage this turn.\n[Legion] — Kill it now instead. (Get the effect if you've played another card this turn.)",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Choose a unit. Kill it the next time it takes damage this turn.<br />[Legion] — Kill it now instead. (Get the effect if you've played another card this turn.)</p>",
   "rarity": "Epic",

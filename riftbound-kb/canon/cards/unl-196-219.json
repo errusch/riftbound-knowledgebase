@@ -14,13 +14,10 @@
     "Calm",
     "Order"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 8,
-    "health": null,
-    "reserve": 9,
-    "might_bonus": null
-  },
+  "energy": 9,
+  "power": 2,
+  "might": 8,
+  "might_bonus": null,
   "text": "I enter ready.\nReduce my cost by :rb_energy_1: for each of the following tags among your units — Bird, Cat, Dog, and Poro.\nWhen I attack while your units have all 4 tags, [Stun] an enemy unit here. (It doesn't deal combat damage this turn.)",
   "text_rich": "<p>I enter ready.<br />Reduce my cost by :rb_energy_1: for each of the following tags among your units — Bird, Cat, Dog, and Poro.<br />When I attack while your units have all 4 tags, [Stun] an enemy unit here. (It doesn't deal combat damage this turn.)</p>",
   "rarity": "Epic",

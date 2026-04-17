@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "When you play this, buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)\nFriendly buffed units have [Deflect] if they didn't already. (Opponents must pay :rb_rune_rainbow: to choose those units with a spell or ability.)",
   "text_rich": "<p>When you play this, buff a friendly unit. (If it doesn't have a buff, it gets a +1 :rb_might: buff.)<br />Friendly buffed units have [Deflect] if they didn't already. (Opponents must pay :rb_rune_rainbow: to choose those units with a spell or ability.)</p>",
   "rarity": "Uncommon",

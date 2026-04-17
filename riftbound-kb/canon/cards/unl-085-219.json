@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\n[Temporary] (Kill this at the start of its controller's Beginning Phase, before scoring.)\nWhen an opponent scores, draw 1.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />[Temporary] (Kill this at the start of its controller's Beginning Phase, before scoring.)<br />When an opponent scores, draw 1.</p>",
   "rarity": "Rare",

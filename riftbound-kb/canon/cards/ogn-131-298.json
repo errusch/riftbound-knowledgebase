@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "When I attack, give me +2 :rb_might: this turn if there is a ready enemy unit here.",
   "text_rich": "<p>When I attack, give me +2 :rb_might: this turn if there is a ready enemy unit here.</p>",
   "rarity": "Common",

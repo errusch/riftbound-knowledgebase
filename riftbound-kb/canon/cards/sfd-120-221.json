@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 3,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 3,
+  "might": 7,
+  "might_bonus": null,
   "text": "[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or Ability.)\nWhen I conquer after an attack, if you assigned 5 or more excess damage to enemy units, you may deal that much to an enemy unit.",
   "text_rich": "<p>[Deflect 2] (Opponents must pay :rb_rune_rainbow::rb_rune_rainbow: to choose me with a spell or Ability.)<br />When I conquer after an attack, if you assigned 5 or more excess damage to enemy units, you may deal that much to an enemy unit.</p>",
   "rarity": "Epic",

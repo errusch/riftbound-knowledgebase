@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": ":rb_exhaust:: Return another friendly gear, unit, or facedown card to its owner's hand.",
   "text_rich": "<p>:rb_exhaust:: Return another friendly gear, unit, or facedown card to its owner's hand.</p>",
   "rarity": "Uncommon",

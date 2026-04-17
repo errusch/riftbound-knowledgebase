@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "This enters exhausted.\n:rb_exhaust:: Deal 2 to a unit at a battlefield.",
   "text_rich": "<p>This enters exhausted.<br />:rb_exhaust:: Deal 2 to a unit at a battlefield.</p>",
   "rarity": "Uncommon",

@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "The first time a friendly unit dies during your Beginning Phase each turn, each opponent must kill one of their units.",
   "text_rich": "<p>The first time a friendly unit dies during your Beginning Phase each turn, each opponent must kill one of their units.</p>",
   "rarity": "Rare",

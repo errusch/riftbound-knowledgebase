@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "A unit may have no more than one buff at a time.",
   "text_rich": "<p>A unit may have no more than one buff at a time.</p>",
   "rarity": "Common",

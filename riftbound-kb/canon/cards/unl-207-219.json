@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you hold here, you may move a unit at a battlefield to its base.",
   "text_rich": "<p>When you hold here, you may move a unit at a battlefield to its base.</p>",
   "rarity": "Uncommon",

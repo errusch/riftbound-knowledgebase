@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you ready a friendly unit, give it +1 :rb_might: this turn.",
   "text_rich": "<p>When you ready a friendly unit, give it +1 :rb_might: this turn.</p>",
   "rarity": "Uncommon",

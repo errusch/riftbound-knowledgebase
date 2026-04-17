@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nIf an enemy unit has died this turn, this costs :rb_energy_2: less.\nDraw 2.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />If an enemy unit has died this turn, this costs :rb_energy_2: less.<br />Draw 2.</p>",
   "rarity": "Uncommon",

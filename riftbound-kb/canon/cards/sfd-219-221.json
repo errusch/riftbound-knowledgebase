@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you hold here, each player channels 1 rune exhausted.",
   "text_rich": "<p>When you hold here, each player channels 1 rune exhausted.</p>",
   "rarity": "Uncommon",

@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Action] (Play on your turn or in showdowns.)\nKill a unit at a battlefield.",
   "text_rich": "<p>[Action] (Play on your turn or in showdowns.)<br />Kill a unit at a battlefield.</p>",
   "rarity": "Common",

@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Move a unit you control to a battlefield you control. Then, choose an opponent. They move a unit they control to the same battlefield.",
   "text_rich": "<p>Move a unit you control to a battlefield you control. Then, choose an opponent. They move a unit they control to the same battlefield.</p>",
   "rarity": "Uncommon",

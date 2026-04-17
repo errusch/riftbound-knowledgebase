@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "While a unit here is defending alone, it has -2 :rb_might:. (It's alone if there are no other friendly units here.)",
   "text_rich": "<p>While a unit here is defending alone, it has -2 :rb_might:. (It's alone if there are no other friendly units here.)</p>",
   "rarity": "Uncommon",

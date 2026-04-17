@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "[Accelerate]\nWhen I move from a location, play a 3 :rb_might: Sprite unit token with [Temporary] there.",
   "text_rich": "<p>[Accelerate]<br />When I move from a location, play a 3 :rb_might: Sprite unit token with [Temporary] there.</p>",
   "rarity": "Showcase",

@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "Once each turn, if you would play a token unit while I'm at a battlefield, you may play that token and an additional copy of it instead.",
   "text_rich": "<p>Once each turn, if you would play a token unit while I'm at a battlefield, you may play that token and an additional copy of it instead.</p>",
   "rarity": "Rare",

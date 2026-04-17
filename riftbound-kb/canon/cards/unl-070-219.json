@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Give a gear [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)",
   "text_rich": "<p>Give a gear [Temporary]. (Kill it at the start of its controller's Beginning Phase, before scoring.)</p>",
   "rarity": "Common",

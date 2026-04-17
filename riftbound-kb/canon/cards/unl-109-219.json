@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you play a unit, you may pay :rb_energy_1: to gain 1 XP.\nSpend 3 XP, :rb_exhaust:: Ready a unit.",
   "text_rich": "<p>When you play a unit, you may pay :rb_energy_1: to gain 1 XP.<br />Spend 3 XP, :rb_exhaust:: Ready a unit.</p>",
   "rarity": "Rare",

@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": ":rb_exhaust:: Give a unit +3 :rb_might: this turn.",
   "text_rich": "<p>:rb_exhaust:: Give a unit +3 :rb_might: this turn.</p>",
   "rarity": "Rare",

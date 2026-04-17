@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "[Ambush]\nWhen I attack, [Stun] an enemy unit here.",
   "text_rich": "<p>[Ambush]<br />When I attack, [Stun] an enemy unit here.</p>",
   "rarity": "Showcase",

@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 3,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 3,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nDraw 3.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Draw 3.</p>",
   "rarity": "Epic",

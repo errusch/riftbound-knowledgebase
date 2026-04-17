@@ -14,13 +14,10 @@
     "Calm",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you choose a friendly unit, you may exhaust me and pay :rb_rune_rainbow: to ready it.\nWhen you conquer, you may pay :rb_energy_1: to ready me.",
   "text_rich": "<p>When you choose a friendly unit, you may exhaust me and pay :rb_rune_rainbow: to ready it.<br />When you conquer, you may pay :rb_energy_1: to ready me.</p>",
   "rarity": "Showcase",

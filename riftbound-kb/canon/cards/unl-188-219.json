@@ -14,13 +14,10 @@
     "Fury",
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": "+3"
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": "+3",
   "text": "[Equip] :rb_energy_3::rb_rune_rainbow:. This ability's Energy cost is reduced by the Might of the unit you choose. (Pay the cost: Attach this to a unit you control.)",
   "text_rich": "<p>[Equip] :rb_energy_3::rb_rune_rainbow:. This ability's Energy cost is reduced by the Might of the unit you choose. (Pay the cost: Attach this to a unit you control.)</p>",
   "rarity": "Epic",

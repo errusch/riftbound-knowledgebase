@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 2,
+  "might": 6,
+  "might_bonus": null,
   "text": "When you play me, kill an enemy unit with 3 :rb_might: or less.",
   "text_rich": "<p>When you play me, kill an enemy unit with 3 :rb_might: or less.</p>",
   "rarity": "Common",

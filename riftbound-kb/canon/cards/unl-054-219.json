@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Move any number of enemy units with the same controller and a total Might of 8 or less to a single location.",
   "text_rich": "<p>Move any number of enemy units with the same controller and a total Might of 8 or less to a single location.</p>",
   "rarity": "Rare",

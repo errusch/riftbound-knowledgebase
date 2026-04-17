@@ -14,13 +14,10 @@
     "Body",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": ":rb_exhaust:: Give a unit [Ganking] this turn. (It can move from battlefield to battlefield.)",
   "text_rich": "<p>:rb_exhaust:: Give a unit [Ganking] this turn. (It can move from battlefield to battlefield.)</p>",
   "rarity": "Rare",

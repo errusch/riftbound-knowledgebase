@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nChoose a friendly unit at a battlefield. Counter an enemy spell or ability that chooses it and no other friendly unit.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Choose a friendly unit at a battlefield. Counter an enemy spell or ability that chooses it and no other friendly unit.</p>",
   "rarity": "Uncommon",

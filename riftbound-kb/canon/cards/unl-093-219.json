@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 1,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 1,
+  "might_bonus": null,
   "text": "[Reaction][&gt;] :rb_exhaust:: [Add] :rb_energy_1:. (Abilities that add resources can't be reacted to.)",
   "text_rich": "<p>[Reaction][&gt;] :rb_exhaust:: [Add] :rb_energy_1:. (Abilities that add resources can't be reacted to.)</p>",
   "rarity": "Common",

@@ -14,13 +14,10 @@
     "Fury",
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Deal 5 to a unit.\nWhen you conquer, you may discard 1 to return this from your trash to your hand.",
   "text_rich": "<p>Deal 5 to a unit.<br />When you conquer, you may discard 1 to return this from your trash to your hand.</p>",
   "rarity": "Epic",

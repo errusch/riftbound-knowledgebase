@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 6,
+  "might_bonus": null,
   "text": "Spend 3 XP: Give your units here [Ganking] this turn. (We can move from battlefield to battlefield.)",
   "text_rich": "<p>Spend 3 XP: Give your units here [Ganking] this turn. (We can move from battlefield to battlefield.)</p>",
   "rarity": "Common",

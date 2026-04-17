@@ -14,13 +14,10 @@
     "Body",
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Move a friendly unit, then move an enemy unit. (If they both move to a battlefield you don't control, you're the attacker.)",
   "text_rich": "<p>Move a friendly unit, then move an enemy unit. (If they both move to a battlefield you don't control, you're the attacker.)</p>",
   "rarity": "Epic",

@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "Exhaust all friendly units, then deal 12 to ALL units at battlefields.",
   "text_rich": "<p>Exhaust all friendly units, then deal 12 to ALL units at battlefields.</p>",
   "rarity": "Epic",

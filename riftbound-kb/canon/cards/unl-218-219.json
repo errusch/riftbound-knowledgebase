@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When a player plays a unit here, they may pay :rb_energy_1: to [Buff] it. (Give it a +1 :rb_might: buff if it doesn't have one.)",
   "text_rich": "<p>When a player plays a unit here, they may pay :rb_energy_1: to [Buff] it. (Give it a +1 :rb_might: buff if it doesn't have one.)</p>",
   "rarity": "Uncommon",

@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "When you play me, ready or exhaust a legend.",
   "text_rich": "<p>When you play me, ready or exhaust a legend.</p>",
   "rarity": "Common",

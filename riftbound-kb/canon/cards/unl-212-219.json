@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "At the start of each player's Beginning Phase, deal 1 to each unit here. (This happens before scoring.)",
   "text_rich": "<p>At the start of each player's Beginning Phase, deal 1 to each unit here. (This happens before scoring.)</p>",
   "rarity": "Uncommon",

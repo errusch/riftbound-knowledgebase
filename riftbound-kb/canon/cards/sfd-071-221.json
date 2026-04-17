@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": 2,
+  "might": 7,
+  "might_bonus": null,
   "text": "Your Mechs have [Deflect] and [Ganking]. (Opponents must pay :rb_rune_rainbow: to choose us with a spell or ability. We can move from battlefield to battlefield.)\nI enter ready if you control another Mech.",
   "text_rich": "<p>Your Mechs have [Deflect] and [Ganking]. (Opponents must pay :rb_rune_rainbow: to choose us with a spell or ability. We can move from battlefield to battlefield.)<br />I enter ready if you control another Mech.</p>",
   "rarity": "Uncommon",

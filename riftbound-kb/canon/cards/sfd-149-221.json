@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 3,
+  "might_bonus": null,
   "text": "When you play me, discard 1, then draw 2.\nOptional additional costs you pay cost :rb_energy_1: or :rb_rune_rainbow: less.",
   "text_rich": "<p>When you play me, discard 1, then draw 2.<br />Optional additional costs you pay cost :rb_energy_1: or :rb_rune_rainbow: less.</p>",
   "rarity": "Epic",

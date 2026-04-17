@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 4,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 10,
-    "might_bonus": null
-  },
+  "energy": 10,
+  "power": 4,
+  "might": null,
+  "might_bonus": null,
   "text": "Take a turn after this one. Banish this.",
   "text_rich": "<p>Take a turn after this one. Banish this.</p>",
   "rarity": "Epic",

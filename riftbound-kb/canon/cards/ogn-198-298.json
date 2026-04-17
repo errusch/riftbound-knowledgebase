@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "Play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)",
   "text_rich": "<p>Play a unit from your trash, ignoring its Energy cost. (You must still pay its Power cost.)</p>",
   "rarity": "Rare",

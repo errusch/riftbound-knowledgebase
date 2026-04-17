@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": "+2"
-  },
+  "energy": 3,
+  "power": null,
+  "might": null,
+  "might_bonus": "+2",
   "text": "[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)",
   "text_rich": "<p>[Equip] :rb_rune_body: (:rb_rune_body:: Attach this to a unit you control.)</p>",
   "rarity": "Common",

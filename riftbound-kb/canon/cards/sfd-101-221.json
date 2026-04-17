@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 1,
+  "might": 7,
+  "might_bonus": null,
   "text": "When you play me, buff up to four friendly units. (Give each a +1 :rb_might: buff if it doesn't have one.)\nWhen you spend a buff, play a Gold gear token exhausted.",
   "text_rich": "<p>When you play me, buff up to four friendly units. (Give each a +1 :rb_might: buff if it doesn't have one.)<br />When you spend a buff, play a Gold gear token exhausted.</p>",
   "rarity": "Uncommon",

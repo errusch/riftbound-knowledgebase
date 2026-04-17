@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "Other friendly units here have [Assault]. (+1 :rb_might: while they're attackers.)",
   "text_rich": "<p>Other friendly units here have [Assault]. (+1 :rb_might: while they're attackers.)</p>",
   "rarity": "Uncommon",

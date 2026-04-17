@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 9,
-    "health": null,
-    "reserve": 8,
-    "might_bonus": null
-  },
+  "energy": 8,
+  "power": 2,
+  "might": 9,
+  "might_bonus": null,
   "text": "When you play me, play four Gold gear tokens exhausted.",
   "text_rich": "<p>When you play me, play four Gold gear tokens exhausted.</p>",
   "rarity": "Rare",

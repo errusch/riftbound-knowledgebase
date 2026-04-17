@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 3,
+  "might_bonus": null,
   "text": "When I attack or defend, deal damage equal to my Might to an enemy unit here.\nI don't deal combat damage.\n:rb_rune_mind:: [Action] — Move me to your base.",
   "text_rich": "<p>When I attack or defend, deal damage equal to my Might to an enemy unit here.<br />I don't deal combat damage.<br />:rb_rune_mind:: [Action] — Move me to your base.</p>",
   "rarity": "Showcase",

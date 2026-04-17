@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 5,
+  "might_bonus": null,
   "text": "You may spend 3 XP as an additional cost to play me. If you do, I cost :rb_energy_3: less.\n[Ambush]\n[Tank]",
   "text_rich": "<p>You may spend 3 XP as an additional cost to play me. If you do, I cost :rb_energy_3: less.<br />[Ambush]<br />[Tank]</p>",
   "rarity": "Showcase",

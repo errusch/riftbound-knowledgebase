@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 3,
+  "might_bonus": null,
   "text": "[Ambush]\nWhen you play a spell, give me +2 :rb_might: this turn.",
   "text_rich": "<p>[Ambush]<br />When you play a spell, give me +2 :rb_might: this turn.</p>",
   "rarity": "Showcase",

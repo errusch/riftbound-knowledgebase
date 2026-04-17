@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "When you play me, the next spell you play this turn costs :rb_energy_5: less.",
   "text_rich": "<p>When you play me, the next spell you play this turn costs :rb_energy_5: less.</p>",
   "rarity": "Rare",

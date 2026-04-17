@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "This costs :rb_energy_2: less if you choose a Bird, Cat, Dog, or Poro.\nPlay a unit with cost no more than :rb_energy_2: and no more than :rb_rune_rainbow: from your trash, ignoring its cost.",
   "text_rich": "<p>This costs :rb_energy_2: less if you choose a Bird, Cat, Dog, or Poro.<br />Play a unit with cost no more than :rb_energy_2: and no more than :rb_rune_rainbow: from your trash, ignoring its cost.</p>",
   "rarity": "Uncommon",

@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "(You can't start the game with a token battlefield.)\nUnits can move here from anywhere.",
   "text_rich": "<p>(You can't start the game with a token battlefield.)<br />Units can move here from anywhere.</p>",
   "rarity": "Common",

@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": null,
+  "might": 6,
+  "might_bonus": null,
   "text": "When I hold, you may return a unit or gear from your trash to your hand.",
   "text_rich": "<p>When I hold, you may return a unit or gear from your trash to your hand.</p>",
   "rarity": "Common",

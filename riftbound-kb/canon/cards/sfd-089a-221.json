@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "Your Mechs have +1 :rb_might: (including me).\nWhen I hold, play a 3 :rb_might: Mech unit token to your base.",
   "text_rich": "<p>Your Mechs have +1 :rb_might: (including me).<br />When I hold, play a 3 :rb_might: Mech unit token to your base.</p>",
   "rarity": "Showcase",

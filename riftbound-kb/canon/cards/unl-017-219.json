@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Repeat] — Discard 1 (You may pay the additional cost to repeat this spell's effect.)\nGive a unit [Assault 4] this turn. (+4 :rb_might: while it's an attacker.)",
   "text_rich": "<p>[Repeat] — Discard 1 (You may pay the additional cost to repeat this spell's effect.)<br />Give a unit [Assault 4] this turn. (+4 :rb_might: while it's an attacker.)</p>",
   "rarity": "Uncommon",

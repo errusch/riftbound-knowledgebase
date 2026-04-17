@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 2,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 2,
+  "might_bonus": null,
   "text": "Your Mechs have [Vision]. (When you play us, look at the top card of your Main Deck. You may recycle it.)",
   "text_rich": "<p>Your Mechs have [Vision]. (When you play us, look at the top card of your Main Deck. You may recycle it.)</p>",
   "rarity": "Common",

@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 1,
+  "might": 7,
+  "might_bonus": null,
   "text": "If you have two or fewer cards in your hand, I enter ready.\nWhen I hold, draw 2.",
   "text_rich": "<p>If you have two or fewer cards in your hand, I enter ready.<br />When I hold, draw 2.</p>",
   "rarity": "Epic",

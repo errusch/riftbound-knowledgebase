@@ -10,13 +10,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "When you play this, banish all units from your trash.\n:rb_exhaust:: Play a unit banished with this. (You must pay its costs.)",
   "text_rich": "<p>When you play this, banish all units from your trash.<br />:rb_exhaust:: Play a unit banished with this. (You must pay its costs.)</p>",
   "rarity": "Epic",

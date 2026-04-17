@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "When I move to a battlefield, discard 1.\nWhen I win a combat, draw 1.",
   "text_rich": "<p>When I move to a battlefield, discard 1.<br />When I win a combat, draw 1.</p>",
   "rarity": "Common",

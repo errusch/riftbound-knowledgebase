@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 4,
-  "stats": {
-    "attack": 10,
-    "health": null,
-    "reserve": 12,
-    "might_bonus": null
-  },
+  "energy": 12,
+  "power": 4,
+  "might": 10,
+  "might_bonus": null,
   "text": "Any amount of your damage is enough to kill enemy units.\nWhen you play me, choose up to one enemy unit at each location. Deal 1 to them.",
   "text_rich": "<p>Any amount of your damage is enough to kill enemy units.<br />When you play me, choose up to one enemy unit at each location. Deal 1 to them.</p>",
   "rarity": "Showcase",

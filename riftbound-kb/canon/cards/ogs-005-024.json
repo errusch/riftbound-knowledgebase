@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "[Shield] (+1 :rb_might: while I'm a defender.)",
   "text_rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)</p>",
   "rarity": "Uncommon",

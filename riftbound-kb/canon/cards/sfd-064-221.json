@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": "+0"
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": "+0",
   "text": "[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)\n[Equip] :rb_rune_mind: (:rb_rune_mind:: Attach this to a unit you control.)",
   "text_rich": "<p>[Quick-Draw] (This has [Reaction]. When you play it, attach it to a unit you control.)<br />[Equip] :rb_rune_mind: (:rb_rune_mind:: Attach this to a unit you control.)</p>",
   "rarity": "Common",

@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nChoose a unit. Give it +1 :rb_might: this turn for each of the following tags among your units — Bird, Cat, Dog, and Poro.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Choose a unit. Give it +1 :rb_might: this turn for each of the following tags among your units — Bird, Cat, Dog, and Poro.</p>",
   "rarity": "Uncommon",

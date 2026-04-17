@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "You may play me to an open battlefield.\nFriendly units may be played to open battlefields.",
   "text_rich": "<p>You may play me to an open battlefield.<br />Friendly units may be played to open battlefields.</p>",
   "rarity": "Rare",

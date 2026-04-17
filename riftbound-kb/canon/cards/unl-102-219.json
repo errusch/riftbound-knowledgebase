@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 3,
-    "might_bonus": null
-  },
+  "energy": 3,
+  "power": null,
+  "might": 3,
+  "might_bonus": null,
   "text": "[Hunt] (When I conquer or hold, gain 1 XP.)\nSpend 2 XP: [Buff] me. (Give me a +1 :rb_might: buff if I don't have one.)",
   "text_rich": "<p>[Hunt] (When I conquer or hold, gain 1 XP.)<br />Spend 2 XP: [Buff] me. (Give me a +1 :rb_might: buff if I don't have one.)</p>",
   "rarity": "Uncommon",

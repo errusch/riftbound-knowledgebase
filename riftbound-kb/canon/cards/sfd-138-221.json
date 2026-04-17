@@ -13,13 +13,10 @@
   "domains": [
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 1,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": 1,
+  "might_bonus": null,
   "text": "Hidden (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)\nWhen you play me, you may return another unit at a battlefield with 3 :rb_might: or less to its owner's hand.",
   "text_rich": "<p>Hidden (Hide now for :rb_rune_rainbow: to react with later for :rb_energy_0:.)<br />When you play me, you may return another unit at a battlefield with 3 :rb_might: or less to its owner's hand.</p>",
   "rarity": "Uncommon",

@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 3,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": 1,
+  "might": 3,
+  "might_bonus": null,
   "text": "You may spend 3 XP as an additional cost to play me.\nWhen you play me, each player must kill one of their units. If you paid my additional cost, you don't kill a unit this way.",
   "text_rich": "<p>You may spend 3 XP as an additional cost to play me.<br />When you play me, each player must kill one of their units. If you paid my additional cost, you don't kill a unit this way.</p>",
   "rarity": "Uncommon",

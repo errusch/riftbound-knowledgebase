@@ -14,13 +14,10 @@
     "Body",
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you conquer, if you have 4+ units at that battlefield, draw 2.",
   "text_rich": "<p>When you conquer, if you have 4+ units at that battlefield, draw 2.</p>",
   "rarity": "Rare",

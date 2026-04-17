@@ -13,13 +13,10 @@
   "domains": [
     "Order"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": 4,
+  "might_bonus": null,
   "text": "[Shield] (+1 :rb_might: while I'm a defender.)\nWhen I attack, stun an enemy unit here. (It doesn't deal combat damage this turn.)",
   "text_rich": "<p>[Shield] (+1 :rb_might: while I'm a defender.)<br />When I attack, stun an enemy unit here. (It doesn't deal combat damage this turn.)</p>",
   "rarity": "Rare",

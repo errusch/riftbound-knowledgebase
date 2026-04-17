@@ -13,13 +13,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 4,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": null,
+  "might": 4,
+  "might_bonus": null,
   "text": "When you play me, if you control two or more gear, ready me.",
   "text_rich": "<p>When you play me, if you control two or more gear, ready me.</p>",
   "rarity": "Uncommon",

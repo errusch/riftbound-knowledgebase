@@ -81,13 +81,14 @@ def normalize_card(item: dict[str, Any]) -> dict[str, Any]:
         'card_type': card_type,
         'subtypes': subtypes,
         'domains': domains,
-        'cost': int(power) if isinstance(power, str) and power.isdigit() else power,
-        'stats': {
-            'attack': int(might) if isinstance(might, str) and might.isdigit() else might,
-            'health': None,
-            'reserve': int(energy) if isinstance(energy, str) and energy.isdigit() else energy,
-            'might_bonus': get_value(item, ['mightBonus', 'value', 'label']),
-        },
+        # Riftbound stat trio, matching printed-card iconography:
+        #   energy = top-left circle (energy cost)
+        #   power  = domain-pip cost (rune cost in the Rune Pool)
+        #   might  = top-right combat stat (sword + shield)
+        'energy': int(energy) if isinstance(energy, str) and energy.isdigit() else energy,
+        'power': int(power) if isinstance(power, str) and power.isdigit() else power,
+        'might': int(might) if isinstance(might, str) and might.isdigit() else might,
+        'might_bonus': get_value(item, ['mightBonus', 'value', 'label']),
         'text': plain or '',
         'text_rich': rich,
         'rarity': rarity,

@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 7,
-    "health": null,
-    "reserve": 7,
-    "might_bonus": null
-  },
+  "energy": 7,
+  "power": 1,
+  "might": 7,
+  "might_bonus": null,
   "text": "[Ganking] (I can move from battlefield to battlefield.)\nWhen you play a spell, if you spent :rb_energy_4: or more, ready me.",
   "text_rich": "<p>[Ganking] (I can move from battlefield to battlefield.)<br />When you play a spell, if you spent :rb_energy_4: or more, ready me.</p>",
   "rarity": "Common",

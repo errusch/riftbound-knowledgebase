@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nDeal 2 to all enemy units in combat.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Deal 2 to all enemy units in combat.</p>",
   "rarity": "Common",

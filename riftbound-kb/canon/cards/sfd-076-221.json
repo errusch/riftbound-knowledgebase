@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 4,
-    "might_bonus": null
-  },
+  "energy": 4,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "This costs :rb_energy_2: less if you control a Mech.\nPlay a 3 :rb_might: Mech unit token to your base.\nDraw 1.",
   "text_rich": "<p>This costs :rb_energy_2: less if you control a Mech.<br />Play a 3 :rb_might: Mech unit token to your base.<br />Draw 1.</p>",
   "rarity": "Uncommon",

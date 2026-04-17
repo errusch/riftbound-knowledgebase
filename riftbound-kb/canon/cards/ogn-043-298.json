@@ -10,13 +10,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Move an enemy unit.",
   "text_rich": "<p>Move an enemy unit.</p>",
   "rarity": "Common",

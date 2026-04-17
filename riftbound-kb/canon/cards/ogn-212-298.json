@@ -10,13 +10,10 @@
   "domains": [
     "Order"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 2,
-    "might_bonus": null
-  },
+  "energy": 2,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "When you play this, play a 1 :rb_might: Recruit unit token at your base.\nKill this: Recycle up to 4 cards from trashes.",
   "text_rich": "<p>When you play this, play a 1 :rb_might: Recruit unit token at your base.<br />Kill this: Recycle up to 4 cards from trashes.</p>",
   "rarity": "Common",

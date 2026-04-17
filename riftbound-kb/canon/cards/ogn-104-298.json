@@ -10,13 +10,10 @@
   "domains": [
     "Mind"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "[Reaction] (Play any time, even before spells and abilities resolve.)\nReturn a friendly unit to its owner's hand. Its owner channels 1 rune exhausted.",
   "text_rich": "<p>[Reaction] (Play any time, even before spells and abilities resolve.)<br />Return a friendly unit to its owner's hand. Its owner channels 1 rune exhausted.</p>",
   "rarity": "Uncommon",

@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "[Deathknell] — Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)",
   "text_rich": "<p>[Deathknell] — Play two 3 :rb_might: Mech unit tokens to your base. (When I die, get the effect.)</p>",
   "rarity": "Rare",

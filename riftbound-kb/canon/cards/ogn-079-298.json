@@ -13,13 +13,10 @@
   "domains": [
     "Calm"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": 6,
-    "health": null,
-    "reserve": 6,
-    "might_bonus": null
-  },
+  "energy": 6,
+  "power": 1,
+  "might": 6,
+  "might_bonus": null,
   "text": "If an opponent's score is within 3 points of the Victory Score, I enter ready.\nStunned enemy units here have -8 :rb_might:, to a minimum of 1 :rb_might:.",
   "text_rich": "<p>If an opponent's score is within 3 points of the Victory Score, I enter ready.<br />Stunned enemy units here have -8 :rb_might:, to a minimum of 1 :rb_might:.</p>",
   "rarity": "Epic",

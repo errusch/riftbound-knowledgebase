@@ -13,13 +13,10 @@
   "domains": [
     "Body"
   ],
-  "cost": null,
-  "stats": {
-    "attack": 5,
-    "health": null,
-    "reserve": 5,
-    "might_bonus": null
-  },
+  "energy": 5,
+  "power": null,
+  "might": 5,
+  "might_bonus": null,
   "text": "When I move, you may move an enemy unit here with less Might than me to a different battlefield.",
   "text_rich": "<p>When I move, you may move an enemy unit here with less Might than me to a different battlefield.</p>",
   "rarity": "Uncommon",

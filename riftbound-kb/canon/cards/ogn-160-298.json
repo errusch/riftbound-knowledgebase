@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 9,
-    "might_bonus": null
-  },
+  "energy": 9,
+  "power": 2,
+  "might": null,
+  "might_bonus": null,
   "text": "At the end of your turn, reveal cards from the top of your Main Deck until you reveal a unit and banish it. Play it, ignoring its cost, and recycle the rest.",
   "text_rich": "<p>At the end of your turn, reveal cards from the top of your Main Deck until you reveal a unit and banish it. Play it, ignoring its cost, and recycle the rest.</p>",
   "rarity": "Epic",

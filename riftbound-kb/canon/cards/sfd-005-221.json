@@ -10,13 +10,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Kill a gear. Its controller draws 2.",
   "text_rich": "<p>Kill a gear. Its controller draws 2.</p>",
   "rarity": "Common",

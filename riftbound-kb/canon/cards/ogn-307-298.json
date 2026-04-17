@@ -14,13 +14,10 @@
     "Mind",
     "Chaos"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "You may pay :rb_energy_1: to hide a card with [Hidden] instead of :rb_rune_rainbow:.\n:rb_energy_1:, :rb_exhaust:: Put a Teemo unit you own into your hand from your Champion Zone or the board.",
   "text_rich": "<p>You may pay :rb_energy_1: to hide a card with [Hidden] instead of :rb_rune_rainbow:.<br />:rb_energy_1:, :rb_exhaust:: Put a Teemo unit you own into your hand from your Champion Zone or the board.</p>",
   "rarity": "Showcase",

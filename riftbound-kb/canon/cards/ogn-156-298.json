@@ -10,13 +10,10 @@
   "domains": [
     "Body"
   ],
-  "cost": 1,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": 1,
-    "might_bonus": null
-  },
+  "energy": 1,
+  "power": 1,
+  "might": null,
+  "might_bonus": null,
   "text": "Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card.",
   "text_rich": "<p>Choose an opponent. They reveal their hand. Choose a non-unit card from it, and recycle that card.</p>",
   "rarity": "Rare",

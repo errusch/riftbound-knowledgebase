@@ -13,13 +13,10 @@
   "domains": [
     "Fury"
   ],
-  "cost": 2,
-  "stats": {
-    "attack": 9,
-    "health": null,
-    "reserve": 9,
-    "might_bonus": null
-  },
+  "energy": 9,
+  "power": 2,
+  "might": 9,
+  "might_bonus": null,
   "text": "When you play me, draw 1 for each of your [Mighty] units. (A unit is Mighty while it has 5+ :rb_might:.)",
   "text_rich": "<p>When you play me, draw 1 for each of your [Mighty] units. (A unit is Mighty while it has 5+ :rb_might:.)</p>",
   "rarity": "Epic",

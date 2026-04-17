@@ -10,13 +10,10 @@
   "domains": [
     "Colorless"
   ],
-  "cost": null,
-  "stats": {
-    "attack": null,
-    "health": null,
-    "reserve": null,
-    "might_bonus": null
-  },
+  "energy": null,
+  "power": null,
+  "might": null,
+  "might_bonus": null,
   "text": "Units here have &quot;:rb_exhaust:: Gain 1 XP.&quot;",
   "text_rich": "<p>Units here have &quot;:rb_exhaust:: Gain 1 XP.&quot;</p>",
   "rarity": "Uncommon",
