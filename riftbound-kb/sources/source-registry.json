@@ -7,7 +7,12 @@
       "source_type": "official",
       "name": "Riftbound Official News",
       "base_url": "https://riftbound.leagueoflegends.com/en-us/news/",
-      "usage": ["event coverage", "announcements", "set releases", "organized play coverage"],
+      "usage": [
+        "event coverage",
+        "announcements",
+        "set releases",
+        "organized play coverage"
+      ],
       "trust_tier": "official"
     },
     {
@@ -15,7 +20,11 @@
       "source_type": "official",
       "name": "Official rules / errata / tournament docs",
       "base_url": "local-canon-and-imported-docs",
-      "usage": ["rules", "errata", "tournament policy"],
+      "usage": [
+        "rules",
+        "errata",
+        "tournament policy"
+      ],
       "trust_tier": "official"
     },
     {
@@ -23,7 +32,10 @@
       "source_type": "market",
       "name": "TCGPlayer US",
       "base_url": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/riftbound-league-of-legends-trading-card-game",
-      "usage": ["US pricing", "availability"],
+      "usage": [
+        "US pricing",
+        "availability"
+      ],
       "trust_tier": "market"
     },
     {
@@ -31,7 +43,10 @@
       "source_type": "market",
       "name": "Cardmarket EU",
       "base_url": "https://www.cardmarket.com/en/Riftbound",
-      "usage": ["EU pricing", "availability"],
+      "usage": [
+        "EU pricing",
+        "availability"
+      ],
       "trust_tier": "market"
     },
     {
@@ -39,8 +54,40 @@
       "source_type": "market",
       "name": "MagicalMeta Riftbound",
       "base_url": "https://magicalmeta.ink/riftbound",
-      "usage": ["trend signals", "market movement"],
+      "usage": [
+        "trend signals",
+        "market movement"
+      ],
       "trust_tier": "market"
+    },
+    {
+      "source_id": "recycle2-riftbound-youtube",
+      "source_type": "trusted-secondary",
+      "name": "Recycle2 Riftbound (YouTube)",
+      "base_url": "https://www.youtube.com/@Recycle2TCG",
+      "usage": [
+        "limited analysis",
+        "pre-rift deck reviews",
+        "set impressions",
+        "mechanic breakdowns"
+      ],
+      "trust_tier": "trusted-secondary",
+      "notes": "Riftbound-focused YouTube creator. Good for limited/Pre-Rift content and card impressions. Not official."
+    },
+    {
+      "source_id": "riftbound-official-youtube-streams",
+      "source_type": "trusted-secondary",
+      "name": "Riftbound Official YouTube Streams",
+      "base_url": "https://www.youtube.com/@riftbound/streams",
+      "usage": [
+        "caster commentary",
+        "meta opinions",
+        "card evaluations",
+        "matchup analysis",
+        "tournament format observations"
+      ],
+      "trust_tier": "trusted-secondary",
+      "notes": "Official Riftbound YouTube channel stream VODs with English auto-captions. Covers all Regional Qualifiers (Houston, Bologna, Vegas, Lille). 323K verified verbatim quotes in caster-insights JSONL. Caster opinions are qualitative, not tournament results — use to supplement, not replace, canonical event data."
     }
   ]
 }
