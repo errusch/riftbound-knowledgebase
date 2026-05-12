@@ -1,0 +1,112 @@
+{
+  "event_id": "riftdecks-s3-fuzhou-city-challenge",
+  "event_type": "city_challenge",
+  "event_name": "S3 Fuzhou City Challenge",
+  "region": "CN",
+  "city": null,
+  "country": "China",
+  "start_date": "2026-05-10",
+  "end_date": "2026-05-10",
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Annie, Dark Child",
+    "Diana, Scorn of the Moon",
+    "Draven, Glorious Executioner",
+    "Fiora, Grand Duelist",
+    "Irelia, Blade Dancer",
+    "Jax, Grandmaster at Arms",
+    "Kai'sa, Daughter of the Void",
+    "Leblanc, Deceiver",
+    "Leona, Radiant Dawn",
+    "Lillia, Bashful Bloom",
+    "Lux, Lady of Luminosity",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Ornn, Fire Below the Mountain",
+    "Rengar, Pridestalker",
+    "Sett, The Boss",
+    "Sivir, Battle Mistress",
+    "Teemo, Swift Scout",
+    "Vex, Gloomist",
+    "Viktor, Herald of the Arcane"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks",
+    "source_url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182",
+    "source_date": "2026-05-10",
+    "retrieved_at": "2026-05-12",
+    "trust_tier": "trusted_secondary",
+    "notes": "Scraped from riftdecks.com. 64 decks registered. Winner: 雷热涡炉 on Master Yi, Wuju Bladesman."
+  },
+  "secondary_sources": [],
+  "notes": "Unleashed 3★ tournament. 64 total deck registrations. Full decklists not yet ingested — legend/domain metadata only.",
+  "best_decklists": [
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s3-fuzhou-city-challenge--best-of--master-yi-wuju-bladesman",
+      "player": "雷热涡炉",
+      "placement": "1st",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s3-fuzhou-city-challenge--best-of--master-yi-wuju-bladesman",
+      "player": "福州冠军剑圣",
+      "placement": "2nd",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s3-fuzhou-city-challenge--best-of--irelia-blade-dancer",
+      "player": "玩啥都不对",
+      "placement": "3rd",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-s3-fuzhou-city-challenge--best-of--fiora-grand-duelist",
+      "player": "钓钓",
+      "placement": "4th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s3-fuzhou-city-challenge--best-of--irelia-blade-dancer",
+      "player": "艾欧尼亚昂扬不灭",
+      "placement": "5th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s3-fuzhou-city-challenge--best-of--irelia-blade-dancer",
+      "player": "刀妹",
+      "placement": "6th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s3-fuzhou-city-challenge--best-of--master-yi-wuju-bladesman",
+      "player": "西红柿炒鸡蛋",
+      "placement": "7th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Diana, Scorn of the Moon",
+      "decklist_id": "riftdecks-s3-fuzhou-city-challenge--best-of--diana-scorn-of-the-moon",
+      "player": "月轮",
+      "placement": "8th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    }
+  ],
+  "field_size": 64
+}

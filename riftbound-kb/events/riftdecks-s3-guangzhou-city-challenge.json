@@ -1,0 +1,116 @@
+{
+  "event_id": "riftdecks-s3-guangzhou-city-challenge",
+  "event_type": "city_challenge",
+  "event_name": "S3 Guangzhou City Challenge",
+  "region": "CN",
+  "city": null,
+  "country": "China",
+  "start_date": "2026-05-10",
+  "end_date": "2026-05-10",
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Azir, Emperor of the Sands",
+    "Diana, Scorn of the Moon",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Irelia, Blade Dancer",
+    "Jax, Grandmaster at Arms",
+    "Jhin, Virtuoso",
+    "Kai'sa, Daughter of the Void",
+    "Khazix, Voidreaver",
+    "Leblanc, Deceiver",
+    "Leona, Radiant Dawn",
+    "Lillia, Bashful Bloom",
+    "Master Yi, Wuju Bladesman",
+    "Master Yi, Wuju Master",
+    "Miss Fortune, Bounty Hunter",
+    "Ornn, Fire Below the Mountain",
+    "Pyke, Bloodharbor Ripper",
+    "Rengar, Pridestalker",
+    "Sett, The Boss",
+    "Sivir, Battle Mistress",
+    "Teemo, Swift Scout",
+    "Vex, Gloomist",
+    "Viktor, Herald of the Arcane"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks",
+    "source_url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179",
+    "source_date": "2026-05-10",
+    "retrieved_at": "2026-05-12",
+    "trust_tier": "trusted_secondary",
+    "notes": "Scraped from riftdecks.com. 106 decks registered. Winner: 是时候表演真正的打拳 on Sett, The Boss."
+  },
+  "secondary_sources": [],
+  "notes": "Unleashed 3★ tournament. 106 total deck registrations. Full decklists not yet ingested — legend/domain metadata only.",
+  "best_decklists": [
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-s3-guangzhou-city-challenge--best-of--sett-the-boss",
+      "player": "是时候表演真正的打拳",
+      "placement": "1st",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s3-guangzhou-city-challenge--best-of--irelia-blade-dancer",
+      "player": "飞叶快刀",
+      "placement": "2nd",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s3-guangzhou-city-challenge--best-of--master-yi-wuju-bladesman",
+      "player": "剑圣",
+      "placement": "3rd",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s3-guangzhou-city-challenge--best-of--irelia-blade-dancer",
+      "player": "二弹刀",
+      "placement": "4th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Leblanc, Deceiver",
+      "decklist_id": "riftdecks-s3-guangzhou-city-challenge--best-of--leblanc-deceiver",
+      "player": "镜花水月",
+      "placement": "5th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s3-guangzhou-city-challenge--best-of--master-yi-wuju-bladesman",
+      "player": "剑圣",
+      "placement": "6th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-s3-guangzhou-city-challenge--best-of--fiora-grand-duelist",
+      "player": "独自升级",
+      "placement": "7th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "riftdecks-s3-guangzhou-city-challenge--best-of--teemo-swift-scout",
+      "player": "自己动",
+      "placement": "8th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    }
+  ],
+  "field_size": 106
+}

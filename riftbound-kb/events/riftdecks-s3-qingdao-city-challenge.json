@@ -1,0 +1,252 @@
+{
+  "event_id": "riftdecks-s3-qingdao-city-challenge",
+  "event_type": "other_official_event",
+  "event_name": "S3 Qingdao City Challenge",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Annie, Dark Child",
+    "Azir, Emperor of the Sands",
+    "Diana, Scorn of the Moon",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Irelia, Blade Dancer",
+    "Ivern, Green Father",
+    "Jax, Grandmaster at Arms",
+    "Jhin, Virtuoso",
+    "Kai'Sa, Daughter of the Void",
+    "LeBlanc, Deceiver",
+    "Lillia, Bashful Bloom",
+    "Lux, Lady of Luminosity",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Ornn, the Fire Below the Mountain",
+    "Pyke, Bloodharbor Ripper",
+    "Rengar, Pridestalker",
+    "Sett, The Boss",
+    "Sivir, Battle Mistress",
+    "Teemo, Swift Scout",
+    "Vex, Gloomist",
+    "Viktor, Herald of the Arcane",
+    "Volibear, Relentless Storm"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=3&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--annie",
+      "player": "养梦",
+      "placement": "77",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Azir, Emperor of the Sands",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--azir",
+      "player": "山粉圆子",
+      "placement": "30",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Diana, Scorn of the Moon",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--diana",
+      "player": "Mtt救援猫小金库",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--draven",
+      "player": "а上弦之月",
+      "placement": "18",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--ezreal",
+      "player": "黎黎黎拉黎拉",
+      "placement": "60",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--fiora",
+      "player": "神奥空间.cookie",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--irelia",
+      "player": "Ai.卡唐",
+      "placement": "4",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ivern, Green Father",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--ivern",
+      "player": "微信用户6bKnY1x6",
+      "placement": "62",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jax, Grandmaster at Arms",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--jax",
+      "player": "аze",
+      "placement": "76",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jhin, Virtuoso",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--jhin",
+      "player": "Mtt-大飞",
+      "placement": "10",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--kaisa",
+      "player": "Ai晴天.淘金巢.极触感",
+      "placement": "35",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "LeBlanc, Deceiver",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--leblanc",
+      "player": "了平",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lillia, Bashful Bloom",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--lillia",
+      "player": "天狼星",
+      "placement": "21",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lux, Lady of Luminosity",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--lux",
+      "player": "GT·幸若杳晚",
+      "placement": "63",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--master-yi",
+      "player": "AG超会玩-赵三",
+      "placement": "20",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--miss-fortune",
+      "player": "风清（看不见魄罗版）",
+      "placement": "12",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ornn, the Fire Below the Mountain",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--ornn",
+      "player": "藤政进行曲",
+      "placement": "100",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Pyke, Bloodharbor Ripper",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--pyke",
+      "player": "炸毛",
+      "placement": "85",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rengar, Pridestalker",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--rengar",
+      "player": "达芬奇",
+      "placement": "16",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--sett",
+      "player": "芝士🍔",
+      "placement": "98",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--sivir",
+      "player": "solo丨怪兽丶Ru1（恩师钓鱼王）",
+      "placement": "6",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--teemo",
+      "player": "Mtt-救援猫 谨记微芒",
+      "placement": "40",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Vex, Gloomist",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--vex",
+      "player": "杰出した天才",
+      "placement": "33",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--viktor",
+      "player": "Solo丨TrZ",
+      "placement": "17",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "riftdecks-s3-qingdao-city-challenge--best-of--volibear",
+      "player": "律动工坊⭐律离子",
+      "placement": "25",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

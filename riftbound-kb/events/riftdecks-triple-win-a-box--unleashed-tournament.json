@@ -1,0 +1,98 @@
+{
+  "event_id": "riftdecks-triple-win-a-box--unleashed-tournament",
+  "event_type": "other_official_event",
+  "event_name": "Triple Win-A-Box | Unleashed Tournament",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": "2026-05-09",
+  "end_date": "2026-05-09",
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Ezreal, Prodigal Explorer",
+    "Irelia, Blade Dancer",
+    "Khazix, Voidreaver",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Vex, Gloomist"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks",
+    "source_url": "https://riftdecks.com/riftbound-tournaments/triple-win-a-box-unleashed-tournament-tournament-decks-9200",
+    "source_date": "2026-05-09",
+    "retrieved_at": "2026-05-12",
+    "trust_tier": "trusted_secondary",
+    "notes": "Scraped from riftdecks.com. 8 decks registered. Winner: Ezreal, Prodigal Explorer on Ezreal, Prodigal Explorer."
+  },
+  "secondary_sources": [],
+  "notes": "Unleashed 3★ tournament. 8 total deck registrations. Full decklists not yet ingested — legend/domain metadata only.",
+  "best_decklists": [
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "riftdecks-triple-win-a-box--unleashed-tournament--best-of--ezreal-prodigal-explorer",
+      "player": "Ezreal, Prodigal Explorer",
+      "placement": "1st",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Vex, Gloomist",
+      "decklist_id": "riftdecks-triple-win-a-box--unleashed-tournament--best-of--vex-gloomist",
+      "player": "Vex, Gloomist",
+      "placement": "2nd",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-triple-win-a-box--unleashed-tournament--best-of--master-yi-wuju-bladesman",
+      "player": "Master Yi, Wuju Bladesman",
+      "placement": "3rd",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "riftdecks-triple-win-a-box--unleashed-tournament--best-of--ezreal-prodigal-explorer",
+      "player": "Ezreal, Prodigal Explorer",
+      "placement": "Top4",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Khazix, Voidreaver",
+      "decklist_id": "riftdecks-triple-win-a-box--unleashed-tournament--best-of--khazix-voidreaver",
+      "player": "Khazix, Voidreaver",
+      "placement": "Top8",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-triple-win-a-box--unleashed-tournament--best-of--irelia-blade-dancer",
+      "player": "Irelia, Blade Dancer",
+      "placement": "Top8",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Vex, Gloomist",
+      "decklist_id": "riftdecks-triple-win-a-box--unleashed-tournament--best-of--vex-gloomist",
+      "player": "Vex, Gloomist",
+      "placement": "Top8",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "riftdecks-triple-win-a-box--unleashed-tournament--best-of--miss-fortune-bounty-hunter",
+      "player": "Miss Fortune, Bounty Hunter",
+      "placement": "Top8",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    }
+  ],
+  "field_size": 73
+}

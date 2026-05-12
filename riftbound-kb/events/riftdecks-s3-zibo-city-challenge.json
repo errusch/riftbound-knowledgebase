@@ -1,0 +1,114 @@
+{
+  "event_id": "riftdecks-s3-zibo-city-challenge",
+  "event_type": "city_challenge",
+  "event_name": "S3 Zibo City Challenge",
+  "region": "CN",
+  "city": null,
+  "country": "China",
+  "start_date": "2026-05-10",
+  "end_date": "2026-05-10",
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Azir, Emperor of the Sands",
+    "Diana, Scorn of the Moon",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Irelia, Blade Dancer",
+    "Jhin, Virtuoso",
+    "Jinx, Loose Cannon",
+    "Kai'sa, Daughter of the Void",
+    "Khazix, Voidreaver",
+    "Leblanc, Deceiver",
+    "Lillia, Bashful Bloom",
+    "Lucian, Purifier",
+    "Lux, Lady of Luminosity",
+    "Master Yi, Wuju Bladesman",
+    "Master Yi, Wuju Master",
+    "Miss Fortune, Bounty Hunter",
+    "Pyke, Bloodharbor Ripper",
+    "Sivir, Battle Mistress",
+    "Vex, Gloomist",
+    "Viktor, Herald of the Arcane",
+    "Yasuo, Unforgiven"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks",
+    "source_url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178",
+    "source_date": "2026-05-10",
+    "retrieved_at": "2026-05-12",
+    "trust_tier": "trusted_secondary",
+    "notes": "Scraped from riftdecks.com. 64 decks registered. Winner: 剑圣 on Master Yi, Wuju Bladesman."
+  },
+  "secondary_sources": [],
+  "notes": "Unleashed 3★ tournament. 64 total deck registrations. Full decklists not yet ingested — legend/domain metadata only.",
+  "best_decklists": [
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s3-zibo-city-challenge--best-of--master-yi-wuju-bladesman",
+      "player": "剑圣",
+      "placement": "1st",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s3-zibo-city-challenge--best-of--irelia-blade-dancer",
+      "player": "叨叨的魅",
+      "placement": "2nd",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-s3-zibo-city-challenge--best-of--fiora-grand-duelist",
+      "player": "jjjj",
+      "placement": "3rd",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Diana, Scorn of the Moon",
+      "decklist_id": "riftdecks-s3-zibo-city-challenge--best-of--diana-scorn-of-the-moon",
+      "player": "赛莉蒙妮在朝我微笑",
+      "placement": "4th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Diana, Scorn of the Moon",
+      "decklist_id": "riftdecks-s3-zibo-city-challenge--best-of--diana-scorn-of-the-moon",
+      "player": "月光啊闪爆他们",
+      "placement": "5th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Yasuo, Unforgiven",
+      "decklist_id": "riftdecks-s3-zibo-city-challenge--best-of--yasuo-unforgiven",
+      "player": "让自己对得起美丽预言",
+      "placement": "6th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-s3-zibo-city-challenge--best-of--draven-glorious-executioner",
+      "player": "biubiubiu",
+      "placement": "7th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "riftdecks-s3-zibo-city-challenge--best-of--sivir-battle-mistress",
+      "player": "躺好了",
+      "placement": "8th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    }
+  ],
+  "field_size": 64
+}

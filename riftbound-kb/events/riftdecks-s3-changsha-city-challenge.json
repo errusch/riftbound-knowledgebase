@@ -1,0 +1,234 @@
+{
+  "event_id": "riftdecks-s3-changsha-city-challenge",
+  "event_type": "other_official_event",
+  "event_name": "S3 Changsha City Challenge",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Annie, Dark Child",
+    "Azir, Emperor of the Sands",
+    "Fiora, Grand Duelist",
+    "Irelia, Blade Dancer",
+    "Ivern, Green Father",
+    "Jhin, Virtuoso",
+    "Jinx, Loose Cannon",
+    "Kai'Sa, Daughter of the Void",
+    "LeBlanc, Deceiver",
+    "Leona, Radiant Dawn",
+    "Lillia, Bashful Bloom",
+    "Lucian, Purifier",
+    "Master Yi, Wuju Bladesman",
+    "Ornn, the Fire Below the Mountain",
+    "Poppy, Keeper of the Hammer",
+    "Pyke, Bloodharbor Ripper",
+    "Rengar, Pridestalker",
+    "Sett, The Boss",
+    "Sivir, Battle Mistress",
+    "Teemo, Swift Scout",
+    "Vex, Gloomist",
+    "Viktor, Herald of the Arcane",
+    "Volibear, Relentless Storm"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=3&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--annie",
+      "player": "梦之星-黄贝",
+      "placement": "6",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Azir, Emperor of the Sands",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--azir",
+      "player": "酷酷76",
+      "placement": "58",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--fiora",
+      "player": "找不着北",
+      "placement": "30",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--irelia",
+      "player": "梦之星-啊а阿星",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ivern, Green Father",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--ivern",
+      "player": "折柳送君伴青天",
+      "placement": "11",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jhin, Virtuoso",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--jhin",
+      "player": "Croplаnd",
+      "placement": "15",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jinx, Loose Cannon",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--jinx",
+      "player": "苦瓜",
+      "placement": "19",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--kaisa",
+      "player": "且听",
+      "placement": "47",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "LeBlanc, Deceiver",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--leblanc",
+      "player": "梦之星-Monkey",
+      "placement": "5",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--leona",
+      "player": "巴依老爷",
+      "placement": "31",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lillia, Bashful Bloom",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--lillia",
+      "player": "梦之星-掀云☁️",
+      "placement": "10",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lucian, Purifier",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--lucian",
+      "player": "云间",
+      "placement": "9",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--master-yi",
+      "player": "交界地-鸭子乐-牢李",
+      "placement": "23",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ornn, the Fire Below the Mountain",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--ornn",
+      "player": "稻川会-达浪",
+      "placement": "57",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Poppy, Keeper of the Hammer",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--poppy",
+      "player": "Shаne",
+      "placement": "42",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Pyke, Bloodharbor Ripper",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--pyke",
+      "player": "骁川",
+      "placement": "29",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rengar, Pridestalker",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--rengar",
+      "player": "梦之星–传菜员",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--sett",
+      "player": "梦之星-iLin",
+      "placement": "18",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--sivir",
+      "player": "千鸽",
+      "placement": "39",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--teemo",
+      "player": "坦奇",
+      "placement": "28",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Vex, Gloomist",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--vex",
+      "player": "神喵丶+DаkingZhiwаrLongtemple",
+      "placement": "21",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--viktor",
+      "player": "老狼孩",
+      "placement": "20",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "riftdecks-s3-changsha-city-challenge--best-of--volibear",
+      "player": "元气幻界·书航",
+      "placement": "12",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

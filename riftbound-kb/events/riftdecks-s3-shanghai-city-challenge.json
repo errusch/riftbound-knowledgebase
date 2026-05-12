@@ -1,0 +1,123 @@
+{
+  "event_id": "riftdecks-s3-shanghai-city-challenge",
+  "event_type": "other_official_event",
+  "event_name": "S3 Shanghai City Challenge",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": "2026-05-10",
+  "end_date": "2026-05-10",
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Annie, Dark Child",
+    "Azir, Emperor of the Sands",
+    "Darius, Hand of Noxus",
+    "Diana, Scorn of the Moon",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Garen, Might of Demacia",
+    "Irelia, Blade Dancer",
+    "Ivern, Green Father",
+    "Jax, Grandmaster at Arms",
+    "Kai'sa, Daughter of the Void",
+    "Khazix, Voidreaver",
+    "Leblanc, Deceiver",
+    "Lillia, Bashful Bloom",
+    "Lucian, Purifier",
+    "Lux, Lady of Luminosity",
+    "Master Yi, Wuju Bladesman",
+    "Master Yi, Wuju Master",
+    "Miss Fortune, Bounty Hunter",
+    "Ornn, Fire Below the Mountain",
+    "Poppy, Keeper of the Hammer",
+    "Pyke, Bloodharbor Ripper",
+    "Renata Glasc, Chem-Baroness",
+    "Rengar, Pridestalker",
+    "Rumble, Mechanized Menace",
+    "Sett, The Boss",
+    "Sivir, Battle Mistress",
+    "Teemo, Swift Scout",
+    "Vex, Gloomist",
+    "Viktor, Herald of the Arcane"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180",
+    "source_date": "2026-05-10",
+    "retrieved_at": "2026-05-12",
+    "trust_tier": "trusted_secondary",
+    "notes": "Updated from riftdecks.com scrape. 128 decks. Winner: 谷神未死 on Irelia, Blade Dancer."
+  },
+  "secondary_sources": [],
+  "notes": "Unleashed 3★ City Challenge. 128 total registrations. Full decklists not yet ingested.",
+  "best_decklists": [
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s3-shanghai-city-challenge--best-of--irelia-blade-dancer",
+      "player": "谷神未死",
+      "placement": "1st",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Diana, Scorn of the Moon",
+      "decklist_id": "riftdecks-s3-shanghai-city-challenge--best-of--diana-scorn-of-the-moon",
+      "player": "宝石皎月",
+      "placement": "2nd",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s3-shanghai-city-challenge--best-of--master-yi-wuju-bladesman",
+      "player": "老js",
+      "placement": "3rd",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Diana, Scorn of the Moon",
+      "decklist_id": "riftdecks-s3-shanghai-city-challenge--best-of--diana-scorn-of-the-moon",
+      "player": "月神降临",
+      "placement": "4th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s3-shanghai-city-challenge--best-of--master-yi-wuju-bladesman",
+      "player": "奇亚娜剑圣",
+      "placement": "5th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s3-shanghai-city-challenge--best-of--irelia-blade-dancer",
+      "player": "龙刀",
+      "placement": "6th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Kai'sa, Daughter of the Void",
+      "decklist_id": "riftdecks-s3-shanghai-city-challenge--best-of--kai'sa-daughter-of-the-void",
+      "player": "我是淘金巢里最弱的",
+      "placement": "7th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    },
+    {
+      "legend": "Garen, Might of Demacia",
+      "decklist_id": "riftdecks-s3-shanghai-city-challenge--best-of--garen-might-of-demacia",
+      "player": "心理学概论BO1",
+      "placement": "8th",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": false
+    }
+  ],
+  "field_size": 128
+}
