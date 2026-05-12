@@ -1,0 +1,196 @@
+{
+  "decklist_id": "s2-reg-fuzhou-2026--best-of--garen",
+  "event_id": "s2-reg-fuzhou-2026",
+  "player": "runesandrift",
+  "legend": "Garen, Might of Demacia",
+  "placement": null,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogs-013-024",
+      "card_code": "OGS-013",
+      "count": 1,
+      "name": "Garen, Commander",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-297-298",
+      "card_code": "OGN-297",
+      "count": 1,
+      "name": "Windswept Hillock",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-284-298",
+      "card_code": "OGN-284",
+      "count": 1,
+      "name": "Obelisk of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-208-221",
+      "card_code": "SFD-208",
+      "count": 1,
+      "name": "Forge of the Fluft",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "card_code": "OGN-126",
+      "count": 5,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "card_code": "OGN-214",
+      "count": 7,
+      "name": "Order Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "sfd-153-221",
+      "card_code": "SFD-153",
+      "count": 3,
+      "name": "Eye of the Herald",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-159-221",
+      "card_code": "SFD-159",
+      "count": 3,
+      "name": "Trusty Ramhound",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-179-221",
+      "card_code": "SFD-179",
+      "count": 1,
+      "name": "Corina Veraza",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-113-221",
+      "card_code": "SFD-113",
+      "count": 3,
+      "name": "Lucian, Merciless",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-222-298",
+      "card_code": "OGN-222",
+      "count": 2,
+      "name": "Noxian Drummer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-109-221",
+      "card_code": "SFD-109",
+      "count": 2,
+      "name": "Akshan, Mischievous",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-155-221",
+      "card_code": "SFD-155",
+      "count": 3,
+      "name": "Honest Broker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "card_code": "OGN-213",
+      "count": 3,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-097-221",
+      "card_code": "SFD-097",
+      "count": 3,
+      "name": "Punch First",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-218-298",
+      "card_code": "OGN-218",
+      "count": 3,
+      "name": "Vanguard Captain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-221-298",
+      "card_code": "OGN-221",
+      "count": 3,
+      "name": "Imperial Decree",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-245-298",
+      "card_code": "OGN-245",
+      "count": 2,
+      "name": "Seal of Unity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-127-298",
+      "card_code": "OGN-127",
+      "count": 2,
+      "name": "Cannon Barrage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-132-298",
+      "card_code": "OGN-132",
+      "count": 3,
+      "name": "First Mate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-129-298",
+      "card_code": "OGN-129",
+      "count": 3,
+      "name": "Confront",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-244-298",
+      "card_code": "OGN-244",
+      "count": 2,
+      "name": "Divine Judgment",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-229-298",
+      "card_code": "OGN-229",
+      "count": 2,
+      "name": "Vengeance",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-133-298",
+      "card_code": "OGN-133",
+      "count": 2,
+      "name": "Flurry of Blades",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-145-298",
+      "card_code": "OGN-145",
+      "count": 2,
+      "name": "Unyielding Spirit",
+      "section": "sideboard"
+    }
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "Piltover/RiftDecks regional best-of export",
+    "source_url": "file:///Users/eric/Playground/riftbound-kb/canon/decklists/regionals/fuzhou-regional-open.json",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Imported from local regional export sourced as piltoverarchive.com for 253rd Place-Fuzhou Regional Open."
+  },
+  "secondary_sources": [],
+  "notes": "Best-Of Garen - 253rd Place - Fuzhou Regional Open"
+}

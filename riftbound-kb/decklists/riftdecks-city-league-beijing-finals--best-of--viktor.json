@@ -1,0 +1,177 @@
+{
+  "decklist_id": "riftdecks-city-league-beijing-finals--best-of--viktor",
+  "event_id": "riftdecks-city-league-beijing-finals",
+  "player": "紫禁联合·麻袋怪兽·陈千语",
+  "legend": "Viktor, Herald of the Arcane",
+  "placement": "3",
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-308-298",
+      "card_code": "OGN-308",
+      "count": 1,
+      "name": "Herald of the Arcane",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-117-298",
+      "card_code": "OGN-117",
+      "count": 1,
+      "name": "Viktor, Innovator",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-070-221",
+      "card_code": "SFD-070",
+      "count": 3,
+      "name": "Wages of Pain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-162-221",
+      "card_code": "SFD-162",
+      "count": 3,
+      "name": "Blood Money",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-083-298",
+      "card_code": "OGN-083",
+      "count": 3,
+      "name": "Consult the Past",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-221-298",
+      "card_code": "OGN-221",
+      "count": 3,
+      "name": "Imperial Decree",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "card_code": "OGN-213",
+      "count": 3,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-209-298",
+      "card_code": "OGN-209",
+      "count": 3,
+      "name": "Cull the Weak",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-164-221",
+      "card_code": "SFD-164",
+      "count": 3,
+      "name": "Drag Under",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-095-298",
+      "card_code": "OGN-095",
+      "count": 3,
+      "name": "Stupefy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-229-298",
+      "card_code": "OGN-229",
+      "count": 3,
+      "name": "Vengeance",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-063-221",
+      "card_code": "SFD-063",
+      "count": 2,
+      "name": "Chemtech Cask",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-218-298",
+      "card_code": "OGN-218",
+      "count": 3,
+      "name": "Vanguard Captain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-233-298",
+      "card_code": "OGN-233",
+      "count": 2,
+      "name": "Grand Strategem",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-104-298",
+      "card_code": "OGN-104",
+      "count": 3,
+      "name": "Retreat",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-097-298",
+      "card_code": "OGN-097",
+      "count": 2,
+      "name": "Blastcone Fae",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-215-221",
+      "card_code": "SFD-215",
+      "count": 1,
+      "name": "Ravenbloom Conservatory",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-210-221",
+      "card_code": "SFD-210",
+      "count": 1,
+      "name": "Hall of Legends",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-287-298",
+      "card_code": "OGN-287",
+      "count": 1,
+      "name": "Sigil of the Storm",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "card_code": "OGN-089",
+      "count": 5,
+      "name": "Mind Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "card_code": "OGN-214",
+      "count": 7,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks Export TXT",
+    "source_url": "https://riftdecks.com/decks/export/6399c539-1d1a-42f7-8a44-e037be94b813/txt",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Imported from RiftDecks Export TXT as primary meta deck source."
+  },
+  "secondary_sources": [
+    {
+      "source_type": "trusted_secondary",
+      "source_name": "RiftDecks deck page",
+      "source_url": "https://riftdecks.com/riftbound-metagame/deck-pin-duo-duo-wei-110932",
+      "source_date": null,
+      "retrieved_at": "2026-04-26",
+      "trust_tier": "trusted_secondary"
+    }
+  ],
+  "notes": "Best-of-legend import for City League: Beijing - Finals."
+}

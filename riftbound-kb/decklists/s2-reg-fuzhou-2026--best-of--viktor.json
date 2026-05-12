@@ -1,0 +1,203 @@
+{
+  "decklist_id": "s2-reg-fuzhou-2026--best-of--viktor",
+  "event_id": "s2-reg-fuzhou-2026",
+  "player": "runesandrift",
+  "legend": "Viktor, Herald of the Arcane",
+  "placement": null,
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-246-298",
+      "card_code": "OGN-246",
+      "count": 1,
+      "name": "Viktor, Leader",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-215-221",
+      "card_code": "SFD-215",
+      "count": 1,
+      "name": "Ravenbloom Conservatory",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-221-221",
+      "card_code": "SFD-221",
+      "count": 1,
+      "name": "Veiled Temple",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-295-298",
+      "card_code": "OGN-295",
+      "count": 1,
+      "name": "Vilemaw's Lair",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "card_code": "OGN-089",
+      "count": 6,
+      "name": "Mind Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "card_code": "OGN-214",
+      "count": 6,
+      "name": "Order Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "sfd-084-221",
+      "card_code": "SFD-084",
+      "count": 3,
+      "name": "Jayce, Man of Progress",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-176-221",
+      "card_code": "SFD-176",
+      "count": 1,
+      "name": "Xin Zhao, Vigilant",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-070-221",
+      "card_code": "SFD-070",
+      "count": 3,
+      "name": "Wages of Pain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-080-221",
+      "card_code": "SFD-080",
+      "count": 3,
+      "name": "Bellows Breath",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-162-221",
+      "card_code": "SFD-162",
+      "count": 3,
+      "name": "Blood Money",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-209-298",
+      "card_code": "OGN-209",
+      "count": 3,
+      "name": "Cull the Weak",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "card_code": "OGN-213",
+      "count": 3,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-221-298",
+      "card_code": "OGN-221",
+      "count": 3,
+      "name": "Imperial Decree",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-063-221",
+      "card_code": "SFD-063",
+      "count": 2,
+      "name": "Chemtech Cask",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-168-221",
+      "card_code": "SFD-168",
+      "count": 3,
+      "name": "Vanguard Armory",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-220-298",
+      "card_code": "OGN-220",
+      "count": 2,
+      "name": "Facebreaker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-095-298",
+      "card_code": "OGN-095",
+      "count": 3,
+      "name": "Stupefy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-105-298",
+      "card_code": "OGN-105",
+      "count": 3,
+      "name": "Singularity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-083-298",
+      "card_code": "OGN-083",
+      "count": 2,
+      "name": "Consult the Past",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-099-298",
+      "card_code": "OGN-099",
+      "count": 1,
+      "name": "Garbage Grabber",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-085-298",
+      "card_code": "OGN-085",
+      "count": 1,
+      "name": "Falling Comet",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-116-298",
+      "card_code": "OGN-116",
+      "count": 2,
+      "name": "Thousand-Tailed Watcher",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-239-298",
+      "card_code": "OGN-239",
+      "count": 2,
+      "name": "Machine Evangel",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "card_code": "OGN-224",
+      "count": 2,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-096-298",
+      "card_code": "OGN-096",
+      "count": 2,
+      "name": "Watchful Sentry",
+      "section": "sideboard"
+    }
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "Piltover/RiftDecks regional best-of export",
+    "source_url": "file:///Users/eric/Playground/riftbound-kb/canon/decklists/regionals/fuzhou-regional-open.json",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Imported from local regional export sourced as piltoverarchive.com for 56th Place-Fuzhou Regional Open."
+  },
+  "secondary_sources": [],
+  "notes": "Best-Of Viktor - 56th Place - Fuzhou Regional Open"
+}

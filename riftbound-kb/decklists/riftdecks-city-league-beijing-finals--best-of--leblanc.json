@@ -1,0 +1,191 @@
+{
+  "decklist_id": "riftdecks-city-league-beijing-finals--best-of--leblanc",
+  "event_id": "riftdecks-city-league-beijing-finals",
+  "player": "海里睡人",
+  "legend": "LeBlanc, Deceiver",
+  "placement": "33",
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "unl-235-219",
+      "card_code": "UNL-235",
+      "count": 1,
+      "name": "Deceiver",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-172-219",
+      "card_code": "UNL-172",
+      "count": 1,
+      "name": "LeBlanc, Fragmented",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-172-219",
+      "card_code": "UNL-172",
+      "count": 2,
+      "name": "LeBlanc, Fragmented",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-236-298",
+      "card_code": "OGN-236",
+      "count": 2,
+      "name": "Karthus, Eternal",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-080-219",
+      "card_code": "UNL-080",
+      "count": 2,
+      "name": "Hwei, Brooding Painter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-067-219",
+      "card_code": "UNL-067",
+      "count": 3,
+      "name": "Ruined Rex",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-179-219",
+      "card_code": "UNL-179",
+      "count": 3,
+      "name": "Rift Herald",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-096-298",
+      "card_code": "OGN-096",
+      "count": 3,
+      "name": "Watchful Sentry",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-216-298",
+      "card_code": "OGN-216",
+      "count": 3,
+      "name": "Soaring Scout",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-165-221",
+      "card_code": "SFD-165",
+      "count": 2,
+      "name": "Glasc Mixologist",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-173-219",
+      "card_code": "UNL-173",
+      "count": 3,
+      "name": "Sacrifice",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-083-219",
+      "card_code": "UNL-083",
+      "count": 2,
+      "name": "Smoke and Mirrors",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-163-221",
+      "card_code": "SFD-163",
+      "count": 2,
+      "name": "Deathgrip",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-209-298",
+      "card_code": "OGN-209",
+      "count": 3,
+      "name": "Cull the Weak",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "card_code": "OGN-213",
+      "count": 3,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-200-219",
+      "card_code": "UNL-200",
+      "count": 2,
+      "name": "Mirror Image",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-178-221",
+      "card_code": "SFD-178",
+      "count": 2,
+      "name": "Blade of the Ruined King",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-180-219",
+      "card_code": "UNL-180",
+      "count": 2,
+      "name": "The Ruination",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-209-219",
+      "card_code": "UNL-209",
+      "count": 1,
+      "name": "Dusk Rose Lab",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "unl-219-219",
+      "card_code": "UNL-219",
+      "count": 1,
+      "name": "Vaults of Helia",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-297-298",
+      "card_code": "OGN-297",
+      "count": 1,
+      "name": "Windswept Hillock",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-089-298",
+      "card_code": "OGN-089",
+      "count": 6,
+      "name": "Mind Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "card_code": "OGN-214",
+      "count": 6,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks Export TXT",
+    "source_url": "https://riftdecks.com/decks/export/e4c936dd-ed5a-4b73-9deb-6ca510b151c7/txt",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Imported from RiftDecks Export TXT as primary meta deck source."
+  },
+  "secondary_sources": [
+    {
+      "source_type": "trusted_secondary",
+      "source_name": "RiftDecks deck page",
+      "source_url": "https://riftdecks.com/riftbound-metagame/deck-wu-xia-fu-si-110962",
+      "source_date": null,
+      "retrieved_at": "2026-04-26",
+      "trust_tier": "trusted_secondary"
+    }
+  ],
+  "notes": "Best-of-legend import for City League: Beijing - Finals."
+}

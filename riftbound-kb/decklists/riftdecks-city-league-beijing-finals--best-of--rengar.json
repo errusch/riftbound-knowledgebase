@@ -1,0 +1,184 @@
+{
+  "decklist_id": "riftdecks-city-league-beijing-finals--best-of--rengar",
+  "event_id": "riftdecks-city-league-beijing-finals",
+  "player": "啊飞",
+  "legend": "Rengar, Pridestalker",
+  "placement": "18",
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "unl-183-219",
+      "card_code": "UNL-183",
+      "count": 1,
+      "name": "Pridestalker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-120-219",
+      "card_code": "UNL-120",
+      "count": 1,
+      "name": "Rengar, Trophy Hunter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-093-219",
+      "card_code": "UNL-093",
+      "count": 3,
+      "name": "Dragonsoul Sage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-097-219",
+      "card_code": "UNL-097",
+      "count": 3,
+      "name": "Kinkou Initiate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-131-298",
+      "card_code": "OGN-131",
+      "count": 3,
+      "name": "Dune Drake",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-140-298",
+      "card_code": "OGN-140",
+      "count": 3,
+      "name": "Herald of Scales",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-104-219",
+      "card_code": "UNL-104",
+      "count": 3,
+      "name": "Gentle Gemdragon",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-001-298",
+      "card_code": "OGN-001",
+      "count": 3,
+      "name": "Blazing Scorcher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-038-298",
+      "card_code": "OGN-038",
+      "count": 3,
+      "name": "Kadregrin the Infernal",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-094-221",
+      "card_code": "SFD-094",
+      "count": 3,
+      "name": "Direwing",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-184-219",
+      "card_code": "UNL-184",
+      "count": 3,
+      "name": "Thrill of the Hunt",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-111-221",
+      "card_code": "SFD-111",
+      "count": 2,
+      "name": "Here to Help",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "card_code": "OGN-128",
+      "count": 3,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-097-221",
+      "card_code": "SFD-097",
+      "count": 1,
+      "name": "Punch First",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-106-221",
+      "card_code": "SFD-106",
+      "count": 3,
+      "name": "Show of Strength",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-022-221",
+      "card_code": "SFD-022",
+      "count": 2,
+      "name": "Long Sword",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-011-298",
+      "card_code": "OGN-011",
+      "count": 1,
+      "name": "Magma Wurm",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-276-298",
+      "card_code": "OGN-276",
+      "count": 1,
+      "name": "Aspirant's Climb",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-218-221",
+      "card_code": "SFD-218",
+      "count": 1,
+      "name": "Sunken Temple",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-219-221",
+      "card_code": "SFD-219",
+      "count": 1,
+      "name": "The Papertree",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "card_code": "OGN-126",
+      "count": 6,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007-298",
+      "card_code": "OGN-007",
+      "count": 6,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks Export TXT",
+    "source_url": "https://riftdecks.com/decks/export/129ec2bb-845f-4248-aa69-bedc25f5c75c/txt",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Imported from RiftDecks Export TXT as primary meta deck source."
+  },
+  "secondary_sources": [
+    {
+      "source_type": "trusted_secondary",
+      "source_name": "RiftDecks deck page",
+      "source_url": "https://riftdecks.com/riftbound-metagame/deck-wu-long-wu-shi-110947",
+      "source_date": null,
+      "retrieved_at": "2026-04-26",
+      "trust_tier": "trusted_secondary"
+    }
+  ],
+  "notes": "Best-of-legend import for City League: Beijing - Finals."
+}

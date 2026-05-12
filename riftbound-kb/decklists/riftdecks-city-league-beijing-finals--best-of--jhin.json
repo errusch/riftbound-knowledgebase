@@ -1,0 +1,170 @@
+{
+  "decklist_id": "riftdecks-city-league-beijing-finals--best-of--jhin",
+  "event_id": "riftdecks-city-league-beijing-finals",
+  "player": "kiSuki",
+  "legend": "Jhin, Virtuoso",
+  "placement": "32",
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "unl-181-219",
+      "card_code": "UNL-181",
+      "count": 1,
+      "name": "Virtuoso",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-022-219",
+      "card_code": "UNL-022",
+      "count": 1,
+      "name": "Jhin, Murderous Artist",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-022-219",
+      "card_code": "UNL-022",
+      "count": 2,
+      "name": "Jhin, Murderous Artist",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-023-219",
+      "card_code": "UNL-023",
+      "count": 3,
+      "name": "Katarina, Reckless",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-024-219",
+      "card_code": "UNL-024",
+      "count": 3,
+      "name": "Rengar, Unseen",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-028-219",
+      "card_code": "UNL-028",
+      "count": 3,
+      "name": "Pyke, Dockside Butcher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-026-219",
+      "card_code": "UNL-026",
+      "count": 1,
+      "name": "Xerath, Freed",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-030-219",
+      "card_code": "UNL-030",
+      "count": 3,
+      "name": "Vi, Hotheaded",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-079-219",
+      "card_code": "UNL-079",
+      "count": 3,
+      "name": "Diana, Lunari",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-090-219",
+      "card_code": "UNL-090",
+      "count": 3,
+      "name": "LeBlanc, Everywhere at Once",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-025-221",
+      "card_code": "SFD-025",
+      "count": 3,
+      "name": "Rengar, Pouncing",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-029-221",
+      "card_code": "SFD-029",
+      "count": 3,
+      "name": "Rek'Sai, Breacher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-228-221",
+      "card_code": "SFD-228",
+      "count": 3,
+      "name": "Bard, Mercurial",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-082-221",
+      "card_code": "SFD-082",
+      "count": 3,
+      "name": "Ezreal, Dashing",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-084-221",
+      "card_code": "SFD-084",
+      "count": 3,
+      "name": "Jayce, Man of Progress",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-085-221",
+      "card_code": "SFD-085",
+      "count": 3,
+      "name": "Ornn, Forge God",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-205-219",
+      "card_code": "UNL-205",
+      "count": 1,
+      "name": "Abandoned Hall",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "unl-206-219",
+      "card_code": "UNL-206",
+      "count": 1,
+      "name": "Altar of Blood",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "unl-207-219",
+      "card_code": "UNL-207",
+      "count": 1,
+      "name": "Amateur Recital",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-007-298",
+      "card_code": "OGN-007",
+      "count": 12,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks Export TXT",
+    "source_url": "https://riftdecks.com/decks/export/bfc4d670-e08c-4bbe-88a1-da81feedee8b/txt",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Imported from RiftDecks Export TXT as primary meta deck source."
+  },
+  "secondary_sources": [
+    {
+      "source_type": "trusted_secondary",
+      "source_name": "RiftDecks deck page",
+      "source_url": "https://riftdecks.com/riftbound-metagame/deck-1-110961",
+      "source_date": null,
+      "retrieved_at": "2026-04-26",
+      "trust_tier": "trusted_secondary"
+    }
+  ],
+  "notes": "Best-of-legend import for City League: Beijing - Finals."
+}

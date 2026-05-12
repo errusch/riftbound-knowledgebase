@@ -1,0 +1,191 @@
+{
+  "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--darius",
+  "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings",
+  "player": "Grаnt W",
+  "legend": "Darius, Hand of Noxus",
+  "placement": "62",
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "ogn-253-298",
+      "card_code": "OGN-253",
+      "count": 1,
+      "name": "Hand of Noxus",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-027-298",
+      "card_code": "OGN-027",
+      "count": 1,
+      "name": "Darius, Trifarian",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-242-298",
+      "card_code": "OGN-242",
+      "count": 3,
+      "name": "Baited Hook",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-148-221",
+      "card_code": "SFD-148",
+      "count": 3,
+      "name": "Draven, Audacious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-021-221",
+      "card_code": "SFD-021",
+      "count": 1,
+      "name": "Ferrous Forerunner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-165-221",
+      "card_code": "SFD-165",
+      "count": 1,
+      "name": "Glasc Mixologist",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-155-221",
+      "card_code": "SFD-155",
+      "count": 3,
+      "name": "Honest Broker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-012-298",
+      "card_code": "OGN-012",
+      "count": 3,
+      "name": "Noxus Hopeful",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-245-298",
+      "card_code": "OGN-245",
+      "count": 3,
+      "name": "Seal of Unity",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-226-298",
+      "card_code": "OGN-226",
+      "count": 3,
+      "name": "Spectral Matron",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-217-298",
+      "card_code": "OGN-217",
+      "count": 3,
+      "name": "Trifarian Gloryseeker",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-159-221",
+      "card_code": "SFD-159",
+      "count": 2,
+      "name": "Trusty Ramhound",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-218-298",
+      "card_code": "OGN-218",
+      "count": 3,
+      "name": "Vanguard Captain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-176-221",
+      "card_code": "SFD-176",
+      "count": 3,
+      "name": "Xin Zhao, Vigilant",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-163-221",
+      "card_code": "SFD-163",
+      "count": 1,
+      "name": "Deathgrip",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-233-298",
+      "card_code": "OGN-233",
+      "count": 1,
+      "name": "Grand Strategem",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "card_code": "OGN-213",
+      "count": 3,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-166-221",
+      "card_code": "SFD-166",
+      "count": 3,
+      "name": "Rally the Troops",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-282-298",
+      "card_code": "OGN-282",
+      "count": 1,
+      "name": "Monastery of Hirana",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-217-221",
+      "card_code": "SFD-217",
+      "count": 1,
+      "name": "Seat of Power",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-294-298",
+      "card_code": "OGN-294",
+      "count": 1,
+      "name": "Trifarian War Camp",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-007-298",
+      "card_code": "OGN-007",
+      "count": 4,
+      "name": "Fury Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "card_code": "OGN-214",
+      "count": 8,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks Export TXT",
+    "source_url": "https://riftdecks.com/decks/export/0f8ae1b7-c9a0-4ef0-9345-e8eefa48c123/txt",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Imported from RiftDecks Export TXT as primary meta deck source."
+  },
+  "secondary_sources": [
+    {
+      "source_type": "trusted_secondary",
+      "source_name": "RiftDecks deck page",
+      "source_url": "https://riftdecks.com/riftbound-metagame/deck-darius-hand-of-noxus-122438",
+      "source_date": null,
+      "retrieved_at": "2026-04-26",
+      "trust_tier": "trusted_secondary"
+    }
+  ],
+  "notes": "Best-of-legend import for Riftbound Regional Qualifier: Atlanta - Day 1 Standings."
+}

@@ -1,0 +1,184 @@
+{
+  "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--fiora",
+  "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+  "player": "VVES",
+  "legend": "Fiora, Grand Duelist",
+  "placement": "44",
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "sfd-251-221",
+      "card_code": "SFD-251",
+      "count": 1,
+      "name": "Grand Duelist",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-232-298",
+      "card_code": "OGN-232",
+      "count": 1,
+      "name": "Fiora, Victorious",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-132-298",
+      "card_code": "OGN-132",
+      "count": 3,
+      "name": "First Mate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-136-298",
+      "card_code": "OGN-136",
+      "count": 3,
+      "name": "Pit Rookie",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-161-221",
+      "card_code": "SFD-161",
+      "count": 3,
+      "name": "B.F. Sword",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-167-221",
+      "card_code": "SFD-167",
+      "count": 3,
+      "name": "Unsung Hero",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-226-298",
+      "card_code": "OGN-226",
+      "count": 2,
+      "name": "Spectral Matron",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-095-221",
+      "card_code": "SFD-095",
+      "count": 2,
+      "name": "Doran's Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-237-star-221",
+      "card_code": "SFD-237",
+      "count": 3,
+      "name": "Karma, Channeler",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-164-298",
+      "card_code": "OGN-164",
+      "count": 3,
+      "name": "Sett, Brawler",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "card_code": "OGN-128",
+      "count": 3,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-097-221",
+      "card_code": "SFD-097",
+      "count": 3,
+      "name": "Punch First",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-206-221",
+      "card_code": "SFD-206",
+      "count": 3,
+      "name": "Riposte",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "card_code": "OGN-156",
+      "count": 2,
+      "name": "Sabotage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-207-298",
+      "card_code": "OGN-207",
+      "count": 2,
+      "name": "Call to Glory",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "card_code": "OGN-213",
+      "count": 2,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-163-221",
+      "card_code": "SFD-163",
+      "count": 2,
+      "name": "Deathgrip",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-282-298",
+      "card_code": "OGN-282",
+      "count": 1,
+      "name": "Monastery of Hirana",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-294-298",
+      "card_code": "OGN-294",
+      "count": 1,
+      "name": "Trifarian War Camp",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-218-221",
+      "card_code": "SFD-218",
+      "count": 1,
+      "name": "Sunken Temple",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "card_code": "OGN-126",
+      "count": 6,
+      "name": "Body Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-214-298",
+      "card_code": "OGN-214",
+      "count": 6,
+      "name": "Order Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks Export TXT",
+    "source_url": "https://riftdecks.com/decks/export/2a1c2c8a-9b2f-4f20-9eed-5f57628af9d7/txt",
+    "source_date": null,
+    "retrieved_at": "2026-04-28",
+    "trust_tier": "trusted_secondary",
+    "notes": "Imported from RiftDecks Export TXT as primary meta deck source."
+  },
+  "secondary_sources": [
+    {
+      "source_type": "trusted_secondary",
+      "source_name": "RiftDecks deck page",
+      "source_url": "https://riftdecks.com/riftbound-metagame/deck-fiora-grand-duelist-122311",
+      "source_date": null,
+      "retrieved_at": "2026-04-28",
+      "trust_tier": "trusted_secondary"
+    }
+  ],
+  "notes": "Best-of-legend import for Riftbound Regional Qualifier: Atlanta - Final Standings."
+}

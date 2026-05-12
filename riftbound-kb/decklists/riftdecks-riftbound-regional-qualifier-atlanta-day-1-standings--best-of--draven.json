@@ -1,0 +1,184 @@
+{
+  "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--draven",
+  "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings",
+  "player": "Nаthаn L",
+  "legend": "Draven, Glorious Executioner",
+  "placement": "2",
+  "is_best_of_legend": true,
+  "cards": [
+    {
+      "card_id": "sfd-242-221",
+      "card_code": "SFD-242",
+      "count": 1,
+      "name": "Glorious Executioner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-028-298",
+      "card_code": "OGN-028",
+      "count": 1,
+      "name": "Draven, Showboat",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-039-298",
+      "card_code": "OGN-039",
+      "count": 3,
+      "name": "Kai'Sa, Survivor",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-012-298",
+      "card_code": "OGN-012",
+      "count": 3,
+      "name": "Noxus Hopeful",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-243-298",
+      "card_code": "OGN-243",
+      "count": 3,
+      "name": "Darius, Executioner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-021-221",
+      "card_code": "SFD-021",
+      "count": 3,
+      "name": "Ferrous Forerunner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-128-221",
+      "card_code": "SFD-128",
+      "count": 3,
+      "name": "Overzealous Fan",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-220-219",
+      "card_code": "UNL-220",
+      "count": 3,
+      "name": "Pouty Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-186-221",
+      "card_code": "SFD-186",
+      "count": 3,
+      "name": "Spinning Axe",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-029-221",
+      "card_code": "SFD-029",
+      "count": 3,
+      "name": "Rek'Sai, Breacher",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-199-298",
+      "card_code": "OGN-199",
+      "count": 3,
+      "name": "Tideturner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-029-298",
+      "card_code": "OGN-029",
+      "count": 2,
+      "name": "Falling Star",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-004-298",
+      "card_code": "OGN-004",
+      "count": 2,
+      "name": "Cleave",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-136-221",
+      "card_code": "SFD-136",
+      "count": 1,
+      "name": "Hard Bargain",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-183-298",
+      "card_code": "OGN-183",
+      "count": 3,
+      "name": "Stacked Deck",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-172-298",
+      "card_code": "OGN-172",
+      "count": 3,
+      "name": "Rebuke",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-173-298",
+      "card_code": "OGN-173",
+      "count": 1,
+      "name": "Ride the Wind",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-298-298",
+      "card_code": "OGN-298",
+      "count": 1,
+      "name": "Zaun Warrens",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-290-298",
+      "card_code": "OGN-290",
+      "count": 1,
+      "name": "The Arena's Greatest",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "sfd-220-221",
+      "card_code": "SFD-220",
+      "count": 1,
+      "name": "Treasure Hoard",
+      "section": "battlefields"
+    },
+    {
+      "card_id": "ogn-166-298",
+      "card_code": "OGN-166",
+      "count": 6,
+      "name": "Chaos Rune",
+      "section": "runes"
+    },
+    {
+      "card_id": "ogn-007-298",
+      "card_code": "OGN-007",
+      "count": 6,
+      "name": "Fury Rune",
+      "section": "runes"
+    }
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks Export TXT",
+    "source_url": "https://riftdecks.com/decks/export/1a8985b2-9ccc-4af5-a8d6-550f08643794/txt",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Imported from RiftDecks Export TXT as primary meta deck source."
+  },
+  "secondary_sources": [
+    {
+      "source_type": "trusted_secondary",
+      "source_name": "RiftDecks deck page",
+      "source_url": "https://riftdecks.com/riftbound-metagame/deck-draven-glorious-executioner-122346",
+      "source_date": null,
+      "retrieved_at": "2026-04-26",
+      "trust_tier": "trusted_secondary"
+    }
+  ],
+  "notes": "Best-of-legend import for Riftbound Regional Qualifier: Atlanta - Day 1 Standings."
+}
