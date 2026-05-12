@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "generated_at": "2026-04-28",
+  "purpose": "Canonical terminology guardrail for Riftbound expert answers.",
+  "domains": [
+    "Body",
+    "Calm",
+    "Chaos",
+    "Colorless",
+    "Fury",
+    "Mind",
+    "Order"
+  ],
+  "stats_and_costs": {
+    "energy": "Energy cost to play a card.",
+    "power": "Rune/domain cost requirement, not combat damage.",
+    "might": "Unit combat stat; use this for combat strength/damage/survivability language."
+  },
+  "forbidden_terms": [
+    {
+      "term": "Grace",
+      "reason": "Not a canonical Riftbound domain. Use Body, Calm, Chaos, Colorless, Fury, Mind, or Order."
+    },
+    {
+      "term": "regions",
+      "reason": "Legends of Runeterra terminology. Riftbound uses domains."
+    },
+    {
+      "term": "spell mana",
+      "reason": "Legends of Runeterra terminology, not Riftbound."
+    },
+    {
+      "term": "Nexus",
+      "reason": "Legends of Runeterra terminology unless explicitly discussing a non-game proper noun."
+    }
+  ],
+  "canonical_event_lookup_rule": "For event answers, open root pipeline event records such as events/rq-lille-2026.json first when available, then compare events/canonical/ only as a normalized secondary copy.",
+  "canonical_source_rule": "Never answer from archived or legacy roots unless the user explicitly asks for historical/archived material."
+}

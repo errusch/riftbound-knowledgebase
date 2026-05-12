@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "purpose": "Transparent first-pass rules for recent post-ban archetype labeling. Labels are separate meta evidence and are not written onto decklist JSON.",
+  "post_ban_window": {
+    "format": "Standard Constructed",
+    "source": "canon/legality/bans-and-suspensions.json",
+    "fallback_effective_date": "2026-03-31"
+  },
+  "thresholds": {
+    "high_confidence_min_score": 8,
+    "provisional_min_score": 4,
+    "ambiguous_delta": 2,
+    "min_signature_cards_for_named_package": 2
+  },
+  "generic_labels": {
+    "Azir": "Azir Midrange",
+    "Draven": "Draven Midrange",
+    "Irelia": "Irelia Tempo",
+    "Kai'Sa": "Kai'Sa Midrange",
+    "Master Yi": "Master Yi Tempo",
+    "Annie": "Annie Chaos Midrange",
+    "Ahri": "Ahri Tempo",
+    "Darius": "Darius Rally Midrange",
+    "Ezreal": "Ezreal Spell Tempo",
+    "Fiora": "Fiora Challenger Midrange",
+    "Garen": "Garen Value Midrange",
+    "Jax": "Jax Equipment Midrange",
+    "Jinx": "Jinx Chaos Tempo",
+    "Lee Sin": "Lee Sin Tempo",
+    "Leona": "Leona Order Midrange",
+    "Lucian": "Lucian Challenger Aggro",
+    "Lux": "Lux Control",
+    "Miss Fortune": "Miss Fortune Midrange",
+    "Ornn": "Ornn Poro Midrange",
+    "Rek'Sai": "Rek'Sai Void Midrange",
+    "Renata Glasc": "Renata Control",
+    "Rumble": "Rumble Mech Midrange",
+    "Sett": "Sett Challenger Midrange",
+    "Sivir": "Sivir Challenger Aggro",
+    "Teemo": "Teemo Hidden Control",
+    "Viktor": "Viktor Control",
+    "Volibear": "Volibear Ramp Midrange",
+    "Yasuo": "Yasuo Tempo"
+  },
+  "signature_packages": [
+    {
+      "archetype": "Azir Order Midrange",
+      "legend": "Azir",
+      "signature_cards": [
+        "Arise!",
+        "Desert's Call",
+        "Eye of the Herald",
+        "Guards!",
+        "Hidden Blade",
+        "Sacred Shears"
+      ]
+    },
+    {
+      "archetype": "Draven Chaos Midrange",
+      "legend": "Draven",
+      "signature_cards": [
+        "Darius, Trifarian",
+        "Overzealous Fan",
+        "Pouty Poro",
+        "Spinning Axe",
+        "Stacked Deck",
+        "Tideturner"
+      ]
+    },
+    {
+      "archetype": "Irelia Tempo",
+      "legend": "Irelia",
+      "signature_cards": [
+        "Defiant Dance",
+        "Discipline",
+        "Ride the Wind",
+        "Stellacorn Herder",
+        "Tideturner"
+      ]
+    },
+    {
+      "archetype": "Master Yi Tempo",
+      "legend": "Master Yi",
+      "signature_cards": [
+        "Discipline",
+        "Defy",
+        "En Garde",
+        "Ride the Wind"
+      ]
+    },
+    {
+      "archetype": "Annie Chaos Midrange",
+      "legend": "Annie",
+      "signature_cards": [
+        "Ferrous Forerunner",
+        "Flash",
+        "Kai'Sa, Survivor",
+        "Noxus Hopeful",
+        "Pouty Poro",
+        "Rek'Sai, Breacher"
+      ]
+    },
+    {
+      "archetype": "Kai'Sa Midrange",
+      "legend": "Kai'Sa",
+      "signature_cards": [
+        "Kai'Sa, Survivor",
+        "Void Seeker",
+        "Icathian Rain",
+        "Void Rush"
+      ]
+    },
+    {
+      "archetype": "Ahri Tempo",
+      "legend": "Ahri",
+      "signature_cards": [
+        "Desert's Call",
+        "Discipline",
+        "Eager Apprentice",
+        "Feral Strength",
+        "Ravenbloom Student",
+        "Sona, Harmonious"
+      ]
+    },
+    {
+      "archetype": "Darius Rally Midrange",
+      "legend": "Darius",
+      "signature_cards": [
+        "Baited Hook",
+        "Draven, Showboat",
+        "Hidden Blade",
+        "Honest Broker",
+        "Noxus Hopeful",
+        "Rally the Troops"
+      ]
+    },
+    {
+      "archetype": "Ezreal Spell Tempo",
+      "legend": "Ezreal",
+      "signature_cards": [
+        "Bellows Breath",
+        "Gust",
+        "Plundering Poro",
+        "Ravenbloom Student",
+        "Stacked Deck",
+        "Stupefy"
+      ]
+    },
+    {
+      "archetype": "Fiora Challenger Midrange",
+      "legend": "Fiora",
+      "signature_cards": [
+        "B.F. Sword",
+        "Challenge",
+        "Fiora, Victorious",
+        "First Mate",
+        "Lucian, Merciless",
+        "Pit Rookie"
+      ]
+    },
+    {
+      "archetype": "Garen Value Midrange",
+      "legend": "Garen",
+      "signature_cards": [
+        "Blood Money",
+        "Catalyst of Aeons",
+        "Confront",
+        "Dazzling Aurora",
+        "Deadbloom Predator",
+        "Forge of the Future"
+      ]
+    },
+    {
+      "archetype": "Jax Equipment Midrange",
+      "legend": "Jax",
+      "signature_cards": [
+        "Boneshiver",
+        "Brutalizer",
+        "Counter Strike",
+        "Discipline",
+        "First Mate",
+        "Guardian Angel"
+      ]
+    },
+    {
+      "archetype": "Jinx Chaos Tempo",
+      "legend": "Jinx",
+      "signature_cards": [
+        "Darius, Trifarian",
+        "Gust",
+        "Kai'Sa, Survivor",
+        "Noxus Hopeful",
+        "Ride the Wind",
+        "Stacked Deck"
+      ]
+    },
+    {
+      "archetype": "Lee Sin Tempo",
+      "legend": "Lee Sin",
+      "signature_cards": [
+        "Challenge",
+        "Charm",
+        "Defy",
+        "Discipline",
+        "First Mate",
+        "Guardian Angel"
+      ]
+    },
+    {
+      "archetype": "Leona Order Midrange",
+      "legend": "Leona",
+      "signature_cards": [
+        "B.F. Sword",
+        "Discipline",
+        "Emperor's Divide",
+        "Fiora, Victorious",
+        "Honest Broker",
+        "Lonely Poro"
+      ]
+    },
+    {
+      "archetype": "Lucian Challenger Aggro",
+      "legend": "Lucian",
+      "signature_cards": [
+        "Challenge",
+        "Doran's Blade",
+        "First Mate",
+        "Gem Jammer",
+        "Kai'Sa, Survivor",
+        "Pouty Poro"
+      ]
+    },
+    {
+      "archetype": "Lux Control",
+      "legend": "Lux",
+      "signature_cards": [
+        "Bellows Breath",
+        "Card Sharp",
+        "Cull the Weak",
+        "Drag Under",
+        "Falling Comet",
+        "Imperial Decree"
+      ]
+    },
+    {
+      "archetype": "Miss Fortune Midrange",
+      "legend": "Miss Fortune",
+      "signature_cards": [
+        "Catalyst of Aeons",
+        "Challenge",
+        "Dazzling Aurora",
+        "Mindsplitter",
+        "Mobilize",
+        "Stacked Deck"
+      ]
+    },
+    {
+      "archetype": "Ornn Poro Midrange",
+      "legend": "Ornn",
+      "signature_cards": [
+        "Clockwork Keeper",
+        "Guardian Angel",
+        "Lonely Poro",
+        "Pit Crew",
+        "Poro Snax",
+        "Seal of Focus"
+      ]
+    },
+    {
+      "archetype": "Rek'Sai Void Midrange",
+      "legend": "Rek'Sai",
+      "signature_cards": [
+        "Blood Rush",
+        "Cull the Weak",
+        "Daring Poro",
+        "Faithful Manufactor",
+        "Honest Broker",
+        "Noxus Hopeful"
+      ]
+    },
+    {
+      "archetype": "Renata Control",
+      "legend": "Renata Glasc",
+      "signature_cards": [
+        "Card Sharp",
+        "Cull the Weak",
+        "Hidden Blade",
+        "Honest Broker",
+        "Hostile Takeover",
+        "Jayce, Man of Progress"
+      ]
+    },
+    {
+      "archetype": "Rumble Mech Midrange",
+      "legend": "Rumble",
+      "signature_cards": [
+        "Rumble, Hotheaded",
+        "Breakneck Mech",
+        "Bubble Bot",
+        "Ferrous Forerunner",
+        "Forecaster",
+        "Gem Jammer"
+      ]
+    },
+    {
+      "archetype": "Sett Challenger Midrange",
+      "legend": "Sett",
+      "signature_cards": [
+        "Challenge",
+        "Fiora, Victorious",
+        "First Mate",
+        "Honest Broker",
+        "Lucian, Merciless",
+        "Pit Rookie"
+      ]
+    },
+    {
+      "archetype": "Sivir Challenger Aggro",
+      "legend": "Sivir",
+      "signature_cards": [
+        "Sivir, Mercenary",
+        "Boots of Swiftness",
+        "Challenge",
+        "Lucian, Merciless",
+        "Overzealous Fan",
+        "Punch First"
+      ]
+    },
+    {
+      "archetype": "Teemo Hidden Control",
+      "legend": "Teemo",
+      "signature_cards": [
+        "Consult the Past",
+        "Ember Monk",
+        "Nocturne, Horrifying",
+        "Sprite Call",
+        "Stacked Deck",
+        "Switcheroo"
+      ]
+    },
+    {
+      "archetype": "Viktor Control",
+      "legend": "Viktor",
+      "signature_cards": [
+        "Bellows Breath",
+        "Cull the Weak",
+        "Hidden Blade",
+        "Imperial Decree",
+        "Jayce, Man of Progress",
+        "Vanguard Armory"
+      ]
+    },
+    {
+      "archetype": "Volibear Ramp Midrange",
+      "legend": "Volibear",
+      "signature_cards": [
+        "Blazing Scorcher",
+        "Confront",
+        "Dazzling Aurora",
+        "Deadbloom Predator",
+        "Kadregrin the Infernal",
+        "Mobilize"
+      ]
+    },
+    {
+      "archetype": "Yasuo Tempo",
+      "legend": "Yasuo",
+      "signature_cards": [
+        "Defy",
+        "Discipline",
+        "En Garde",
+        "Lonely Poro",
+        "Ride the Wind",
+        "Stellacorn Herder"
+      ]
+    }
+  ]
+}

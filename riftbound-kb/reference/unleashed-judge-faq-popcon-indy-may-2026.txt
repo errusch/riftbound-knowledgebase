@@ -1,0 +1,489 @@
+﻿Questions answered by Riot
+Riftbound Unleashed Questions
+(Unresolved items post-FAQ)
+(Answers from Riot)
+Authored by: Steven D. (doowan), Tyler H. (legitvocals), Natalie P. (unosarta)
+Special thanks to contributors: Samuel S. (samthehuman), Ben W. (1vader), Fox G. (foxlgv), Christian I. (_near), Gerry M. (grenton)
+Originally written for PopCon Indy 2026 [5/9/26 - 5/10/26]
+Core Rules (3/30/26)
+Tournament Rules (4/29/26)
+Unleashed FAQ and Clarification by Riot (4/9/26)
+The goal of this document is for judges to be aligned on rulings that are likely to happen in competitions during the first month of Unleashed. The primary focus is on questions that either cannot be clearly answered from rules as written, or appear to not follow rules as intended.
+
+
+For that reason, answers written here are UNOFFICIAL and will be kept simple. Judges that come across this document for their own purpose are free to interpret answers in their own way. If there are any further questions, please reach out to the people above.
+
+
+EDIT [5/5/26]: Riot has given a response to each “Answer” below. Judges may continue to interpret answers their own way and can opt to use these for their own rulings before the next CRD update.
+
+
+EDIT [5/6/26]: The answer to the Azir/Reflection question has been updated by Riot.
+
+
+The “Rules for Context” under each question is a reference to the rules section that may either contradict or are unclear. Unless otherwise stated, you can assume all rule sections reference the Core Rules (CR).
+
+
+
+
+
+
+
+
+
+
+Relevant Cards
+	Question
+	Answer
+	  
+
+  
+
+	Q: I have a <<Guardian Angel>> attached to a unit that now has 3[M]. It is attacking an enemy <<Nidalee Cat Form>>. Proceeding to the combat damage step, my 3[M] unit receives lethal damage and <<Nidalee Cat Form>> survives. In the combat cleanup, my unit dies but its death is replaced by <<Guardian Angel>> and recalls to base. Does my enemy draw 1?
+
+
+Rules for Context - 461.3.d., FAQ “Results of Combat”
+	A: Yes. Nidalee has won combat.
+
+
+The intent of the rule in the FAQ is that there will be “no result” if units are recalled during step 3d of the combat cleanup.
+	  
+
+	Q: From the above scenario, I also have a <<Symbol of the Solari>> in play. Does my enemy <<Nidalee Cat Form>> also get recalled?
+
+
+Rules for Context - 461.3.d., FAQ “Results of Combat”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	A: No.
+	  
+
+  
+
+	Q: My enemy has a <<Mageseeker Warden>> on a battlefield. I attempt to play <<Baron Nashor>>. Assuming a Baron Pit doesn't exist yet, is <<Baron Nashor>> legal to play? If so, where does <<Baron Nashor>> go?
+
+
+Rules for Context - Card text of “As you play me” not defined
+	A: It is legal. Baron’s effect is a replacement effect. It replaces the event of him entering to the location he was played to, with him entering the Baron Pit.
+	  
+
+  
+
+	Q: I have an <<Alpha Wildclaw>> and an 8[M] unit on a battlefield. My enemy attacks and during the showdown, my enemy plays a kill spell and targets my 8[M] unit. I react with <<Discipline>> and target my <<Alpha Wildclaw>>. After all spells resolve, does my 8[M] unit still die?
+
+
+Rules for Context - 359.3.e.2., 359.3.e.9.
+	A: No, the unit will not die.
+
+
+The spell will resolve, but any instructions related to the unit will be ignored because it has mistargeted.
+	  
+
+  
+
+	Q: I use <<Sacrifice>> to kill a Mighty unit as an additional cost. Can I trigger <<Immortal Phoenix>> from my Trash?
+
+
+Rules for Context - 135.2.b.2., 135.2.b.3., 428.1.a.1., 428.5.e.
+	A: Yes.
+	  
+
+  
+
+	Q: My <<Diana Lunari>> is on a battlefield. My enemy moves a <<Vex Cheerless>> to the battlefield. I then trigger <<Diana Lunari>> and finalize it to the chain. I then want to play another Reaction spell on top of it. Do I have to pay the [1] 1[A] increase to play the spell?
+
+
+Rules for Context - FAQ “How does HOT FEPR actually work?”, 322.1., 459.2.
+	A: Yes.
+	  
+
+  
+
+	Q: My enemy moves a <<Kha’zix Evolving Hunter>> to attack my <<Diana Lunari>>. A <<Tactical Retreat>> is at the top of my deck. Is it possible to draw and play the <<Tactical Retreat>> before Kha'Zix's ability can kill my Diana?
+
+
+Rules for Context - FAQ “How does HOT FEPR actually work?”, 322.1., 459.2.
+
+
+	A: No.
+
+
+Diana’s triggered ability goes on the same chain as Kha’Zix’s attack trigger, but it triggers before any triggered abilities that occur as a result of units gaining the attacker or defender designation.
+	  
+
+  
+
+	Q: I have the following units in play: 3 Birds, 2 Poros, and 1 Cat. How much Might would <<Friendship>> give? Similarly, how much energy is discounted to play <<Daisy>>?
+
+
+Rules for Context - Card text of “each of the following tags among your units”
+	A: +[3]M for Friendship; [3] discount for Daisy. 
+	  
+
+  
+
+	Q1: I play <<Call to Battle>> and target the battlefield I control and my unit that is already at the battlefield. Is this a legal play?
+
+
+Q2: Can I use <<Flash>> on a unit that is in base?
+
+
+Rules for Context - 355.4., 355.4.a.
+	A1: No.
+
+
+
+
+
+
+
+
+A2: Yes.
+
+
+
+
+The difference between these is that Flash doesn’t choose a destination and thus isn’t required to choose a valid destination per 355.4. and 355.4.a., for the same reason that Azir, Ascendant can choose a unit at the same location as him. The move action will be ignored, but the target is legal.
+	  
+
+	Q: I attack a battlefield with only a (Poro) unit. In the showdown, my enemy plays a spell that will kill my (Poro) unit. I react by playing <<Stalking Wolf>> with Ambush and choose to kill my (Poro) as its cost. Is this a legal play?
+
+
+Rules for Context - Reminder text, 822.3.
+	A: It is NOT a legal play to the battlefield you are attacking.
+
+
+However, it is a legal play as long as Stalking Wolf is played to a different battlefield than the one where the Poro is located.
+
+
+(Stalking Wolf is being looked at to receive updated wording in the future.)
+	  
+
+	Q: I play <<Alpha Strike>> and choose my 3[M] unit and target 3 enemy 1[M] Recruits. Enemy reacts with <<Stupefy>> (targeting my 3[M] unit) and <<En Garde>> (targeting one of their 1[M] Recruits). After all spells resolve, am I able to only kill the Recruit that is now 2[M]?
+
+
+Rules for Context - 355.14.h., 055.
+	A: No.
+
+
+When choosing targets to cease being targets per 355.14.h., players cannot choose to remove any number of targets—only a number of targets such that there are targets equal to the damage being split. The spirit of that rule is Do As Much As You Can. 
+
+
+It can help to consider the alternate version of this scenario: if Stupify were not played, and En Garde was the only spell played here, you would not be able to kill the unit with 2[M].
+	  
+
+  
+
+	Q: I play a spell and my enemy reacts with <<Lilting Lullaby>>, targeting my spell. I then react with <<Abandon>> and target my own spell. After all spells have resolved, am I still able to continue playing spells?
+
+
+Rules for Context - 425.1.a.
+	A: Yes.
+
+Lilting Lullaby will mistarget, and any instructions related to the spell that was Abandoned will be ignored. The “Its controller can’t play spells this turn” linked instruction of Lilting Lullaby will not execute if the “Counter a spell” instruction is ignored for any reason per 359.3.e.14.a.
+	  
+
+	Q: After I make my choice to discard a card through <<Insightful Investigator>>, does my opponent still reveal the new card that they drew?
+
+
+Rules for Context - 424.3.
+
+
+	A: No.
+
+
+The reveal game action applies a temporary modification to a set of specified cards. Revealing the hand reveals the cards in the hand, but the zone retains an information status of private. Any subsequent additions to that zone are private unless specified otherwise.
+
+
+
+
+	  
+
+  
+
+	Q: I have a Reflection token that has copied <<Atakhan>>. I play another (real) <<Atakhan>> from my hand and kill the Reflection token as an additional cost. Can I play <<Atakhan>> for free?
+
+
+Rules for Context - 131.4., 359.3.e.13.
+	A: Yes. Because its cost will be reduced by [10][Y][Y][Y].
+	  
+
+  
+
+	Q: I have a Reflection token that has copied a unit. I attack with <<Azir Sovereign>>. Can I move the Reflection token?
+
+
+Rules for Context - 184.6., 472.1.b.1.
+	A: Per the current rules, no.
+
+
+EDIT [5/6/26]: Yes. This is ambiguous in the current rules, but we're erring on the side of the design intent in this case. Expect further clarity in a future rules update.
+
+
+(Expect to see changes to how the token supertype is copied in a future rules update.)
+	  
+
+  
+
+	Q1: Can I decide to not trigger <<Star Spring>> when I play a non-token unit there?
+
+
+Q2: Similarly, if I choose to trigger <<Valley of Idols>>, does the cost need to be paid on finalization or resolution?
+
+
+Rules for Context - “they may” vs. “you may”, 383.3.a., 383.3.b.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	A1: Yes.
+
+
+
+
+
+
+A2: Finalization.
+	  
+
+  
+
+	Q: I play <<Bone Skewer>> and target a battlefield I control. My enemy reveals their hand and I choose their <<Clockwork Keeper>>. When it is played, does my enemy get to draw 1 for free?
+
+
+Rules for Context - Card text of “ignoring any and all costs”, 356.4.f.1., 356.1.b.
+	A: Yes.
+	  
+
+  
+
+	Q: Is the recycle ability of <<Fizz Trickster>> and <<Kai’sa Evolutionary>> a delayed replacement effect or a delayed triggered ability?
+
+
+Rules for Context - 390.2., 390.3.
+	A: Delayed replacement effect.
+
+
+Specifically, Fizz and Kai’Sa’s delayed replacement effect is the equivalent of “if that spell would leave the chain for any reason, recycle it instead.”
+	  
+
+	Q: In <<Divine Judgment>>, the English text says that “Each player chooses 2 units, 2 gear, 2 runes, and 2 cards in their hands.” That means if they have 1 unit on their field, they are forced to choose their opponent’s unit to remain. Meanwhile, the Chinese text of the card says “Each player chooses their own …”. Which one is correct?
+
+
+Rules for Context - Card text discrepancy between languages
+	A: English.
+	  
+
+	Q1: I play <<Jayce Man of Progress>> and trigger its ability, targeting a friendly Gear. The ability successfully resolves and I kill it. Am I playing the [7] Gear while Jayce’s ability is resolving, or any time during my turn after Jayce’s ability resolves?
+
+
+Q2: If I am able to play the [7] Gear after Jayce’s ability resolves, am I able to play more than 1 [7] Gear from my hand?
+
+
+Rules for Context - Card text of “this turn” implies it lasts the entire turn
+	A1: Any time after Jayce’s ability resolves during the same turn.
+
+
+
+
+
+
+
+
+
+
+
+
+A2: No, only 1 gear can be played. The ability specifies “a gear.”
+
+
+	  
+
+  
+
+	Q: I am holding <<The Academy>> and as my first spell of the turn, I play <<Meditation>>. What is the maximum amount of cards I am able to draw?
+
+
+Rules for Context - 131.4., 356.1.b., 356.2.b., 820.1.
+	A: 3.
+
+
+If the additional cost is paid on finalization and the spell is repeated, you will draw 2 for the initial execution, and 1 for the repeated execution. “As an additional cost to play this, you may exhaust a friendly unit.” and “If you do, draw 2.” are linked instructions. “Otherwise, draw 1.” is not a linked instruction, as much as the “otherwise” might make it seem so. In the repeated execution of the spell, the additional cost instruction is not executed, so the only instruction that can execute is “Otherwise, draw 1.”
+
+
+You can also think about it from a plain English perspective: you did not pay the additional cost with the second execution of the spell, so you can’t draw 2. Since you didn’t, you can only draw 1.
+
+
+	  
+
+	Q: Similarly, if I am holding <<The Academy>> and I play <<Call to Glory>> as my first spell and only spend the buff as the additional cost, do I still need to pay [3] to repeat it?
+
+
+Rules for Context - 131.4., 356.1.b., 356.2.b., 820.1.
+	A: Yes.
+	  
+
+	Q: In a showdown, I play <<Facebreaker>> that targets my friendly unit and an enemy unit on the same battlefield. My enemy reacts with a spell that kills my friendly unit. After all spells have resolved, is the enemy unit stunned?
+
+
+Rules for Context - 359.3.e.2.
+	A: Yes.
+	  
+
+	Q: Does Lotus Trap affect combat damage assignment?
+
+
+Rules for Context - 460.2.c.1.
+	A: No.
+
+
+Assigning damage is based on the definition of lethal damage for that unit, but the dealing of that damage is a separate action as specified in 460.2.c.1. and 460.2.d. As written, 460.2.c.3. does not include replacement effects that only apply at the time of damage being dealt.
+	  
+
+  
+
+	Q: When I played <<The List>>, I named the “Poro” tag. If I activate <<Heimerdinger Inventor>> using <<The List>> ability, can I reduce a “Poro” unit’s might?
+
+
+Rules for Context - 395.
+	A: No.
+
+
+The List’s activated ability is a linked ability with the list’s passive ability that names a tag. Heimerdinger only copies the activated ability and not the linked passive ability. “The named tag,” in the copied ability will be undefined, and thus no legal target will be able to be chosen.
+
+
+	
+
+Resolved with current CRD
+This tab is for questions that were in “Unresolved”, but after further digging and discussion, they have become resolved.
+
+
+NOTE [5/5/26]: These are questions NOT answered by Riot. It is moreso answers that we felt confident are correct after further discussion and interpretation of the rules.
+
+
+Relevant Cards
+	Question
+	Resolved Answer
+	  
+
+	Q: There are 2 enemy units on a battlefield. One of the enemy units has (Deflect). I play <<Isolate>> and target the non-Deflect unit to move. Do I still have to pay the (Deflect) cost because the 2nd unit is (technically) also being chosen? (NOTE: The strict reading of <<Isolate>> does not fall under targeting restriction rules. The wording of the second sentence is not programmatically selecting)
+
+
+Relevant Ruling - 355.10.d.
+	A: No. Objects that have no choice that is ever possible (“an enemy unit alone”) is an exception to targeting.
+	  
+
+	Q: During a showdown, I play <<Back Off>> from my hand to (Stun) an enemy unit. My enemy reacts by countering the spell. Do I still draw 1?
+
+
+Relevant Ruling - 135.2.b.3., 425.1.a.
+	A: No. The entire instruction was never resolved. The “played” aspect for finalization is only applicable to units with passive abilities.
+	  
+
+	Q: I play a (Hidden) <<Smoke and Mirrors>>. For the first target, can I choose a friendly unit that is not on the battlefield the spell was hidden from?
+
+
+Relevant Ruling - 811.1.d.2. can be interpreted as “target by target”
+	A: No. 811.1.d.2. can be interpreted where targets that are deemed “impossible” can be assessed individually (in this case, only the second target can be selected outside of the battlefield).
+	  
+
+  
+
+	Q: My enemy has a <<Vex Apathetic>> at a battlefield. I play <<Azir Ascendant>> to my base. I activate <<Azir Ascendant>> ability and target another unit at the other battlefield. As the ability resolves, is that unit able to move to base (the “original location”)?
+
+
+Relevant Ruling - Card text “original location”, 055.
+	A: Yes. Should follow under “do as much as you can” (similarly to Tideturner + Vilemaw’s Lair interaction).

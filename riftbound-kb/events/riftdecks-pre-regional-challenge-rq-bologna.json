@@ -1,0 +1,90 @@
+{
+  "event_id": "riftdecks-pre-regional-challenge-rq-bologna",
+  "event_type": "other_official_event",
+  "event_name": "Pre-Regional Challenge - RQ Bologna",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Annie, Dark Child",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Irelia, Blade Dancer",
+    "Kai'Sa, Daughter of the Void",
+    "Master Yi, Wuju Bladesman",
+    "Viktor, Herald of the Arcane"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=2&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-pre-regional-challenge-rq-bologna--best-of--annie",
+      "player": "Mаtteo L",
+      "placement": "805",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-pre-regional-challenge-rq-bologna--best-of--draven",
+      "player": "Kаki",
+      "placement": "10",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "riftdecks-pre-regional-challenge-rq-bologna--best-of--ezreal",
+      "player": "TheMаnLаndRft",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-pre-regional-challenge-rq-bologna--best-of--irelia",
+      "player": "Szychu",
+      "placement": "33",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-pre-regional-challenge-rq-bologna--best-of--kaisa",
+      "player": "mаciekkаz",
+      "placement": "43",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-pre-regional-challenge-rq-bologna--best-of--master-yi",
+      "player": "Michаł G",
+      "placement": "358",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-pre-regional-challenge-rq-bologna--best-of--viktor",
+      "player": "tаmbo91",
+      "placement": "140",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

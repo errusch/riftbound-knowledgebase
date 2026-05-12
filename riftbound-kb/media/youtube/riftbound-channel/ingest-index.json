@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "channel": "https://www.youtube.com/@riftbound/streams",
+  "entries": [
+    {
+      "videoId": "czwtukHHRP0",
+      "title": "",
+      "url": "https://www.youtube.com/watch?v=czwtukHHRP0",
+      "fetchedAt": "2026-04-25T16:13:27.415Z",
+      "transcriptRelPath": null,
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/czwtukHHRP0.jsonl",
+      "status": "blocked",
+      "blockedReason": "yt_dlp_error",
+      "detail": "Command failed: yt-dlp --no-warnings --write-subs --write-auto-subs --sub-langs en.*,en,en_US --convert-subs vtt --skip-download -o /Users/eric/Playground/riftbound-kb/media/youtube/riftbound-channel/transcripts/raw/czwtukHHRP0/%(id)s https://www.youtube.com/watch?v=czwtukHHRP0\n/Users/eric/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github"
+    },
+    {
+      "videoId": "B8n8eB1NpNI",
+      "title": "",
+      "url": "https://www.youtube.com/watch?v=B8n8eB1NpNI",
+      "fetchedAt": "2026-04-25T16:13:30.482Z",
+      "transcriptRelPath": null,
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/B8n8eB1NpNI.jsonl",
+      "status": "blocked",
+      "blockedReason": "yt_dlp_error",
+      "detail": "Command failed: yt-dlp --no-warnings --write-subs --write-auto-subs --sub-langs en.*,en,en_US --convert-subs vtt --skip-download -o /Users/eric/Playground/riftbound-kb/media/youtube/riftbound-channel/transcripts/raw/B8n8eB1NpNI/%(id)s https://www.youtube.com/watch?v=B8n8eB1NpNI\n/Users/eric/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github"
+    },
+    {
+      "videoId": "Dz2D5owlMWw",
+      "title": "",
+      "url": "https://www.youtube.com/watch?v=Dz2D5owlMWw",
+      "fetchedAt": "2026-04-25T16:13:33.993Z",
+      "transcriptRelPath": null,
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/Dz2D5owlMWw.jsonl",
+      "status": "blocked",
+      "blockedReason": "yt_dlp_error",
+      "detail": "Command failed: yt-dlp --no-warnings --write-subs --write-auto-subs --sub-langs en.*,en,en_US --convert-subs vtt --skip-download -o /Users/eric/Playground/riftbound-kb/media/youtube/riftbound-channel/transcripts/raw/Dz2D5owlMWw/%(id)s https://www.youtube.com/watch?v=Dz2D5owlMWw\n/Users/eric/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github"
+    },
+    {
+      "videoId": "cvo8YTdadHg",
+      "title": "",
+      "url": "https://www.youtube.com/watch?v=cvo8YTdadHg",
+      "fetchedAt": "2026-04-25T16:13:39.212Z",
+      "transcriptRelPath": null,
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/cvo8YTdadHg.jsonl",
+      "status": "blocked",
+      "blockedReason": "no_captions"
+    },
+    {
+      "videoId": "5SjbiAte_-M",
+      "title": "Riftbound Regional Qualifier Lille - Day 2 (Rounds 9-13)",
+      "url": "https://www.youtube.com/watch?v=5SjbiAte_-M",
+      "fetchedAt": "2026-04-25T16:27:46.936Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/5SjbiAte_-M/5SjbiAte_-M.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/5SjbiAte_-M.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "e05tCRhVpvg",
+      "title": "Riftbound Regional Qualifier Lille - Day 2 (Top 8)",
+      "url": "https://www.youtube.com/watch?v=e05tCRhVpvg",
+      "fetchedAt": "2026-04-25T16:28:09.729Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/e05tCRhVpvg/e05tCRhVpvg.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/e05tCRhVpvg.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "YSva1Zafar8",
+      "title": "Riftbound Regional Qualifier Lille - Day 1 (Rounds 5-8)",
+      "url": "https://www.youtube.com/watch?v=YSva1Zafar8",
+      "fetchedAt": "2026-04-25T16:28:33.272Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/YSva1Zafar8/YSva1Zafar8.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/YSva1Zafar8.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "6NS0DgCHFlU",
+      "title": "Riftbound Regional Qualifier Lille - Day 1 (Rounds 1-4)",
+      "url": "https://www.youtube.com/watch?v=6NS0DgCHFlU",
+      "fetchedAt": "2026-04-25T16:28:58.514Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/6NS0DgCHFlU/6NS0DgCHFlU.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/6NS0DgCHFlU.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "AmuT57Yguw8",
+      "title": "Riftbound Regional Qualifier Vegas - Day 2 (Top 8)",
+      "url": "https://www.youtube.com/watch?v=AmuT57Yguw8",
+      "fetchedAt": "2026-04-25T16:29:23.361Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/AmuT57Yguw8/AmuT57Yguw8.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/AmuT57Yguw8.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "_TByVt2hBIE",
+      "title": "Riftbound Regional Qualifier Vegas - Day 2 (Rounds 9-13)",
+      "url": "https://www.youtube.com/watch?v=_TByVt2hBIE",
+      "fetchedAt": "2026-04-25T16:29:46.912Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/_TByVt2hBIE/_TByVt2hBIE.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/_TByVt2hBIE.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "9RH7J8KsFrQ",
+      "title": "Riftbound Regional Qualifier Vegas - Day 1 (Rounds 5-8)",
+      "url": "https://www.youtube.com/watch?v=9RH7J8KsFrQ",
+      "fetchedAt": "2026-04-25T16:30:10.156Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/9RH7J8KsFrQ/9RH7J8KsFrQ.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/9RH7J8KsFrQ.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "kA1vWR_PZAc",
+      "title": "Riftbound Regional Qualifier Vegas - Day 1 (Rounds 1-4)",
+      "url": "https://www.youtube.com/watch?v=kA1vWR_PZAc",
+      "fetchedAt": "2026-04-25T16:30:34.226Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/kA1vWR_PZAc/kA1vWR_PZAc.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/kA1vWR_PZAc.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "uKW-E6jPSpg",
+      "title": "Riftbound Regional Qualifier Bologna - Day 2 (Finals)",
+      "url": "https://www.youtube.com/watch?v=uKW-E6jPSpg",
+      "fetchedAt": "2026-04-25T16:30:57.376Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/uKW-E6jPSpg/uKW-E6jPSpg.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/uKW-E6jPSpg.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "gWh4XydC0aQ",
+      "title": "Riftbound Regional Qualifier Bologna - Day 2 (Rounds 9-13)",
+      "url": "https://www.youtube.com/watch?v=gWh4XydC0aQ",
+      "fetchedAt": "2026-04-25T16:31:22.194Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/gWh4XydC0aQ/gWh4XydC0aQ.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/gWh4XydC0aQ.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "06C6xxYbYOg",
+      "title": "Riftbound Regional Qualifier Bologna - Day 1 (Rounds 5-8)",
+      "url": "https://www.youtube.com/watch?v=06C6xxYbYOg",
+      "fetchedAt": "2026-04-25T16:31:47.137Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/06C6xxYbYOg/06C6xxYbYOg.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/06C6xxYbYOg.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "pVzzV_gSRXI",
+      "title": "Riftbound Regional Qualifier Bologna - Day 1 (Rounds 6-9)",
+      "url": "https://www.youtube.com/watch?v=pVzzV_gSRXI",
+      "fetchedAt": "2026-04-25T16:32:14.488Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/pVzzV_gSRXI/pVzzV_gSRXI.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/pVzzV_gSRXI.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "UABq9KAvfUQ",
+      "title": "Riftbound Regional Qualifier Houston - Day 2",
+      "url": "https://www.youtube.com/watch?v=UABq9KAvfUQ",
+      "fetchedAt": "2026-04-25T16:32:40.741Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/UABq9KAvfUQ/UABq9KAvfUQ.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/UABq9KAvfUQ.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "iy6VxdP0eoQ",
+      "title": "Riftbound Regional Qualifier Houston - Day 1 (Rounds 6-9)",
+      "url": "https://www.youtube.com/watch?v=iy6VxdP0eoQ",
+      "fetchedAt": "2026-04-25T16:33:05.967Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/iy6VxdP0eoQ/iy6VxdP0eoQ.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/iy6VxdP0eoQ.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    },
+    {
+      "videoId": "j7jiuE3ITQs",
+      "title": "Riftbound Regional Qualifier Houston - Day 1 (Rounds 1-5)",
+      "url": "https://www.youtube.com/watch?v=j7jiuE3ITQs",
+      "fetchedAt": "2026-04-25T16:33:31.285Z",
+      "transcriptRelPath": "media/youtube/riftbound-channel/transcripts/raw/j7jiuE3ITQs/j7jiuE3ITQs.en.vtt",
+      "insightsRelPath": "media/youtube/riftbound-channel/caster-insights/j7jiuE3ITQs.jsonl",
+      "status": "complete",
+      "blockedReason": null
+    }
+  ]
+}

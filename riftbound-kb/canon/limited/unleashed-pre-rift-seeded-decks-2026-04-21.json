@@ -1,0 +1,286 @@
+{
+  "schema": "limited-seeded-deck-review",
+  "version": 1,
+  "set": "Unleashed",
+  "format": "Pre-Rift (Sealed)",
+  "source": {
+    "source_id": "recycle2-riftbound-youtube",
+    "url": "https://www.youtube.com/watch?v=6SUfLu6hRNk",
+    "title": "Which Seeded Legends Are Best? // Pre-Rift Seeded Deck Review",
+    "creator": "Recycle2 Riftbound",
+    "channel": "https://www.youtube.com/@Recycle2TCG",
+    "published": "2026-04-21",
+    "trust_tier": "trusted-secondary"
+  },
+  "reviewed_by": "Recycle2 Riftbound",
+  "review_date": "2026-04-21",
+  "summary": "Video reviews all 6 Unleashed Pre-Rift seeded decks in detail: deck composition, notable strengths/weaknesses, cards to hope to pull and add (commons/uncommons only), domain pairings, and cards to consider cutting.",
+  "decks": [
+    {
+      "legend": "Diana, Chosen of the Moon",
+      "legend_ability": "Provides 1 energy during showdowns (resource advantage).",
+      "champion_unit": "Diana Lunari",
+      "champion_unit_notes": "Conditional card draw every showdown (including moving into unoccupied battlefield). Card draw is premium in limited. Comes down early, 0 power cost.",
+      "overall_rating": "Best of the lot",
+      "archetype": "Spells + combat tricks + ambush units to take and hold battlefields",
+      "domain_base": "Mind",
+      "spell_subtheme": "Unleashed spells costing 4+ energy is a sub-theme — relevant for splash decisions",
+      "strengths": [
+        "Rock-solid deck composition",
+        "Premium interaction suite (counter spell, damage removal, combat tricks)",
+        "Icefell Archer kills opponent's 2-drop most of the time",
+        "Crescent Dance: fantastic limited 3-drop, 0 power cost ambush, gives other units shield",
+        "Abandon: one of very few counter spells in the set, also fixes next card draw",
+        "Crescent Strike: damage-based removal + favorable trade tool",
+        "Starcross: game-winning in many scenarios",
+        "Abandoned Hall: perfect battlefield for the deck"
+      ],
+      "weaknesses": [],
+      "cards_to_add": [
+        {"card": "Ruined Rex", "reason": "Absolutely premium in limited. Good stats + removal that can target at base. Insane at common."},
+        {"card": "Sprite Burst", "reason": "Amazing spell — double conquer or removal. Costs 4+ energy (a plus in Unleashed)."},
+        {"card": "Inferno", "reason": "Great ambush unit from Fury domain."},
+        {"card": "Lord Broadman", "reason": "Great ambush unit from Fury domain."},
+        {"card": "Blast Cone", "reason": "Move synergy gets really good with this card, especially from Calm domain."}
+      ],
+      "domain_pairings": [
+        {"domain": "Fury", "reason": "Great ambush units (Inferno, Lord Broadman) and good damage-based removal."},
+        {"domain": "Calm", "reason": "Good combat trick spells. Move synergy excellent if you pull Blast Cone."}
+      ],
+      "cards_to_cut": [
+        {"card": "Moonlight Affliction", "reason": "Not bad — functions as 1-for-1 in most situations — but weakest link. Cut only if you need room."},
+        {"card": "Walking Roost", "reason": "Cut only if you open better top-end units and need room."},
+        {"card": "Fateweaver", "reason": "Card draw is okay but needs 4+ energy spells which is a tough ask. Cut if you lack those spells."}
+      ],
+      "splash_notes": "Base deck is very light on power costs, so splashing Fury or Calm is pretty easy."
+    },
+    {
+      "legend": "Ivan, Chosen of Spring",
+      "legend_ability": "Turns battlefields into Brush when you conquer or hold. (If a Brush becomes a Brush, it's Brush forever.)",
+      "champion_unit": "Ivan Nurturer",
+      "champion_unit_notes": "Really good card draw in limited. Upside of buffing units if you play into the Ivan zoo condition (birds, cats, dogs, poros).",
+      "overall_rating": "Moderate — dependent on zoo tag density",
+      "archetype": "Zoo tag units (birds, cats, dogs, poros) leveraging Brush +1 might buff",
+      "domain_base": "Calm / Order",
+      "strengths": [
+        "Brush +1 might buff for zoo-tagged units is strong if density is high",
+        "Loyal Poro: card draw, very good",
+        "Stalking Wolf: excellent conditional ambush unit",
+        "Starhound: above-rate unit, retrieves Ultra Soft Poro; multiple Starhounds loop forever",
+        "Double Trouble: very good in unit-heavy deck",
+        "Soul Harvest: potentially good since early drops conquer → brush → +1 might bonus"
+      ],
+      "weaknesses": [
+        "Legend ability only functions with zoo-tagged units — restricted",
+        "Interaction suite is on the weaker side",
+        "Deck functionality depends heavily on zoo tag density and quality in your pool"
+      ],
+      "cards_to_add": [
+        {"card": "Ultra Soft Poro (extras)", "reason": "Light Vanguard Armory + decent body. High priority if opened."},
+        {"card": "Trevor Snoozebottom", "reason": "Incredible unit for the hold strategy."},
+        {"card": "Enthusiastic Promoter", "reason": "Solidifies hold snowball."},
+        {"card": "Shield cards (any domain)", "reason": "Help defend held battlefields."}
+      ],
+      "zoo_tag_counts_by_domain": {
+        "Fury": 1,
+        "Calm": 3,
+        "Mind": 1,
+        "Body": 0,
+        "Chaos": 1,
+        "Order": 6
+      },
+      "domain_pairings": [
+        {"domain": "Body", "reason": "Towering Combatant for defense; Call to Battle / Imposing Challenger to move opponents into held territory."},
+        {"domain": "Mind", "reason": "Combat tricks and damage-based removal help the hold strategy."}
+      ],
+      "cards_to_cut": [
+        {"card": "Flurry of Feathers", "reason": "Great card but double Calm power is steep. Cut if going heavy into third color, or if deck is light on Calm power."}
+      ],
+      "domain_commitment_notes": "You'll be hard-committing to Calm and Order for zoo tags. Splash a third color for interaction or high-value units without relevant tags. Consider making Calm your base color."
+    },
+    {
+      "legend": "Jyn, Chosen of Tragedy",
+      "legend_ability": "Triggers when you cast 4 spells where you spend 4+ energy. Challenging to fulfill in limited.",
+      "champion_unit": "Jyn, Murderous Artist",
+      "champion_unit_notes": "Very good unit. Ganking is extremely premium in limited.",
+      "overall_rating": "Weakest — needs a lot of help",
+      "archetype": "4+ energy spell theme, but very hard to enable legend ability",
+      "domain_base": "Mind",
+      "strengths": [
+        "Jyn Murderous Artist is very good, ganking is premium in limited",
+        "Revn the Lawkeeper: perfect top-end unit, can be game-winning bomb",
+        "Deadly Flourish: amazing",
+        "Sprite Burst: one of the best limited spells in the set",
+        "Downstage Dramatics: acceptable draw spell in limited",
+        "Abandoned Hall: perfect battlefield for what Jyn shoots for"
+      ],
+      "weaknesses": [
+        "Legend ability (4 spells at 4+ energy) is very hard to trigger in limited",
+        "Prepared Neophyte is weak — above-rate sometimes < on-rate with relevant ability always",
+        "Most spells are conditional except Deadly Flourish and Sprite Burst",
+        "Battlefield is a considerable hoop for just a predict",
+        "No Mind power costs in the base deck — weird for a Mind legend"
+      ],
+      "cards_to_add": [
+        {"card": "Sprite Burst (extras)", "reason": "Best limited spell in set, hoping for multiples."},
+        {"card": "Moonlight Affliction", "reason": "Actually decent in Jyn since it's a 4+ energy spell."},
+        {"card": "Ruined Rex", "reason": "Premium limited inclusion regardless of archetype."},
+        {"card": "Smite", "reason": "Premium removal."},
+        {"card": "Crescent Strike", "reason": "Premium interaction/removal."},
+        {"card": "Syndra Transcendent", "reason": "If opened, run as chosen champion — repeat 2 energy + 1 chaos power to all spells makes all 2+ energy spells meet Jyn's trigger. Too fun not to run."}
+      ],
+      "domain_pairings": [
+        {"domain": "Chaos", "reason": "Strongest interaction at common/uncommon. Most likely to contain the removal/interaction you need."},
+        {"domain": "Fury", "reason": "4+ energy spells already mostly in the deck from Fury + Mind."},
+        {"domain": "Calm", "reason": "Flurry of Feathers is a 4+ energy spell at common/uncommon."},
+        {"domain": "Body", "reason": "Concentrate is 4+ energy but won't fulfill Jyn's condition if you have enough XP."}
+      ],
+      "cards_to_cut": [
+        {"card": "Prepared Neophyte", "reason": "Dies to Crescent Strike; above-rate sometimes is worse than on-rate always with a relevant ability."},
+        {"card": "Square Up", "reason": "Aggressive pushing tool only — cut if deck doesn't skew aggressive."},
+        {"card": "Frigid Jewel", "reason": "Average in this deck. Replace with higher value units or spells."},
+        {"card": "Lotus Trap", "reason": "Average in this deck. Replace with higher value units or spells."}
+      ],
+      "strategic_note": "Recommend not focusing on the legend ability. Just play best synergies you open. Exception: if you open Syndra Transcendent, go whole-hog on spells. Consider another primary color since the deck has zero Mind power costs."
+    },
+    {
+      "legend": "Kha'Zix, Chosen of Hunger",
+      "legend_ability": "Provides XP versatility — engine (XP from winning combats) and payoff (buff units or allow conquer-then-return in same turn).",
+      "champion_unit": "Kha'Zix, Mutating Horror",
+      "champion_unit_notes": "Probably the best champion unit among the precons. Constantly present and threatening to blow out opponent if they forget about it.",
+      "overall_rating": "Really solid — gets insane with lucky pulls",
+      "archetype": "Mid-range / tempo — uses XP as resource, not accumulator to high counts",
+      "domain_base": "Body / Calm",
+      "strengths": [
+        "Kha'Zix Mutating Horror: best champion among precons, constantly threatening",
+        "Damascian Diplomat + Mr. Root: solid early engine",
+        "Insightful Investigator: gross card, hope to open and run multiples",
+        "Megatusk: obscenely strong — stack one battlefield safely before ganking entire army",
+        "Isolate: balanced Fight or Flight with upside, rock solid",
+        "Solid synergy and interaction baseline"
+      ],
+      "weaknesses": [
+        "Grim Resolve is action speed — won't protect from damage-based removal",
+        "Don't fall into trap of running too many high-level-count units; don't expect to hit level abilities often",
+        "Battlefield doesn't synergize with anything the deck does — don't run it"
+      ],
+      "cards_to_add": [
+        {"card": "Gemhand Hunter", "reason": "Perfect for the deck. Level 6 bonus is nice."},
+        {"card": "Voracious Gromp", "reason": "On-rate and gives heaps of XP."},
+        {"card": "Wynfish (uncommon)", "reason": "Best XP payoff at uncommon — 4 energy for 5 might with ganking is absurd."},
+        {"card": "Starhound", "reason": "Fantastic at common. Synergizes with battlefield and Insightful Investigator."},
+        {"card": "Imposing Challenger", "reason": "Great interaction tool — conditional charm to remove small unit when holding a battlefield."},
+        {"card": "Bandal Hunter (Order, common)", "reason": "Obscenely strong — enters ready at just 3 XP."},
+        {"card": "Shepherd's Heirloom (Order, common)", "reason": "Basically Doran's Blade but equips for free."},
+        {"card": "Scrutinizing Sergeant (Order, common)", "reason": "Dumb body that gives incidental XP."}
+      ],
+      "domain_pairings": [
+        {"domain": "Calm", "reason": "Natural gravitation for XP decks. Many level-mechanic cards, low-XP payoffs like Soul Sword, good even without level condition like Skyward Strike."},
+        {"domain": "Order", "reason": "Better alignment with Kha'Zix than Calm. Bandal Hunter, Shepherd's Heirloom, Scrutinizing Sergeant at common are obscene."},
+        {"domain": "Chaos", "reason": "Mega Tusk ready + army conquer + gank across battlefields = probably game-winning combo."}
+      ],
+      "cards_to_cut": [],
+      "strategic_note": "XP as resource not accumulator. Body and Chaos have extremely good commons for what Kha'Zix does — putting together a reliable deck should be straightforward."
+    },
+    {
+      "legend": "Master Yi, Chosen of Will",
+      "legend_ability": "Good buff at 6 XP. Game-winning advantage at 11 XP.",
+      "champion_unit": "Master Yi (base champion)",
+      "champion_unit_notes": "Becomes hyper-efficient 4-drop at 6 XP. Many alternative champion units can break the strategy wide open.",
+      "overall_rating": "Contends with Diana for best precon",
+      "archetype": "XP accumulator — get as much XP as fast as possible, never spend it. High inevitability.",
+      "domain_base": "Calm / Body",
+      "strengths": [
+        "Incredible inevitability — limited is naturally slow, so he does extremely well",
+        "Deck is basically perfect out of the box",
+        "Wynfish: obscenely strong",
+        "Gemhand Hunter + Wu Apprentice: solid role players",
+        "Herald of Spring + Voracious Gromp: push into higher XP territories",
+        "Concentrate: card draw, extremely strong at 11 XP",
+        "Combat Experience: almost always a better On Guard in this deck",
+        "Skyward Strike: premium interaction",
+        "Battlefield is perfect — exhaust units for essentially free XP",
+        "Has every good XP card in Calm and Body except Targonian Visionary and Grim Resolve"
+      ],
+      "weaknesses": [],
+      "cards_to_add": [
+        {"card": "Targonian Visionary (common)", "reason": "One of the best XP cards missing from the base deck. Slam it in."},
+        {"card": "Grim Resolve (common)", "reason": "The other best XP card missing. Slam it in."},
+        {"card": "Doubles of any card already in the deck", "reason": "The base deck is so good that duplicates are high-value."}
+      ],
+      "domain_pairings": [
+        {"domain": "Order", "reason": "XP synergy at common (Bandal Hunter, Shepherd's Heirloom, Scrutinizing Sergeant)."},
+        {"domain": "Chaos", "reason": "Obscene play patterns: Mega Tusk ready → entire army conquers one battlefield → ganks across to other = probably game-winning combo. Strongly consider Chaos as third domain if you open the right cards."}
+      ],
+      "cards_to_cut": [
+        {"card": "Enthusiastic Promoter", "reason": "Solid card but doesn't always align with deck's plan. First cut if you need room for better card quality or XP."}
+      ],
+      "alternative_champion_units": [
+        {"unit": "Kha'Zix, Mutating Horror", "rarity": "Rare", "reason": "Amazing alternative champion."},
+        {"unit": "Nidalee, Joyful Aesthetic", "rarity": "Rare", "reason": "Amazing alternative champion."},
+        {"unit": "Master Yi, Unstoppable Will", "rarity": "Epic", "reason": "Adds to feeling of inevitability."}
+      ],
+      "strategic_note": "You're looking to accumulate XP and never spend it. The inevitability at 11 XP is game-winning in limited's naturally slower environment. Focus on card quality and interaction over a third domain unless you open Chaos payoff."
+    },
+    {
+      "legend": "Vi, Chosen of Vengeance",
+      "legend_ability": "Readies units if you assign 3 excess damage in combat. Surprisingly tall order.",
+      "champion_unit": "Vi, Peacekeeper",
+      "champion_unit_notes": "Ambush + stun a unit when attacking = extremely powerful pushing tool. So good.",
+      "overall_rating": "Weakest — struggles to fire legend consistently",
+      "archetype": "Hyper-aggressive, Fury/Order domain pairing. Assault units push but are vulnerable to counterattack.",
+      "domain_base": "Fury / Order",
+      "strengths": [
+        "Vi Peacekeeper: ambush + stun on attack = extremely strong pushing tool",
+        "Assault units are powerful pushing tools",
+        "Vi can ready units to move back to base, mitigating assault vulnerability",
+        "Square Up: makes retreat after attack highly likely",
+        "Smite: premium damage-based removal",
+        "Heroic Charge: premium combat trick",
+        "Lord Broadman, Ultra Soft Poro, Yeti Brawler: solid mid-to-top-end"
+      ],
+      "weaknesses": [
+        "Running out of gas is a significant issue",
+        "Legend ability (3 excess damage) is a surprisingly tall order",
+        "Sharkling, Arena Kingpin, Inferna: good sometimes, awful others",
+        "Ultra Soft Poro seems contrary to deck's aggressive gameplay",
+        "Battlefield doesn't align with game plan — units are horrible when holding",
+        "Desperate for card draw",
+        "If you don't open Mind domain debuffs, you may struggle to find a good domain pairing"
+      ],
+      "cards_to_add": [
+        {"card": "Vault Breaker (common)", "reason": "Strong + synergizes with Vi legend: conquer, ready, gank across."},
+        {"card": "Soul Harvest", "reason": "Very good — craft a battlefield where units can deal 3 excess damage."},
+        {"card": "Ride of Conquest", "reason": "High priority inclusion if opened."},
+        {"card": "Card draw (any)", "reason": "Desperate for card draw in this deck."}
+      ],
+      "domain_pairings": [
+        {"domain": "Mind", "reason": "Most logical choice. Eclipse + Moonlight Affliction debuffs make overkilling trivial. Crescent Strike lets attack into damaged battlefield. Sprite Burst is amazing."},
+        {"domain": "Calm", "reason": "Moves and stuns can synergize with Vi's strategy."}
+      ],
+      "cards_to_cut": [
+        {"card": "Arena Kingpin", "reason": "First on chopping block. Sizable tempo loss, vulnerable to Deadly Flourish and key removal. Compare to Heart of Dark Ice which was not good in limited."},
+        {"card": "Carry and Dredger", "reason": "Cut unless you have no other aggressive units."},
+        {"card": "Valley of Idols (battlefield)", "reason": "Run blank battlefields over this. Doesn't align with game plan."}
+      ],
+      "strategic_note": "Vi's legend is hard to fire consistently. Mind domain pairing for debuffs is the most interesting angle. Without those cards, finding another domain that pairs well is tough. In principle her legend provides synergy with aggressive archetype, so with the right pool she can make things happen."
+    }
+  ],
+  "cross_deck_observations": [
+    "Diana and Master Yi are the top two seeded decks, contending for best of the lot",
+    "Jyn and Vi are the weakest — Jyn's legend is very hard to enable, Vi's excess-damage condition is surprisingly difficult",
+    "Kha'Zix and Ivan are in the middle — solid if you get the right pool, inconsistent otherwise",
+    "Sprite Burst is mentioned as premium across multiple decks — one of the best limited spells in the set",
+    "Ruined Rex is universally good in limited — slam it in any deck",
+    "XP mechanic (Unleashed) favors accumulators (Master Yi) over spenders (Kha'Zix) in limited",
+    "Chaos domain has strong common/uncommon support for both Kha'Zix and Master Yi (Bandal Hunter, Mega Tusk combos)",
+    "The 4+ energy spell sub-theme in Unleashed matters for splash decisions and Jyn's legend",
+    "Pre-Rift is casual — these reviews are for confidence, not competitive optimization"
+  ],
+  "noted_video_series": [
+    {"title": "New Player's Guide To Unleashed Pre-Release!", "url": "https://www.youtube.com/watch?v=VLcLGv68yxY"},
+    {"title": "Unleashed Mechanics Breakdown", "url": null, "referenced_at": "0:31"},
+    {"title": "Unleashed Pre-Rift Quiz / Rule Scenarios", "url": "https://www.youtube.com/watch?v=ifDLifD8Mds"}
+  ],
+  "creator_event_note": "Recycle2 will be at the Sydney Regional Qualifier next month (May 2026) for side events, not competing."
+}

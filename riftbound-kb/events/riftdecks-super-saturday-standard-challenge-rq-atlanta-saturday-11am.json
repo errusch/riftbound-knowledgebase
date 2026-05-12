@@ -1,0 +1,36 @@
+{
+  "event_id": "riftdecks-super-saturday-standard-challenge-rq-atlanta-saturday-11am",
+  "event_type": "other_official_event",
+  "event_name": "Super Saturday Standard Challenge - RQ Atlanta Saturday 11am",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Draven, Glorious Executioner"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=2&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-atlanta-saturday-11am--best-of--draven",
+      "player": "KingLouieTCG",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

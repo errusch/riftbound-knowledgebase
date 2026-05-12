@@ -1,0 +1,5013 @@
+{
+  "version": 1,
+  "generated_at": "2026-04-28T17:45:12.502Z",
+  "scope": {
+    "format": "Standard Constructed",
+    "post_ban_cutoff": "2026-03-31",
+    "source": "canon/legality/bans-and-suspensions.json",
+    "label_rules": "meta/archetype-label-rules.json",
+    "decklist_mutation": false
+  },
+  "counts": {
+    "events_included": 2,
+    "decks_analyzed": 68,
+    "decks_with_banned_cards": 0,
+    "high_confidence": 57,
+    "provisional": 3,
+    "pending_review": 8
+  },
+  "archetypes": [
+    {
+      "archetype": "Irelia Tempo",
+      "deck_count": 8,
+      "status_counts": {
+        "high_confidence": 5,
+        "pending_review": 3
+      },
+      "legends": [
+        {
+          "legend": "Irelia",
+          "count": 8
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Stellacorn Herder",
+          "count": 15
+        },
+        {
+          "name": "En Garde",
+          "count": 15
+        },
+        {
+          "name": "Discipline",
+          "count": 15
+        },
+        {
+          "name": "Defiant Dance",
+          "count": 15
+        },
+        {
+          "name": "Guardian Angel",
+          "count": 12
+        },
+        {
+          "name": "Boots of Swiftness",
+          "count": 11
+        },
+        {
+          "name": "Charm",
+          "count": 11
+        },
+        {
+          "name": "Tideturner",
+          "count": 10
+        },
+        {
+          "name": "Defy",
+          "count": 10
+        },
+        {
+          "name": "Ride the Wind",
+          "count": 10
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--irelia",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--irelia.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "HаruKаze",
+          "legend": "Irelia, Blade Dancer",
+          "placement": "3",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--irelia-natural",
+          "deck_file": "decklists/rq-lille-2026--irelia-natural.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Natural",
+          "legend": "Irelia, Blade Dancer",
+          "placement": "Top 4",
+          "status": "pending_review",
+          "confidence": 0.35
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--irelia-natureal-5",
+          "deck_file": "decklists/rq-lille-2026--best-of--irelia-natureal-5.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Natureal",
+          "legend": "Irelia, Blade Dancer",
+          "placement": 5,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--top8--irelia-natureal-5",
+          "deck_file": "decklists/rq-lille-2026--top8--irelia-natureal-5.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Natureal",
+          "legend": "Irelia, Blade Dancer",
+          "placement": 5,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--top8--irelia-alex-shans-6",
+          "deck_file": "decklists/rq-lille-2026--top8--irelia-alex-shans-6.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Alex Shans",
+          "legend": "Irelia, Blade Dancer",
+          "placement": 6,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Master Yi Tempo",
+      "deck_count": 6,
+      "status_counts": {
+        "high_confidence": 4,
+        "pending_review": 2
+      },
+      "legends": [
+        {
+          "legend": "Master Yi",
+          "count": 6
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Charm",
+          "count": 12
+        },
+        {
+          "name": "Discipline",
+          "count": 12
+        },
+        {
+          "name": "Lonely Poro",
+          "count": 12
+        },
+        {
+          "name": "Ruin Runner",
+          "count": 12
+        },
+        {
+          "name": "En Garde",
+          "count": 10
+        },
+        {
+          "name": "First Mate",
+          "count": 10
+        },
+        {
+          "name": "Punch First",
+          "count": 10
+        },
+        {
+          "name": "Stellacorn Herder",
+          "count": 9
+        },
+        {
+          "name": "Defy",
+          "count": 8
+        },
+        {
+          "name": "Guardian Angel",
+          "count": 8
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--master-yi-schorn-2",
+          "deck_file": "decklists/rq-lille-2026--best-of--master-yi-schorn-2.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Schorn",
+          "legend": "Master Yi, Wuju Bladesman",
+          "placement": 2,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--master-yi-shawn",
+          "deck_file": "decklists/rq-lille-2026--master-yi-shawn.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Shawn",
+          "legend": "Master Yi, Wuju Bladesman",
+          "placement": "Runner-Up",
+          "status": "pending_review",
+          "confidence": 0.35
+        },
+        {
+          "decklist_id": "rq-lille-2026--top8--master-yi-schorn-2",
+          "deck_file": "decklists/rq-lille-2026--top8--master-yi-schorn-2.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Schorn",
+          "legend": "Master Yi, Wuju Bladesman",
+          "placement": 2,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--master-yi-bachek",
+          "deck_file": "decklists/rq-lille-2026--master-yi-bachek.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Bachek",
+          "legend": "Master Yi, Wuju Bladesman",
+          "placement": "Top 8",
+          "status": "pending_review",
+          "confidence": 0.35
+        },
+        {
+          "decklist_id": "rq-lille-2026--top8--master-yi-barczek-8",
+          "deck_file": "decklists/rq-lille-2026--top8--master-yi-barczek-8.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "barczek",
+          "legend": "Master Yi, Wuju Bladesman",
+          "placement": 8,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Annie Chaos Midrange",
+      "deck_count": 4,
+      "status_counts": {
+        "high_confidence": 3,
+        "pending_review": 1
+      },
+      "legends": [
+        {
+          "legend": "Annie",
+          "count": 4
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Noxus Hopeful",
+          "count": 9
+        },
+        {
+          "name": "Traveling Merchant",
+          "count": 9
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 9
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "count": 9
+        },
+        {
+          "name": "Rengar, Pouncing",
+          "count": 9
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "count": 9
+        },
+        {
+          "name": "Stacked Deck",
+          "count": 9
+        },
+        {
+          "name": "Flash",
+          "count": 9
+        },
+        {
+          "name": "Tideturner",
+          "count": 6
+        },
+        {
+          "name": "Cleave",
+          "count": 6
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--annie",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--annie.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "Prismаticismism",
+          "legend": "Annie, Dark Child",
+          "placement": "1",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--annie-prismaticism",
+          "deck_file": "decklists/rq-lille-2026--annie-prismaticism.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Prismaticism",
+          "legend": "Annie, Dark Child",
+          "placement": "Top 4",
+          "status": "pending_review",
+          "confidence": 0.35
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--annie-prismaticismism-4",
+          "deck_file": "decklists/rq-lille-2026--best-of--annie-prismaticismism-4.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Prismaticismism",
+          "legend": "Annie, Dark Child",
+          "placement": 4,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--top8--annie-prismaticismism-4",
+          "deck_file": "decklists/rq-lille-2026--top8--annie-prismaticismism-4.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Prismaticismism",
+          "legend": "Annie, Dark Child",
+          "placement": 4,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Azir Order Midrange",
+      "deck_count": 3,
+      "status_counts": {
+        "high_confidence": 3
+      },
+      "legends": [
+        {
+          "legend": "Azir",
+          "count": 3
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Doran's Shield",
+          "count": 9
+        },
+        {
+          "name": "Eye of the Herald",
+          "count": 9
+        },
+        {
+          "name": "B.F. Sword",
+          "count": 9
+        },
+        {
+          "name": "Brutalizer",
+          "count": 9
+        },
+        {
+          "name": "Arise!",
+          "count": 9
+        },
+        {
+          "name": "Guards!",
+          "count": 9
+        },
+        {
+          "name": "Hidden Blade",
+          "count": 9
+        },
+        {
+          "name": "Discipline",
+          "count": 9
+        },
+        {
+          "name": "Desert's Call",
+          "count": 9
+        },
+        {
+          "name": "Deathgrip",
+          "count": 9
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--azir-squirtle-1",
+          "deck_file": "decklists/rq-lille-2026--best-of--azir-squirtle-1.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Squirtle",
+          "legend": "Azir, Emperor of the Sands",
+          "placement": 1,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--top8--azir-squirtle-1",
+          "deck_file": "decklists/rq-lille-2026--top8--azir-squirtle-1.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Squirtle",
+          "legend": "Azir, Emperor of the Sands",
+          "placement": 1,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--azir",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--azir.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "W4RRO",
+          "legend": "Azir, Emperor of the Sands",
+          "placement": "88",
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Draven Chaos Midrange",
+      "deck_count": 3,
+      "status_counts": {
+        "high_confidence": 3
+      },
+      "legends": [
+        {
+          "legend": "Draven",
+          "count": 3
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Noxus Hopeful",
+          "count": 9
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "count": 9
+        },
+        {
+          "name": "Stacked Deck",
+          "count": 9
+        },
+        {
+          "name": "Tideturner",
+          "count": 9
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 9
+        },
+        {
+          "name": "Overzealous Fan",
+          "count": 9
+        },
+        {
+          "name": "Spinning Axe",
+          "count": 9
+        },
+        {
+          "name": "Darius, Trifarian",
+          "count": 8
+        },
+        {
+          "name": "Rebuke",
+          "count": 7
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "count": 6
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--draven",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--draven.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "CTCG Koko Lopez",
+          "legend": "Draven, Glorious Executioner",
+          "placement": "2",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--draven-ctcg-dziden-3",
+          "deck_file": "decklists/rq-lille-2026--best-of--draven-ctcg-dziden-3.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "CTCG DZiden",
+          "legend": "Draven, Glorious Executioner",
+          "placement": 3,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--top8--draven-ctcg-dziden-3",
+          "deck_file": "decklists/rq-lille-2026--top8--draven-ctcg-dziden-3.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "CTCG DZiden",
+          "legend": "Draven, Glorious Executioner",
+          "placement": 3,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Ahri Tempo",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Ahri",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Discipline",
+          "count": 6
+        },
+        {
+          "name": "Ravenbloom Student",
+          "count": 6
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "count": 6
+        },
+        {
+          "name": "Feral Strength",
+          "count": 6
+        },
+        {
+          "name": "Defy",
+          "count": 5
+        },
+        {
+          "name": "Desert's Call",
+          "count": 5
+        },
+        {
+          "name": "Thwonk!",
+          "count": 5
+        },
+        {
+          "name": "Find Your Center",
+          "count": 4
+        },
+        {
+          "name": "Meditation",
+          "count": 4
+        },
+        {
+          "name": "Lonely Poro",
+          "count": 3
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ahri",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ahri.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "Teh Bestest One",
+          "legend": "Ahri, Nine-Tailed Fox",
+          "placement": "31",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--ahri-daniel-82",
+          "deck_file": "decklists/rq-lille-2026--best-of--ahri-daniel-82.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Daniel",
+          "legend": "Ahri, Nine-Tailed Fox",
+          "placement": 82,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Darius Rally Midrange",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Darius",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Baited Hook",
+          "count": 6
+        },
+        {
+          "name": "Honest Broker",
+          "count": 6
+        },
+        {
+          "name": "Noxus Hopeful",
+          "count": 6
+        },
+        {
+          "name": "Seal of Unity",
+          "count": 6
+        },
+        {
+          "name": "Spectral Matron",
+          "count": 6
+        },
+        {
+          "name": "Trifarian Gloryseeker",
+          "count": 6
+        },
+        {
+          "name": "Vanguard Captain",
+          "count": 6
+        },
+        {
+          "name": "Xin Zhao, Vigilant",
+          "count": 6
+        },
+        {
+          "name": "Hidden Blade",
+          "count": 6
+        },
+        {
+          "name": "Rally the Troops",
+          "count": 6
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--darius",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--darius.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "Zile",
+          "legend": "Darius, Hand of Noxus",
+          "placement": "28",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--darius-sanan-53",
+          "deck_file": "decklists/rq-lille-2026--best-of--darius-sanan-53.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Sanan",
+          "legend": "Darius, Hand of Noxus",
+          "placement": 53,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Ezreal Spell Tempo",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Ezreal",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Gust",
+          "count": 6
+        },
+        {
+          "name": "Stupefy",
+          "count": 6
+        },
+        {
+          "name": "Stacked Deck",
+          "count": 6
+        },
+        {
+          "name": "Wages of Pain",
+          "count": 6
+        },
+        {
+          "name": "Bellows Breath",
+          "count": 6
+        },
+        {
+          "name": "Plundering Poro",
+          "count": 6
+        },
+        {
+          "name": "Ravenbloom Student",
+          "count": 6
+        },
+        {
+          "name": "Card Sharp",
+          "count": 5
+        },
+        {
+          "name": "Arcane Shift",
+          "count": 4
+        },
+        {
+          "name": "Rebuke",
+          "count": 4
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ezreal",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ezreal.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "CTG Alаnzq",
+          "legend": "Ezreal, Prodigal Explorer",
+          "placement": "4",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--ezreal-afrozial-25",
+          "deck_file": "decklists/rq-lille-2026--best-of--ezreal-afrozial-25.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Afrozial",
+          "legend": "Ezreal, Prodigal Explorer",
+          "placement": 25,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Fiora Challenger Midrange",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Fiora",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "First Mate",
+          "count": 6
+        },
+        {
+          "name": "Pit Rookie",
+          "count": 6
+        },
+        {
+          "name": "B.F. Sword",
+          "count": 6
+        },
+        {
+          "name": "Unsung Hero",
+          "count": 6
+        },
+        {
+          "name": "Challenge",
+          "count": 6
+        },
+        {
+          "name": "Riposte",
+          "count": 6
+        },
+        {
+          "name": "Sett, Brawler",
+          "count": 5
+        },
+        {
+          "name": "Punch First",
+          "count": 5
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 4
+        },
+        {
+          "name": "Doran's Blade",
+          "count": 4
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--fiora-azirim-11",
+          "deck_file": "decklists/rq-lille-2026--best-of--fiora-azirim-11.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Azirim",
+          "legend": "Fiora, Grand Duelist",
+          "placement": 11,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--fiora",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--fiora.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "VVES",
+          "legend": "Fiora, Grand Duelist",
+          "placement": "44",
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Jax Equipment Midrange",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Jax",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Counter Strike",
+          "count": 6
+        },
+        {
+          "name": "Discipline",
+          "count": 6
+        },
+        {
+          "name": "Brutalizer",
+          "count": 6
+        },
+        {
+          "name": "Guardian Angel",
+          "count": 6
+        },
+        {
+          "name": "First Mate",
+          "count": 6
+        },
+        {
+          "name": "Stellacorn Herder",
+          "count": 6
+        },
+        {
+          "name": "Lonely Poro",
+          "count": 6
+        },
+        {
+          "name": "Defy",
+          "count": 5
+        },
+        {
+          "name": "Challenge",
+          "count": 5
+        },
+        {
+          "name": "Boneshiver",
+          "count": 5
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--jax",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--jax.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "jimbo in limbo",
+          "legend": "Jax, Grandmaster at Arms",
+          "placement": "102",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--jax-tempetedelaneige-136",
+          "deck_file": "decklists/rq-lille-2026--best-of--jax-tempetedelaneige-136.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "TEMPETEDELANEIGE",
+          "legend": "Jax, Grandmaster at Arms",
+          "placement": 136,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Jinx Chaos Tempo",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Jinx",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Noxus Hopeful",
+          "count": 6
+        },
+        {
+          "name": "Traveling Merchant",
+          "count": 6
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "count": 6
+        },
+        {
+          "name": "Tideturner",
+          "count": 6
+        },
+        {
+          "name": "Stacked Deck",
+          "count": 6
+        },
+        {
+          "name": "Ride the Wind",
+          "count": 6
+        },
+        {
+          "name": "Rebuke",
+          "count": 5
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 4
+        },
+        {
+          "name": "Rek'Sai, Breacher",
+          "count": 3
+        },
+        {
+          "name": "Overzealous Fan",
+          "count": 3
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--jinx",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--jinx.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "rien",
+          "legend": "Jinx, Loose Cannon",
+          "placement": "21",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--jinx-quayou-181",
+          "deck_file": "decklists/rq-lille-2026--best-of--jinx-quayou-181.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "quayou",
+          "legend": "Jinx, Loose Cannon",
+          "placement": 181,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Kai'Sa Midrange",
+      "deck_count": 2,
+      "status_counts": {
+        "provisional": 2
+      },
+      "legends": [
+        {
+          "legend": "Kai'Sa",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Noxus Hopeful",
+          "count": 6
+        },
+        {
+          "name": "Falling Star",
+          "count": 6
+        },
+        {
+          "name": "Stupefy",
+          "count": 6
+        },
+        {
+          "name": "Watchful Sentry",
+          "count": 6
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "count": 6
+        },
+        {
+          "name": "Plundering Poro",
+          "count": 6
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 5
+        },
+        {
+          "name": "Lecturing Yordle",
+          "count": 5
+        },
+        {
+          "name": "Hextech Ray",
+          "count": 4
+        },
+        {
+          "name": "Time Warp",
+          "count": 4
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--kaisa",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--kaisa.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "Frosty",
+          "legend": "Kai'Sa, Daughter of the Void",
+          "placement": "5",
+          "status": "provisional",
+          "confidence": 0.6
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--kaisa-risolan-22",
+          "deck_file": "decklists/rq-lille-2026--best-of--kaisa-risolan-22.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Risolan",
+          "legend": "Kai'Sa, Daughter of the Void",
+          "placement": 22,
+          "status": "provisional",
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "archetype": "Lee Sin Tempo",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Lee Sin",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Charm",
+          "count": 6
+        },
+        {
+          "name": "Defy",
+          "count": 6
+        },
+        {
+          "name": "Discipline",
+          "count": 6
+        },
+        {
+          "name": "Challenge",
+          "count": 6
+        },
+        {
+          "name": "First Mate",
+          "count": 6
+        },
+        {
+          "name": "Lonely Poro",
+          "count": 6
+        },
+        {
+          "name": "Guardian Angel",
+          "count": 6
+        },
+        {
+          "name": "Punch First",
+          "count": 6
+        },
+        {
+          "name": "Ruin Runner",
+          "count": 6
+        },
+        {
+          "name": "Trinity Force",
+          "count": 6
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--lee-sin-pay-eighthundred-78",
+          "deck_file": "decklists/rq-lille-2026--best-of--lee-sin-pay-eighthundred-78.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Pay Eighthundred",
+          "legend": "Lee Sin, Blind Monk",
+          "placement": 78,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--lee-sin",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--lee-sin.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "JumpKingPlаyer",
+          "legend": "Lee Sin, Blind Monk",
+          "placement": "85",
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Leona Order Midrange",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Leona",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Fiora, Victorious",
+          "count": 6
+        },
+        {
+          "name": "Lonely Poro",
+          "count": 6
+        },
+        {
+          "name": "Discipline",
+          "count": 6
+        },
+        {
+          "name": "Zhonya's Hourglass",
+          "count": 5
+        },
+        {
+          "name": "Defy",
+          "count": 5
+        },
+        {
+          "name": "Zenith Blade",
+          "count": 5
+        },
+        {
+          "name": "Irelia, Fervent",
+          "count": 4
+        },
+        {
+          "name": "Charm",
+          "count": 4
+        },
+        {
+          "name": "Guardian Angel",
+          "count": 3
+        },
+        {
+          "name": "Stellacorn Herder",
+          "count": 3
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--leona-sei-shin-casios-238",
+          "deck_file": "decklists/rq-lille-2026--best-of--leona-sei-shin-casios-238.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Sei Shin Casios",
+          "legend": "Leona, Radiant Dawn",
+          "placement": 238,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--leona",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--leona.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "Bubble Buddy",
+          "legend": "Leona, Radiant Dawn",
+          "placement": "376",
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Lucian Challenger Aggro",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Lucian",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Doran's Blade",
+          "count": 6
+        },
+        {
+          "name": "Pouty Poro",
+          "count": 6
+        },
+        {
+          "name": "Challenge",
+          "count": 6
+        },
+        {
+          "name": "Relentless Pursuit",
+          "count": 6
+        },
+        {
+          "name": "First Mate",
+          "count": 6
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "count": 6
+        },
+        {
+          "name": "Trinity Force",
+          "count": 6
+        },
+        {
+          "name": "Gem Jammer",
+          "count": 5
+        },
+        {
+          "name": "Long Sword",
+          "count": 5
+        },
+        {
+          "name": "Skyfall of Areion",
+          "count": 5
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--lucian-tcgn-otterzocker-79",
+          "deck_file": "decklists/rq-lille-2026--best-of--lucian-tcgn-otterzocker-79.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "TCGN OtterZocker",
+          "legend": "Lucian, Purifier",
+          "placement": 79,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--lucian",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--lucian.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "Shаdаwx",
+          "legend": "Lucian, Purifier",
+          "placement": "141",
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Miss Fortune Midrange",
+      "deck_count": 2,
+      "status_counts": {
+        "provisional": 1,
+        "high_confidence": 1
+      },
+      "legends": [
+        {
+          "legend": "Miss Fortune",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Stacked Deck",
+          "count": 6
+        },
+        {
+          "name": "Punch First",
+          "count": 5
+        },
+        {
+          "name": "Bullet Time",
+          "count": 4
+        },
+        {
+          "name": "Ride the Wind",
+          "count": 3
+        },
+        {
+          "name": "Rebuke",
+          "count": 3
+        },
+        {
+          "name": "Lucian, Merciless",
+          "count": 3
+        },
+        {
+          "name": "Treasure Hunter",
+          "count": 3
+        },
+        {
+          "name": "Hard Bargain",
+          "count": 3
+        },
+        {
+          "name": "Spirit Wheel",
+          "count": 3
+        },
+        {
+          "name": "Sabotage",
+          "count": 3
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--miss-fortune-pippers-220",
+          "deck_file": "decklists/rq-lille-2026--best-of--miss-fortune-pippers-220.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "pippers",
+          "legend": "Miss Fortune, Bounty Hunter",
+          "placement": 220,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--miss-fortune",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--miss-fortune.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "TheDisDude",
+          "legend": "Miss Fortune, Bounty Hunter",
+          "placement": "443",
+          "status": "provisional",
+          "confidence": 0.57
+        }
+      ]
+    },
+    {
+      "archetype": "Ornn Poro Midrange",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Ornn",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Clockwork Keeper",
+          "count": 6
+        },
+        {
+          "name": "Lonely Poro",
+          "count": 6
+        },
+        {
+          "name": "Pit Crew",
+          "count": 6
+        },
+        {
+          "name": "Seal of Focus",
+          "count": 6
+        },
+        {
+          "name": "Poro Snax",
+          "count": 6
+        },
+        {
+          "name": "Guardian Angel",
+          "count": 6
+        },
+        {
+          "name": "Sterak's Gage",
+          "count": 6
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "count": 5
+        },
+        {
+          "name": "World Atlas",
+          "count": 5
+        },
+        {
+          "name": "Bellows Breath",
+          "count": 4
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ornn",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ornn.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "housesаrebig",
+          "legend": "Ornn, the Fire Below the Mountain",
+          "placement": "124",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--ornn-schnaitzel-478",
+          "deck_file": "decklists/rq-lille-2026--best-of--ornn-schnaitzel-478.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Schnaitzel",
+          "legend": "Ornn, the Fire Below the Mountain",
+          "placement": 478,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Renata Control",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Renata Glasc",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Plundering Poro",
+          "count": 6
+        },
+        {
+          "name": "Card Sharp",
+          "count": 6
+        },
+        {
+          "name": "Honest Broker",
+          "count": 6
+        },
+        {
+          "name": "Stupefy",
+          "count": 6
+        },
+        {
+          "name": "Hidden Blade",
+          "count": 6
+        },
+        {
+          "name": "Hostile Takeover",
+          "count": 6
+        },
+        {
+          "name": "Singularity",
+          "count": 5
+        },
+        {
+          "name": "Cull the Weak",
+          "count": 5
+        },
+        {
+          "name": "Watchful Sentry",
+          "count": 4
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "count": 4
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--renata-glasc-trecore-361",
+          "deck_file": "decklists/rq-lille-2026--best-of--renata-glasc-trecore-361.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Trecore",
+          "legend": "Renata Glasc, Chem-Baroness",
+          "placement": 361,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--renata-glasc",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--renata-glasc.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "EmoTempest",
+          "legend": "Renata Glasc, Chem-Baroness",
+          "placement": "512",
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Rumble Mech Midrange",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Rumble",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Rumble, Hotheaded",
+          "count": 6
+        },
+        {
+          "name": "Breakneck Mech",
+          "count": 6
+        },
+        {
+          "name": "Bubble Bot",
+          "count": 6
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 6
+        },
+        {
+          "name": "Forecaster",
+          "count": 6
+        },
+        {
+          "name": "Gem Jammer",
+          "count": 6
+        },
+        {
+          "name": "Noxus Hopeful",
+          "count": 6
+        },
+        {
+          "name": "Production Surge",
+          "count": 6
+        },
+        {
+          "name": "Stupefy",
+          "count": 6
+        },
+        {
+          "name": "Cloth Armor",
+          "count": 4
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--rumble-redblar-330",
+          "deck_file": "decklists/rq-lille-2026--best-of--rumble-redblar-330.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Redblar",
+          "legend": "Rumble, Mechanized Menace",
+          "placement": 330,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--rumble",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--rumble.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "Vаnnаn",
+          "legend": "Rumble, Mechanized Menace",
+          "placement": "692",
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Sett Challenger Midrange",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Sett",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "First Mate",
+          "count": 6
+        },
+        {
+          "name": "Pit Rookie",
+          "count": 6
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 6
+        },
+        {
+          "name": "Showstopper",
+          "count": 6
+        },
+        {
+          "name": "Punch First",
+          "count": 6
+        },
+        {
+          "name": "Lucian, Merciless",
+          "count": 6
+        },
+        {
+          "name": "Challenge",
+          "count": 5
+        },
+        {
+          "name": "Sabotage",
+          "count": 4
+        },
+        {
+          "name": "Call to Glory",
+          "count": 4
+        },
+        {
+          "name": "Fae Dragon",
+          "count": 4
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--sett",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--sett.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "CTCG Collin K",
+          "legend": "Sett, The Boss",
+          "placement": "7",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--sett-nlv-tomino-121",
+          "deck_file": "decklists/rq-lille-2026--best-of--sett-nlv-tomino-121.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "NLV Tomino",
+          "legend": "Sett, The Boss",
+          "placement": 121,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Sivir Challenger Aggro",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Sivir",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Stacked Deck",
+          "count": 6
+        },
+        {
+          "name": "Punch First",
+          "count": 6
+        },
+        {
+          "name": "Challenge",
+          "count": 6
+        },
+        {
+          "name": "Sabotage",
+          "count": 5
+        },
+        {
+          "name": "Sivir, Mercenary",
+          "count": 4
+        },
+        {
+          "name": "Rebuke",
+          "count": 4
+        },
+        {
+          "name": "Boots of Swiftness",
+          "count": 4
+        },
+        {
+          "name": "Mobilize",
+          "count": 3
+        },
+        {
+          "name": "Treasure Trove",
+          "count": 3
+        },
+        {
+          "name": "Ride the Wind",
+          "count": 3
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--sivir",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--sivir.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "Swаgyolo420yeа",
+          "legend": "Sivir, Battle Mistress",
+          "placement": "61",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--sivir-tenrjihs-156",
+          "deck_file": "decklists/rq-lille-2026--best-of--sivir-tenrjihs-156.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "TenrjiHS",
+          "legend": "Sivir, Battle Mistress",
+          "placement": 156,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Teemo Hidden Control",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Teemo",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Nocturne, Horrifying",
+          "count": 6
+        },
+        {
+          "name": "Tideturner",
+          "count": 6
+        },
+        {
+          "name": "Sprite Call",
+          "count": 6
+        },
+        {
+          "name": "Consult the Past",
+          "count": 6
+        },
+        {
+          "name": "Switcheroo",
+          "count": 6
+        },
+        {
+          "name": "Stacked Deck",
+          "count": 6
+        },
+        {
+          "name": "Wages of Pain",
+          "count": 6
+        },
+        {
+          "name": "Teemo, Scout",
+          "count": 5
+        },
+        {
+          "name": "Edge of Night",
+          "count": 4
+        },
+        {
+          "name": "Thousand-Tailed Watcher",
+          "count": 4
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--teemo-flashshad0w-337",
+          "deck_file": "decklists/rq-lille-2026--best-of--teemo-flashshad0w-337.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "FlashShad0w",
+          "legend": "Teemo, Swift Scout",
+          "placement": 337,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--teemo",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--teemo.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "fusilier66",
+          "legend": "Teemo, Swift Scout",
+          "placement": "933",
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Viktor Control",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Viktor",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Xin Zhao, Vigilant",
+          "count": 6
+        },
+        {
+          "name": "Bellows Breath",
+          "count": 6
+        },
+        {
+          "name": "Cull the Weak",
+          "count": 6
+        },
+        {
+          "name": "Hidden Blade",
+          "count": 6
+        },
+        {
+          "name": "Imperial Decree",
+          "count": 6
+        },
+        {
+          "name": "Wages of Pain",
+          "count": 6
+        },
+        {
+          "name": "Honest Broker",
+          "count": 5
+        },
+        {
+          "name": "Lecturing Yordle",
+          "count": 5
+        },
+        {
+          "name": "Plundering Poro",
+          "count": 5
+        },
+        {
+          "name": "Singularity",
+          "count": 5
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--viktor-znt-agazapado-41",
+          "deck_file": "decklists/rq-lille-2026--best-of--viktor-znt-agazapado-41.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "ZNT Agazapado",
+          "legend": "Viktor, Herald of the Arcane",
+          "placement": 41,
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--viktor",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--viktor.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "RiftboundPlus",
+          "legend": "Viktor, Herald of the Arcane",
+          "placement": "45",
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Volibear Ramp Midrange",
+      "deck_count": 2,
+      "status_counts": {
+        "high_confidence": 2
+      },
+      "legends": [
+        {
+          "legend": "Volibear",
+          "count": 2
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Kadregrin the Infernal",
+          "count": 6
+        },
+        {
+          "name": "Confront",
+          "count": 6
+        },
+        {
+          "name": "Dazzling Aurora",
+          "count": 6
+        },
+        {
+          "name": "Deadbloom Predator",
+          "count": 6
+        },
+        {
+          "name": "Mobilize",
+          "count": 6
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "count": 5
+        },
+        {
+          "name": "Sabotage",
+          "count": 5
+        },
+        {
+          "name": "Challenge",
+          "count": 5
+        },
+        {
+          "name": "Sky Splitter",
+          "count": 5
+        },
+        {
+          "name": "Void Seeker",
+          "count": 4
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--volibear",
+          "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--volibear.json",
+          "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+          "event_date": "2026-04-25",
+          "player": "CTCG Villionаire",
+          "legend": "Volibear, Relentless Storm",
+          "placement": "41",
+          "status": "high_confidence",
+          "confidence": 0.95
+        },
+        {
+          "decklist_id": "rq-lille-2026--best-of--volibear-dv12321-286",
+          "deck_file": "decklists/rq-lille-2026--best-of--volibear-dv12321-286.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "dv12321",
+          "legend": "Volibear, Relentless Storm",
+          "placement": 286,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Azir Midrange",
+      "deck_count": 1,
+      "status_counts": {
+        "pending_review": 1
+      },
+      "legends": [
+        {
+          "legend": "Azir",
+          "count": 1
+        }
+      ],
+      "top_cards": [],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--azir-pedro-squirtle",
+          "deck_file": "decklists/rq-lille-2026--azir-pedro-squirtle.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Pedro (Squirtle)",
+          "legend": "Azir, Emperor of the Sands",
+          "placement": "Winner",
+          "status": "pending_review",
+          "confidence": 0.35
+        }
+      ]
+    },
+    {
+      "archetype": "Garen Value Midrange",
+      "deck_count": 1,
+      "status_counts": {
+        "high_confidence": 1
+      },
+      "legends": [
+        {
+          "legend": "Garen",
+          "count": 1
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Blood Money",
+          "count": 3
+        },
+        {
+          "name": "Catalyst of Aeons",
+          "count": 3
+        },
+        {
+          "name": "Confront",
+          "count": 3
+        },
+        {
+          "name": "Dazzling Aurora",
+          "count": 3
+        },
+        {
+          "name": "Deadbloom Predator",
+          "count": 3
+        },
+        {
+          "name": "Forge of the Future",
+          "count": 3
+        },
+        {
+          "name": "Harnessed Dragon",
+          "count": 3
+        },
+        {
+          "name": "Mobilize",
+          "count": 3
+        },
+        {
+          "name": "Rally the Troops",
+          "count": 3
+        },
+        {
+          "name": "Vanguard Armory",
+          "count": 3
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--garen-noobvengador-217",
+          "deck_file": "decklists/rq-lille-2026--best-of--garen-noobvengador-217.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Noobvengador",
+          "legend": "Garen, Might of Demacia",
+          "placement": 217,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Lux Control",
+      "deck_count": 1,
+      "status_counts": {
+        "high_confidence": 1
+      },
+      "legends": [
+        {
+          "legend": "Lux",
+          "count": 1
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Bellows Breath",
+          "count": 3
+        },
+        {
+          "name": "Card Sharp",
+          "count": 3
+        },
+        {
+          "name": "Cull the Weak",
+          "count": 3
+        },
+        {
+          "name": "Drag Under",
+          "count": 3
+        },
+        {
+          "name": "Falling Comet",
+          "count": 3
+        },
+        {
+          "name": "Imperial Decree",
+          "count": 3
+        },
+        {
+          "name": "Plundering Poro",
+          "count": 3
+        },
+        {
+          "name": "Salvage",
+          "count": 3
+        },
+        {
+          "name": "Singularity",
+          "count": 3
+        },
+        {
+          "name": "Vanguard Armory",
+          "count": 3
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--lux-dongd-65",
+          "deck_file": "decklists/rq-lille-2026--best-of--lux-dongd-65.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "DongD",
+          "legend": "Lux, Lady of Luminosity",
+          "placement": 65,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Rek'Sai Void Midrange",
+      "deck_count": 1,
+      "status_counts": {
+        "high_confidence": 1
+      },
+      "legends": [
+        {
+          "legend": "Rek'Sai",
+          "count": 1
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Blood Rush",
+          "count": 3
+        },
+        {
+          "name": "Cull the Weak",
+          "count": 3
+        },
+        {
+          "name": "Daring Poro",
+          "count": 3
+        },
+        {
+          "name": "Faithful Manufactor",
+          "count": 3
+        },
+        {
+          "name": "Honest Broker",
+          "count": 3
+        },
+        {
+          "name": "Noxus Hopeful",
+          "count": 3
+        },
+        {
+          "name": "Undertitan",
+          "count": 3
+        },
+        {
+          "name": "Vanguard Captain",
+          "count": 3
+        },
+        {
+          "name": "Void Hatchling",
+          "count": 3
+        },
+        {
+          "name": "Void Rush",
+          "count": 3
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--reksai-xtacio-34",
+          "deck_file": "decklists/rq-lille-2026--best-of--reksai-xtacio-34.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "xTacio",
+          "legend": "Rek'Sai, Void Burrower",
+          "placement": 34,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Yasuo Tempo",
+      "deck_count": 1,
+      "status_counts": {
+        "high_confidence": 1
+      },
+      "legends": [
+        {
+          "legend": "Yasuo",
+          "count": 1
+        }
+      ],
+      "top_cards": [
+        {
+          "name": "Defy",
+          "count": 3
+        },
+        {
+          "name": "Discipline",
+          "count": 3
+        },
+        {
+          "name": "En Garde",
+          "count": 3
+        },
+        {
+          "name": "Lonely Poro",
+          "count": 3
+        },
+        {
+          "name": "Ride the Wind",
+          "count": 3
+        },
+        {
+          "name": "Stellacorn Herder",
+          "count": 3
+        },
+        {
+          "name": "Tideturner",
+          "count": 3
+        },
+        {
+          "name": "Charm",
+          "count": 2
+        },
+        {
+          "name": "Hard Bargain",
+          "count": 2
+        },
+        {
+          "name": "Heart of Dark Ice",
+          "count": 2
+        }
+      ],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--best-of--yasuo-boky-18",
+          "deck_file": "decklists/rq-lille-2026--best-of--yasuo-boky-18.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Boky",
+          "legend": "Yasuo, Unforgiven",
+          "placement": 18,
+          "status": "high_confidence",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "archetype": "Draven Midrange",
+      "deck_count": 1,
+      "status_counts": {
+        "pending_review": 1
+      },
+      "legends": [
+        {
+          "legend": "Draven",
+          "count": 1
+        }
+      ],
+      "top_cards": [],
+      "examples": [
+        {
+          "decklist_id": "rq-lille-2026--draven-ziden",
+          "deck_file": "decklists/rq-lille-2026--draven-ziden.json",
+          "event_name": "Regional Qualifier: Lille",
+          "event_date": "2026-04-17",
+          "player": "Ziden",
+          "legend": "Draven, Glorious Executioner",
+          "placement": "Top 8",
+          "status": "pending_review",
+          "confidence": 0.35
+        }
+      ]
+    }
+  ],
+  "deck_labels": [
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ahri",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ahri.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "Teh Bestest One",
+      "legend": "Ahri, Nine-Tailed Fox",
+      "placement": "31",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Ahri Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 4/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Ahri Tempo",
+            "score": 19,
+            "signature_cards_matched": [
+              "Desert's Call",
+              "Discipline",
+              "Feral Strength",
+              "Ravenbloom Student"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--annie",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--annie.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "Prismаticismism",
+      "legend": "Annie, Dark Child",
+      "placement": "1",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Annie Chaos Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Annie Chaos Midrange",
+            "score": 25,
+            "signature_cards_matched": [
+              "Ferrous Forerunner",
+              "Flash",
+              "Kai'Sa, Survivor",
+              "Noxus Hopeful",
+              "Rek'Sai, Breacher"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--azir",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--azir.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "W4RRO",
+      "legend": "Azir, Emperor of the Sands",
+      "placement": "88",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Azir Order Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Azir Order Midrange",
+            "score": 29,
+            "signature_cards_matched": [
+              "Arise!",
+              "Desert's Call",
+              "Eye of the Herald",
+              "Guards!",
+              "Hidden Blade",
+              "Sacred Shears"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--darius",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--darius.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "Zile",
+      "legend": "Darius, Hand of Noxus",
+      "placement": "28",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Darius Rally Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Darius Rally Midrange",
+            "score": 25,
+            "signature_cards_matched": [
+              "Baited Hook",
+              "Hidden Blade",
+              "Honest Broker",
+              "Noxus Hopeful",
+              "Rally the Troops"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--draven",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--draven.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "CTCG Koko Lopez",
+      "legend": "Draven, Glorious Executioner",
+      "placement": "2",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Draven Chaos Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Draven Chaos Midrange",
+            "score": 24,
+            "signature_cards_matched": [
+              "Darius, Trifarian",
+              "Overzealous Fan",
+              "Spinning Axe",
+              "Stacked Deck",
+              "Tideturner"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ezreal",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ezreal.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "CTG Alаnzq",
+      "legend": "Ezreal, Prodigal Explorer",
+      "placement": "4",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Ezreal Spell Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Ezreal Spell Tempo",
+            "score": 30,
+            "signature_cards_matched": [
+              "Bellows Breath",
+              "Gust",
+              "Plundering Poro",
+              "Ravenbloom Student",
+              "Stacked Deck",
+              "Stupefy"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--fiora",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--fiora.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "VVES",
+      "legend": "Fiora, Grand Duelist",
+      "placement": "44",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Fiora Challenger Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Fiora Challenger Midrange",
+            "score": 23,
+            "signature_cards_matched": [
+              "B.F. Sword",
+              "Challenge",
+              "Fiora, Victorious",
+              "First Mate",
+              "Pit Rookie"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--irelia",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--irelia.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "HаruKаze",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "3",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/5 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 23,
+            "signature_cards_matched": [
+              "Defiant Dance",
+              "Discipline",
+              "Ride the Wind",
+              "Stellacorn Herder",
+              "Tideturner"
+            ],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--jax",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--jax.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "jimbo in limbo",
+      "legend": "Jax, Grandmaster at Arms",
+      "placement": "102",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Jax Equipment Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Jax Equipment Midrange",
+            "score": 29,
+            "signature_cards_matched": [
+              "Boneshiver",
+              "Brutalizer",
+              "Counter Strike",
+              "Discipline",
+              "First Mate",
+              "Guardian Angel"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--jinx",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--jinx.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "rien",
+      "legend": "Jinx, Loose Cannon",
+      "placement": "21",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Jinx Chaos Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Jinx Chaos Tempo",
+            "score": 24,
+            "signature_cards_matched": [
+              "Gust",
+              "Kai'Sa, Survivor",
+              "Noxus Hopeful",
+              "Ride the Wind",
+              "Stacked Deck"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--kaisa",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--kaisa.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "Frosty",
+      "legend": "Kai'Sa, Daughter of the Void",
+      "placement": "5",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Kai'Sa Midrange",
+        "status": "provisional",
+        "confidence": 0.6,
+        "reasons": [
+          "partial signature match: Kai'Sa, Survivor, Icathian Rain"
+        ],
+        "candidates": [
+          {
+            "archetype": "Kai'Sa Midrange",
+            "score": 6,
+            "signature_cards_matched": [
+              "Kai'Sa, Survivor",
+              "Icathian Rain"
+            ],
+            "signature_cards_total": 4
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--lee-sin",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--lee-sin.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "JumpKingPlаyer",
+      "legend": "Lee Sin, Blind Monk",
+      "placement": "85",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Lee Sin Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Lee Sin Tempo",
+            "score": 30,
+            "signature_cards_matched": [
+              "Challenge",
+              "Charm",
+              "Defy",
+              "Discipline",
+              "First Mate",
+              "Guardian Angel"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--leona",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--leona.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "Bubble Buddy",
+      "legend": "Leona, Radiant Dawn",
+      "placement": "376",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Leona Order Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 3/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Leona Order Midrange",
+            "score": 15,
+            "signature_cards_matched": [
+              "Discipline",
+              "Fiora, Victorious",
+              "Lonely Poro"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--lucian",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--lucian.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "Shаdаwx",
+      "legend": "Lucian, Purifier",
+      "placement": "141",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Lucian Challenger Aggro",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Lucian Challenger Aggro",
+            "score": 29,
+            "signature_cards_matched": [
+              "Challenge",
+              "Doran's Blade",
+              "First Mate",
+              "Gem Jammer",
+              "Kai'Sa, Survivor",
+              "Pouty Poro"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--master-yi",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--master-yi.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "ominousmilk",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": "9",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Master Yi Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 3/4 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Master Yi Tempo",
+            "score": 15,
+            "signature_cards_matched": [
+              "Discipline",
+              "Defy",
+              "En Garde"
+            ],
+            "signature_cards_total": 4
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--miss-fortune",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--miss-fortune.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "TheDisDude",
+      "legend": "Miss Fortune, Bounty Hunter",
+      "placement": "443",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Miss Fortune Midrange",
+        "status": "provisional",
+        "confidence": 0.57,
+        "reasons": [
+          "partial signature match: Stacked Deck"
+        ],
+        "candidates": [
+          {
+            "archetype": "Miss Fortune Midrange",
+            "score": 5,
+            "signature_cards_matched": [
+              "Stacked Deck"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ornn",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ornn.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "housesаrebig",
+      "legend": "Ornn, the Fire Below the Mountain",
+      "placement": "124",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Ornn Poro Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Ornn Poro Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Clockwork Keeper",
+              "Guardian Angel",
+              "Lonely Poro",
+              "Pit Crew",
+              "Poro Snax",
+              "Seal of Focus"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--renata-glasc",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--renata-glasc.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "EmoTempest",
+      "legend": "Renata Glasc, Chem-Baroness",
+      "placement": "512",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Renata Control",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Renata Control",
+            "score": 24,
+            "signature_cards_matched": [
+              "Card Sharp",
+              "Cull the Weak",
+              "Hidden Blade",
+              "Honest Broker",
+              "Hostile Takeover"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--rumble",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--rumble.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "Vаnnаn",
+      "legend": "Rumble, Mechanized Menace",
+      "placement": "692",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Rumble Mech Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Rumble Mech Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Rumble, Hotheaded",
+              "Breakneck Mech",
+              "Bubble Bot",
+              "Ferrous Forerunner",
+              "Forecaster",
+              "Gem Jammer"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--sett",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--sett.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "CTCG Collin K",
+      "legend": "Sett, The Boss",
+      "placement": "7",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Sett Challenger Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Sett Challenger Midrange",
+            "score": 24,
+            "signature_cards_matched": [
+              "Challenge",
+              "Fiora, Victorious",
+              "First Mate",
+              "Lucian, Merciless",
+              "Pit Rookie"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--sivir",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--sivir.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "Swаgyolo420yeа",
+      "legend": "Sivir, Battle Mistress",
+      "placement": "61",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Sivir Challenger Aggro",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 4/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Sivir Challenger Aggro",
+            "score": 16,
+            "signature_cards_matched": [
+              "Sivir, Mercenary",
+              "Boots of Swiftness",
+              "Challenge",
+              "Punch First"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--teemo",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--teemo.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "fusilier66",
+      "legend": "Teemo, Swift Scout",
+      "placement": "933",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Teemo Hidden Control",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Teemo Hidden Control",
+            "score": 25,
+            "signature_cards_matched": [
+              "Consult the Past",
+              "Nocturne, Horrifying",
+              "Sprite Call",
+              "Stacked Deck",
+              "Switcheroo"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--viktor",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--viktor.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "RiftboundPlus",
+      "legend": "Viktor, Herald of the Arcane",
+      "placement": "45",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Viktor Control",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 4/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Viktor Control",
+            "score": 20,
+            "signature_cards_matched": [
+              "Bellows Breath",
+              "Cull the Weak",
+              "Hidden Blade",
+              "Imperial Decree"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--volibear",
+      "deck_file": "decklists/riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--volibear.json",
+      "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+      "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+      "event_date": "2026-04-25",
+      "player": "CTCG Villionаire",
+      "legend": "Volibear, Relentless Storm",
+      "placement": "41",
+      "is_best_of_legend": true,
+      "source_tier": "trusted_secondary",
+      "archetype": {
+        "label": "Volibear Ramp Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Volibear Ramp Midrange",
+            "score": 25,
+            "signature_cards_matched": [
+              "Confront",
+              "Dazzling Aurora",
+              "Deadbloom Predator",
+              "Kadregrin the Infernal",
+              "Mobilize"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--annie-prismaticism",
+      "deck_file": "decklists/rq-lille-2026--annie-prismaticism.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Prismaticism",
+      "legend": "Annie, Dark Child",
+      "placement": "Top 4",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Annie Chaos Midrange",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Annie Chaos Midrange",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--azir-pedro-squirtle",
+      "deck_file": "decklists/rq-lille-2026--azir-pedro-squirtle.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Pedro (Squirtle)",
+      "legend": "Azir, Emperor of the Sands",
+      "placement": "Winner",
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Azir Midrange",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Azir Order Midrange",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--ahri-daniel-82",
+      "deck_file": "decklists/rq-lille-2026--best-of--ahri-daniel-82.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Daniel",
+      "legend": "Ahri, Nine-Tailed Fox",
+      "placement": 82,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Ahri Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Ahri Tempo",
+            "score": 30,
+            "signature_cards_matched": [
+              "Desert's Call",
+              "Discipline",
+              "Eager Apprentice",
+              "Feral Strength",
+              "Ravenbloom Student",
+              "Sona, Harmonious"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--annie-prismaticismism-4",
+      "deck_file": "decklists/rq-lille-2026--best-of--annie-prismaticismism-4.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Prismaticismism",
+      "legend": "Annie, Dark Child",
+      "placement": 4,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Annie Chaos Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Annie Chaos Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Ferrous Forerunner",
+              "Flash",
+              "Kai'Sa, Survivor",
+              "Noxus Hopeful",
+              "Pouty Poro",
+              "Rek'Sai, Breacher"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--azir-squirtle-1",
+      "deck_file": "decklists/rq-lille-2026--best-of--azir-squirtle-1.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Squirtle",
+      "legend": "Azir, Emperor of the Sands",
+      "placement": 1,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Azir Order Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Azir Order Midrange",
+            "score": 29,
+            "signature_cards_matched": [
+              "Arise!",
+              "Desert's Call",
+              "Eye of the Herald",
+              "Guards!",
+              "Hidden Blade",
+              "Sacred Shears"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--darius-sanan-53",
+      "deck_file": "decklists/rq-lille-2026--best-of--darius-sanan-53.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Sanan",
+      "legend": "Darius, Hand of Noxus",
+      "placement": 53,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Darius Rally Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Darius Rally Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Baited Hook",
+              "Draven, Showboat",
+              "Hidden Blade",
+              "Honest Broker",
+              "Noxus Hopeful",
+              "Rally the Troops"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--draven-ctcg-dziden-3",
+      "deck_file": "decklists/rq-lille-2026--best-of--draven-ctcg-dziden-3.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "CTCG DZiden",
+      "legend": "Draven, Glorious Executioner",
+      "placement": 3,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Draven Chaos Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Draven Chaos Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Darius, Trifarian",
+              "Overzealous Fan",
+              "Pouty Poro",
+              "Spinning Axe",
+              "Stacked Deck",
+              "Tideturner"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--ezreal-afrozial-25",
+      "deck_file": "decklists/rq-lille-2026--best-of--ezreal-afrozial-25.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Afrozial",
+      "legend": "Ezreal, Prodigal Explorer",
+      "placement": 25,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Ezreal Spell Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Ezreal Spell Tempo",
+            "score": 30,
+            "signature_cards_matched": [
+              "Bellows Breath",
+              "Gust",
+              "Plundering Poro",
+              "Ravenbloom Student",
+              "Stacked Deck",
+              "Stupefy"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--fiora-azirim-11",
+      "deck_file": "decklists/rq-lille-2026--best-of--fiora-azirim-11.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Azirim",
+      "legend": "Fiora, Grand Duelist",
+      "placement": 11,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Fiora Challenger Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Fiora Challenger Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "B.F. Sword",
+              "Challenge",
+              "Fiora, Victorious",
+              "First Mate",
+              "Lucian, Merciless",
+              "Pit Rookie"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--garen-noobvengador-217",
+      "deck_file": "decklists/rq-lille-2026--best-of--garen-noobvengador-217.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Noobvengador",
+      "legend": "Garen, Might of Demacia",
+      "placement": 217,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Garen Value Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Garen Value Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Blood Money",
+              "Catalyst of Aeons",
+              "Confront",
+              "Dazzling Aurora",
+              "Deadbloom Predator",
+              "Forge of the Future"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--irelia-natureal-5",
+      "deck_file": "decklists/rq-lille-2026--best-of--irelia-natureal-5.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Natureal",
+      "legend": "Irelia, Blade Dancer",
+      "placement": 5,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/5 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 22,
+            "signature_cards_matched": [
+              "Defiant Dance",
+              "Discipline",
+              "Ride the Wind",
+              "Stellacorn Herder",
+              "Tideturner"
+            ],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--jax-tempetedelaneige-136",
+      "deck_file": "decklists/rq-lille-2026--best-of--jax-tempetedelaneige-136.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "TEMPETEDELANEIGE",
+      "legend": "Jax, Grandmaster at Arms",
+      "placement": 136,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Jax Equipment Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Jax Equipment Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Boneshiver",
+              "Brutalizer",
+              "Counter Strike",
+              "Discipline",
+              "First Mate",
+              "Guardian Angel"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--jinx-quayou-181",
+      "deck_file": "decklists/rq-lille-2026--best-of--jinx-quayou-181.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "quayou",
+      "legend": "Jinx, Loose Cannon",
+      "placement": 181,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Jinx Chaos Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Jinx Chaos Tempo",
+            "score": 30,
+            "signature_cards_matched": [
+              "Darius, Trifarian",
+              "Gust",
+              "Kai'Sa, Survivor",
+              "Noxus Hopeful",
+              "Ride the Wind",
+              "Stacked Deck"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--kaisa-risolan-22",
+      "deck_file": "decklists/rq-lille-2026--best-of--kaisa-risolan-22.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Risolan",
+      "legend": "Kai'Sa, Daughter of the Void",
+      "placement": 22,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Kai'Sa Midrange",
+        "status": "provisional",
+        "confidence": 0.6,
+        "reasons": [
+          "partial signature match: Kai'Sa, Survivor, Icathian Rain"
+        ],
+        "candidates": [
+          {
+            "archetype": "Kai'Sa Midrange",
+            "score": 6,
+            "signature_cards_matched": [
+              "Kai'Sa, Survivor",
+              "Icathian Rain"
+            ],
+            "signature_cards_total": 4
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--lee-sin-pay-eighthundred-78",
+      "deck_file": "decklists/rq-lille-2026--best-of--lee-sin-pay-eighthundred-78.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Pay Eighthundred",
+      "legend": "Lee Sin, Blind Monk",
+      "placement": 78,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Lee Sin Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Lee Sin Tempo",
+            "score": 30,
+            "signature_cards_matched": [
+              "Challenge",
+              "Charm",
+              "Defy",
+              "Discipline",
+              "First Mate",
+              "Guardian Angel"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--leona-sei-shin-casios-238",
+      "deck_file": "decklists/rq-lille-2026--best-of--leona-sei-shin-casios-238.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Sei Shin Casios",
+      "legend": "Leona, Radiant Dawn",
+      "placement": 238,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Leona Order Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Leona Order Midrange",
+            "score": 29,
+            "signature_cards_matched": [
+              "B.F. Sword",
+              "Discipline",
+              "Emperor's Divide",
+              "Fiora, Victorious",
+              "Honest Broker",
+              "Lonely Poro"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--lucian-tcgn-otterzocker-79",
+      "deck_file": "decklists/rq-lille-2026--best-of--lucian-tcgn-otterzocker-79.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "TCGN OtterZocker",
+      "legend": "Lucian, Purifier",
+      "placement": 79,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Lucian Challenger Aggro",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Lucian Challenger Aggro",
+            "score": 30,
+            "signature_cards_matched": [
+              "Challenge",
+              "Doran's Blade",
+              "First Mate",
+              "Gem Jammer",
+              "Kai'Sa, Survivor",
+              "Pouty Poro"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--lux-dongd-65",
+      "deck_file": "decklists/rq-lille-2026--best-of--lux-dongd-65.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "DongD",
+      "legend": "Lux, Lady of Luminosity",
+      "placement": 65,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Lux Control",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Lux Control",
+            "score": 30,
+            "signature_cards_matched": [
+              "Bellows Breath",
+              "Card Sharp",
+              "Cull the Weak",
+              "Drag Under",
+              "Falling Comet",
+              "Imperial Decree"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--master-yi-schorn-2",
+      "deck_file": "decklists/rq-lille-2026--best-of--master-yi-schorn-2.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Schorn",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": 2,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Master Yi Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 3/4 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Master Yi Tempo",
+            "score": 14,
+            "signature_cards_matched": [
+              "Discipline",
+              "Defy",
+              "En Garde"
+            ],
+            "signature_cards_total": 4
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--miss-fortune-pippers-220",
+      "deck_file": "decklists/rq-lille-2026--best-of--miss-fortune-pippers-220.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "pippers",
+      "legend": "Miss Fortune, Bounty Hunter",
+      "placement": 220,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Miss Fortune Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Miss Fortune Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Catalyst of Aeons",
+              "Challenge",
+              "Dazzling Aurora",
+              "Mindsplitter",
+              "Mobilize",
+              "Stacked Deck"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--ornn-schnaitzel-478",
+      "deck_file": "decklists/rq-lille-2026--best-of--ornn-schnaitzel-478.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Schnaitzel",
+      "legend": "Ornn, the Fire Below the Mountain",
+      "placement": 478,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Ornn Poro Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Ornn Poro Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Clockwork Keeper",
+              "Guardian Angel",
+              "Lonely Poro",
+              "Pit Crew",
+              "Poro Snax",
+              "Seal of Focus"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--reksai-xtacio-34",
+      "deck_file": "decklists/rq-lille-2026--best-of--reksai-xtacio-34.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "xTacio",
+      "legend": "Rek'Sai, Void Burrower",
+      "placement": 34,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Rek'Sai Void Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Rek'Sai Void Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Blood Rush",
+              "Cull the Weak",
+              "Daring Poro",
+              "Faithful Manufactor",
+              "Honest Broker",
+              "Noxus Hopeful"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--renata-glasc-trecore-361",
+      "deck_file": "decklists/rq-lille-2026--best-of--renata-glasc-trecore-361.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Trecore",
+      "legend": "Renata Glasc, Chem-Baroness",
+      "placement": 361,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Renata Control",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Renata Control",
+            "score": 30,
+            "signature_cards_matched": [
+              "Card Sharp",
+              "Cull the Weak",
+              "Hidden Blade",
+              "Honest Broker",
+              "Hostile Takeover",
+              "Jayce, Man of Progress"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--rumble-redblar-330",
+      "deck_file": "decklists/rq-lille-2026--best-of--rumble-redblar-330.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Redblar",
+      "legend": "Rumble, Mechanized Menace",
+      "placement": 330,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Rumble Mech Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Rumble Mech Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Rumble, Hotheaded",
+              "Breakneck Mech",
+              "Bubble Bot",
+              "Ferrous Forerunner",
+              "Forecaster",
+              "Gem Jammer"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--sett-nlv-tomino-121",
+      "deck_file": "decklists/rq-lille-2026--best-of--sett-nlv-tomino-121.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "NLV Tomino",
+      "legend": "Sett, The Boss",
+      "placement": 121,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Sett Challenger Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Sett Challenger Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Challenge",
+              "Fiora, Victorious",
+              "First Mate",
+              "Honest Broker",
+              "Lucian, Merciless",
+              "Pit Rookie"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--sivir-tenrjihs-156",
+      "deck_file": "decklists/rq-lille-2026--best-of--sivir-tenrjihs-156.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "TenrjiHS",
+      "legend": "Sivir, Battle Mistress",
+      "placement": 156,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Sivir Challenger Aggro",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Sivir Challenger Aggro",
+            "score": 30,
+            "signature_cards_matched": [
+              "Sivir, Mercenary",
+              "Boots of Swiftness",
+              "Challenge",
+              "Lucian, Merciless",
+              "Overzealous Fan",
+              "Punch First"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--teemo-flashshad0w-337",
+      "deck_file": "decklists/rq-lille-2026--best-of--teemo-flashshad0w-337.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "FlashShad0w",
+      "legend": "Teemo, Swift Scout",
+      "placement": 337,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Teemo Hidden Control",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Teemo Hidden Control",
+            "score": 30,
+            "signature_cards_matched": [
+              "Consult the Past",
+              "Ember Monk",
+              "Nocturne, Horrifying",
+              "Sprite Call",
+              "Stacked Deck",
+              "Switcheroo"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--viktor-znt-agazapado-41",
+      "deck_file": "decklists/rq-lille-2026--best-of--viktor-znt-agazapado-41.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "ZNT Agazapado",
+      "legend": "Viktor, Herald of the Arcane",
+      "placement": 41,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Viktor Control",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Viktor Control",
+            "score": 30,
+            "signature_cards_matched": [
+              "Bellows Breath",
+              "Cull the Weak",
+              "Hidden Blade",
+              "Imperial Decree",
+              "Jayce, Man of Progress",
+              "Vanguard Armory"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--volibear-dv12321-286",
+      "deck_file": "decklists/rq-lille-2026--best-of--volibear-dv12321-286.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "dv12321",
+      "legend": "Volibear, Relentless Storm",
+      "placement": 286,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Volibear Ramp Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Volibear Ramp Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Blazing Scorcher",
+              "Confront",
+              "Dazzling Aurora",
+              "Deadbloom Predator",
+              "Kadregrin the Infernal",
+              "Mobilize"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--best-of--yasuo-boky-18",
+      "deck_file": "decklists/rq-lille-2026--best-of--yasuo-boky-18.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Boky",
+      "legend": "Yasuo, Unforgiven",
+      "placement": 18,
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Yasuo Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Yasuo Tempo",
+            "score": 30,
+            "signature_cards_matched": [
+              "Defy",
+              "Discipline",
+              "En Garde",
+              "Lonely Poro",
+              "Ride the Wind",
+              "Stellacorn Herder"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--draven-ziden",
+      "deck_file": "decklists/rq-lille-2026--draven-ziden.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Ziden",
+      "legend": "Draven, Glorious Executioner",
+      "placement": "Top 8",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Draven Midrange",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Draven Chaos Midrange",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--irelia-alex-shans",
+      "deck_file": "decklists/rq-lille-2026--irelia-alex-shans.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Alex Shans",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "Top 8",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--irelia-martin",
+      "deck_file": "decklists/rq-lille-2026--irelia-martin.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Martin",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "Top 8",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--irelia-natural",
+      "deck_file": "decklists/rq-lille-2026--irelia-natural.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Natural",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "Top 4",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--master-yi-bachek",
+      "deck_file": "decklists/rq-lille-2026--master-yi-bachek.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Bachek",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": "Top 8",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Master Yi Tempo",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Master Yi Tempo",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 4
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--master-yi-shawn",
+      "deck_file": "decklists/rq-lille-2026--master-yi-shawn.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Shawn",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": "Runner-Up",
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Master Yi Tempo",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Master Yi Tempo",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 4
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--top8--annie-prismaticismism-4",
+      "deck_file": "decklists/rq-lille-2026--top8--annie-prismaticismism-4.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Prismaticismism",
+      "legend": "Annie, Dark Child",
+      "placement": 4,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Annie Chaos Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Annie Chaos Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Ferrous Forerunner",
+              "Flash",
+              "Kai'Sa, Survivor",
+              "Noxus Hopeful",
+              "Pouty Poro",
+              "Rek'Sai, Breacher"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--top8--azir-squirtle-1",
+      "deck_file": "decklists/rq-lille-2026--top8--azir-squirtle-1.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Squirtle",
+      "legend": "Azir, Emperor of the Sands",
+      "placement": 1,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Azir Order Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Azir Order Midrange",
+            "score": 29,
+            "signature_cards_matched": [
+              "Arise!",
+              "Desert's Call",
+              "Eye of the Herald",
+              "Guards!",
+              "Hidden Blade",
+              "Sacred Shears"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--top8--draven-ctcg-dziden-3",
+      "deck_file": "decklists/rq-lille-2026--top8--draven-ctcg-dziden-3.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "CTCG DZiden",
+      "legend": "Draven, Glorious Executioner",
+      "placement": 3,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Draven Chaos Midrange",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 6/6 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Draven Chaos Midrange",
+            "score": 30,
+            "signature_cards_matched": [
+              "Darius, Trifarian",
+              "Overzealous Fan",
+              "Pouty Poro",
+              "Spinning Axe",
+              "Stacked Deck",
+              "Tideturner"
+            ],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--top8--irelia-alex-shans-6",
+      "deck_file": "decklists/rq-lille-2026--top8--irelia-alex-shans-6.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Alex Shans",
+      "legend": "Irelia, Blade Dancer",
+      "placement": 6,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/5 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 24,
+            "signature_cards_matched": [
+              "Defiant Dance",
+              "Discipline",
+              "Ride the Wind",
+              "Stellacorn Herder",
+              "Tideturner"
+            ],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--top8--irelia-natureal-5",
+      "deck_file": "decklists/rq-lille-2026--top8--irelia-natureal-5.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Natureal",
+      "legend": "Irelia, Blade Dancer",
+      "placement": 5,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/5 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 22,
+            "signature_cards_matched": [
+              "Defiant Dance",
+              "Discipline",
+              "Ride the Wind",
+              "Stellacorn Herder",
+              "Tideturner"
+            ],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--top8--irelia-tinodluffy-7",
+      "deck_file": "decklists/rq-lille-2026--top8--irelia-tinodluffy-7.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "tinodluffy",
+      "legend": "Irelia, Blade Dancer",
+      "placement": 7,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 5/5 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 24,
+            "signature_cards_matched": [
+              "Defiant Dance",
+              "Discipline",
+              "Ride the Wind",
+              "Stellacorn Herder",
+              "Tideturner"
+            ],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--top8--master-yi-barczek-8",
+      "deck_file": "decklists/rq-lille-2026--top8--master-yi-barczek-8.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "barczek",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": 8,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Master Yi Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 3/4 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Master Yi Tempo",
+            "score": 15,
+            "signature_cards_matched": [
+              "Discipline",
+              "Defy",
+              "En Garde"
+            ],
+            "signature_cards_total": 4
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--top8--master-yi-schorn-2",
+      "deck_file": "decklists/rq-lille-2026--top8--master-yi-schorn-2.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Schorn",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": 2,
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Master Yi Tempo",
+        "status": "high_confidence",
+        "confidence": 0.95,
+        "reasons": [
+          "matched 3/4 signature cards"
+        ],
+        "candidates": [
+          {
+            "archetype": "Master Yi Tempo",
+            "score": 14,
+            "signature_cards_matched": [
+              "Discipline",
+              "Defy",
+              "En Garde"
+            ],
+            "signature_cards_total": 4
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    }
+  ],
+  "review_queue": [
+    {
+      "decklist_id": "rq-lille-2026--azir-pedro-squirtle",
+      "deck_file": "decklists/rq-lille-2026--azir-pedro-squirtle.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Pedro (Squirtle)",
+      "legend": "Azir, Emperor of the Sands",
+      "placement": "Winner",
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Azir Midrange",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Azir Order Midrange",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--master-yi-shawn",
+      "deck_file": "decklists/rq-lille-2026--master-yi-shawn.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Shawn",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": "Runner-Up",
+      "is_best_of_legend": true,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Master Yi Tempo",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Master Yi Tempo",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 4
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--annie-prismaticism",
+      "deck_file": "decklists/rq-lille-2026--annie-prismaticism.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Prismaticism",
+      "legend": "Annie, Dark Child",
+      "placement": "Top 4",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Annie Chaos Midrange",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Annie Chaos Midrange",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--irelia-natural",
+      "deck_file": "decklists/rq-lille-2026--irelia-natural.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Natural",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "Top 4",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--draven-ziden",
+      "deck_file": "decklists/rq-lille-2026--draven-ziden.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Ziden",
+      "legend": "Draven, Glorious Executioner",
+      "placement": "Top 8",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Draven Midrange",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Draven Chaos Midrange",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 6
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--irelia-alex-shans",
+      "deck_file": "decklists/rq-lille-2026--irelia-alex-shans.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Alex Shans",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "Top 8",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--irelia-martin",
+      "deck_file": "decklists/rq-lille-2026--irelia-martin.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Martin",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "Top 8",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Irelia Tempo",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Irelia Tempo",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 5
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    },
+    {
+      "decklist_id": "rq-lille-2026--master-yi-bachek",
+      "deck_file": "decklists/rq-lille-2026--master-yi-bachek.json",
+      "event_id": "rq-lille-2026",
+      "event_name": "Regional Qualifier: Lille",
+      "event_date": "2026-04-17",
+      "player": "Bachek",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": "Top 8",
+      "is_best_of_legend": false,
+      "source_tier": "official",
+      "archetype": {
+        "label": "Master Yi Tempo",
+        "status": "pending_review",
+        "confidence": 0.35,
+        "reasons": [
+          "no strong signature package match; using generic legend label"
+        ],
+        "candidates": [
+          {
+            "archetype": "Master Yi Tempo",
+            "score": 0,
+            "signature_cards_matched": [],
+            "signature_cards_total": 4
+          }
+        ]
+      },
+      "banned_card_ids": [],
+      "banned_card_names": []
+    }
+  ]
+}

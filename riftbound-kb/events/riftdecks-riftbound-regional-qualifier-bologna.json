@@ -1,0 +1,270 @@
+{
+  "event_id": "riftdecks-riftbound-regional-qualifier-bologna",
+  "event_type": "other_official_event",
+  "event_name": "Riftbound Regional Qualifier - Bologna",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Ahri, Nine-Tailed Fox",
+    "Annie, Dark Child",
+    "Azir, Emperor of the Sands",
+    "Darius, Hand of Noxus",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Garen, Might of Demacia",
+    "Irelia, Blade Dancer",
+    "Jax, Grandmaster at Arms",
+    "Jinx, Loose Cannon",
+    "Kai'Sa, Daughter of the Void",
+    "Lee Sin, Blind Monk",
+    "Leona, Radiant Dawn",
+    "Lucian, Purifier",
+    "Lux, Lady of Luminosity",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Ornn, the Fire Below the Mountain",
+    "Renata Glasc, Chem-Baroness",
+    "Rumble, Mechanized Menace",
+    "Sett, The Boss",
+    "Sivir, Battle Mistress",
+    "Teemo, Swift Scout",
+    "Viktor, Herald of the Arcane",
+    "Volibear, Relentless Storm",
+    "Yasuo, Unforgiven"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=2&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Ahri, Nine-Tailed Fox",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--ahri",
+      "player": "Blunder",
+      "placement": "48",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--annie",
+      "player": "COPE Anªrchy",
+      "placement": "27",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Azir, Emperor of the Sands",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--azir",
+      "player": "Rocklho",
+      "placement": "50",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--darius",
+      "player": "Asefron29",
+      "placement": "116",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--draven",
+      "player": "Prismаticism",
+      "placement": "5",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--ezreal",
+      "player": "Alаnzq1",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--fiora",
+      "player": "Vendorty",
+      "placement": "53",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Garen, Might of Demacia",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--garen",
+      "player": "Tee Thebeаu",
+      "placement": "403",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--irelia",
+      "player": "krowz",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jax, Grandmaster at Arms",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--jax",
+      "player": "Lucа De Angelis",
+      "placement": "25",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jinx, Loose Cannon",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--jinx",
+      "player": "Viktor Penelski",
+      "placement": "37",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--kaisa",
+      "player": "fisicа",
+      "placement": "9",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lee Sin, Blind Monk",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--lee-sin",
+      "player": "Boxingringxd",
+      "placement": "162",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--leona",
+      "player": "Dааkkotаh97",
+      "placement": "320",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lucian, Purifier",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--lucian",
+      "player": "Lorenzo Di Colа",
+      "placement": "18",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lux, Lady of Luminosity",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--lux",
+      "player": "Ochmаn",
+      "placement": "104",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--master-yi",
+      "player": "wojtek",
+      "placement": "13",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--miss-fortune",
+      "player": "Sebiqqqqqqqqqqqq",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ornn, the Fire Below the Mountain",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--ornn",
+      "player": "Simone Frаti",
+      "placement": "490",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Renata Glasc, Chem-Baroness",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--renata-glasc",
+      "player": "JustSR",
+      "placement": "183",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rumble, Mechanized Menace",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--rumble",
+      "player": "Nаcho Gonzаlez",
+      "placement": "93",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--sett",
+      "player": "NLV Tomino",
+      "placement": "96",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--sivir",
+      "player": "xTаcio",
+      "placement": "10",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--teemo",
+      "player": "Specimen",
+      "placement": "70",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--viktor",
+      "player": "Ghosterdriver",
+      "placement": "4",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--volibear",
+      "player": "Juаnfrа Mаteo",
+      "placement": "30",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Yasuo, Unforgiven",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-bologna--best-of--yasuo",
+      "player": "Luigi Amаto",
+      "placement": "92",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

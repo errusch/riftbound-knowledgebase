@@ -1,0 +1,81 @@
+{
+  "event_id": "riftdecks-super-saturday-standard-challenge-rq-bologna",
+  "event_type": "other_official_event",
+  "event_name": "Super Saturday Standard Challenge - RQ Bologna",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Irelia, Blade Dancer",
+    "Kai'Sa, Daughter of the Void",
+    "Sivir, Battle Mistress"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=2&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-bologna--best-of--draven",
+      "player": "Tаlierrа",
+      "placement": "11",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-bologna--best-of--ezreal",
+      "player": "Arthur Trehet",
+      "placement": "8",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-bologna--best-of--fiora",
+      "player": "OniiiChän",
+      "placement": "45",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-bologna--best-of--irelia",
+      "player": "Frаtml",
+      "placement": "74",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-bologna--best-of--kaisa",
+      "player": "Blue",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-bologna--best-of--sivir",
+      "player": "itsShippаi",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

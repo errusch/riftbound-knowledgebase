@@ -1,0 +1,11 @@
+{
+  "cards": ["Baron Nashor", "Mageseeker Warden"],
+  "question": "Mageseeker Warden says units can't enter battlefields. Can Baron Nashor be played?",
+  "ruling": "Yes, it is legal. Baron's effect is a replacement effect. It replaces the event of him entering the location he was played to with him entering the Baron Pit instead. He never enters the battlefield, so Mageseeker Warden's restriction doesn't apply.",
+  "rules_context": ["As you play me replacement effects"],
+  "source": "PopCon Indy May 2026 Judge FAQ",
+  "source_url": "https://docs.google.com/document/u/1/d/13djxqHYEIuqPRxZ0vd6gSjCwPoHAdJpoxduUUoXI-JM/mobilebasic",
+  "verified_by": "Riot Games",
+  "date": "2026-05-06",
+  "tags": ["replacement", "battlefield", "entry"]
+}

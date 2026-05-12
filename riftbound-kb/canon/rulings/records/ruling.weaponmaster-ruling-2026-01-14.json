@@ -1,0 +1,35 @@
+{
+  "ruling_id": "ruling.weaponmaster-ruling-2026-01-14",
+  "kind": "ruling",
+  "title": "Weaponmaster (ruling)",
+  "card_name": "Weaponmaster",
+  "card_id": null,
+  "old_text": null,
+  "new_text": null,
+  "explanation": "Always optional despite mandatory-sounding rules text. Reminder text ('You may') is correct.",
+  "effective_date": "2026-01-14",
+  "source_doc": "Spiritforged FAQ",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Spiritforged FAQ",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
+    "source_date": "2026-01-14",
+    "retrieved_at": "2026-04-27",
+    "trust_tier": "official",
+    "notes": "Promoted from reviewed legacy ruling row; live-page quote verification still pending."
+  },
+  "verification": {
+    "status": "live_webfetch_summary_verified",
+    "verified_at": "2026-04-28",
+    "method": "official_page_webfetch_review",
+    "notes": "Official Riftbound FAQ page was fetched live with WebFetch on 2026-04-28 and the promoted summary was checked against the relevant FAQ section. This is source-verified summary evidence, not a verbatim quote.",
+    "live_matches": []
+  },
+  "legacy": {
+    "source_file": "data/rulings/weaponmaster--ruling--34.json",
+    "legacy_id": "ruling.weaponmaster--ruling--34",
+    "legacy_record_id": 34,
+    "legacy_status": "reviewed",
+    "legacy_trust_level": "derived_verified"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "event_id": "rq-lille-2026",
+  "event_type": "regional_qualifier",
+  "event_name": "Regional Qualifier: Lille",
+  "region": "EU",
+  "city": "Lille",
+  "country": "France",
+  "start_date": "2026-04-17",
+  "end_date": "2026-04-19",
+  "coverage_kind": "results",
+  "placements": [
+    {
+      "player": "Pedro (Squirtle)",
+      "legend": "Azir, Emperor of the Sands",
+      "placement": "Winner"
+    },
+    {
+      "player": "Shawn",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": "Runner-Up"
+    },
+    {
+      "player": "Natural",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "Top 4"
+    },
+    {
+      "player": "Prismaticism",
+      "legend": "Annie, Dark Child",
+      "placement": "Top 4"
+    },
+    {
+      "player": "Ziden",
+      "legend": "Draven, Glorious Executioner",
+      "placement": "Top 8"
+    },
+    {
+      "player": "Martin",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "Top 8"
+    },
+    {
+      "player": "Alex Shans",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "Top 8"
+    },
+    {
+      "player": "Bachek",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": "Top 8"
+    }
+  ],
+  "best_of_legends": [
+    "Ahri, Nine-Tailed Fox",
+    "Annie, Dark Child",
+    "Azir, Emperor of the Sands",
+    "Darius, Hand of Noxus",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Garen, Might of Demacia",
+    "Irelia, Blade Dancer",
+    "Jax, Grandmaster at Arms",
+    "Jinx, Loose Cannon",
+    "Kai'Sa, Daughter of the Void",
+    "Lee Sin, Blind Monk",
+    "Leona, Radiant Dawn",
+    "Lucian, Purifier",
+    "Lux, Lady of Luminosity",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Ornn, the Fire Below the Mountain",
+    "Rek'Sai, Void Burrower",
+    "Renata Glasc, Chem-Baroness",
+    "Rumble, Mechanized Menace",
+    "Sett, The Boss",
+    "Sivir, Battle Mistress",
+    "Teemo, Swift Scout",
+    "Viktor, Herald of the Arcane",
+    "Volibear, Relentless Storm",
+    "Yasuo, Unforgiven"
+  ],
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Regional Qualifier Lille - Day 2 (Top 8)",
+    "source_url": "https://www.youtube.com/watch?v=e05tCRhVpvg",
+    "source_date": "2026-04-19",
+    "retrieved_at": "2026-04-25",
+    "trust_tier": "official",
+    "notes": "Official Top 8 VOD. Full Top 8 summary was reconstructed in the April 25 audit; VOD transcript directly corroborates Pedro on Azir, Prismaticism on Annie in top four, Shawn/Sean on Master Yi in finals, and Pedro as champion."
+  },
+  "secondary_sources": [
+    {
+      "source_type": "best_available",
+      "source_name": "Hermes + Projects Audit — April 25, 2026",
+      "source_url": "file:///Users/eric/Playground/hermes-audit-2026-04-25.md",
+      "source_date": "2026-04-25",
+      "retrieved_at": "2026-04-26",
+      "trust_tier": "best_available",
+      "notes": "Audit preserved the Top 8 placement table used to seed this structured event record."
+    }
+  ],
+  "notes": "Root-level event added so lint/meta scripts include Lille. Top 8 placement/legend records are present, but full card lists remain unextracted from VOD/deck sources.",
+  "best_decklists": [
+    {
+      "legend": "Ahri, Nine-Tailed Fox",
+      "decklist_id": "rq-lille-2026--best-of--ahri-daniel-82",
+      "player": "Daniel",
+      "placement": 82,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "rq-lille-2026--best-of--annie-prismaticismism-4",
+      "player": "Prismaticismism",
+      "placement": 4,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Azir, Emperor of the Sands",
+      "decklist_id": "rq-lille-2026--best-of--azir-squirtle-1",
+      "player": "Squirtle",
+      "placement": 1,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "rq-lille-2026--best-of--darius-sanan-53",
+      "player": "Sanan",
+      "placement": 53,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "rq-lille-2026--best-of--draven-ctcg-dziden-3",
+      "player": "CTCG DZiden",
+      "placement": 3,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "rq-lille-2026--best-of--ezreal-afrozial-25",
+      "player": "Afrozial",
+      "placement": 25,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "rq-lille-2026--best-of--fiora-azirim-11",
+      "player": "Azirim",
+      "placement": 11,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Garen, Might of Demacia",
+      "decklist_id": "rq-lille-2026--best-of--garen-noobvengador-217",
+      "player": "Noobvengador",
+      "placement": 217,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "rq-lille-2026--best-of--irelia-natureal-5",
+      "player": "Natureal",
+      "placement": 5,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jax, Grandmaster at Arms",
+      "decklist_id": "rq-lille-2026--best-of--jax-tempetedelaneige-136",
+      "player": "TEMPETEDELANEIGE",
+      "placement": 136,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jinx, Loose Cannon",
+      "decklist_id": "rq-lille-2026--best-of--jinx-quayou-181",
+      "player": "quayou",
+      "placement": 181,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "rq-lille-2026--best-of--kaisa-risolan-22",
+      "player": "Risolan",
+      "placement": 22,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lee Sin, Blind Monk",
+      "decklist_id": "rq-lille-2026--best-of--lee-sin-pay-eighthundred-78",
+      "player": "Pay Eighthundred",
+      "placement": 78,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "rq-lille-2026--best-of--leona-sei-shin-casios-238",
+      "player": "Sei Shin Casios",
+      "placement": 238,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lucian, Purifier",
+      "decklist_id": "rq-lille-2026--best-of--lucian-tcgn-otterzocker-79",
+      "player": "TCGN OtterZocker",
+      "placement": 79,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lux, Lady of Luminosity",
+      "decklist_id": "rq-lille-2026--best-of--lux-dongd-65",
+      "player": "DongD",
+      "placement": 65,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "rq-lille-2026--best-of--master-yi-schorn-2",
+      "player": "Schorn",
+      "placement": 2,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "rq-lille-2026--best-of--miss-fortune-pippers-220",
+      "player": "pippers",
+      "placement": 220,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ornn, the Fire Below the Mountain",
+      "decklist_id": "rq-lille-2026--best-of--ornn-schnaitzel-478",
+      "player": "Schnaitzel",
+      "placement": 478,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rek'Sai, Void Burrower",
+      "decklist_id": "rq-lille-2026--best-of--reksai-xtacio-34",
+      "player": "xTacio",
+      "placement": 34,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Renata Glasc, Chem-Baroness",
+      "decklist_id": "rq-lille-2026--best-of--renata-glasc-trecore-361",
+      "player": "Trecore",
+      "placement": 361,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rumble, Mechanized Menace",
+      "decklist_id": "rq-lille-2026--best-of--rumble-redblar-330",
+      "player": "Redblar",
+      "placement": 330,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "rq-lille-2026--best-of--sett-nlv-tomino-121",
+      "player": "NLV Tomino",
+      "placement": 121,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "rq-lille-2026--best-of--sivir-tenrjihs-156",
+      "player": "TenrjiHS",
+      "placement": 156,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "rq-lille-2026--best-of--teemo-flashshad0w-337",
+      "player": "FlashShad0w",
+      "placement": 337,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "rq-lille-2026--best-of--viktor-znt-agazapado-41",
+      "player": "ZNT Agazapado",
+      "placement": 41,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "rq-lille-2026--best-of--volibear-dv12321-286",
+      "player": "dv12321",
+      "placement": 286,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Yasuo, Unforgiven",
+      "decklist_id": "rq-lille-2026--best-of--yasuo-boky-18",
+      "player": "Boky",
+      "placement": 18,
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

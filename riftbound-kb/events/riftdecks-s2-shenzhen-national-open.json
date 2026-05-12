@@ -1,0 +1,270 @@
+{
+  "event_id": "riftdecks-s2-shenzhen-national-open",
+  "event_type": "other_official_event",
+  "event_name": "S2 Shenzhen National Open",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Ahri, Nine-Tailed Fox",
+    "Annie, Dark Child",
+    "Azir, Emperor of the Sands",
+    "Darius, Hand of Noxus",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Garen, Might of Demacia",
+    "Irelia, Blade Dancer",
+    "Jax, Grandmaster at Arms",
+    "Jinx, Loose Cannon",
+    "Kai'Sa, Daughter of the Void",
+    "Lee Sin, Blind Monk",
+    "Leona, Radiant Dawn",
+    "Lucian, Purifier",
+    "Lux, Lady of Luminosity",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Ornn, the Fire Below the Mountain",
+    "Renata Glasc, Chem-Baroness",
+    "Rumble, Mechanized Menace",
+    "Sett, The Boss",
+    "Sivir, Battle Mistress",
+    "Teemo, Swift Scout",
+    "Viktor, Herald of the Arcane",
+    "Volibear, Relentless Storm",
+    "Yasuo, Unforgiven"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=2&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Ahri, Nine-Tailed Fox",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--ahri",
+      "player": "Stаnleny",
+      "placement": "73",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--annie",
+      "player": "不吃糖-羽芒",
+      "placement": "30",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Azir, Emperor of the Sands",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--azir",
+      "player": "黑炭白茶",
+      "placement": "26",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--darius",
+      "player": "joyspаce_宇智波香锅",
+      "placement": "91",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--draven",
+      "player": "EDG.Rico1997",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--ezreal",
+      "player": "AI.服务区.十三潮玩.布鲁图",
+      "placement": "44",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--fiora",
+      "player": "紫禁联合BOT服务区王",
+      "placement": "11",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Garen, Might of Demacia",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--garen",
+      "player": "火力工厂-李淮笑",
+      "placement": "750",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--irelia",
+      "player": "阿门",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jax, Grandmaster at Arms",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--jax",
+      "player": "TXG·万舞寒天",
+      "placement": "32",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jinx, Loose Cannon",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--jinx",
+      "player": "说了不要芋泥",
+      "placement": "151",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--kaisa",
+      "player": "Pokuey",
+      "placement": "9",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lee Sin, Blind Monk",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--lee-sin",
+      "player": "闪电家.BBG.神切.克己",
+      "placement": "115",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--leona",
+      "player": "叫我恺恺就行",
+      "placement": "224",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lucian, Purifier",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--lucian",
+      "player": "TCC_羊眼球",
+      "placement": "191",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lux, Lady of Luminosity",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--lux",
+      "player": "玩具坑-大冤种",
+      "placement": "223",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--master-yi",
+      "player": "杨师傅不贪",
+      "placement": "21",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--miss-fortune",
+      "player": "淘金巢.Kumаniаn",
+      "placement": "64",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ornn, the Fire Below the Mountain",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--ornn",
+      "player": "敏敏伊人梦中卿",
+      "placement": "210",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Renata Glasc, Chem-Baroness",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--renata-glasc",
+      "player": "樱刃",
+      "placement": "298",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rumble, Mechanized Menace",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--rumble",
+      "player": "梦之星-晴天",
+      "placement": "181",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--sett",
+      "player": "Acc.Muk.章鱼",
+      "placement": "84",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--sivir",
+      "player": "零号站台-阿夜",
+      "placement": "8",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--teemo",
+      "player": "卡宝-轩",
+      "placement": "262",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--viktor",
+      "player": "K+",
+      "placement": "93",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--volibear",
+      "player": "LineKа·Dioniyа",
+      "placement": "139",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Yasuo, Unforgiven",
+      "decklist_id": "riftdecks-s2-shenzhen-national-open--best-of--yasuo",
+      "player": "GOAT-宇宙第二欧皇",
+      "placement": "71",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

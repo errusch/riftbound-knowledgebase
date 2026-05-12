@@ -1,0 +1,35 @@
+{
+  "ruling_id": "ruling.deflect-rule-735-1-c-rules-change-2026-01-14",
+  "kind": "rules_change",
+  "title": "Deflect (Rule 735.1.c) (rules_change)",
+  "card_name": null,
+  "card_id": null,
+  "old_text": "Deflect cost paid once per spell/ability",
+  "new_text": "Deflect cost paid once per time the target is chosen",
+  "explanation": "Design team intended per-choice, not per-spell. Matters with Repeat and multi-target spells.",
+  "effective_date": "2026-01-14",
+  "source_doc": "Spiritforged FAQ",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Spiritforged FAQ",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
+    "source_date": "2026-01-14",
+    "retrieved_at": "2026-04-27",
+    "trust_tier": "official",
+    "notes": "Promoted from reviewed legacy ruling row; live-page quote verification still pending."
+  },
+  "verification": {
+    "status": "live_webfetch_text_verified",
+    "verified_at": "2026-04-28",
+    "method": "official_page_webfetch_review",
+    "notes": "Official Riftbound page was fetched live with WebFetch on 2026-04-28 and the promoted errata/rules-change text was checked against the current page. Treat as official-source text verified; use the source URL for publication citations.",
+    "live_matches": []
+  },
+  "legacy": {
+    "source_file": "data/rulings/deflect-rule-735-1-c--rules-change--11.json",
+    "legacy_id": "ruling.deflect-rule-735-1-c--rules-change--11",
+    "legacy_record_id": 11,
+    "legacy_status": "reviewed",
+    "legacy_trust_level": "derived_verified"
+  }
+}

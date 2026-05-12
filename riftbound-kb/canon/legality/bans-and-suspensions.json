@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "last_reviewed_at": "2026-04-27",
+  "purpose": "Canonical Riftbound bans, suspensions, and format-legality changes from official sources.",
+  "policy": {
+    "strict_source_rule": "Use official Riftbound/Riot sources only for strict legality answers.",
+    "fallback_rule": "If this registry is missing or stale, check live official Riftbound/Riot pages before answering."
+  },
+  "sources": [
+    {
+      "source_id": "official-first-bans-2026-03-31",
+      "source_type": "official",
+      "source_name": "Riftbound Official News",
+      "source_url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/announcing-riftbounds-first-bans/",
+      "title": "Announcing Riftbound's First Bans",
+      "source_date": null,
+      "retrieved_at": "2026-04-27",
+      "trust_tier": "official",
+      "quoted_scope": "Effective March 31, 2026, four cards and three battlefields will be banned in constructed."
+    }
+  ],
+  "entries": [
+    {
+      "entry_id": "standard-constructed-ban-called-shot-2026-03-31",
+      "card_name": "Called Shot",
+      "official_list_name": "Called Shot",
+      "card_ids": [
+        "sfd-122-221"
+      ],
+      "card_type": "Spell",
+      "format": "Standard Constructed",
+      "status": "banned",
+      "effective_date": "2026-03-31",
+      "source_id": "official-first-bans-2026-03-31",
+      "trust_tier": "official",
+      "notes": "Official announcement lists Called Shot under Cards banned from Riftbound Standard Constructed."
+    },
+    {
+      "entry_id": "standard-constructed-ban-draven-vanquisher-2026-03-31",
+      "card_name": "Draven, Vanquisher",
+      "official_list_name": "Draven, Vanquisher",
+      "card_ids": [
+        "sfd-020-221",
+        "sfd-020a-221"
+      ],
+      "card_type": "Unit",
+      "format": "Standard Constructed",
+      "status": "banned",
+      "effective_date": "2026-03-31",
+      "source_id": "official-first-bans-2026-03-31",
+      "trust_tier": "official",
+      "notes": "Official announcement lists Draven, Vanquisher under Cards banned from Riftbound Standard Constructed. Both known printings are included."
+    },
+    {
+      "entry_id": "standard-constructed-ban-fight-or-flight-2026-03-31",
+      "card_name": "Fight or Flight",
+      "official_list_name": "Fight or Flight",
+      "card_ids": [
+        "ogn-168-298"
+      ],
+      "card_type": "Spell",
+      "format": "Standard Constructed",
+      "status": "banned",
+      "effective_date": "2026-03-31",
+      "source_id": "official-first-bans-2026-03-31",
+      "trust_tier": "official",
+      "notes": "Official announcement lists Fight or Flight under Cards banned from Riftbound Standard Constructed."
+    },
+    {
+      "entry_id": "standard-constructed-ban-scrapheap-2026-03-31",
+      "card_name": "Scrapheap",
+      "official_list_name": "Scrapheap",
+      "card_ids": [
+        "ogn-182-298"
+      ],
+      "card_type": "Gear",
+      "format": "Standard Constructed",
+      "status": "banned",
+      "effective_date": "2026-03-31",
+      "source_id": "official-first-bans-2026-03-31",
+      "trust_tier": "official",
+      "notes": "Official announcement lists Scrapheap under Cards banned from Riftbound Standard Constructed."
+    },
+    {
+      "entry_id": "standard-constructed-ban-dreaming-tree-2026-03-31",
+      "card_name": "The Dreaming Tree",
+      "official_list_name": "Dreaming Tree",
+      "card_ids": [
+        "ogn-292-298"
+      ],
+      "card_type": "Battlefield",
+      "format": "Standard Constructed",
+      "status": "banned",
+      "effective_date": "2026-03-31",
+      "source_id": "official-first-bans-2026-03-31",
+      "trust_tier": "official",
+      "notes": "Official announcement lists Dreaming Tree under Battlefields banned from Riftbound Standard Constructed; the canonical card name is The Dreaming Tree."
+    },
+    {
+      "entry_id": "standard-constructed-ban-obelisk-of-power-2026-03-31",
+      "card_name": "Obelisk of Power",
+      "official_list_name": "Obelisk of Power",
+      "card_ids": [
+        "ogn-284-298"
+      ],
+      "card_type": "Battlefield",
+      "format": "Standard Constructed",
+      "status": "banned",
+      "effective_date": "2026-03-31",
+      "source_id": "official-first-bans-2026-03-31",
+      "trust_tier": "official",
+      "notes": "Official announcement lists Obelisk of Power under Battlefields banned from Riftbound Standard Constructed."
+    },
+    {
+      "entry_id": "standard-constructed-ban-reavers-row-2026-03-31",
+      "card_name": "Reaver's Row",
+      "official_list_name": "Reaver's Row",
+      "card_ids": [
+        "ogn-285-298"
+      ],
+      "card_type": "Battlefield",
+      "format": "Standard Constructed",
+      "status": "banned",
+      "effective_date": "2026-03-31",
+      "source_id": "official-first-bans-2026-03-31",
+      "trust_tier": "official",
+      "notes": "Official announcement lists Reaver's Row under Battlefields banned from Riftbound Standard Constructed."
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "event_id": "riftdecks-city-league-zhejiang-finals",
+  "event_type": "other_official_event",
+  "event_name": "City League: Zhejiang - Finals",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Ahri, Nine-Tailed Fox",
+    "Annie, Dark Child",
+    "Azir, Emperor of the Sands",
+    "Darius, Hand of Noxus",
+    "Diana, Scorn of the Moon",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Irelia, Blade Dancer",
+    "Ivern, Green Father",
+    "Kai'Sa, Daughter of the Void",
+    "LeBlanc, Deceiver",
+    "Lillia, Bashful Bloom",
+    "Lucian, Purifier",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Ornn, the Fire Below the Mountain",
+    "Poppy, Keeper of the Hammer",
+    "Pyke, Bloodharbor Ripper",
+    "Rengar, Pridestalker",
+    "Sett, The Boss",
+    "Sivir, Battle Mistress",
+    "Vex, Gloomist",
+    "Vi, Chosen of Vengeance",
+    "Viktor, Herald of the Arcane",
+    "Volibear, Relentless Storm"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=3&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Ahri, Nine-Tailed Fox",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--ahri",
+      "player": "水无月流歌",
+      "placement": "22",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--annie",
+      "player": "伊泽",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Azir, Emperor of the Sands",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--azir",
+      "player": "QC-白飘飘",
+      "placement": "85",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--darius",
+      "player": "存档点-ksr",
+      "placement": "30",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Diana, Scorn of the Moon",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--diana",
+      "player": "华蓝_Kаfkа",
+      "placement": "31",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--draven",
+      "player": "酷猫.龟仙人",
+      "placement": "5",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--ezreal",
+      "player": "华蓝-Tokin",
+      "placement": "7",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--fiora",
+      "player": "木木大魔王",
+      "placement": "17",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--irelia",
+      "player": "孤山飞雪_",
+      "placement": "4",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ivern, Green Father",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--ivern",
+      "player": "华蓝-时差",
+      "placement": "59",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--kaisa",
+      "player": "Noob丶神切丶暗语不动",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "LeBlanc, Deceiver",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--leblanc",
+      "player": "电气－梦不落",
+      "placement": "6",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lillia, Bashful Bloom",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--lillia",
+      "player": "Noob丶曜绘",
+      "placement": "35",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lucian, Purifier",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--lucian",
+      "player": "电气-漆实",
+      "placement": "36",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--master-yi",
+      "player": "张333",
+      "placement": "9",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--miss-fortune",
+      "player": "戏言",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ornn, the Fire Below the Mountain",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--ornn",
+      "player": "牛家庄.6657.Pаrz1vаl",
+      "placement": "49",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Poppy, Keeper of the Hammer",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--poppy",
+      "player": "Nostаr.汉堡",
+      "placement": "76",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Pyke, Bloodharbor Ripper",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--pyke",
+      "player": "rolаN",
+      "placement": "41",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rengar, Pridestalker",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--rengar",
+      "player": "卡噜噜-凌晨小",
+      "placement": "29",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--sett",
+      "player": "Noob丶红领巾狗头",
+      "placement": "72",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--sivir",
+      "player": "Noob、惰",
+      "placement": "48",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Vex, Gloomist",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--vex",
+      "player": "JCcаrd-凱",
+      "placement": "11",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Vi, Chosen of Vengeance",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--vi",
+      "player": "华蓝-九荒Snow",
+      "placement": "10",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--viktor",
+      "player": "墨逍",
+      "placement": "46",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "riftdecks-city-league-zhejiang-finals--best-of--volibear",
+      "player": "Noob、神切·一曲墨黑",
+      "placement": "16",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

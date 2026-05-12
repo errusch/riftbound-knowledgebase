@@ -1,0 +1,45 @@
+{
+  "event_id": "riftdecks-regional-rebound-rq-las-vegas",
+  "event_type": "other_official_event",
+  "event_name": "Regional Rebound - RQ Las Vegas",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Azir, Emperor of the Sands",
+    "Draven, Glorious Executioner"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=2&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Azir, Emperor of the Sands",
+      "decklist_id": "riftdecks-regional-rebound-rq-las-vegas--best-of--azir",
+      "player": "Nicholаs K",
+      "placement": "374",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-regional-rebound-rq-las-vegas--best-of--draven",
+      "player": "ItsJustSquid",
+      "placement": "26",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

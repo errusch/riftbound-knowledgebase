@@ -1,0 +1,162 @@
+{
+  "event_id": "riftdecks-season-1-regional-open-guangzhou-division",
+  "event_type": "other_official_event",
+  "event_name": "Season 1 - Regional Open - Guangzhou Division",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Ahri, Nine-Tailed Fox",
+    "Annie, Dark Child",
+    "Darius, Hand of Noxus",
+    "Jinx, Loose Cannon",
+    "Kai'Sa, Daughter of the Void",
+    "Lee Sin, Blind Monk",
+    "Leona, Radiant Dawn",
+    "Lux, Lady of Luminosity",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Sett, The Boss",
+    "Teemo, Swift Scout",
+    "Viktor, Herald of the Arcane",
+    "Volibear, Relentless Storm",
+    "Yasuo, Unforgiven"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=1&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Ahri, Nine-Tailed Fox",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--ahri",
+      "player": "MM",
+      "placement": "56",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--annie",
+      "player": "qie",
+      "placement": "22",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--darius",
+      "player": "chenpe",
+      "placement": "42",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jinx, Loose Cannon",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--jinx",
+      "player": "一边玩快攻一边摸鱼",
+      "placement": "81",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--kaisa",
+      "player": "FoxSаd",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lee Sin, Blind Monk",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--lee-sin",
+      "player": "菖蒲",
+      "placement": "74",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--leona",
+      "player": "soul",
+      "placement": "112",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lux, Lady of Luminosity",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--lux",
+      "player": "楓◎凱",
+      "placement": "236",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--master-yi",
+      "player": "幻影",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--miss-fortune",
+      "player": "惺之尘",
+      "placement": "11",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--sett",
+      "player": "爱的螺旋丸",
+      "placement": "75",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--teemo",
+      "player": "布莱克",
+      "placement": "7",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--viktor",
+      "player": "乐在麒宗-阿保",
+      "placement": "6",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--volibear",
+      "player": "飞羽",
+      "placement": "198",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Yasuo, Unforgiven",
+      "decklist_id": "riftdecks-season-1-regional-open-guangzhou-division--best-of--yasuo",
+      "player": "Coole",
+      "placement": "226",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

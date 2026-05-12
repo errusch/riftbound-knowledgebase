@@ -1,0 +1,35 @@
+{
+  "ruling_id": "ruling.falling-star-errata-2026-01-14",
+  "kind": "errata",
+  "title": "Falling Star (errata)",
+  "card_name": "Falling Star",
+  "card_id": "ogn-029-298",
+  "old_text": "Do this twice: Deal 3 to a unit. (You can choose different units.)",
+  "new_text": "Deal 3 to a unit. Deal 3 to a unit. (You can choose different units.)",
+  "explanation": "No longer reflexive triggers. Pick all targets up front, opponent reacts once, then all damage resolves.",
+  "effective_date": "2026-01-14",
+  "source_doc": "Spiritforged FAQ/Errata",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Spiritforged FAQ",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
+    "source_date": "2026-01-14",
+    "retrieved_at": "2026-04-27",
+    "trust_tier": "official",
+    "notes": "Promoted from reviewed legacy ruling row; live-page quote verification still pending."
+  },
+  "verification": {
+    "status": "live_webfetch_text_verified",
+    "verified_at": "2026-04-28",
+    "method": "official_page_webfetch_review",
+    "notes": "Official Riftbound page was fetched live with WebFetch on 2026-04-28 and the promoted errata/rules-change text was checked against the current page. Treat as official-source text verified; use the source URL for publication citations.",
+    "live_matches": []
+  },
+  "legacy": {
+    "source_file": "data/rulings/falling-star--errata--9.json",
+    "legacy_id": "ruling.falling-star--errata--9",
+    "legacy_record_id": 9,
+    "legacy_status": "reviewed",
+    "legacy_trust_level": "derived_verified"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "event_id": "riftdecks-ccs-riftbound-10-000-tournament",
+  "event_type": "other_official_event",
+  "event_name": "CCS Riftbound $10,000 Tournament",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Ahri, Nine-Tailed Fox",
+    "Annie, Dark Child",
+    "Darius, Hand of Noxus",
+    "Jinx, Loose Cannon",
+    "Kai'Sa, Daughter of the Void",
+    "Lee Sin, Blind Monk",
+    "Leona, Radiant Dawn",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Sett, The Boss",
+    "Teemo, Swift Scout",
+    "Viktor, Herald of the Arcane",
+    "Volibear, Relentless Storm",
+    "Yasuo, Unforgiven"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=1&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Ahri, Nine-Tailed Fox",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--ahri",
+      "player": "Kevin Pаtlis",
+      "placement": "27",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--annie",
+      "player": "Dizzee",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--darius",
+      "player": "Josh Pаrk",
+      "placement": "33",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jinx, Loose Cannon",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--jinx",
+      "player": "Ayden",
+      "placement": "73",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--kaisa",
+      "player": "Joey Pаlаdino",
+      "placement": "4",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lee Sin, Blind Monk",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--lee-sin",
+      "player": "Leighton Smith",
+      "placement": "114",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--leona",
+      "player": "Jаred Mаrdenborough",
+      "placement": "128",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--master-yi",
+      "player": "db_lunаloveee",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--miss-fortune",
+      "player": "Dаnny McGeehаn",
+      "placement": "11",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--sett",
+      "player": "Collin Kаiser",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--teemo",
+      "player": "Jeаn michаel Mаgueur",
+      "placement": "88",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--viktor",
+      "player": "Koy Voss",
+      "placement": "26",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--volibear",
+      "player": "Dаnny Thаler",
+      "placement": "163",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Yasuo, Unforgiven",
+      "decklist_id": "riftdecks-ccs-riftbound-10-000-tournament--best-of--yasuo",
+      "player": "Ryаn Silverа",
+      "placement": "159",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

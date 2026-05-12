@@ -1,0 +1,63 @@
+{
+  "event_id": "riftdecks-super-saturday-standard-challenge-rq-lille-saturday-11am",
+  "event_type": "other_official_event",
+  "event_name": "Super Saturday Standard Challenge - RQ Lille Saturday 11am",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Draven, Glorious Executioner",
+    "Irelia, Blade Dancer",
+    "Kai'Sa, Daughter of the Void",
+    "Viktor, Herald of the Arcane"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=2&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-lille-saturday-11am--best-of--draven",
+      "player": "JiggyJаggаJuggu1",
+      "placement": "11",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-lille-saturday-11am--best-of--irelia",
+      "player": "Friso",
+      "placement": "8",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-lille-saturday-11am--best-of--kaisa",
+      "player": "RаfuXBE",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-super-saturday-standard-challenge-rq-lille-saturday-11am--best-of--viktor",
+      "player": "Guillem M",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

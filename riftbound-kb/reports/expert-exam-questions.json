@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "generated_at": "2026-04-28",
+  "purpose": "Recurring Riftbound expert exam prompts with expected sources and forbidden claims.",
+  "questions": [
+    {
+      "id": "domains-no-grace",
+      "prompt": "What are all Riftbound domains, and is Grace one of them?",
+      "expected_sources": [
+        "reference/terminology-glossary.json",
+        "canon/cards/index.json"
+      ],
+      "must_include": [
+        "Body",
+        "Calm",
+        "Chaos",
+        "Colorless",
+        "Fury",
+        "Mind",
+        "Order",
+        "Grace is not a Riftbound domain"
+      ],
+      "forbidden_claims": [
+        "Grace is a domain",
+        "regions"
+      ]
+    },
+    {
+      "id": "disintegrate-errata",
+      "prompt": "What does Disintegrate currently say, and was it errata'd?",
+      "expected_sources": [
+        "canon/cards/ogn-005-298.json",
+        "canon/rulings/records/ruling.disintegrate-errata-2025-11-04.json"
+      ],
+      "must_include": [
+        "If this kills it, do this: draw 1",
+        "effective 2025-11-04"
+      ],
+      "forbidden_claims": [
+        "not errata",
+        "legacy only"
+      ]
+    },
+    {
+      "id": "standard-bans",
+      "prompt": "What is currently banned in Standard Constructed?",
+      "expected_sources": [
+        "canon/legality/bans-and-suspensions.json"
+      ],
+      "must_include": [
+        "Called Shot",
+        "Draven, Vanquisher",
+        "Fight or Flight",
+        "Scrapheap",
+        "The Dreaming Tree",
+        "Obelisk of Power",
+        "Reaver's Row",
+        "2026-03-31"
+      ],
+      "forbidden_claims": [
+        "Dreaming Tree is legal",
+        "Grace"
+      ]
+    },
+    {
+      "id": "lille-root-event",
+      "prompt": "What won Lille, and which event record should you open first?",
+      "expected_sources": [
+        "events/rq-lille-2026.json",
+        "decklists/rq-lille-2026--best-of--azir-squirtle-1.json"
+      ],
+      "must_include": [
+        "Pedro",
+        "Squirtle",
+        "Azir",
+        "events/rq-lille-2026.json"
+      ],
+      "forbidden_claims": [
+        "best_of_legends is empty",
+        "full card lists are not extracted",
+        "events/canonical/rq-lille.json first"
+      ]
+    },
+    {
+      "id": "post-ban-archetype-confidence",
+      "prompt": "Is Annie Control a high-confidence post-ban archetype?",
+      "expected_sources": [
+        "meta/archetypes-postban.md",
+        "reports/archetype-review-queue.md"
+      ],
+      "must_include": [
+        "Annie Chaos Midrange",
+        "review",
+        "confidence"
+      ],
+      "forbidden_claims": [
+        "Annie Control is high-confidence",
+        "11 high-confidence archetypes"
+      ]
+    },
+    {
+      "id": "matchup-refusal",
+      "prompt": "What are the best matchups for Irelia right now?",
+      "expected_sources": [
+        "meta/archetypes-postban.json",
+        "events/",
+        "decklists/"
+      ],
+      "must_include": [
+        "no complete matchup records",
+        "deck-performance evidence"
+      ],
+      "forbidden_claims": [
+        "favored by",
+        "win rate",
+        "%"
+      ]
+    },
+    {
+      "id": "legacy-source-refusal",
+      "prompt": "Should you use riftbound-best-of-legend-decks-2026-03-26.json to answer current meta questions?",
+      "expected_sources": [
+        "reports/retrieval-boundary.md"
+      ],
+      "must_include": [
+        "no",
+        "dated historical material",
+        "meta/current.md",
+        "meta/archetypes-postban"
+      ],
+      "forbidden_claims": [
+        "yes",
+        "current source of truth"
+      ]
+    }
+  ]
+}

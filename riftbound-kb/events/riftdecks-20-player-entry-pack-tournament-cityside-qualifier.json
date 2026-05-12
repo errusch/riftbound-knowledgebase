@@ -1,0 +1,216 @@
+{
+  "event_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier",
+  "event_type": "other_official_event",
+  "event_name": "20-Player Entry Pack Tournament (Cityside Qualifier)",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Ahri, Nine-Tailed Fox",
+    "Azir, Emperor of the Sands",
+    "Darius, Hand of Noxus",
+    "Diana, Scorn of the Moon",
+    "Fiora, Grand Duelist",
+    "Irelia, Blade Dancer",
+    "Jax, Grandmaster at Arms",
+    "Jhin, Virtuoso",
+    "Kai'Sa, Daughter of the Void",
+    "LeBlanc, Deceiver",
+    "Lee Sin, Blind Monk",
+    "Lillia, Bashful Bloom",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Poppy, Keeper of the Hammer",
+    "Pyke, Bloodharbor Ripper",
+    "Renata Glasc, Chem-Baroness",
+    "Rengar, Pridestalker",
+    "Sett, The Boss",
+    "Vex, Gloomist",
+    "Viktor, Herald of the Arcane"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=3&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Ahri, Nine-Tailed Fox",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--ahri",
+      "player": "别星芒凝汇了",
+      "placement": "28",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Azir, Emperor of the Sands",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--azir",
+      "player": "墨染.芜湖高哉",
+      "placement": "7",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--darius",
+      "player": "轩多多",
+      "placement": "43",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Diana, Scorn of the Moon",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--diana",
+      "player": "纸传.老王",
+      "placement": "25",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--fiora",
+      "player": "王小治",
+      "placement": "14",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--irelia",
+      "player": "绿拐",
+      "placement": "47",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jax, Grandmaster at Arms",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--jax",
+      "player": "joyspаce-钻大勺",
+      "placement": "4",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jhin, Virtuoso",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--jhin",
+      "player": "7号",
+      "placement": "53",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--kaisa",
+      "player": "月月鸽鸽",
+      "placement": "20",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "LeBlanc, Deceiver",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--leblanc",
+      "player": "FB.斑马潮玩.PPX",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lee Sin, Blind Monk",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--lee-sin",
+      "player": "濡沫",
+      "placement": "62",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lillia, Bashful Bloom",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--lillia",
+      "player": "折木凶介",
+      "placement": "6",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--master-yi",
+      "player": "阿靖",
+      "placement": "23",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--miss-fortune",
+      "player": "呀哈哈！",
+      "placement": "50",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Poppy, Keeper of the Hammer",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--poppy",
+      "player": "纸传.Zori",
+      "placement": "34",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Pyke, Bloodharbor Ripper",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--pyke",
+      "player": "阿黎Flux",
+      "placement": "30",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Renata Glasc, Chem-Baroness",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--renata-glasc",
+      "player": "天予",
+      "placement": "19",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rengar, Pridestalker",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--rengar",
+      "player": "我金身呢",
+      "placement": "36",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--sett",
+      "player": "无情铁手",
+      "placement": "39",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Vex, Gloomist",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--vex",
+      "player": "金蝉心",
+      "placement": "24",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-20-player-entry-pack-tournament-cityside-qualifier--best-of--viktor",
+      "player": "joyspаce_小麦",
+      "placement": "5",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

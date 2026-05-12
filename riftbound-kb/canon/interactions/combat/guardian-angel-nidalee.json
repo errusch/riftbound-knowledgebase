@@ -1,0 +1,11 @@
+{
+  "cards": ["Guardian Angel", "Nidalee Cat Form"],
+  "question": "Guardian Angel recalls a unit from lethal damage during combat cleanup. Does Nidalee's controller draw?",
+  "ruling": "Yes. Nidalee has won combat. The intent of the rule in the FAQ is that there will be 'no result' if units are recalled during step 3d of the combat cleanup, but Guardian Angel's replacement effect means the unit dies (triggering Nidalee's draw) before being replaced by recall.",
+  "rules_context": ["461.3.d", "FAQ Results of Combat"],
+  "source": "PopCon Indy May 2026 Judge FAQ",
+  "source_url": "https://docs.google.com/document/u/1/d/13djxqHYEIuqPRxZ0vd6gSjCwPoHAdJpoxduUUoXI-JM/mobilebasic",
+  "verified_by": "Riot Games",
+  "date": "2026-05-06",
+  "tags": ["combat", "replacement", "draw", "death"]
+}

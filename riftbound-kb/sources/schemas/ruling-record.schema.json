@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "riftbound-kb/schemas/ruling-record.schema.json",
+  "title": "Riftbound Ruling Record",
+  "type": "object",
+  "required": [
+    "ruling_id",
+    "kind",
+    "title",
+    "source",
+    "verification"
+  ],
+  "properties": {
+    "ruling_id": {
+      "type": "string"
+    },
+    "kind": {
+      "type": "string",
+      "enum": [
+        "errata",
+        "ruling",
+        "rules_change"
+      ]
+    },
+    "title": {
+      "type": "string"
+    },
+    "card_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "card_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "old_text": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "new_text": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "explanation": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "effective_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_doc": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source": {
+      "$ref": "./source-record.schema.json"
+    },
+    "verification": {
+      "type": "object",
+      "required": [
+        "status",
+        "verified_at"
+      ],
+      "properties": {
+        "status": {
+          "type": "string"
+        },
+        "verified_at": {
+          "type": "string"
+        },
+        "method": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "additionalProperties": true
+    },
+    "legacy": {
+      "type": "object",
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

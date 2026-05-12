@@ -1,0 +1,36 @@
+{
+  "event_id": "s2-city-challenge-dalian-bracket-a-2026-02-01",
+  "event_type": "other_official_event",
+  "event_name": "Season 2 City Challenge: Dalian Bracket A",
+  "region": "CN",
+  "city": "Dalian",
+  "country": "China",
+  "start_date": "2026-02-01",
+  "end_date": null,
+  "coverage_kind": "top_decks",
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks S2 Dalian City Challenge Bracket A",
+    "source_url": "https://riftdecks.com/riftbound-tournaments/s2-dalian-city-challenge-bracket-a-tournament-decks-4388",
+    "source_date": "2026-04-26",
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Structured from Hextech legend pages that cite riftdecks.com/riftboundstats.com tournament deck sources."
+  },
+  "notes": "City Challenge event record added from source-backed Hextech legend-page decklist. Coverage is partial: one Jinx Top 4 deck currently attached.",
+  "placements": [],
+  "best_of_legends": [
+    "Jinx, Loose Cannon"
+  ],
+  "secondary_sources": [],
+  "best_decklists": [
+    {
+      "legend": "Jinx, Loose Cannon",
+      "decklist_id": "s2-city-challenge-dalian-bracket-a-2026-02-01--jinx-loose-cannon-jinx",
+      "player": "JINX希尔",
+      "placement": "4th place",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

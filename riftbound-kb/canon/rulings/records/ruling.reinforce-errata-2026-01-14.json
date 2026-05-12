@@ -1,0 +1,35 @@
+{
+  "ruling_id": "ruling.reinforce-errata-2026-01-14",
+  "kind": "errata",
+  "title": "Reinforce (errata)",
+  "card_name": "Reinforce",
+  "card_id": "ogn-062-298",
+  "old_text": null,
+  "new_text": "Look at the top 5 cards of your Main Deck. You may banish a unit from among them, then play it, reducing its cost by [5]. Recycle the remaining cards.",
+  "explanation": "Banish before playing, Origins card missed in first errata",
+  "effective_date": "2026-01-14",
+  "source_doc": "Spiritforged Errata",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Spiritforged Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+    "source_date": "2026-01-14",
+    "retrieved_at": "2026-04-27",
+    "trust_tier": "official",
+    "notes": "Promoted from reviewed legacy ruling row; live-page quote verification still pending."
+  },
+  "verification": {
+    "status": "live_webfetch_text_verified",
+    "verified_at": "2026-04-28",
+    "method": "official_page_webfetch_review",
+    "notes": "Official Riftbound page was fetched live with WebFetch on 2026-04-28 and the promoted errata/rules-change text was checked against the current page. Treat as official-source text verified; use the source URL for publication citations.",
+    "live_matches": []
+  },
+  "legacy": {
+    "source_file": "data/rulings/reinforce--errata--15.json",
+    "legacy_id": "ruling.reinforce--errata--15",
+    "legacy_record_id": 15,
+    "legacy_status": "reviewed",
+    "legacy_trust_level": "derived_verified"
+  }
+}

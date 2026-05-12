@@ -1,0 +1,42 @@
+{
+  "name": "Unleashed Pre-Rift Event",
+  "id": "unleashed-pre-rift",
+  "date_start": "2026-05-01",
+  "date_end": "2026-05-07",
+  "format": "sealed",
+  "set": "Unleashed",
+  "event_type": "pre-rift",
+  "entry_cost_usd": 30,
+  "kit_contents": [
+    "1 Mini Pre-Constructed Deck (15 cards)",
+    "5 Unleashed Booster Packs",
+    "1 Pre-Rift Promo Card"
+  ],
+  "legends": [
+    "Master Yi, Wuju Master",
+    "Jhin, Virtuoso",
+    "Kha'Zix, Voidreaver",
+    "Diana, Scorn of the Moon",
+    "Vi, Piltover Enforcer",
+    "Ivern, Green Father"
+  ],
+  "sources": [
+    "https://riftmana.com/unleashed-pre-rift-event-rules-6-mini-pre-constructed-decks/"
+  ],
+  "event_id": "unleashed-pre-rift",
+  "event_name": "Unleashed Pre-Rift Event",
+  "start_date": "2026-05-01",
+  "end_date": "2026-05-07",
+  "coverage_kind": "rules_policy",
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftMana Unleashed Pre-Rift event rules",
+    "source_url": "https://riftmana.com/unleashed-pre-rift-event-rules-6-mini-pre-constructed-decks/",
+    "source_date": null,
+    "retrieved_at": "2026-04-25",
+    "trust_tier": "trusted_secondary",
+    "notes": "Existing KB source for Unleashed Pre-Rift event kit contents and seeded deck context."
+  },
+  "secondary_sources": [],
+  "best_decklists": []
+}

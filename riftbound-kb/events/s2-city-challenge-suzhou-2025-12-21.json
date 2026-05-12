@@ -1,0 +1,36 @@
+{
+  "event_id": "s2-city-challenge-suzhou-2025-12-21",
+  "event_type": "other_official_event",
+  "event_name": "Season 2 City Challenge: Suzhou",
+  "region": "CN",
+  "city": "Suzhou",
+  "country": "China",
+  "start_date": "2025-12-21",
+  "end_date": null,
+  "coverage_kind": "top_decks",
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks Suzhou City Challenge deck 1-40778",
+    "source_url": "https://riftdecks.com/riftbound-metagame/deck-1-40778",
+    "source_date": "2026-04-26",
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Structured from Hextech legend pages that cite riftdecks.com/riftboundstats.com tournament deck sources."
+  },
+  "notes": "City Challenge event record added from source-backed Hextech Rumble page. Coverage is partial and contains unresolved Rumble legend card id upstream, so no canonical decklist is attached yet.",
+  "placements": [],
+  "best_of_legends": [
+    "Rumble, Mechanized Menace"
+  ],
+  "secondary_sources": [],
+  "best_decklists": [
+    {
+      "legend": "Rumble, Mechanized Menace",
+      "decklist_id": "s2-city-challenge-suzhou-2025-12-21--rumble-mechanized-menace-sleeping-posture",
+      "player": "睡姿",
+      "placement": "49th overall",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

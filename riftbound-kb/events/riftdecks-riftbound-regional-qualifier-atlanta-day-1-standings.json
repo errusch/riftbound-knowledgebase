@@ -1,0 +1,162 @@
+{
+  "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings",
+  "event_type": "other_official_event",
+  "event_name": "Riftbound Regional Qualifier: Atlanta - Day 1 Standings",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Annie, Dark Child",
+    "Darius, Hand of Noxus",
+    "Draven, Glorious Executioner",
+    "Fiora, Grand Duelist",
+    "Jax, Grandmaster at Arms",
+    "Kai'Sa, Daughter of the Void",
+    "Leona, Radiant Dawn",
+    "Lucian, Purifier",
+    "Master Yi, Wuju Bladesman",
+    "Ornn, the Fire Below the Mountain",
+    "Renata Glasc, Chem-Baroness",
+    "Rumble, Mechanized Menace",
+    "Sivir, Battle Mistress",
+    "Teemo, Swift Scout",
+    "Viktor, Herald of the Arcane"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=2&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--annie",
+      "player": "Dаnа F",
+      "placement": "653",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--darius",
+      "player": "Grаnt W",
+      "placement": "62",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--draven",
+      "player": "Nаthаn L",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--fiora",
+      "player": "Hаris V",
+      "placement": "57",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jax, Grandmaster at Arms",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--jax",
+      "player": "Russell L",
+      "placement": "176",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--kaisa",
+      "player": "Zаch H",
+      "placement": "5",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--leona",
+      "player": "Sаmuel W",
+      "placement": "376",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lucian, Purifier",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--lucian",
+      "player": "Skylаr M",
+      "placement": "472",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--master-yi",
+      "player": "Jordin B",
+      "placement": "33",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ornn, the Fire Below the Mountain",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--ornn",
+      "player": "Brаndon N",
+      "placement": "488",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Renata Glasc, Chem-Baroness",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--renata-glasc",
+      "player": "Jonаthаn S",
+      "placement": "512",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rumble, Mechanized Menace",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--rumble",
+      "player": "Neil P",
+      "placement": "692",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--sivir",
+      "player": "Kyle M",
+      "placement": "613",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--teemo",
+      "player": "jeаn m",
+      "placement": "933",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-day-1-standings--best-of--viktor",
+      "player": "Robert S",
+      "placement": "55",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

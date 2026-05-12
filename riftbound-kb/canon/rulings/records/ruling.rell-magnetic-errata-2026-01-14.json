@@ -1,0 +1,35 @@
+{
+  "ruling_id": "ruling.rell-magnetic-errata-2026-01-14",
+  "kind": "errata",
+  "title": "Rell, Magnetic (errata)",
+  "card_name": "Rell, Magnetic",
+  "card_id": "sfd-024-221",
+  "old_text": null,
+  "new_text": "Tank. When I attack, you may play an Equipment with Energy cost no more than [2], ignoring its cost. If you do, then do this: Attach it to me.",
+  "explanation": "Reflexive trigger for attachment",
+  "effective_date": "2026-01-14",
+  "source_doc": "Spiritforged Errata",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Spiritforged Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+    "source_date": "2026-01-14",
+    "retrieved_at": "2026-04-27",
+    "trust_tier": "official",
+    "notes": "Promoted from reviewed legacy ruling row; live-page quote verification still pending."
+  },
+  "verification": {
+    "status": "live_webfetch_text_verified",
+    "verified_at": "2026-04-28",
+    "method": "official_page_webfetch_review",
+    "notes": "Official Riftbound page was fetched live with WebFetch on 2026-04-28 and the promoted errata/rules-change text was checked against the current page. Treat as official-source text verified; use the source URL for publication citations.",
+    "live_matches": []
+  },
+  "legacy": {
+    "source_file": "data/rulings/rell-magnetic--errata--17.json",
+    "legacy_id": "ruling.rell-magnetic--errata--17",
+    "legacy_record_id": 17,
+    "legacy_status": "reviewed",
+    "legacy_trust_level": "derived_verified"
+  }
+}

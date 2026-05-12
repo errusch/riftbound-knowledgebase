@@ -1,0 +1,180 @@
+{
+  "event_id": "riftdecks-city-league-beijing-finals",
+  "event_type": "other_official_event",
+  "event_name": "City League: Beijing - Finals",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Annie, Dark Child",
+    "Azir, Emperor of the Sands",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Irelia, Blade Dancer",
+    "Jhin, Virtuoso",
+    "Kai'Sa, Daughter of the Void",
+    "LeBlanc, Deceiver",
+    "Leona, Radiant Dawn",
+    "Master Yi, Wuju Bladesman",
+    "Ornn, the Fire Below the Mountain",
+    "Pyke, Bloodharbor Ripper",
+    "Rengar, Pridestalker",
+    "Rumble, Mechanized Menace",
+    "Sett, The Boss",
+    "Viktor, Herald of the Arcane"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=3&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--annie",
+      "player": "龙取悦",
+      "placement": "61",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Azir, Emperor of the Sands",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--azir",
+      "player": "斑马潮玩大熊",
+      "placement": "9",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--draven",
+      "player": "我们还行吧",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--ezreal",
+      "player": "福根大排档老味刨冰",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--fiora",
+      "player": "宝库卡牌-SBBSH-LSR",
+      "placement": "20",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--irelia",
+      "player": "Asurа.Mirror",
+      "placement": "14",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jhin, Virtuoso",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--jhin",
+      "player": "kiSuki",
+      "placement": "32",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--kaisa",
+      "player": "紫禁联合·BOT·小珂",
+      "placement": "5",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "LeBlanc, Deceiver",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--leblanc",
+      "player": "海里睡人",
+      "placement": "33",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--leona",
+      "player": "灰心",
+      "placement": "31",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--master-yi",
+      "player": "joyspаce_沉默",
+      "placement": "11",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ornn, the Fire Below the Mountain",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--ornn",
+      "player": "端极虚实_徕达",
+      "placement": "55",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Pyke, Bloodharbor Ripper",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--pyke",
+      "player": "旋木时光·阿黎Flux",
+      "placement": "35",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rengar, Pridestalker",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--rengar",
+      "player": "啊飞",
+      "placement": "18",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rumble, Mechanized Menace",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--rumble",
+      "player": "顺地",
+      "placement": "22",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--sett",
+      "player": "Joyspаce-柒盏清玖",
+      "placement": "23",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-city-league-beijing-finals--best-of--viktor",
+      "player": "紫禁联合·麻袋怪兽·陈千语",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

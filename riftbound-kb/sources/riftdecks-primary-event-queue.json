@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-04-26",
+  "source_policy": "sources/riftdecks-primary-event-source-policy.md",
+  "source_pages": {
+    "unleashed": "https://riftdecks.com/riftbound-tournaments?metagame_id=3&relevance=3&sort=attendee&direction=desc",
+    "spiritforged": "https://riftdecks.com/riftbound-tournaments?metagame_id=2&relevance=3&sort=attendee&direction=desc",
+    "origins": "https://riftdecks.com/riftbound-tournaments?metagame_id=1&relevance=3&sort=attendee&direction=desc"
+  },
+  "metagames": {
+    "unleashed": [
+      "S3 Hangzhou City Challenge",
+      "S3 Guangzhou City Challenge",
+      "S3 Tianjin City Challenge",
+      "S3 Shanghai City Challenge",
+      "S3 Nanjing City Challenge",
+      "S3 Shenzhen City Challenge",
+      "S3 Beijing City Challenge",
+      "S3 Qingdao City Challenge",
+      "S3 Xi'an City Challenge",
+      "City League: Zhejiang - Finals",
+      "20-Player Entry Pack Tournament (Cityside Qualifier)",
+      "S3 Changsha City Challenge",
+      "City League: Beijing - Finals"
+    ],
+    "spiritforged": [
+      "S2 Shenzhen National Open",
+      "Riftbound Regional Qualifier: Lille",
+      "Riftbound Regional Qualifier: Atlanta - Day 1 Standings",
+      "Riftbound Regional Qualifier - Bologna",
+      "Riftbound Regional Qualifier - Las Vegas - Final Standings",
+      "Pre-Regional Challenge - RQ Lille Friday",
+      "Pre-Regional Challenge - RQ Atlanta Friday 1pm",
+      "Regional Rebound - RQ Lille Sunday 10am",
+      "Pre-Regional Challenge - RQ Bologna",
+      "Pre-Regional Challenge - RQ Las Vegas",
+      "S2 Regional Open Chengdu",
+      "S2 Regional Open - Fuzhou",
+      "S2 Regional Open - Dalian",
+      "Super Saturday Standard Challenge - RQ Bologna",
+      "S2 Regional Open - Nanjing",
+      "Super Saturday Standard Challenge - RQ Las Vegas",
+      "Super Saturday Standard Challenge - RQ Lille Saturday 11am",
+      "Regional Rebound - RQ Las Vegas",
+      "Super Saturday Standard Challenge - RQ Atlanta Saturday 11am",
+      "Tournois Ludiverse Riftbound"
+    ],
+    "origins": [
+      "Shanghai National Open",
+      "Riftbound Houston Regional Qualifier Main Event",
+      "Friday Pre-RQ Challenge",
+      "Chongqing Regional Open",
+      "Guangzhou Regional Open",
+      "Beijing Regional Open",
+      "Hangzhou Regional Open",
+      "Season 1 - Regional Open - Beijing Division",
+      "Beijing Regional Open",
+      "Chongqing Regional Open",
+      "Season 1 - Regional Open - Guangzhou Division",
+      "Guangzhou Regional Open",
+      "Saturday $10k @ Pro Play Submit Orlando",
+      "SCG Riftbound 10K Constructed - Top 4 Split",
+      "CCS Riftbound $10,000 Tournament",
+      "JHM Cup Shanghai",
+      "Friday $5k @ Pro Play Submit Orlando",
+      "SCG CON Atlanta - $10K Constructed Riftbound",
+      "CCS $25,000 Riftbound Invitational Qualifier #1",
+      "PPG Sunday $5k @ Pro Play Submit Orlando"
+    ]
+  },
+  "notes": "Captured from RiftDecks first-page three-star tournament results sorted by player count descending. Use these names as the refresh queue; resolve exact event URLs through RiftDecks when ingesting decklists.",
+  "observed_counts": {
+    "unleashed": {
+      "first_page_count": 13,
+      "source_note": "Live RiftDecks page reports: Page 1 of 1, showing 13 record(s) out of 13 total for metagame_id=3&relevance=3."
+    },
+    "spiritforged": {
+      "first_page_count": 20,
+      "source_note": "Live RiftDecks page reports page 1 showing 20 record(s) out of 133 total for metagame_id=2&relevance=3."
+    },
+    "origins": {
+      "first_page_count": 20,
+      "source_note": "Live RiftDecks page reports page 1 showing 20 record(s) out of 122 total for metagame_id=1&relevance=3."
+    }
+  }
+}

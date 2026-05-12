@@ -1,0 +1,144 @@
+{
+  "event_id": "riftdecks-friday-5k-pro-play-submit-orlando",
+  "event_type": "other_official_event",
+  "event_name": "Friday $5k @ Pro Play Submit Orlando",
+  "region": "unknown",
+  "city": null,
+  "country": null,
+  "start_date": null,
+  "end_date": null,
+  "coverage_kind": "results",
+  "placements": [],
+  "best_of_legends": [
+    "Ahri, Nine-Tailed Fox",
+    "Annie, Dark Child",
+    "Darius, Hand of Noxus",
+    "Kai'Sa, Daughter of the Void",
+    "Lee Sin, Blind Monk",
+    "Leona, Radiant Dawn",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Sett, The Boss",
+    "Teemo, Swift Scout",
+    "Viktor, Herald of the Arcane",
+    "Volibear, Relentless Storm",
+    "Yasuo, Unforgiven"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks primary event queue",
+    "source_url": "https://riftdecks.com/riftbound-tournaments?metagame_id=1&relevance=3&sort=attendee&direction=desc",
+    "source_date": null,
+    "retrieved_at": "2026-04-26",
+    "trust_tier": "trusted_secondary",
+    "notes": "Auto-created root event for RiftDecks primary queue deck imports."
+  },
+  "secondary_sources": [],
+  "notes": "Queued from first-page three-star RiftDecks results sorted by player count descending; exact event URL/decklists not ingested yet.",
+  "best_decklists": [
+    {
+      "legend": "Ahri, Nine-Tailed Fox",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--ahri",
+      "player": "Michаel McCormick",
+      "placement": "93",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--annie",
+      "player": "Cynthiа Moreno",
+      "placement": "4",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--darius",
+      "player": "Tаylor Rаflowitz",
+      "placement": "18",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--kaisa",
+      "player": "Andrew Dovаle",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lee Sin, Blind Monk",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--lee-sin",
+      "player": "Long Le",
+      "placement": "80",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--leona",
+      "player": "Moshe Acevedo",
+      "placement": "78",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--master-yi",
+      "player": "Dаniel Zidenberg",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--miss-fortune",
+      "player": "Moe",
+      "placement": "17",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--sett",
+      "player": "Collin Kаiser",
+      "placement": "7",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--teemo",
+      "player": "Prismаticism",
+      "placement": "9",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--viktor",
+      "player": "Bryce goddаrd",
+      "placement": "14",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--volibear",
+      "player": "Michаel VU",
+      "placement": "92",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Yasuo, Unforgiven",
+      "decklist_id": "riftdecks-friday-5k-pro-play-submit-orlando--best-of--yasuo",
+      "player": "Cristopher Allen",
+      "placement": "22",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

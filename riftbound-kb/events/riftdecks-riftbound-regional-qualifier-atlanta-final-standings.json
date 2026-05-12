@@ -1,0 +1,294 @@
+{
+  "event_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings",
+  "event_type": "regional_qualifier",
+  "event_name": "Riftbound Regional Qualifier: Atlanta - Final Standings",
+  "region": "US",
+  "city": "Atlanta",
+  "country": "USA",
+  "start_date": "2026-04-25",
+  "end_date": "2026-04-26",
+  "coverage_kind": "results",
+  "placements": [
+    {
+      "player": "Prismаticismism",
+      "legend": "Annie, Dark Child",
+      "placement": "1"
+    },
+    {
+      "player": "CTCG Koko Lopez",
+      "legend": "Draven, Glorious Executioner",
+      "placement": "2"
+    },
+    {
+      "player": "HаruKаze",
+      "legend": "Irelia, Blade Dancer",
+      "placement": "3"
+    },
+    {
+      "player": "CTG Alаnzq",
+      "legend": "Ezreal, Prodigal Explorer",
+      "placement": "4"
+    },
+    {
+      "player": "Frosty",
+      "legend": "Kai'Sa, Daughter of the Void",
+      "placement": "5"
+    },
+    {
+      "player": "CTCG Collin K",
+      "legend": "Sett, The Boss",
+      "placement": "7"
+    },
+    {
+      "player": "ominousmilk",
+      "legend": "Master Yi, Wuju Bladesman",
+      "placement": "9"
+    },
+    {
+      "player": "rien",
+      "legend": "Jinx, Loose Cannon",
+      "placement": "21"
+    }
+  ],
+  "best_of_legends": [
+    "Ahri, Nine-Tailed Fox",
+    "Annie, Dark Child",
+    "Azir, Emperor of the Sands",
+    "Darius, Hand of Noxus",
+    "Draven, Glorious Executioner",
+    "Ezreal, Prodigal Explorer",
+    "Fiora, Grand Duelist",
+    "Irelia, Blade Dancer",
+    "Jax, Grandmaster at Arms",
+    "Jinx, Loose Cannon",
+    "Kai'Sa, Daughter of the Void",
+    "Lee Sin, Blind Monk",
+    "Leona, Radiant Dawn",
+    "Lucian, Purifier",
+    "Master Yi, Wuju Bladesman",
+    "Miss Fortune, Bounty Hunter",
+    "Ornn, the Fire Below the Mountain",
+    "Renata Glasc, Chem-Baroness",
+    "Rumble, Mechanized Menace",
+    "Sett, The Boss",
+    "Sivir, Battle Mistress",
+    "Teemo, Swift Scout",
+    "Viktor, Herald of the Arcane",
+    "Volibear, Relentless Storm"
+  ],
+  "source": {
+    "source_type": "trusted_secondary",
+    "source_name": "RiftDecks Atlanta Final Standings",
+    "source_url": "https://riftdecks.com/riftbound-tournaments/riftbound-regional-qualifier-atlanta-final-standings-tournament-decks-7872",
+    "source_date": "2026-04-25",
+    "retrieved_at": "2026-04-28",
+    "trust_tier": "trusted_secondary",
+    "notes": "Imported from RiftDecks final standings after official Atlanta RQ concluded. Use as trusted secondary decklist/result evidence until official written Top Decks coverage is promoted."
+  },
+  "secondary_sources": [
+    {
+      "source_type": "official",
+      "source_name": "Eyes on Atlanta - What to Know",
+      "source_url": "https://riftbound.leagueoflegends.com/en-us/news/announcements/eyes-on-atlanta-what-to-know/",
+      "source_date": "2026-04-13",
+      "retrieved_at": "2026-04-28",
+      "trust_tier": "official",
+      "notes": "Official announcement/coverage hub for Atlanta RQ; does not itself provide imported decklists."
+    }
+  ],
+  "notes": "Final standings best-of-legend decklists imported from RiftDecks Export TXT. Cloudflare block encountered on an earlier IP; successful crawl used 2-4s delays and abort-on-security-block safeguards.",
+  "best_decklists": [
+    {
+      "legend": "Ahri, Nine-Tailed Fox",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ahri",
+      "player": "Teh Bestest One",
+      "placement": "31",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Annie, Dark Child",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--annie",
+      "player": "Prismаticismism",
+      "placement": "1",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Azir, Emperor of the Sands",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--azir",
+      "player": "W4RRO",
+      "placement": "88",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Darius, Hand of Noxus",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--darius",
+      "player": "Zile",
+      "placement": "28",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Draven, Glorious Executioner",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--draven",
+      "player": "CTCG Koko Lopez",
+      "placement": "2",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ezreal, Prodigal Explorer",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ezreal",
+      "player": "CTG Alаnzq",
+      "placement": "4",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Fiora, Grand Duelist",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--fiora",
+      "player": "VVES",
+      "placement": "44",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Irelia, Blade Dancer",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--irelia",
+      "player": "HаruKаze",
+      "placement": "3",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jax, Grandmaster at Arms",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--jax",
+      "player": "jimbo in limbo",
+      "placement": "102",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Jinx, Loose Cannon",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--jinx",
+      "player": "rien",
+      "placement": "21",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--kaisa",
+      "player": "Frosty",
+      "placement": "5",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lee Sin, Blind Monk",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--lee-sin",
+      "player": "JumpKingPlаyer",
+      "placement": "85",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Leona, Radiant Dawn",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--leona",
+      "player": "Bubble Buddy",
+      "placement": "376",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Lucian, Purifier",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--lucian",
+      "player": "Shаdаwx",
+      "placement": "141",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Master Yi, Wuju Bladesman",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--master-yi",
+      "player": "ominousmilk",
+      "placement": "9",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--miss-fortune",
+      "player": "TheDisDude",
+      "placement": "443",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Ornn, the Fire Below the Mountain",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--ornn",
+      "player": "housesаrebig",
+      "placement": "124",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Renata Glasc, Chem-Baroness",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--renata-glasc",
+      "player": "EmoTempest",
+      "placement": "512",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Rumble, Mechanized Menace",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--rumble",
+      "player": "Vаnnаn",
+      "placement": "692",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sett, The Boss",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--sett",
+      "player": "CTCG Collin K",
+      "placement": "7",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Sivir, Battle Mistress",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--sivir",
+      "player": "Swаgyolo420yeа",
+      "placement": "61",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Teemo, Swift Scout",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--teemo",
+      "player": "fusilier66",
+      "placement": "933",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Viktor, Herald of the Arcane",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--viktor",
+      "player": "RiftboundPlus",
+      "placement": "45",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    },
+    {
+      "legend": "Volibear, Relentless Storm",
+      "decklist_id": "riftdecks-riftbound-regional-qualifier-atlanta-final-standings--best-of--volibear",
+      "player": "CTCG Villionаire",
+      "placement": "41",
+      "selection": "best_available_by_event_placement",
+      "has_full_card_list": true
+    }
+  ]
+}

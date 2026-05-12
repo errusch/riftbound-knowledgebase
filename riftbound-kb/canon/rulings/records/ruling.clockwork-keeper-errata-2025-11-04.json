@@ -1,0 +1,35 @@
+{
+  "ruling_id": "ruling.clockwork-keeper-errata-2025-11-04",
+  "kind": "errata",
+  "title": "Clockwork Keeper (errata)",
+  "card_name": "Clockwork Keeper",
+  "card_id": "ogn-044-298",
+  "old_text": "As you play me, you may pay [C] as an additional cost. If you do, draw 1.",
+  "new_text": "You may pay [C] as an additional cost to play me. When you play me, if you paid the additional cost, draw 1.",
+  "explanation": null,
+  "effective_date": "2025-11-04",
+  "source_doc": "Origins Card Errata",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Origins Card Errata",
+    "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/",
+    "source_date": "2025-11-04",
+    "retrieved_at": "2026-04-27",
+    "trust_tier": "official",
+    "notes": "Promoted from reviewed legacy ruling row; live-page quote verification still pending."
+  },
+  "verification": {
+    "status": "live_webfetch_text_verified",
+    "verified_at": "2026-04-28",
+    "method": "official_page_webfetch_review",
+    "notes": "Official Riftbound page was fetched live with WebFetch on 2026-04-28 and the promoted errata/rules-change text was checked against the current page. Treat as official-source text verified; use the source URL for publication citations.",
+    "live_matches": []
+  },
+  "legacy": {
+    "source_file": "data/rulings/clockwork-keeper--errata--4.json",
+    "legacy_id": "ruling.clockwork-keeper--errata--4",
+    "legacy_record_id": 4,
+    "legacy_status": "reviewed",
+    "legacy_trust_level": "derived_verified"
+  }
+}
