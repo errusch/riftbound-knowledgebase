@@ -1,0 +1,176 @@
+{
+  "decklist_id": "rq-utrecht-2026--1st--azir-emperor-of-the-sands",
+  "event_id": "rq-utrecht-2026",
+  "player": "Squirtle",
+  "legend": "Azir, Emperor of the Sands",
+  "placement": "1st",
+  "record": "15-0-1",
+  "is_best_of_legend": true,
+  "source": {
+    "source_type": "community",
+    "source_name": "riftDecks.com winning decklist",
+    "source_url": "https://riftdecks.com/riftbound-metagame/deck-azir-emperor-of-the-sands-183834",
+    "source_date": "2026-06-14",
+    "retrieved_at": "2026-06-23",
+    "trust_tier": "community",
+    "notes": "1st-place winning decklist retrieved from the riftdecks deck page (rendered via browser, Cloudflare-gated). 55 mainboard + 8 sideboard; legend carried in the legend field per KB convention."
+  },
+  "cards": [
+    {
+      "card_id": "sfd-177-221",
+      "count": 1,
+      "name": "Azir, Sovereign",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-053-219",
+      "count": 1,
+      "name": "Scuttle Crab",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-176-219",
+      "count": 1,
+      "name": "Vi, Peacekeeper",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-033-221",
+      "count": 3,
+      "name": "Doran's Shield",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-153-221",
+      "count": 3,
+      "name": "Eye of the Herald",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-039-219",
+      "count": 3,
+      "name": "Soul Sword",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-042-221",
+      "count": 3,
+      "name": "Brutalizer",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-161-221",
+      "count": 3,
+      "name": "B.F. Sword",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 3,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-046-298",
+      "count": 3,
+      "name": "En Garde",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-163-221",
+      "count": 3,
+      "name": "Deathgrip",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-058-298",
+      "count": 3,
+      "name": "Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-213-298",
+      "count": 3,
+      "name": "Hidden Blade",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-042-219",
+      "count": 2,
+      "name": "Back Off",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-154-221",
+      "count": 2,
+      "name": "Guards!",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-198-221",
+      "count": 3,
+      "name": "Arise!",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-210-221",
+      "count": 1,
+      "name": "Hall of Legends",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-217-221",
+      "count": 1,
+      "name": "Seat of Power",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-294-298",
+      "count": 1,
+      "name": "Trifarian War Camp",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 7,
+      "name": "Calm Rune",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-214a-298",
+      "count": 5,
+      "name": "Order Rune",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-043-298",
+      "count": 2,
+      "name": "Charm",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-224-298",
+      "count": 2,
+      "name": "Salvage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-032-221",
+      "count": 1,
+      "name": "Disarming Rake",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "unl-169-219",
+      "count": 2,
+      "name": "Ashe, Focused",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "unl-176-219",
+      "count": 1,
+      "name": "Vi, Peacekeeper",
+      "section": "sideboard"
+    }
+  ]
+}

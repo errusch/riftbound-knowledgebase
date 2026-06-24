@@ -1,0 +1,200 @@
+{
+  "decklist_id": "s3-tianjin-regional-open-2026--1st--master-yi-wuju-bladesman",
+  "event_id": "s3-tianjin-regional-open-2026",
+  "player": "陈千语 (Chen Qianyu)",
+  "legend": "Master Yi, Wuju Bladesman",
+  "placement": "1st",
+  "record": null,
+  "is_best_of_legend": true,
+  "source": {
+    "source_type": "community",
+    "source_name": "riftDecks.com winning decklist",
+    "source_url": "https://riftdecks.com/riftbound-metagame/deck-chen-qian-yu-zhi-chi-er-hou-yong-179134",
+    "source_date": "2026-06-07",
+    "retrieved_at": "2026-06-23",
+    "trust_tier": "community",
+    "notes": "1st-place winning decklist retrieved from the riftdecks deck page (rendered via browser, Cloudflare-gated). 55 mainboard + 8 sideboard; legend carried in the legend field per KB convention."
+  },
+  "cards": [
+    {
+      "card_id": "unl-113a-219",
+      "count": 1,
+      "name": "Master Yi, Tempered",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-221-219",
+      "count": 3,
+      "name": "Lonely Poro",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-136-298",
+      "count": 2,
+      "name": "Pit Rookie",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-053-219",
+      "count": 3,
+      "name": "Scuttle Crab",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-132-298",
+      "count": 2,
+      "name": "First Mate",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-109-221",
+      "count": 2,
+      "name": "Akshan, Mischievous",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-120-219",
+      "count": 3,
+      "name": "Rengar, Trophy Hunter",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-105-221",
+      "count": 3,
+      "name": "Ruin Runner",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-077-298",
+      "count": 2,
+      "name": "Zhonya's Hourglass",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-043-298",
+      "count": 3,
+      "name": "Charm",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-045-298",
+      "count": 3,
+      "name": "Defy",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-046-298",
+      "count": 2,
+      "name": "En Garde",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-097-221",
+      "count": 3,
+      "name": "Punch First",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 2,
+      "name": "Sabotage",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "count": 1,
+      "name": "Challenge",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-058-298",
+      "count": 3,
+      "name": "Discipline",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-045-221",
+      "count": 1,
+      "name": "Not So Fast",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-154-298",
+      "count": 1,
+      "name": "Primal Strength",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "sfd-207-221",
+      "count": 1,
+      "name": "Emperor's Dais",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "unl-215-219",
+      "count": 1,
+      "name": "Star Spring",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-290-298",
+      "count": 1,
+      "name": "The Arena's Greatest",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-126-298",
+      "count": 6,
+      "name": "Body Rune",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-042-298",
+      "count": 6,
+      "name": "Calm Rune",
+      "section": "mainboard"
+    },
+    {
+      "card_id": "ogn-156-298",
+      "count": 1,
+      "name": "Sabotage",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-128-298",
+      "count": 1,
+      "name": "Challenge",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "unl-103-219",
+      "count": 1,
+      "name": "Disposal Order",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-045-221",
+      "count": 1,
+      "name": "Not So Fast",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "sfd-032-221",
+      "count": 2,
+      "name": "Disarming Rake",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "ogn-132-298",
+      "count": 1,
+      "name": "First Mate",
+      "section": "sideboard"
+    },
+    {
+      "card_id": "unl-060-219",
+      "count": 1,
+      "name": "Vilemaw",
+      "section": "sideboard"
+    }
+  ]
+}

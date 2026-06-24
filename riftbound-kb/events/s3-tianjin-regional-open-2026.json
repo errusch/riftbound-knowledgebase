@@ -1,0 +1,108 @@
+{
+  "event_id": "s3-tianjin-regional-open-2026",
+  "event_type": "regional",
+  "event_name": "S3 Tianjin Regional Open",
+  "region": "CN",
+  "city": "Tianjin",
+  "country": "China",
+  "start_date": "2026-06-06",
+  "end_date": "2026-06-07",
+  "format": "unleashed",
+  "coverage_kind": "results",
+  "field_size": 640,
+  "placements": [
+    {
+      "place": 1,
+      "player": "陈千语 (Chen Qianyu)",
+      "legend": "Master Yi, Wuju Bladesman",
+      "record": null,
+      "confidence": "high"
+    },
+    {
+      "place": 2,
+      "player": "GREY-邮差",
+      "legend": "Diana, Scorn of the Moon",
+      "record": null,
+      "confidence": "high"
+    },
+    {
+      "place": 3,
+      "player": "FSW.半岛铁盒Wm7",
+      "legend": "Rek'Sai, Void Burrower",
+      "record": null,
+      "confidence": "medium_high"
+    },
+    {
+      "place": 4,
+      "player": "D.C环游KJ",
+      "legend": "Pyke, Bloodharbor Ripper",
+      "record": null,
+      "confidence": "medium_high"
+    },
+    {
+      "place": 5,
+      "player": "CCB.春",
+      "legend": "Irelia, Blade Dancer",
+      "record": null,
+      "confidence": "low",
+      "name_note": "Seats 5-8 ordinal pairing inferred from the Runes & Rift legend list; legends firm, exact player-to-ordinal not pinned."
+    },
+    {
+      "place": 6,
+      "player": "Rosencrantz",
+      "legend": "Irelia, Blade Dancer",
+      "record": null,
+      "confidence": "low"
+    },
+    {
+      "place": 7,
+      "player": "墨染_冬月Ovo",
+      "legend": "Rek'Sai, Void Burrower",
+      "record": null,
+      "confidence": "low"
+    },
+    {
+      "place": 8,
+      "player": "Gambit.叶",
+      "legend": "Diana, Scorn of the Moon",
+      "record": null,
+      "confidence": "low"
+    }
+  ],
+  "best_of_legends": [],
+  "runner_up": {
+    "player": "GREY-邮差",
+    "legend": "Diana, Scorn of the Moon",
+    "record": null
+  },
+  "notes": "Chen Qianyu won the Tianjin Regional Open on Master Yi, Wuju Bladesman, defeating GREY-邮差's Diana, Scorn of the Moon in the final, and with the win Master Yi became the first legend to take two regional wins in the Unleashed season. The 640-player field was shaped by Irelia, Rek'Sai, Pyke, and Diana across the Top 8.",
+  "sources": [
+    {
+      "source_type": "community",
+      "source_name": "riftdecks — S3 Tianjin Regional Open",
+      "source_url": "https://riftdecks.com/riftbound-tournaments/s3-tianjin-regional-open-tournament-decks-11863",
+      "source_date": "2026-06-07",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community"
+    },
+    {
+      "source_type": "community",
+      "source_name": "riftbound.gg — Tianjin",
+      "source_url": "https://riftbound.gg/tianjin-regional-qualifier/",
+      "source_date": "2026-06-07",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community"
+    },
+    {
+      "source_type": "community",
+      "source_name": "Runes & Rift results post (X)",
+      "source_url": "https://x.com/RunesAndRift/status/2064020914442752160",
+      "source_date": "2026-06-07",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community"
+    }
+  ],
+  "trust_tier": "community",
+  "status": "results_verified",
+  "verification_note": "Winner verified 2026-06-23 against riftdecks, riftbound.gg, and a Runes & Rift results post, plus a grand-finals VOD, with verbatim evidence. No win-loss records were published, so records are null. Top-8 legends are firm; the exact ordinal pairing for seats 5-8 is inferred from the legend list and marked low confidence."
+}

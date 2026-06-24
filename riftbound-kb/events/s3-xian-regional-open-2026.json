@@ -1,0 +1,107 @@
+{
+  "event_id": "s3-xian-regional-open-2026",
+  "event_type": "regional",
+  "event_name": "S3 Xi'an Regional Open",
+  "region": "CN",
+  "city": "Xi'an",
+  "country": "China",
+  "start_date": "2026-05-23",
+  "end_date": "2026-05-24",
+  "format": "unleashed",
+  "coverage_kind": "results",
+  "field_size": 640,
+  "placements": [
+    {
+      "place": 1,
+      "player": "Aipotu",
+      "legend": "Azir, Emperor of the Sands",
+      "record": null,
+      "confidence": "high"
+    },
+    {
+      "place": 2,
+      "player": "放逐之刃",
+      "legend": "Diana, Scorn of the Moon",
+      "record": null,
+      "confidence": "high"
+    },
+    {
+      "finish_band": "semifinalist",
+      "player": "EDG.Rico1997",
+      "legend": "Irelia, Blade Dancer",
+      "record": null,
+      "confidence": "medium_high"
+    },
+    {
+      "finish_band": "semifinalist",
+      "player": "紫禁·麻袋·Sdubby",
+      "legend": "Irelia, Blade Dancer",
+      "record": null,
+      "confidence": "medium_high"
+    },
+    {
+      "finish_band": "top8",
+      "player": "卡殿.Noob清柒",
+      "legend": "Vex, Gloomist",
+      "record": null,
+      "confidence": "medium"
+    },
+    {
+      "finish_band": "top8",
+      "player": "DWT-阿龙",
+      "legend": "LeBlanc, Deceiver",
+      "record": null,
+      "confidence": "medium"
+    },
+    {
+      "finish_band": "top8",
+      "player": "CCB.春",
+      "legend": "Irelia, Blade Dancer",
+      "record": null,
+      "confidence": "medium"
+    },
+    {
+      "finish_band": "top8",
+      "player": "北京泽萱-Cui",
+      "legend": "Irelia, Blade Dancer",
+      "record": null,
+      "confidence": "medium"
+    }
+  ],
+  "best_of_legends": [],
+  "runner_up": {
+    "player": "放逐之刃",
+    "legend": "Diana, Scorn of the Moon",
+    "record": null
+  },
+  "notes": "Aipotu won the Xi'an Regional Open on Azir, Emperor of the Sands, defeating 放逐之刃's Diana, Scorn of the Moon in a long Grand Finals to become the first two-time regional champion of the season. Irelia, Blade Dancer was the most common legend across the 640-player Top 8 with four copies, though none of them reached the final.",
+  "sources": [
+    {
+      "source_type": "community",
+      "source_name": "riftdecks — S3 Xi'an Regional Open",
+      "source_url": "https://riftdecks.com/riftbound-tournaments/s3-xi-an-regional-open-tournament-decks-10763",
+      "source_date": "2026-05-24",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community"
+    },
+    {
+      "source_type": "community",
+      "source_name": "riftbound.gg — Xi'an",
+      "source_url": "https://riftbound.gg/xian-regional-qualifier/",
+      "source_date": "2026-05-24",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community"
+    },
+    {
+      "source_type": "community",
+      "source_name": "Runes & Rift results post (X)",
+      "source_url": "https://x.com/RunesAndRift/status/2058582604782141588",
+      "source_date": "2026-05-24",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community"
+    }
+  ],
+  "trust_tier": "community",
+  "status": "results_verified",
+  "verification_note": "Winner verified 2026-06-23 against riftdecks (deck and official post), riftbound.gg, a Runes & Rift post, piltoverarchive, mobalytics, and a grand-finals VOD, with verbatim evidence. No win-loss records were published, so records are null, and the sources rank only into Top 4 / Top 8 tiers rather than strict ordinals."
+}

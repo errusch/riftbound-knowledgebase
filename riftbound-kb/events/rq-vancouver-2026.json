@@ -1,0 +1,108 @@
+{
+  "event_id": "rq-vancouver-2026",
+  "event_type": "regional_qualifier",
+  "event_name": "Regional Qualifier: Vancouver",
+  "region": "NA",
+  "city": "Vancouver",
+  "country": "Canada",
+  "start_date": "2026-05-30",
+  "end_date": "2026-05-31",
+  "format": "unleashed",
+  "coverage_kind": "results",
+  "field_size": 1833,
+  "placements": [
+    {
+      "place": 1,
+      "player": "CTG Alanzq",
+      "legend": "Diana, Scorn of the Moon",
+      "record": "14-0-2",
+      "confidence": "high"
+    },
+    {
+      "place": 2,
+      "player": "ASC samdsherman",
+      "legend": "Rengar, Pridestalker",
+      "record": "13-2-1",
+      "confidence": "high"
+    },
+    {
+      "place": 3,
+      "player": "TSS housesarebig",
+      "legend": "Master Yi, Wuju Bladesman",
+      "record": "13-2-0",
+      "confidence": "medium_high"
+    },
+    {
+      "place": 4,
+      "player": "Dhawally",
+      "legend": "Diana, Scorn of the Moon",
+      "record": "12-1-2",
+      "confidence": "medium_high"
+    },
+    {
+      "place": 5,
+      "player": "Rocklho",
+      "legend": "Azir, Emperor of the Sands",
+      "record": "11-2-1",
+      "confidence": "medium"
+    },
+    {
+      "place": 6,
+      "player": "Arito",
+      "legend": "Irelia, Blade Dancer",
+      "record": "11-2-1",
+      "confidence": "medium"
+    },
+    {
+      "place": 7,
+      "player": "wysley / Swagyolo420yea",
+      "legend": "Viktor / Sivir, Battle Mistress (sources disagree)",
+      "record": "11-2-0",
+      "confidence": "low",
+      "name_note": "Seats 7-8 conflict between Yomi's Place and riftbound.gg/official."
+    },
+    {
+      "place": 8,
+      "player": "Prismaticismism / BaoBaoaz",
+      "legend": "Annie, Dark Child / Irelia, Blade Dancer (sources disagree)",
+      "record": "11-2-0",
+      "confidence": "low"
+    }
+  ],
+  "best_of_legends": [],
+  "runner_up": {
+    "player": "ASC samdsherman",
+    "legend": "Rengar, Pridestalker",
+    "record": "13-2-1"
+  },
+  "notes": "CTG Alanzq won the Vancouver Regional Qualifier on Diana, Scorn of the Moon at 14-0-2, defeating samdsherman's Rengar, Pridestalker in the final to claim a second regional title. The 1,833-player field, the largest of the Western qualifiers, also carried a Master Yi semifinal run and a second Diana into the Top 4.",
+  "sources": [
+    {
+      "source_type": "community",
+      "source_name": "Yomi's Place — RQ Vancouver standings",
+      "source_url": "https://rift.yomis-place.de/vancouver",
+      "source_date": "2026-05-31",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community"
+    },
+    {
+      "source_type": "official",
+      "source_name": "Riftbound official — Vancouver's Top Decks",
+      "source_url": "https://riftbound.leagueoflegends.com/en-us/news/organizedplay/vancouvers-top-decks/",
+      "source_date": "2026-05-31",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "official"
+    },
+    {
+      "source_type": "community",
+      "source_name": "riftdecks official results post (X)",
+      "source_url": "https://x.com/riftdecks/status/2062578078576935077",
+      "source_date": "2026-05-31",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community"
+    }
+  ],
+  "trust_tier": "community",
+  "status": "results_verified",
+  "verification_note": "Winner verified 2026-06-23 against four independent sources (Yomi's Place standings and metadata, the official Riftbound editorial, the riftdecks results post) with verbatim evidence, and it matches the existing transcript-derived record in events/canonical/rq-vancouver.json. Top-8 seats 1-6 agree across sources; seats 7-8 conflict and are marked low confidence."
+}
