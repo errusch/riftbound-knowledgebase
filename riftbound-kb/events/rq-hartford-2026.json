@@ -1,0 +1,123 @@
+{
+  "event_id": "rq-hartford-2026",
+  "event_type": "regional_qualifier",
+  "event_name": "Regional Qualifier: Hartford",
+  "region": "US",
+  "city": "Hartford",
+  "country": "United States",
+  "start_date": "2026-06-19",
+  "end_date": "2026-06-21",
+  "format": "unleashed",
+  "coverage_kind": "results",
+  "field_size": 1954,
+  "placements": [
+    {
+      "place": 1,
+      "player": "Factor",
+      "legend": "Master Yi, Wuju Bladesman",
+      "record": "14-1-1",
+      "evidence": "riftdecks.com RQ Hartford Finals Standings: '1st 14-1-1 Master Yi, Wuju Bladesman by Factor'; corroborated by riftbound.gg ('crowned Master Yi ... Winner with 14-1-1') and rift.yomis-place.de overall standings (#1 FactorElo, Master Yi, Wuju Bladesman, 14-1-1).",
+      "confidence": "high"
+    },
+    {
+      "place": 2,
+      "player": "bsweitz",
+      "legend": "Diana, Scorn of the Moon",
+      "record": "13-2-1",
+      "evidence": "riftdecks.com '2nd 13-2-1 Diana, Scorn of the Moon by bsweitz'; riftbound.gg ('Diana ... Finalist with 13-2-1'); yomis-place #2 bsweitzElo.",
+      "confidence": "high"
+    },
+    {
+      "place": 3,
+      "player": "Bradykin",
+      "legend": "Ezreal, Prodigal Explorer",
+      "record": "12-1-2",
+      "evidence": "riftdecks.com '3rd 12-1-2 Ezreal, Prodigal Explorer by Bradykin'; riftbound.gg ('Ezreal ... Top 4 with 12-1-2'); yomis-place #3 BradykinElo.",
+      "confidence": "high"
+    },
+    {
+      "place": 4,
+      "player": "linsanity",
+      "legend": "Diana, Scorn of the Moon",
+      "record": "12-2-1",
+      "evidence": "riftdecks.com '4th 12-2-1 Diana, Scorn of the Moon by linsanity'; yomis-place #4 linsanityElo.",
+      "confidence": "high"
+    },
+    {
+      "place": 5,
+      "player": "ASC Evansrhim",
+      "legend": "Diana, Scorn of the Moon",
+      "record": "11-2-1",
+      "evidence": "riftdecks.com 5th 11-2-1 Diana by ASC Evansrhim; yomis-place #5.",
+      "confidence": "medium_high",
+      "name_note": "Places 5-8 are all 11-2-1; riftdecks and yomis-place agree on 5/7/8 but differ at 6 (riftdecks: Lux/CTCG Relivia; yomis-place: Irelia/guubums). Ordering is the source's tiebreaker presentation."
+    },
+    {
+      "place": 6,
+      "player": "CTCG Relivia",
+      "legend": "Lux, Lady of Luminosity",
+      "record": "11-2-1",
+      "evidence": "riftdecks.com 6th 11-2-1 Lux, Lady of Luminosity by CTCG Relivia. (yomis-place overall standings list Irelia/guubums at #6 instead — bracket vs Swiss-points difference.)",
+      "confidence": "medium"
+    },
+    {
+      "place": 7,
+      "player": "Prismaticismism",
+      "legend": "Annie, Dark Child",
+      "record": "11-2-1",
+      "evidence": "riftdecks.com 7th 11-2-1 Annie, Dark Child by Prismaticismism; riftbound.gg lists Annie in Top 8 (11-2-1); yomis-place #7.",
+      "confidence": "medium_high"
+    },
+    {
+      "place": 8,
+      "player": "Mirru",
+      "legend": "Pyke, Bloodharbor Ripper",
+      "record": "11-2-1",
+      "evidence": "riftdecks.com 8th 11-2-1 Pyke, Bloodharbor Ripper by Mirru; riftbound.gg lists Pyke in Top 8 (11-2-1); yomis-place #8.",
+      "confidence": "medium_high"
+    }
+  ],
+  "best_of_legends": [],
+  "notes": "Factor won the Hartford Regional Qualifier on Master Yi, Wuju Bladesman, defeating bsweitz's Diana, Scorn of the Moon in the final, and with that result Master Yi became the only legend to take three regional wins in the Unleashed season while Diana fell to one win across four finals. The 1,954-player field, the largest North American qualifier of the set, also sent Ezreal into the Top 4 and filled the rest of the Top 8 with two more Diana pilots alongside Lux, Annie, and Pyke.",
+  "sources": [
+    {
+      "source_type": "community",
+      "source_name": "riftDecks.com — Riftbound Regional Qualifier - RQ Hartford - Finals Standings",
+      "source_url": "https://riftdecks.com/riftbound-tournaments/riftbound-regional-qualifier-rq-hartford-finals-standings-tournament-decks-12811",
+      "source_date": "2026-06-20",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community",
+      "notes": "Primary placement source: finals standings table (rank/record/legend/player). Retrieved via rendered browser session (Cloudflare-gated). States 1,953 players."
+    },
+    {
+      "source_type": "community",
+      "source_name": "riftbound.gg — Hartford Regional Qualifier Results",
+      "source_url": "https://riftbound.gg/hartford-regional-qualifier/",
+      "source_date": "2026-06-22",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community",
+      "notes": "Corroborates winner/finalist legends + records; names no players; reports the 3-Unleashed-wins milestone for Master Yi."
+    },
+    {
+      "source_type": "community",
+      "source_name": "Yomi's Place — RQ Hartford Overall Standings",
+      "source_url": "https://rift.yomis-place.de/hartford/overall",
+      "source_date": "2026-06-21",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "community",
+      "notes": "Independent Swiss-points standings; corroborates #1 Factor/Master Yi and #2 bsweitz/Diana with records; states 1,954 players."
+    },
+    {
+      "source_type": "official",
+      "source_name": "UVS Games Organized Play — RQ Hartford event record",
+      "source_url": "https://locator.riftbound.uvsgames.com/events/683264",
+      "source_date": "2026-06-20",
+      "retrieved_at": "2026-06-23",
+      "trust_tier": "official",
+      "notes": "Official event record: 'Event Completed', 1,954 players. Publishes no standings/winner itself, so placements above come from the corroborating community sources."
+    }
+  ],
+  "trust_tier": "community",
+  "status": "results_verified",
+  "verification_note": "Winner verified 2026-06-23 against three independent sources (riftdecks.com finals standings, riftbound.gg, rift.yomis-place.de) with verbatim evidence. Field size 1,954 per official UVS record (riftdecks lists 1,953). The reported 2-0 finals margin (X/Twitter) is not asserted here. Top-8 places 5-8 ordering varies by source (see place 5/6 notes)."
+}
