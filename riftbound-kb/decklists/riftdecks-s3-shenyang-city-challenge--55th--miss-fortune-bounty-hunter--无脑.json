@@ -4,7 +4,100 @@
   "legend": "Miss Fortune, Bounty Hunter",
   "player": "无脑",
   "placement": "55th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Miss Fortune, Bounty Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Miss Fortune, Captain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Scryer's Bloom"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Bullet Time"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Heedless Resurrection"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lunar Boon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "body",
     "chaos"
@@ -14,5 +107,32 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--55th--miss-fortune-bounty-hunter--无脑"
+  "id": "riftdecks-s3-shenyang-city-challenge--55th--miss-fortune-bounty-hunter--无脑",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Disposal Order"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fading Memories"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,116 @@
   "legend": "Vex, Gloomist",
   "player": "ex vex",
   "placement": "47th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Vex, Gloomist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mutated Mouser"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Nami, Headstrong"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sona, Harmonious"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Blitzcrank, Impassive"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Cheerless"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Baron Nashor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Emperor's Divide"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Amateur Recital"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Startipped Peak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Papertree"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "calm",
     "chaos"
@@ -14,5 +123,32 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--47th--vex-gloomist--ex-vex"
+  "id": "riftdecks-s3-shanghai-city-challenge--47th--vex-gloomist--ex-vex",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Emperor's Divide"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Disarming Rake"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,96 @@
   "legend": "Lillia, Bashful Bloom",
   "player": "Lily",
   "placement": "126th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Lillia, Bashful Bloom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lillia, Fae Fawn"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Chakram Dancer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Janna, Savior"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "En Garde"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lilting Lullaby"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Smoke and Mirrors"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Black Flame Altar"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Seat of Power"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "calm",
     "mind"
@@ -14,5 +103,28 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--126th--lillia-bashful-bloom--lily"
+  "id": "riftdecks-s3-shanghai-city-challenge--126th--lillia-bashful-bloom--lily",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Keeper of Masks"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mask of Foresight"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    }
+  ],
+  "total_card_count": 64
 }

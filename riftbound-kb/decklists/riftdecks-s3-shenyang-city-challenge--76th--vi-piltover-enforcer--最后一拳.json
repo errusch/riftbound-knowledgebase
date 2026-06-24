@@ -4,7 +4,108 @@
   "legend": "Vi, Piltover Enforcer",
   "player": "最后一拳",
   "placement": "76th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Vi, Piltover Enforcer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Hotheaded"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Carrion Dredger"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gem Jammer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Unsung Hero"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Fiora, Victorious"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hextech Gauntlets"
+    },
+    {
+      "quantity": 3,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cleave"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vault Breaker"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tactical Retreat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sky Splitter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn's Forge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "fury",
     "order"
@@ -14,5 +115,24 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--76th--vi-piltover-enforcer--最后一拳"
+  "id": "riftdecks-s3-shenyang-city-challenge--76th--vi-piltover-enforcer--最后一拳",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    }
+  ],
+  "total_card_count": 64
 }

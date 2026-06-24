@@ -4,7 +4,112 @@
   "legend": "Master Yi, Wuju Master",
   "player": "打野剑圣",
   "placement": "98th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Wuju Master"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Tempered"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gemhand Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wuju Apprentice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Herald of Spring"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Poppy, Paragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Voracious Gromp"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Arachnoid Horror"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Master Yi, Unstoppable"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Skyward Strike"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Alpha Strike"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Concentrate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gardens of Becoming"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Reckoner's Arena"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +119,24 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--98th--master-yi-wuju-master--打野剑圣"
+  "id": "riftdecks-s3-guangzhou-city-challenge--98th--master-yi-wuju-master--打野剑圣",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Disarming Rake"
+    }
+  ],
+  "total_card_count": 64
 }

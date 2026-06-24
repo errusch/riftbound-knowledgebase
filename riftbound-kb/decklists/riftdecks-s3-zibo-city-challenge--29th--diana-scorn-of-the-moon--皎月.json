@@ -4,7 +4,120 @@
   "legend": "Diana, Scorn of the Moon",
   "player": "皎月",
   "placement": "29th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Diana, Scorn of the Moon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Diana, Lunari"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Crescent Strike"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Eclipse"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Moonfall"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandoned Hall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +127,36 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--29th--diana-scorn-of-the-moon--皎月"
+  "id": "riftdecks-s3-zibo-city-challenge--29th--diana-scorn-of-the-moon--皎月",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Seal of Discord"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Syren"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Eclipse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ezreal, Prodigy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Moonfall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Downwell"
+    }
+  ],
+  "total_card_count": 64
 }

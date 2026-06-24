@@ -4,7 +4,100 @@
   "legend": "Viktor, Herald of the Arcane",
   "player": "控制维克托",
   "placement": "33rd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Herald of the Arcane"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Innovator"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lecturing Yordle"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Safety Inspector"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Blood Money"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Drag Under"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vaults of Helia"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +107,20 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--33rd--viktor-herald-of-the-arcane--控制维克托"
+  "id": "riftdecks-s3-shanghai-city-challenge--33rd--viktor-herald-of-the-arcane--控制维克托",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Forge of the Future"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unchecked Power"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,104 @@
   "legend": "Master Yi, Wuju Master",
   "player": "新剑圣",
   "placement": "71st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Wuju Master"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Tempered"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Demacian Diplomat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gemhand Hunter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wuju Apprentice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Herald of Spring"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Poppy, Paragon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Master Yi, Unstoppable"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hunter's Machete"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Combat Experience"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Skyward Strike"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Alpha Strike"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Concentrate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Reckoner's Arena"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +111,40 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--71st--master-yi-wuju-master--新剑圣"
+  "id": "riftdecks-s3-shanghai-city-challenge--71st--master-yi-wuju-master--新剑圣",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Emperor's Divide"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Stare Down"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Yone, Blademaster"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,104 @@
   "legend": "Leblanc, Deceiver",
   "player": "真抖啊....",
   "placement": "63rd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Karthus, Eternal"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shen, Kinkou"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Xin Zhao, Vigilant"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Glasc Mixologist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ruined Rex"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Facebreaker"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +111,24 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--63rd--leblanc-deceiver--真抖啊"
+  "id": "riftdecks-s3-guangzhou-city-challenge--63rd--leblanc-deceiver--真抖啊",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Black Rose Dignitary"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Ruination"
+    }
+  ],
+  "total_card_count": 64
 }

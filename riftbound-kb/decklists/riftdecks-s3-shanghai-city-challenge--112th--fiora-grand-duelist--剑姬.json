@@ -4,7 +4,128 @@
   "legend": "Fiora, Grand Duelist",
   "player": "剑姬",
   "placement": "112th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Grand Duelist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Worthy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Demacian Diplomat"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unsung Hero"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Peerless"
+    },
+    {
+      "quantity": 2,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kinkou Initiate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Nilah, Joyful Ascetic"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Spectral Matron"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Harnessed Dragon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Doran's Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Shepherd's Heirloom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Riposte"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Marching Orders"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Primal Strength"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "body",
     "order"
@@ -14,5 +135,24 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--112th--fiora-grand-duelist--剑姬"
+  "id": "riftdecks-s3-shanghai-city-challenge--112th--fiora-grand-duelist--剑姬",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Baited Hook"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Spectral Matron"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Divine Judgment"
+    }
+  ],
+  "total_card_count": 64
 }

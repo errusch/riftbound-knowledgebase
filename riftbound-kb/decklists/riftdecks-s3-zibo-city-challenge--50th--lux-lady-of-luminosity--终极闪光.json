@@ -4,7 +4,108 @@
   "legend": "Lux, Lady of Luminosity",
   "player": "终极闪光",
   "placement": "50th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Lux, Lady of Luminosity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lux, Crownguard"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Eager Apprentice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Jhin, Meticulous Killer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ekko, Recurrent"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Seal of Insight"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Drag Under"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Falling Comet"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Progress Day"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forgotten Library"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +115,32 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--50th--lux-lady-of-luminosity--终极闪光"
+  "id": "riftdecks-s3-zibo-city-challenge--50th--lux-lady-of-luminosity--终极闪光",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Tactical Retreat"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Recruit the Vanguard"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Final Spark"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Ruination"
+    }
+  ],
+  "total_card_count": 64
 }

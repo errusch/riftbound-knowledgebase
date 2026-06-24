@@ -4,7 +4,108 @@
   "legend": "Teemo, Swift Scout",
   "player": "自己动",
   "placement": "8th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Teemo, Swift Scout"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Teemo, Strategist"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Teemo, Scout"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Teemo, Strategist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Treasure Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Windsinger"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pyke, Returned"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Nocturne, Horrifying"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Edge of Night"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Guerilla Warfare"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Bandle Tree"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Candlelit Sanctum"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 9,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +115,28 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--8th--teemo-swift-scout--自己动"
+  "id": "riftdecks-s3-guangzhou-city-challenge--8th--teemo-swift-scout--自己动",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Factory Recall"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Edge of Night"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Dr. Mundo, Expert"
+    }
+  ],
+  "total_card_count": 64
 }

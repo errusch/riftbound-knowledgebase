@@ -4,7 +4,100 @@
   "legend": "Jax, Grandmaster at Arms",
   "player": "灵便",
   "placement": "95th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Jax, Grandmaster at Arms"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Jax, Unmatched"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lonely Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sea Monkey"
+    },
+    {
+      "quantity": 2,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lucian, Merciless"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Warmog's Armor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Brutalizer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Counter Strike"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Monastery of Hirana"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +107,32 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--95th--jax-grandmaster-at-arms--灵便"
+  "id": "riftdecks-s3-guangzhou-city-challenge--95th--jax-grandmaster-at-arms--灵便",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Meditation"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trinity Force"
+    }
+  ],
+  "total_card_count": 64
 }

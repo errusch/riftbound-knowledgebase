@@ -4,7 +4,104 @@
   "legend": "Miss Fortune, Bounty Hunter",
   "player": "1",
   "placement": "60th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Miss Fortune, Bounty Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Miss Fortune, Buccaneer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Baron Nashor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scryer's Bloom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bullet Time"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lunar Boon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Papertree"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "body",
     "chaos"
@@ -14,5 +111,6 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--60th--miss-fortune-bounty-hunter--1"
+  "id": "riftdecks-s3-zibo-city-challenge--60th--miss-fortune-bounty-hunter--1",
+  "total_card_count": 56
 }

@@ -4,7 +4,100 @@
   "legend": "Fiora, Grand Duelist",
   "player": "jj",
   "placement": "93rd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Grand Duelist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Victorious"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 3,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shen, Kinkou"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rift Herald"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Shepherd's Heirloom"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Riposte"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Call to Glory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "body",
     "order"
@@ -14,5 +107,28 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--93rd--fiora-grand-duelist--jj"
+  "id": "riftdecks-s3-guangzhou-city-challenge--93rd--fiora-grand-duelist--jj",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Worthy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    }
+  ],
+  "total_card_count": 64
 }

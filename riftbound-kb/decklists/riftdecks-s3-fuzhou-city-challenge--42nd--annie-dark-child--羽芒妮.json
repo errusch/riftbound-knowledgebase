@@ -4,7 +4,116 @@
   "legend": "Annie, Dark Child",
   "player": "羽芒妮",
   "placement": "42nd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Annie, Dark Child"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Annie, Stubborn"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Destructive"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ezreal, Prodigy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Jhin, Murderous Artist"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Long Sword"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Blood Rush"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Heedless Resurrection"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Minefield"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Seat of Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +123,32 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--42nd--annie-dark-child--羽芒妮"
+  "id": "riftdecks-s3-fuzhou-city-challenge--42nd--annie-dark-child--羽芒妮",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Cleave"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rek'Sai, Breacher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sneaky Deckhand"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    }
+  ],
+  "total_card_count": 64
 }

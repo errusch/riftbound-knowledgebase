@@ -4,7 +4,112 @@
   "legend": "Kai'sa, Daughter of the Void",
   "player": "梦回s1",
   "placement": "38th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Kai'sa, Daughter of the Void"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lecturing Yordle"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Pouncing"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hextech Ray"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Smite"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Smoke Screen"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Progress Day"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "fury",
     "mind"
@@ -14,5 +119,32 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--38th--kaisa-daughter-of-the-void--梦回s1"
+  "id": "riftdecks-s3-shenyang-city-challenge--38th--kaisa-daughter-of-the-void--梦回s1",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Smite"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,100 @@
   "legend": "Lux, Lady of Luminosity",
   "player": "拉拉",
   "placement": "55th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Lux, Lady of Luminosity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lux, Crownguard"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sprite Mother"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ekko, Recurrent"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Drag Under"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +107,24 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--55th--lux-lady-of-luminosity--拉拉"
+  "id": "riftdecks-s3-fuzhou-city-challenge--55th--lux-lady-of-luminosity--拉拉",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Comet"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Blast of Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Ruination"
+    }
+  ],
+  "total_card_count": 64
 }

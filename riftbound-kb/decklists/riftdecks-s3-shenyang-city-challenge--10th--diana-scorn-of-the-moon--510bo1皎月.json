@@ -4,7 +4,104 @@
   "legend": "Diana, Scorn of the Moon",
   "player": "5.10bo1皎月",
   "placement": "10th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Diana, Scorn of the Moon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Diana, Lunari"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sneaky Deckhand"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Nocturne, Horrifying"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cloth Armor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Moonfall"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Academy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Candlelit Sanctum"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +111,32 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--10th--diana-scorn-of-the-moon--510bo1皎月"
+  "id": "riftdecks-s3-shenyang-city-challenge--10th--diana-scorn-of-the-moon--510bo1皎月",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Moonfall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sneaky Deckhand"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Apathetic"
+    }
+  ],
+  "total_card_count": 64
 }

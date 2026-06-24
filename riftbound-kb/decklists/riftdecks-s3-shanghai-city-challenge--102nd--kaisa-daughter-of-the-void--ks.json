@@ -4,7 +4,116 @@
   "legend": "Kai'sa, Daughter of the Void",
   "player": "ks",
   "placement": "102nd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Kai'sa, Daughter of the Void"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Jhin, Murderous Artist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Blood Rush"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hextech Ray"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Piercing Light"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Smoke Screen"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Upstage Comedy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Seeker"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Progress Day"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Frozen Fortress"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "fury",
     "mind"
@@ -14,5 +123,32 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--102nd--kaisa-daughter-of-the-void--ks"
+  "id": "riftdecks-s3-shanghai-city-challenge--102nd--kaisa-daughter-of-the-void--ks",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Smite"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Square Up"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thermo Beam"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Icathian Rain"
+    }
+  ],
+  "total_card_count": 64
 }

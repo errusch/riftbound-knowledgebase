@@ -4,7 +4,104 @@
   "legend": "Draven, Glorious Executioner",
   "player": "1",
   "placement": "25th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Draven, Glorious Executioner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Draven, Showboat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Jhin, Murderous Artist"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Spinning Axe"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Targon's Peak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Treasure Hoard"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +111,32 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--25th--draven-glorious-executioner--1"
+  "id": "riftdecks-s3-zibo-city-challenge--25th--draven-glorious-executioner--1",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mindsplitter"
+    }
+  ],
+  "total_card_count": 64
 }

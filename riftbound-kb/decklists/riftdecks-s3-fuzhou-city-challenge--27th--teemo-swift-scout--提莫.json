@@ -4,7 +4,124 @@
   "legend": "Teemo, Swift Scout",
   "player": "提莫",
   "placement": "27th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Teemo, Swift Scout"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Teemo, Strategist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Eclipse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Emperor's Dais"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +131,40 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--27th--teemo-swift-scout--提莫"
+  "id": "riftdecks-s3-fuzhou-city-challenge--27th--teemo-swift-scout--提莫",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    }
+  ],
+  "total_card_count": 64
 }

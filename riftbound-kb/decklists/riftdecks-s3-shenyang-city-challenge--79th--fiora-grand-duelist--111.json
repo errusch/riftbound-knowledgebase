@@ -4,7 +4,112 @@
   "legend": "Fiora, Grand Duelist",
   "player": "111",
   "placement": "79th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Grand Duelist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Worthy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Unsung Hero"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Spectral Matron"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Yordle Explorer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ruin Runner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Harnessed Dragon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Atakhan"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shepherd's Heirloom"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Baited Hook"
+    },
+    {
+      "quantity": 3,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Riposte"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "body",
     "order"
@@ -14,5 +119,32 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--79th--fiora-grand-duelist--111"
+  "id": "riftdecks-s3-shenyang-city-challenge--79th--fiora-grand-duelist--111",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Riposte"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Atakhan"
+    }
+  ],
+  "total_card_count": 64
 }

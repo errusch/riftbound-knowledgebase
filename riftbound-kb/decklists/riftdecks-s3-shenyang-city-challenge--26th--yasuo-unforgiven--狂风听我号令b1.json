@@ -4,7 +4,140 @@
   "legend": "Yasuo, Unforgiven",
   "player": "狂风！听我号令！b1",
   "placement": "26th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Yasuo, Unforgiven"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Yasuo, Windrider"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Treasure Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windsinger"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Adaptatron"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kha'Zix, Mutating Horror"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stellacorn Herder"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Draven, Audacious"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Svellsongur"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "En Garde"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Last Breath"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hall of Legends"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "calm",
     "chaos"
@@ -14,5 +147,36 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--26th--yasuo-unforgiven--狂风听我号令b1"
+  "id": "riftdecks-s3-shenyang-city-challenge--26th--yasuo-unforgiven--狂风听我号令b1",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Bone Skewer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sneaky Deckhand"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Adaptatron"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Conscription"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Downwell"
+    }
+  ],
+  "total_card_count": 64
 }

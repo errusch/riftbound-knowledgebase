@@ -4,7 +4,104 @@
   "legend": "Fiora, Grand Duelist",
   "player": "姬博",
   "placement": "51st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Grand Duelist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Worthy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Unsung Hero"
+    },
+    {
+      "quantity": 2,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kinkou Initiate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Victorious"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Spectral Matron"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Harnessed Dragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shepherd's Heirloom"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Baited Hook"
+    },
+    {
+      "quantity": 3,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Riposte"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Candlelit Sanctum"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "body",
     "order"
@@ -14,5 +111,24 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--51st--fiora-grand-duelist--姬博"
+  "id": "riftdecks-s3-shenyang-city-challenge--51st--fiora-grand-duelist--姬博",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Akshan, Mischievous"
+    }
+  ],
+  "total_card_count": 64
 }

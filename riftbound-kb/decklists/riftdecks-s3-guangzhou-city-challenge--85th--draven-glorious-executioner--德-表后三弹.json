@@ -4,7 +4,120 @@
   "legend": "Draven, Glorious Executioner",
   "player": "德 表后三弹",
   "placement": "85th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Draven, Glorious Executioner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Draven, Showboat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Teemo, Scout"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Treasure Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Jhin, Murderous Artist"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Spinning Axe"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Blood Rush"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Amateur Recital"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Targon's Peak"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +127,32 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--85th--draven-glorious-executioner--德-表后三弹"
+  "id": "riftdecks-s3-guangzhou-city-challenge--85th--draven-glorious-executioner--德-表后三弹",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Acceptable Losses"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Factory Recall"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brynhir Thundersong"
+    }
+  ],
+  "total_card_count": 64
 }

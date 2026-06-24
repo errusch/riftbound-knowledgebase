@@ -4,7 +4,116 @@
   "legend": "Irelia, Blade Dancer",
   "player": "小刀秀夫",
   "placement": "18th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Irelia, Blade Dancer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Irelia, Fervent"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lonely Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tasty Faefolk"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Baron Nashor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defiant Dance"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "En Garde"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Find Your Center"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandoned Hall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "calm",
     "chaos"
@@ -14,5 +123,32 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--18th--irelia-blade-dancer--小刀秀夫"
+  "id": "riftdecks-s3-guangzhou-city-challenge--18th--irelia-blade-dancer--小刀秀夫",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Edge of Night"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Irelia, Fervent"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Baron Nashor"
+    }
+  ],
+  "total_card_count": 64
 }

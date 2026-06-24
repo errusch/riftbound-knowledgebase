@@ -4,7 +4,104 @@
   "legend": "Master Yi, Wuju Bladesman",
   "player": "js",
   "placement": "52nd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Wuju Bladesman"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Tempered"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Master Yi, Unstoppable"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Desert's Call"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Find Your Center"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Wind Wall"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Papertree"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +111,40 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--52nd--master-yi-wuju-bladesman--js"
+  "id": "riftdecks-s3-guangzhou-city-challenge--52nd--master-yi-wuju-bladesman--js",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Wind Wall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Catalyst of Aeons"
+    }
+  ],
+  "total_card_count": 64
 }

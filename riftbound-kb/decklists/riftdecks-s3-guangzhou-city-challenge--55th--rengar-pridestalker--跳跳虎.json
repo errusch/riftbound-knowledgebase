@@ -4,7 +4,108 @@
   "legend": "Rengar, Pridestalker",
   "player": "跳跳虎",
   "placement": "55th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Pridestalker"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gem Jammer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Irresistible Faefolk"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Apothecary"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Pakaa Cub"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Pouncing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fresh Beans"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cleave"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Confront"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Here to Help"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thrill of the Hunt"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Emperor's Dais"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Startipped Peak"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "body",
     "fury"
@@ -14,5 +115,28 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--55th--rengar-pridestalker--跳跳虎"
+  "id": "riftdecks-s3-guangzhou-city-challenge--55th--rengar-pridestalker--跳跳虎",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Smite"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thermo Beam"
+    }
+  ],
+  "total_card_count": 64
 }

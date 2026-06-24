@@ -4,7 +4,108 @@
   "legend": "Fiora, Grand Duelist",
   "player": "剑姬5.10改",
   "placement": "26th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Grand Duelist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Victorious"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cithria of Cloudfield"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sea Monkey"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unsung Hero"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Buhru Captain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Worthy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kinkou Initiate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kinkou Monk"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Spectral Matron"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Baited Hook"
+    },
+    {
+      "quantity": 3,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Riposte"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Call to Glory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Monastery of Hirana"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "body",
     "order"
@@ -14,5 +115,24 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--26th--fiora-grand-duelist--剑姬510改"
+  "id": "riftdecks-s3-guangzhou-city-challenge--26th--fiora-grand-duelist--剑姬510改",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Riposte"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    }
+  ],
+  "total_card_count": 64
 }

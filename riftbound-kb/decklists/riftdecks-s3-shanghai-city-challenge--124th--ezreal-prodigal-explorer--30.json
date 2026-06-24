@@ -4,7 +4,120 @@
   "legend": "Ezreal, Prodigal Explorer",
   "player": "3.0",
   "placement": "124th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Ezreal, Prodigal Explorer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ezreal, Prodigy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bewitching Spirit"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Jhin, Meticulous Killer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Downstage Dramatics"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Frigid Touch"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Arcane Shift"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Emperor's Dais"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Frozen Fortress"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Marai Spire"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +127,36 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--124th--ezreal-prodigal-explorer--30"
+  "id": "riftdecks-s3-shanghai-city-challenge--124th--ezreal-prodigal-explorer--30",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    }
+  ],
+  "total_card_count": 64
 }

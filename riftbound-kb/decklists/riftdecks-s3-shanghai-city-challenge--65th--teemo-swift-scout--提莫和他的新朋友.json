@@ -4,7 +4,104 @@
   "legend": "Teemo, Swift Scout",
   "player": "提莫和他的新朋友",
   "placement": "65th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Teemo, Swift Scout"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Teemo, Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lecturing Yordle"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pyke, Returned"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Baron Nashor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rhasa the Sunderer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Edge of Night"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Startipped Peak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +111,28 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--65th--teemo-swift-scout--提莫和他的新朋友"
+  "id": "riftdecks-s3-shanghai-city-challenge--65th--teemo-swift-scout--提莫和他的新朋友",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mindsplitter"
+    }
+  ],
+  "total_card_count": 64
 }

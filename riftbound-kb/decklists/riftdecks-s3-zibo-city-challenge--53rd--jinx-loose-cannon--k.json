@@ -4,7 +4,108 @@
   "legend": "Jinx, Loose Cannon",
   "player": "k",
   "placement": "53rd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Jinx, Loose Cannon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Jinx, Demolitionist"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Legion Rearguard"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Destructive"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Eager Drakehound"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flame Chompers"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sharkling"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rhasa the Sunderer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Seal of Rage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Cleave"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hextech Ray"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bushwhack"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Square Up"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Arena's Greatest"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Candlelit Sanctum"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 4,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 8,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +115,32 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--53rd--jinx-loose-cannon--k"
+  "id": "riftdecks-s3-zibo-city-challenge--53rd--jinx-loose-cannon--k",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Blood Rush"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Factory Recall"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Super Mega Death Rocket!"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dunebreaker"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,104 @@
   "legend": "Kai'sa, Daughter of the Void",
   "player": "卡莎第三弹",
   "placement": "24th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Kai'sa, Daughter of the Void"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lecturing Yordle"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Jhin, Meticulous Killer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hextech Ray"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Smoke Screen"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rocket Barrage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Progress Day"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Treasure Hoard"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "fury",
     "mind"
@@ -14,5 +111,28 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--24th--kaisa-daughter-of-the-void--卡莎第三弹"
+  "id": "riftdecks-s3-shanghai-city-challenge--24th--kaisa-daughter-of-the-void--卡莎第三弹",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Smite"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Square Up"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thermo Beam"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Progress Day"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    }
+  ],
+  "total_card_count": 64
 }

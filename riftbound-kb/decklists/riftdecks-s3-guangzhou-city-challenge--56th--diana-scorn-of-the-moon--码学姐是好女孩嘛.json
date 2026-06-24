@@ -4,7 +4,104 @@
   "legend": "Diana, Scorn of the Moon",
   "player": "码学姐是好女孩嘛？！",
   "placement": "56th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Diana, Scorn of the Moon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Diana, Lunari"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mystic Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Nocturne, Horrifying"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Eclipse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Moonfall"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandoned Hall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +111,24 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--56th--diana-scorn-of-the-moon--码学姐是好女孩嘛"
+  "id": "riftdecks-s3-guangzhou-city-challenge--56th--diana-scorn-of-the-moon--码学姐是好女孩嘛",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unchecked Power"
+    }
+  ],
+  "total_card_count": 64
 }

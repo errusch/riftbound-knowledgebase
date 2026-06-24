@@ -4,7 +4,100 @@
   "legend": "Lux, Lady of Luminosity",
   "player": "光门改",
   "placement": "67th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Lux, Lady of Luminosity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lux, Crownguard"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lecturing Yordle"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Jhin, Meticulous Killer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Seal of Insight"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Drag Under"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Progress Day"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +107,24 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--67th--lux-lady-of-luminosity--光门改"
+  "id": "riftdecks-s3-shenyang-city-challenge--67th--lux-lady-of-luminosity--光门改",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 2,
+      "card_name": "The Ruination"
+    }
+  ],
+  "total_card_count": 64
 }

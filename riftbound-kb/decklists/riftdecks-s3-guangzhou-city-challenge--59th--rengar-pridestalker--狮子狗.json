@@ -4,7 +4,112 @@
   "legend": "Rengar, Pridestalker",
   "player": "狮子狗",
   "placement": "59th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Pridestalker"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Determined Sentry"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Irresistible Faefolk"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 1,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Grim Apothecary"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Kinkou Initiate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Nidalee, Cat Form"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Pyke, Dockside Butcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fresh Beans"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thrill of the Hunt"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Arena's Greatest"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "body",
     "fury"
@@ -14,5 +119,36 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--59th--rengar-pridestalker--狮子狗"
+  "id": "riftdecks-s3-guangzhou-city-challenge--59th--rengar-pridestalker--狮子狗",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Determined Sentry"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lucian, Merciless"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trinity Force"
+    }
+  ],
+  "total_card_count": 64
 }

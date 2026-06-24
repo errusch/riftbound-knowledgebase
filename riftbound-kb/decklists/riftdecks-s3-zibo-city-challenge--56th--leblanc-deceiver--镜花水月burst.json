@@ -4,7 +4,108 @@
   "legend": "Leblanc, Deceiver",
   "player": "镜花水月BURST",
   "placement": "56th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Karthus, Eternal"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Glasc Mixologist"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ruined Rex"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rift Herald"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Seal of Unity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Blade of the Ruined King"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Ruination"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 4,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 8,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +115,40 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--56th--leblanc-deceiver--镜花水月burst"
+  "id": "riftdecks-s3-zibo-city-challenge--56th--leblanc-deceiver--镜花水月burst",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Garbage Grabber"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Everywhere at Once"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thousand-Tailed Watcher"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,104 @@
   "legend": "Fiora, Grand Duelist",
   "player": "龙剑",
   "placement": "60th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Grand Duelist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Victorious"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Unsung Hero"
+    },
+    {
+      "quantity": 2,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kinkou Initiate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rift Herald"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Blood Rose"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Shepherd's Heirloom"
+    },
+    {
+      "quantity": 3,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Riposte"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn's Forge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "body",
     "order"
@@ -14,5 +111,36 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--60th--fiora-grand-duelist--龙剑"
+  "id": "riftdecks-s3-guangzhou-city-challenge--60th--fiora-grand-duelist--龙剑",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fiora, Worthy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Atakhan"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,96 @@
   "legend": "Diana, Scorn of the Moon",
   "player": "月下无限连",
   "placement": "96th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Diana, Scorn of the Moon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Diana, Lunari"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Diana, Lunari"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Dr. Mundo, Expert"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Eclipse"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Moonfall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandoned Hall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Minefield"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +103,28 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--96th--diana-scorn-of-the-moon--月下无限连"
+  "id": "riftdecks-s3-shanghai-city-challenge--96th--diana-scorn-of-the-moon--月下无限连",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Convergent Mutation"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dr. Mundo, Expert"
+    }
+  ],
+  "total_card_count": 64
 }

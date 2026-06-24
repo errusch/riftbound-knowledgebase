@@ -4,7 +4,100 @@
   "legend": "Irelia, Blade Dancer",
   "player": "龙刀",
   "placement": "59th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Irelia, Blade Dancer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Irelia, Fervent"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lonely Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Baron Nashor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defiant Dance"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "En Garde"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Find Your Center"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandoned Hall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "calm",
     "chaos"
@@ -14,5 +107,32 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--59th--irelia-blade-dancer--龙刀"
+  "id": "riftdecks-s3-shenyang-city-challenge--59th--irelia-blade-dancer--龙刀",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Adaptatron"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Draven, Audacious"
+    }
+  ],
+  "total_card_count": 64
 }

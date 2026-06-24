@@ -4,7 +4,108 @@
   "legend": "Jhin, Virtuoso",
   "player": "烬",
   "placement": "32nd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Jhin, Virtuoso"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Jhin, Meticulous Killer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Jhin, Meticulous Killer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Revna the Lorekeeper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hextech Anomaly"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Downstage Dramatics"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Frigid Touch"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Curtain Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Disintegrate"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Square Up"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Progress Day"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 4,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 8,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "fury",
     "mind"
@@ -14,5 +115,24 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--32nd--jhin-virtuoso--烬"
+  "id": "riftdecks-s3-guangzhou-city-challenge--32nd--jhin-virtuoso--烬",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Frigid Touch"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Piercing Light"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Smite"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rocket Barrage"
+    }
+  ],
+  "total_card_count": 64
 }

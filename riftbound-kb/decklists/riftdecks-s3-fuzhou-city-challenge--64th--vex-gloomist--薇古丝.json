@@ -4,7 +4,112 @@
   "legend": "Vex, Gloomist",
   "player": "薇古丝",
   "placement": "64th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Vex, Gloomist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mutated Mouser"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Teemo, Scout"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ember Monk"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sona, Harmonious"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Alpha Wildclaw"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Edge of Night"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Emperor's Divide"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Bandle Tree"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fortified Position"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hallowed Tomb"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "calm",
     "chaos"
@@ -14,5 +119,36 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--64th--vex-gloomist--薇古丝"
+  "id": "riftdecks-s3-fuzhou-city-challenge--64th--vex-gloomist--薇古丝",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ahri, Alluring"
+    }
+  ],
+  "total_card_count": 64
 }

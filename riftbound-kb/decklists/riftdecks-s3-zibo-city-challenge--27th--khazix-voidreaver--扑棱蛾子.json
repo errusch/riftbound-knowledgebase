@@ -4,7 +4,116 @@
   "legend": "Khazix, Voidreaver",
   "player": "扑棱蛾子",
   "placement": "27th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Khazix, Voidreaver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kha'Zix, Mutating Horror"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Irresistible Faefolk"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mister Root"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Cheerless"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Spirit Wheel"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Heedless Resurrection"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Isolate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Void Assault"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Monastery of Hirana"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "body",
     "chaos"
@@ -14,5 +123,24 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--27th--khazix-voidreaver--扑棱蛾子"
+  "id": "riftdecks-s3-zibo-city-challenge--27th--khazix-voidreaver--扑棱蛾子",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Acceptable Losses"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Trophy Hunter"
+    }
+  ],
+  "total_card_count": 64
 }

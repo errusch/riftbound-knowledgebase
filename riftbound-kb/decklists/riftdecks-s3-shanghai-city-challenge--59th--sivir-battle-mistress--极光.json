@@ -4,7 +4,112 @@
   "legend": "Sivir, Battle Mistress",
   "player": "极光",
   "placement": "59th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Sivir, Battle Mistress"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sivir, Mercenary"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scryer's Bloom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Pack of Wonders"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Treasure Trove"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Heedless Resurrection"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lunar Boon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "body",
     "chaos"
@@ -14,5 +119,32 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--59th--sivir-battle-mistress--极光"
+  "id": "riftdecks-s3-shanghai-city-challenge--59th--sivir-battle-mistress--极光",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fading Memories"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Baron Nashor"
+    }
+  ],
+  "total_card_count": 64
 }

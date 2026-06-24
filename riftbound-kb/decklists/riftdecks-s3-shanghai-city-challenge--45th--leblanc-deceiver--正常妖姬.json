@@ -4,7 +4,96 @@
   "legend": "Leblanc, Deceiver",
   "player": "正常妖姬",
   "placement": "45th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Karthus, Eternal"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Glasc Mixologist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ruined Rex"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Facebreaker"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +103,20 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--45th--leblanc-deceiver--正常妖姬"
+  "id": "riftdecks-s3-shanghai-city-challenge--45th--leblanc-deceiver--正常妖姬",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Black Rose Dignitary"
+    },
+    {
+      "quantity": 2,
+      "card_name": "The Ruination"
+    }
+  ],
+  "total_card_count": 64
 }

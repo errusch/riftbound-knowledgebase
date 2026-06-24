@@ -4,7 +4,108 @@
   "legend": "Sett, The Boss",
   "player": "是时候表演真正的打拳",
   "placement": "1st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Sett, The Boss"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sea Monkey"
+    },
+    {
+      "quantity": 2,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Fiora, Victorious"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Master Yi, Tempered"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Poppy, Paragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fae Dragon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Warmog's Armor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Shepherd's Heirloom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Showstopper"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Call to Glory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Monastery of Hirana"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Valley of Idols"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "body",
     "order"
@@ -14,5 +115,24 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--1st--sett-the-boss--是时候表演真正的打拳"
+  "id": "riftdecks-s3-guangzhou-city-challenge--1st--sett-the-boss--是时候表演真正的打拳",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ruin Runner"
+    }
+  ],
+  "total_card_count": 64
 }

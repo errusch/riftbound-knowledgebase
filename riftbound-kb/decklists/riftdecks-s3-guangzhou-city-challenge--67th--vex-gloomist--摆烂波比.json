@@ -4,7 +4,120 @@
   "legend": "Vex, Gloomist",
   "player": "摆烂波比",
   "placement": "67th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Vex, Gloomist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mutated Mouser"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stalwart Poro"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Allay, Eager Admirer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Kha'Zix, Mutating Horror"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sona, Harmonious"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Blitzcrank, Impassive"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Cheerless"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Blast Cone"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thwonk!"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Amateur Recital"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fortified Position"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Targon's Peak"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "calm",
     "chaos"
@@ -14,5 +127,32 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--67th--vex-gloomist--摆烂波比"
+  "id": "riftdecks-s3-guangzhou-city-challenge--67th--vex-gloomist--摆烂波比",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bone Skewer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunlit Guardian"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Trevor Snoozebottom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ahri, Alluring"
+    }
+  ],
+  "total_card_count": 64
 }

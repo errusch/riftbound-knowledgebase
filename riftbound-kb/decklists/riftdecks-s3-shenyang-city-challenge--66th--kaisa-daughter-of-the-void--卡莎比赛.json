@@ -4,7 +4,116 @@
   "legend": "Kai'sa, Daughter of the Void",
   "player": "卡莎比赛",
   "placement": "66th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Kai'sa, Daughter of the Void"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lecturing Yordle"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Minotaur Reckoner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cleave"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hextech Ray"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Convergent Mutation"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Right of Conquest"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Icathian Rain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Time Warp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "fury",
     "mind"
@@ -14,5 +123,32 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--66th--kaisa-daughter-of-the-void--卡莎比赛"
+  "id": "riftdecks-s3-shenyang-city-challenge--66th--kaisa-daughter-of-the-void--卡莎比赛",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rocket Barrage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Minotaur Reckoner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Icathian Rain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    }
+  ],
+  "total_card_count": 64
 }

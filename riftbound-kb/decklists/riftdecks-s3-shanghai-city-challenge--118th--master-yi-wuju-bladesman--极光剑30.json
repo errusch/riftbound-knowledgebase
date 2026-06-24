@@ -4,7 +4,100 @@
   "legend": "Master Yi, Wuju Bladesman",
   "player": "极光剑3.0",
   "placement": "118th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Wuju Bladesman"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Tempered"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mask of Foresight"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Desert's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Alpha Strike"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Find Your Center"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +107,28 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--118th--master-yi-wuju-bladesman--极光剑30"
+  "id": "riftdecks-s3-shanghai-city-challenge--118th--master-yi-wuju-bladesman--极光剑30",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vilemaw"
+    }
+  ],
+  "total_card_count": 64
 }

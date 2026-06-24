@@ -4,7 +4,108 @@
   "legend": "Master Yi, Wuju Bladesman",
   "player": "1213",
   "placement": "18th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Wuju Bladesman"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Tempered"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Dragonsoul Sage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lonely Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Janna, Savior"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Tasty Faefolk"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Trinity Force"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Alpha Strike"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Amateur Recital"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Startipped Peak"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +115,24 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--18th--master-yi-wuju-bladesman--1213"
+  "id": "riftdecks-s3-shenyang-city-challenge--18th--master-yi-wuju-bladesman--1213",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Trevor Snoozebottom"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ruin Runner"
+    }
+  ],
+  "total_card_count": 64
 }

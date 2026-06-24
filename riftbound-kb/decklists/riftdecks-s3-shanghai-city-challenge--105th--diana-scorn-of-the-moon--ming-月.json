@@ -4,7 +4,104 @@
   "legend": "Diana, Scorn of the Moon",
   "player": "ming-月",
   "placement": "105th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Diana, Scorn of the Moon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Diana, Lunari"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rhasa the Sunderer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Edge of Night"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Moonfall"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandoned Hall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Targon's Peak"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +111,28 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--105th--diana-scorn-of-the-moon--ming-月"
+  "id": "riftdecks-s3-shanghai-city-challenge--105th--diana-scorn-of-the-moon--ming-月",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Cloth Armor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    }
+  ],
+  "total_card_count": 64
 }

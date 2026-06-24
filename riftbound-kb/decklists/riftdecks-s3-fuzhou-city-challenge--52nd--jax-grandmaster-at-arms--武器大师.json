@@ -4,7 +4,108 @@
   "legend": "Jax, Grandmaster at Arms",
   "player": "武器大师",
   "placement": "52nd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Jax, Grandmaster at Arms"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Jax, Unmatched"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lonely Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kinkou Initiate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lucian, Merciless"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Nidalee, Cat Form"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Irelia, Fervent"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Warmog's Armor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Brutalizer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Counter Strike"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Desert's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Monastery of Hirana"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn's Forge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +115,24 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--52nd--jax-grandmaster-at-arms--武器大师"
+  "id": "riftdecks-s3-fuzhou-city-challenge--52nd--jax-grandmaster-at-arms--武器大师",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ruin Runner"
+    }
+  ],
+  "total_card_count": 64
 }

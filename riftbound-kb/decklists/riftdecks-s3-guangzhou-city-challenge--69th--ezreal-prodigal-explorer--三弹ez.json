@@ -4,7 +4,104 @@
   "legend": "Ezreal, Prodigal Explorer",
   "player": "三弹ez",
   "placement": "69th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Ezreal, Prodigal Explorer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ezreal, Prodigy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bewitching Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Seal of Discord"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Arcane Shift"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rocket Barrage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +111,36 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--69th--ezreal-prodigal-explorer--三弹ez"
+  "id": "riftdecks-s3-guangzhou-city-challenge--69th--ezreal-prodigal-explorer--三弹ez",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Garbage Grabber"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rocket Barrage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Angler Beast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Beast Below"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Possession"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,104 @@
   "legend": "Leblanc, Deceiver",
   "player": "大妖姬",
   "placement": "13th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Black Rose Dignitary"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Karthus, Eternal"
+    },
+    {
+      "quantity": 2,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Loyal Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shen, Kinkou"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Glasc Mixologist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Harnessed Dragon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rift Herald"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Atakhan"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 4,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 8,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +111,24 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--13th--leblanc-deceiver--大妖姬"
+  "id": "riftdecks-s3-zibo-city-challenge--13th--leblanc-deceiver--大妖姬",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Harnessed Dragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Atakhan"
+    }
+  ],
+  "total_card_count": 64
 }

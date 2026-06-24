@@ -4,7 +4,100 @@
   "legend": "Irelia, Blade Dancer",
   "player": "叨叨叨",
   "placement": "39th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Irelia, Blade Dancer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Irelia, Fervent"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stellacorn Herder"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Irelia, Fervent"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Spirit Wheel"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Syren"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defiant Dance"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "En Garde"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Find Your Center"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandoned Hall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "calm",
     "chaos"
@@ -14,5 +107,24 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--39th--irelia-blade-dancer--叨叨叨"
+  "id": "riftdecks-s3-guangzhou-city-challenge--39th--irelia-blade-dancer--叨叨叨",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Adaptatron"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,108 @@
   "legend": "Leblanc, Deceiver",
   "player": "妖姬3.5",
   "placement": "72nd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Karthus, Eternal"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ekko, Recurrent"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Glasc Mixologist"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ruined Rex"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Frigid Jewel"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Baited Hook"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Smoke and Mirrors"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +115,36 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--72nd--leblanc-deceiver--妖姬35"
+  "id": "riftdecks-s3-guangzhou-city-challenge--72nd--leblanc-deceiver--妖姬35",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ruined Rex"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dr. Mundo, Expert"
+    }
+  ],
+  "total_card_count": 64
 }

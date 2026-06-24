@@ -4,7 +4,100 @@
   "legend": "Leblanc, Deceiver",
   "player": "帝国妖姬",
   "placement": "54th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Carrion Dredger"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Karthus, Eternal"
+    },
+    {
+      "quantity": 2,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Glasc Mixologist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ruined Rex"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tactical Retreat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Grand Strategem"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 4,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 8,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +107,20 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--54th--leblanc-deceiver--帝国妖姬"
+  "id": "riftdecks-s3-zibo-city-challenge--54th--leblanc-deceiver--帝国妖姬",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Safety Inspector"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shard of Undoing"
+    }
+  ],
+  "total_card_count": 64
 }

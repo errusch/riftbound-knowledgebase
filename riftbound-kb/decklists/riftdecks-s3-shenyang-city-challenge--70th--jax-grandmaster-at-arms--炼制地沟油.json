@@ -4,7 +4,104 @@
   "legend": "Jax, Grandmaster at Arms",
   "player": "炼制地沟油",
   "placement": "70th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Jax, Grandmaster at Arms"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Jax, Unmatched"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dragonsoul Sage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lonely Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lucian, Merciless"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tasty Faefolk"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brutalizer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Boneshiver"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Confront"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Counter Strike"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Find Your Center"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn's Forge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Papertree"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +111,28 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--70th--jax-grandmaster-at-arms--炼制地沟油"
+  "id": "riftdecks-s3-shenyang-city-challenge--70th--jax-grandmaster-at-arms--炼制地沟油",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fiora, Peerless"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ruin Runner"
+    }
+  ],
+  "total_card_count": 64
 }

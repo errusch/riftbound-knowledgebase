@@ -4,7 +4,120 @@
   "legend": "Khazix, Voidreaver",
   "player": "螳螂",
   "placement": "66th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Khazix, Voidreaver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kha'Zix, Mutating Horror"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Irresistible Faefolk"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Treasure Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Nidalee, Cat Form"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kha'Zix, Mutating Horror"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Arachnoid Horror"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Blood Rose"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Isolate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Void Assault"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hall of Legends"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Monastery of Hirana"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "body",
     "chaos"
@@ -14,5 +127,32 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--66th--khazix-voidreaver--螳螂"
+  "id": "riftdecks-s3-guangzhou-city-challenge--66th--khazix-voidreaver--螳螂",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Acceptable Losses"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    }
+  ],
+  "total_card_count": 64
 }

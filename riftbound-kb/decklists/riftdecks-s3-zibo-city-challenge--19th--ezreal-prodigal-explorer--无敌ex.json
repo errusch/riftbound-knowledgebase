@@ -4,7 +4,104 @@
   "legend": "Ezreal, Prodigal Explorer",
   "player": "无敌ex",
   "placement": "19th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Ezreal, Prodigal Explorer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ezreal, Prodigy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bewitching Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Seal of Discord"
+    },
+    {
+      "quantity": 2,
+      "card_name": "The List"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pack of Wonders"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Treasure Trove"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Arcane Shift"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +111,36 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--19th--ezreal-prodigal-explorer--无敌ex"
+  "id": "riftdecks-s3-zibo-city-challenge--19th--ezreal-prodigal-explorer--无敌ex",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspiring Engineer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Pit Crew"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dr. Mundo, Expert"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Baron Nashor"
+    }
+  ],
+  "total_card_count": 64
 }

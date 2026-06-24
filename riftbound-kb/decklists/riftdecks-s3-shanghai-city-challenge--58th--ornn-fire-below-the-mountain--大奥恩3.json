@@ -4,7 +4,120 @@
   "legend": "Ornn, Fire Below the Mountain",
   "player": "大奥恩3",
   "placement": "58th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Ornn, Fire Below the Mountain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn, Forge God"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Janna, Savior"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn, Forge God"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Seal of Focus"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Seal of Insight"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Poro Snax"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brutalizer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Svellsongur"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shurelya's Requiem"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Premonition"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Crescent Strike"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Treasure Hoard"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "calm",
     "mind"
@@ -14,5 +127,36 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--58th--ornn-fire-below-the-mountain--大奥恩3"
+  "id": "riftdecks-s3-shanghai-city-challenge--58th--ornn-fire-below-the-mountain--大奥恩3",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Premonition"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Adaptatron"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forgefire Cape"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rabadon's Deathcrown"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rocket Barrage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sprite Queen"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,104 @@
   "legend": "Lillia, Bashful Bloom",
   "player": "小鹿难",
   "placement": "57th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Lillia, Bashful Bloom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lillia, Fae Fawn"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Keeper of Masks"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Petal Pixie"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "LeBlanc, Everywhere at Once"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Seal of Insight"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Frigid Jewel"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lilting Lullaby"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Smoke and Mirrors"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Black Flame Altar"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "calm",
     "mind"
@@ -14,5 +111,28 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--57th--lillia-bashful-bloom--小鹿难"
+  "id": "riftdecks-s3-fuzhou-city-challenge--57th--lillia-bashful-bloom--小鹿难",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Janna, Savior"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sprite Queen"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    }
+  ],
+  "total_card_count": 64
 }

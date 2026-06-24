@@ -4,7 +4,116 @@
   "legend": "Draven, Glorious Executioner",
   "player": "德莱文",
   "placement": "23rd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Draven, Glorious Executioner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Draven, Showboat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pyke, Dockside Butcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Jhin, Murderous Artist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Unseen"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Spinning Axe"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Edge of Night"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Cleave"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Startipped Peak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Targon's Peak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Treasure Hoard"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +123,36 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--23rd--draven-glorious-executioner--德莱文"
+  "id": "riftdecks-s3-guangzhou-city-challenge--23rd--draven-glorious-executioner--德莱文",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thermo Beam"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Downwell"
+    }
+  ],
+  "total_card_count": 64
 }

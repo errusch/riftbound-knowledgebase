@@ -4,7 +4,100 @@
   "legend": "Master Yi, Wuju Bladesman",
   "player": "1",
   "placement": "27th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Wuju Bladesman"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Tempered"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Confront"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Desert's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Meditation"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Find Your Center"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Wind Wall"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Papertree"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vaults of Helia"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +107,28 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--27th--master-yi-wuju-bladesman--1"
+  "id": "riftdecks-s3-shanghai-city-challenge--27th--master-yi-wuju-bladesman--1",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Akshan, Mischievous"
+    }
+  ],
+  "total_card_count": 64
 }

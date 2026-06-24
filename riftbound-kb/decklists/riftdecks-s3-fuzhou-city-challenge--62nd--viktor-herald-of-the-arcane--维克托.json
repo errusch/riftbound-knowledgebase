@@ -4,7 +4,100 @@
   "legend": "Viktor, Herald of the Arcane",
   "player": "维克托",
   "placement": "62nd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Herald of the Arcane"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Innovator"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Xin Zhao, Vigilant"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Seal of Unity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Garbage Grabber"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vanguard Armory"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Blood Money"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 2,
+      "card_name": "The Ruination"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +107,28 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--62nd--viktor-herald-of-the-arcane--维克托"
+  "id": "riftdecks-s3-fuzhou-city-challenge--62nd--viktor-herald-of-the-arcane--维克托",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Garbage Grabber"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Safety Inspector"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Progress Day"
+    }
+  ],
+  "total_card_count": 64
 }

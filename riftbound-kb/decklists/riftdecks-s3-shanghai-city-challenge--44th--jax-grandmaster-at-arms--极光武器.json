@@ -4,7 +4,100 @@
   "legend": "Jax, Grandmaster at Arms",
   "player": "极光武器？",
   "placement": "44th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Jax, Grandmaster at Arms"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Jax, Unmatched"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brutalizer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Confront"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Counter Strike"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Desert's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Find Your Center"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +107,36 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--44th--jax-grandmaster-at-arms--极光武器"
+  "id": "riftdecks-s3-shanghai-city-challenge--44th--jax-grandmaster-at-arms--极光武器",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brutalizer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trinity Force"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,104 @@
   "legend": "Annie, Dark Child",
   "player": "安妮，纯松雷",
   "placement": "50th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Annie, Dark Child"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Annie, Stubborn"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Teemo, Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bewitching Spirit"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ezreal, Prodigy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Apothecary"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pyke, Returned"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Blood Rush"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Grove of the God-Willow"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Startipped Peak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Papertree"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +111,28 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--50th--annie-dark-child--安妮纯松雷"
+  "id": "riftdecks-s3-shanghai-city-challenge--50th--annie-dark-child--安妮纯松雷",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Factory Recall"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,112 @@
   "legend": "Draven, Glorious Executioner",
   "player": "红德0504",
   "placement": "51st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Draven, Glorious Executioner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Draven, Showboat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Jhin, Murderous Artist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Unseen"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Spinning Axe"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Targon's Peak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Papertree"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Treasure Hoard"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +119,32 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--51st--draven-glorious-executioner--红德0504"
+  "id": "riftdecks-s3-shanghai-city-challenge--51st--draven-glorious-executioner--红德0504",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Factory Recall"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ferrous Forerunner"
+    }
+  ],
+  "total_card_count": 64
 }

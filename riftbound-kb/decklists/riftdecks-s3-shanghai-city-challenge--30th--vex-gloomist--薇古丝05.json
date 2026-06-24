@@ -4,7 +4,120 @@
   "legend": "Vex, Gloomist",
   "player": "薇古丝0.5",
   "placement": "30th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Vex, Gloomist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Treasure Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Allay, Eager Admirer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Nami, Headstrong"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Trevor Snoozebottom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Cheerless"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Monch"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Edge of Night"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Emperor's Divide"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Amateur Recital"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Startipped Peak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Papertree"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "calm",
     "chaos"
@@ -14,5 +127,36 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--30th--vex-gloomist--薇古丝05"
+  "id": "riftdecks-s3-shanghai-city-challenge--30th--vex-gloomist--薇古丝05",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shadow"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    }
+  ],
+  "total_card_count": 64
 }

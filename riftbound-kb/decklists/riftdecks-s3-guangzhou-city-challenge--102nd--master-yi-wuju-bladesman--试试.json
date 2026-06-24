@@ -4,7 +4,96 @@
   "legend": "Master Yi, Wuju Bladesman",
   "player": "试试",
   "placement": "102nd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Wuju Bladesman"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Tempered"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Desert's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Meditation"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Alpha Strike"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Find Your Center"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Papertree"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +103,24 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--102nd--master-yi-wuju-bladesman--试试"
+  "id": "riftdecks-s3-guangzhou-city-challenge--102nd--master-yi-wuju-bladesman--试试",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tasty Faefolk"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,96 @@
   "legend": "Leblanc, Deceiver",
   "player": "诡术妖姬（bo1）",
   "placement": "41st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lillia, Fae Fawn"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Glasc Mixologist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hwei, Brooding Painter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Smoke and Mirrors"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Eclipse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Black Flame Altar"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +103,28 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--41st--leblanc-deceiver--诡术妖姬bo1"
+  "id": "riftdecks-s3-shenyang-city-challenge--41st--leblanc-deceiver--诡术妖姬bo1",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Eclipse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Everywhere at Once"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Atakhan"
+    }
+  ],
+  "total_card_count": 64
 }

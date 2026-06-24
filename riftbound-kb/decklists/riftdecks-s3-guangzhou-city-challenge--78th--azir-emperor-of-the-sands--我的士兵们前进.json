@@ -4,7 +4,92 @@
   "legend": "Azir, Emperor of the Sands",
   "player": "我的士兵们，前进！",
   "placement": "78th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Azir, Emperor of the Sands"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Azir, Sovereign"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Doran's Shield"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soul Sword"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Brutalizer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sterak's Gage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Guards!"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Arise!"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hall of Legends"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn's Forge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 8,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 4,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "calm",
     "order"
@@ -14,5 +99,20 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--78th--azir-emperor-of-the-sands--我的士兵们前进"
+  "id": "riftdecks-s3-guangzhou-city-challenge--78th--azir-emperor-of-the-sands--我的士兵们前进",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vi, Peacekeeper"
+    }
+  ],
+  "total_card_count": 64
 }

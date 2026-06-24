@@ -4,7 +4,104 @@
   "legend": "Leblanc, Deceiver",
   "player": "妖姬",
   "placement": "94th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Karthus, Eternal"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shen, Kinkou"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Glasc Mixologist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kai'Sa, Evolutionary"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ruined Rex"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Blood Money"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +111,32 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--94th--leblanc-deceiver--妖姬"
+  "id": "riftdecks-s3-shanghai-city-challenge--94th--leblanc-deceiver--妖姬",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Black Rose Dignitary"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ekko, Recurrent"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kai'Sa, Evolutionary"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ruined Rex"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Ruination"
+    }
+  ],
+  "total_card_count": 64
 }

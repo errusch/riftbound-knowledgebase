@@ -4,7 +4,104 @@
   "legend": "Leblanc, Deceiver",
   "player": "亡语改",
   "placement": "40th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Everywhere at Once"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Black Rose Dignitary"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Karthus, Eternal"
+    },
+    {
+      "quantity": 3,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shen, Kinkou"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Glasc Mixologist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Petty Officer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Harnessed Dragon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rift Herald"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Atakhan"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +111,24 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--40th--leblanc-deceiver--亡语改"
+  "id": "riftdecks-s3-shanghai-city-challenge--40th--leblanc-deceiver--亡语改",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    }
+  ],
+  "total_card_count": 64
 }

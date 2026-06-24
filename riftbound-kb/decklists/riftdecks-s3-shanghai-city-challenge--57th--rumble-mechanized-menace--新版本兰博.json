@@ -4,7 +4,108 @@
   "legend": "Rumble, Mechanized Menace",
   "player": "新版本兰博",
   "placement": "57th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Rumble, Mechanized Menace"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rumble, Hotheaded"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Forecaster"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gem Jammer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bubble Bot"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Chakram Dancer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rumble, Hotheaded"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rumble, Scrapper"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Breakneck Mech"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Eclipse"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Production Surge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Square Up"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sky Splitter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Minefield"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "fury",
     "mind"
@@ -14,5 +115,24 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--57th--rumble-mechanized-menace--新版本兰博"
+  "id": "riftdecks-s3-shanghai-city-challenge--57th--rumble-mechanized-menace--新版本兰博",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Square Up"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Singularity"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,128 @@
   "legend": "Vex, Gloomist",
   "player": "骚福瑞",
   "placement": "51st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Vex, Gloomist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Evelynn, Entrancing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mutated Mouser"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Treasure Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ezreal, Prodigy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shadow"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Yuumi, Magical Cat"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sona, Harmonious"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ahri, Alluring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Cheerless"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vex, Mocking"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Tianna Crownguard"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Seal of Focus"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Emperor's Divide"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rune Prison"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Grove of the God-Willow"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Startipped Peak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Academy"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "calm",
     "chaos"
@@ -14,5 +135,32 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--51st--vex-gloomist--骚福瑞"
+  "id": "riftdecks-s3-zibo-city-challenge--51st--vex-gloomist--骚福瑞",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Heart of Dark Ice"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sona, Harmonious"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Baron Nashor"
+    }
+  ],
+  "total_card_count": 64
 }

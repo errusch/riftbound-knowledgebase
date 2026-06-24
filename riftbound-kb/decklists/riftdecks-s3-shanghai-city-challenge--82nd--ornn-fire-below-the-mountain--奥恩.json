@@ -4,7 +4,108 @@
   "legend": "Ornn, Fire Below the Mountain",
   "player": "奥恩",
   "placement": "82nd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Ornn, Fire Below the Mountain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn, Forge God"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pit Crew"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Mother"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Seal of Focus"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Seal of Insight"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Poro Snax"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brutalizer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forgefire Cape"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rabadon's Deathcrown"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Premonition"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Arena's Greatest"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Treasure Hoard"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "calm",
     "mind"
@@ -14,5 +115,28 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--82nd--ornn-fire-below-the-mountain--奥恩"
+  "id": "riftdecks-s3-shanghai-city-challenge--82nd--ornn-fire-below-the-mountain--奥恩",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Wind Wall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shurelya's Requiem"
+    }
+  ],
+  "total_card_count": 64
 }

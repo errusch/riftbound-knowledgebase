@@ -4,7 +4,100 @@
   "legend": "Pyke, Bloodharbor Ripper",
   "player": "派克",
   "placement": "35th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Pyke, Bloodharbor Ripper"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Pyke, Dockside Butcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Treasure Hunter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bewitching Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sharkling"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Baron Nashor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pack of Wonders"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Treasure Trove"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Detonate"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Seeker"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ripper's Bay"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +107,28 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--35th--pyke-bloodharbor-ripper--派克"
+  "id": "riftdecks-s3-shenyang-city-challenge--35th--pyke-bloodharbor-ripper--派克",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Acceptable Losses"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    }
+  ],
+  "total_card_count": 64
 }

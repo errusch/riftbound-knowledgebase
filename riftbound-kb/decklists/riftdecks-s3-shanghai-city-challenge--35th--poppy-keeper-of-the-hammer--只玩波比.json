@@ -4,7 +4,112 @@
   "legend": "Poppy, Keeper of the Hammer",
   "player": "只玩波比",
   "placement": "35th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Poppy, Keeper of the Hammer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Poppy, Paragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rift Herald"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Forge of the Future"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vanguard Armory"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Confront"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Keeper's Verdict"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rally the Troops"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Clash of Giants"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Recruit the Vanguard"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Divine Judgment"
+    },
+    {
+      "quantity": 2,
+      "card_name": "The Ruination"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Grand Plaza"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Papertree"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "body",
     "order"
@@ -14,5 +119,32 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--35th--poppy-keeper-of-the-hammer--只玩波比"
+  "id": "riftdecks-s3-shanghai-city-challenge--35th--poppy-keeper-of-the-hammer--只玩波比",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tactical Retreat"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Atakhan"
+    }
+  ],
+  "total_card_count": 64
 }

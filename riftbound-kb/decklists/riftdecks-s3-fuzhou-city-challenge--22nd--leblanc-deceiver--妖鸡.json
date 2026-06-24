@@ -4,7 +4,112 @@
   "legend": "Leblanc, Deceiver",
   "player": "妖鸡",
   "placement": "22nd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Fragmented"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Carrion Dredger"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Black Rose Dignitary"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Karthus, Eternal"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Glasc Mixologist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ruined Rex"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Seal of Unity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Baited Hook"
+    },
+    {
+      "quantity": 3,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +119,36 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--22nd--leblanc-deceiver--妖鸡"
+  "id": "riftdecks-s3-fuzhou-city-challenge--22nd--leblanc-deceiver--妖鸡",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Black Rose Dignitary"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ruined Rex"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thousand-Tailed Watcher"
+    }
+  ],
+  "total_card_count": 64
 }

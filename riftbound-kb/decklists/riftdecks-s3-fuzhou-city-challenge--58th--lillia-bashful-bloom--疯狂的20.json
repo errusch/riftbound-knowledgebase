@@ -4,7 +4,92 @@
   "legend": "Lillia, Bashful Bloom",
   "player": "疯狂的🦌2.0",
   "placement": "58th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Lillia, Bashful Bloom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lillia, Fae Fawn"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tasty Faefolk"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mask of Foresight"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Heart of Dark Ice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "En Garde"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lilting Lullaby"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Seat of Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vaults of Helia"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "calm",
     "mind"
@@ -14,5 +99,24 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--58th--lillia-bashful-bloom--疯狂的20"
+  "id": "riftdecks-s3-fuzhou-city-challenge--58th--lillia-bashful-bloom--疯狂的20",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hextech Anomaly"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Comet"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vilemaw"
+    }
+  ],
+  "total_card_count": 64
 }

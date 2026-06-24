@@ -4,7 +4,108 @@
   "legend": "Leblanc, Deceiver",
   "player": "大巴车plus",
   "placement": "24th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leblanc, Deceiver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Everywhere at Once"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soaring Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Galio, Indefatigable"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ultrasoft Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Corina Veraza"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Harnessed Dragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rift Herald"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Atakhan"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Garbage Grabber"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Baited Hook"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mirror Image"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 4,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 8,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +115,24 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--24th--leblanc-deceiver--大巴车plus"
+  "id": "riftdecks-s3-guangzhou-city-challenge--24th--leblanc-deceiver--大巴车plus",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Black Rose Dignitary"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Eclipse"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ashe, Focused"
+    }
+  ],
+  "total_card_count": 64
 }

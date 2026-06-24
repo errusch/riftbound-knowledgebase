@@ -4,7 +4,108 @@
   "legend": "Pyke, Bloodharbor Ripper",
   "player": "派克",
   "placement": "81st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Pyke, Bloodharbor Ripper"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Pyke, Returned"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Treasure Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Battering Ram"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rhasa the Sunderer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Treasure Trove"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Detonate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ripper's Bay"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +115,32 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--81st--pyke-bloodharbor-ripper--派克"
+  "id": "riftdecks-s3-guangzhou-city-challenge--81st--pyke-bloodharbor-ripper--派克",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sneaky Deckhand"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Downwell"
+    }
+  ],
+  "total_card_count": 64
 }

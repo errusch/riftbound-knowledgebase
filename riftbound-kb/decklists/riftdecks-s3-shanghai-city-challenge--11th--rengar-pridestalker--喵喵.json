@@ -4,7 +4,92 @@
   "legend": "Rengar, Pridestalker",
   "player": "喵喵",
   "placement": "11th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Pridestalker"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Pouncing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Determined Sentry"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Irresistible Faefolk"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 3,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Grim Apothecary"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Kinkou Initiate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lucian, Merciless"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Nidalee, Cat Form"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pyke, Dockside Butcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Pouncing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thrill of the Hunt"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Seat of Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Arena's Greatest"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "body",
     "fury"
@@ -14,5 +99,20 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--11th--rengar-pridestalker--喵喵"
+  "id": "riftdecks-s3-shanghai-city-challenge--11th--rengar-pridestalker--喵喵",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    }
+  ],
+  "total_card_count": 64
 }

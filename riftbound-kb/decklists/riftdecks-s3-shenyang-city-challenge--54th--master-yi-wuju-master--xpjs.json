@@ -4,7 +4,112 @@
   "legend": "Master Yi, Wuju Master",
   "player": "xpjs",
   "placement": "54th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Wuju Master"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Tempered"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gemhand Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wuju Apprentice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Nilah, Joyful Ascetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Herald of Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Master Yi, Unstoppable"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hunter's Machete"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Emperor's Divide"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Concentrate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gardens of Becoming"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Reckoner's Arena"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +119,28 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--54th--master-yi-wuju-master--xpjs"
+  "id": "riftdecks-s3-shenyang-city-challenge--54th--master-yi-wuju-master--xpjs",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Alpha Strike"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Trophy Hunter"
+    }
+  ],
+  "total_card_count": 64
 }

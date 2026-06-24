@@ -4,7 +4,116 @@
   "legend": "Rengar, Pridestalker",
   "player": "狮子狗",
   "placement": "49th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Pridestalker"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Irresistible Faefolk"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Grim Apothecary"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Nidalee, Cat Form"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pyke, Dockside Butcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Pouncing"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Unseen"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Carnivorous Snapvine"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fresh Beans"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Blood Rush"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thrill of the Hunt"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Primal Strength"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Targon's Peak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "body",
     "fury"
@@ -14,5 +123,32 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--49th--rengar-pridestalker--狮子狗"
+  "id": "riftdecks-s3-shenyang-city-challenge--49th--rengar-pridestalker--狮子狗",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thermo Beam"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    }
+  ],
+  "total_card_count": 64
 }

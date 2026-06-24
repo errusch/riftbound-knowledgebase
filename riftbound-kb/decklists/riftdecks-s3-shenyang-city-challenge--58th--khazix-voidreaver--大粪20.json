@@ -4,7 +4,112 @@
   "legend": "Khazix, Voidreaver",
   "player": "大粪2.0",
   "placement": "58th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Khazix, Voidreaver"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kha'Zix, Mutating Horror"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Irresistible Faefolk"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Traveling Merchant"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Treasure Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kha'Zix, Evolving Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Draven, Audacious"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hunter's Machete"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Confront"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Void Assault"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Monastery of Hirana"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "body",
     "chaos"
@@ -14,5 +119,28 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--58th--khazix-voidreaver--大粪20"
+  "id": "riftdecks-s3-shenyang-city-challenge--58th--khazix-voidreaver--大粪20",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Blood Rose"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Yasuo, Windrider"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Downwell"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,112 @@
   "legend": "Master Yi, Wuju Bladesman",
   "player": "js",
   "placement": "47th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Wuju Bladesman"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Master Yi, Tempered"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Lonely Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Nami, Headstrong"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Qiyana, Victorious"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sona, Harmonious"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Whiteflame Protector"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mask of Foresight"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trinity Force"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "En Garde"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Altar to Unity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Amateur Recital"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    }
+  ],
   "domains": [
     "body",
     "calm"
@@ -14,5 +119,36 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--47th--master-yi-wuju-bladesman--js"
+  "id": "riftdecks-s3-fuzhou-city-challenge--47th--master-yi-wuju-bladesman--js",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Alpha Strike"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Disarming Rake"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ruin Runner"
+    }
+  ],
+  "total_card_count": 64
 }

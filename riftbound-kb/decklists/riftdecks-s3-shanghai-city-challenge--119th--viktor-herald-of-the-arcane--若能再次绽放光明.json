@@ -4,7 +4,92 @@
   "legend": "Viktor, Herald of the Arcane",
   "player": "若能再次绽放光明",
   "placement": "119th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Herald of the Arcane"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Leader"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Jayce, Man of Progress"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Safety Inspector"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vanguard Armory"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Arena's Greatest"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +99,24 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--119th--viktor-herald-of-the-arcane--若能再次绽放光明"
+  "id": "riftdecks-s3-shanghai-city-challenge--119th--viktor-herald-of-the-arcane--若能再次绽放光明",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Crescent Strike"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Pickpocket"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Xin Zhao, Vigilant"
+    }
+  ],
+  "total_card_count": 64
 }

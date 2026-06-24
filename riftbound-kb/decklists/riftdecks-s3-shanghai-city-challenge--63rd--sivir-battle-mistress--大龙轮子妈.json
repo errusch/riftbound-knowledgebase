@@ -4,7 +4,96 @@
   "legend": "Sivir, Battle Mistress",
   "player": "大龙轮子妈",
   "placement": "63rd",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Sivir, Battle Mistress"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sivir, Mercenary"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Baron Nashor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Trinity Force"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bone Skewer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Primal Strength"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "body",
     "chaos"
@@ -14,5 +103,24 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--63rd--sivir-battle-mistress--大龙轮子妈"
+  "id": "riftdecks-s3-shanghai-city-challenge--63rd--sivir-battle-mistress--大龙轮子妈",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Existential Dread"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Fading Memories"
+    }
+  ],
+  "total_card_count": 64
 }

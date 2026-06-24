@@ -4,7 +4,100 @@
   "legend": "Vi, Piltover Enforcer",
   "player": "蔚",
   "placement": "64th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Vi, Piltover Enforcer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Hotheaded"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Carrion Dredger"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Unsung Hero"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fiora, Worthy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Jhin, Murderous Artist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Unseen"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hextech Gauntlets"
+    },
+    {
+      "quantity": 2,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cleave"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tactical Retreat"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forge of the Fluft"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "fury",
     "order"
@@ -14,5 +107,24 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--64th--vi-piltover-enforcer--蔚"
+  "id": "riftdecks-s3-shenyang-city-challenge--64th--vi-piltover-enforcer--蔚",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sky Splitter"
+    }
+  ],
+  "total_card_count": 64
 }

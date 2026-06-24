@@ -4,7 +4,112 @@
   "legend": "Irelia, Blade Dancer",
   "player": "全新刀妹2.0",
   "placement": "31st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Irelia, Blade Dancer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Irelia, Fervent"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stellacorn Herder"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Edge of Night"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defiant Dance"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "En Garde"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Tricksy Tentacles"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandoned Hall"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "calm",
     "chaos"
@@ -14,5 +119,36 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--31st--irelia-blade-dancer--全新刀妹20"
+  "id": "riftdecks-s3-shenyang-city-challenge--31st--irelia-blade-dancer--全新刀妹20",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Heart of Dark Ice"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Adaptatron"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Cheerless"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Draven, Audacious"
+    }
+  ],
+  "total_card_count": 64
 }

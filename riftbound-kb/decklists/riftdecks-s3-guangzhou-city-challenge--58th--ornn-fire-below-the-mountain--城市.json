@@ -4,7 +4,120 @@
   "legend": "Ornn, Fire Below the Mountain",
   "player": "城市",
   "placement": "58th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Ornn, Fire Below the Mountain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn, Forge God"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lonely Poro"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ezreal, Dashing"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Irelia, Fervent"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Seal of Insight"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Poro Snax"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sterak's Gage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Svellsongur"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rabadon's Deathcrown"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shurelya's Requiem"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn's Forge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "calm",
     "mind"
@@ -14,5 +127,24 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--58th--ornn-fire-below-the-mountain--城市"
+  "id": "riftdecks-s3-guangzhou-city-challenge--58th--ornn-fire-below-the-mountain--城市",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lecturing Yordle"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Riptide Rex"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,124 @@
   "legend": "Pyke, Bloodharbor Ripper",
   "player": "派",
   "placement": "64th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Pyke, Bloodharbor Ripper"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Pyke, Dockside Butcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Legion Rearguard"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ezreal, Prodigy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Pyke, Dockside Butcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sharkling"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Baron Nashor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Seal of Rage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Acceptable Losses"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Blood Rush"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Against the Odds"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Seeker"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Death from Below"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Downwell"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ripper's Bay"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Treasure Hoard"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +131,28 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--64th--pyke-bloodharbor-ripper--派"
+  "id": "riftdecks-s3-zibo-city-challenge--64th--pyke-bloodharbor-ripper--派",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mindsplitter"
+    }
+  ],
+  "total_card_count": 64
 }

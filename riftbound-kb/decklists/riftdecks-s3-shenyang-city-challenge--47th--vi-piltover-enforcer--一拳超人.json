@@ -4,7 +4,104 @@
   "legend": "Vi, Piltover Enforcer",
   "player": "一拳超人",
   "placement": "47th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Vi, Piltover Enforcer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Carrion Dredger"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Unsung Hero"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Pouncing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sharkling"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fiora, Victorious"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Hotheaded"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hextech Gauntlets"
+    },
+    {
+      "quantity": 3,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Blighted Battleaxe"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cleave"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vault Breaker"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sky Splitter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trapping Grounds"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Windswept Hillock"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "fury",
     "order"
@@ -14,5 +111,24 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--47th--vi-piltover-enforcer--一拳超人"
+  "id": "riftdecks-s3-shenyang-city-challenge--47th--vi-piltover-enforcer--一拳超人",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tactical Retreat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Brynhir Thundersong"
+    }
+  ],
+  "total_card_count": 64
 }

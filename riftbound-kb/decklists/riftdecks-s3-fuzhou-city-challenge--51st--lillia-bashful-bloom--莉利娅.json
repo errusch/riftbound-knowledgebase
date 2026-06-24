@@ -4,7 +4,108 @@
   "legend": "Lillia, Bashful Bloom",
   "player": "莉利娅",
   "placement": "51st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Lillia, Bashful Bloom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lillia, Fae Fawn"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ravenbloom Student"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sprite Queen"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mask of Foresight"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Heart of Dark Ice"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "En Garde"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Retreat"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lilting Lullaby"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Smoke and Mirrors"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Black Flame Altar"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Dusk Rose Lab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vaults of Helia"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "calm",
     "mind"
@@ -14,5 +115,32 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--51st--lillia-bashful-bloom--莉利娅"
+  "id": "riftdecks-s3-fuzhou-city-challenge--51st--lillia-bashful-bloom--莉利娅",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Heart of Dark Ice"
+    },
+    {
+      "quantity": 1,
+      "card_name": "LeBlanc, Everywhere at Once"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Whiteflame Protector"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    }
+  ],
+  "total_card_count": 64
 }

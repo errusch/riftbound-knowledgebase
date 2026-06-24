@@ -4,7 +4,108 @@
   "legend": "Sivir, Battle Mistress",
   "player": "极光轮子",
   "placement": "44th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Sivir, Battle Mistress"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sivir, Mercenary"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Elder Dragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Scryer's Bloom"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Treasure Trove"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Last Rites"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Dazzling Aurora"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Heedless Resurrection"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mobilize"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lunar Boon"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Catalyst of Aeons"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspirant's Climb"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sigil of the Storm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    }
+  ],
   "domains": [
     "body",
     "chaos"
@@ -14,5 +115,36 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--44th--sivir-battle-mistress--极光轮子"
+  "id": "riftdecks-s3-guangzhou-city-challenge--44th--sivir-battle-mistress--极光轮子",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Blades"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Heedless Resurrection"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lunar Boon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Mindsplitter"
+    }
+  ],
+  "total_card_count": 64
 }

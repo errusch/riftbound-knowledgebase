@@ -4,7 +4,120 @@
   "legend": "Leona, Radiant Dawn",
   "player": "曙光",
   "placement": "65th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Leona, Radiant Dawn"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Leona, Zealot"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Lonely Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Scuttle Crab"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Leona, Determined"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sona, Harmonious"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Mocking"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Guardian Angel"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zhonya's Hourglass"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Emperor's Divide"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tactical Retreat"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thwonk!"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Call to Glory"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Zenith Blade"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Grove of the God-Willow"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Targon's Peak"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "calm",
     "order"
@@ -14,5 +127,36 @@
     "label": "S3 Guangzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-guangzhou-city-challenge-tournament-decks-9179"
   },
-  "id": "riftdecks-s3-guangzhou-city-challenge--65th--leona-radiant-dawn--曙光"
+  "id": "riftdecks-s3-guangzhou-city-challenge--65th--leona-radiant-dawn--曙光",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Atakhan"
+    }
+  ],
+  "total_card_count": 64
 }

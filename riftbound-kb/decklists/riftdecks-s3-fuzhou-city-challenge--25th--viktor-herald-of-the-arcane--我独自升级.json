@@ -4,7 +4,100 @@
   "legend": "Viktor, Herald of the Arcane",
   "player": "我独自升级",
   "placement": "25th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Herald of the Arcane"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Innovator"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shen, Kinkou"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Jayce, Man of Progress"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Safety Inspector"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vanguard Armory"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Blood Money"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Facebreaker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Treasure Hoard"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Veiled Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +107,24 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--25th--viktor-herald-of-the-arcane--我独自升级"
+  "id": "riftdecks-s3-fuzhou-city-challenge--25th--viktor-herald-of-the-arcane--我独自升级",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Pickpocket"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Zaun Punk"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    }
+  ],
+  "total_card_count": 64
 }

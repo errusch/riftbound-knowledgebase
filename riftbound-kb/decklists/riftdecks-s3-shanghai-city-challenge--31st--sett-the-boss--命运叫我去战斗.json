@@ -4,7 +4,116 @@
   "legend": "Sett, The Boss",
   "player": "命运叫我去战斗",
   "placement": "31st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Sett, The Boss"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Dragonsoul Sage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Irresistible Faefolk"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 1,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Kinkou Initiate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Fiora, Victorious"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Poppy, Paragon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Fae Dragon"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Atakhan"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Shepherd's Heirloom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Showstopper"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Resolve"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Call to Glory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Monastery of Hirana"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 8,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 4,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "body",
     "order"
@@ -14,5 +123,32 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--31st--sett-the-boss--命运叫我去战斗"
+  "id": "riftdecks-s3-shanghai-city-challenge--31st--sett-the-boss--命运叫我去战斗",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    }
+  ],
+  "total_card_count": 64
 }

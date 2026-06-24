@@ -4,7 +4,100 @@
   "legend": "Sett, The Boss",
   "player": "㙓",
   "placement": "56th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Sett, The Boss"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sett, Brawler"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Irresistible Faefolk"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pit Rookie"
+    },
+    {
+      "quantity": 2,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Fiora, Victorious"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soraka, Wanderer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Safety Inspector"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fae Dragon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Warmog's Armor"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shepherd's Heirloom"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Showstopper"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Challenge"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Call to Glory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Monastery of Hirana"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Valley of Idols"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "body",
     "order"
@@ -14,5 +107,24 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--56th--sett-the-boss--㙓"
+  "id": "riftdecks-s3-shenyang-city-challenge--56th--sett-the-boss--㙓",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Akshan, Mischievous"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ashe, Focused"
+    }
+  ],
+  "total_card_count": 64
 }

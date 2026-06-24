@@ -4,7 +4,104 @@
   "legend": "Annie, Dark Child",
   "player": "安妮",
   "placement": "4th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Annie, Dark Child"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Annie, Stubborn"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Pouncing"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sneaky Deckhand"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Long Sword"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Spirit Wheel"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Flash"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Grove of the God-Willow"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Power Nexus"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Seat of Power"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +111,28 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--4th--annie-dark-child--安妮"
+  "id": "riftdecks-s3-shenyang-city-challenge--4th--annie-dark-child--安妮",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Abandon"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rek'Sai, Breacher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sneaky Deckhand"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Downwell"
+    }
+  ],
+  "total_card_count": 64
 }

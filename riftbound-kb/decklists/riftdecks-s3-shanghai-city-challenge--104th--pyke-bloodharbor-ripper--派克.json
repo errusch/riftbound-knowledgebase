@@ -4,7 +4,100 @@
   "legend": "Pyke, Bloodharbor Ripper",
   "player": "派克",
   "placement": "104th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Pyke, Bloodharbor Ripper"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Pyke, Dockside Butcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mystic Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Overzealous Fan"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Treasure Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Windsinger"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bewitching Spirit"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Fizz, Trickster"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Beast Below"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mindsplitter"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Spirit Wheel"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stacked Deck"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Isolate"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Void Seeker"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ripper's Bay"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "fury"
@@ -14,5 +107,20 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--104th--pyke-bloodharbor-ripper--派克"
+  "id": "riftdecks-s3-shanghai-city-challenge--104th--pyke-bloodharbor-ripper--派克",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Long Sword"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Downwell"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,120 @@
   "legend": "Renata Glasc, Chem-Baroness",
   "player": "我的毒没有解药",
   "placement": "91st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Renata Glasc, Chem-Baroness"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Renata Glasc, Industrialist"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Jayce, Man of Progress"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Altar of Memories"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forge of the Future"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Gutter Palace"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vanguard Armory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rally the Troops"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Tactical Retreat"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hostile Takeover"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Grand Strategem"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Veiled Temple"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +127,36 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--91st--renata-glasc-chem-baroness--我的毒没有解药"
+  "id": "riftdecks-s3-shanghai-city-challenge--91st--renata-glasc-chem-baroness--我的毒没有解药",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Tactical Retreat"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Aspiring Engineer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Renata Glasc, Industrialist"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    }
+  ],
+  "total_card_count": 64
 }

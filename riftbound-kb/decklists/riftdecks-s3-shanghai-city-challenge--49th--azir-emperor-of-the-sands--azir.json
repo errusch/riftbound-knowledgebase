@@ -4,7 +4,96 @@
   "legend": "Azir, Emperor of the Sands",
   "player": "Azir",
   "placement": "49th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Azir, Emperor of the Sands"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Azir, Sovereign"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Doran's Shield"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Eye of the Herald"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Soul Sword"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Brutalizer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Desert's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Guards!"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Arise!"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hall of Legends"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ornn's Forge"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "calm",
     "order"
@@ -14,5 +103,24 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--49th--azir-emperor-of-the-sands--azir"
+  "id": "riftdecks-s3-shanghai-city-challenge--49th--azir-emperor-of-the-sands--azir",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Back Off"
+    }
+  ],
+  "total_card_count": 64
 }

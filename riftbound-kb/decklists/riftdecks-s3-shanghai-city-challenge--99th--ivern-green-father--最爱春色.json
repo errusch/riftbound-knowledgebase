@@ -4,7 +4,112 @@
   "legend": "Ivern, Green Father",
   "player": "最爱春色！",
   "placement": "99th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Ivern, Green Father"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ivern, Friend to All"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Mutated Mouser"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stalwart Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Trusty Ramhound"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Loyal Poro"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Yuumi, Magical Cat"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Frisky Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Stalking Wolf"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ivern, Nurturer"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Starhound"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ultrasoft Poro"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Daisy!"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Defy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Friendship"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Discipline"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Emperor's Divide"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Not So Fast"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Back Off"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vaults of Helia"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Calm Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "calm",
     "order"
@@ -14,5 +119,32 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--99th--ivern-green-father--最爱春色"
+  "id": "riftdecks-s3-shanghai-city-challenge--99th--ivern-green-father--最爱春色",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Charm"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Flurry of Feathers"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Alpha Wildclaw"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Grand Strategem"
+    },
+    {
+      "quantity": 2,
+      "card_name": "The Ruination"
+    }
+  ],
+  "total_card_count": 64
 }

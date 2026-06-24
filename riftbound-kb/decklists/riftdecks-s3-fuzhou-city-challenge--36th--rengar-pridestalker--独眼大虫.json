@@ -4,7 +4,120 @@
   "legend": "Rengar, Pridestalker",
   "player": "独眼大虫",
   "placement": "36th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Pridestalker"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Pouncing"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Determined Sentry"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gem Jammer"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Irresistible Faefolk"
+    },
+    {
+      "quantity": 1,
+      "card_name": "First Mate"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Lucian, Merciless"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Nidalee, Cat Form"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Pyke, Dockside Butcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Pouncing"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Kai'Sa, Survivor"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Carnivorous Snapvine"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Rengar, Trophy Hunter"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Fresh Beans"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cleave"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Confront"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Thrill of the Hunt"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Seat of Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Targon's Peak"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Body Rune"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Fury Rune"
+    }
+  ],
   "domains": [
     "body",
     "fury"
@@ -14,5 +127,28 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--36th--rengar-pridestalker--独眼大虫"
+  "id": "riftdecks-s3-fuzhou-city-challenge--36th--rengar-pridestalker--独眼大虫",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Punch First"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Repulse"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sabotage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Unyielding Spirit"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grim Apothecary"
+    }
+  ],
+  "total_card_count": 64
 }

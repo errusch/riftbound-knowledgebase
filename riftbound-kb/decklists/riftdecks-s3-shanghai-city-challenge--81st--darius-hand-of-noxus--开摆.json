@@ -4,7 +4,112 @@
   "legend": "Darius, Hand of Noxus",
   "player": "开摆",
   "placement": "81st",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Darius, Hand of Noxus"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Carrion Dredger"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pouty Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Unsung Hero"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Black Rose Dignitary"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Undying Legion"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Unseen"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vi, Peacekeeper"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Brynhir Thundersong"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ferrous Forerunner"
+    },
+    {
+      "quantity": 2,
+      "card_name": "B.F. Sword"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Blighted Battleaxe"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cleave"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Sacrifice"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Seat of Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Sunken Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Zaun Warrens"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "fury",
     "order"
@@ -14,5 +119,32 @@
     "label": "S3 Shanghai City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shanghai-city-challenge-tournament-decks-9180"
   },
-  "id": "riftdecks-s3-shanghai-city-challenge--81st--darius-hand-of-noxus--开摆"
+  "id": "riftdecks-s3-shanghai-city-challenge--81st--darius-hand-of-noxus--开摆",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Falling Star"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Smite"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rengar, Unseen"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ferrous Forerunner"
+    }
+  ],
+  "total_card_count": 64
 }

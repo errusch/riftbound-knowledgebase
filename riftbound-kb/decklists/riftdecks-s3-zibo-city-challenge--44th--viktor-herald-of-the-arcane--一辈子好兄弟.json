@@ -4,7 +4,100 @@
   "legend": "Viktor, Herald of the Arcane",
   "player": "一辈子好兄弟",
   "placement": "44th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Herald of the Arcane"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Innovator"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Xin Zhao, Vigilant"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Jayce, Man of Progress"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Chemtech Cask"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vanguard Armory"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Facebreaker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Drag Under"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forgotten Monument"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Targon's Peak"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +107,24 @@
     "label": "S3 Zibo City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-zibo-city-challenge-tournament-decks-9178"
   },
-  "id": "riftdecks-s3-zibo-city-challenge--44th--viktor-herald-of-the-arcane--一辈子好兄弟"
+  "id": "riftdecks-s3-zibo-city-challenge--44th--viktor-herald-of-the-arcane--一辈子好兄弟",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rally the Troops"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Comet"
+    }
+  ],
+  "total_card_count": 63
 }

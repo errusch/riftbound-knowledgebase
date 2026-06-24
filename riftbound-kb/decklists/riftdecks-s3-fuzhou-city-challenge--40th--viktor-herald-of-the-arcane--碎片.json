@@ -4,7 +4,92 @@
   "legend": "Viktor, Herald of the Arcane",
   "player": "碎片",
   "placement": "40th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Herald of the Arcane"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Leader"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Mother"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Crescent Strike"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rockfall Path"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Arena's Greatest"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +99,28 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--40th--viktor-herald-of-the-arcane--碎片"
+  "id": "riftdecks-s3-fuzhou-city-challenge--40th--viktor-herald-of-the-arcane--碎片",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Blood Money"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Deathgrip"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ashe, Focused"
+    },
+    {
+      "quantity": 2,
+      "card_name": "The Ruination"
+    }
+  ],
+  "total_card_count": 64
 }

@@ -4,7 +4,104 @@
   "legend": "Teemo, Swift Scout",
   "player": "战逃，没有你我怎么活",
   "placement": "29th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Teemo, Swift Scout"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Teemo, Scout"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Teemo, Scout"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Tideturner"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Pyke, Returned"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Ember Monk"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vex, Apathetic"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Fountain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Boots of Swiftness"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Edge of Night"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Gust"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Hard Bargain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ride the Wind"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Switcheroo"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Invert Timelines"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Star-Crossed"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Bandle Tree"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Emperor's Dais"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ripper's Bay"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Chaos Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "chaos",
     "mind"
@@ -14,5 +111,28 @@
     "label": "S3 Fuzhou City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-fuzhou-city-challenge-tournament-decks-9182"
   },
-  "id": "riftdecks-s3-fuzhou-city-challenge--29th--teemo-swift-scout--战逃没有你我怎么活"
+  "id": "riftdecks-s3-fuzhou-city-challenge--29th--teemo-swift-scout--战逃没有你我怎么活",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Convergent Mutation"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rebuke"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Turn to Dust"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Vex, Cheerless"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Baron Nashor"
+    }
+  ],
+  "total_card_count": 64
 }

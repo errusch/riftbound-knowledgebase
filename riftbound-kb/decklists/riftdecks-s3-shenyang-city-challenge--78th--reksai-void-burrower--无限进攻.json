@@ -4,7 +4,96 @@
   "legend": "Reksai, Void Burrower",
   "player": "无限进攻",
   "placement": "78th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Reksai, Void Burrower"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rek'Sai, Breacher"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Carrion Dredger"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Honest Broker"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Inferna"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Faithful Manufactor"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Pyke, Dockside Butcher"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rengar, Pouncing"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Battering Ram"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Darius, Trifarian"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Undertitan"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Blood Rush"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Void Rush"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Star Spring"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Trifarian War Camp"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 6,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "fury",
     "order"
@@ -14,5 +103,24 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--78th--reksai-void-burrower--无限进攻"
+  "id": "riftdecks-s3-shenyang-city-challenge--78th--reksai-void-burrower--无限进攻",
+  "sideboard": [
+    {
+      "quantity": 1,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Piercing Light"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Grand Strategem"
+    }
+  ],
+  "total_card_count": 64
 }

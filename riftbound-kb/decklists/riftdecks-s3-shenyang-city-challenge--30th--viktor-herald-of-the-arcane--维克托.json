@@ -4,7 +4,100 @@
   "legend": "Viktor, Herald of the Arcane",
   "player": "维克托",
   "placement": "30th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Herald of the Arcane"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Viktor, Innovator"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Renata Glasc, Industrialist"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Safety Inspector"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Seal of Unity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Garbage Grabber"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Vanguard Armory"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Bellows Breath"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Stupefy"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Blood Money"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Cull the Weak"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Hidden Blade"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Imperial Decree"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forbidding Waste"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Veiled Temple"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Vilemaw's Lair"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Mind Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Order Rune"
+    }
+  ],
   "domains": [
     "mind",
     "order"
@@ -14,5 +107,28 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--30th--viktor-herald-of-the-arcane--维克托"
+  "id": "riftdecks-s3-shenyang-city-challenge--30th--viktor-herald-of-the-arcane--维克托",
+  "sideboard": [
+    {
+      "quantity": 3,
+      "card_name": "Salvage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Shadow's Call"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Ezreal, Dashing"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Safety Inspector"
+    },
+    {
+      "quantity": 1,
+      "card_name": "The Ruination"
+    }
+  ],
+  "total_card_count": 64
 }

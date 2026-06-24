@@ -4,7 +4,112 @@
   "legend": "Jhin, Virtuoso",
   "player": "烬",
   "placement": "57th",
-  "cards": [],
+  "cards": [
+    {
+      "quantity": 1,
+      "card_name": "Jhin, Virtuoso"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Jhin, Meticulous Killer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Mischievous Marai"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Plundering Poro"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Watchful Sentry"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Immortal Phoenix"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Jhin, Meticulous Killer"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Noxus Hopeful"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Thousand-Tailed Watcher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Frigid Touch"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Piercing Light"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Consult the Past"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Curtain Call"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Deadly Flourish"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rocket Barrage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Square Up"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Falling Comet"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Sprite Burst"
+    },
+    {
+      "quantity": 3,
+      "card_name": "Singularity"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Unchecked Power"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Time Warp"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Forgotten Library"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Ravenbloom Conservatory"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Void Gate"
+    },
+    {
+      "quantity": 5,
+      "card_name": "Fury Rune"
+    },
+    {
+      "quantity": 7,
+      "card_name": "Mind Rune"
+    }
+  ],
   "domains": [
     "fury",
     "mind"
@@ -14,5 +119,32 @@
     "label": "S3 Shenyang City Challenge",
     "url": "https://riftdecks.com/riftbound-tournaments/s3-shenyang-city-challenge-tournament-decks-9181"
   },
-  "id": "riftdecks-s3-shenyang-city-challenge--57th--jhin-virtuoso--烬"
+  "id": "riftdecks-s3-shenyang-city-challenge--57th--jhin-virtuoso--烬",
+  "sideboard": [
+    {
+      "quantity": 2,
+      "card_name": "Hextech Ray"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Smite"
+    },
+    {
+      "quantity": 2,
+      "card_name": "Rek'Sai, Breacher"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Wages of Pain"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Rocket Barrage"
+    },
+    {
+      "quantity": 1,
+      "card_name": "Square Up"
+    }
+  ],
+  "total_card_count": 64
 }
