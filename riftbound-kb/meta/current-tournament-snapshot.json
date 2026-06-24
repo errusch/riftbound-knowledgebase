@@ -6,149 +6,209 @@
     "UNL": 288,
     "OGS": 24
   },
-  "completed_events": 7,
-  "winners": [
+  "season": "Unleashed (Set 3)",
+  "snapshot_date": "2026-06-14",
+  "data_window": {
+    "from": "2026-06-06",
+    "to": "2026-06-14"
+  },
+  "completed_events": 15,
+  "source": "riftdecks.com (3-star Unleashed tournaments only)",
+  "tier_list": [
     {
-      "event": "Season 2 Regional: Nanjing",
-      "player": "Ai.EDG.张伯伦",
-      "legend": "Annie, Dark Child",
-      "date": null
+      "legend": "Irelia, Blade Dancer",
+      "tier": "S",
+      "share_pct": 9.1,
+      "top8_count": 10
     },
     {
-      "event": "Season 2 Regional: Dalian",
-      "player": "张大勺",
-      "legend": "Kai'Sa, Daughter of the Void",
-      "date": null
+      "legend": "Master Yi, Wuju Bladesman",
+      "tier": "S",
+      "share_pct": 11.6,
+      "top8_count": 19
     },
     {
-      "event": "Season 2 Regional: Chengdu",
-      "player": "東莞熊貓",
-      "legend": "Draven, Glorious Executioner",
-      "date": "2026-02-08"
+      "legend": "Diana, Scorn of the Moon",
+      "tier": "S",
+      "share_pct": 8,
+      "top8_count": 15
     },
     {
-      "event": "Season 2 Regional: Fuzhou",
-      "player": "Aipotu",
-      "legend": "Draven, Glorious Executioner",
-      "date": "2026-01-01"
+      "legend": "Viktor, Herald of the Arcane",
+      "tier": "A",
+      "share_pct": 3.2,
+      "top8_count": 4
     },
     {
-      "event": "Regional Qualifier: Vegas",
-      "player": "SAMDSHERMAN",
-      "legend": "Draven",
-      "date": "2026-02-23"
+      "legend": "Azir, Emperor of the Sands",
+      "tier": "A",
+      "share_pct": 4.1,
+      "top8_count": 5
     },
     {
-      "event": "Regional Qualifier: Houston",
-      "player": "Dhawally",
-      "legend": "Annie, Dark Child",
-      "date": "2025-12-13"
+      "legend": "Fiora, Grand Duelist",
+      "tier": "B",
+      "share_pct": 3.3,
+      "top8_count": 6
     },
     {
-      "event": "Regional Qualifier: Bologna",
-      "player": "Alanzq1",
       "legend": "Ezreal, Prodigal Explorer",
-      "date": "2026-02-16"
+      "tier": "A",
+      "share_pct": 2.3,
+      "top8_count": 6
+    },
+    {
+      "legend": "Reksai, Void Burrower",
+      "tier": "B",
+      "share_pct": 1.8,
+      "top8_count": 4
+    },
+    {
+      "legend": "Sett, The Boss",
+      "tier": "B",
+      "share_pct": 1.5,
+      "top8_count": 3
+    },
+    {
+      "legend": "Kai'Sa, Daughter of the Void",
+      "tier": "B",
+      "share_pct": 3.4,
+      "top8_count": 2
+    },
+    {
+      "legend": "Vex, Gloomist",
+      "tier": "B",
+      "share_pct": 3.6,
+      "top8_count": 4
+    },
+    {
+      "legend": "Miss Fortune, Bounty Hunter",
+      "tier": "B",
+      "share_pct": 2.1,
+      "top8_count": 1
     }
   ],
   "top_placement_legend_frequency": [
     [
-      "Draven, Glorious Executioner",
-      17
+      "Master Yi, Wuju Bladesman",
+      19
     ],
     [
-      "Annie, Dark Child",
-      7
+      "Diana, Scorn of the Moon",
+      15
     ],
     [
       "Irelia, Blade Dancer",
-      7
-    ],
-    [
-      "Kai'Sa, Daughter of the Void",
-      6
-    ],
-    [
-      "Sett, The Boss",
-      3
-    ],
-    [
-      "Ezreal, Prodigal Explorer",
-      3
-    ],
-    [
-      "Garen, Might of Demacia",
-      3
-    ],
-    [
-      "Master Yi, Wuju Bladesman",
-      3
-    ],
-    [
-      "Azir, Emperor of the Sands",
-      2
-    ],
-    [
-      "Sivir, Battle Mistress",
-      2
-    ],
-    [
-      "Jax, Grandmaster at Arms",
-      2
+      10
     ],
     [
       "Fiora, Grand Duelist",
-      2
-    ]
-  ],
-  "best_of_legend_frequency": [
-    [
-      "Teemo, Swift Scout",
-      2
+      6
     ],
     [
-      "Volibear, Relentless Storm",
-      2
+      "Ezreal, Prodigal Explorer",
+      6
     ],
     [
-      "Yasuo, Unforgiven",
-      2
+      "Azir, Emperor of the Sands",
+      5
     ],
     [
-      "Lee Sin, Blind Monk",
-      2
+      "Viktor, Herald of the Arcane",
+      4
     ],
     [
-      "Darius, Hand of Noxus",
-      2
+      "Reksai, Void Burrower",
+      4
     ],
     [
-      "Ahri, Nine-Tailed Fox",
-      2
+      "Vex, Gloomist",
+      4
     ],
     [
       "Sett, The Boss",
+      3
+    ],
+    [
+      "Kai'Sa, Daughter of the Void",
       2
+    ],
+    [
+      "Annie, Dark Child",
+      2
+    ],
+    [
+      "Miss Fortune, Bounty Hunter",
+      1
     ],
     [
       "Jinx, Loose Cannon",
-      2
+      1
     ],
     [
-      "Garen, Might of Demacia",
-      2
+      "Kha'Zix, Voidreaver",
+      1
     ],
     [
-      "Lux, Lady of Luminosity",
-      2
+      "Pyke, Bloodharbor Ripper",
+      1
     ],
     [
-      "Leona, Radiant Dawn",
-      2
+      "Ornn, Fire Below the Mountain",
+      1
     ],
     [
-      "Kai'Sa",
+      "Lillia, Bashful Bloom",
+      1
+    ],
+    [
+      "Darius, Hand of Noxus",
+      1
+    ],
+    [
+      "Sivir, Battle Mistress",
+      1
+    ],
+    [
+      "Master Yi, Wuju Master",
+      1
+    ],
+    [
+      "Jhin, Virtuoso",
       1
     ]
-  ]
+  ],
+  "winners": [
+    {
+      "event": "Regional Qualifier: Hartford",
+      "player": "Factor",
+      "legend": "Master Yi, Wuju Bladesman",
+      "date": "2026-06-20"
+    },
+    {
+      "event": "Regional Qualifier: Utrecht",
+      "player": "Squirtle",
+      "legend": "Azir, Emperor of the Sands",
+      "date": "2026-06-14"
+    },
+    {
+      "event": "S3 Tianjin Regional Open",
+      "player": "陈千语 (Chen Qianyu)",
+      "legend": "Master Yi, Wuju Bladesman",
+      "date": "2026-06-07"
+    },
+    {
+      "event": "Regional Qualifier: Vancouver",
+      "player": "CTG Alanzq",
+      "legend": "Diana, Scorn of the Moon",
+      "date": "2026-05-31"
+    },
+    {
+      "event": "S3 Xi'an Regional Open",
+      "player": "Aipotu",
+      "legend": "Azir, Emperor of the Sands",
+      "date": "2026-05-24"
+    }
+  ],
+  "notes": "Current competitive metagame for the Unleashed (Set 3) season, derived from 15 recent 3-star tournaments (2026-06-06 to 2026-06-14). The top tier is Irelia, Blade Dancer, Master Yi, Wuju Bladesman, Diana, Scorn of the Moon; earlier-season legends such as Draven are no longer top-tier."
 }
