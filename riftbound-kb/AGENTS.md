@@ -39,6 +39,7 @@ Behavior rules
 Current trusted source classes
 - official news / event coverage from Riftbound / League of Legends official site
 - official rules, errata, tournament docs in canon/
+- Riftbound FAQ as trusted-secondary support for rules explanations and card-interaction research only; use records with an explicit factual-review pass, matching CRD/card evidence, and exact-source-verified official supplement references. Current official errata and clarifications always control. Never treat Riftbound FAQ as official rulings, card-text authority, errata, legality, tournament policy, deck/meta, matchup, or strategy evidence
 - trusted secondary decklist/result sources when official coverage is incomplete
 - market references from the trusted sites listed above
 

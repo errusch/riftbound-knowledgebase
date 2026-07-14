@@ -1,0 +1,65 @@
+{
+  "ruling_id": "ruling.triggered-ability-structure-clarification-2026-04-29",
+  "kind": "rules_change",
+  "title": "Triggered ability structure and timing",
+  "card_name": null,
+  "card_id": null,
+  "old_text": null,
+  "new_text": "Parse a triggered ability in this expected sequence: trigger condition; adjacent conditional; adjacent 'you may'; adjacent cost within instructions. An adjacent 'you may' controls whether the ability is placed on the chain, and an adjacent cost within instructions becomes its base cost during finalization. Elements appearing later are part of the resolving effect.",
+  "explanation": "This replaces the first-comma model. For example, Disarming Rake's adjacent 'you may' decides whether its trigger is placed on the chain, while Ornn, Blacksmith's later 'you may' is chosen on resolution. An 'if you do' instruction is not a cost; if the checked action is replaced or not performed, its later condition is false.",
+  "effective_date": "2026-04-29",
+  "source_doc": "Riftbound Unleashed Rules FAQ and Clarifications",
+  "affected_card_ids": [
+    "unl-187-219",
+    "unl-229-219",
+    "unl-229-star-219",
+    "ogn-073-298",
+    "sfd-032-221",
+    "ogn-110-298",
+    "ogn-251-298",
+    "ogn-301-298",
+    "ogn-301-star-298",
+    "sfd-058-221",
+    "sfd-058a-221",
+    "unl-135-219",
+    "sfd-084-221",
+    "sfd-020-221",
+    "sfd-020a-221"
+  ],
+  "affected_rule_ids": [
+    "383.2",
+    "383.3",
+    "383.3.a",
+    "383.3.b",
+    "383.3.e",
+    "387",
+    "388",
+    "742"
+  ],
+  "topics": [
+    "triggered abilities",
+    "cost within instructions",
+    "you may",
+    "if you do",
+    "finalization"
+  ],
+  "precedence": "supersedes_crd_1_3_until_next_crd",
+  "effective_until": "next_core_rules_document",
+  "source_artifact_id": "official.unleashed-rules-faq-2026-04-29",
+  "source_sha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Unleashed Rules FAQ and Clarifications",
+    "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+    "source_date": "2026-04-29",
+    "retrieved_at": "2026-07-14",
+    "trust_tier": "official",
+    "notes": "Transcribed from the complete official article inventory and verified against the live Riot page."
+  },
+  "verification": {
+    "status": "official_source_text_verified",
+    "verified_at": "2026-07-14",
+    "method": "complete_official_article_section_inventory",
+    "notes": "Checked against the official source article, its section inventory, and the canonical CRD/card corpus."
+  }
+}

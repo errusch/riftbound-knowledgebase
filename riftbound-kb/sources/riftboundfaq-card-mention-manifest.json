@@ -1,0 +1,567 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "59452b68a8ed57a60051702f681f6a5152e6616d",
+  "auditDate": "2026-07-14",
+  "purpose": "Reviewed plain-prose and Markdown-linked card mentions omitted by MDX component extraction",
+  "counts": {
+    "records": 98,
+    "manualCardRefs": 8,
+    "ambiguousCardMentions": 1
+  },
+  "records": [
+    {
+      "id": "riftboundfaq:cards/abandoned-hall#countered-spell",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/abandoned-hall#flicker-replay",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/abandoned-hall#moving-in",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/abandoned-hall#moving-out",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/akshan-mischievous#aurora-timing",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/akshan-mischievous#dual-akshan-control",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/alpha-strike#might-reduction",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": [
+        {
+          "sourceName": "Recruit",
+          "candidateCardIds": [
+            "ogn-271-298",
+            "ogn-272-298",
+            "ogn-273-298"
+          ],
+          "note": "The generic Recruit/Recruits example does not identify a domain printing; no canonical card is inferred."
+        }
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/alpha-strike#split-distribution",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/alpha-strike#targeting",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/arcane-shift#replay-at-same-battlefield",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/astral-heron#countered-spell",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/astral-heron#removed-in-response",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/astral-heron#self-trigger",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/azir-sovereign#attack-trigger-without-azir",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/baited-hook#deathknell-order",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/baited-hook#illegal-target",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/baited-hook#interaction",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/baron-nashor#baron-move",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/baron-nashor#baron-pit-showdown",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/baron-nashor#baron-pit-victory",
+      "manualCardRefs": [
+        {
+          "sourceName": "Baron Pit",
+          "canonicalName": "Baron Pit",
+          "cardId": "unl-t01",
+          "publicCode": "UNL-T01"
+        }
+      ],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/baron-nashor#mageseeker-warden",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/bone-skewer#optional-additional-costs",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/bone-skewer#stun-targeting",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/bone-skewer#targeting-protection",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/call-to-battle#target-at-same-battlefield",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/diana-lunari#ability",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/diana-lunari#showdown-trigger-timing",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/emperors-dais#ability",
+      "manualCardRefs": [
+        {
+          "sourceName": "Sand Soldier",
+          "canonicalName": "Sand Soldier",
+          "cardId": "sfd-t02",
+          "publicCode": "SFD-T02"
+        }
+      ],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/ezreal-prodigy#not-optional-additional-costs",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/ezreal-prodigy#what-are-optional-additional-costs",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/flash#target-in-base",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/gangplank-naval#partial-resolution",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/gangplank-naval#switcheroo-interaction",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/glasc-mixologist#deathknell-combat-result",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/glasc-mixologist#play-to-same-battlefield",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/glasc-mixologist#same-event-target",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/heedless-resurrection#ignore-additional-costs",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/heedless-resurrection#no-refunds",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/heedless-resurrection#repeat-cost",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/heedless-resurrection#self-resurrection",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/hidden-blade#draw-if-illegal",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/hidden-blade#draw-if-not-killed",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/irelia-fervent#blade-dancer",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/irelia-fervent#choosing-happens-before-counter",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/irelia-fervent#readying-during-awaken-step",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/irelia-fervent#repeat-targeting-twice",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/irresistible-faefolk#playing-vs-moving",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/irresistible-faefolk#removed-in-response",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/irresistible-faefolk#who-attacks",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/karthus-eternal#dies-same-effect",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/karthus-eternal#not-so-fast",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/khazix-mutating-horror#reaction-unit",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/khazix-mutating-horror#trigger-per-combat",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/lacerate#targeting-restriction",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/lilting-lullaby#own-counter",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/lotus-trap#combat-assignment",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/nocturne-horrifying#burn-and-minefield",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/ruined-rex#ferrous-forerunner-mechs",
+      "manualCardRefs": [
+        {
+          "sourceName": "Mech",
+          "canonicalName": "Mech",
+          "cardId": "sfd-t01",
+          "publicCode": "SFD-T01"
+        }
+      ],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/ruined-rex#heal-timing",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/sacrifice#counter",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/sacrifice#deathknell",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/sacrifice#interaction",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/shady-spectacles#temporary",
+      "manualCardRefs": [
+        {
+          "sourceName": "Reflection",
+          "canonicalName": "Reflection",
+          "cardId": "unl-t06",
+          "publicCode": "UNL-T06"
+        }
+      ],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/smite#death-saving-replacement-effects",
+      "manualCardRefs": [
+        {
+          "sourceName": "Zhonya's Hourglass",
+          "canonicalName": "Zhonya's Hourglass",
+          "cardId": "ogn-077-298",
+          "publicCode": "OGN-077/298"
+        },
+        {
+          "sourceName": "Tactical Retreat",
+          "canonicalName": "Tactical Retreat",
+          "cardId": "unl-175-219",
+          "publicCode": "UNL-175/219"
+        },
+        {
+          "sourceName": "Guardian Angel",
+          "canonicalName": "Guardian Angel",
+          "cardId": "sfd-051-221",
+          "publicCode": "SFD-051/221"
+        }
+      ],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/sunken-temple#mighty-from-assault",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/switcheroo#how-it-works",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/switcheroo#modifiers-changing",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/switcheroo#negative-might",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/switcheroo#no-double-dipping",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/temporal-breach#control-retained",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/temporal-breach#hidden-targeting-restriction",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/temporal-breach#optional-additional-costs",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/temporal-breach#rockfall-path",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/temporal-breach#token-unit",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/thrill-of-the-hunt#score-on-opponents-turn",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/vex-apathetic#stun-targeting",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/vex-cheerless#deflect-cost-reduction",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:cards/vex-cheerless#hidden-cost-increase",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/abilities#costs-within-instructions",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/abilities#reacting-to-abilities",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/abilities#triggered-ability-if-conditions",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/abilities#triggered-ability-timing",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/chain-and-priority#reacting-to-units",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/chain-and-priority#reaction-after-partial-chain",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/showdowns#attack-defend-triggers",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/showdowns#non-combat-showdown",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/showdowns#showdown-close",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/targeting#may-targets-at-resolution",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:general-rules/targeting#what-is-a-target",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:mechanics/ambush#ambush-base",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:mechanics/ambush#ambush-no-reaction-window",
+      "manualCardRefs": [
+        {
+          "sourceName": "Kha'Zix, Mutating Horror",
+          "canonicalName": "Kha'Zix, Mutating Horror",
+          "cardId": "unl-143-219",
+          "publicCode": "UNL-143/219"
+        }
+      ],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:mechanics/ambush#ambush-showdown-focus",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:mechanics/equipment#choose-units",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:mechanics/equipment#equipment-reactions",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:mechanics/equipment#take-control-with-equipment",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:mechanics/equipment#when-unit-dies",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:mechanics/repeat#countering-repeated-spells",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    },
+    {
+      "id": "riftboundfaq:mechanics/repeat#repeat-decision-timing",
+      "manualCardRefs": [],
+      "ambiguousCardMentions": []
+    }
+  ]
+}

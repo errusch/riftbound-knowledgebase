@@ -1,0 +1,44 @@
+{
+  "ruling_id": "ruling.elder-dragon-flash-location-targeting-clarification-2026-04-29",
+  "kind": "ruling",
+  "title": "Moving Elder Dragon's location-restricted targets",
+  "card_name": "Elder Dragon",
+  "card_id": "unl-118-219",
+  "old_text": null,
+  "new_text": null,
+  "explanation": "Elder Dragon has a separate targeting restriction for each location. A target moved by Flash to a different location no longer meets the restriction under which it was chosen and is unaffected when the play effect resolves.",
+  "effective_date": "2026-04-29",
+  "source_doc": "Riftbound Unleashed Rules FAQ and Clarifications",
+  "affected_card_ids": [
+    "unl-118-219",
+    "unl-118a-219",
+    "ogs-011-024"
+  ],
+  "affected_rule_ids": [
+    "359.3.e",
+    "359.3.e.3"
+  ],
+  "topics": [
+    "targets",
+    "location",
+    "move",
+    "Elder Dragon"
+  ],
+  "source_artifact_id": "official.unleashed-rules-faq-2026-04-29",
+  "source_sha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Unleashed Rules FAQ and Clarifications",
+    "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+    "source_date": "2026-04-29",
+    "retrieved_at": "2026-07-14",
+    "trust_tier": "official",
+    "notes": "Transcribed from the complete official article inventory and verified against the live Riot page."
+  },
+  "verification": {
+    "status": "official_source_text_verified",
+    "verified_at": "2026-07-14",
+    "method": "complete_official_article_section_inventory",
+    "notes": "Checked against the official source article, its section inventory, and the canonical CRD/card corpus."
+  }
+}

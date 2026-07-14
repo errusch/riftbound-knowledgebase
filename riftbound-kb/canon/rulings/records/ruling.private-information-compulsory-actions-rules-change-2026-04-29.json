@@ -1,0 +1,42 @@
+{
+  "ruling_id": "ruling.private-information-compulsory-actions-rules-change-2026-04-29",
+  "kind": "rules_change",
+  "title": "Mandatory actions involving private information",
+  "card_name": "Rift Herald",
+  "card_id": "unl-179-219",
+  "old_text": null,
+  "new_text": "A player cannot be compelled to perform an action on cards whose privacy is secret or private if that action specifies a type or quality of card. The player may ignore that action instead.",
+  "explanation": "This rule is effective immediately even though its permanent rule number is deferred to the next Core Rules update. It prevents compulsory effects such as Rift Herald's Deathknell from forcing proof about qualifying cards in a private hand.",
+  "effective_date": "2026-04-29",
+  "source_doc": "Riftbound Unleashed Rules FAQ and Clarifications",
+  "affected_card_ids": [
+    "unl-179-219",
+    "unl-179a-219"
+  ],
+  "affected_rule_ids": [],
+  "topics": [
+    "private information",
+    "secret information",
+    "mandatory actions"
+  ],
+  "pending_rule_number": true,
+  "precedence": "supersedes_crd_1_3_until_next_crd",
+  "effective_until": "next_core_rules_document",
+  "source_artifact_id": "official.unleashed-rules-faq-2026-04-29",
+  "source_sha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Unleashed Rules FAQ and Clarifications",
+    "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+    "source_date": "2026-04-29",
+    "retrieved_at": "2026-07-14",
+    "trust_tier": "official",
+    "notes": "Transcribed from the complete official article inventory and verified against the live Riot page."
+  },
+  "verification": {
+    "status": "official_source_text_verified",
+    "verified_at": "2026-07-14",
+    "method": "complete_official_article_section_inventory",
+    "notes": "Checked against the official source article, its section inventory, and the canonical CRD/card corpus."
+  }
+}

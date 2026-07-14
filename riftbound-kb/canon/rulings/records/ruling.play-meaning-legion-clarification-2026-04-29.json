@@ -1,0 +1,44 @@
+{
+  "ruling_id": "ruling.play-meaning-legion-clarification-2026-04-29",
+  "kind": "rules_change",
+  "title": "Technical meanings of play and Legion",
+  "card_name": null,
+  "card_id": null,
+  "old_text": null,
+  "new_text": "In trigger conditions, 'play' means resolving an item on the chain. In other conditions and effects that check whether a card was played, including Legion, it means finalizing the item. In other verb uses, it means placing an item on the chain and queuing it for finalization.",
+  "explanation": "These three transitional meanings govern whether play triggers happen, whether Legion is active, and when instructions that play a card have occurred.",
+  "effective_date": "2026-04-29",
+  "source_doc": "Riftbound Unleashed Rules FAQ and Clarifications",
+  "affected_card_ids": [],
+  "affected_rule_ids": [
+    "350.1",
+    "353",
+    "812.1.c"
+  ],
+  "topics": [
+    "play",
+    "Legion",
+    "resolve",
+    "finalize",
+    "chain"
+  ],
+  "precedence": "supersedes_crd_1_3_until_next_crd",
+  "effective_until": "next_core_rules_document",
+  "source_artifact_id": "official.unleashed-rules-faq-2026-04-29",
+  "source_sha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Unleashed Rules FAQ and Clarifications",
+    "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+    "source_date": "2026-04-29",
+    "retrieved_at": "2026-07-14",
+    "trust_tier": "official",
+    "notes": "Transcribed from the complete official article inventory and verified against the live Riot page."
+  },
+  "verification": {
+    "status": "official_source_text_verified",
+    "verified_at": "2026-07-14",
+    "method": "complete_official_article_section_inventory",
+    "notes": "Checked against the official source article, its section inventory, and the canonical CRD/card corpus."
+  }
+}

@@ -1,0 +1,621 @@
+{
+  "schemaVersion": 1,
+  "sourceCommit": "59452b68a8ed57a60051702f681f6a5152e6616d",
+  "auditDate": "2026-07-14",
+  "basis": "CRD 1.3 + 2026-04-03 official errata + controlling 2026-04-29 official FAQ/clarifications",
+  "officialEvidenceCutoff": "2026-04-29",
+  "officialSourceArtifactIds": [
+    "official.unleashed-errata-2026-04-03",
+    "official.unleashed-rules-faq-2026-04-29"
+  ],
+  "counts": {
+    "pass": 67,
+    "factual_conflict": 12,
+    "insufficient_official_support": 2,
+    "baseline_quarantine": 17
+  },
+  "records": [
+    {
+      "id": "riftboundfaq:cards/abandoned-hall#countered-spell",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 official clarification confirms that 'play' in a trigger condition means the card resolved; a countered spell therefore does not satisfy Abandoned Hall's play trigger.",
+      "officialSupplementRefs": [
+        "ruling.play-meaning-legion-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/abandoned-hall#flicker-replay",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 official play-timing and battlefield-ability control clarifications support the ordering and controller used by this answer.",
+      "officialSupplementRefs": [
+        "ruling.play-meaning-legion-clarification-2026-04-29",
+        "ruling.battlefield-ability-control-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/abandoned-hall#moving-in",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 official play-timing and battlefield-ability control clarifications support evaluating Abandoned Hall after the spell resolves.",
+      "officialSupplementRefs": [
+        "ruling.play-meaning-legion-clarification-2026-04-29",
+        "ruling.battlefield-ability-control-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/abandoned-hall#moving-out",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 official play-timing and battlefield-ability control clarifications support evaluating Abandoned Hall after the spell resolves.",
+      "officialSupplementRefs": [
+        "ruling.play-meaning-legion-clarification-2026-04-29",
+        "ruling.battlefield-ability-control-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/akshan-mischievous#aurora-timing",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/akshan-mischievous#dual-akshan-control",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found.",
+      "supplementalRuleRefs": [
+        {
+          "ruleId": "323.7",
+          "evidence": "CR 323.7 recalls permanents in bases other than their controller's during cleanup, supporting the control-reversion cleanup result."
+        }
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/alpha-strike#might-reduction",
+      "disposition": "insufficient_official_support",
+      "evidence": "CR 355.14.h lets the controller determine which targets cease when damage is insufficient, but does not say that only the minimum number may cease; the stricter claim lacks official support."
+    },
+    {
+      "id": "riftboundfaq:cards/alpha-strike#split-distribution",
+      "disposition": "factual_conflict",
+      "evidence": "Alpha Strike says it deals damage equal to the unit's Might; the answer incorrectly permits assigning less than the full damage total."
+    },
+    {
+      "id": "riftboundfaq:cards/alpha-strike#targeting",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 official Alpha Strike targeting clarification is compatible with this answer's identification of the friendly unit and chosen enemy units as targets.",
+      "officialSupplementRefs": [
+        "ruling.alpha-strike-repulse-target-relationships-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/arcane-shift#replay-at-same-battlefield",
+      "disposition": "pass",
+      "evidence": "The corrected 2026-04-29 battlefield-control rule and official same-battlefield replay example confirm that control is retained while the turn is closed.",
+      "officialSupplementRefs": [
+        "ruling.battlefield-control-cleanup-rules-change-2026-04-29",
+        "ruling.battlefield-control-open-state-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/astral-heron#countered-spell",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/astral-heron#removed-in-response",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/astral-heron#self-trigger",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/azir-sovereign#attack-trigger-without-azir",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/baited-hook#deathknell-order",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/baited-hook#illegal-target",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/baited-hook#interaction",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/baron-nashor#baron-move",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/baron-nashor#baron-pit-showdown",
+      "disposition": "factual_conflict",
+      "evidence": "The 2026-04-29 official corrections stage the showdown after Contested is applied regardless of prior battlefield control; this answer reaches the same outcome but teaches the obsolete uncontrolled-battlefield rationale.",
+      "officialSupplementRefs": [
+        "ruling.showdown-staging-rules-change-2026-04-29",
+        "ruling.showdown-opening-rules-change-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/baron-nashor#baron-pit-victory",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 official victory-score clarification confirms that a final-point conquer requires scoring every battlefield on the board that turn.",
+      "officialSupplementRefs": [
+        "ruling.aspirants-climb-green-father-victory-score-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/baron-nashor#mageseeker-warden",
+      "disposition": "baseline_quarantine",
+      "evidence": "The upstream answer is explicitly marked Rules citation needed and is not eligible for retrieval."
+    },
+    {
+      "id": "riftboundfaq:cards/bone-skewer#optional-additional-costs",
+      "disposition": "insufficient_official_support",
+      "evidence": "CR 356.1.b.1 defines 'ignoring its cost' for base costs; no cited official rule establishes that Bone Skewer's 'any and all costs' preserves a declared optional additional cost as paid.",
+      "officialSupplementRefs": [
+        "ruling.bone-skewer-errata-2026-04-03"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/bone-skewer#stun-targeting",
+      "disposition": "factual_conflict",
+      "evidence": "The 2026-04-03 official erratum replaces the quoted 'When they do' wording with 'If they do, then do this'; this answer is built around obsolete trigger text and must be rewritten before retrieval.",
+      "officialSupplementRefs": [
+        "ruling.bone-skewer-errata-2026-04-03"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/bone-skewer#targeting-protection",
+      "disposition": "pass",
+      "evidence": "Reviewed against CRD 1.3, canonical card text, and the current 2026-04-03 Bone Skewer erratum; the hand-zone targeting conclusion remains compatible.",
+      "officialSupplementRefs": [
+        "ruling.bone-skewer-errata-2026-04-03"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/call-to-battle#target-at-same-battlefield",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/diana-lunari#ability",
+      "disposition": "baseline_quarantine",
+      "evidence": "The upstream answer is explicitly marked Rules citation needed and is not eligible for retrieval."
+    },
+    {
+      "id": "riftboundfaq:cards/diana-lunari#showdown-trigger-timing",
+      "disposition": "baseline_quarantine",
+      "evidence": "The upstream answer is explicitly marked Rules citation needed and is not eligible for retrieval."
+    },
+    {
+      "id": "riftboundfaq:cards/emperors-dais#ability",
+      "disposition": "baseline_quarantine",
+      "evidence": "The upstream answer is explicitly marked Rules citation needed and is not eligible for retrieval."
+    },
+    {
+      "id": "riftboundfaq:cards/ezreal-prodigy#not-optional-additional-costs",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/ezreal-prodigy#what-are-optional-additional-costs",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/flash#target-in-base",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/gangplank-naval#partial-resolution",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/gangplank-naval#switcheroo-interaction",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/glasc-mixologist#deathknell-combat-result",
+      "disposition": "pass",
+      "evidence": "The corrected 2026-04-29 combat-result rule and official HOT-FEPR ordering confirm the No Result outcome and that combat cleanup completes before the pending Deathknell resolves.",
+      "officialSupplementRefs": [
+        "ruling.combat-no-result-recall-rules-change-2026-04-29",
+        "ruling.hot-fepr-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/glasc-mixologist#play-to-same-battlefield",
+      "disposition": "pass",
+      "evidence": "The corrected 2026-04-29 battlefield-control rule and official same-battlefield replay example confirm that the battlefield remains controlled while the turn is closed.",
+      "officialSupplementRefs": [
+        "ruling.battlefield-control-cleanup-rules-change-2026-04-29",
+        "ruling.battlefield-control-open-state-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/glasc-mixologist#same-event-target",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 HOT-FEPR clarification supports completing cleanup before pending Deathknell finalization and target choice.",
+      "officialSupplementRefs": [
+        "ruling.hot-fepr-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/heedless-resurrection#ignore-additional-costs",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/heedless-resurrection#no-refunds",
+      "disposition": "factual_conflict",
+      "evidence": "The no-refund conclusion is correct, but the answer categorically says a countered spell is not played. The 2026-04-29 official clarification limits that meaning to trigger conditions and shows other checks can count a finalized but countered spell.",
+      "officialSupplementRefs": [
+        "ruling.play-meaning-legion-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/heedless-resurrection#repeat-cost",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/heedless-resurrection#self-resurrection",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/hidden-blade#draw-if-illegal",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/hidden-blade#draw-if-not-killed",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/irelia-fervent#blade-dancer",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/irelia-fervent#choosing-happens-before-counter",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/irelia-fervent#readying-during-awaken-step",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/irelia-fervent#repeat-targeting-twice",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/irresistible-faefolk#playing-vs-moving",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/irresistible-faefolk#removed-in-response",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/irresistible-faefolk#who-attacks",
+      "disposition": "factual_conflict",
+      "evidence": "The attacker conclusion remains correct, but the sequence is not: the pending trigger keeps the first cleanup closed, so it stages a showdown but cannot open one and the enemy has not moved yet. The trigger then resolves, and a later open-state cleanup stages and opens combat after the enemy arrives.",
+      "officialSupplementRefs": [
+        "ruling.showdown-staging-rules-change-2026-04-29",
+        "ruling.showdown-opening-rules-change-2026-04-29",
+        "ruling.hot-fepr-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/karthus-eternal#dies-same-effect",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/karthus-eternal#not-so-fast",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/khazix-mutating-horror#reaction-unit",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 official trigger-structure clarification supports distinguishing Kha'Zix's leading condition from later hypothetical text.",
+      "officialSupplementRefs": [
+        "ruling.triggered-ability-structure-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/khazix-mutating-horror#trigger-per-combat",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/lacerate#targeting-restriction",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/lilting-lullaby#own-counter",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/lotus-trap#combat-assignment",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 official lethal-damage clarification remains compatible with the answer's separation of combat assignment from Lotus Trap's damage-dealing replacement effect.",
+      "officialSupplementRefs": [
+        "ruling.lethal-damage-modification-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/nocturne-horrifying#burn-and-minefield",
+      "disposition": "baseline_quarantine",
+      "evidence": "The upstream answer is explicitly marked Rules citation needed and is not eligible for retrieval."
+    },
+    {
+      "id": "riftboundfaq:cards/ruined-rex#ferrous-forerunner-mechs",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/ruined-rex#heal-timing",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 HOT-FEPR clarification confirms that cleanup completes, including healing, before the pending Deathknell finalizes and resolves.",
+      "officialSupplementRefs": [
+        "ruling.hot-fepr-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/sacrifice#counter",
+      "disposition": "factual_conflict",
+      "evidence": "The no-refund conclusion is correct, but the answer categorically says a countered spell is not played. The 2026-04-29 official clarification limits that meaning to trigger conditions and preserves other finalize-based meanings of play.",
+      "officialSupplementRefs": [
+        "ruling.play-meaning-legion-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/sacrifice#deathknell",
+      "disposition": "factual_conflict",
+      "evidence": "The 2026-04-29 official private-information rule lets the affected player ignore a compulsory-looking instruction to play a specified card type from hand; the retrieved Rift Herald callout incorrectly states that a free unit is necessarily played.",
+      "officialSupplementRefs": [
+        "ruling.private-information-compulsory-actions-rules-change-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/sacrifice#interaction",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/shady-spectacles#temporary",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified; the cited Deceiver and Mirror Image token grants also have current official errata.",
+      "officialSupplementRefs": [
+        "ruling.deceiver-errata-2026-04-03",
+        "ruling.mirror-image-errata-2026-04-03"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/smite#death-saving-replacement-effects",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found.",
+      "supplementalRuleRefs": [
+        {
+          "ruleId": "373.2",
+          "evidence": "CR 373.2's official example states that Guardian Angel appends its death-replacement text to the attached unit."
+        }
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/sunken-temple#mighty-from-assault",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 HOT-FEPR clarification supports the cleanup and finalization ordering used to determine when Sunken Temple checks Mighty.",
+      "officialSupplementRefs": [
+        "ruling.hot-fepr-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/switcheroo#how-it-works",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/switcheroo#modifiers-changing",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/switcheroo#negative-might",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/switcheroo#no-double-dipping",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/temporal-breach#control-retained",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/temporal-breach#hidden-targeting-restriction",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/temporal-breach#optional-additional-costs",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/temporal-breach#rockfall-path",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/temporal-breach#token-unit",
+      "disposition": "baseline_quarantine",
+      "evidence": "The page primary card is absent from the current official canonical card corpus, so its claims cannot be card-verified."
+    },
+    {
+      "id": "riftboundfaq:cards/thrill-of-the-hunt#score-on-opponents-turn",
+      "disposition": "pass",
+      "evidence": "The 2026-04-29 official open-state clarification confirms that battlefield control is not lost while the pending replay keeps the turn closed.",
+      "officialSupplementRefs": [
+        "ruling.battlefield-control-open-state-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:cards/vex-apathetic#stun-targeting",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/vex-cheerless#deflect-cost-reduction",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:cards/vex-cheerless#hidden-cost-increase",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:general-rules/abilities#costs-within-instructions",
+      "disposition": "factual_conflict",
+      "evidence": "The controlling 2026-04-29 clarification makes only an adjacent cost within instructions part of a triggered ability's base cost at finalization; later instruction costs resolve later, contradicting this answer's blanket rule.",
+      "officialSupplementRefs": [
+        "ruling.triggered-ability-structure-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:general-rules/abilities#reacting-to-abilities",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:general-rules/abilities#triggered-ability-if-conditions",
+      "disposition": "factual_conflict",
+      "evidence": "The controlling 2026-04-29 clarification explicitly replaces the first-comma model with a structured sequence for adjacent conditions, choices, and costs; this answer teaches the superseded model.",
+      "officialSupplementRefs": [
+        "ruling.triggered-ability-structure-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:general-rules/abilities#triggered-ability-timing",
+      "disposition": "factual_conflict",
+      "evidence": "CR 383.2.c evaluates triggers after the inciting event is processed, CR 383.3.d orders simultaneous triggers, and the controlling 2026-04-29 trigger clarification reinforces the staged process; the answer's 'immediately' timing is inaccurate.",
+      "officialSupplementRefs": [
+        "ruling.triggered-ability-structure-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:general-rules/chain-and-priority#reacting-to-units",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:general-rules/chain-and-priority#reaction-after-partial-chain",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:general-rules/showdowns#attack-defend-triggers",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:general-rules/showdowns#non-combat-showdown",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:general-rules/showdowns#showdown-close",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:general-rules/targeting#may-targets-at-resolution",
+      "disposition": "factual_conflict",
+      "evidence": "CR 383.3.a and the controlling 2026-04-29 trigger clarification make a leading 'you may' the choice whether to place the ability on the chain; the answer incorrectly says it can be declined on resolution.",
+      "officialSupplementRefs": [
+        "ruling.triggered-ability-structure-clarification-2026-04-29"
+      ]
+    },
+    {
+      "id": "riftboundfaq:general-rules/targeting#what-is-a-target",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:mechanics/ambush#ambush-base",
+      "disposition": "factual_conflict",
+      "evidence": "CR 355.2.a permits a unit to be played to its controller's base by default; Ambush only limits its added battlefield permission and Reaction timing, so the blanket 'No' is false."
+    },
+    {
+      "id": "riftboundfaq:mechanics/ambush#ambush-no-reaction-window",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:mechanics/ambush#ambush-showdown-focus",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:mechanics/equipment#choose-units",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:mechanics/equipment#equipment-reactions",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:mechanics/equipment#take-control-with-equipment",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found.",
+      "supplementalRuleRefs": [
+        {
+          "ruleId": "323.7",
+          "evidence": "CR 323.7 recalls permanents in bases other than their controller's during cleanup."
+        }
+      ]
+    },
+    {
+      "id": "riftboundfaq:mechanics/equipment#when-unit-dies",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:mechanics/repeat#countering-repeated-spells",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    },
+    {
+      "id": "riftboundfaq:mechanics/repeat#repeat-decision-timing",
+      "disposition": "pass",
+      "evidence": "Reviewed against cited CRD 1.3 rules and available canonical card text; no blocking conflict found."
+    }
+  ]
+}

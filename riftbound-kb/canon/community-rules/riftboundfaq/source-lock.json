@@ -1,0 +1,979 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-14T14:54:14.000Z",
+  "source": {
+    "sourceId": "riftbound-faq",
+    "repository": "https://github.com/ChristianIvicevic/riftboundfaq",
+    "commit": "59452b68a8ed57a60051702f681f6a5152e6616d",
+    "commitTimestamp": "2026-07-14T14:54:14.000Z",
+    "license": "CC-BY-SA-4.0",
+    "contentRoots": [
+      "content/cards",
+      "content/general-rules",
+      "content/mechanics"
+    ]
+  },
+  "officialRules": {
+    "version": "1.3",
+    "sourceDate": "2026-03-30",
+    "publisher": "Riot Games",
+    "sourcePage": "https://playriftbound.com/en-us/rules-hub/",
+    "sourcePdf": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/861747d1d4d505b7c14d73aba9749d1c3a209a67.pdf",
+    "sourcePdfTitle": "Riftbound Core Rules RUP3 Staging",
+    "sourcePdfPages": 98,
+    "sourcePdfSha256": "3733eaffa8b412ce37458d62e7cd22aa93d59f0a6925241bce5b0b5fd5ed1878",
+    "textExtraction": "PDFium direct extraction",
+    "textExtractionSha256": "08b4cee6a27e8ee7c299d8073db2599816b48f6984ee39c7312dab867b758a49",
+    "normalizedTextSha256": "424cad6308e5ea2704d4457f9fd5b123d231b4957ffc1b77445ce631e498441f",
+    "normalization": "A visually verified page-49 layout prefix on rule 391 was removed, and missing terminal periods were restored on rule labels 359.3.f.3.a.1, 461.4, and 461.7.b; rules content unchanged.",
+    "ruleIds": 2089
+  },
+  "factualReview": {
+    "auditDate": "2026-07-14",
+    "basis": "CRD 1.3 + 2026-04-03 official errata + controlling 2026-04-29 official FAQ/clarifications",
+    "officialEvidenceCutoff": "2026-04-29",
+    "officialSourceArtifactIds": [
+      "official.unleashed-errata-2026-04-03",
+      "official.unleashed-rules-faq-2026-04-29"
+    ],
+    "manifestPath": "sources/riftboundfaq-review-manifest.json",
+    "manifestSha256": "cd3320a64ebfef9f057e2131bbb3967b46ca6975b76fdb84c5bdaebda141fce9",
+    "counts": {
+      "pass": 67,
+      "factual_conflict": 12,
+      "insufficient_official_support": 2,
+      "baseline_quarantine": 17
+    }
+  },
+  "cardMentionAudit": {
+    "auditDate": "2026-07-14",
+    "purpose": "Reviewed plain-prose and Markdown-linked card mentions omitted by MDX component extraction",
+    "manifestPath": "sources/riftboundfaq-card-mention-manifest.json",
+    "manifestSha256": "32a4290a8c561ab794645b7ae3939afec4214cda0284720363302d2cbeb21524",
+    "counts": {
+      "records": 98,
+      "manualCardRefs": 8,
+      "ambiguousCardMentions": 1
+    }
+  },
+  "officialSupplements": {
+    "indexPath": "canon/rulings/index.json",
+    "indexSha256": "48f54873bd642fcafa4ee6d1194b6b0c14727250e7e4cf8f827cefaf086a7581",
+    "corpusCount": 65,
+    "sourceArtifacts": [
+      {
+        "sourceId": "official.unleashed-errata-2026-04-03",
+        "sourceUrl": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+        "publishedDate": "2026-04-03",
+        "rawSha256": "c8971b31589c00af75a34fe7ed5dd9dac8e1dde7f05a39fc5cde3af5adabf9da",
+        "normalizedSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "sectionCount": 8,
+        "recordCount": 8,
+        "authority": "official",
+        "precedence": null,
+        "effectiveUntil": null,
+        "artifactPath": "canon/rulings/sources/riftbound-unleashed-errata-2026-04-03.json",
+        "artifactSha256": "5ac2967d28264c03ff1d63346a7366573a2836bac68d177c5dec89f4a0531ba0"
+      },
+      {
+        "sourceId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceUrl": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+        "publishedDate": "2026-04-29",
+        "rawSha256": "2ac07aa740df91f3eff14b45006b1b1f68e1e3ca4604af4ffa979bf5bf138840",
+        "normalizedSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "sectionCount": 21,
+        "recordCount": 23,
+        "authority": "official",
+        "precedence": "supersedes_crd_1_3_until_next_crd",
+        "effectiveUntil": "next_core_rules_document",
+        "artifactPath": "canon/rulings/sources/riftbound-unleashed-rules-faq-2026-04-29.json",
+        "artifactSha256": "17ee0d174e6cd6159a9153dc3d51da9786d6ab7f0ab8a3768320415674805512"
+      }
+    ],
+    "corpusRecords": [
+      {
+        "rulingId": "ruling.alpha-strike-repulse-target-relationships-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.alpha-strike-repulse-target-relationships-clarification-2026-04-29.json",
+        "sha256": "a8dba364ed2fe1ea30c2f9135c468c46a58fe85000483cdb0cb6a0c451dabede",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.arise-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.arise-errata-2026-01-14.json",
+        "sha256": "9f67ce81433791a4a5cbe72058d526ded2538804e4fad32400265ce5f6f80468",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.aspirants-climb-green-father-victory-score-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.aspirants-climb-green-father-victory-score-clarification-2026-04-29.json",
+        "sha256": "b42952798553d997d9be6405377adf0787a349e9fbb97bbb7263c6603f12ba9d",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.atakhan-reksai-accelerate-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.atakhan-reksai-accelerate-clarification-2026-04-29.json",
+        "sha256": "761d09073cff2904b92dfef7f4c399ce1270ba69ddddb7f91bd425efebbcc80a",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.ava-achiever-errata-2025-11-04",
+        "path": "canon/rulings/records/ruling.ava-achiever-errata-2025-11-04.json",
+        "sha256": "3e8534d6511828a8e3d3772db9b6e2b9fd7ba67f6edf6f87713121725e48a84b",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.baited-hook-errata-2025-11-04",
+        "path": "canon/rulings/records/ruling.baited-hook-errata-2025-11-04.json",
+        "sha256": "a33d4cf51f2b9e887f1d372e427288db5b312f0db9508a035983d2c0282a7b45",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.battlefield-ability-control-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.battlefield-ability-control-clarification-2026-04-29.json",
+        "sha256": "17de7b5288ef6a5db3ccfa24743fbc24a8a24116c6d2718848dc42d167555c6e",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.battlefield-control-cleanup-rules-change-2026-04-29",
+        "path": "canon/rulings/records/ruling.battlefield-control-cleanup-rules-change-2026-04-29.json",
+        "sha256": "31c39b0ab38a1f290547a0710da8a9ef7d9f13b922d2f3ab45c6e902b312b1c3",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.battlefield-control-open-state-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.battlefield-control-open-state-clarification-2026-04-29.json",
+        "sha256": "4ec8fa7c15aabb553b120701600c790c6bf611594d9fe4e35d4eb36808c9027c",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.blind-fury-errata-2025-11-04",
+        "path": "canon/rulings/records/ruling.blind-fury-errata-2025-11-04.json",
+        "sha256": "c33964b6f1fe89291c596c89c6129f3d0e1c29bfdc950a95d684ee08b41a7a10",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.blood-rush-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.blood-rush-errata-2026-01-14.json",
+        "sha256": "c4fed36108719fb2484c8735b87ba388e2dec8312315cdcab648ffe042d042a2",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.bone-skewer-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.bone-skewer-errata-2026-04-03.json",
+        "sha256": "3464f6fbb324b9c724d8cb21c8e9725316bd1715415a5fdfa95c4540d820db92",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.brush-swap-back-replacement-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.brush-swap-back-replacement-clarification-2026-04-29.json",
+        "sha256": "b5acba9154aa594deaa64b513cdbf0e5255cf5f42ecf4b655dbfba555afc0b49",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.cleanup-during-finalization-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.cleanup-during-finalization-clarification-2026-04-29.json",
+        "sha256": "a76bbc19f33c32e6713f931173beaebcb6476eb508f6283893986dd68a5c9fe8",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.clockwork-keeper-errata-2025-11-04",
+        "path": "canon/rulings/records/ruling.clockwork-keeper-errata-2025-11-04.json",
+        "sha256": "468b0ac22ed175c7a6d89ce053454629b784ef684a218eb2b33631675389b862",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.combat-no-result-recall-rules-change-2026-04-29",
+        "path": "canon/rulings/records/ruling.combat-no-result-recall-rules-change-2026-04-29.json",
+        "sha256": "a0b6769d7bc6e02f9e37c75d6cbb619d022cddcbe2bc328f7edc41197032f0e0",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.convergent-mutation-errata-2025-11-04",
+        "path": "canon/rulings/records/ruling.convergent-mutation-errata-2025-11-04.json",
+        "sha256": "7a41c1e4e209221538f4130f8072fcf61dcb841ab27da79ae3e92c551ea4bd18",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.dark-child-starter-errata-2025-11-04",
+        "path": "canon/rulings/records/ruling.dark-child-starter-errata-2025-11-04.json",
+        "sha256": "a7a1e91c44b2f362c6d96967f9e6e42ac9d2de769b25bc77d30cdfa5a265a9d9",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.death-from-below-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.death-from-below-errata-2026-04-03.json",
+        "sha256": "e28122335cec7b63bb0bae05d897aaca19122c40434c2c96fab292d14661b9c3",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.deathgrip-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.deathgrip-errata-2026-01-14.json",
+        "sha256": "58277a1ae8c7fa0d79628755186b6ae53449e9d59b5ad174f23a000e1e61e896",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.deceiver-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.deceiver-errata-2026-04-03.json",
+        "sha256": "6fa5161e9b15a4e9a3c80ace2ae5acc879985d580f0d0125589b8fbef41e8978",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.deflect-rule-735-1-c-rules-change-2026-01-14",
+        "path": "canon/rulings/records/ruling.deflect-rule-735-1-c-rules-change-2026-01-14.json",
+        "sha256": "a79ecb7af13735949dd0bbb77c735f766081c2dd725f9c7a7afa947d3bd843ac",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.disintegrate-errata-2025-11-04",
+        "path": "canon/rulings/records/ruling.disintegrate-errata-2025-11-04.json",
+        "sha256": "1baa9febcfd51b50c613f676b65fff7e214936adb9db489d862cd17d776d9aae",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.dragons-rage-errata-2025-11-04",
+        "path": "canon/rulings/records/ruling.dragons-rage-errata-2025-11-04.json",
+        "sha256": "a70947524850fdd926c542e6965e6237e3d0bed4324e0a9981eb14d04376a170",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.draven-audacious-ruling-2026-01-14",
+        "path": "canon/rulings/records/ruling.draven-audacious-ruling-2026-01-14.json",
+        "sha256": "3c6a148b6d06e43fbc9b0fae2b018c1dc137090f035d889b573d927a8d3fb088",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_summary_verified"
+      },
+      {
+        "rulingId": "ruling.edge-of-night-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.edge-of-night-errata-2026-01-14.json",
+        "sha256": "202915b3085301e2bc5df445f34dd0fe31de6b7821c338a461fd19362bb5c435",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.elder-dragon-counter-strike-prevention-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.elder-dragon-counter-strike-prevention-clarification-2026-04-29.json",
+        "sha256": "9e66fbc0557c0db5216526f67f7efdf3a6d0df1a9d71c27af478cdc19047470d",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.elder-dragon-flash-location-targeting-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.elder-dragon-flash-location-targeting-clarification-2026-04-29.json",
+        "sha256": "335c71878ef3cc67540cb214d13aaf17b599bf07180270527e74d808321879d5",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.ezreal-prodigy-ruling-2026-01-14",
+        "path": "canon/rulings/records/ruling.ezreal-prodigy-ruling-2026-01-14.json",
+        "sha256": "d77870cd6921c127021e05ee86dc65bcd6d19569387c8b10a4784d98bec1eb0b",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_summary_verified"
+      },
+      {
+        "rulingId": "ruling.falling-star-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.falling-star-errata-2026-01-14.json",
+        "sha256": "09a313c215a11133c8e4bf03600e137d04cde918e6376910b53974bd01c9c74e",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.guards-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.guards-errata-2026-04-03.json",
+        "sha256": "d0d04020a0410faa4777623145475615d490dc0aab756f0066fe17a106c3aeb7",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.hostile-takeover-ruling-2026-01-14",
+        "path": "canon/rulings/records/ruling.hostile-takeover-ruling-2026-01-14.json",
+        "sha256": "1654241e0b1aa339fe0992a270f633e2063d8c3aa70388c26f8a87d21a36451d",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_summary_verified"
+      },
+      {
+        "rulingId": "ruling.hot-fepr-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.hot-fepr-clarification-2026-04-29.json",
+        "sha256": "9f581444d910bb2b239f47ed1ca77639749b6c6181d283aa41b96943416d9bfa",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.icathian-rain-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.icathian-rain-errata-2026-01-14.json",
+        "sha256": "fb8f5501de0ff3da7981e14e6b8f304651892c3a905dd4288591fbe478aabc90",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.janna-savior-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.janna-savior-errata-2026-01-14.json",
+        "sha256": "242cd6cb6a4196b6b2e4440a32ea36d5b8f36c3d872aa43c6de11fb9cc8483be",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.jax-unmatched-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.jax-unmatched-errata-2026-01-14.json",
+        "sha256": "8a13e516c406b9f53cac73041e14fb7181485fefa38b594093ce485655630f00",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.jhin-countered-spell-energy-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.jhin-countered-spell-energy-clarification-2026-04-29.json",
+        "sha256": "1e2a4f45993311068210cd86ef6a6bb9f70bbfe4dfa1bc8827ac8d17d54ac9fc",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.kato-the-arm-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.kato-the-arm-errata-2026-01-14.json",
+        "sha256": "c97df0b61a5fce45801088264ce9a56cfe6ba1a27a7e4d4f4dec18ba55e91f14",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.keeper-of-masks-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.keeper-of-masks-errata-2026-04-03.json",
+        "sha256": "c3e31d30b47bd89295494b31f3361627ea256c44bf866c91a21071ba1e40eca9",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.lethal-damage-modification-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.lethal-damage-modification-clarification-2026-04-29.json",
+        "sha256": "4b5cbb59fdb81ce921b16ccfdcb00c82d20ea9b5ac4e9842719f679d16850f44",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.might-reduction-ruling-2026-01-14",
+        "path": "canon/rulings/records/ruling.might-reduction-ruling-2026-01-14.json",
+        "sha256": "dbd112698db5f092f6480414f94369c58c0b4d800aa1b601a83f8a78792f9569",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_summary_verified"
+      },
+      {
+        "rulingId": "ruling.mirror-image-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.mirror-image-errata-2026-04-03.json",
+        "sha256": "0d6c4c3d5c707fadfe7e0cce34b08ac2cca7b4ad0124d1d511cdd8bc59b97446",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.pickpocket-ruling-2026-01-14",
+        "path": "canon/rulings/records/ruling.pickpocket-ruling-2026-01-14.json",
+        "sha256": "89b0c3a09a7ece040eb88bd704c4abf5be946758841f5d7ca44ddf1f0e6f5c99",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_summary_verified"
+      },
+      {
+        "rulingId": "ruling.play-meaning-legion-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.play-meaning-legion-clarification-2026-04-29.json",
+        "sha256": "fcd7be7dc95013183db5e9b0650342008ee08eb1b57ef972c3ca7e17a66166b8",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.private-information-compulsory-actions-rules-change-2026-04-29",
+        "path": "canon/rulings/records/ruling.private-information-compulsory-actions-rules-change-2026-04-29.json",
+        "sha256": "dacc2dcdbef5550e32cab42e2e0942cde1dd35cd754692d49ef9341e2c7c2622",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.reckoners-arena-yone-activate-conquer-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.reckoners-arena-yone-activate-conquer-clarification-2026-04-29.json",
+        "sha256": "c742b503e46d962f9729993db7d88cefd8c615d225339d8e3086891212f32098",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.reinforce-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.reinforce-errata-2026-01-14.json",
+        "sha256": "808c285b8529591afdb769154bedb3b5c783d8763e42b310a5a8c4c16b97c4e9",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.reksai-swarm-queen-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.reksai-swarm-queen-errata-2026-01-14.json",
+        "sha256": "57341bc68635aeac73d61f3d3d177b3af5a24de1e5cfde42ef2b438ded48de20",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.relentless-pursuit-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.relentless-pursuit-errata-2026-04-03.json",
+        "sha256": "373d8cc80284c01c31d28a6f389092d343c82429bd8658616c3ac9ee4fa44632",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.rell-magnetic-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.rell-magnetic-errata-2026-01-14.json",
+        "sha256": "2f91de0f370dfa33dedb7130488b48de0070527fe96e60b74d069ec679cc045d",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.rengar-trophy-hunter-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.rengar-trophy-hunter-errata-2026-04-03.json",
+        "sha256": "af7432ad008c835fb95e87de8aeef6c07c20f2c32517953bff6d52d393bd7aa1",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.rumble-hotheaded-ruling-2026-01-14",
+        "path": "canon/rulings/records/ruling.rumble-hotheaded-ruling-2026-01-14.json",
+        "sha256": "693105bd666912bf91df81b50908085b98f6f724d2022019b4a1bc54ffe54c29",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_summary_verified"
+      },
+      {
+        "rulingId": "ruling.showdown-opening-rules-change-2026-04-29",
+        "path": "canon/rulings/records/ruling.showdown-opening-rules-change-2026-04-29.json",
+        "sha256": "e3ae22924a6dc7205dce306c773616d56f768c9988f3b6cdd4cc549c147ea068",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.showdown-staging-rules-change-2026-04-29",
+        "path": "canon/rulings/records/ruling.showdown-staging-rules-change-2026-04-29.json",
+        "sha256": "238a95a5100f7691bd14cf93ca197b90fa856175f0a6275e8278f863d89b665d",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.spinning-axe-granted-temporary-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.spinning-axe-granted-temporary-clarification-2026-04-29.json",
+        "sha256": "5fd37272f81adb90df889845786a020864ed6fd52a29d3be5e59762fe9b039b2",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.svellsongur-ruling-2026-01-14",
+        "path": "canon/rulings/records/ruling.svellsongur-ruling-2026-01-14.json",
+        "sha256": "d97b4b1d446431c99d76f870c0cb6b58d28cc90d838d98e5184a834920d09994",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_summary_verified"
+      },
+      {
+        "rulingId": "ruling.temporal-portal-ruling-2026-01-14",
+        "path": "canon/rulings/records/ruling.temporal-portal-ruling-2026-01-14.json",
+        "sha256": "154879e84e049da8feacc612c331973cb9eb66d0f23de0603da8aec76dd1b7b4",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_summary_verified"
+      },
+      {
+        "rulingId": "ruling.tianna-crownguard-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.tianna-crownguard-errata-2026-01-14.json",
+        "sha256": "ed46bfe0345ee2e7ee75abb8634e8ff5fa6cdde8b95ab3ba2534b234bdead9d4",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.triggered-ability-structure-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.triggered-ability-structure-clarification-2026-04-29.json",
+        "sha256": "0fb5d729d226c970fbafac6bdd1b5fec7902a23cbf05527a2152f657765aeae0",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.turn-to-dust-attached-equipment-temporary-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.turn-to-dust-attached-equipment-temporary-clarification-2026-04-29.json",
+        "sha256": "d64ef4fdc21a802ba514be61431f7ff6cab816644a832bd4f9026d5ccc8e31de",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.void-burrower-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.void-burrower-errata-2026-01-14.json",
+        "sha256": "240170a60d0e8d3ed02ed5e3d4946044e22b1cf227f2b91bdcdcde79395be539",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.void-rush-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.void-rush-errata-2026-01-14.json",
+        "sha256": "ffddbe167c73c7c7097fda7269b5ae391c2423058d487e7d82eb8177712930e3",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.weaponmaster-ruling-2026-01-14",
+        "path": "canon/rulings/records/ruling.weaponmaster-ruling-2026-01-14.json",
+        "sha256": "e3f9a2ebb7c0caec8da7185d88b4fcd37ec05976e9ad484982266560d1fe19af",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_summary_verified"
+      },
+      {
+        "rulingId": "ruling.yone-blademaster-errata-2026-01-14",
+        "path": "canon/rulings/records/ruling.yone-blademaster-errata-2026-01-14.json",
+        "sha256": "76813dd76ecec78ccf22248c621110cd743640839e92e215a973c1d2bcc23746",
+        "sourceArtifactId": null,
+        "sourceSha256": null,
+        "verificationStatus": "live_webfetch_text_verified"
+      },
+      {
+        "rulingId": "ruling.zilean-deceiver-reflection-copy-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.zilean-deceiver-reflection-copy-clarification-2026-04-29.json",
+        "sha256": "c16362397a7de3078955a29ce8a9078fa12dadc796e2fc325ee22b9a99b0b738",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      }
+    ],
+    "referencedCount": 16,
+    "referenced": [
+      {
+        "rulingId": "ruling.alpha-strike-repulse-target-relationships-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.alpha-strike-repulse-target-relationships-clarification-2026-04-29.json",
+        "sha256": "a8dba364ed2fe1ea30c2f9135c468c46a58fe85000483cdb0cb6a0c451dabede",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.aspirants-climb-green-father-victory-score-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.aspirants-climb-green-father-victory-score-clarification-2026-04-29.json",
+        "sha256": "b42952798553d997d9be6405377adf0787a349e9fbb97bbb7263c6603f12ba9d",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.battlefield-ability-control-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.battlefield-ability-control-clarification-2026-04-29.json",
+        "sha256": "17de7b5288ef6a5db3ccfa24743fbc24a8a24116c6d2718848dc42d167555c6e",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.battlefield-control-cleanup-rules-change-2026-04-29",
+        "path": "canon/rulings/records/ruling.battlefield-control-cleanup-rules-change-2026-04-29.json",
+        "sha256": "31c39b0ab38a1f290547a0710da8a9ef7d9f13b922d2f3ab45c6e902b312b1c3",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.battlefield-control-open-state-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.battlefield-control-open-state-clarification-2026-04-29.json",
+        "sha256": "4ec8fa7c15aabb553b120701600c790c6bf611594d9fe4e35d4eb36808c9027c",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.bone-skewer-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.bone-skewer-errata-2026-04-03.json",
+        "sha256": "3464f6fbb324b9c724d8cb21c8e9725316bd1715415a5fdfa95c4540d820db92",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.combat-no-result-recall-rules-change-2026-04-29",
+        "path": "canon/rulings/records/ruling.combat-no-result-recall-rules-change-2026-04-29.json",
+        "sha256": "a0b6769d7bc6e02f9e37c75d6cbb619d022cddcbe2bc328f7edc41197032f0e0",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.deceiver-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.deceiver-errata-2026-04-03.json",
+        "sha256": "6fa5161e9b15a4e9a3c80ace2ae5acc879985d580f0d0125589b8fbef41e8978",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.hot-fepr-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.hot-fepr-clarification-2026-04-29.json",
+        "sha256": "9f581444d910bb2b239f47ed1ca77639749b6c6181d283aa41b96943416d9bfa",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.lethal-damage-modification-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.lethal-damage-modification-clarification-2026-04-29.json",
+        "sha256": "4b5cbb59fdb81ce921b16ccfdcb00c82d20ea9b5ac4e9842719f679d16850f44",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.mirror-image-errata-2026-04-03",
+        "path": "canon/rulings/records/ruling.mirror-image-errata-2026-04-03.json",
+        "sha256": "0d6c4c3d5c707fadfe7e0cce34b08ac2cca7b4ad0124d1d511cdd8bc59b97446",
+        "sourceArtifactId": "official.unleashed-errata-2026-04-03",
+        "sourceSha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.play-meaning-legion-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.play-meaning-legion-clarification-2026-04-29.json",
+        "sha256": "fcd7be7dc95013183db5e9b0650342008ee08eb1b57ef972c3ca7e17a66166b8",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.private-information-compulsory-actions-rules-change-2026-04-29",
+        "path": "canon/rulings/records/ruling.private-information-compulsory-actions-rules-change-2026-04-29.json",
+        "sha256": "dacc2dcdbef5550e32cab42e2e0942cde1dd35cd754692d49ef9341e2c7c2622",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.showdown-opening-rules-change-2026-04-29",
+        "path": "canon/rulings/records/ruling.showdown-opening-rules-change-2026-04-29.json",
+        "sha256": "e3ae22924a6dc7205dce306c773616d56f768c9988f3b6cdd4cc549c147ea068",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.showdown-staging-rules-change-2026-04-29",
+        "path": "canon/rulings/records/ruling.showdown-staging-rules-change-2026-04-29.json",
+        "sha256": "238a95a5100f7691bd14cf93ca197b90fa856175f0a6275e8278f863d89b665d",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      },
+      {
+        "rulingId": "ruling.triggered-ability-structure-clarification-2026-04-29",
+        "path": "canon/rulings/records/ruling.triggered-ability-structure-clarification-2026-04-29.json",
+        "sha256": "0fb5d729d226c970fbafac6bdd1b5fec7902a23cbf05527a2152f657765aeae0",
+        "sourceArtifactId": "official.unleashed-rules-faq-2026-04-29",
+        "sourceSha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+        "verificationStatus": "official_source_text_verified"
+      }
+    ]
+  },
+  "counts": {
+    "pages": 43,
+    "records": 98,
+    "active": 67,
+    "quarantined": 31
+  },
+  "cardAliases": [
+    {
+      "sourceName": "Wuju Bladesman",
+      "canonicalCardId": "ogs-019-024",
+      "canonicalPublicCode": "OGS-019/024",
+      "basis": "Official OGS-019 card name and matching passive ability text"
+    }
+  ],
+  "snapshotSha256": "c09cd7302b88c044e40363ae9a7ff98faa9227c6327513db7e506f40e7120e8b",
+  "pages": [
+    {
+      "sourcePath": "content/cards/abandoned-hall.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "e797feaf255fe8064a54bc46ce5b08086854763e93a88aa54f638602be0339c1"
+    },
+    {
+      "sourcePath": "content/cards/akshan-mischievous.mdx",
+      "lastModified": "2026-07-11T11:54:18.000Z",
+      "sourceSha256": "a408f64e5f4cfc933210953b15d561c51aa3d04e9e95821ba6af5ffafdc34c5d"
+    },
+    {
+      "sourcePath": "content/cards/alpha-strike.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "a13e2072bede8d809f829ff50f3a2a01daeb46a007ba9223ea727ba6f93ac629"
+    },
+    {
+      "sourcePath": "content/cards/arcane-shift.mdx",
+      "lastModified": "2026-05-06T10:10:51.000Z",
+      "sourceSha256": "7e4d6af383f3f4b1a02bfb4106b069363235ff81a846d82fa922f467375ec601"
+    },
+    {
+      "sourcePath": "content/cards/astral-heron.mdx",
+      "lastModified": "2026-07-14T06:49:04.000Z",
+      "sourceSha256": "50c3446876341015fe59955cb4c71996a03e66e2fe3b69b03c006df87a2bee6a"
+    },
+    {
+      "sourcePath": "content/cards/azir-sovereign.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "1cd0deaec1b1242d43ee3ad6b6930661874a334c14620d4dccb40e02bb1de6ff"
+    },
+    {
+      "sourcePath": "content/cards/baited-hook.mdx",
+      "lastModified": "2026-07-11T13:49:57.000Z",
+      "sourceSha256": "ccd0992df8b37efcd3855665c9a2d103ca8114f8985e96e385f4b407a8f3e71a"
+    },
+    {
+      "sourcePath": "content/cards/baron-nashor.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "a5f4d7f421ee4aa475e30e3d2dfef4f5c7ccbfbbdd36e9217f0fafea54cf0071"
+    },
+    {
+      "sourcePath": "content/cards/bone-skewer.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "60be75f8f5442c89b80f95908c62a1834ac8a40f9e8f4adc3af88650e62e4605"
+    },
+    {
+      "sourcePath": "content/cards/call-to-battle.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "444263dbd0064e4ff9344a9154c443ed57049253910e0adee4c28bfd5f9179f2"
+    },
+    {
+      "sourcePath": "content/cards/diana-lunari.mdx",
+      "lastModified": "2026-07-11T13:49:57.000Z",
+      "sourceSha256": "8691063fc640e32c8052daa8ada47330b81cc5ebd046ffa12fc5fd07c6ad367f"
+    },
+    {
+      "sourcePath": "content/cards/emperors-dais.mdx",
+      "lastModified": "2026-07-11T13:49:57.000Z",
+      "sourceSha256": "4b362916640e530b969176ee7bc2ec419a3e9321e4f98f94b989900c7816bc68"
+    },
+    {
+      "sourcePath": "content/cards/ezreal-prodigy.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "7a0d6468a50e31c808985e2a9fd32d8ca9e03f05685a26109ff9ef2982195d2d"
+    },
+    {
+      "sourcePath": "content/cards/flash.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "13fdec7adaf724e1efcbf2396fede225373e326745b80d90155e7cb2ee922783"
+    },
+    {
+      "sourcePath": "content/cards/gangplank-naval.mdx",
+      "lastModified": "2026-07-12T02:57:40.000Z",
+      "sourceSha256": "39e1a223eb9be5b3cfb63b2abec3d9acbbe7f8886433828af4ad366edac6fb5d"
+    },
+    {
+      "sourcePath": "content/cards/glasc-mixologist.mdx",
+      "lastModified": "2026-05-06T10:10:51.000Z",
+      "sourceSha256": "078705f68851d9ff0034a35403e35389d8152ba496112900a675851c74a5bd03"
+    },
+    {
+      "sourcePath": "content/cards/heedless-resurrection.mdx",
+      "lastModified": "2026-05-07T08:49:36.000Z",
+      "sourceSha256": "4e248864f8cd6d752a9b93361c7da8a13fdbf2295d6012dd8bdae085cf1166dd"
+    },
+    {
+      "sourcePath": "content/cards/hidden-blade.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "99716f0518d44a99dd560ae92b73d80e32df391014f825c97b380ce029e3416b"
+    },
+    {
+      "sourcePath": "content/cards/irelia-fervent.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "998ab258dd7ebb574ce4ca21c4443c6b8cf6dc8658cc2a8e36ce871c4cde656e"
+    },
+    {
+      "sourcePath": "content/cards/irresistible-faefolk.mdx",
+      "lastModified": "2026-07-08T12:23:38.000Z",
+      "sourceSha256": "96eb2699fe300dd21221bb48beed5dbb88117e720d34498948767a70a713fc0d"
+    },
+    {
+      "sourcePath": "content/cards/karthus-eternal.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "5f637c4f83e9980b64c973f5a64b97b9ffecaf810778c4b8911efc98e668dc04"
+    },
+    {
+      "sourcePath": "content/cards/khazix-mutating-horror.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "5269432136b2dc4a21c1d64d23285825c244b129377e062e2e872205321a106e"
+    },
+    {
+      "sourcePath": "content/cards/lacerate.mdx",
+      "lastModified": "2026-07-11T14:11:43.000Z",
+      "sourceSha256": "94cb50219e81f687175451b0a9586b21946f5221e532a552f07201b6f2f6f23b"
+    },
+    {
+      "sourcePath": "content/cards/lilting-lullaby.mdx",
+      "lastModified": "2026-05-06T10:10:51.000Z",
+      "sourceSha256": "29b8f7ceeda8c7db817fda8529bd545f630bd2f01cc9855a17283b7833c72935"
+    },
+    {
+      "sourcePath": "content/cards/lotus-trap.mdx",
+      "lastModified": "2026-05-06T10:10:51.000Z",
+      "sourceSha256": "396270f791033dbf55ed3ddaf47488ef0d47a46e293ec159ab3653585df34af0"
+    },
+    {
+      "sourcePath": "content/cards/nocturne-horrifying.mdx",
+      "lastModified": "2026-07-14T14:05:41.000Z",
+      "sourceSha256": "56c27980bb0612d1bc4dd1ce4e41369cc0644a56d90984e586dbb1aece56c69d"
+    },
+    {
+      "sourcePath": "content/cards/ruined-rex.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "6eed07c2ca3a88283f6d87d8731985391e9d5d5955a919d0eda206b6721f901d"
+    },
+    {
+      "sourcePath": "content/cards/sacrifice.mdx",
+      "lastModified": "2026-06-15T11:48:43.000Z",
+      "sourceSha256": "9a8eda2cfb83eb664d4248dcb845cf82b61768cf9aeb485c1c2d2174a20447fe"
+    },
+    {
+      "sourcePath": "content/cards/shady-spectacles.mdx",
+      "lastModified": "2026-07-14T14:54:14.000Z",
+      "sourceSha256": "bb04b26e9f194b256f9332565c5fcd38c23ede318c4981dfafa223a5f6227e0f"
+    },
+    {
+      "sourcePath": "content/cards/smite.mdx",
+      "lastModified": "2026-05-06T16:45:49.000Z",
+      "sourceSha256": "6893e85e84c82376b7113eb319c94bf737f36981954a27b4d0bb3bc7be57a5eb"
+    },
+    {
+      "sourcePath": "content/cards/sunken-temple.mdx",
+      "lastModified": "2026-05-06T10:10:51.000Z",
+      "sourceSha256": "6f36f070562363162c4ce54e36d8f63b9893eb59111d18b1804d770daa96950d"
+    },
+    {
+      "sourcePath": "content/cards/switcheroo.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "dddec2de4807446893417834a08968a3a5d37617c7ca46ee287303f4ba4836c7"
+    },
+    {
+      "sourcePath": "content/cards/temporal-breach.mdx",
+      "lastModified": "2026-07-12T02:03:05.000Z",
+      "sourceSha256": "13b123e093c198031966ef25a39be873441fbb35f872e3b4b9c225d5292cf7e5"
+    },
+    {
+      "sourcePath": "content/cards/thrill-of-the-hunt.mdx",
+      "lastModified": "2026-05-06T10:10:51.000Z",
+      "sourceSha256": "d07a006e480a3af9e67f3ed14ea6db640fa0134ca6362fee604604ffc5f876fe"
+    },
+    {
+      "sourcePath": "content/cards/vex-apathetic.mdx",
+      "lastModified": "2026-05-06T10:10:51.000Z",
+      "sourceSha256": "a38a302be8521d3758922b5a434409c59f4e280b1eae7c756bdc7795d28170a9"
+    },
+    {
+      "sourcePath": "content/cards/vex-cheerless.mdx",
+      "lastModified": "2026-05-06T10:10:51.000Z",
+      "sourceSha256": "9899fc77f48a4175bc95b93e93a0fbb1a32423b32cae5ad7be68e3b74823e7b9"
+    },
+    {
+      "sourcePath": "content/general-rules/abilities.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "df3cdcdc7d448ac136d10e1d945b60d083eb0f2a2b62284d846f27e1c21e5c2f"
+    },
+    {
+      "sourcePath": "content/general-rules/chain-and-priority.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "45f88e124597bb675970550db3067882bb38efffe841898056a7aaf7b7791876"
+    },
+    {
+      "sourcePath": "content/general-rules/showdowns.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "100f60b46dd38d46cf1d0c11569822a7a9e97745458a5317cc069bba33d0d052"
+    },
+    {
+      "sourcePath": "content/general-rules/targeting.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "88b090945676d32fa2c255b0331d8efb429ef437ed620e8f7d25ee828e7a2cc1"
+    },
+    {
+      "sourcePath": "content/mechanics/ambush.mdx",
+      "lastModified": "2026-05-09T02:04:18.000Z",
+      "sourceSha256": "dfef98495fcc4eb3c84337f8bfb60192200ae7689ae1737fae87863f4885647d"
+    },
+    {
+      "sourcePath": "content/mechanics/equipment.mdx",
+      "lastModified": "2026-05-06T10:10:51.000Z",
+      "sourceSha256": "b4f18a3691366d608e888ccc2208ecb1f68c4d628240c6caece305d171977ade"
+    },
+    {
+      "sourcePath": "content/mechanics/repeat.mdx",
+      "lastModified": "2026-05-12T12:15:20.000Z",
+      "sourceSha256": "6e175103078faf3c9c12c48957f5e9bc515ffa9d266bcac5eaf77286c58f49ac"
+    }
+  ]
+}

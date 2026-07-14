@@ -1,0 +1,40 @@
+{
+  "ruling_id": "ruling.showdown-opening-rules-change-2026-04-29",
+  "kind": "rules_change",
+  "title": "Opening a non-combat Showdown",
+  "card_name": null,
+  "card_id": null,
+  "old_text": "If Control of a Battlefield is Contested and the Battlefield in question is uncontrolled when it becomes Contested, a Showdown is opened during the Cleanup at the end of the action that caused the Battlefield to become Contested.",
+  "new_text": "If Control of a Battlefield is Contested and there aren't units controlled by different players there, a Showdown is opened during the Cleanup at the end of the action that caused the Battlefield to become Contested.",
+  "explanation": "The non-combat Showdown check depends on whether units controlled by different players are present, not whether the battlefield is uncontrolled.",
+  "effective_date": "2026-04-29",
+  "source_doc": "Riftbound Unleashed Rules FAQ and Clarifications",
+  "affected_card_ids": [],
+  "affected_rule_ids": [
+    "344.2"
+  ],
+  "topics": [
+    "Showdown",
+    "Contested",
+    "cleanup"
+  ],
+  "precedence": "supersedes_crd_1_3_until_next_crd",
+  "effective_until": "next_core_rules_document",
+  "source_artifact_id": "official.unleashed-rules-faq-2026-04-29",
+  "source_sha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Unleashed Rules FAQ and Clarifications",
+    "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+    "source_date": "2026-04-29",
+    "retrieved_at": "2026-07-14",
+    "trust_tier": "official",
+    "notes": "Transcribed from the complete official article inventory and verified against the live Riot page."
+  },
+  "verification": {
+    "status": "official_source_text_verified",
+    "verified_at": "2026-07-14",
+    "method": "complete_official_article_section_inventory",
+    "notes": "Checked against the official source article, its section inventory, and the canonical CRD/card corpus."
+  }
+}

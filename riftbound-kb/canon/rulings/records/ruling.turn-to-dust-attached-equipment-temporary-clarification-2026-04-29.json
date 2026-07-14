@@ -1,0 +1,43 @@
+{
+  "ruling_id": "ruling.turn-to-dust-attached-equipment-temporary-clarification-2026-04-29",
+  "kind": "ruling",
+  "title": "Granted rules text on attached Equipment",
+  "card_name": "Turn to Dust",
+  "card_id": "unl-070-219",
+  "old_text": null,
+  "new_text": null,
+  "explanation": "Attached Equipment has only its printed rules text inactive. Rules text granted by another effect remains active, so Temporary granted by Turn to Dust will trigger and kill it in its controller's next Beginning Phase; granted Deflect also remains active.",
+  "effective_date": "2026-04-29",
+  "source_doc": "Riftbound Unleashed Rules FAQ and Clarifications",
+  "affected_card_ids": [
+    "unl-070-219"
+  ],
+  "affected_rule_ids": [
+    "135.4",
+    "718.2"
+  ],
+  "topics": [
+    "Equipment",
+    "attached",
+    "granted text",
+    "Temporary",
+    "Deflect"
+  ],
+  "source_artifact_id": "official.unleashed-rules-faq-2026-04-29",
+  "source_sha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Unleashed Rules FAQ and Clarifications",
+    "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+    "source_date": "2026-04-29",
+    "retrieved_at": "2026-07-14",
+    "trust_tier": "official",
+    "notes": "Transcribed from the complete official article inventory and verified against the live Riot page."
+  },
+  "verification": {
+    "status": "official_source_text_verified",
+    "verified_at": "2026-07-14",
+    "method": "complete_official_article_section_inventory",
+    "notes": "Checked against the official source article, its section inventory, and the canonical CRD/card corpus."
+  }
+}

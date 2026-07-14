@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "source_id": "official.unleashed-rules-faq-2026-04-29",
+  "source_name": "Riftbound Unleashed Rules FAQ and Clarifications",
+  "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+  "published_date": "2026-04-29",
+  "retrieved_at": "2026-07-14",
+  "authority": "official",
+  "precedence": "supersedes_crd_1_3_until_next_crd",
+  "effective_until": "next_core_rules_document",
+  "raw": {
+    "media_type": "text/html",
+    "bytes": 242671,
+    "sha256": "2ac07aa740df91f3eff14b45006b1b1f68e1e3ca4604af4ffa979bf5bf138840"
+  },
+  "normalized": {
+    "method": "pandoc 3.9 html-to-plain; remove blank lines; LF output",
+    "line_count": 290,
+    "sha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776"
+  },
+  "inventory": {
+    "group_counts": {
+      "revised_and_clarified_rulings": 7,
+      "frequently_asked_questions": 14
+    },
+    "section_count": 21,
+    "record_count": 23,
+    "sections": [
+      {
+        "group": "revised_and_clarified_rulings",
+        "heading": "Triggered Abilities",
+        "record_ids": [
+          "ruling.triggered-ability-structure-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "revised_and_clarified_rulings",
+        "heading": "Control of Battlefields and Showdowns",
+        "record_ids": [
+          "ruling.battlefield-control-cleanup-rules-change-2026-04-29",
+          "ruling.showdown-staging-rules-change-2026-04-29",
+          "ruling.showdown-opening-rules-change-2026-04-29"
+        ]
+      },
+      {
+        "group": "revised_and_clarified_rulings",
+        "heading": "Mandatory Actions and Private Information",
+        "record_ids": [
+          "ruling.private-information-compulsory-actions-rules-change-2026-04-29"
+        ]
+      },
+      {
+        "group": "revised_and_clarified_rulings",
+        "heading": "Lethal Damage Modification",
+        "record_ids": [
+          "ruling.lethal-damage-modification-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "revised_and_clarified_rulings",
+        "heading": "Control of Battlefield Abilities",
+        "record_ids": [
+          "ruling.battlefield-ability-control-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "revised_and_clarified_rulings",
+        "heading": "Legion",
+        "record_ids": [
+          "ruling.play-meaning-legion-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "revised_and_clarified_rulings",
+        "heading": "Results of Combat",
+        "record_ids": [
+          "ruling.combat-no-result-recall-rules-change-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Aspirant's Climb, Green Father, and Brush at eight points",
+        "record_ids": [
+          "ruling.aspirants-climb-green-father-victory-score-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Replacing Brush with Brush and swapping back",
+        "record_ids": [
+          "ruling.brush-swap-back-replacement-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Turn to Dust on attached Equipment",
+        "record_ids": [
+          "ruling.turn-to-dust-attached-equipment-temporary-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Granted Temporary on attached Spinning Axe",
+        "record_ids": [
+          "ruling.spinning-axe-granted-temporary-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Open state and empty battlefield control",
+        "record_ids": [
+          "ruling.battlefield-control-open-state-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Cleanup during finalization",
+        "record_ids": [
+          "ruling.cleanup-during-finalization-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Zilean, Time Mage and Deceiver",
+        "record_ids": [
+          "ruling.zilean-deceiver-reflection-copy-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Counter Strike and Elder Dragon",
+        "record_ids": [
+          "ruling.elder-dragon-counter-strike-prevention-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Flash and Elder Dragon location targets",
+        "record_ids": [
+          "ruling.elder-dragon-flash-location-targeting-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Countered Singularity and Jhin",
+        "record_ids": [
+          "ruling.jhin-countered-spell-energy-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Alpha Strike, Flash, and Repulse",
+        "record_ids": [
+          "ruling.alpha-strike-repulse-target-relationships-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Reckoner's Arena and Yone",
+        "record_ids": [
+          "ruling.reckoners-arena-yone-activate-conquer-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "Atakhan, Rek'Sai, and Accelerate",
+        "record_ids": [
+          "ruling.atakhan-reksai-accelerate-clarification-2026-04-29"
+        ]
+      },
+      {
+        "group": "frequently_asked_questions",
+        "heading": "How HOT FEPR works",
+        "record_ids": [
+          "ruling.hot-fepr-clarification-2026-04-29"
+        ]
+      }
+    ]
+  }
+}
