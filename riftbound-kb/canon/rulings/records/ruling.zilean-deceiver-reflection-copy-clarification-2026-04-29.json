@@ -1,0 +1,44 @@
+{
+  "ruling_id": "ruling.zilean-deceiver-reflection-copy-clarification-2026-04-29",
+  "kind": "ruling",
+  "title": "Zilean and Deceiver Reflection copies",
+  "card_name": "Deceiver",
+  "card_id": "unl-199-219",
+  "old_text": null,
+  "new_text": null,
+  "explanation": "Zilean's replacement effect makes a second ready Reflection as Deceiver plays one. After both tokens resolve, Deceiver's reflexive trigger makes both copies of the chosen unit and grants both Temporary. Becoming Zilean copies does not create another play event, so no loop occurs.",
+  "effective_date": "2026-04-29",
+  "source_doc": "Riftbound Unleashed Rules FAQ and Clarifications",
+  "affected_card_ids": [
+    "unl-086-219",
+    "unl-199-219",
+    "unl-235-219",
+    "unl-235-star-219"
+  ],
+  "affected_rule_ids": [
+    "375"
+  ],
+  "topics": [
+    "replacement effects",
+    "copy",
+    "Reflection",
+    "reflexive triggers"
+  ],
+  "source_artifact_id": "official.unleashed-rules-faq-2026-04-29",
+  "source_sha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Unleashed Rules FAQ and Clarifications",
+    "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+    "source_date": "2026-04-29",
+    "retrieved_at": "2026-07-14",
+    "trust_tier": "official",
+    "notes": "Transcribed from the complete official article inventory and verified against the live Riot page."
+  },
+  "verification": {
+    "status": "official_source_text_verified",
+    "verified_at": "2026-07-14",
+    "method": "complete_official_article_section_inventory",
+    "notes": "Checked against the official source article, its section inventory, and the canonical CRD/card corpus."
+  }
+}

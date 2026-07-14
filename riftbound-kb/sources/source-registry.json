@@ -28,6 +28,32 @@
       "trust_tier": "official"
     },
     {
+      "source_id": "riftbound-faq",
+      "source_type": "trusted_secondary",
+      "name": "Riftbound FAQ",
+      "base_url": "https://www.riftboundfaq.com/",
+      "repository": "https://github.com/ChristianIvicevic/riftboundfaq",
+      "pinned_commit": "59452b68a8ed57a60051702f681f6a5152e6616d",
+      "usage": [
+        "rules explanations",
+        "card interaction research"
+      ],
+      "prohibited_usage": [
+        "official rulings",
+        "card text authority",
+        "errata",
+        "legality",
+        "tournament policy",
+        "meta analysis",
+        "deckbuilding",
+        "matchups",
+        "strategy"
+      ],
+      "trust_tier": "trusted_secondary",
+      "license": "CC-BY-SA-4.0",
+      "notes": "Community-authored explanations. Only records with an explicit full-corpus factual-review pass, matching CRD version, canon-resolved evidence, and exact-source-verified official supplement references may be retrieved. The pinned 2026-04-03 official errata and controlling 2026-04-29 official FAQ/clarifications are part of the current review basis. Official Riot rules, card text, errata, clarifications, and policy always take precedence."
+    },
+    {
       "source_id": "tcgplayer-us",
       "source_type": "market",
       "name": "TCGPlayer US",

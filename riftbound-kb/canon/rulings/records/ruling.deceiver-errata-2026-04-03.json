@@ -1,0 +1,41 @@
+{
+  "ruling_id": "ruling.deceiver-errata-2026-04-03",
+  "kind": "errata",
+  "title": "LeBlanc, Deceiver (errata)",
+  "card_name": "Deceiver",
+  "card_id": "unl-199-219",
+  "old_text": "When you conquer or hold, you may discard 1 and exhaust me to play a ready Reflection unit token there. It becomes a copy of another unit there. Give it [Temporary].",
+  "new_text": "When you conquer or hold, you may discard 1 and exhaust me to play a ready Reflection unit token there. Then do this: It becomes a copy of another unit there. Give it [Temporary].",
+  "explanation": "Copying another unit and granting Temporary happen in a reflexive trigger after the Reflection is played.",
+  "effective_date": "2026-04-03",
+  "source_doc": "Riftbound Unleashed Errata Updates",
+  "affected_card_ids": [
+    "unl-199-219",
+    "unl-235-219",
+    "unl-235-star-219"
+  ],
+  "affected_rule_ids": [],
+  "topics": [
+    "reflexive triggers",
+    "copy",
+    "Reflection",
+    "Temporary"
+  ],
+  "source_artifact_id": "official.unleashed-errata-2026-04-03",
+  "source_sha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Unleashed Errata Updates",
+    "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+    "source_date": "2026-04-03",
+    "retrieved_at": "2026-07-14",
+    "trust_tier": "official",
+    "notes": "Transcribed from the complete official article inventory and verified against the live Riot page."
+  },
+  "verification": {
+    "status": "official_source_text_verified",
+    "verified_at": "2026-07-14",
+    "method": "complete_official_article_section_inventory",
+    "notes": "Checked against the official source article, its section inventory, and the canonical CRD/card corpus."
+  }
+}

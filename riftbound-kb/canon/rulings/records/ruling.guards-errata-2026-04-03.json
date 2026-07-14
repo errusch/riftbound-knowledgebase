@@ -1,0 +1,38 @@
+{
+  "ruling_id": "ruling.guards-errata-2026-04-03",
+  "kind": "errata",
+  "title": "Guards! (errata)",
+  "card_name": "Guards!",
+  "card_id": "sfd-154-221",
+  "old_text": "[Hidden] (Hide now for [A] to react with later for [0].)\nPlay a 2 [M] Sand Soldier unit token. You may pay [C] to ready it.",
+  "new_text": "[Hidden] (Hide now for [A] to react with later for [0].)\nPlay a 2 [M] Sand Soldier unit token. Then do this: You may pay [C] to ready it.",
+  "explanation": "The ready instruction is a reflexive trigger created after the Sand Soldier is played.",
+  "effective_date": "2026-04-03",
+  "source_doc": "Riftbound Unleashed Errata Updates",
+  "affected_card_ids": [
+    "sfd-154-221"
+  ],
+  "affected_rule_ids": [],
+  "topics": [
+    "reflexive triggers",
+    "Hidden",
+    "tokens"
+  ],
+  "source_artifact_id": "official.unleashed-errata-2026-04-03",
+  "source_sha256": "e909789cb081496b9969bec195f428db465ff0afc389274cc70423c8be2cfd24",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Unleashed Errata Updates",
+    "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+    "source_date": "2026-04-03",
+    "retrieved_at": "2026-07-14",
+    "trust_tier": "official",
+    "notes": "Transcribed from the complete official article inventory and verified against the live Riot page."
+  },
+  "verification": {
+    "status": "official_source_text_verified",
+    "verified_at": "2026-07-14",
+    "method": "complete_official_article_section_inventory",
+    "notes": "Checked against the official source article, its section inventory, and the canonical CRD/card corpus."
+  }
+}

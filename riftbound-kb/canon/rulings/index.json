@@ -1,8 +1,19 @@
 {
   "version": 1,
-  "generated_at": "2026-04-28T16:46:17.745Z",
-  "count": 34,
+  "generated_at": "2026-07-14T20:00:00.000Z",
+  "count": 65,
   "items": [
+    {
+      "ruling_id": "ruling.alpha-strike-repulse-target-relationships-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Alpha Strike target relationships after movement",
+      "card_name": "Alpha Strike",
+      "card_id": "unl-192-219",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.alpha-strike-repulse-target-relationships-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
     {
       "ruling_id": "ruling.arise-errata-2026-01-14",
       "kind": "errata",
@@ -13,6 +24,28 @@
       "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
       "path": "canon/rulings/records/ruling.arise-errata-2026-01-14.json",
       "verification_status": "live_webfetch_text_verified"
+    },
+    {
+      "ruling_id": "ruling.aspirants-climb-green-father-victory-score-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Aspirant's Climb, Green Father, and a tied Victory Score",
+      "card_name": null,
+      "card_id": null,
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.aspirants-climb-green-father-victory-score-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.atakhan-reksai-accelerate-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Atakhan, Rek'Sai, and Accelerate",
+      "card_name": "Atakhan",
+      "card_id": "unl-170-219",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.atakhan-reksai-accelerate-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
     },
     {
       "ruling_id": "ruling.ava-achiever-errata-2025-11-04",
@@ -37,6 +70,39 @@
       "verification_status": "live_webfetch_text_verified"
     },
     {
+      "ruling_id": "ruling.battlefield-ability-control-clarification-2026-04-29",
+      "kind": "rules_change",
+      "title": "Control of battlefield abilities",
+      "card_name": "Abandoned Hall",
+      "card_id": "unl-205-219",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.battlefield-ability-control-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.battlefield-control-cleanup-rules-change-2026-04-29",
+      "kind": "rules_change",
+      "title": "Empty battlefield control cleanup",
+      "card_name": null,
+      "card_id": null,
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.battlefield-control-cleanup-rules-change-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.battlefield-control-open-state-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Keeping empty battlefield control while the chain is pending",
+      "card_name": null,
+      "card_id": null,
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.battlefield-control-open-state-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
       "ruling_id": "ruling.blind-fury-errata-2025-11-04",
       "kind": "errata",
       "title": "Blind Fury (errata)",
@@ -59,6 +125,39 @@
       "verification_status": "live_webfetch_text_verified"
     },
     {
+      "ruling_id": "ruling.bone-skewer-errata-2026-04-03",
+      "kind": "errata",
+      "title": "Bone Skewer (errata)",
+      "card_name": "Bone Skewer",
+      "card_id": "unl-139-219",
+      "effective_date": "2026-04-03",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+      "path": "canon/rulings/records/ruling.bone-skewer-errata-2026-04-03.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.brush-swap-back-replacement-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Replacing Brush with Brush and swapping back",
+      "card_name": "Brush",
+      "card_id": "unl-t03",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.brush-swap-back-replacement-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.cleanup-during-finalization-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Cleanups do not occur during finalization",
+      "card_name": null,
+      "card_id": null,
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.cleanup-during-finalization-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
       "ruling_id": "ruling.clockwork-keeper-errata-2025-11-04",
       "kind": "errata",
       "title": "Clockwork Keeper (errata)",
@@ -68,6 +167,17 @@
       "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/",
       "path": "canon/rulings/records/ruling.clockwork-keeper-errata-2025-11-04.json",
       "verification_status": "live_webfetch_text_verified"
+    },
+    {
+      "ruling_id": "ruling.combat-no-result-recall-rules-change-2026-04-29",
+      "kind": "rules_change",
+      "title": "No Result after Combat Cleanup recalls",
+      "card_name": null,
+      "card_id": null,
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.combat-no-result-recall-rules-change-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
     },
     {
       "ruling_id": "ruling.convergent-mutation-errata-2025-11-04",
@@ -92,6 +202,17 @@
       "verification_status": "live_webfetch_text_verified"
     },
     {
+      "ruling_id": "ruling.death-from-below-errata-2026-04-03",
+      "kind": "errata",
+      "title": "Death from Below (errata)",
+      "card_name": "Death from Below",
+      "card_id": "unl-186-219",
+      "effective_date": "2026-04-03",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+      "path": "canon/rulings/records/ruling.death-from-below-errata-2026-04-03.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
       "ruling_id": "ruling.deathgrip-errata-2026-01-14",
       "kind": "errata",
       "title": "Deathgrip (errata)",
@@ -101,6 +222,17 @@
       "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
       "path": "canon/rulings/records/ruling.deathgrip-errata-2026-01-14.json",
       "verification_status": "live_webfetch_text_verified"
+    },
+    {
+      "ruling_id": "ruling.deceiver-errata-2026-04-03",
+      "kind": "errata",
+      "title": "LeBlanc, Deceiver (errata)",
+      "card_name": "Deceiver",
+      "card_id": "unl-199-219",
+      "effective_date": "2026-04-03",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+      "path": "canon/rulings/records/ruling.deceiver-errata-2026-04-03.json",
+      "verification_status": "official_source_text_verified"
     },
     {
       "ruling_id": "ruling.deflect-rule-735-1-c-rules-change-2026-01-14",
@@ -158,6 +290,28 @@
       "verification_status": "live_webfetch_text_verified"
     },
     {
+      "ruling_id": "ruling.elder-dragon-counter-strike-prevention-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Counter Strike preventing Elder Dragon damage",
+      "card_name": "Elder Dragon",
+      "card_id": "unl-118-219",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.elder-dragon-counter-strike-prevention-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.elder-dragon-flash-location-targeting-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Moving Elder Dragon's location-restricted targets",
+      "card_name": "Elder Dragon",
+      "card_id": "unl-118-219",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.elder-dragon-flash-location-targeting-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
       "ruling_id": "ruling.ezreal-prodigy-ruling-2026-01-14",
       "kind": "ruling",
       "title": "Ezreal, Prodigy (ruling)",
@@ -180,6 +334,17 @@
       "verification_status": "live_webfetch_text_verified"
     },
     {
+      "ruling_id": "ruling.guards-errata-2026-04-03",
+      "kind": "errata",
+      "title": "Guards! (errata)",
+      "card_name": "Guards!",
+      "card_id": "sfd-154-221",
+      "effective_date": "2026-04-03",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+      "path": "canon/rulings/records/ruling.guards-errata-2026-04-03.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
       "ruling_id": "ruling.hostile-takeover-ruling-2026-01-14",
       "kind": "ruling",
       "title": "Hostile Takeover (ruling)",
@@ -189,6 +354,17 @@
       "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
       "path": "canon/rulings/records/ruling.hostile-takeover-ruling-2026-01-14.json",
       "verification_status": "live_webfetch_summary_verified"
+    },
+    {
+      "ruling_id": "ruling.hot-fepr-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "HOT FEPR task and chain sequencing",
+      "card_name": null,
+      "card_id": null,
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.hot-fepr-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
     },
     {
       "ruling_id": "ruling.icathian-rain-errata-2026-01-14",
@@ -224,6 +400,17 @@
       "verification_status": "live_webfetch_text_verified"
     },
     {
+      "ruling_id": "ruling.jhin-countered-spell-energy-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Jhin after a spell is countered",
+      "card_name": "Jhin, Meticulous Killer",
+      "card_id": "unl-089-219",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.jhin-countered-spell-energy-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
       "ruling_id": "ruling.kato-the-arm-errata-2026-01-14",
       "kind": "errata",
       "title": "Kato the Arm (errata)",
@@ -233,6 +420,28 @@
       "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
       "path": "canon/rulings/records/ruling.kato-the-arm-errata-2026-01-14.json",
       "verification_status": "live_webfetch_text_verified"
+    },
+    {
+      "ruling_id": "ruling.keeper-of-masks-errata-2026-04-03",
+      "kind": "errata",
+      "title": "Keeper of Masks (errata)",
+      "card_name": "Keeper of Masks",
+      "card_id": "unl-081-219",
+      "effective_date": "2026-04-03",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+      "path": "canon/rulings/records/ruling.keeper-of-masks-errata-2026-04-03.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.lethal-damage-modification-clarification-2026-04-29",
+      "kind": "rules_change",
+      "title": "Lethal damage modification and Elder Dragon",
+      "card_name": "Elder Dragon",
+      "card_id": "unl-118-219",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.lethal-damage-modification-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
     },
     {
       "ruling_id": "ruling.might-reduction-ruling-2026-01-14",
@@ -246,6 +455,17 @@
       "verification_status": "live_webfetch_summary_verified"
     },
     {
+      "ruling_id": "ruling.mirror-image-errata-2026-04-03",
+      "kind": "errata",
+      "title": "Mirror Image (errata)",
+      "card_name": "Mirror Image",
+      "card_id": "unl-200-219",
+      "effective_date": "2026-04-03",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+      "path": "canon/rulings/records/ruling.mirror-image-errata-2026-04-03.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
       "ruling_id": "ruling.pickpocket-ruling-2026-01-14",
       "kind": "ruling",
       "title": "Pickpocket (ruling)",
@@ -255,6 +475,39 @@
       "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
       "path": "canon/rulings/records/ruling.pickpocket-ruling-2026-01-14.json",
       "verification_status": "live_webfetch_summary_verified"
+    },
+    {
+      "ruling_id": "ruling.play-meaning-legion-clarification-2026-04-29",
+      "kind": "rules_change",
+      "title": "Technical meanings of play and Legion",
+      "card_name": null,
+      "card_id": null,
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.play-meaning-legion-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.private-information-compulsory-actions-rules-change-2026-04-29",
+      "kind": "rules_change",
+      "title": "Mandatory actions involving private information",
+      "card_name": "Rift Herald",
+      "card_id": "unl-179-219",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.private-information-compulsory-actions-rules-change-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.reckoners-arena-yone-activate-conquer-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Reckoner's Arena activating Yone's conquer effect",
+      "card_name": "Yone, Blademaster",
+      "card_id": "sfd-116-221",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.reckoners-arena-yone-activate-conquer-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
     },
     {
       "ruling_id": "ruling.reinforce-errata-2026-01-14",
@@ -279,6 +532,17 @@
       "verification_status": "live_webfetch_text_verified"
     },
     {
+      "ruling_id": "ruling.relentless-pursuit-errata-2026-04-03",
+      "kind": "errata",
+      "title": "Relentless Pursuit (errata)",
+      "card_name": "Relentless Pursuit",
+      "card_id": "sfd-184-221",
+      "effective_date": "2026-04-03",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+      "path": "canon/rulings/records/ruling.relentless-pursuit-errata-2026-04-03.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
       "ruling_id": "ruling.rell-magnetic-errata-2026-01-14",
       "kind": "errata",
       "title": "Rell, Magnetic (errata)",
@@ -290,6 +554,17 @@
       "verification_status": "live_webfetch_text_verified"
     },
     {
+      "ruling_id": "ruling.rengar-trophy-hunter-errata-2026-04-03",
+      "kind": "errata",
+      "title": "Rengar, Trophy Hunter (errata)",
+      "card_name": "Rengar, Trophy Hunter",
+      "card_id": "unl-120-219",
+      "effective_date": "2026-04-03",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+      "path": "canon/rulings/records/ruling.rengar-trophy-hunter-errata-2026-04-03.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
       "ruling_id": "ruling.rumble-hotheaded-ruling-2026-01-14",
       "kind": "ruling",
       "title": "Rumble, Hotheaded (ruling)",
@@ -299,6 +574,39 @@
       "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
       "path": "canon/rulings/records/ruling.rumble-hotheaded-ruling-2026-01-14.json",
       "verification_status": "live_webfetch_summary_verified"
+    },
+    {
+      "ruling_id": "ruling.showdown-opening-rules-change-2026-04-29",
+      "kind": "rules_change",
+      "title": "Opening a non-combat Showdown",
+      "card_name": null,
+      "card_id": null,
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.showdown-opening-rules-change-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.showdown-staging-rules-change-2026-04-29",
+      "kind": "rules_change",
+      "title": "Showdown staging after Contested",
+      "card_name": null,
+      "card_id": null,
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.showdown-staging-rules-change-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.spinning-axe-granted-temporary-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Granted Temporary on attached Spinning Axe",
+      "card_name": "Spinning Axe",
+      "card_id": "sfd-186-221",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.spinning-axe-granted-temporary-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
     },
     {
       "ruling_id": "ruling.svellsongur-ruling-2026-01-14",
@@ -332,6 +640,28 @@
       "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/",
       "path": "canon/rulings/records/ruling.tianna-crownguard-errata-2026-01-14.json",
       "verification_status": "live_webfetch_text_verified"
+    },
+    {
+      "ruling_id": "ruling.triggered-ability-structure-clarification-2026-04-29",
+      "kind": "rules_change",
+      "title": "Triggered ability structure and timing",
+      "card_name": null,
+      "card_id": null,
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.triggered-ability-structure-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
+    },
+    {
+      "ruling_id": "ruling.turn-to-dust-attached-equipment-temporary-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Granted rules text on attached Equipment",
+      "card_name": "Turn to Dust",
+      "card_id": "unl-070-219",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.turn-to-dust-attached-equipment-temporary-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
     },
     {
       "ruling_id": "ruling.void-burrower-errata-2026-01-14",
@@ -376,6 +706,17 @@
       "source_url": "https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
       "path": "canon/rulings/records/ruling.yone-blademaster-errata-2026-01-14.json",
       "verification_status": "live_webfetch_text_verified"
+    },
+    {
+      "ruling_id": "ruling.zilean-deceiver-reflection-copy-clarification-2026-04-29",
+      "kind": "ruling",
+      "title": "Zilean and Deceiver Reflection copies",
+      "card_name": "Deceiver",
+      "card_id": "unl-199-219",
+      "effective_date": "2026-04-29",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+      "path": "canon/rulings/records/ruling.zilean-deceiver-reflection-copy-clarification-2026-04-29.json",
+      "verification_status": "official_source_text_verified"
     }
   ]
 }

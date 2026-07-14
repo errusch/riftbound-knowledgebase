@@ -33,8 +33,12 @@
     "notes": "No specific Standard Constructed ban found in official first-bans announcement as of 2026-03-30.",
     "verified_at": "2026-04-02"
   },
-  "errata_links": [],
-  "rulings_links": [],
+  "errata_links": [
+    "riftbound-kb://canon/rulings/records/ruling.deceiver-errata-2026-04-03.json"
+  ],
+  "rulings_links": [
+    "riftbound-kb://canon/rulings/records/ruling.zilean-deceiver-reflection-copy-clarification-2026-04-29.json"
+  ],
   "source": {
     "source_type": "official",
     "source_name": "Riftbound Official Card Gallery API",

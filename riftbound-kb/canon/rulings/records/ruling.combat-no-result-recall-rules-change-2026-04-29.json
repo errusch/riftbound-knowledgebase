@@ -1,0 +1,41 @@
+{
+  "ruling_id": "ruling.combat-no-result-recall-rules-change-2026-04-29",
+  "kind": "rules_change",
+  "title": "No Result after Combat Cleanup recalls",
+  "card_name": null,
+  "card_id": null,
+  "old_text": "There is No Result if either both Players have units present during this step, or neither player has units present during this step.",
+  "new_text": "There is No Result if units were recalled during the Combat Cleanup, if both Players have units present during this task, or if neither player has units present during this task.",
+  "explanation": "A recall during Combat Cleanup prevents the remaining side from incorrectly winning solely because the recalled side is absent when combat results are determined.",
+  "effective_date": "2026-04-29",
+  "source_doc": "Riftbound Unleashed Rules FAQ and Clarifications",
+  "affected_card_ids": [],
+  "affected_rule_ids": [
+    "461.3.d"
+  ],
+  "topics": [
+    "combat result",
+    "recall",
+    "Combat Cleanup",
+    "No Result"
+  ],
+  "precedence": "supersedes_crd_1_3_until_next_crd",
+  "effective_until": "next_core_rules_document",
+  "source_artifact_id": "official.unleashed-rules-faq-2026-04-29",
+  "source_sha256": "555a37682b52dad9221f877fce3ac73530cd2a6d8007645d8ec56fd617ae7776",
+  "source": {
+    "source_type": "official",
+    "source_name": "Riftbound Unleashed Rules FAQ and Clarifications",
+    "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-rules-faq-and-clarifications/",
+    "source_date": "2026-04-29",
+    "retrieved_at": "2026-07-14",
+    "trust_tier": "official",
+    "notes": "Transcribed from the complete official article inventory and verified against the live Riot page."
+  },
+  "verification": {
+    "status": "official_source_text_verified",
+    "verified_at": "2026-07-14",
+    "method": "complete_official_article_section_inventory",
+    "notes": "Checked against the official source article, its section inventory, and the canonical CRD/card corpus."
+  }
+}
